@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Gaming Emporium</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    .section {
+      background: #fff;
+      margin: 1rem auto;
+      max-width: 800px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      overflow: hidden;
+    }
+
+    summary {
+      background: #3498db;
+      color: white;
+      padding: 1rem;
+      cursor: pointer;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+
+    details[open] summary {
+      border-bottom: 1px solid #ccc;
+    }
+
+    .content {
+      padding: 1rem;
+    }
+
+    .game-entry {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .game-entry:last-child {
+      border-bottom: none;
+    }
+
+    .tag {
+      font-size: 0.85rem;
+      background-color: #eee;
+      color: #333;
+      border-radius: 4px;
+      padding: 2px 6px;
+      margin-left: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>The Gaming Emporium</h1>
+
+  <div class="section">
+    <details>
+      <summary>🖥️ PC Ports</summary>
+      <div class="content">
+        <div class="game-entry">• Super Mario 64 PC Port <span class="tag">Windows</span></div>
+        <div class="game-entry">• Zelda: Ocarina of Time PC <span class="tag">Open Source</span></div>
+      </div>
+    </details>
+  </div>
+
+  <div class="section">
+    <details>
+      <summary>🎮 Fan Games</summary>
+      <div class="content">
+        <div class="game-entry">• Sonic Utopia <span class="tag">Platformer</span></div>
+        <div class="game-entry">• AM2R (Another Metroid 2 Remake) <span class="tag">Metroidvania</span></div>
+      </div>
+    </details>
+  </div>
+
+  <div class="section">
+    <details>
+      <summary>🔧 Mods & ROM Hacks</summary>
+      <div class="content">
+        <div class="game-entry">• Mario Kart Wii CTGP Revolution <span class="tag">Wii</span></div>
+        <div class="game-entry">• Pokémon Crystal Clear <span class="tag">Game Boy Color</span></div>
+      </div>
+    </details>
+  </div>
+
+  <div class="section">
+    <details>
+      <summary>🎨 Texture Packs</summary>
+      <div class="content">
+        <div class="game-entry">• Zelda: OOT HD Pack for Project64 <span class="tag">N64</span></div>
+        <div class="game-entry">• SM64HD for Render96 <span class="tag">PC</span></div>
+      </div>
+    </details>
+  </div>
+
+</body>
+</html>
