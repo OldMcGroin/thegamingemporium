@@ -781,7 +781,7 @@
   },
   {
     "id": 61,
-    "title": "Doom rpg",
+    "title": "Doom RPG",
     "category": "console-to-pc-port",
     "link": "https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering-update-version-022-source-code-release/",
     "genre1": "rpg",
@@ -794,7 +794,7 @@
   },
   {
     "id": 62,
-    "title": "Doom 2 rpg",
+    "title": "Doom 2 RPG",
     "category": "console-to-pc-port",
     "link": "https://www.doomworld.com/forum/topic/135602-doom-ii-rpg-port-reverse-engineering-version-01-source-code-release/",
     "genre1": "rpg",
@@ -1575,7 +1575,7 @@
   {
     "id": 122,
     "title": "UFO: Alien Invasion",
-    "category": "fan-games",
+    "category": "open-source",
     "link": "https://sourceforge.net/projects/ufoai/",
     "genre1": "strategy",
     "genre2": "resource-management",
