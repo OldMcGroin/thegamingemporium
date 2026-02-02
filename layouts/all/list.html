@@ -1,0 +1,43 @@
+{{ define "main" }}
+<h1 class="page-title">All</h1>
+
+
+{{ $games := where site.Data.games "category" "ne" "guides" }}
+
+<div class="game-controls" data-game-grid>
+  <div class="controls">
+    <div class="control">
+      <label>Sort</label>
+      
+    
+      <select data-sort>
+        <option value="az">Title (A to Z)</option>
+        <option value="za">Title (Z to A)</option>
+      </select>
+</div>
+    <div class="control">
+      <label>Genre</label>
+      <select data-genre>
+        <option value="All">All</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="game-grid">
+    {{ range $games }}
+      {{ partial "game-card.html" (dict "game" . "ctx" $) }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{/* Preload first few visible game images to make the initial grid feel instant */}}
+{{ define "preloads" }}
+  {{ $games := where site.Data.games "category" "ne" "guides" }}
+  {{ range first 6 $games }}
+    {{ $img := partial "resolve-game-image.html" . }}
+    {{ if ne $img "/Images/placeholder.jpg" }}
+      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
+    {{ end }}
+  {{ end }}
+{{ end }}

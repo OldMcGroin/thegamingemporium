@@ -1,0 +1,37 @@
+{{ define "preloads" }}{{ end }}
+
+{{ define "main" }}
+<h1 class="page-title">Categories</h1>
+<p class="page-subtitle"></p>
+
+{{/* Build a unique, sorted list of categories. */}}
+{{ $cats := slice }}
+{{ range site.Data.games }}
+  {{ with .category }}
+    {{/* Backwards-compat: old slug was "source-port"; new slug is "open-source" */}}
+    {{ $c := . }}
+    {{ if eq $c "source-port" }}{{ $c = "open-source" }}{{ end }}
+    {{/* Hide removed categories from the Categories grid */}}
+    {{ if ne $c "native-pc-port" }}
+      {{ $cats = $cats | append $c }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $cats = $cats | append "decompilations-recompilations" }}
+{{ $cats = sort (uniq $cats) }}
+
+<div class="category-grid">
+
+  {{ range $cats }}
+    {{ $slug := . }}
+    {{ if eq $slug "utility" }}{{ $slug = "utilities" }}{{ end }}
+    {{ $cls := $slug | urlize }}
+    {{ $disp := partial "format-category.html" $slug }}
+    {{/* IMPORTANT: pass the slug to printf; otherwise Hugo renders %!s(MISSING) and the URL 404s. */}}
+    <a class="category-card category-{{ $cls }}" href="{{ (printf "/categories/%s/" $cls) | relURL }}">
+      <span class="category-title">{{ $disp }}</span>
+    </a>
+  {{ end }}
+</div>
+{{ end }}

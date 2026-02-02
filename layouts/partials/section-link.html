@@ -1,0 +1,7 @@
+{{- $name := . -}}
+{{- $p := site.GetPage "section" $name -}}
+{{- if $p -}}
+{{- $p.RelPermalink -}}
+{{- else -}}
+{{- (printf "/%s/" $name) | relURL -}}
+{{- end -}}

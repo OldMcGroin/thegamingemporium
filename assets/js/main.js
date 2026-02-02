@@ -1,0 +1,268 @@
+(function(){
+  function uniqSorted(arr){
+    return Array.from(new Set(arr)).sort(function(a,b){ return a.localeCompare(b); });
+  }
+
+  function initCarousel(){
+    var car = document.querySelector('[data-carousel]');
+    if(!car) return;
+    var viewport = car.querySelector('.carousel__track');
+    var slidesEl = car.querySelector('.carousel__slides');
+    if(!viewport || !slidesEl) return;
+    var slides = Array.from(slidesEl.querySelectorAll('.carousel__slide'));
+    var idx = 0;
+
+    function go(i){
+      idx = (i + slides.length) % slides.length;
+      // Use pixel-based offsets so mobile "peek" (non-100% slides) still aligns correctly
+      var slideW = slides[0] ? slides[0].getBoundingClientRect().width : viewport.getBoundingClientRect().width;
+      // read gap from computed style (default 0)
+      var gap = 0;
+      try {
+        var cs = window.getComputedStyle(slidesEl);
+        gap = parseFloat(cs.columnGap || cs.gap || "0") || 0;
+      } catch(e){ gap = 0; }
+      var step = slideW + gap;
+      slidesEl.style.transform = 'translateX(' + (-idx * step) + 'px)';
+      slides.forEach(function(s,k){ s.setAttribute('aria-hidden', k===idx ? 'false' : 'true'); });
+    }
+
+    var prev = car.querySelector('[data-carousel-prev]');
+    var next = car.querySelector('[data-carousel-next]');
+    if(prev) prev.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); go(idx-1); });
+    if(next) next.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); go(idx+1); });
+
+    window.addEventListener('resize', function(){ go(idx); });
+
+    // keyboard
+    document.addEventListener('keydown', function(e){
+      if(e.key === 'ArrowLeft') go(idx-1);
+      if(e.key === 'ArrowRight') go(idx+1);
+    });
+
+    // touch / pointer swipe (mobile-friendly)
+    var startX = 0, startY = 0, dragging = false, hasMoved = false;
+    var pointerId = null;
+
+    function onStart(clientX, clientY, pid){
+      startX = clientX; startY = clientY;
+      dragging = true; hasMoved = false; pointerId = pid || null;
+      // disable transition during drag if CSS uses it
+      slidesEl.classList.add('is-dragging');
+    }
+
+    function onMove(clientX, clientY){
+      if(!dragging) return;
+      var dx = clientX - startX;
+      var dy = clientY - startY;
+      if(!hasMoved){
+        // if mostly vertical, abort so page can scroll
+        if(Math.abs(dy) > Math.abs(dx) && Math.abs(dy) > 8){
+          dragging = false;
+          slidesEl.classList.remove('is-dragging');
+          return;
+        }
+        if(Math.abs(dx) > 6) hasMoved = true;
+      }
+      if(!hasMoved) return;
+      // translate based on drag (px) so it works with peek layout
+      var slideW = slides[0] ? slides[0].getBoundingClientRect().width : (viewport.getBoundingClientRect().width || 1);
+      var gap = 0;
+      try { var cs = window.getComputedStyle(slidesEl); gap = parseFloat(cs.columnGap || cs.gap || '0') || 0; } catch(e){ gap = 0; }
+      var step = slideW + gap;
+      slidesEl.style.transform = 'translateX(' + ((-idx * step) + dx) + 'px)';
+    }
+
+    function onEnd(clientX, clientY){
+      if(!dragging){ return; }
+      var dx = clientX - startX;
+      var w = viewport.getBoundingClientRect().width || 1;
+      slidesEl.classList.remove('is-dragging');
+      dragging = false;
+      // decide slide change
+      if(Math.abs(dx) > Math.max(40, w*0.12)){
+        if(dx < 0) go(idx+1); else go(idx-1);
+      } else {
+        go(idx);
+      }
+    }
+
+    // Pointer events (modern browsers)
+    if(window.PointerEvent){
+      viewport.addEventListener('pointerdown', function(e){
+        if(e.pointerType === 'mouse') return; // keep mouse behavior as buttons/keys
+        viewport.setPointerCapture && viewport.setPointerCapture(e.pointerId);
+        onStart(e.clientX, e.clientY, e.pointerId);
+      }, {passive:true});
+
+      viewport.addEventListener('pointermove', function(e){
+        if(pointerId !== null && e.pointerId !== pointerId) return;
+        onMove(e.clientX, e.clientY);
+      }, {passive:true});
+
+      viewport.addEventListener('pointerup', function(e){
+        if(pointerId !== null && e.pointerId !== pointerId) return;
+        onEnd(e.clientX, e.clientY);
+        pointerId = null;
+      }, {passive:true});
+
+      viewport.addEventListener('pointercancel', function(){
+        slidesEl.classList.remove('is-dragging');
+        dragging = false; pointerId = null; go(idx);
+      }, {passive:true});
+    } else {
+      // Touch fallback
+      viewport.addEventListener('touchstart', function(e){
+        if(!e.touches || !e.touches.length) return;
+        var t = e.touches[0];
+        onStart(t.clientX, t.clientY);
+      }, {passive:true});
+
+      viewport.addEventListener('touchmove', function(e){
+        if(!e.touches || !e.touches.length) return;
+        var t = e.touches[0];
+        onMove(t.clientX, t.clientY);
+      }, {passive:true});
+
+      viewport.addEventListener('touchend', function(e){
+        var t = (e.changedTouches && e.changedTouches[0]) ? e.changedTouches[0] : null;
+        onEnd(t ? t.clientX : startX, t ? t.clientY : startY);
+      }, {passive:true});
+    }
+
+
+    go(0);
+  }
+
+  
+  function __getCardWeight(card){
+    var w = card && card.getAttribute ? card.getAttribute('data-weight') : null;
+    var n = parseFloat(w);
+    return isNaN(n) ? 0 : n;
+  }
+function initGameGrids(){
+    document.querySelectorAll('[data-game-grid]')
+      .forEach(function(wrapper){
+        var grid = wrapper.querySelector('.game-grid');
+        if(!grid) return;
+        var cards = Array.from(grid.querySelectorAll('.game-card'));
+
+        // Support legacy attr `data-genre-filter` and current `data-genre`
+        var genreSelect = wrapper.querySelector('select[data-genre], select[data-genre-filter]');
+        var sortSelect  = wrapper.querySelector('select[data-sort]');
+
+        // Populate genres from cards
+        if(genreSelect){
+          var genres = [];
+          cards.forEach(function(card){
+            var g = (card.getAttribute('data-genres')||"").split('|').map(function(x){ return x.trim(); }).filter(Boolean);
+            genres = genres.concat(g);
+          });
+          genres = uniqSorted(genres);
+
+          // keep first option (All)
+          genreSelect.innerHTML = '';
+          var optAll = document.createElement('option');
+          optAll.value = '';
+          optAll.textContent = 'All';
+          genreSelect.appendChild(optAll);
+          genres.forEach(function(g){
+            var opt = document.createElement('option');
+            opt.value = g;
+            opt.textContent = g;
+            genreSelect.appendChild(opt);
+          });
+        }
+
+        function applyFilter(){
+          var selectedGenre = genreSelect ? genreSelect.value : '';
+          cards.forEach(function(card){
+            var g = (card.getAttribute('data-genres')||"");
+            var show = !selectedGenre || g.split('|').map(function(x){return x.trim();}).indexOf(selectedGenre) !== -1;
+            card.style.display = show ? '' : 'none';
+          });
+        }
+
+        function applySort(){
+          if(!sortSelect) return;
+          var mode = sortSelect.value || 'az';
+          var visibleCards = cards.slice();
+          visibleCards.sort(function(a,b){
+            var wa = __getCardWeight(a);
+            var wb = __getCardWeight(b);
+            if(wa !== wb) return wa - wb;
+
+            var ta = (a.getAttribute('data-title')||'').toLowerCase();
+            var tb = (b.getAttribute('data-title')||'').toLowerCase();
+            var cmp = ta.localeCompare(tb);
+            return mode === 'za' ? -cmp : cmp;
+          });
+          visibleCards.forEach(function(c){ grid.appendChild(c); });
+        }
+
+        if(genreSelect){ genreSelect.addEventListener('change', function(){ applyFilter(); }); }
+        if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
+
+        // initial
+        applyFilter();
+        applySort();
+      });
+  }
+
+  function initSeriesGrids(){
+    document.querySelectorAll('[data-series-grid]')
+      .forEach(function(wrapper){
+        var grid = wrapper.querySelector('.series-grid');
+        if(!grid) return;
+        var cards = Array.from(grid.querySelectorAll('.series-card'));
+        var sortSelect = wrapper.querySelector('select[data-sort]');
+        if(!sortSelect) return;
+
+        function applySort(){
+          var mode = sortSelect.value || 'az';
+          var sorted = cards.slice().sort(function(a,b){
+            var ta = (a.getAttribute('data-title')||'').toLowerCase();
+            var tb = (b.getAttribute('data-title')||'').toLowerCase();
+            var cmp = ta.localeCompare(tb);
+            return mode === 'za' ? -cmp : cmp;
+          });
+          sorted.forEach(function(c){ grid.appendChild(c); });
+        }
+
+        sortSelect.addEventListener('change', applySort);
+        applySort();
+      });
+  }
+
+  function initGenreGrids(){
+    document.querySelectorAll('[data-genre-grid]')
+      .forEach(function(wrapper){
+        var grid = wrapper.querySelector('.genre-grid');
+        if(!grid) return;
+        var cards = Array.from(grid.querySelectorAll('.genre-card'));
+        var sortSelect = wrapper.querySelector('select[data-sort]');
+        if(!sortSelect) return;
+
+        function applySort(){
+          var mode = sortSelect.value || 'az';
+          var sorted = cards.slice().sort(function(a,b){
+            var ta = (a.getAttribute('data-title')||'').toLowerCase();
+            var tb = (b.getAttribute('data-title')||'').toLowerCase();
+            var cmp = ta.localeCompare(tb);
+            return mode === 'za' ? -cmp : cmp;
+          });
+          sorted.forEach(function(c){ grid.appendChild(c); });
+        }
+
+        sortSelect.addEventListener('change', applySort);
+        applySort();
+      });
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    initCarousel();
+    initGameGrids();
+    initSeriesGrids();
+    initGenreGrids();
+  });
+})();

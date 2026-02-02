@@ -1,0 +1,42 @@
+{{ $base := .base }}
+{{ $title := .title }}
+{{ $href := .href }}
+{{ $alt := .alt }}
+{{ $aliases := .aliases | default (slice) }}
+{{ $exts := slice "webp" "jpg" "png" }}
+
+{{ $list := slice }}
+{{ range $i := seq 1 20 }}
+  {{ range $b := (append (slice $base) $aliases) }}
+    {{ range $e := $exts }}
+      {{ $rel := printf "Images/Home/%s-%d.%s" $b $i $e }}
+      {{ if fileExists (printf "static/%s" $rel) }}
+        {{ $list = $list | append (printf "/%s" $rel) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $img := "/Images/placeholder.jpg" }}
+{{ if gt (len $list) 0 }}
+  {{ $img = index $list 0 }}
+{{ else }}
+  {{ range $b := (append (slice $base) $aliases) }}
+    {{ range $e := $exts }}
+      {{ if eq $img "/Images/placeholder.jpg" }}
+        {{ $rel := printf "Images/Home/%s.%s" $b $e }}
+        {{ if fileExists (printf "static/%s" $rel) }}
+          {{ $img = printf "/%s" $rel }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<a class="home-card home-card--large" href="{{ $href }}">
+  <img class="home-card__img home-random" src="{{ $img | relURL }}" alt="{{ $alt }}" loading="eager" decoding="async"{{ if gt (len $list) 0 }} data-random-srcs='{{ $list | jsonify | safeHTMLAttr }}'{{ end }} />
+  <div class="home-card__overlay">
+    <div class="home-card__title">{{ $title }}</div>
+    <div class="home-card__desc"></div>
+  </div>
+</a>

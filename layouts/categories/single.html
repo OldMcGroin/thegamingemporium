@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ $slug := .Params.slug }}
+{{ $title := partial "format-category.html" $slug }}
+<h1 class="page-title">{{ $title }}</h1>
+
+
+{{/*
+  IMPORTANT:
+  `site.Data.games` (from data/games.json) is a slice of maps.
+  Hugo's `union` performs set operations and requires comparable elements.
+  Maps are NOT comparable, so `union` will crash with: `hash of unhashable type: map[string]interface {}`.
+
+  For the Utilities category we want backwards-compat with older entries that used
+  `category: "utility"` (singular). We do that using `where ... "in" ...` instead.
+*/}}
+{{ $games := where site.Data.games "category" $slug }}
+{{ if eq $slug "utilities" }}
+  {{ $games = where site.Data.games "category" "in" (slice "utilities" "utility") }}
+{{ end }}
+{{ if eq $slug "open-source" }}
+  {{/* Backwards-compat: old slug was "source-port" */}}
+  {{ $games = where site.Data.games "category" "in" (slice "open-source" "source-port") }}
+{{ end }}
+
+
+<div class="game-controls" data-game-grid>
+  <div class="controls">
+    <div class="control">
+      <label>Sort</label>
+      <select data-sort>
+        <option value="az">Title (A to Z)</option>
+        <option value="za">Title (Z to A)</option>
+      </select>
+      </div>
+    <div class="control">
+      <label>Genre</label>
+      <select data-genre>
+        <option value="All">All</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="game-grid">
+    {{ if gt (len $games) 0 }}
+      {{ range $games }}
+        {{ partial "game-card.html" (dict "game" . "ctx" $) }}
+      {{ end }}
+    {{ else }}
+      <div class="empty-state" style="max-width: 750px; opacity: .9;">
+        <p><strong>No games found in this section yet.</strong></p>
+          <p>This category currently has no games in <code>data/games.json</code>.</p>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "preloads" }}
+  {{ $slug := .Params.slug }}
+  {{ $games := where site.Data.games "category" $slug }}
+  {{ if eq $slug "utilities" }}
+    {{ $games = where site.Data.games "category" "in" (slice "utilities" "utility") }}
+  {{ end }}
+  {{ if eq $slug "open-source" }}
+    {{ $games = where site.Data.games "category" "in" (slice "open-source" "source-port") }}
+  {{ end }}
+  {{ range first 6 $games }}
+    {{ $img := partial "resolve-game-image.html" . }}
+    {{ if ne $img "/Images/placeholder.jpg" }}
+      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
+    {{ end }}
+  {{ end }}
+{{ end }}

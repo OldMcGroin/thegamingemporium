@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  {{ $css := resources.Get "css/main.css" | minify }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+
+  {{/* Preload the large background image to reduce perceived load time */}}
+  <link rel="preload" as="image" href="{{ "/Images/Background/background.jpg" | relURL }}" fetchpriority="high" />
+
+  {{/* Page-specific preloads for above-the-fold card images */}}
+  {{ block "preloads" . }}{{ end }}
+</head>
+<body>
+<div class="site-bg">
+    <div class="site-bg__image" style="background-image:url('{{ "/Images/Background/background.jpg" | relURL }}')"></div>
+    <header class="topbar">
+      <div class="container topbar__inner">
+        <div class="brand">
+          <a class="brand__link" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+        </div>
+
+        <div class="topbar__search">
+          <input id="siteSearchInput" class="search-input" type="search" placeholder="Search games..." aria-label="Search games" autocomplete="off">
+          <div id="siteSearchDropdown" class="search-dropdown" aria-label="Search results" role="listbox"></div>
+        </div>
+
+        <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false" data-nav-toggle>
+    <svg class="nav-toggle__icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  </svg>
+</button>
+<nav class="nav" data-nav>
+
+          {{ if not .IsHome }}
+            <a class="nav__link" href="{{ site.Home.RelPermalink }}">Home</a>
+          {{ end }}
+          <a class="nav__link" href="{{ partial "section-link.html" "categories" }}">Categories</a>
+          <a class="nav__link" href="{{ partial "section-link.html" "recent" }}">Recent Additions</a>
+          <a class="nav__link" href="{{ partial "section-link.html" "series" }}">Browse By Series</a>
+          <a class="nav__link" href="{{ partial "section-link.html" "genres" }}">Browse By Genre</a>
+          <a class="nav__link" href="{{ partial "section-link.html" "all" }}">All</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container main">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="footer">
+      <div class="container footer__inner">
+        <span>{{ now.Format "2006" }} · {{ site.Title }}</span>
+        <span class="footer__tagline">A centralised location for videogame related links. All credit goes to those on the end of each link.</span>
+      </div>
+    </footer>
+  </div>
+
+  {{ $js := resources.Get "js/main.js" | minify }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+  {{/* Randomize home card images every page load (uses data-random-srcs) */}}
+  <script src="{{ "/js/home-random.js" | relURL }}" defer></script>
+  {{ partial "search-data.html" . }}
+<script src="{{ "/js/video-pill.js" | relURL }}"></script>
+
+  {{/* Lazy-load game card images (works with 1,400+ items) */}}
+  <script src="{{ "/js/lazy-images.js" | relURL }}" defer></script>
+
+  {{/* Dev-only helper: copy the required image filename for any game card */}}
+  {{ if hugo.IsServer }}
+    <script src="{{ "/js/copy-filename.js" | relURL }}" defer></script>
+  {{ end }}
+{{ partial "cloudflare-analytics.html" . }}
+
+<!-- Mastodon verification -->
+<div class="mastodon-verification" style="display:none">
+  <a rel="me" href="https://mastodon.social/@OldMcGroin">Mastodon</a>
+  <a rel="me" href="https://retro-gaiden.com/@OldMcGroin">Mastodon</a>
+</div>
+
+</body>
+</html>

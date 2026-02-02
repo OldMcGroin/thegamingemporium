@@ -1,0 +1,43 @@
+{{ define "main" }}
+<h1 class="page-title">Recent Additions</h1>
+<p class="page-subtitle"></p>
+
+{{/* 
+  Sort by date_added DESC, and when multiple games share the same day,
+  sort by their position in games.json (later entries first).
+  This lets "newer entries added the same day" float to the top.
+*/}}
+{{ $enriched := slice }}
+{{ range $i, $g := site.Data.games }}
+  {{ if and (isset $g "date_added") (ne $g.date_added "") }}
+    {{ $k := printf "%s-%09d" $g.date_added $i }}
+    {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
+  {{ end }}
+{{ end }}
+{{ $sorted := sort $enriched "k" "desc" }}
+
+<div class="game-controls" data-game-grid>
+  <div class="game-grid">
+    {{ range $sorted }}
+      {{ partial "game-card.html" (dict "game" .g "ctx" $) }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "preloads" }}
+  {{ $enriched := slice }}
+  {{ range $i, $g := site.Data.games }}
+    {{ if and (isset $g "date_added") (ne $g.date_added "") }}
+      {{ $k := printf "%s-%09d" $g.date_added $i }}
+      {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
+    {{ end }}
+  {{ end }}
+  {{ $sorted := sort $enriched "k" "desc" }}
+  {{ range first 6 $sorted }}
+    {{ $img := partial "resolve-game-image.html" .g }}
+    {{ if ne $img "/Images/placeholder.jpg" }}
+      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
+    {{ end }}
+  {{ end }}
+{{ end }}

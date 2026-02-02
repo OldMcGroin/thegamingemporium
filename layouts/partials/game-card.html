@@ -1,0 +1,78 @@
+{{- $g := .game -}}
+
+{{/*
+Derive a consistent, copyable image filename from the title.
+
+We support multiple image extensions automatically:
+  1) .webp
+  2) .jpg
+  3) .jpeg
+  4) .png
+
+The helper button copies the *exact* filename Hugo is currently using when an image exists.
+If no image exists yet, it defaults to <slug>.jpg (you can still use .webp, .jpeg, or .png).
+*/}}
+{{- $slug := urlize $g.title -}}
+{{- $imgFilename := printf "%s.jpg" $slug -}}
+
+{{/*
+Image strategy (scales to thousands of items):
+1) If caller provides .img, use it.
+2) Else derive a slug from title and look for:
+     /static/Images/Games/<slug>.webp
+     /static/Images/Games/<slug>.jpg
+     /static/Images/Games/<slug>.png
+   If any exists, use it (in that order).
+3) Else fall back to a single placeholder image.
+*/}}
+
+{{- $title := ($g.title | title) -}}
+{{- $catDisp := partial "format-category.html" $g.category -}}
+{{- $genres := slice -}}
+{{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
+{{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
+{{- $genreDisp := delimit $genres ", " -}}
+<div class="game-card" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}">
+  {{/* Only show the helper button while running `hugo server` (local dev) */}}
+  {{- if and (isset . "ctx") hugo.IsServer -}}
+    {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
+    <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy image slug">Copy filename</button>
+  {{- end -}}
+  <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener">
+    <div class="game-card__image">
+      <img class="game-card__img"
+           src="/Images/Games/{{ $slug }}.webp"
+           alt="{{ $title }}"
+           loading="lazy"
+           decoding="async"
+           onload="this.parentElement.classList.remove('is-missing');"
+           onerror="this.onerror=null; this.src='/Images/Games/{{ $slug }}.jpg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.jpeg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.png'; this.onerror=function(){ this.parentElement.classList.add('is-missing'); this.src='/Images/placeholder.jpg'; this.onerror=null; }; }; };" />
+      <div class="game-card__imageFallback">Add image</div>
+    </div>
+    <div class="game-card__body">
+      <h3 class="game-card__title">{{ $title }}</h3>
+
+      <div class="game-card__meta">
+        <span class="pill">{{ $catDisp }}</span>
+        {{/* Extra, more visible badge for the Utilities category */}}
+        {{ if eq $g.category "utilities" }}<span class="pill pill--utilities">🛠 UTILITIES</span>{{ end }}
+        {{ if $genreDisp }}<span class="pill pill--muted">{{ $genreDisp }}</span>{{ end }}
+        {{ if $g.video_link }}<span class="pill pill--video" data-video="{{ $g.video_link }}">▶ VIDEO</span>{{ end }}
+      </div>
+
+{{/* Show "Added 23rd March 2026" on the Recent Additions page */}}
+{{ if and (isset . "ctx") (eq .ctx.Page.Section "recent") $g.date_added }}
+  {{/* Accept either yyyy/mm/dd or yyyy-mm-dd (your current data uses yyyy-mm-dd) */}}
+  {{ $raw := $g.date_added | strings.TrimSpace }}
+  {{ $iso := replace $raw "/" "-" }}
+  {{ $added := time (printf "%sT00:00:00Z" $iso) }}
+  {{ $day := $added.Day }}
+  {{ $suffix := "th" }}
+  {{ if or (eq $day 1) (eq $day 21) (eq $day 31) }}{{ $suffix = "st" }}{{ end }}
+  {{ if or (eq $day 2) (eq $day 22) }}{{ $suffix = "nd" }}{{ end }}
+  {{ if or (eq $day 3) (eq $day 23) }}{{ $suffix = "rd" }}{{ end }}
+  <div class="game-card__date">Added {{ $day }}{{ $suffix }} {{ $added.Format "January 2006" }}</div>
+{{ end }}
+    </div>
+  </a>
+</div>

@@ -1,0 +1,27 @@
+{{/*
+Resolve the best available static image path for a game.
+
+Priority:
+  1) /Images/Games/<slug>.webp
+  2) /Images/Games/<slug>.jpg
+  3) /Images/Games/<slug>.png
+Fallback:
+  /Images/placeholder.jpg
+
+Usage:
+  {{ $img := partial "resolve-game-image.html" . }}
+*/}}
+
+{{- $g := . -}}
+{{- $slug := urlize $g.title -}}
+{{- $img := "/Images/placeholder.jpg" -}}
+{{- $exts := slice "webp" "jpg" "png" -}}
+{{- range $ext := $exts -}}
+  {{- if eq $img "/Images/placeholder.jpg" -}}
+    {{- $rel := printf "/Images/Games/%s.%s" $slug $ext -}}
+    {{- if fileExists (printf "static%s" $rel) -}}
+      {{- $img = $rel -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $img -}}

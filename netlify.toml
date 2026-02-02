@@ -1,0 +1,3 @@
+[build]
+  command = "python3 tools/generate_series_pages.py && hugo"
+  publish = "public"

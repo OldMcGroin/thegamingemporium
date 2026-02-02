@@ -1,0 +1,18 @@
+{{- $slug := . -}}
+{{- $overrides := dict
+  "console-to-pc-port" "Console To PC Ports"
+  "console-ports" "Console To Console Ports"
+  "in-the-works" "In The Works"
+  "decompilations-recompilations" "Decompilations & Recompilations"
+  "open-source" "Open Source"
+  "source-port" "Open Source"
+  "fan-games" "Fan Games & Homebrew"
+  "utilities" "Utilities"
+  "utility" "Utilities"
+-}}
+{{- with (index $overrides $slug) -}}
+  {{- . -}}
+{{- else -}}
+  {{- $c := replace $slug "-" " " -}}
+  {{- $c | title | replaceRE "\\bPc\\b" "PC" -}}
+{{- end -}}

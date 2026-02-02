@@ -1,0 +1,175 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="home-disclaimer">
+    Some items may require you to provide your own ROMs. For these items, please see guides on how to dump your own ROMs
+    <a href="https://dumping.guide/start" target="_blank" rel="noopener">HERE</a>.
+  </div>
+
+  {{/* Helper to gather numbered images for a home card */}}
+  {{/* Usage: pass base (string), and returns slice of URLs */}}
+
+  <div class="carousel" data-carousel>
+    {{ if hugo.IsServer }}
+      <button class="home-shuffle-btn" id="home-shuffle-btn" type="button" title="Shuffle home images" aria-label="Shuffle home images">Shuffle</button>
+      <span class="home-shuffle-status" id="home-shuffle-status" aria-hidden="true"></span>
+      <script>
+        (function(){
+          var btn = document.getElementById('home-shuffle-btn');
+          if (!btn) return;
+          var status = document.getElementById('home-shuffle-status');
+          function doShuffle(){
+            if (window.shuffleHomeImages) {
+              var changed = 0;
+              try { changed = window.shuffleHomeImages() || 0; } catch(e){ changed = 0; }
+              if (status) {
+                status.textContent = changed > 0 ? ('Shuffled (' + changed + ')') : 'No home images found to shuffle';
+                setTimeout(function(){ status.textContent = ''; }, changed > 0 ? 1200 : 2000);
+              }
+            } else {
+              if (status) status.textContent = 'Shuffle script not loaded';
+              if (status) setTimeout(function(){ status.textContent = ''; }, 2000);
+            }
+          }
+          btn.addEventListener('click', doShuffle);
+        })();
+      </script>
+    
+{{ end }}
+    <button class="carousel-btn carousel-btn--left" data-carousel-prev type="button" aria-label="Previous">‹</button>
+    <div class="carousel__track">
+      <div class="carousel__slides">
+
+        {{/* Slide: Recent Additions */}}
+        <div class="carousel__slide">
+          {{ $base := "recent-additions" }}
+          
+{{ $urls := partial "home-image-urls.html" (dict "folder" "Images/Home" "base" $base) }}
+{{ $urlsMobile := partial "home-image-urls.html" (dict "folder" "Images/HomeMobile" "base" $base) }}
+          <a class="home-card home-card--large" href="{{ partial "section-link.html" "recent" }}">
+            {{ if gt (len $urls) 0 }}
+              <img class="home-card__img home-random home-img--desktop" src="{{ index $urls 0 | relURL }}" data-random-srcs='{{ $urls | jsonify | safeHTMLAttr }}' alt="Recent Additions" loading="eager" decoding="async" />
+            <img class="home-card__img home-random home-img--mobile" src="{{ if gt (len $urlsMobile) 0 }}{{ index $urlsMobile 0 | relURL }}{{ else }}{{ if gt (len $urls) 0 }}{{ index $urls 0 | relURL }}{{ else }}{{ "/Images/placeholder.jpg" | relURL }}{{ end }}{{ end }}" data-random-srcs='{{ if gt (len $urlsMobile) 0 }}{{ $urlsMobile | jsonify | safeHTMLAttr }}{{ else }}{{ $urls | jsonify | safeHTMLAttr }}{{ end }}' alt="Recent Additions" loading="eager" decoding="async" />
+            {{ else }}
+              <img class="home-card__img" src="{{ "/Images/placeholder.jpg" | relURL }}" alt="Recent Additions" loading="eager" decoding="async" />
+            {{ end }}
+            <div class="home-card__overlay">
+              <div class="home-card__title">Recent Additions</div>
+              <div class="home-card__desc"></div>
+            </div>
+          </a>
+        </div>
+
+        {{/* Slide: Categories */}}
+        <div class="carousel__slide">
+          {{ $base := "categories" }}
+          
+{{ $urls := partial "home-image-urls.html" (dict "folder" "Images/Home" "base" $base) }}
+{{ $urlsMobile := partial "home-image-urls.html" (dict "folder" "Images/HomeMobile" "base" $base) }}
+          <a class="home-card home-card--large" href="{{ "/categories/" | relURL }}">
+            {{ if gt (len $urls) 0 }}
+              <img class="home-card__img home-random home-img--desktop" src="{{ index $urls 0 | relURL }}" data-random-srcs='{{ $urls | jsonify | safeHTMLAttr }}' alt="Categories" loading="eager" decoding="async" />
+            <img class="home-card__img home-random home-img--mobile" src="{{ if gt (len $urlsMobile) 0 }}{{ index $urlsMobile 0 | relURL }}{{ else }}{{ if gt (len $urls) 0 }}{{ index $urls 0 | relURL }}{{ else }}{{ "/Images/placeholder.jpg" | relURL }}{{ end }}{{ end }}" data-random-srcs='{{ if gt (len $urlsMobile) 0 }}{{ $urlsMobile | jsonify | safeHTMLAttr }}{{ else }}{{ $urls | jsonify | safeHTMLAttr }}{{ end }}' alt="Categories" loading="eager" decoding="async" />
+            {{ else }}
+              <img class="home-card__img" src="{{ "/Images/placeholder.jpg" | relURL }}" alt="Categories" loading="eager" decoding="async" />
+            {{ end }}
+            <div class="home-card__overlay">
+              <div class="home-card__title">Categories</div>
+              <div class="home-card__desc"></div>
+            </div>
+          </a>
+        </div>
+
+        {{/* Slide: Browse By Series */}}
+        <div class="carousel__slide">
+          {{ $base := "browse-by-series" }}
+          
+{{ $urls := partial "home-image-urls.html" (dict "folder" "Images/Home" "base" $base) }}
+{{ $urlsMobile := partial "home-image-urls.html" (dict "folder" "Images/HomeMobile" "base" $base) }}
+          <a class="home-card home-card--large" href="{{ partial "section-link.html" "series" }}">
+            {{ if gt (len $urls) 0 }}
+              <img class="home-card__img home-random home-img--desktop" src="{{ index $urls 0 | relURL }}" data-random-srcs='{{ $urls | jsonify | safeHTMLAttr }}' alt="Browse By Series" loading="eager" decoding="async" />
+            <img class="home-card__img home-random home-img--mobile" src="{{ if gt (len $urlsMobile) 0 }}{{ index $urlsMobile 0 | relURL }}{{ else }}{{ if gt (len $urls) 0 }}{{ index $urls 0 | relURL }}{{ else }}{{ "/Images/placeholder.jpg" | relURL }}{{ end }}{{ end }}" data-random-srcs='{{ if gt (len $urlsMobile) 0 }}{{ $urlsMobile | jsonify | safeHTMLAttr }}{{ else }}{{ $urls | jsonify | safeHTMLAttr }}{{ end }}' alt="Browse By Series" loading="eager" decoding="async" />
+            {{ else }}
+              <img class="home-card__img" src="{{ "/Images/placeholder.jpg" | relURL }}" alt="Browse By Series" loading="eager" decoding="async" />
+            {{ end }}
+            <div class="home-card__overlay">
+              <div class="home-card__title">Browse By Series</div>
+              <div class="home-card__desc"></div>
+            </div>
+          </a>
+        </div>
+
+        {{/* Slide: Browse By Genre */}}
+        <div class="carousel__slide">
+          {{ $base := "browse-by-genre" }}
+          
+{{ $urls := partial "home-image-urls.html" (dict "folder" "Images/Home" "base" $base) }}
+{{ $urlsMobile := partial "home-image-urls.html" (dict "folder" "Images/HomeMobile" "base" $base) }}
+          <a class="home-card home-card--large" href="{{ partial "section-link.html" "genres" }}">
+            {{ if gt (len $urls) 0 }}
+              <img class="home-card__img home-random home-img--desktop" src="{{ index $urls 0 | relURL }}" data-random-srcs='{{ $urls | jsonify | safeHTMLAttr }}' alt="Browse By Genre" loading="eager" decoding="async" />
+            <img class="home-card__img home-random home-img--mobile" src="{{ if gt (len $urlsMobile) 0 }}{{ index $urlsMobile 0 | relURL }}{{ else }}{{ if gt (len $urls) 0 }}{{ index $urls 0 | relURL }}{{ else }}{{ "/Images/placeholder.jpg" | relURL }}{{ end }}{{ end }}" data-random-srcs='{{ if gt (len $urlsMobile) 0 }}{{ $urlsMobile | jsonify | safeHTMLAttr }}{{ else }}{{ $urls | jsonify | safeHTMLAttr }}{{ end }}' alt="Browse By Genre" loading="eager" decoding="async" />
+            {{ else }}
+              <img class="home-card__img" src="{{ "/Images/placeholder.jpg" | relURL }}" alt="Browse By Genre" loading="eager" decoding="async" />
+            {{ end }}
+            <div class="home-card__overlay">
+              <div class="home-card__title">Browse By Genre</div>
+              <div class="home-card__desc"></div>
+            </div>
+          </a>
+        </div>
+
+        {{/* Slide: All */}}
+        <div class="carousel__slide">
+          {{ $base := "all" }}
+          
+{{ $urls := partial "home-image-urls.html" (dict "folder" "Images/Home" "base" $base) }}
+{{ $urlsMobile := partial "home-image-urls.html" (dict "folder" "Images/HomeMobile" "base" $base) }}
+          <a class="home-card home-card--large" href="{{ partial "section-link.html" "all" }}">
+            {{ if gt (len $urls) 0 }}
+              <img class="home-card__img home-random home-img--desktop" src="{{ index $urls 0 | relURL }}" data-random-srcs='{{ $urls | jsonify | safeHTMLAttr }}' alt="All" loading="eager" decoding="async" />
+            <img class="home-card__img home-random home-img--mobile" src="{{ if gt (len $urlsMobile) 0 }}{{ index $urlsMobile 0 | relURL }}{{ else }}{{ if gt (len $urls) 0 }}{{ index $urls 0 | relURL }}{{ else }}{{ "/Images/placeholder.jpg" | relURL }}{{ end }}{{ end }}" data-random-srcs='{{ if gt (len $urlsMobile) 0 }}{{ $urlsMobile | jsonify | safeHTMLAttr }}{{ else }}{{ $urls | jsonify | safeHTMLAttr }}{{ end }}' alt="All" loading="eager" decoding="async" />
+            {{ else }}
+              <img class="home-card__img" src="{{ "/Images/placeholder.jpg" | relURL }}" alt="All" loading="eager" decoding="async" />
+            {{ end }}
+            <div class="home-card__overlay">
+              <div class="home-card__title">All</div>
+              <div class="home-card__desc"></div>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+    <button class="carousel-btn carousel-btn--right" data-carousel-next type="button" aria-label="Next">›</button>
+  </div>
+
+  <div class="carousel-hint" aria-hidden="true"><span class="carousel-hint__chev">‹</span><span class="carousel-hint__text">Swipe</span><span class="carousel-hint__chev">›</span></div>
+
+  {{ if .IsHome }}
+    {{ partial "home-comments.html" . }}
+  {{ end }}
+</section>
+{{ end }}
+
+{{/* Preload the first (initially visible) home card image for a snappier first paint */}}
+{{ define "preloads" }}
+  {{ $img := "" }}
+  {{ range $ext := slice "webp" "jpg" "png" }}
+    {{ if eq $img "" }}
+      {{ $rel := printf "Images/Home/categories-1.%s" $ext }}
+      {{ if fileExists (printf "static/%s" $rel) }}{{ $img = (printf "/%s" $rel) }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if eq $img "" }}
+    {{ range $ext := slice "webp" "jpg" "png" }}
+      {{ if eq $img "" }}
+        {{ $rel := printf "Images/Home/categories.%s" $ext }}
+        {{ if fileExists (printf "static/%s" $rel) }}{{ $img = (printf "/%s" $rel) }}{{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if ne $img "" }}
+    <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
+  {{ end }}
+{{ end }}

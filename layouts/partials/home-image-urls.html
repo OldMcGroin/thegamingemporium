@@ -1,0 +1,30 @@
+{{- $folder := .folder -}} {{/* e.g. "Images/Home" or "Images/HomeMobile" */}}
+{{- $base := .base -}}
+{{- $aliases := .aliases | default (slice) -}}
+{{- $exts := .exts | default (slice "webp" "jpg" "png") -}}
+{{- $max := .max | default 20 -}}
+
+{{- $list := slice -}}
+{{- range $i := seq 1 $max -}}
+  {{- range $b := (append (slice $base) $aliases) -}}
+    {{- range $e := $exts -}}
+      {{- $rel := printf "%s/%s-%d.%s" $folder $b $i $e -}}
+      {{- if fileExists (printf "static/%s" $rel) -}}
+        {{- $list = $list | append (printf "/%s" $rel) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if eq (len $list) 0 -}}
+  {{- range $b := (append (slice $base) $aliases) -}}
+    {{- range $e := $exts -}}
+      {{- $rel := printf "%s/%s.%s" $folder $b $e -}}
+      {{- if and (eq (len $list) 0) (fileExists (printf "static/%s" $rel)) -}}
+        {{- $list = $list | append (printf "/%s" $rel) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $list -}}

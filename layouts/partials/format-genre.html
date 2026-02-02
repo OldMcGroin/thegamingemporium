@@ -1,0 +1,7 @@
+{{- $g := . -}}
+{{- $gl := lower $g -}}
+{{- if eq $gl "rpg" -}}
+RPG
+{{- else -}}
+{{- (replace $g "-" " ") | title | replaceRE "\bPc\b" "PC" -}}
+{{- end -}}

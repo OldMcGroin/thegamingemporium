@@ -1,0 +1,28 @@
+{{ define "preloads" }}
+  {{/* No image preloads needed for text-only genre cards */}}
+{{ end }}
+
+{{ define "main" }}
+<h1 class="page-title">Browse By Genre</h1>
+
+{{/* Build a unique list of genres from genre1 + genre2 */}}
+{{ $allGenres := slice }}
+{{ range site.Data.games }}
+  {{ with .genre1 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
+  {{ with .genre2 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
+{{ end }}
+{{ $allGenres = sort (uniq $allGenres) }}
+
+<div class="genre-controls" data-genre-grid>
+  <div class="genre-grid">
+    {{ range $allGenres }}
+      {{ $g := . }}
+      {{ $slug := urlize $g }}
+      {{ $disp := partial "format-genre.html" $g }}
+      <a class="genre-card genre-{{ $slug }}" data-title="{{ $disp }}" href="{{ (printf "/genres/%s/" $slug) | relURL }}">
+        <span class="genre-title">{{ $disp }}</span>
+      </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

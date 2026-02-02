@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "The Gaming Emporium"
+
+[params]
+  description = "A curated list of games, ports, mods, and more."
+  cloudflare_web_analytics_token = ""

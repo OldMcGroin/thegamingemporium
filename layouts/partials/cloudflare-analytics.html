@@ -1,0 +1,20 @@
+{{/*
+  Cloudflare Web Analytics (optional)
+
+  To enable:
+    - set in config.toml:
+        [params]
+        cloudflare_web_analytics_token = "YOUR_TOKEN_HERE"
+
+  If token is empty, nothing is rendered.
+
+  Note:
+    We intentionally do NOT call Hugo's getenv() here because some Hugo security
+    policies block non-whitelisted env vars during local development.
+*/}}
+
+{{ $token := .Site.Params.cloudflare_web_analytics_token }}
+{{ if $token }}
+  {{ $beacon := dict "token" $token }}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{{ $beacon | jsonify }}'></script>
+{{ end }}
