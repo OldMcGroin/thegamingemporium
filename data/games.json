@@ -20540,6 +20540,32 @@
     "notes": "",
     "date_added": "2026-02-03",
     "image": ""
+  },
+    {
+    "id": 1577,
+    "title": "CRW: Metal Jacket - PC98",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/pc-98/crw-metal-jacket-english-patched/",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "CRW: Metal Jacket",
+    "video_link": "https://youtu.be/8f7aBNndxpM?si=juRuLw6gDEkEzMKR",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
+  },
+    {
+    "id": 1578,
+    "title": "Tuned Heart - PC98",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/pc-98/tuned-heart-english-patched/",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Tuned Heart",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
   }
 
   ]
