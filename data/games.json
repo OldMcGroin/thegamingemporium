@@ -20579,6 +20579,58 @@
     "notes": "",
     "date_added": "2026-02-04",
     "image": ""
+  },
+    {
+    "id": 1580,
+    "title": "Delivery & Beyond",
+    "category": "fan-games",
+    "link": "https://store.steampowered.com/app/3376480/Delivery__Beyond/",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Delivery & Beyond",
+    "video_link": "https://youtu.be/ccG2btb6fIM?si=pb4bvVmjeNGNq5iM",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
+  },
+    {
+    "id": 1581,
+    "title": "Lode Runner - Nintendo DS",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/nds-roms/lode-runner-japan/",
+    "genre1": "action",
+    "genre2": "puzzle",
+    "series": "Lode Runner",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
+  },
+    {
+    "id": 1582,
+    "title": "Rockman & Forte - SNES",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/snes-rom/rockman-forte-player-switching-multiple-equipment-hack/",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "Mega Man",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
+  },
+    {
+    "id": 1583,
+    "title": "Dragon Ball Kai: Ultimate Butouden - Nintendo DS",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/nds-roms/dragon-ball-kai-ultimate-butouden-jpn-english-patched/",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-04",
+    "image": ""
   }
 
   ]
