@@ -4,7 +4,7 @@
 
 <h1 class="page-title">{{ $seriesName | title }}</h1>
 
-{{ $games := where site.Data.games "series" $seriesName }}
+{{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
 {{ $games = sort $games "title" "asc" }}
 
 <div class="game-controls" data-game-grid>
@@ -34,7 +34,7 @@
 
 {{ define "preloads" }}
   {{ $seriesName := .Params.series }}
-  {{ $games := where site.Data.games "series" $seriesName }}
+  {{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
   {{ $games = sort $games "title" "asc" }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}

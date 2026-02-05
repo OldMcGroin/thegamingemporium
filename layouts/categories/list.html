@@ -6,7 +6,7 @@
 
 {{/* Build a unique, sorted list of categories. */}}
 {{ $cats := slice }}
-{{ range site.Data.games }}
+{{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
   {{ with .category }}
     {{/* Backwards-compat: old slug was "source-port"; new slug is "open-source" */}}
     {{ $c := . }}

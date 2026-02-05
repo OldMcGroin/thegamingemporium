@@ -8,7 +8,7 @@
   This lets "newer entries added the same day" float to the top.
 */}}
 {{ $enriched := slice }}
-{{ range $i, $g := site.Data.games }}
+{{ range $i, $g := (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
   {{ if and (isset $g "date_added") (ne $g.date_added "") }}
     {{ $k := printf "%s-%09d" $g.date_added $i }}
     {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
@@ -27,7 +27,7 @@
 
 {{ define "preloads" }}
   {{ $enriched := slice }}
-  {{ range $i, $g := site.Data.games }}
+  {{ range $i, $g := (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
     {{ if and (isset $g "date_added") (ne $g.date_added "") }}
       {{ $k := printf "%s-%09d" $g.date_added $i }}
       {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}

@@ -874,7 +874,6 @@ select{
 .category-translation          { --accent: rgba(80, 160, 220, 0.18); }
 .category-unreleased           { --accent: rgba(220, 80, 80, 0.18); }
 .category-preserved            { --accent: rgba(120, 200, 220, 0.18); }
-.category-abandonware          { --accent: rgba(160, 200, 160, 0.18); }
 .category-repacks              { --accent: rgba(140, 180, 220, 0.18); }
 
 /* Steam Deck / small screens */

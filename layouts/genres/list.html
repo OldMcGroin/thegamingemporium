@@ -7,7 +7,7 @@
 
 {{/* Build a unique list of genres from genre1 + genre2 */}}
 {{ $allGenres := slice }}
-{{ range site.Data.games }}
+{{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
   {{ with .genre1 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
   {{ with .genre2 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
 {{ end }}

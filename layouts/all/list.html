@@ -2,7 +2,7 @@
 <h1 class="page-title">All</h1>
 
 
-{{ $games := where site.Data.games "category" "ne" "guides" }}
+{{ $games := where (where site.Data.games "category" "ne" "guides") "category" "not in" (slice "abandonware" "Abandonware") }}
 
 <div class="game-controls" data-game-grid>
   <div class="controls">
@@ -33,7 +33,7 @@
 
 {{/* Preload first few visible game images to make the initial grid feel instant */}}
 {{ define "preloads" }}
-  {{ $games := where site.Data.games "category" "ne" "guides" }}
+  {{ $games := where (where site.Data.games "category" "ne" "guides") "category" "not in" (slice "abandonware" "Abandonware") }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}
     {{ if ne $img "/Images/placeholder.jpg" }}
