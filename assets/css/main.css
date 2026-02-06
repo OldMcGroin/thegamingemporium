@@ -1039,8 +1039,8 @@ img.game-card__img {
   border-color: rgba(255,255,255,0.22);
 }
 .share-buttons__icon{
-  width: 16px;
-  height: 16px;
+  width: 16px !important;
+  height: 16px !important;
   display:block;
   flex: 0 0 auto;
   fill: currentColor;
@@ -1067,7 +1067,7 @@ img.game-card__img {
   user-select: none;
 }
 .share-menu__summary::-webkit-details-marker{ display:none; }
-.share-menu__icon{ width: 16px; height: 16px; fill: currentColor; }
+.share-menu__icon{ width: 16px !important; height: 16px !important; fill: currentColor; }
 .share-menu[open] .share-menu__summary{ background: var(--bg); border-color: rgba(255,255,255,0.22); }
 .share-menu__panel{
   margin-top: 10px;
