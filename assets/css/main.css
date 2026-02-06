@@ -1007,36 +1007,46 @@ img.game-card__img {
 
 
 /* Share buttons (Home + Category pages) */
-.share-buttons{
+.share{
   margin: 14px 0 18px;
+}
+
+/* Desktop (default): inline row, no dropdown */
+.share-inline{ display:block; }
+.share-menu{ display:none; }
+
+.share-buttons{
   display:flex;
   align-items:center;
   gap: 10px;
   flex-wrap:wrap;
+  font-family: inherit;
 }
 .share-buttons__label{
-  color: var(--muted);
+  opacity: 0.75;
   font-size: 0.95rem;
 }
+
+/* Make links match site styling (no harsh blue) */
 .share-buttons__btn{
   display:inline-flex;
   align-items:center;
-  justify-content:center;
   gap: 8px;
   padding: 8px 12px;
   border-radius: 10px;
-  border: 1px solid var(--border);
-  background: var(--bg-2);
-  color: var(--text);
-  text-decoration:none;
+  border: 1px solid rgba(255,255,255,0.16);
+  background: rgba(0,0,0,0.22);
+  color: inherit;
+  text-decoration: none;
   font-size: 0.95rem;
-  line-height:1;
-  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+  line-height: 1;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease, opacity 120ms ease;
 }
+.share-buttons__btn:visited{ color: inherit; }
 .share-buttons__btn:hover{
   transform: translateY(-1px);
-  background: var(--bg);
-  border-color: rgba(255,255,255,0.22);
+  background: rgba(0,0,0,0.34);
+  border-color: rgba(255,255,255,0.26);
 }
 .share-buttons__icon{
   width: 16px !important;
@@ -1045,42 +1055,50 @@ img.game-card__img {
   flex: 0 0 auto;
   fill: currentColor;
 }
-@media (max-width: 520px){
-  .share-buttons__text{ display:none; }
-  .share-buttons__btn{ padding: 8px 10px; }
-}
 
-/* Share menu (mobile) */
-.share{ position: relative; }
-.share-menu{ display:none; margin: 14px 0 18px; }
-.share-menu__summary{
-  list-style: none;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 12px;
-  border-radius: 10px;
-  border: 1px solid var(--border);
-  background: var(--bg-2);
-  color: var(--text);
-  user-select: none;
-}
-.share-menu__summary::-webkit-details-marker{ display:none; }
-.share-menu__icon{ width: 16px !important; height: 16px !important; fill: currentColor; }
-.share-menu[open] .share-menu__summary{ background: var(--bg); border-color: rgba(255,255,255,0.22); }
-.share-menu__panel{
-  margin-top: 10px;
-  padding: 10px;
-  border-radius: 12px;
-  border: 1px solid var(--border);
-  background: rgba(0,0,0,0.25);
-  backdrop-filter: blur(6px);
-}
-
-@media (max-width: 520px){
+/* Mobile: show ONE solid Share button that opens the menu */
+@media (max-width: 700px){
   .share-inline{ display:none; }
-  .share-menu{ display:inline-block; }
-  /* In the menu we show text labels to make it obvious */
-  .share-menu .share-buttons__text{ display:inline; }
+  .share-menu{ display:block; }
+
+  .share-menu__summary{
+    list-style: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.18);
+    background: rgba(0,0,0,0.40);
+    color: inherit;
+    font-weight: 600;
+    user-select: none;
+  }
+  .share-menu__summary::-webkit-details-marker{ display:none; }
+  .share-menu__icon{
+    width: 18px !important;
+    height: 18px !important;
+    fill: currentColor;
+  }
+  .share-menu[open] .share-menu__summary{
+    background: rgba(0,0,0,0.55);
+    border-color: rgba(255,255,255,0.28);
+  }
+
+  .share-menu__panel{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid rgba(255,255,255,0.14);
+    background: rgba(0,0,0,0.30);
+    backdrop-filter: blur(6px);
+  }
+
+  /* In the menu, make each option full-width-ish and easy to tap */
+  .share-menu .share-buttons__btn{
+    width: 100%;
+    justify-content: flex-start;
+    padding: 10px 12px;
+  }
 }
