@@ -20852,6 +20852,32 @@
     "notes": "",
     "date_added": "2026-02-05",
     "image": ""
+  },
+    {
+    "id": 1601,
+    "title": "OpenBlok",
+    "category": "open-source",
+    "link": "https://github.com/mmatyas/openblok",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "OpenBlok",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-05",
+    "image": ""
+  },
+    {
+    "id": 1602,
+    "title": "PySol Fan Club Edition",
+    "category": "open-source",
+    "link": "https://pysolfc.sourceforge.io/",
+    "genre1": "puzzle",
+    "genre2": "strategy",
+    "series": "PySol Fan Club Edition",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-05",
+    "image": ""
   }
 
   ]
