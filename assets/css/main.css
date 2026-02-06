@@ -542,6 +542,7 @@ select{
   cursor: pointer;
   align-items:center;
   justify-content:center;
+  gap: 8px;
   gap: 5px;
   padding: 8px;
   color: #fff;
@@ -690,6 +691,7 @@ select{
   display:flex;
   align-items:center;
   justify-content:center;
+  gap: 8px;
   text-align:center;
 
   /* Make it feel like a 'tile' */
@@ -947,6 +949,7 @@ img.game-card__img {
   display:none;
   align-items:center;
   justify-content:center;
+  gap: 8px;
   gap:10px;
   margin-top:10px;
   font-size:0.95rem;
@@ -1002,3 +1005,82 @@ img.game-card__img {
   margin: 0 auto;
 }
 
+
+/* Share buttons (Home + Category pages) */
+.share-buttons{
+  margin: 14px 0 18px;
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  flex-wrap:wrap;
+}
+.share-buttons__label{
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.share-buttons__btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--text);
+  text-decoration:none;
+  font-size: 0.95rem;
+  line-height:1;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+}
+.share-buttons__btn:hover{
+  transform: translateY(-1px);
+  background: var(--bg);
+  border-color: rgba(255,255,255,0.22);
+}
+.share-buttons__icon{
+  width: 16px;
+  height: 16px;
+  display:block;
+  flex: 0 0 auto;
+  fill: currentColor;
+}
+@media (max-width: 520px){
+  .share-buttons__text{ display:none; }
+  .share-buttons__btn{ padding: 8px 10px; }
+}
+
+/* Share menu (mobile) */
+.share{ position: relative; }
+.share-menu{ display:none; margin: 14px 0 18px; }
+.share-menu__summary{
+  list-style: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--text);
+  user-select: none;
+}
+.share-menu__summary::-webkit-details-marker{ display:none; }
+.share-menu__icon{ width: 16px; height: 16px; fill: currentColor; }
+.share-menu[open] .share-menu__summary{ background: var(--bg); border-color: rgba(255,255,255,0.22); }
+.share-menu__panel{
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.25);
+  backdrop-filter: blur(6px);
+}
+
+@media (max-width: 520px){
+  .share-inline{ display:none; }
+  .share-menu{ display:inline-block; }
+  /* In the menu we show text labels to make it obvious */
+  .share-menu .share-buttons__text{ display:inline; }
+}

@@ -1,25 +1,10 @@
 {{ define "main" }}
-{{/* Prefer front-matter param if provided, otherwise use the page Title */}}
-{{ $seriesName := .Params.series | default .Title }}
-{{ $pageSlug := .Slug }}
+{{ $seriesName := .Params.series }}
+{{ $slug := .Params.slug }}
 
 <h1 class="page-title">{{ $seriesName | title }}</h1>
 
-{{/* Exclude Abandonware (both old/new casing just in case) */}}
-{{ $allGames := where site.Data.games "category" "not in" (slice "abandonware" "Abandonware") }}
-
-{{/* Build matches: either exact series match OR slugified series matches this page slug */}}
-{{ $games := slice }}
-{{ range $allGames }}
-  {{ $s := .series }}
-  {{ if $s }}
-    {{ $sSlug := $s | lower | urlize }}
-    {{ if or (eq $s $seriesName) (eq $sSlug $pageSlug) }}
-      {{ $games = $games | append . }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-
+{{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
 {{ $games = sort $games "title" "asc" }}
 
 <div class="game-controls" data-game-grid>
@@ -48,24 +33,9 @@
 {{ end }}
 
 {{ define "preloads" }}
-  {{ $seriesName := .Params.series | default .Title }}
-  {{ $pageSlug := .Slug }}
-
-  {{ $allGames := where site.Data.games "category" "not in" (slice "abandonware" "Abandonware") }}
-
-  {{ $games := slice }}
-  {{ range $allGames }}
-    {{ $s := .series }}
-    {{ if $s }}
-      {{ $sSlug := $s | lower | urlize }}
-      {{ if or (eq $s $seriesName) (eq $sSlug $pageSlug) }}
-        {{ $games = $games | append . }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-
+  {{ $seriesName := .Params.series }}
+  {{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
   {{ $games = sort $games "title" "asc" }}
-
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}
     {{ if ne $img "/Images/placeholder.jpg" }}

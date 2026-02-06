@@ -1,0 +1,127 @@
+{{/* Social share buttons (Home + Category pages). Desktop: inline row. Mobile: a single Share menu. */}}
+{{ $title := .Title }}
+{{ if or (not $title) (eq $title "") }}
+  {{ $title = site.Title }}
+{{ end }}
+{{ $url := .Permalink }}
+{{ $desc := site.Params.description }}
+{{ $shareText := printf "%s — %s" site.Title $desc }}
+{{ if and (not .IsHome) (and $title (ne $title site.Title)) }}
+  {{ $shareText = printf "%s (%s) — %s" site.Title $title $desc }}
+{{ end }}
+
+<div class="share" aria-label="Share this page">
+  <!-- Desktop / larger screens -->
+  <div class="share-inline">
+    <div class="share-buttons" aria-label="Share options">
+      <span class="share-buttons__label">Share:</span>
+
+      <a class="share-buttons__btn" aria-label="Share on Reddit" title="Share on Reddit"
+         href="https://www.reddit.com/submit?url={{ $url | urlquery }}&title={{ $shareText | urlquery }}" target="_blank" rel="noopener">
+        <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="12" cy="12.5" r="8.5"></circle>
+          <circle cx="9" cy="12" r="1.1" fill="var(--bg-2)"></circle>
+          <circle cx="15" cy="12" r="1.1" fill="var(--bg-2)"></circle>
+          <path d="M9 15c.9.7 2 .95 3 .95s2.1-.25 3-.95" fill="none" stroke="var(--bg-2)" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M14.6 6.6l2.8-.7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          <circle cx="18.2" cy="5.6" r="1.2"></circle>
+          <path d="M12.4 4.4l1.2 2.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <span class="share-buttons__text">Reddit</span>
+      </a>
+
+      <a class="share-buttons__btn" aria-label="Share on Mastodon" title="Share on Mastodon"
+         href="https://mastodon.social/share?text={{ $shareText | urlquery }}%20{{ $url | urlquery }}" target="_blank" rel="noopener">
+        <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M6.2 18.6c1.3 1 3.2 1.5 5.8 1.5 2.9 0 5-.7 6.2-2.1.8-1 1.2-2.3 1.2-4.1V9.6C19.4 6 16.7 4 12 4S4.6 6 4.6 9.6v5.7c0 1.5.6 2.6 1.6 3.3z" />
+          <path d="M9.2 10.8c0-1.2.7-2 1.8-2 1 0 1.7.6 1.9 1.5h.2c.2-.9.9-1.5 1.9-1.5 1.1 0 1.8.8 1.8 2v4.1h-1.7v-4c0-.7-.3-1.1-.9-1.1-.6 0-1 .5-1 1.2v3.9h-1.7v-3.9c0-.7-.4-1.2-1-1.2-.6 0-.9.4-.9 1.1v4H9.2v-4.1z" fill="var(--bg-2)"/>
+        </svg>
+        <span class="share-buttons__text">Mastodon</span>
+      </a>
+
+      <a class="share-buttons__btn" aria-label="Share on Bluesky" title="Share on Bluesky"
+         href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}%20{{ $url | urlquery }}" target="_blank" rel="noopener">
+        <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 12.9c-.95 1.35-3.5 4.65-5.52 6.05-1.94 1.35-4.04 1.26-4.52-.33-.46-1.54.73-2.62 2.27-3.48 1.67-.93 3.99-1.9 5.23-2.25-1.24-.35-3.56-1.32-5.23-2.25C2.69 7.8 1.5 6.72 1.96 5.18c.48-1.59 2.58-1.68 4.52-.33C8.5 6.25 11.05 9.55 12 10.9c.95-1.35 3.5-4.65 5.52-6.05 1.94-1.35 4.04-1.26 4.52.33.46 1.54-.73 2.62-2.27 3.48-1.67.93-3.99 1.9-5.23 2.25 1.24.35 3.56 1.32 5.23 2.25 1.54.86 2.73 1.94 2.27 3.48-.48 1.59-2.58 1.68-4.52.33-2.02-1.4-4.57-4.7-5.52-6.05Z"/>
+        </svg>
+        <span class="share-buttons__text">Bluesky</span>
+      </a>
+
+      <a class="share-buttons__btn" aria-label="Share on Facebook" title="Share on Facebook"
+         href="https://www.facebook.com/sharer/sharer.php?u={{ $url | urlquery }}&display=popup" target="_blank" rel="noopener" onclick="window.open(this.href, 'fbshare', 'width=600,height=650,menubar=no,toolbar=no,status=no,scrollbars=yes'); return false;">
+        <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M13.5 22v-8h2.7l.4-3H13.5V9.1c0-.87.24-1.46 1.5-1.46h1.6V5.02c-.28-.04-1.25-.12-2.37-.12-2.35 0-3.96 1.43-3.96 4.06V11H7.8v3h2.52v8h3.18Z"/>
+        </svg>
+        <span class="share-buttons__text">Facebook</span>
+      </a>
+
+      <a class="share-buttons__btn" aria-label="Share on X" title="Share on X"
+         href="https://twitter.com/intent/tweet?text={{ $shareText | urlquery }}&url={{ $url | urlquery }}" target="_blank" rel="noopener">
+        <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M18.9 2H22l-6.78 7.74L23.5 22h-6.6l-5.17-6.8L5.78 22H2.7l7.32-8.37L.5 2h6.77l4.67 6.17L18.9 2Zm-1.16 18h1.83L6.24 3.9H4.28L17.74 20Z"/>
+        </svg>
+        <span class="share-buttons__text">X</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Mobile -->
+  <details class="share-menu">
+    <summary class="share-menu__summary" aria-label="Open share menu">
+      <svg class="share-menu__icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M18 8a3 3 0 1 0-2.82-4H15a3 3 0 0 0 .36 1.36l-7.1 4.06A3 3 0 0 0 6 9a3 3 0 1 0 2.26 4.06l7.1 4.06A3 3 0 0 0 15 19a3 3 0 1 0 .82-2.14l-7.1-4.06A3 3 0 0 0 8.26 11l7.1-4.06A2.99 2.99 0 0 0 18 8Z" fill="currentColor"/>
+      </svg>
+      Share
+    </summary>
+    <div class="share-menu__panel">
+      <div class="share-buttons" aria-label="Share options">
+        <a class="share-buttons__btn" aria-label="Share on Reddit" title="Share on Reddit"
+           href="https://www.reddit.com/submit?url={{ $url | urlquery }}&title={{ $shareText | urlquery }}" target="_blank" rel="noopener">
+          <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12.5" r="8.5"></circle>
+            <circle cx="9" cy="12" r="1.1" fill="var(--bg-2)"></circle>
+            <circle cx="15" cy="12" r="1.1" fill="var(--bg-2)"></circle>
+            <path d="M9 15c.9.7 2 .95 3 .95s2.1-.25 3-.95" fill="none" stroke="var(--bg-2)" stroke-width="1.6" stroke-linecap="round"/>
+            <path d="M14.6 6.6l2.8-.7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            <circle cx="18.2" cy="5.6" r="1.2"></circle>
+            <path d="M12.4 4.4l1.2 2.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+          <span class="share-buttons__text">Reddit</span>
+        </a>
+
+        <a class="share-buttons__btn" aria-label="Share on Mastodon" title="Share on Mastodon"
+           href="https://mastodon.social/share?text={{ $shareText | urlquery }}%20{{ $url | urlquery }}" target="_blank" rel="noopener">
+          <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M6.2 18.6c1.3 1 3.2 1.5 5.8 1.5 2.9 0 5-.7 6.2-2.1.8-1 1.2-2.3 1.2-4.1V9.6C19.4 6 16.7 4 12 4S4.6 6 4.6 9.6v5.7c0 1.5.6 2.6 1.6 3.3z" />
+            <path d="M9.2 10.8c0-1.2.7-2 1.8-2 1 0 1.7.6 1.9 1.5h.2c.2-.9.9-1.5 1.9-1.5 1.1 0 1.8.8 1.8 2v4.1h-1.7v-4c0-.7-.3-1.1-.9-1.1-.6 0-1 .5-1 1.2v3.9h-1.7v-3.9c0-.7-.4-1.2-1-1.2-.6 0-.9.4-.9 1.1v4H9.2v-4.1z" fill="var(--bg-2)"/>
+          </svg>
+          <span class="share-buttons__text">Mastodon</span>
+        </a>
+
+        <a class="share-buttons__btn" aria-label="Share on Bluesky" title="Share on Bluesky"
+           href="https://bsky.app/intent/compose?text={{ $shareText | urlquery }}%20{{ $url | urlquery }}" target="_blank" rel="noopener">
+          <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 12.9c-.95 1.35-3.5 4.65-5.52 6.05-1.94 1.35-4.04 1.26-4.52-.33-.46-1.54.73-2.62 2.27-3.48 1.67-.93 3.99-1.9 5.23-2.25-1.24-.35-3.56-1.32-5.23-2.25C2.69 7.8 1.5 6.72 1.96 5.18c.48-1.59 2.58-1.68 4.52-.33C8.5 6.25 11.05 9.55 12 10.9c.95-1.35 3.5-4.65 5.52-6.05 1.94-1.35 4.04-1.26 4.52.33.46 1.54-.73 2.62-2.27 3.48-1.67.93-3.99 1.9-5.23 2.25 1.24.35 3.56 1.32 5.23 2.25 1.54.86 2.73 1.94 2.27 3.48-.48 1.59-2.58 1.68-4.52.33-2.02-1.4-4.57-4.7-5.52-6.05Z"/>
+          </svg>
+          <span class="share-buttons__text">Bluesky</span>
+        </a>
+
+        <a class="share-buttons__btn" aria-label="Share on Facebook" title="Share on Facebook"
+           href="https://www.facebook.com/sharer/sharer.php?u={{ $url | urlquery }}&display=popup" target="_blank" rel="noopener" onclick="window.open(this.href, 'fbshare', 'width=600,height=650,menubar=no,toolbar=no,status=no,scrollbars=yes'); return false;">
+          <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M13.5 22v-8h2.7l.4-3H13.5V9.1c0-.87.24-1.46 1.5-1.46h1.6V5.02c-.28-.04-1.25-.12-2.37-.12-2.35 0-3.96 1.43-3.96 4.06V11H7.8v3h2.52v8h3.18Z"/>
+          </svg>
+          <span class="share-buttons__text">Facebook</span>
+        </a>
+
+        <a class="share-buttons__btn" aria-label="Share on X" title="Share on X"
+           href="https://twitter.com/intent/tweet?text={{ $shareText | urlquery }}&url={{ $url | urlquery }}" target="_blank" rel="noopener">
+          <svg class="share-buttons__icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M18.9 2H22l-6.78 7.74L23.5 22h-6.6l-5.17-6.8L5.78 22H2.7l7.32-8.37L.5 2h6.77l4.67 6.17L18.9 2Zm-1.16 18h1.83L6.24 3.9H4.28L17.74 20Z"/>
+          </svg>
+          <span class="share-buttons__text">X</span>
+        </a>
+      </div>
+    </div>
+  </details>
+</div>
