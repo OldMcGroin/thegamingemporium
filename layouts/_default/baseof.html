@@ -57,8 +57,9 @@
 
   <meta name="description" content="A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.">
 
-  {{ $css := resources.Get "css/main.css" | minify }}
-  <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+  {{/* Fingerprinted CSS so mobile browsers (and Cloudflare) always pick up the latest styles */}}
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous" />
 
   {{/* Preload the large background image to reduce perceived load time */}}
   <link rel="preload" as="image" href="{{ "/Images/Background/background.jpg" | relURL }}" fetchpriority="high" />
@@ -120,8 +121,9 @@
     </footer>
   </div>
 
-  {{ $js := resources.Get "js/main.js" | minify }}
-  <script src="{{ $js.RelPermalink }}" defer></script>
+  {{/* Fingerprinted JS for the same reason as CSS (cache busting) */}}
+  {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
   <script src="{{ "/js/theme.js" | relURL }}" defer></script>
   {{/* Randomize home card images every page load (uses data-random-srcs) */}}
   <script src="{{ "/js/home-random.js" | relURL }}" defer></script>
