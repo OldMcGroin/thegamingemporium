@@ -124,7 +124,7 @@ body{
   overflow:hidden;
   box-shadow: var(--shadow);
   text-decoration:none;
-  color: var(--text);
+  color: #fff;
 
   /* Performance: skip offscreen rendering */
   content-visibility: auto;
@@ -150,7 +150,7 @@ body{
   background: linear-gradient(to top, rgba(0,0,0,0.80), rgba(0,0,0,0.20) 60%, rgba(0,0,0,0.05));
 }
 .home-card__title{ font-size: 40px; font-weight: 850; letter-spacing:0.2px; }
-.home-card__desc{ margin-top: 6px; color: var(--muted); font-weight:650; }
+.home-card__desc{ margin-top: 6px; color: rgba(255,255,255,0.92); font-weight:650; }
 
 /* Controls */
 .controls{
@@ -601,27 +601,34 @@ select{
   max-width: 1200px;
   margin: 10px auto 20px;
   padding: 0 16px;
-  color: rgba(255,255,255,0.78);
+  color: var(--muted);
   font-size: 0.9rem;
   letter-spacing: 0.02em;
   font-weight: 500;
 }
 
-.home-disclaimer a{
+
+/* Home disclaimer link styling (theme-aware) */
+html[data-theme="dark"] .home-disclaimer a{
   color: rgba(255,255,255,0.9);
   font-weight: 600;
   text-decoration: none;
   border-bottom: 1px solid rgba(255,255,255,0.35);
 }
-.home-disclaimer a:hover{
+html[data-theme="dark"] .home-disclaimer a:hover{
   border-bottom-color: rgba(255,255,255,0.75);
 }
 
-
-
+/* Homepage disclaimer HERE link fix (Day mode only) */
+html[data-theme="light"] .home-disclaimer a{
+  color:#000 !important;
+  font-weight:700;
+  text-decoration: underline;
+  border-bottom: none;
+}
 .footer__tagline{
   margin-left: 12px;
-  color: rgba(255,255,255,0.65);
+  color: var(--muted);
   font-size: 0.85rem;
   font-weight: 500;
 }
@@ -1101,4 +1108,135 @@ img.game-card__img {
     justify-content: flex-start;
     padding: 10px 12px;
   }
+}
+
+
+/* ===== Theme toggle (dark default) ===== */
+html[data-theme="light"]{
+  --border: rgba(0,0,0,0.14);
+  --bg: rgba(214,222,232,0.92);
+  --bg-2: rgba(206,216,228,0.86);
+  --text: rgba(0,0,0,0.90);
+  --muted: rgba(0,0,0,0.62);
+  --shadow: 0 18px 55px rgba(0,0,0,0.10);
+}
+
+html[data-theme="light"] .site-bg__image{ filter: saturate(0.95) brightness(1.10); }
+
+/* Light mode: override the few remaining hard-coded dark surfaces/gradients */
+html[data-theme="light"] body{ background:#e3e9f1; }
+
+
+html[data-theme="light"] .category-card,
+html[data-theme="light"] .series-card,
+html[data-theme="light"] .genre-card,
+html[data-theme="light"] .game-card{
+  background: rgba(200,210,223,0.92);
+}
+html[data-theme="light"] .topbar{
+  background: rgba(245,246,248,0.78);
+  border-bottom: 1px solid rgba(0,0,0,0.10);
+}
+
+html[data-theme="light"] .nav__link:hover{ background: rgba(0,0,0,0.06); }
+
+html[data-theme="light"] select{
+  border: 1px solid rgba(0,0,0,0.14);
+  background: rgba(245,246,248,0.85);
+  color: var(--text);
+}
+
+html[data-theme="light"] .carousel-btn{
+  border: 1px solid rgba(0,0,0,0.18);
+  background: rgba(245,246,248,0.82);
+}
+html[data-theme="light"] .carousel-btn:hover{ background: rgba(245,246,248,0.92); }
+
+html[data-theme="light"] .home-shuffle-btn{
+  border: 1px solid rgba(0,0,0,0.18);
+  background: rgba(245,246,248,0.82);
+}
+html[data-theme="light"] .home-shuffle-btn:hover{ background: rgba(245,246,248,0.93); }
+
+html[data-theme="light"] .site-bg::after{
+  background:
+    radial-gradient(1200px 700px at 20% 10%, rgba(0,0,0,0.06), transparent 60%),
+    radial-gradient(900px 600px at 80% 25%, rgba(0,0,0,0.04), transparent 60%),
+    linear-gradient(to bottom, rgba(240,242,244,0.68), rgba(240,242,244,0.92));
+}
+
+html[data-theme="light"] .home-card__overlay{
+  background: linear-gradient(to top, rgba(240,242,244,0.92), rgba(240,242,244,0.62) 60%, rgba(240,242,244,0.25));
+}
+
+html[data-theme="light"] .pill--video{
+  background: rgba(255,80,80,0.20);
+  border-color: rgba(255,80,80,0.95);
+  color: #b30000;
+}
+html[data-theme="light"] .pill--video:hover{
+  background: rgba(255,80,80,0.28);
+  color: #7a0000;
+}
+html{ transition: background-color .2s ease, color .2s ease; }
+
+.theme-toggle{
+  display:flex; align-items:center; justify-content:center;
+  width:42px; height:42px; border-radius:999px;
+  border:1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  cursor:pointer;
+}
+.theme-toggle:hover{ transform: translateY(-1px); }
+.theme-toggle:active{ transform: translateY(0px); }
+.theme-toggle__icon{ font-size: 18px; line-height: 1; }
+@media (max-width: 640px){ .theme-toggle{ width:40px; height:40px; } }
+
+
+/* Smooth theme transitions (respect reduced motion) */
+html.theme-transitions body,
+html.theme-transitions .topbar,
+html.theme-transitions .nav,
+html.theme-transitions .search-input,
+html.theme-transitions .search-dropdown,
+html.theme-transitions .series-card,
+html.theme-transitions .genre-card,
+html.theme-transitions .game-card,
+html.theme-transitions .card,
+html.theme-transitions .carousel-btn,
+html.theme-transitions .pill,
+html.theme-transitions .theme-toggle{
+  transition: background-color .20s ease, color .20s ease, border-color .20s ease, box-shadow .20s ease;
+}
+@media (prefers-reduced-motion: reduce){
+  html.theme-transitions body,
+  html.theme-transitions .topbar,
+  html.theme-transitions .nav,
+  html.theme-transitions .search-input,
+  html.theme-transitions .search-dropdown,
+  html.theme-transitions .series-card,
+  html.theme-transitions .genre-card,
+  html.theme-transitions .game-card,
+  html.theme-transitions .card,
+  html.theme-transitions .carousel-btn,
+  html.theme-transitions .pill,
+  html.theme-transitions .theme-toggle{
+    transition: none !important;
+  }
+}
+
+/* Theme toggle placement */
+.theme-toggle--nav{ display:none; }
+@media (max-width: 820px){
+  .theme-toggle--top{ display:none; }
+  .theme-toggle--nav{ display:flex; align-items:center; justify-content:space-between; width:100%; }
+}
+.nav__link--button{
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 10px 14px;
+  cursor: pointer;
 }

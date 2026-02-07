@@ -3,7 +3,25 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  
+  <script>
+    (function() {
+      try {
+        // v5: default to dark and ignore any old stored values from earlier builds
+        var key = "tge_theme_v5";
+        var stored = localStorage.getItem(key);
+        if (!stored) {
+          // Clear legacy keys so old "light" values can't force Day mode
+          ["tge_theme_v2","tge_theme_v3","tge_theme_v4","theme","site-theme"].forEach(function(k){
+            try { localStorage.removeItem(k); } catch(e) {}
+          });
+        }
+        var theme = stored || "dark";
+        document.documentElement.setAttribute("data-theme", theme);
+      } catch (e) {}
+    })();
+  </script>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
   {{/* Open Graph / social cards */}}
   {{ $ogTitle := .Title }}
   {{ if or (not $ogTitle) (eq $ogTitle "") }}
@@ -62,6 +80,11 @@
           <div id="siteSearchDropdown" class="search-dropdown" aria-label="Search results" role="listbox"></div>
         </div>
 
+
+        <button class="theme-toggle theme-toggle--top" type="button" aria-label="Toggle theme" title="Toggle theme" data-theme-toggle>
+          <span class="theme-toggle__icon" aria-hidden="true" data-theme-icon>🌙</span>
+        </button>
+
         <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false" data-nav-toggle>
     <svg class="nav-toggle__icon" viewBox="0 0 24 24" aria-hidden="true">
     <path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
@@ -77,6 +100,10 @@
           <a class="nav__link" href="{{ partial "section-link.html" "series" }}">Browse By Series</a>
           <a class="nav__link" href="{{ partial "section-link.html" "genres" }}">Browse By Genre</a>
           <a class="nav__link" href="{{ partial "section-link.html" "all" }}">All</a>
+        
+          <button class="nav__link nav__link--button theme-toggle--nav" type="button" aria-label="Toggle theme" data-theme-toggle>
+            Theme <span class="nav__theme-icon" aria-hidden="true" data-theme-icon>🌙</span>
+          </button>
         </nav>
       </div>
     </header>
@@ -95,6 +122,7 @@
 
   {{ $js := resources.Get "js/main.js" | minify }}
   <script src="{{ $js.RelPermalink }}" defer></script>
+  <script src="{{ "/js/theme.js" | relURL }}" defer></script>
   {{/* Randomize home card images every page load (uses data-random-srcs) */}}
   <script src="{{ "/js/home-random.js" | relURL }}" defer></script>
   {{ partial "search-data.html" . }}
