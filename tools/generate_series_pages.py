@@ -62,13 +62,9 @@ def should_overwrite(existing_text: str) -> bool:
 
 def make_content(series_name: str, slug: str) -> str:
     # YAML front matter
-    # If the series name looks like a slug (e.g. "tux-games"), generate a nicer title
-    display_name = series_name
-    if re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)+", series_name.strip().lower()) and series_name == series_name.lower():
-        display_name = series_name.replace("-", " ").title()
     return (
         "---\n"
-        f'title: "{display_name}"\n'
+        f'title: "{series_name}"\n'
         f'series: "{series_name}"\n'
         f'slug: "{slug}"\n'
         f"# {AUTO_MARKER}\n"
