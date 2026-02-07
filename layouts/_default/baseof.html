@@ -39,8 +39,8 @@
 
   <meta name="description" content="{{ $ogDesc }}" />
 
-{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+  {{ $css := resources.Get "css/main.css" | minify }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
 
   {{/* Preload the large background image to reduce perceived load time */}}
   <link rel="preload" as="image" href="{{ "/Images/Background/background.jpg" | relURL }}" fetchpriority="high" />

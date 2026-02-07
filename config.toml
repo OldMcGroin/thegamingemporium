@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "The Gaming Emporium"
 
 [params]
-  description = "A curated list of games, ports, mods, and more."
+  description = "A curated list of decompilations, ports, mods, and more."
   cloudflare_web_analytics_token = ""

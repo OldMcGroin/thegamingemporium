@@ -1,10 +1,33 @@
 {{ define "main" }}
-{{ $seriesName := .Params.series }}
-{{ $slug := .Params.slug }}
+{{/*
+  Series pages are auto-generated from data/games.json.
 
-<h1 class="page-title">{{ $seriesName | title }}</h1>
+  Historically the `series` field in games.json has sometimes been stored as:
+  - a human name (e.g. "Animal Crossing")
+  - a slug (e.g. "tux-games")
 
-{{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
+  To make series pages resilient, match games by:
+  - exact (case-insensitive) series name
+  - series slug (case-insensitive)
+  - urlize(series name) == slug
+*/}}
+
+{{ $seriesKey := .Params.series | default .Title }}
+{{ $slug := .Params.slug | default (urlize $seriesKey) }}
+
+<h1 class="page-title">{{ .Title }}</h1>
+
+{{ $all := where site.Data.games "category" "not in" (slice "abandonware" "Abandonware") }}
+{{ $games := slice }}
+{{ range $all }}
+  {{ $game := . }}
+  {{ with $game.series }}
+    {{ $s := . }}
+    {{ if or (eq (lower $s) (lower $seriesKey)) (eq (lower $s) (lower $slug)) (eq (lower (urlize $s)) (lower $slug)) }}
+      {{ $games = $games | append $game }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 {{ $games = sort $games "title" "asc" }}
 
 <div class="game-controls" data-game-grid>
@@ -33,8 +56,19 @@
 {{ end }}
 
 {{ define "preloads" }}
-  {{ $seriesName := .Params.series }}
-  {{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
+  {{ $seriesKey := .Params.series | default .Title }}
+  {{ $slug := .Params.slug | default (urlize $seriesKey) }}
+  {{ $all := where site.Data.games "category" "not in" (slice "abandonware" "Abandonware") }}
+  {{ $games := slice }}
+  {{ range $all }}
+    {{ $game := . }}
+    {{ with $game.series }}
+      {{ $s := . }}
+      {{ if or (eq (lower $s) (lower $seriesKey)) (eq (lower $s) (lower $slug)) (eq (lower (urlize $s)) (lower $slug)) }}
+        {{ $games = $games | append $game }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
   {{ $games = sort $games "title" "asc" }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}

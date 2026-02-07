@@ -1,4 +1,5 @@
 ---
-title: "Tux Games"
+title: "Tux"
+series: "tux-games"
 slug: "tux-games"
 ---
