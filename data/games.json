@@ -20983,6 +20983,46 @@
     "notes": "",
     "date_added": "2026-02-07",
     "image": ""
+  },
+
+  {
+    "id": 1611,
+    "title": "Minima",
+    "category": "open-source",
+    "link": "https://feneric.itch.io/minima",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "Minima",
+    "video_link": "https://youtu.be/N1SRAAX7EbE?si=evLw-BOlAOTbP5kP",
+    "notes": "",
+    "date_added": "2026-02-07",
+    "image": ""
+  },
+  {
+    "id": 1612,
+    "title": "Anteform",
+    "category": "open-source",
+    "link": "https://feneric.itch.io/anteform",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Anteform",
+    "video_link": "https://youtu.be/BoEIxjgoock?si=FO_lQAn0SUUPJimV",
+    "notes": "",
+    "date_added": "2026-02-07",
+    "image": ""
+  },
+  {
+    "id": 1613,
+    "title": "MOTHER: Encore",
+    "category": "fan-games",
+    "link": "https://motherencore.com/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Earthbound",
+    "video_link": "https://youtu.be/OUgyQj5Hw9s?si=lduALIPAGtdQtrnr",
+    "notes": "",
+    "date_added": "2026-02-07",
+    "image": ""
   }
 
   ]
