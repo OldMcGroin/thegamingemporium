@@ -20957,7 +20957,7 @@
     "date_added": "2026-02-07",
     "image": ""
   },
-{
+  {
     "id": 1609,
     "title": "Ghostship - Mario 64 PC Port - HD Texture Pack",
     "category": "decompilations-recompilations",
@@ -20966,6 +20966,20 @@
     "genre2": "",
     "series": "Super Mario",
     "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-07",
+    "image": ""
+  },
+
+  {
+    "id": 1610,
+    "title": "The Witcher 3 - Dawn Over Kovir",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/witcher3/mods/11831?tab=description",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Witcher",
+    "video_link": "https://youtu.be/K9IxzKCb1D0?si=HaNCYZMU_-oso87f",
     "notes": "",
     "date_added": "2026-02-07",
     "image": ""
