@@ -1240,3 +1240,33 @@ html.theme-transitions .theme-toggle{
   padding: 10px 14px;
   cursor: pointer;
 }
+
+
+/* ===============================
+   Mobile hamburger menu (LIGHT theme) – match Series card styling
+   =============================== */
+@media (max-width: 860px){
+  html[data-theme="light"] .nav{
+    background: var(--bg) !important;
+    color: var(--text) !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: var(--shadow) !important;
+  }
+  html[data-theme="light"] .nav__link,
+  html[data-theme="light"] .nav__link--button{
+    color: var(--text) !important;
+    font-weight: 700 !important;
+  }
+  html[data-theme="light"] .nav__link:hover{
+    background: rgba(0,0,0,0.06) !important;
+    color: var(--text) !important;
+  }
+
+  /* Hamburger button should be dark in light mode */
+  html[data-theme="light"] .nav-toggle{
+    color: rgba(0,0,0,0.82) !important;
+    background: rgba(0,0,0,0.03) !important;
+    border: 1px solid var(--border) !important;
+  }
+}
+
