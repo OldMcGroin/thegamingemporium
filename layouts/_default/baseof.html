@@ -20,8 +20,8 @@
   {{ $ogImage := ("/Images/Social/share-preview.jpg" | absURL) }}
 
   <link rel="canonical" href="{{ $ogUrl }}" />
-  <meta property="og:title" content="{{ $ogTitle }}" />
-  <meta property="og:description" content="{{ $ogDesc }}" />
+  <meta property="og:title" content="The Gaming Emporium – 1,400+ Decompilations, Ports & Mods">
+  <meta property="og:description" content="A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.">
   <meta property="og:url" content="{{ $ogUrl }}" />
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
   <meta property="og:image" content="https://thegamingemporium.com/share-preview.jpg">
@@ -37,7 +37,7 @@
   <meta name="twitter:description" content="{{ $ogDesc }}" />
   <meta name="twitter:image" content="{{ $ogImage }}" />
 
-  <meta name="description" content="{{ $ogDesc }}" />
+  <meta name="description" content="A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.">
 
   {{ $css := resources.Get "css/main.css" | minify }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
