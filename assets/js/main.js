@@ -348,14 +348,22 @@ function initGameGrids(){
           list.innerHTML = '';
           if(data.top.length === 0){
             list.innerHTML = '<li class="popular__empty">No clicks recorded yet.</li>';
+            if(added === 0){
+            list.innerHTML = '<li class="popular__empty">No popular games yet — start clicking game cards and they will appear here.</li>';
             setMsg('');
             return;
           }
+          setMsg('');
+            return;
+          }
 
+          var added = 0;
           for(var i=0;i<data.top.length;i++){
             var row = data.top[i] || {};
             var id = String(row.id || '').trim();
             if(!id) continue;
+            // Hide any manual test entries (you can also delete them from D1).
+            if(id === 'test-game' || id === 'test-live' || id.indexOf('test-') === 0) continue;
             var info = lookup[id] || { title: id, url: '#' };
 
             var li = document.createElement('li');
@@ -373,6 +381,7 @@ function initGameGrids(){
             li.appendChild(a);
             li.appendChild(c);
             list.appendChild(li);
+            added++;
           }
           setMsg('');
         })
