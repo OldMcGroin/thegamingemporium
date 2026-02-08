@@ -402,6 +402,10 @@ function initGameGrids(){
             var li = document.createElement('li');
             li.className = 'popular__item';
 
+            var r = document.createElement('span');
+            r.className = 'popular__rank';
+            r.textContent = String(added + 1);
+
             var a = document.createElement('a');
             a.className = 'popular__link';
             a.textContent = info.title;
@@ -411,12 +415,8 @@ function initGameGrids(){
               a.setAttribute('aria-disabled','true');
             }
 
-            var c = document.createElement('span');
-            c.className = 'popular__count';
-            c.textContent = '(' + (row.count || 0) + ')';
-
+            li.appendChild(r);
             li.appendChild(a);
-            li.appendChild(c);
             list.appendChild(li);
             added++;
           }

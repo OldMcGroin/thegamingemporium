@@ -1399,3 +1399,53 @@ html.theme-transitions .theme-toggle{
 @media (max-width: 700px){
   .share-mobile-bar{ display: flex; }
 }
+
+
+/* Most Popular popover list */
+.popular__list { margin: 8px 0 0; padding: 0; list-style: none; }
+.popular__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0; /* increased spacing */
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+.popular__item:first-child { border-top: 0; padding-top: 6px; }
+.popular__rank{
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 13px;
+  background: rgba(255,255,255,0.14);
+  border: 1px solid rgba(255,255,255,0.18);
+  flex: 0 0 26px;
+}
+.popular__link{ flex: 1 1 auto; }
+
+
+/* Mobile share bar actions (Share / Most Popular / Theme toggle) */
+.share-mobile-bar{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+}
+.theme-toggle--mobilebar{
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.18);
+  background: rgba(255,255,255,0.55);
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  font-size: 18px;
+  flex: 0 0 44px;
+}
+:root[data-theme="dark"] .theme-toggle--mobilebar{
+  border: 1px solid rgba(255,255,255,0.14);
+  background: rgba(0,0,0,0.35);
+}
