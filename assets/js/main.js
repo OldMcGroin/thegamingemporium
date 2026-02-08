@@ -259,10 +259,172 @@ function initGameGrids(){
       });
   }
 
+  // --- Popularity tracking + "Most Popular" home card ---
+  function slugifyTitle(str){
+    try {
+      return String(str || '')
+        .normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+    } catch(e) {
+      return String(str || '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+    }
+  }
+
+  function initPopularityTracking(){
+    // Best-effort: never block navigation.
+    var lastSent = Object.create(null);
+
+    document.addEventListener('click', function(e){
+      var a = e.target && e.target.closest ? e.target.closest('a.game-card__link') : null;
+      if(!a) return;
+
+      var id = (a.getAttribute('data-game-id') || '').trim();
+      if(!id){
+        // Fallback: derive from text if needed
+        var titleEl = a.querySelector('.game-card__title');
+        if(titleEl) id = slugifyTitle(titleEl.textContent);
+      }
+      if(!id) return;
+
+      var now = Date.now();
+      if(lastSent[id] && (now - lastSent[id]) < 3500) return; // simple spam guard
+      lastSent[id] = now;
+
+      var url = '/api/click?id=' + encodeURIComponent(id);
+      try {
+        if(navigator.sendBeacon){
+          navigator.sendBeacon(url);
+        } else {
+          fetch(url, { method: 'GET', keepalive: true }).catch(function(){});
+        }
+      } catch(err) {
+        // ignore
+      }
+    }, { passive: true });
+  }
+
+  function initMostPopularNav(){
+    var btn = document.getElementById('popularBtn');
+    var closeBtn = document.getElementById('popularClose');
+    var pop = document.getElementById('popularPopover');
+    var list = document.getElementById('popularList');
+    var msg  = document.getElementById('popularMsg');
+    if(!btn || !pop || !list) return;
+
+    // Build slug -> {title,url} lookup from the already-loaded search index.
+    var lookup = Object.create(null);
+    try {
+      var idx = (window.__GAME_INDEX__ || []);
+      for(var i=0;i<idx.length;i++){
+        var t = idx[i] && idx[i].title;
+        var u = idx[i] && idx[i].url;
+        if(!t || !u) continue;
+        lookup[slugifyTitle(t)] = { title: t, url: u };
+      }
+    } catch(e) {}
+
+    function setMsg(text){
+      if(msg) msg.textContent = text;
+    }
+
+    var loaded = false;
+    function load(){
+      if(loaded) return;
+      loaded = true;
+      setMsg('Loading…');
+      fetch('/api/top?limit=10', { cache: 'no-store' })
+        .then(function(r){ return r.json(); })
+        .then(function(data){
+          if(!data || !data.ok || !Array.isArray(data.top)) throw new Error('bad');
+
+          list.innerHTML = '';
+          if(data.top.length === 0){
+            list.innerHTML = '<li class="popular__empty">No clicks recorded yet.</li>';
+            setMsg('');
+            return;
+          }
+
+          for(var i=0;i<data.top.length;i++){
+            var row = data.top[i] || {};
+            var id = String(row.id || '').trim();
+            if(!id) continue;
+            var info = lookup[id] || { title: id, url: '#' };
+
+            var li = document.createElement('li');
+            li.className = 'popular__item';
+
+            var a = document.createElement('a');
+            a.className = 'popular__link';
+            a.textContent = info.title;
+            a.href = info.url;
+
+            var c = document.createElement('span');
+            c.className = 'popular__count';
+            c.textContent = '(' + (row.count || 0) + ')';
+
+            li.appendChild(a);
+            li.appendChild(c);
+            list.appendChild(li);
+          }
+          setMsg('');
+        })
+        .catch(function(){
+          setMsg('Couldn\'t load popular games right now.');
+        });
+    }
+
+    function open(){
+      pop.hidden = false;
+      btn.setAttribute('aria-expanded','true');
+      load();
+    }
+    function close(){
+      pop.hidden = true;
+      btn.setAttribute('aria-expanded','false');
+    }
+    function toggle(){
+      if(pop.hidden) open(); else close();
+    }
+
+    btn.addEventListener('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();
+      toggle();
+    });
+
+    if(closeBtn){
+      closeBtn.addEventListener('click', function(e){
+        e.preventDefault(); e.stopPropagation(); close();
+      });
+    }
+
+    document.addEventListener('click', function(e){
+      if(pop.hidden) return;
+      var t = e.target;
+      if(!t) return;
+      if(t.closest && (t.closest('#popularPopover') || t.closest('#popularBtn'))) return;
+      close();
+    });
+
+    document.addEventListener('keydown', function(e){
+      if(e.key === 'Escape' && !pop.hidden) close();
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', function(){
     initCarousel();
     initGameGrids();
     initSeriesGrids();
     initGenreGrids();
+    initPopularityTracking();
+    initMostPopularNav();
   });
 })();

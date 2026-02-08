@@ -38,7 +38,7 @@ Image strategy (scales to thousands of items):
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
     <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy image slug">Copy filename</button>
   {{- end -}}
-  <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener">
+  <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener" data-game-id="{{ $slug }}">
     <div class="game-card__image">
       <img class="game-card__img"
            src="/Images/Games/{{ $slug }}.webp"

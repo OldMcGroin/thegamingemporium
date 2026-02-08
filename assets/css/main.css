@@ -152,6 +152,45 @@ body{
 .home-card__title{ font-size: 40px; font-weight: 850; letter-spacing:0.2px; }
 .home-card__desc{ margin-top: 6px; color: rgba(255,255,255,0.92); font-weight:650; }
 
+/* Most Popular home card (dropdown list) */
+.home-card--popular .home-card__overlay{ gap: 10px; }
+.popular{ margin-top: 10px; }
+.popular__summary{
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  padding: 10px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.22);
+  background: rgba(0,0,0,0.55);
+  color: rgba(255,255,255,0.95);
+  font-weight: 800;
+  cursor: pointer;
+  user-select: none;
+}
+.popular__summary::-webkit-details-marker{ display:none; }
+.popular[open] .popular__summary{ background: rgba(0,0,0,0.70); }
+
+.popular__panel{
+  margin-top: 10px;
+  padding: 12px 12px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(6px);
+  max-height: 210px;
+  overflow: auto;
+}
+.popular__msg{ font-weight: 750; color: rgba(255,255,255,0.92); }
+.popular__list{ margin: 10px 0 0; padding-left: 18px; }
+.popular__item{ display:flex; align-items: baseline; justify-content: space-between; gap: 10px; margin: 8px 0; }
+.popular__link{ color: rgba(255,255,255,0.97); text-decoration: none; font-weight: 800; }
+.popular__link:hover{ text-decoration: underline; }
+.popular__count{ color: rgba(255,255,255,0.78); font-weight: 800; white-space: nowrap; }
+.popular__empty{ color: rgba(255,255,255,0.88); font-weight: 750; }
+
 /* Controls */
 .controls{
   display:flex;
@@ -1169,6 +1208,21 @@ html[data-theme="light"] .home-card__overlay{
   background: linear-gradient(to top, rgba(240,242,244,0.92), rgba(240,242,244,0.62) 60%, rgba(240,242,244,0.25));
 }
 
+html[data-theme="light"] .popular__summary{
+  background: rgba(255,255,255,0.82);
+  border-color: rgba(0,0,0,0.12);
+  color: rgba(0,0,0,0.88);
+}
+html[data-theme="light"] .popular[open] .popular__summary{ background: rgba(255,255,255,0.92); }
+html[data-theme="light"] .popular__panel{
+  background: rgba(255,255,255,0.84);
+  border-color: rgba(0,0,0,0.12);
+}
+html[data-theme="light"] .popular__msg{ color: rgba(0,0,0,0.78); }
+html[data-theme="light"] .popular__link{ color: rgba(0,0,0,0.92); }
+html[data-theme="light"] .popular__count{ color: rgba(0,0,0,0.60); }
+html[data-theme="light"] .popular__empty{ color: rgba(0,0,0,0.72); }
+
 html[data-theme="light"] .pill--video{
   background: rgba(255,80,80,0.20);
   border-color: rgba(255,80,80,0.95);
@@ -1270,3 +1324,59 @@ html.theme-transitions .theme-toggle{
   }
 }
 
+
+
+/* Most Popular pill + popover */
+.nav-popular-wrap{ position: relative; display: inline-flex; align-items: center; }
+.nav__link--pill{
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.10);
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-weight: 800;
+  letter-spacing: .2px;
+}
+.nav__link--pill:hover{ background: rgba(255,255,255,0.16); }
+
+.nav-popular{
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  width: min(360px, 92vw);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 12px;
+  z-index: 80;
+}
+.nav-popular__head{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.nav-popular__title{ font-weight: 800; }
+.nav-popular__close{
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1;
+  padding: 6px 8px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.nav-popular__close:hover{ background: rgba(255,255,255,0.10); }
+
+@media (max-width: 720px){
+  .nav-popular-wrap{ width: 100%; display: block; }
+  .nav__link--pill{ width: 100%; text-align: left; justify-content: space-between; }
+  .nav-popular{
+    position: static;
+    width: 100%;
+    margin-top: 10px;
+  }
+}
