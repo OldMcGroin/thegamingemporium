@@ -1345,13 +1345,20 @@ html.theme-transitions .theme-toggle{
   left: 10px;
   transform: none;
   width: min(360px, 92vw);
-  background: var(--bg);
-  border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 12px;
   z-index: 80;
+  background: rgba(0,0,0,0.78);
+  border: 1px solid rgba(255,255,255,0.14);
+  backdrop-filter: blur(10px);
 }
+
+html[data-theme="light"] .nav-popular{
+  background: rgba(255,255,255,0.92);
+  border: 1px solid rgba(0,0,0,0.12);
+}
+
 .nav-popular__head{
   display: flex;
   align-items: center;
@@ -1422,14 +1429,14 @@ html.theme-transitions .theme-toggle{
 .popular__link{ flex: 1 1 auto; }
 
 .popular__scroll{
-  max-height: min(420px, 55vh);
+  max-height: min(520px, 70vh);
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior: contain;
   padding-right: 2px;
 }
 @media (max-width: 700px){
-  .popular__scroll{ max-height: min(420px, 45vh); }
+  .popular__scroll{ max-height: min(520px, 60vh); }
 }
 
 
