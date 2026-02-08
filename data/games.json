@@ -21023,6 +21023,32 @@
     "notes": "",
     "date_added": "2026-02-07",
     "image": ""
+  },
+  {
+    "id": 1614,
+    "title": "Project Kat",
+    "category": "fan-games",
+    "link": "https://leef6010.itch.io/projectkat",
+    "genre1": "rpg",
+    "genre2": "puzzle",
+    "series": "Project Kat",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-08",
+    "image": ""
+  },
+  {
+    "id": 1615,
+    "title": "The Freak Circus",
+    "category": "fan-games",
+    "link": "https://garula.itch.io/the-freak-circus",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Freak Circus",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-08",
+    "image": ""
   }
 
   ]
