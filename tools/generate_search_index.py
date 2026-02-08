@@ -1,32 +1,59 @@
 #!/usr/bin/env python3
+"""
+Generate static/search-index.js from data/games.json.
+
+This powers the site-wide search dropdown. Keeping it generated avoids
+stale search results when games.json changes.
+
+Output format:
+  window.__GAME_INDEX__ = [{"title": "...", "url": "..."}, ...]
+"""
+
+from __future__ import annotations
+
 import json
 from pathlib import Path
+from typing import Any, Dict, List
 
-ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data" / "games.json"
-OUT  = ROOT / "static" / "search-index.js"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+GAMES_JSON = PROJECT_ROOT / "data" / "games.json"
+OUT_PATH = PROJECT_ROOT / "static" / "search-index.js"
 
-def norm(s):
-    return (s or "").strip().lower()
+ABANDONWARE = {"abandonware"}
 
-def main():
-    games = json.loads(DATA.read_text(encoding="utf-8"))
+def read_games(path: Path) -> List[Dict[str, Any]]:
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(data, list):
+        raise SystemExit("data/games.json must be a JSON array")
+    return [x for x in data if isinstance(x, dict)]
+
+def is_abandonware(game: Dict[str, Any]) -> bool:
+    cat = game.get("category")
+    if cat is None:
+        return False
+    return str(cat).strip().lower() in ABANDONWARE
+
+def main() -> None:
+    if not GAMES_JSON.exists():
+        raise SystemExit(f"Missing {GAMES_JSON}")
+
+    games = read_games(GAMES_JSON)
+
     index = []
+    skipped = 0
     for g in games:
-        cat = norm(g.get("category"))
-        if cat == "abandonware":
+        if is_abandonware(g):
             continue
-        title = g.get("title") or g.get("name") or ""
-        url = g.get("url") or g.get("link") or ""
-        title = str(title).strip()
-        url = str(url).strip()
-        if not title:
+        title = str(g.get("title") or "").strip()
+        url = str(g.get("link") or "").strip()
+        if not title or not url:
+            skipped += 1
             continue
         index.append({"title": title, "url": url})
-    # sort alphabetically for stable diffs
-    index.sort(key=lambda x: x["title"].lower())
 
-    OUT.write_text("window.__GAME_INDEX__ = " + json.dumps(index, ensure_ascii=False) + ";\n", encoding="utf-8")
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    OUT_PATH.write_text("window.__GAME_INDEX__ = " + json.dumps(index, ensure_ascii=False) + ";", encoding="utf-8")
+    print(f"Search index: items={len(index)}, skipped_missing_fields={skipped}")
 
 if __name__ == "__main__":
     main()
