@@ -373,7 +373,7 @@ function initGameGrids(){
     function load(){
       // Always refresh when opened so the list updates without a full reload.
       setMsg('Loading…');
-      fetch('/api/top?limit=10', { cache: 'no-store' })
+      fetch('/api/top?limit=25', { cache: 'no-store' })
         .then(function(r){ return r.json(); })
         .then(function(data){
           if(!data || !data.ok || !Array.isArray(data.top)) throw new Error('bad');
@@ -419,6 +419,7 @@ function initGameGrids(){
             li.appendChild(a);
             list.appendChild(li);
             added++;
+            if(added >= 10) break;
           }
 
           if(added === 0){

@@ -1349,7 +1349,7 @@ html.theme-transitions .theme-toggle{
   box-shadow: var(--shadow);
   padding: 12px;
   z-index: 80;
-  background: rgba(0,0,0,0.78);
+  background: rgba(0,0,0,0.86);
   border: 1px solid rgba(255,255,255,0.14);
   backdrop-filter: blur(10px);
 }
