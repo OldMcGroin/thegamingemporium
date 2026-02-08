@@ -1329,19 +1329,21 @@ html.theme-transitions .theme-toggle{
 /* Most Popular pill + popover */
 .nav-popular-wrap{ position: relative; display: inline-flex; align-items: center; }
 .nav__link--pill{
-  border: 1px solid var(--border);
-  background: rgba(255,255,255,0.10);
+  border: 1px solid rgba(0,0,0,0.15);
+  background: #f5c400;
   padding: 8px 14px;
   border-radius: 999px;
   font-weight: 800;
   letter-spacing: .2px;
+  color: rgba(0,0,0,0.88);
 }
-.nav__link--pill:hover{ background: rgba(255,255,255,0.16); }
+.nav__link--pill:hover{ filter: brightness(0.97); }
 
 .nav-popular{
-  position: absolute;
-  top: calc(100% + 10px);
-  right: 0;
+  position: fixed;
+  top: 80px;
+  left: 10px;
+  transform: none;
   width: min(360px, 92vw);
   background: var(--bg);
   border: 1px solid var(--border);
@@ -1371,12 +1373,29 @@ html.theme-transitions .theme-toggle{
 }
 .nav-popular__close:hover{ background: rgba(255,255,255,0.10); }
 
-@media (max-width: 720px){
-  .nav-popular-wrap{ width: 100%; display: block; }
-  .nav__link--pill{ width: 100%; text-align: left; justify-content: space-between; }
-  .nav-popular{
-    position: static;
-    width: 100%;
-    margin-top: 10px;
-  }
+@media (max-width: 700px){
+  /* Hide the nav menu pill on mobile; we show it next to the Share button instead */
+  .nav-popular-wrap{ display: none; }
+}
+
+/* Mobile: Share + Most Popular bar */
+.share-mobile-bar{
+  display: none;
+  gap: 12px;
+  align-items: center;
+}
+.popular-mobile-btn{
+  border: 1px solid rgba(0,0,0,0.15);
+  background: #f5c400;
+  color: rgba(0,0,0,0.88);
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-weight: 800;
+  letter-spacing: .2px;
+  box-shadow: var(--shadow);
+}
+.popular-mobile-btn:hover{ filter: brightness(0.97); }
+
+@media (max-width: 700px){
+  .share-mobile-bar{ display: flex; }
 }

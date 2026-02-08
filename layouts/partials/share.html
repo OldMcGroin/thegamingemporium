@@ -66,14 +66,15 @@
   </div>
 
   <!-- Mobile -->
-  <details class="share-menu">
-    <summary class="share-menu__summary" aria-label="Open share menu">
+  <div class="share-mobile-bar">
+    <details class="share-menu">
+      <summary class="share-menu__summary" aria-label="Open share menu">
       <svg class="share-menu__icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
         <path d="M18 8a3 3 0 1 0-2.82-4H15a3 3 0 0 0 .36 1.36l-7.1 4.06A3 3 0 0 0 6 9a3 3 0 1 0 2.26 4.06l7.1 4.06A3 3 0 0 0 15 19a3 3 0 1 0 .82-2.14l-7.1-4.06A3 3 0 0 0 8.26 11l7.1-4.06A2.99 2.99 0 0 0 18 8Z" fill="currentColor"/>
       </svg>
       Share
     </summary>
-    <div class="share-menu__panel">
+      <div class="share-menu__panel">
       <div class="share-buttons" aria-label="Share options">
         <a class="share-buttons__btn" aria-label="Share on Reddit" title="Share on Reddit"
            href="https://www.reddit.com/submit?url={{ $url | urlquery }}&title={{ $shareText | urlquery }}" target="_blank" rel="noopener">
@@ -122,6 +123,11 @@
           <span class="share-buttons__text">X</span>
         </a>
       </div>
-    </div>
-  </details>
+      </div>
+    </details>
+
+    <button class="popular-mobile-btn" type="button" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
+      Most Popular
+    </button>
+  </div>
 </div>

@@ -102,17 +102,9 @@
           <a class="nav__link" href="{{ partial "section-link.html" "genres" }}">Browse By Genre</a>
           <a class="nav__link" href="{{ partial "section-link.html" "all" }}">All</a>
           <div class="nav-popular-wrap">
-            <button class="nav__link nav__link--pill" type="button" id="popularBtn" aria-haspopup="dialog" aria-expanded="false">
+            <button class="nav__link nav__link--pill" type="button" id="popularBtn" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
               Most Popular
             </button>
-            <div class="nav-popular" id="popularPopover" hidden>
-              <div class="nav-popular__head">
-                <div class="nav-popular__title">Top 10</div>
-                <button class="nav-popular__close" type="button" aria-label="Close" id="popularClose">✕</button>
-              </div>
-              <div class="popular__msg" id="popularMsg">Loading…</div>
-              <ol class="popular__list" id="popularList"></ol>
-            </div>
           </div>
 
         
@@ -122,6 +114,16 @@
         </nav>
       </div>
     </header>
+
+    <!-- Most Popular popover (kept outside the mobile nav so it can open from anywhere) -->
+    <div class="nav-popular" id="popularPopover" hidden>
+      <div class="nav-popular__head">
+        <div class="nav-popular__title">Top 10</div>
+        <button class="nav-popular__close" type="button" aria-label="Close" id="popularClose">✕</button>
+      </div>
+      <div class="popular__msg" id="popularMsg">Loading…</div>
+      <ol class="popular__list" id="popularList"></ol>
+    </div>
 
     <main class="container main">
       {{ block "main" . }}{{ end }}

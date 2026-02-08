@@ -312,22 +312,28 @@ function initGameGrids(){
   }
 
   function initMostPopularNav(){
-    var btn = document.getElementById('popularBtn');
+    var btns = Array.prototype.slice.call(document.querySelectorAll('[data-popular-toggle]'));
     var closeBtn = document.getElementById('popularClose');
     var pop = document.getElementById('popularPopover');
     var list = document.getElementById('popularList');
     var msg  = document.getElementById('popularMsg');
-    if(!btn || !pop || !list) return;
+    if(!btns.length || !pop || !list) return;
 
-    // Build slug -> {title,url} lookup from the already-loaded search index.
+    // Build id -> {title,url} lookup from the already-loaded search index.
+    // We store two keys for each entry:
+    //  - a slugified title (matches most Hugo urlize outputs)
+    //  - a "loose" key with hyphens removed (handles rare normalization differences)
     var lookup = Object.create(null);
+    var lookupLoose = Object.create(null);
     try {
       var idx = (window.__GAME_INDEX__ || []);
       for(var i=0;i<idx.length;i++){
         var t = idx[i] && idx[i].title;
         var u = idx[i] && idx[i].url;
         if(!t || !u) continue;
-        lookup[slugifyTitle(t)] = { title: t, url: u };
+        var k = slugifyTitle(t);
+        lookup[k] = { title: t, url: u };
+        lookupLoose[k.replace(/-/g,'')] = { title: t, url: u };
       }
     } catch(e) {}
 
@@ -335,10 +341,37 @@ function initGameGrids(){
       if(msg) msg.textContent = text;
     }
 
+    function humanizeSlug(slug){
+      // Fallback so we never show raw "mario-kart-wii" style slugs.
+      var parts = String(slug || '').split('-').filter(Boolean);
+      return parts.map(function(w){
+        if(w === 'x') return 'X';
+        if(w === 'ps' || w === 'psx' || w === 'ps2' || w === 'ps3' || w === 'ps4' || w === 'ps5') return w.toUpperCase();
+        if(w === 'wii') return 'Wii';
+        if(w === 'gba') return 'GBA';
+        if(w === 'gb') return 'GB';
+        if(w === 'c64') return 'C64';
+        if(w === 'n64') return 'N64';
+        return w.charAt(0).toUpperCase() + w.slice(1);
+      }).join(' ');
+    }
+
+    function positionPopover(anchorEl){
+      if(!anchorEl || !anchorEl.getBoundingClientRect) return;
+      var r = anchorEl.getBoundingClientRect();
+      // Default: align popover right edge to the button, just below it.
+      var top = r.bottom + 10;
+      var left = Math.max(10, (r.right - pop.offsetWidth));
+      // Keep within viewport.
+      var maxLeft = Math.max(10, window.innerWidth - pop.offsetWidth - 10);
+      left = Math.min(left, maxLeft);
+      pop.style.top = top + 'px';
+      pop.style.left = left + 'px';
+    }
+
     var loaded = false;
     function load(){
-      if(loaded) return;
-      loaded = true;
+      // Always refresh when opened so the list updates without a full reload.
       setMsg('Loading…');
       fetch('/api/top?limit=10', { cache: 'no-store' })
         .then(function(r){ return r.json(); })
@@ -347,13 +380,8 @@ function initGameGrids(){
 
           list.innerHTML = '';
           if(data.top.length === 0){
-            list.innerHTML = '<li class="popular__empty">No clicks recorded yet.</li>';
-            if(added === 0){
             list.innerHTML = '<li class="popular__empty">No popular games yet — start clicking game cards and they will appear here.</li>';
             setMsg('');
-            return;
-          }
-          setMsg('');
             return;
           }
 
@@ -362,9 +390,14 @@ function initGameGrids(){
             var row = data.top[i] || {};
             var id = String(row.id || '').trim();
             if(!id) continue;
+
             // Hide any manual test entries (you can also delete them from D1).
             if(id === 'test-game' || id === 'test-live' || id.indexOf('test-') === 0) continue;
-            var info = lookup[id] || { title: id, url: '#' };
+
+            var info = lookup[id] || lookupLoose[id.replace(/-/g,'')] || null;
+            if(!info){
+              info = { title: humanizeSlug(id), url: '#' };
+            }
 
             var li = document.createElement('li');
             li.className = 'popular__item';
@@ -373,6 +406,10 @@ function initGameGrids(){
             a.className = 'popular__link';
             a.textContent = info.title;
             a.href = info.url;
+            if(info.url === '#'){
+              a.addEventListener('click', function(e){ e.preventDefault(); });
+              a.setAttribute('aria-disabled','true');
+            }
 
             var c = document.createElement('span');
             c.className = 'popular__count';
@@ -383,30 +420,41 @@ function initGameGrids(){
             list.appendChild(li);
             added++;
           }
+
+          if(added === 0){
+            list.innerHTML = '<li class="popular__empty">No popular games yet — start clicking game cards and they will appear here.</li>';
+          }
+
           setMsg('');
+          loaded = true;
         })
         .catch(function(){
           setMsg('Couldn\'t load popular games right now.');
         });
     }
 
-    function open(){
+    var currentAnchor = null;
+    function open(anchor){
+      currentAnchor = anchor || btns[0];
       pop.hidden = false;
-      btn.setAttribute('aria-expanded','true');
+      positionPopover(currentAnchor);
       load();
+      btns.forEach(function(b){ b.setAttribute('aria-expanded','true'); });
     }
     function close(){
       pop.hidden = true;
-      btn.setAttribute('aria-expanded','false');
+      btns.forEach(function(b){ b.setAttribute('aria-expanded','false'); });
     }
-    function toggle(){
-      if(pop.hidden) open(); else close();
+    function toggle(anchor){
+      if(pop.hidden) open(anchor); else close();
     }
 
-    btn.addEventListener('click', function(e){
-      e.preventDefault();
-      e.stopPropagation();
-      toggle();
+    btns.forEach(function(b){
+      b.addEventListener('click', function(e){
+        e.preventDefault();
+        e.stopPropagation();
+        toggle(b);
+      });
     });
 
     if(closeBtn){
@@ -415,11 +463,16 @@ function initGameGrids(){
       });
     }
 
+    window.addEventListener('resize', function(){
+      if(pop.hidden) return;
+      positionPopover(currentAnchor || btns[0]);
+    });
+
     document.addEventListener('click', function(e){
       if(pop.hidden) return;
       var t = e.target;
       if(!t) return;
-      if(t.closest && (t.closest('#popularPopover') || t.closest('#popularBtn'))) return;
+      if(t.closest && (t.closest('#popularPopover') || t.closest('[data-popular-toggle]'))) return;
       close();
     });
 
