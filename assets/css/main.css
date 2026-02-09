@@ -1349,7 +1349,8 @@ html.theme-transitions .theme-toggle{
   box-shadow: var(--shadow);
   padding: 12px;
   z-index: 80;
-  background: rgba(0,0,0,0.86);
+  /* Slightly darker for readability over busy carousel images */
+  background: rgba(0,0,0,0.90);
   border: 1px solid rgba(255,255,255,0.14);
   backdrop-filter: blur(10px);
 }
@@ -1366,7 +1367,28 @@ html[data-theme="light"] .nav-popular{
   gap: 10px;
   margin-bottom: 8px;
 }
+.nav-popular__head-left{ display:flex; flex-direction:column; gap:6px; min-width: 0; }
 .nav-popular__title{ font-weight: 800; }
+.nav-popular__tabs{ display:flex; gap:8px; flex-wrap: wrap; }
+.nav-popular__tab{
+  appearance:none;
+  border:1px solid rgba(255,255,255,0.14);
+  background: rgba(255,255,255,0.06);
+  color: var(--text);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1;
+  white-space: nowrap;
+}
+html[data-theme="light"] .nav-popular__tab{
+  border:1px solid rgba(0,0,0,0.12);
+  background: rgba(0,0,0,0.04);
+}
+.nav-popular__tab.is-active{ filter: brightness(1.05); box-shadow: 0 0 0 2px rgba(245,196,0,0.25) inset; }
+.nav-popular__updated{ font-size: 12px; opacity: .85; }
 .nav-popular__close{
   appearance: none;
   border: 0;
@@ -1378,6 +1400,11 @@ html[data-theme="light"] .nav-popular{
   border-radius: 999px;
   cursor: pointer;
 }
+
+/* Rank badge variants (All-time: 1 gold / 2 silver / 3 bronze) */
+.popular__rank--gold{ background: rgba(212,175,55,0.22); border-color: rgba(212,175,55,0.55); color: rgba(255,255,255,0.95); }
+.popular__rank--silver{ background: rgba(192,192,192,0.20); border-color: rgba(192,192,192,0.55); color: rgba(255,255,255,0.95); }
+.popular__rank--bronze{ background: rgba(205,127,50,0.22); border-color: rgba(205,127,50,0.55); color: rgba(255,255,255,0.95); }
 .nav-popular__close:hover{ background: rgba(255,255,255,0.10); }
 
 @media (max-width: 700px){

@@ -282,6 +282,64 @@ function initGameGrids(){
     // Best-effort: never block navigation.
     var lastSent = Object.create(null);
 
+    // Session-level de-duplication for impressions (views)
+    var seenKey = 'tge_seen_game_impressions_v1';
+    var seen = Object.create(null);
+    try {
+      var raw = sessionStorage.getItem(seenKey);
+      if(raw){
+        var arr = JSON.parse(raw);
+        if(Array.isArray(arr)){
+          for(var i=0;i<arr.length;i++) seen[arr[i]] = true;
+        }
+      }
+    } catch(e) {}
+
+    function rememberSeen(id){
+      try {
+        var arr = Object.keys(seen);
+        // Keep it small so sessionStorage doesn't grow forever
+        if(arr.length > 600){
+          arr = arr.slice(arr.length - 600);
+        }
+        sessionStorage.setItem(seenKey, JSON.stringify(arr));
+      } catch(e) {}
+    }
+
+    // Impressions: count a view when a game card is meaningfully visible.
+    // This makes "Trending" update even when users browse without clicking.
+    try {
+      if('IntersectionObserver' in window){
+        var io = new IntersectionObserver(function(entries){
+          for(var i=0;i<entries.length;i++){
+            var ent = entries[i];
+            if(!ent.isIntersecting || ent.intersectionRatio < 0.6) continue;
+            var card = ent.target;
+            io.unobserve(card);
+            var link = card.querySelector && card.querySelector('a.game-card__link');
+            if(!link) continue;
+            var id = (link.getAttribute('data-game-id') || '').trim();
+            if(!id){
+              var titleEl = link.querySelector('.game-card__title');
+              if(titleEl) id = slugifyTitle(titleEl.textContent);
+            }
+            if(!id || seen[id]) continue;
+            seen[id] = true;
+            rememberSeen(id);
+            var urlV = '/api/view?id=' + encodeURIComponent(id);
+            try {
+              if(navigator.sendBeacon){ navigator.sendBeacon(urlV); }
+              else fetch(urlV, { method: 'GET', keepalive: true }).catch(function(){});
+            } catch(e) {}
+          }
+        }, { threshold: [0.6] });
+
+        // Only observe real game cards (not the home carousel cards)
+        var cards = document.querySelectorAll('.game-card');
+        for(var j=0;j<cards.length;j++) io.observe(cards[j]);
+      }
+    } catch(e) {}
+
     document.addEventListener('click', function(e){
       var a = e.target && e.target.closest ? e.target.closest('a.game-card__link') : null;
       if(!a) return;
@@ -317,6 +375,8 @@ function initGameGrids(){
     var pop = document.getElementById('popularPopover');
     var list = document.getElementById('popularList');
     var msg  = document.getElementById('popularMsg');
+    var updated = document.getElementById('popularUpdated');
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('[data-popular-mode]'));
     if(!btns.length || !pop || !list) return;
 
     // Build id -> {title,url} lookup from the already-loaded search index.
@@ -369,11 +429,42 @@ function initGameGrids(){
       pop.style.left = left + 'px';
     }
 
-    var loaded = false;
+    var mode = 'trending'; // default
+    var lastUpdatedAt = 0;
+    var updateTimer = null;
+
+    function setUpdated(){
+      if(!updated) return;
+      if(!lastUpdatedAt){ updated.textContent = ''; return; }
+      var s = Math.floor((Date.now() - lastUpdatedAt) / 1000);
+      if(s < 10) updated.textContent = 'Updated just now';
+      else if(s < 60) updated.textContent = 'Updated ' + s + 's ago';
+      else {
+        var m = Math.floor(s/60);
+        updated.textContent = 'Updated ' + m + 'm ago';
+      }
+    }
+
+    function setActiveTab(){
+      for(var i=0;i<tabs.length;i++){
+        var t = tabs[i];
+        var is = (t.getAttribute('data-popular-mode') === mode);
+        if(is) t.classList.add('is-active'); else t.classList.remove('is-active');
+        t.setAttribute('aria-selected', is ? 'true' : 'false');
+      }
+    }
+
+    function buildEndpoint(){
+      // New Worker supports mode=trending|all. If not, the Worker can ignore it.
+      var q = '/api/top?limit=25&mode=' + encodeURIComponent(mode);
+      if(mode === 'trending') q += '&days=7';
+      return q;
+    }
+
     function load(){
       // Always refresh when opened so the list updates without a full reload.
       setMsg('Loading…');
-      fetch('/api/top?limit=25', { cache: 'no-store' })
+      fetch(buildEndpoint(), { cache: 'no-store' })
         .then(function(r){ return r.json(); })
         .then(function(data){
           if(!data || !data.ok || !Array.isArray(data.top)) throw new Error('bad');
@@ -406,9 +497,21 @@ function initGameGrids(){
             r.className = 'popular__rank';
             r.textContent = String(added + 1);
 
+            // Medal styling for All-time 1/2/3
+            if(mode === 'all'){
+              if(added === 0) r.classList.add('popular__rank--gold');
+              else if(added === 1) r.classList.add('popular__rank--silver');
+              else if(added === 2) r.classList.add('popular__rank--bronze');
+            }
+
             var a = document.createElement('a');
             a.className = 'popular__link';
-            a.textContent = info.title;
+            // Add a fire marker to the top Trending entry
+            if(mode === 'trending' && added === 0){
+              a.textContent = '🔥 ' + info.title;
+            } else {
+              a.textContent = info.title;
+            }
             a.href = info.url;
             if(info.url === '#'){
               a.addEventListener('click', function(e){ e.preventDefault(); });
@@ -428,6 +531,8 @@ function initGameGrids(){
 
           setMsg('');
           loaded = true;
+          lastUpdatedAt = Date.now();
+          setUpdated();
         })
         .catch(function(){
           setMsg('Couldn\'t load popular games right now.');
@@ -439,11 +544,15 @@ function initGameGrids(){
       currentAnchor = anchor || btns[0];
       pop.hidden = false;
       positionPopover(currentAnchor);
+      setActiveTab();
       load();
+      if(updateTimer) clearInterval(updateTimer);
+      updateTimer = setInterval(setUpdated, 5000);
       btns.forEach(function(b){ b.setAttribute('aria-expanded','true'); });
     }
     function close(){
       pop.hidden = true;
+      if(updateTimer){ clearInterval(updateTimer); updateTimer = null; }
       btns.forEach(function(b){ b.setAttribute('aria-expanded','false'); });
     }
     function toggle(anchor){
@@ -455,6 +564,17 @@ function initGameGrids(){
         e.preventDefault();
         e.stopPropagation();
         toggle(b);
+      });
+    });
+
+    // Tabs inside the popover
+    tabs.forEach(function(t){
+      t.addEventListener('click', function(e){
+        e.preventDefault();
+        e.stopPropagation();
+        mode = t.getAttribute('data-popular-mode') || 'trending';
+        setActiveTab();
+        load();
       });
     });
 

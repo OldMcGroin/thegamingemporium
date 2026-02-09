@@ -113,7 +113,14 @@
     <!-- Most Popular popover (kept outside the mobile nav so it can open from anywhere) -->
     <div class="nav-popular" id="popularPopover" hidden>
       <div class="nav-popular__head">
-        <div class="nav-popular__title">Top 10</div>
+        <div class="nav-popular__head-left">
+          <div class="nav-popular__title" id="popularTitle">Top 10</div>
+          <div class="nav-popular__tabs" role="tablist" aria-label="Most Popular">
+            <button class="nav-popular__tab is-active" type="button" data-popular-mode="trending" role="tab" aria-selected="true">🔥 Trending</button>
+            <button class="nav-popular__tab" type="button" data-popular-mode="all" role="tab" aria-selected="false">🏆 All‑time</button>
+          </div>
+          <div class="nav-popular__updated" id="popularUpdated" aria-live="polite"></div>
+        </div>
         <button class="nav-popular__close" type="button" aria-label="Close" id="popularClose">✕</button>
       </div>
       <div class="popular__scroll">
