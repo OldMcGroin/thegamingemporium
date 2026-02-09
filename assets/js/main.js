@@ -487,7 +487,7 @@ function initGameGrids(){
 
             var info = lookup[id] || lookupLoose[id.replace(/-/g,'')] || null;
             if(!info){
-              info = { title: humanizeSlug(id), url: '#' };
+              info = { title: humanizeSlug(id), url: '/all/#' + encodeURIComponent(id) };
             }
 
             var li = document.createElement('li');
