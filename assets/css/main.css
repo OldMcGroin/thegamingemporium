@@ -1405,6 +1405,10 @@ html[data-theme="light"] .nav-popular__tab{
 .popular__rank--gold{ background: rgba(212,175,55,0.22); border-color: rgba(212,175,55,0.55); color: rgba(255,255,255,0.95); }
 .popular__rank--silver{ background: rgba(192,192,192,0.20); border-color: rgba(192,192,192,0.55); color: rgba(255,255,255,0.95); }
 .popular__rank--bronze{ background: rgba(205,127,50,0.22); border-color: rgba(205,127,50,0.55); color: rgba(255,255,255,0.95); }
+
+html[data-theme='light'] .popular__rank--gold,
+html[data-theme='light'] .popular__rank--silver,
+html[data-theme='light'] .popular__rank--bronze{ color: rgba(0,0,0,0.85); }
 .nav-popular__close:hover{ background: rgba(255,255,255,0.10); }
 
 @media (max-width: 700px){
