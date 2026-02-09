@@ -1487,3 +1487,53 @@ html[data-theme="light"] .nav-popular__tab{
   }
 }
 
+
+
+/* ============================================
+   Subtle Medal Styling – Top 10
+   ============================================ */
+
+/* Make medal numbers bold + slightly larger */
+.top10-item .rank-number {
+  font-weight: 700;
+  font-size: 1.1rem;
+  position: relative;
+  z-index: 2;
+}
+
+/* Subtle circular badge behind top 3 */
+.top10-item.rank-1 .rank-number::before,
+.top10-item.rank-2 .rank-number::before,
+.top10-item.rank-3 .rank-number::before {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+/* Medal tones (very subtle) */
+.top10-item.rank-1 .rank-number::before {
+  background: rgba(255, 215, 0, 0.15);
+}
+
+.top10-item.rank-2 .rank-number::before {
+  background: rgba(192, 192, 192, 0.15);
+}
+
+.top10-item.rank-3 .rank-number::before {
+  background: rgba(205, 127, 50, 0.15);
+}
+
+/* Day mode: ensure readability */
+body.day-mode .top10-item.rank-1 .rank-number,
+body.day-mode .top10-item.rank-2 .rank-number,
+body.day-mode .top10-item.rank-3 .rank-number {
+  color: #000000 !important;
+}
+
+/* Subtle gold left border for #1 (clean look) */
+.top10-item.rank-1 {
+  border-left: 3px solid rgba(255, 215, 0, 0.6);
+  padding-left: 10px;
+}
