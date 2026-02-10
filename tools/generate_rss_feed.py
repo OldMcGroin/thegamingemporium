@@ -104,15 +104,29 @@ def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
 
     pub = format_datetime(dt)
 
-    return "\n".join([
+    # Attach a thumbnail image (Feedly-friendly).
+    # Prefer explicit "image" field; fall back to slug.webp under /Images/Games/.
+    image_field = str(game.get("image") or "").strip().lstrip("/")
+    img_file = image_field if image_field else f"Images/Games/{slug}.webp"
+    # If someone entered a full URL, use it as-is.
+    if img_file.startswith("http://") or img_file.startswith("https://"):
+        img_url = img_file
+    else:
+        img_url = f"{base_url}{img_file}"
+
+    lines = [
         "    <item>",
         f"      <title>{xml_escape(title)}</title>",
         f"      <link>{xml_escape(internal)}</link>",
         f"      <guid isPermaLink=\"true\">{xml_escape(internal)}</guid>",
         f"      <pubDate>{xml_escape(pub)}</pubDate>",
+        # Media RSS + enclosure for broad reader support (Feedly thumbnails, etc.)
+        f"      <media:content url=\"{xml_escape(img_url)}\" medium=\"image\" />",
+        f"      <enclosure url=\"{xml_escape(img_url)}\" type=\"image/webp\" />",
         f"      <description>{xml_escape(desc)}</description>",
         "    </item>",
-    ])
+    ]
+    return "\n".join(lines)
 
 def main() -> None:
     if not GAMES_JSON.exists():
@@ -145,7 +159,7 @@ def main() -> None:
 
     xml = "\n".join([
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
-        "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">",
+        "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\">",
         "  <channel>",
         f"    <title>{xml_escape(channel_title)}</title>",
         f"    <link>{xml_escape(channel_link)}</link>",

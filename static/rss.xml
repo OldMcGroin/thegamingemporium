@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>The Gaming Emporium — Recent Additions</title>
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 10 Feb 2026 13:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 17:22:50 +0000</lastBuildDate>
     <item>
       <title>Grand Theft Auto: Ready2Play</title>
       <link>https://thegamingemporium.com/game/grand-theft-auto-ready2play/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/grand-theft-auto-ready2play/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" type="image/webp" />
       <description>Fan Games · Series: Grand Theft Auto · Genre: sandbox, action</description>
     </item>
     <item>
@@ -18,6 +20,8 @@
       <link>https://thegamingemporium.com/game/final-fight-enhanced-edition-amiga/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/final-fight-enhanced-edition-amiga/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" type="image/webp" />
       <description>Console Ports · Series: Final Fight · Genre: beat em up</description>
     </item>
     <item>
@@ -25,6 +29,8 @@
       <link>https://thegamingemporium.com/game/cold-case/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/cold-case/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/cold-case.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/cold-case.webp" type="image/webp" />
       <description>Fan Games · Series: Cold Case · Genre: survival horror</description>
     </item>
     <item>
@@ -32,6 +38,8 @@
       <link>https://thegamingemporium.com/game/project-kat/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/project-kat/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/project-kat.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/project-kat.webp" type="image/webp" />
       <description>Fan Games · Series: Project Kat · Genre: rpg, puzzle</description>
     </item>
     <item>
@@ -39,6 +47,8 @@
       <link>https://thegamingemporium.com/game/the-freak-circus/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/the-freak-circus/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" type="image/webp" />
       <description>Fan Games · Series: The Freak Circus · Genre: action, adventure</description>
     </item>
     <item>
@@ -46,6 +56,8 @@
       <link>https://thegamingemporium.com/game/mario-kart-wii-deluxex/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-wii-deluxex/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" type="image/webp" />
       <description>Fan Games · Series: Super Mario · Genre: racing</description>
     </item>
     <item>
@@ -53,6 +65,8 @@
       <link>https://thegamingemporium.com/game/sonic-megamix-mania/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-megamix-mania/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" type="image/webp" />
       <description>Fan Games · Series: Sonic The Hedgehog · Genre: platformer</description>
     </item>
     <item>
@@ -60,6 +74,8 @@
       <link>https://thegamingemporium.com/game/open-realm-of-stars/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/open-realm-of-stars/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" type="image/webp" />
       <description>Open Source · Series: Open Realm of Stars · Genre: strategy</description>
     </item>
     <item>
@@ -67,6 +83,8 @@
       <link>https://thegamingemporium.com/game/ghostship-mario-64-pc-port-hd-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ghostship-mario-64-pc-port-hd-texture-pack/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" type="image/webp" />
       <description>Decompilations Recompilations · Series: Super Mario · Genre: Platformer</description>
     </item>
     <item>
@@ -74,6 +92,8 @@
       <link>https://thegamingemporium.com/game/the-witcher-3-dawn-over-kovir/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/the-witcher-3-dawn-over-kovir/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" type="image/webp" />
       <description>Mods · Series: The Witcher · Genre: rpg, adventure</description>
     </item>
     <item>
@@ -81,6 +101,8 @@
       <link>https://thegamingemporium.com/game/minima/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/minima/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/minima.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/minima.webp" type="image/webp" />
       <description>Open Source · Series: Minima · Genre: rpg, adventure</description>
     </item>
     <item>
@@ -88,6 +110,8 @@
       <link>https://thegamingemporium.com/game/anteform/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/anteform/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/anteform.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/anteform.webp" type="image/webp" />
       <description>Open Source · Series: Anteform · Genre: rpg</description>
     </item>
     <item>
@@ -95,6 +119,8 @@
       <link>https://thegamingemporium.com/game/mother-encore/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mother-encore/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/mother-encore.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mother-encore.webp" type="image/webp" />
       <description>Fan Games · Series: Earthbound · Genre: rpg</description>
     </item>
     <item>
@@ -102,6 +128,8 @@
       <link>https://thegamingemporium.com/game/openblok/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/openblok/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/openblok.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openblok.webp" type="image/webp" />
       <description>Open Source · Series: OpenBlok · Genre: puzzle</description>
     </item>
     <item>
@@ -109,6 +137,8 @@
       <link>https://thegamingemporium.com/game/pysol-fan-club-edition/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/pysol-fan-club-edition/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" type="image/webp" />
       <description>Open Source · Series: PySol Fan Club Edition · Genre: puzzle, strategy</description>
     </item>
     <item>
@@ -116,6 +146,8 @@
       <link>https://thegamingemporium.com/game/augustus/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/augustus/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/augustus.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/augustus.webp" type="image/webp" />
       <description>Open Source · Series: Augustus · Genre: strategy</description>
     </item>
     <item>
@@ -123,6 +155,8 @@
       <link>https://thegamingemporium.com/game/oni-remaster-mod/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/oni-remaster-mod/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" type="image/webp" />
       <description>Mods · Series: ONI · Genre: action</description>
     </item>
     <item>
@@ -130,6 +164,8 @@
       <link>https://thegamingemporium.com/game/red-dead-redemption-2-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/red-dead-redemption-2-texture-pack/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" type="image/webp" />
       <description>Texture Packs · Series: Red Dead Redemption · Genre: adventure, sandbox</description>
     </item>
     <item>
@@ -137,6 +173,8 @@
       <link>https://thegamingemporium.com/game/resident-evil-hd-remaster-4k-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-hd-remaster-4k-texture-pack/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" type="image/webp" />
       <description>Texture Packs · Series: Resident Evil · Genre: survival horror, action</description>
     </item>
     <item>
@@ -144,6 +182,8 @@
       <link>https://thegamingemporium.com/game/supertux-3d/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/supertux-3d/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" type="image/webp" />
       <description>Open Source · Series: Tux Games · Genre: platformer</description>
     </item>
     <item>
@@ -151,6 +191,8 @@
       <link>https://thegamingemporium.com/game/luanti/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/luanti/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/luanti.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/luanti.webp" type="image/webp" />
       <description>Open Source · Series: Luanti · Genre: sandbox</description>
     </item>
     <item>
@@ -158,6 +200,8 @@
       <link>https://thegamingemporium.com/game/chobits-chiidake-no-hito-ps2/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/chobits-chiidake-no-hito-ps2/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" type="image/webp" />
       <description>English Translation Patches · Series: Chobits · Genre: visual novel</description>
     </item>
     <item>
@@ -165,6 +209,8 @@
       <link>https://thegamingemporium.com/game/junk-runner-64/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/junk-runner-64/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" type="image/webp" />
       <description>Fan Games · Series: Junk Runner 64 · Genre: adventure</description>
     </item>
     <item>
@@ -172,6 +218,8 @@
       <link>https://thegamingemporium.com/game/brogue-community-edition/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/brogue-community-edition/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" type="image/webp" />
       <description>Open Source · Series: Brogue · Genre: roguelike</description>
     </item>
     <item>
@@ -179,6 +227,8 @@
       <link>https://thegamingemporium.com/game/ivan/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ivan/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/ivan.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ivan.webp" type="image/webp" />
       <description>Open Source · Series: IVAN · Genre: roguelike</description>
     </item>
     <item>
@@ -186,6 +236,8 @@
       <link>https://thegamingemporium.com/game/shamogu/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/shamogu/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/shamogu.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/shamogu.webp" type="image/webp" />
       <description>Open Source · Series: Shamogu · Genre: roguelike</description>
     </item>
     <item>
@@ -193,6 +245,8 @@
       <link>https://thegamingemporium.com/game/harmonist-dayoriah-clan-infiltration/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/harmonist-dayoriah-clan-infiltration/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" type="image/webp" />
       <description>Open Source · Series: Harmonist · Genre: roguelike, stealth</description>
     </item>
     <item>
@@ -200,6 +254,8 @@
       <link>https://thegamingemporium.com/game/oathbreaker/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/oathbreaker/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" type="image/webp" />
       <description>Open Source · Series: Oathbreaker · Genre: roguelike, stealth</description>
     </item>
     <item>
@@ -207,6 +263,8 @@
       <link>https://thegamingemporium.com/game/shadow-of-the-wyrm/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/shadow-of-the-wyrm/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" type="image/webp" />
       <description>Open Source · Series: Shadow of the Wyrm · Genre: roguelike</description>
     </item>
     <item>
@@ -214,6 +272,8 @@
       <link>https://thegamingemporium.com/game/sil-q/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/sil-q/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/sil-q.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/sil-q.webp" type="image/webp" />
       <description>Open Source · Series: Sil-Q · Genre: rpg</description>
     </item>
     <item>
@@ -221,6 +281,8 @@
       <link>https://thegamingemporium.com/game/hyperroque/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/hyperroque/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/hyperroque.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/hyperroque.webp" type="image/webp" />
       <description>Open Source · Series: Hyperroque · Genre: roguelike, puzzle</description>
     </item>
     <item>
@@ -228,6 +290,8 @@
       <link>https://thegamingemporium.com/game/barotrauma/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/barotrauma/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/barotrauma.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/barotrauma.webp" type="image/webp" />
       <description>Open Source · Series: Barotrauma · Genre: survival horror</description>
     </item>
     <item>
@@ -235,6 +299,8 @@
       <link>https://thegamingemporium.com/game/mindustry/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mindustry/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/mindustry.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mindustry.webp" type="image/webp" />
       <description>Open Source · Series: Mindustry · Genre: factory management, tower defence</description>
     </item>
     <item>
@@ -242,6 +308,8 @@
       <link>https://thegamingemporium.com/game/ultrastar-deluxw/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ultrastar-deluxw/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" type="image/webp" />
       <description>Open Source · Series: UltraStar · Genre: karaoke</description>
     </item>
     <item>
@@ -249,6 +317,8 @@
       <link>https://thegamingemporium.com/game/stepmania/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/stepmania/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/stepmania.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/stepmania.webp" type="image/webp" />
       <description>Open Source · Series: StepMania · Genre: rhythm based</description>
     </item>
     <item>
@@ -256,6 +326,8 @@
       <link>https://thegamingemporium.com/game/space-station-silicon-valley-recompilation/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/space-station-silicon-valley-recompilation/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" type="image/webp" />
       <description>Decompilations Recompilations · Series: Space Station Silicon Valley · Genre: platformer, puzzle</description>
     </item>
     <item>
@@ -263,6 +335,8 @@
       <link>https://thegamingemporium.com/game/emudevz/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/emudevz/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/emudevz.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/emudevz.webp" type="image/webp" />
       <description>Open Source · Series: EmuDevz · Genre: puzzle</description>
     </item>
     <item>
@@ -270,6 +344,8 @@
       <link>https://thegamingemporium.com/game/station-heroes-for-hire/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/station-heroes-for-hire/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" type="image/webp" />
       <description>Fan Games · Series: Station - Heroes for Hire · Genre: adventure, rpg</description>
     </item>
     <item>
@@ -277,6 +353,8 @@
       <link>https://thegamingemporium.com/game/crw-metal-jacket-pc98/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/crw-metal-jacket-pc98/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" type="image/webp" />
       <description>English Translation Patches · Series: CRW: Metal Jacket · Genre: rpg, strategy</description>
     </item>
     <item>
@@ -284,6 +362,8 @@
       <link>https://thegamingemporium.com/game/tuned-heart-pc98/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/tuned-heart-pc98/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" type="image/webp" />
       <description>English Translation Patches · Series: Tuned Heart · Genre: rpg, strategy</description>
     </item>
     <item>
@@ -291,6 +371,8 @@
       <link>https://thegamingemporium.com/game/pokemon-inritum/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-inritum/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" type="image/webp" />
       <description>Fan Games · Series: Pokemon · Genre: rpg, creature collector</description>
     </item>
     <item>
@@ -298,6 +380,8 @@
       <link>https://thegamingemporium.com/game/delivery-beyond/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/delivery-beyond/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" type="image/webp" />
       <description>Fan Games · Series: Delivery &amp; Beyond · Genre: action</description>
     </item>
     <item>
@@ -305,6 +389,8 @@
       <link>https://thegamingemporium.com/game/lode-runner-nintendo-ds/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/lode-runner-nintendo-ds/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" type="image/webp" />
       <description>English Translation Patches · Series: Lode Runner · Genre: action, puzzle</description>
     </item>
     <item>
@@ -312,6 +398,8 @@
       <link>https://thegamingemporium.com/game/rockman-forte-snes/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/rockman-forte-snes/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" type="image/webp" />
       <description>English Translation Patches · Series: Mega Man · Genre: action, platformer</description>
     </item>
     <item>
@@ -319,6 +407,8 @@
       <link>https://thegamingemporium.com/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" type="image/webp" />
       <description>English Translation Patches · Series: Dragon Ball Z · Genre: fighting</description>
     </item>
     <item>
@@ -326,6 +416,8 @@
       <link>https://thegamingemporium.com/game/fallout-4-heather-companion-mod/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-4-heather-companion-mod/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" type="image/webp" />
       <description>Mods · Series: Fallout · Genre: rpg, action</description>
     </item>
     <item>
@@ -333,6 +425,8 @@
       <link>https://thegamingemporium.com/game/ufo-alien-invasion/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ufo-alien-invasion/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" type="image/webp" />
       <description>Open Source · Series: UFO: Alien Invasion · Genre: strategy, resource management</description>
     </item>
     <item>
@@ -340,6 +434,8 @@
       <link>https://thegamingemporium.com/game/argentum-age/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/argentum-age/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/argentum-age.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/argentum-age.webp" type="image/webp" />
       <description>Open Source · Series: Argentum Age · Genre: card collector</description>
     </item>
     <item>
@@ -347,6 +443,8 @@
       <link>https://thegamingemporium.com/game/tales-of-maj-eyal/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/tales-of-maj-eyal/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" type="image/webp" />
       <description>Open Source · Series: Tales of Maj'Eyal · Genre: roguelike, rpg</description>
     </item>
     <item>
@@ -354,6 +452,8 @@
       <link>https://thegamingemporium.com/game/openspades/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/openspades/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <media:content url="https://thegamingemporium.com/Images/Games/openspades.webp" medium="image" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openspades.webp" type="image/webp" />
       <description>Open Source · Series: OpenSpades · Genre: first person shooter</description>
     </item>
   </channel>
