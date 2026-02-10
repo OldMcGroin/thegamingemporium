@@ -23,20 +23,54 @@ Usage:
 */}}
 
 {{- $t := "" -}}
+{{- $slug := "" -}}
+{{- $explicit := "" -}}
 {{- $type := printf "%T" $g -}}
+
+{{- /* Hugo Page */ -}}
 {{- if or (strings.Contains $type "hugolib.page") (strings.Contains $type "hugolib.pageState") (strings.Contains $type "page.") -}}
   {{- $t = $g.Title | default "" -}}
-  {{- if eq $t "" -}}
-    {{- $t = $g.Params.title | default "" -}}
+  {{- /* If the page has an explicit image param, prefer it */ -}}
+  {{- with $g.Params.image -}}
+    {{- if ne . "" -}}
+      {{- $explicit = . -}}
+    {{- end -}}
   {{- end -}}
+  {{- /* Use the page URL slug for stability (title can change) */ -}}
+  {{- $rp := strings.TrimSuffix "/" ($g.RelPermalink | default "") -}}
+  {{- if ne $rp "" -}}
+    {{- $slug = path.Base $rp -}}
+  {{- end -}}
+
+{{- /* Dict/map (older generator contexts) */ -}}
 {{- else if reflect.IsMap $g -}}
   {{- $t = (index $g "title") | default "" -}}
+  {{- $slug = urlize $t -}}
+
 {{- else -}}
   {{- $t = $g.Title | default "" -}}
+  {{- $slug = urlize $t -}}
 {{- end -}}
 
+{{- /* If an explicit image was provided, return it (normalized to a site-root path) */ -}}
+{{- if and (ne $explicit "") (not (strings.HasPrefix $explicit "http")) -}}
+  {{- if not (strings.HasPrefix $explicit "/") -}}
+    {{- $explicit = printf "/%s" $explicit -}}
+  {{- end -}}
+  {{- /* If it exists in /static, use it */ -}}
+  {{- if fileExists (printf "static%s" $explicit) -}}
+    {{- $explicit -}}
+  {{- else -}}
+    {{- /* Still return it; some users keep images only in the deployed site */ -}}
+    {{- $explicit -}}
+  {{- end -}}
+{{- else if and (ne $explicit "") (strings.HasPrefix $explicit "http") -}}
+  {{- $explicit -}}
+{{- else -}}
 
-{{- $slug := urlize $t -}}
+{{- if eq $slug "" -}}
+  {{- $slug = urlize $t -}}
+{{- end -}}
 {{- if eq $slug "" -}}
   {{- $slug = "unknown" -}}
 {{- end -}}
@@ -51,3 +85,5 @@ Usage:
   {{- end -}}
 {{- end -}}
 {{- $img -}}
+
+{{- end -}}

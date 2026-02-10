@@ -23,10 +23,14 @@
   </script>
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
   {{/* Open Graph / social cards */}}
+  {{ $isGame := or (eq .Type "game") (eq .Section "game") }}
+
   {{ $ogTitle := .Title }}
   {{ if or (not $ogTitle) (eq $ogTitle "") }}
     {{ $ogTitle = site.Title }}
   {{ end }}
+
+  {{/* Default description */}}
   {{ $ogDesc := .Description }}
   {{ if or (not $ogDesc) (eq $ogDesc "") }}
     {{ $ogDesc = .Summary | plainify }}
@@ -34,20 +38,63 @@
   {{ if or (not $ogDesc) (eq $ogDesc "") }}
     {{ $ogDesc = site.Params.description }}
   {{ end }}
+
+  {{/* For game pages, build a clean, consistent one-line description */}}
+  {{ if $isGame }}
+    {{ $cat := "" }}
+    {{ with .Params.category }}{{ $cat = (. | replaceRE "-" " " | title) }}{{ end }}
+    {{ $series := "" }}
+    {{ with .Params.series }}{{ $series = . }}{{ end }}
+    {{ $g1 := .Params.genre1 }}{{ $g2 := .Params.genre2 }}
+    {{ $genres := "" }}
+    {{ if or $g1 $g2 }}
+      {{ $genres = delimit (where (slice $g1 $g2) "." "ne" "") ", " }}
+    {{ end }}
+    {{ $parts := slice }}
+    {{ if $cat }}{{ $parts = $parts | append $cat }}{{ end }}
+    {{ if $series }}{{ $parts = $parts | append (printf "Series: %s" $series) }}{{ end }}
+    {{ if $genres }}{{ $parts = $parts | append (printf "Genre: %s" $genres) }}{{ end }}
+    {{ if gt (len $parts) 0 }}
+      {{ $ogDesc = delimit $parts " · " }}
+    {{ end }}
+  {{ end }}
+
   {{ $ogUrl := .Permalink }}
+
+  {{/* Default site share image */}}
   {{ $ogImage := ("/Images/Social/share-preview.jpg" | absURL) }}
+  {{ $ogImageType := "image/jpeg" }}
+  {{ $ogImageW := "1200" }}
+  {{ $ogImageH := "630" }}
+  {{ $ogImageAlt := "The Gaming Emporium preview image" }}
+
+  {{/* For game pages, prefer the game card image so feed readers (Feedly) and social previews show the correct thumbnail */}}
+  {{ if $isGame }}
+    {{ $img := partial "resolve-game-image.html" . }}
+    {{ if $img }}
+      {{ $ogImage = ($img | absURL) }}
+      {{ $ogImageAlt = (printf "%s cover image" $ogTitle) }}
+      {{ $ogImageW = "600" }}
+      {{ $ogImageH = "600" }}
+      {{ $lower := lower $img }}
+      {{ if hasSuffix $lower ".png" }}{{ $ogImageType = "image/png" }}
+      {{ else if or (hasSuffix $lower ".jpg") (hasSuffix $lower ".jpeg") }}{{ $ogImageType = "image/jpeg" }}
+      {{ else if hasSuffix $lower ".webp" }}{{ $ogImageType = "image/webp" }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
 
   <link rel="canonical" href="{{ $ogUrl }}" />
-  <meta property="og:title" content="The Gaming Emporium – 1,400+ Decompilations, Ports & Mods">
-  <meta property="og:description" content="A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.">
+  <meta property="og:title" content="{{ $ogTitle }}">
+  <meta property="og:description" content="{{ $ogDesc }}">
   <meta property="og:url" content="{{ $ogUrl }}" />
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
-  <meta property="og:image" content="https://thegamingemporium.com/share-preview.jpg">
-  <meta property="og:image:secure_url" content="https://thegamingemporium.com/share-preview.jpg">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="The Gaming Emporium preview image" />
+  <meta property="og:image" content="{{ $ogImage }}">
+  <meta property="og:image:secure_url" content="{{ $ogImage }}">
+  <meta property="og:image:type" content="{{ $ogImageType }}">
+  <meta property="og:image:width" content="{{ $ogImageW }}">
+  <meta property="og:image:height" content="{{ $ogImageH }}">
+  <meta property="og:image:alt" content="{{ $ogImageAlt }}" />
   <meta property="og:site_name" content="{{ site.Title }}" />
 
   <meta name="twitter:card" content="summary_large_image" />
@@ -55,7 +102,7 @@
   <meta name="twitter:description" content="{{ $ogDesc }}" />
   <meta name="twitter:image" content="{{ $ogImage }}" />
 
-  <meta name="description" content="A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.">
+  <meta name="description" content="{{ if $isGame }}{{ $ogDesc }}{{ else }}A curated archive of fan decompilations, PC ports, open-source projects and modern recreations.{{ end }}">
 
   {{/* Fingerprinted CSS so mobile browsers (and Cloudflare) always pick up the latest styles */}}
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}

@@ -75,21 +75,6 @@ def parse_date(date_str: str) -> Optional[datetime]:
 def xml_escape(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-def cdata_safe(s: str) -> str:
-    """Make a string safe to include inside a single CDATA section."""
-    # The only forbidden sequence inside CDATA is "]]>", so we split it.
-    return (s or "").replace("]]>", "]]]]><![CDATA[>")
-
-def mime_type_for_url(url: str) -> str:
-    u = (url or "").lower()
-    if u.endswith(".png"):
-        return "image/png"
-    if u.endswith(".jpg") or u.endswith(".jpeg"):
-        return "image/jpeg"
-    if u.endswith(".gif"):
-        return "image/gif"
-    return "image/webp"
-
 def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
     title = str(game.get("title") or "").strip()
     if not title:
@@ -129,16 +114,6 @@ def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
     else:
         img_url = f"{base_url}{img_file}"
 
-    # Feedly thumbnails are most reliable when the first element in <description>
-    # contains an <img> tag (HTML inside CDATA).
-    img_html = (
-        f'<img src="{xml_escape(img_url)}" alt="{xml_escape(title)}" '
-        f'style="max-width:100%;height:auto;" />'
-    )
-    desc_html = f"{img_html}<br/>{xml_escape(desc)}"
-
-    mime = mime_type_for_url(img_url)
-
     lines = [
         "    <item>",
         f"      <title>{xml_escape(title)}</title>",
@@ -146,9 +121,9 @@ def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
         f"      <guid isPermaLink=\"true\">{xml_escape(internal)}</guid>",
         f"      <pubDate>{xml_escape(pub)}</pubDate>",
         # Media RSS + enclosure for broad reader support (Feedly thumbnails, etc.)
-        f"      <media:content url=\"{xml_escape(img_url)}\" medium=\"image\" type=\"{xml_escape(mime)}\" />",
-        f"      <enclosure url=\"{xml_escape(img_url)}\" type=\"{xml_escape(mime)}\" />",
-        f"      <description><![CDATA[{cdata_safe(desc_html)}]]></description>",
+        f"      <media:content url=\"{xml_escape(img_url)}\" medium=\"image\" />",
+        f"      <enclosure url=\"{xml_escape(img_url)}\" type=\"image/webp\" />",
+        f"      <description>{xml_escape(desc)}</description>",
         "    </item>",
     ]
     return "\n".join(lines)
