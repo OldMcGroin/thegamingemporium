@@ -1,0 +1,46 @@
+{{ define "main" }}
+<article class="game-page container">
+  <div class="game-page__card">
+    <div class="game-page__media">
+      {{ $img := partial "resolve-game-image.html" . }}
+      {{ if $img }}
+        <img class="game-page__image" src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+      {{ end }}
+    </div>
+
+    <div class="game-page__content">
+      <h1 class="game-page__title">{{ .Title }}</h1>
+
+      <div class="game-page__meta">
+        {{ with .Params.category }}<span class="pill">{{ . | replaceRE "-" " " | title }}</span>{{ end }}
+        {{ with .Params.series }}<span class="pill">Series: {{ . }}</span>{{ end }}
+        {{ $g1 := .Params.genre1 }}{{ $g2 := .Params.genre2 }}
+        {{ if or $g1 $g2 }}
+          <span class="pill">Genre: {{ delimit (where (slice $g1 $g2) "." "ne" "") ", " }}</span>
+        {{ end }}
+        {{ with .Params.date_added }}{{ if ne . "" }}<span class="pill">Added: {{ . }}</span>{{ end }}{{ end }}
+      </div>
+
+      {{ if .Content }}
+        <div class="game-page__notes">{{ .Content }}</div>
+      {{ end }}
+
+      <div class="game-page__actions">
+        {{ with .Params.external_link }}
+          <a class="btn btn--primary" href="{{ . }}" target="_blank" rel="noopener">Open external link</a>
+        {{ end }}
+        <a class="btn" href="{{ "/recent/" | relURL }}">Recent Additions</a>
+        <a class="btn" href="{{ "/" | relURL }}">Home</a>
+      </div>
+
+      {{ with .Params.video_link }}
+        {{ if ne . "" }}
+          <div class="game-page__video">
+            <a class="btn btn--ghost" href="{{ . }}" target="_blank" rel="noopener">Watch video</a>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

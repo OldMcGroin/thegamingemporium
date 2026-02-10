@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container" style="padding: 24px 0;">
+  <h1 style="margin: 0 0 12px 0;">Games</h1>
+  <p style="margin: 0 0 16px 0; opacity: 0.85;">
+    This page exists mainly to support the RSS feed. For the newest additions, head to Recent Additions.
+  </p>
+  <p style="margin: 0;">
+    <a class="btn btn--primary" href="{{ "/recent/" | relURL }}">Recent Additions</a>
+    <a class="btn" href="{{ "/" | relURL }}">Home</a>
+  </p>
+</div>
+{{ end }}

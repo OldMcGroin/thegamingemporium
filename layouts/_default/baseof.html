@@ -61,6 +61,8 @@
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous" />
 
+  <link rel="alternate" type="application/rss+xml" title="The Gaming Emporium — Recent Additions" href="{{ "/rss.xml" | relURL }}" />
+
   {{/* Preload the large background image to reduce perceived load time */}}
   <link rel="preload" as="image" href="{{ "/Images/Background/background.jpg" | relURL }}" fetchpriority="high" />
 
@@ -121,6 +123,10 @@
               Most Popular
             </button>
           </div>
+          <span class="rss-copy-wrap">
+            <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
+            <span class="rss-copied" aria-hidden="true">Copied!</span>
+          </span>
         </nav>
       </div>
     </header>
@@ -167,6 +173,9 @@
 
   {{/* Lazy-load game card images (works with 1,400+ items) */}}
   <script src="{{ "/js/lazy-images.js" | relURL }}" defer></script>
+
+  {{/* Copy RSS URL buttons (desktop + mobile) */}}
+  <script src="{{ "/js/rss-copy.js" | relURL }}" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}

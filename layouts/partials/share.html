@@ -28,7 +28,7 @@
           <path d="M12.4 4.4l1.2 2.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
         </svg>
         <span class="share-buttons__text">Reddit</span>
-      </a>
+    </button>
 
       <a class="share-buttons__btn" aria-label="Share on Mastodon" title="Share on Mastodon"
          href="https://mastodon.social/share?text={{ $shareText | urlquery }}%20{{ $url | urlquery }}" target="_blank" rel="noopener">
@@ -133,5 +133,17 @@
     <button class="theme-toggle theme-toggle--mobilebar" type="button" aria-label="Toggle theme" title="Toggle theme" data-theme-toggle>
       <span class="theme-toggle__icon" aria-hidden="true" data-theme-icon>🌙</span>
     </button>
+
+    <span class="rss-copy-wrap rss-copy-wrap--mobile">
+      <button class="rss-mobile-btn" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">
+        <svg class="rss-mobile-btn__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M6 18a2 2 0 1 0 0.001 0Z" fill="currentColor"/>
+          <path d="M4 4.5v3a12.5 12.5 0 0 1 12.5 12.5h3A15.5 15.5 0 0 0 4 4.5Z" fill="currentColor"/>
+          <path d="M4 10v3a7 7 0 0 1 7 7h3c0-5.52-4.48-10-10-10Z" fill="currentColor"/>
+        </svg>
+      </button>
+      <span class="rss-copied" aria-hidden="true">Copied!</span>
+    </span>
+
 </div>
 </div>

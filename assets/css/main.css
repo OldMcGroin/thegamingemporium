@@ -1541,3 +1541,142 @@ body.day-mode .top10-item.rank-3 .rank-number {
   border-left: 3px solid rgba(255, 215, 0, 0.6);
   padding-left: 10px;
 }
+
+
+/* --- Game detail pages (for RSS landings) --- */
+.game-page{ padding-top: 24px; padding-bottom: 44px; }
+.game-page__card{
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 18px;
+  padding: 16px;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: var(--bg-2);
+  box-shadow: var(--shadow);
+}
+.game-page__image{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.10);
+}
+.game-page__title{ margin: 4px 0 10px; font-size: 34px; line-height: 1.12; }
+.game-page__meta{ display:flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.pill{
+  display:inline-flex;
+  align-items:center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.04);
+  font-weight: 700;
+  font-size: 13px;
+}
+.game-page__notes{ opacity: .95; margin: 10px 0 14px; }
+.game-page__actions{ display:flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+
+.btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.05);
+  color: var(--text);
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: var(--shadow);
+}
+.btn:hover{ transform: translateY(-1px); }
+.btn:active{ transform: translateY(0px); }
+.btn--primary{
+  background: #f5c400;
+  color: rgba(0,0,0,0.88);
+  border: 1px solid rgba(0,0,0,0.15);
+}
+.btn--ghost{
+  background: transparent;
+}
+
+@media (max-width: 860px){
+  .game-page__card{ grid-template-columns: 1fr; }
+  .game-page__title{ font-size: 28px; }
+}
+
+/* --- RSS button in the mobile share bar --- */
+.rss-mobile-btn{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:42px;
+  height:42px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  text-decoration:none;
+}
+.rss-mobile-btn:hover{ transform: translateY(-1px); }
+.rss-mobile-btn:active{ transform: translateY(0px); }
+.rss-mobile-btn__icon{ width: 18px; height: 18px; }
+
+/* --- RSS copy inline feedback --- */
+.rss-copy-wrap{
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+}
+
+.rss-copied{
+  display: inline-block;
+  min-width: 64px;
+  margin-left: 10px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  opacity: 0;
+  transform: translateY(2px);
+  transition: opacity 160ms ease, transform 160ms ease;
+  color: rgba(255,255,255,0.75);
+  pointer-events: none;
+}
+
+.rss-copied.is-show{
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html[data-theme="light"] .rss-copied{
+  color: rgba(0,0,0,0.65);
+}
+
+@media (max-width: 700px){
+  .rss-copy-wrap--mobile{
+    position: relative;
+  }
+  .share-mobile-bar .rss-copied{
+    position: absolute;
+    right: 0;
+    top: -18px;
+    margin-left: 0;
+    min-width: auto;
+    padding: 2px 8px;
+    border-radius: 9999px;
+    background: rgba(0,0,0,0.65);
+    border: 1px solid rgba(255,255,255,0.12);
+    font-size: 12px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.92);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.28);
+  }
+  html[data-theme="light"] .share-mobile-bar .rss-copied{
+    background: rgba(255,255,255,0.92);
+    border: 1px solid rgba(0,0,0,0.12);
+    color: rgba(0,0,0,0.8);
+  }
+}

@@ -13,7 +13,33 @@ Usage:
 */}}
 
 {{- $g := . -}}
-{{- $slug := urlize $g.title -}}
+
+{{/*
+  This partial is used in a few contexts:
+  - from a Hugo Page (e.g. /game/<slug>/ pages) => .Title / .Params
+  - from a dict/map (older generator code paths) => { title: "..." }
+
+  Hugo is case-sensitive: Page has .Title (not .title).
+*/}}
+
+{{- $t := "" -}}
+{{- $type := printf "%T" $g -}}
+{{- if or (strings.Contains $type "hugolib.page") (strings.Contains $type "hugolib.pageState") (strings.Contains $type "page.") -}}
+  {{- $t = $g.Title | default "" -}}
+  {{- if eq $t "" -}}
+    {{- $t = $g.Params.title | default "" -}}
+  {{- end -}}
+{{- else if reflect.IsMap $g -}}
+  {{- $t = (index $g "title") | default "" -}}
+{{- else -}}
+  {{- $t = $g.Title | default "" -}}
+{{- end -}}
+
+
+{{- $slug := urlize $t -}}
+{{- if eq $slug "" -}}
+  {{- $slug = "unknown" -}}
+{{- end -}}
 {{- $img := "/Images/placeholder.jpg" -}}
 {{- $exts := slice "webp" "jpg" "png" -}}
 {{- range $ext := $exts -}}

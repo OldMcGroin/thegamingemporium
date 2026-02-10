@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="container" style="max-width: 980px; margin: 0 auto; padding: 24px;">
+  <div class="card" style="background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 18px;">
+    <h1 style="margin:0 0 8px; font-size: 28px;">The Gaming Emporium — RSS</h1>
+    <p style="margin:0; opacity:0.85;">Subscribe to get the latest <strong>Recent Additions</strong>.</p>
+
+    <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin-top:14px;">
+      <a href="/rss.xml" class="nav__link nav__link--pill" style="text-decoration:none;">Open RSS feed (XML)</a>
+      <button type="button" class="nav__link nav__link--pill" id="copyRssBtn" style="cursor:pointer;">Copy RSS feed URL</button>
+      <span id="copyStatus" style="opacity:0.75;"></span>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  function setStatus(msg, ms){
+    var el = document.getElementById('copyStatus');
+    if(!el) return;
+    el.textContent = msg;
+    if(ms){ setTimeout(function(){ el.textContent=''; }, ms); }
+  }
+  function copy(text){
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text);
+    }
+    return new Promise(function(resolve, reject){
+      try {
+        var ta = document.createElement('textarea');
+        ta.value = text; ta.style.position='fixed'; ta.style.left='-9999px';
+        document.body.appendChild(ta); ta.select();
+        var ok = document.execCommand('copy');
+        document.body.removeChild(ta);
+        ok ? resolve() : reject();
+      } catch(e){ reject(e); }
+    });
+  }
+  var btn = document.getElementById('copyRssBtn');
+  if(btn){
+    btn.addEventListener('click', function(){
+      var url = (window.location.origin || '').replace(/\/$/, '') + '/rss.xml';
+      copy(url).then(function(){ setStatus('Copied!', 1500); }).catch(function(){ setStatus('Copy failed', 2000); });
+    });
+  }
+})();
+</script>
+{{ end }}
