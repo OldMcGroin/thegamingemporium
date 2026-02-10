@@ -67,11 +67,15 @@
   {{/* Page-specific preloads for above-the-fold card images */}}
   {{ block "preloads" . }}{{ end }}
 
-  {{/* Map: urlize(title) -> external link, used by Most Popular dropdown */}}
+  {{/*
+  Map: tracking-id -> external link, used by Most Popular dropdown.
+  Supports an optional stable slug override per game (field: "slug" in games.json)
+  so title edits don't break Most Popular links.
+  */}}
   <script>
     window.__GAMES_BY_SLUG__ = {
       {{- range $i, $g := site.Data.games -}}
-        {{- $slug := (urlize $g.title) -}}
+        {{- $slug := default (urlize $g.title) $g.slug -}}
         {{- if $i }},{{ end -}}
         {{- printf "%q" $slug -}}: {"title": {{ printf "%q" $g.title }}, "url": {{ printf "%q" $g.link }} }
       {{- end -}}
