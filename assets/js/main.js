@@ -485,9 +485,10 @@ function initGameGrids(){
             // Hide any manual test entries (you can also delete them from D1).
             if(id === 'test-game' || id === 'test-live' || id.indexOf('test-') === 0) continue;
 
-            var info = lookup[id] || lookupLoose[id.replace(/-/g,'')] || null;
+            var direct = (window.__GAMES_BY_SLUG__ && window.__GAMES_BY_SLUG__[id]) || null;
+            var info = direct ? { title: direct.title, url: direct.url } : (lookup[id] || lookupLoose[id.replace(/-/g,'')] || null);
             if(!info){
-              info = { title: humanizeSlug(id), url: '/all/#' + encodeURIComponent(id) };
+              info = { title: humanizeSlug(id), url: '#' };
             }
 
             var li = document.createElement('li');
@@ -513,6 +514,8 @@ function initGameGrids(){
               a.textContent = info.title;
             }
             a.href = info.url;
+            if(/^https?:\/\//i.test(info.url)){ a.target='_blank'; a.rel='noopener noreferrer'; }
+    if (/^https?:\/\//i.test(info.url)) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
             if(info.url === '#'){
               a.addEventListener('click', function(e){ e.preventDefault(); });
               a.setAttribute('aria-disabled','true');
