@@ -66,6 +66,17 @@
 
   {{/* Page-specific preloads for above-the-fold card images */}}
   {{ block "preloads" . }}{{ end }}
+
+  {{/* Map: urlize(title) -> external link, used by Most Popular dropdown */}}
+  <script>
+    window.__GAMES_BY_SLUG__ = {
+      {{- range $i, $g := site.Data.games -}}
+        {{- $slug := (urlize $g.title) -}}
+        {{- if $i }},{{ end -}}
+        {{- printf "%q" $slug -}}: {"title": {{ printf "%q" $g.title }}, "url": {{ printf "%q" $g.link }} }
+      {{- end -}}
+    };
+  </script>
 </head>
 <body>
 <div class="site-bg">
