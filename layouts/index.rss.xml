@@ -3,7 +3,7 @@
 {{- $recent := where $games "date_added" "ne" "" -}}
 {{- $recent = sort $recent "date_added" "desc" -}}
 
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML -}}
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:media="http://search.yahoo.com/mrss/">
@@ -11,44 +11,29 @@
     <title>{{ .Site.Title }} – Recent Additions</title>
     <link>{{ $base }}</link>
     <atom:link href="{{ "rss.xml" | absURL }}" rel="self" type="application/rss+xml" />
-    <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
+    <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
     <lastBuildDate>{{ now.UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
 
-    {{ range first 50 $recent }}
-      {{- $title := .title | default "" -}}
-      {{- if $title -}}
-        {{- $slug := $title | lower | urlize -}}
-        {{- $imgPath := printf "/Images/Games/%s.webp" $slug -}}
-        {{- $img := $imgPath | absURL -}}
-        {{- $ext := .link | default $base -}}
-        {{- $siteLink := (printf "game/%s/" $slug) | absURL -}}
-        {{- $desc := .notes | default "" -}}
-        {{- $cat := .category | default "" -}}
-        {{- $pub := time .date_added -}}
+    {{- range first 50 $recent }}
+      {{- $title := .title -}}
+      {{- $slug := $title | lower | urlize -}}
+      {{- $img := (printf "/Images/Games/%s.webp" $slug) | absURL -}}
+      {{- $internal := (printf "/game/%s/" $slug) | absURL -}}
+      {{- $external := .link -}}
+      <item>
+        <title>{{ $title | htmlEscape }}</title>
+        <link>{{ $internal | htmlEscape }}</link>
+        <guid isPermaLink="false">{{ $slug }}-{{ .date_added | htmlEscape }}</guid>
+        <pubDate>{{ (time .date_added).UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
 
-        <item>
-          <title>{{ $title | htmlEscape }}</title>
+        <!-- Images (thumbnail + enclosure) -->
+        <media:thumbnail url="{{ $img | htmlEscape }}" />
+        <media:content url="{{ $img | htmlEscape }}" medium="image" />
+        <enclosure url="{{ $img | htmlEscape }}" type="image/webp" />
 
-          <!-- Link to your site first (per your existing RSS wording) -->
-          <link>{{ $siteLink | htmlEscape }}</link>
-
-          <!-- External link is included in the description -->
-          <guid isPermaLink="false">{{ $slug }}-{{ .date_added }}</guid>
-          <pubDate>{{ $pub.UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
-
-          <!-- Images: multiple formats for best feed-reader compatibility -->
-          <media:thumbnail url="{{ $img | htmlEscape }}" />
-          <media:content url="{{ $img | htmlEscape }}" medium="image" />
-          <enclosure url="{{ $img | htmlEscape }}" type="image/webp" />
-
-          <description><![CDATA[
-            <p><a href="{{ $siteLink }}"><img src="{{ $img }}" alt="{{ $title | htmlEscape }}" style="max-width:100%;height:auto;" /></a></p>
-            {{ if $desc }}<p>{{ $desc | htmlEscape }}</p>{{ end }}
-            {{ if $cat }}<p><strong>Category:</strong> {{ $cat | htmlEscape }}</p>{{ end }}
-            {{ if $ext }}<p><strong>External link:</strong> <a href="{{ $ext | htmlEscape }}">{{ $ext | htmlEscape }}</a></p>{{ end }}
-          ]]></description>
-        </item>
-      {{- end -}}
-    {{ end }}
+        <!-- Plain-text description (avoid CDATA/XML parse issues) -->
+        <description>{{ printf "Category: %s | External link: %s" .category $external | htmlEscape }}</description>
+      </item>
+    {{- end }}
   </channel>
 </rss>
