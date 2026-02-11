@@ -12,8 +12,6 @@ fi
 echo "Generating game pages..."
 python3 tools/generate_game_pages.py
 
-echo "Generating RSS feed..."
-python3 tools/generate_rss_feed.py
 
 echo "Generating series pages..."
 python3 tools/generate_series_pages.py

@@ -5,3 +5,9 @@ title = "The Gaming Emporium"
 [params]
   description = "A curated list of decompilations, ports, mods, and more."
   cloudflare_web_analytics_token = ""
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+  baseName = "rss"
