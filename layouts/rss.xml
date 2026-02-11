@@ -1,0 +1,88 @@
+{{- /* layouts/rss.xml — Recent Additions feed built from data/games.json */ -}}
+{{- $site := .Site -}}
+{{- $base := $site.BaseURL | strings.TrimRight "/" -}}
+
+{{- $games := index $site.Data "games" -}}
+{{- /* $games may be an array or a map; normalize to slice */ -}}
+{{- $list := slice -}}
+{{- if reflect.IsMap $games -}}
+  {{- range $k, $v := $games -}}
+    {{- $list = $list | append $v -}}
+  {{- end -}}
+{{- else -}}
+  {{- $list = $games -}}
+{{- end -}}
+
+{{- /* Only items that have a date_added */ -}}
+{{- $list = where $list "date_added" "ne" "" -}}
+
+{{- /* Sort by date_added (YYYY-MM-DD) descending */ -}}
+{{- $list = sort $list "date_added" "desc" -}}
+
+{{- /* Take most recent 50 */ -}}
+{{- $list = first 50 $list -}}
+
+{{- $now := now -}}
+{{- $feedTitle := printf "%s — Recent Additions" $site.Title -}}
+{{- $feedLink := printf "%s/rss.xml" $base -}}
+
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ $feedTitle }}</title>
+    <link>{{ $base }}/</link>
+    <atom:link href="{{ $feedLink }}" rel="self" type="application/rss+xml"/>
+    <description>The 50 most recent additions to The Gaming Emporium (opens on the site first).</description>
+    <language>{{ with $site.LanguageCode }}{{ . }}{{ else }}en{{ end }}</language>
+    <lastBuildDate>{{ $now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+
+    {{- range $g := $list -}}
+      {{- $title := $g.title | default "Untitled" -}}
+      {{- $slug := $g.slug | default (urlize $title) -}}
+      {{- $gameURL := printf "%s/game/%s/" $base $slug -}}
+      {{- $date := $g.date_added | default "" -}}
+      {{- $pub := (time $date) | default $now -}}
+
+      {{- /* Image: prefer explicit image field, else slug.webp in /Images/Games */ -}}
+      {{- $img := "" -}}
+      {{- if $g.image -}}
+        {{- $img = $g.image -}}
+      {{- else -}}
+        {{- $img = printf "%s/Images/Games/%s.webp" $base $slug -}}
+      {{- end -}}
+
+      {{- $cat := $g.category | default "" -}}
+      {{- $series := $g.series | default "" -}}
+      {{- $genre1 := $g.genre1 | default "" -}}
+      {{- $genre2 := $g.genre2 | default "" -}}
+      {{- $genres := cond (and $genre1 $genre2) (printf "%s, %s" $genre1 $genre2) (or $genre1 $genre2) -}}
+
+      <item>
+        <title>{{ $title | htmlEscape }}</title>
+        <link>{{ $gameURL }}</link>
+        <guid isPermaLink="true">{{ $gameURL }}</guid>
+        <pubDate>{{ $pub.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+
+        {{- if $cat }}<category>{{ $cat | htmlEscape }}</category>{{ end -}}
+        {{- if $series }}<category>{{ printf "Series: %s" $series | htmlEscape }}</category>{{ end -}}
+        {{- if $genres }}<category>{{ printf "Genre: %s" $genres | htmlEscape }}</category>{{ end -}}
+
+        {{- /* Feedly-friendly image hints */ -}}
+        <enclosure url="{{ $img }}" type="image/webp"/>
+        <media:thumbnail url="{{ $img }}"/>
+        <media:content url="{{ $img }}" medium="image" type="image/webp"/>
+
+        {{- $descText := slice -}}
+        {{- if $cat }}{{ $descText = $descText | append (humanize $cat) }}{{ end -}}
+        {{- if $series }}{{ $descText = $descText | append (printf "Series: %s" $series) }}{{ end -}}
+        {{- if $genres }}{{ $descText = $descText | append (printf "Genre: %s" $genres) }}{{ end -}}
+        {{- $desc := delimit $descText " · " -}}
+
+        <description><![CDATA[<p><a href="{{ $gameURL }}"><img src="{{ $img }}" alt="{{ $title | htmlEscape }}" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>{{ $desc }}</p>]]></description>
+        <content:encoded><![CDATA[<p><a href="{{ $gameURL }}"><img src="{{ $img }}" alt="{{ $title | htmlEscape }}" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>{{ $desc }}</p>]]></content:encoded>
+      </item>
+    {{- end -}}
+  </channel>
+</rss>

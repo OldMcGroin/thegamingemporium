@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Optional: if you keep an updated games.json at repo root, sync it into /data automatically.
-# This prevents stale builds when you forget to copy it.
-if [ -f "./games.json" ]; then
-  echo "Syncing ./games.json -> ./data/games.json"
-  cp ./games.json ./data/games.json
+# Sync canonical data/games.json -> root games.json (never overwrite data)
+if [ -f "./data/games.json" ]; then
+  echo "Syncing ./data/games.json -> ./games.json"
+  cp ./data/games.json ./games.json
 fi
+
+
 
 echo "Generating game pages..."
 python3 tools/generate_game_pages.py
