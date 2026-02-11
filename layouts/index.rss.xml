@@ -17,7 +17,32 @@
     {{- range first 50 $recent }}
       {{- $title := .title -}}
       {{- $slug := $title | lower | urlize -}}
-      {{- $img := (printf "/Images/Games/%s.webp" $slug) | absURL -}}
+      {{- /* Choose an image for the RSS item (fallback: webp -> png -> jpg -> jpeg). */ -}}
+{{- $imgRel := "" -}}
+{{- $mime := "" -}}
+{{- $pWebp := printf "static/Images/Games/%s.webp" $slug -}}
+{{- $pPng  := printf "static/Images/Games/%s.png"  $slug -}}
+{{- $pJpg  := printf "static/Images/Games/%s.jpg"  $slug -}}
+{{- $pJpeg := printf "static/Images/Games/%s.jpeg" $slug -}}
+
+{{- if fileExists $pWebp -}}
+  {{- $imgRel = printf "/Images/Games/%s.webp" $slug -}}
+  {{- $mime = "image/webp" -}}
+{{- else if fileExists $pPng -}}
+  {{- $imgRel = printf "/Images/Games/%s.png" $slug -}}
+  {{- $mime = "image/png" -}}
+{{- else if fileExists $pJpg -}}
+  {{- $imgRel = printf "/Images/Games/%s.jpg" $slug -}}
+  {{- $mime = "image/jpeg" -}}
+{{- else if fileExists $pJpeg -}}
+  {{- $imgRel = printf "/Images/Games/%s.jpeg" $slug -}}
+  {{- $mime = "image/jpeg" -}}
+{{- end -}}
+
+{{- $img := "" -}}
+{{- if ne $imgRel "" -}}
+  {{- $img = $imgRel | absURL -}}
+{{- end -}}
       {{- $internal := (printf "/game/%s/" $slug) | absURL -}}
       {{- $external := .link -}}
       <item>
@@ -27,9 +52,11 @@
         <pubDate>{{ (time .date_added).UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
 
         <!-- Images (thumbnail + enclosure) -->
+{{- if ne $img "" -}}
         <media:thumbnail url="{{ $img | htmlEscape }}" />
         <media:content url="{{ $img | htmlEscape }}" medium="image" />
-        <enclosure url="{{ $img | htmlEscape }}" type="image/webp" />
+        <enclosure url="{{ $img | htmlEscape }}" type="{{ $mime | htmlEscape }}" />
+{{- end -}}
 
         <!-- Plain-text description (avoid CDATA/XML parse issues) -->
         <description>{{ printf "Category: %s | External link: %s" .category $external | htmlEscape }}</description>
