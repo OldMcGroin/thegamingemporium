@@ -21140,6 +21140,32 @@
     "notes": "",
     "date_added": "2026-02-11",
     "image": ""
+  },
+  {
+    "id": 1623,
+    "title": "Kula World 32X Port",
+    "category": "console-ports",
+    "link": "https://old-pirate.itch.io/kula-world-32x",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Kula World",
+    "video_link": "https://youtu.be/c6SbiRKjOvI?si=CGzpzRWdSmc12ORY",
+    "notes": "",
+    "date_added": "2026-02-11",
+    "image": ""
+  },
+  {
+    "id": 1624,
+    "title": "Castlevania 1 Fortified Army",
+    "category": "rom-hacks",
+    "link": "https://www.romhacking.net/hacks/9409/?ref=retrododo.com",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Castlevania",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-11",
+    "image": ""
   }
 
   ]
