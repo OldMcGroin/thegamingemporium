@@ -9,7 +9,7 @@ params:
   genre2: ""
   series: "Super Mario"
   video_link: ""
-  date_added: "2026-02-07"
+  date_added: "2026-02-06"
   image: ""
 ---
 

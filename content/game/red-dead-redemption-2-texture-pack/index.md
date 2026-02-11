@@ -9,7 +9,7 @@ params:
   genre2: "sandbox"
   series: "Red Dead Redemption"
   video_link: ""
-  date_added: "2026-02-06"
+  date_added: "2026-02-05"
   image: ""
 ---
 

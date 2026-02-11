@@ -9,7 +9,7 @@ params:
   genre2: ""
   series: "OpenBlok"
   video_link: ""
-  date_added: "2026-02-06"
+  date_added: "2026-02-05"
   image: ""
 ---
 
