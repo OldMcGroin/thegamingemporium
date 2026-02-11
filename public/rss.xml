@@ -1,460 +1,560 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Gaming Emporium — Recent Additions</title>
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 10 Feb 2026 17:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 23:57:10 +0000</lastBuildDate>
     <item>
       <title>Grand Theft Auto: Ready2Play</title>
       <link>https://thegamingemporium.com/game/grand-theft-auto-ready2play/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/grand-theft-auto-ready2play/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" type="image/webp" />
-      <description>Fan Games · Series: Grand Theft Auto · Genre: sandbox, action</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" alt="Grand Theft Auto: Ready2Play" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Grand Theft Auto · Genre: sandbox, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-ready2play.webp" alt="Grand Theft Auto: Ready2Play" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
     </item>
     <item>
       <title>Final Fight Enhanced Edition - Amiga</title>
       <link>https://thegamingemporium.com/game/final-fight-enhanced-edition-amiga/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/final-fight-enhanced-edition-amiga/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" type="image/webp" />
-      <description>Console Ports · Series: Final Fight · Genre: beat em up</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" alt="Final Fight Enhanced Edition - Amiga" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Final Fight · Genre: beat em up]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fight-enhanced-edition-amiga.webp" alt="Final Fight Enhanced Edition - Amiga" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Final Fight · Genre: beat em up]]></content:encoded>
     </item>
     <item>
       <title>Cold Case</title>
       <link>https://thegamingemporium.com/game/cold-case/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/cold-case/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/cold-case.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/cold-case.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/cold-case.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/cold-case.webp" type="image/webp" />
-      <description>Fan Games · Series: Cold Case · Genre: survival horror</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cold-case.webp" alt="Cold Case" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Cold Case · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cold-case.webp" alt="Cold Case" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Cold Case · Genre: survival horror]]></content:encoded>
     </item>
     <item>
       <title>Project Kat</title>
       <link>https://thegamingemporium.com/game/project-kat/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/project-kat/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/project-kat.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/project-kat.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/project-kat.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/project-kat.webp" type="image/webp" />
-      <description>Fan Games · Series: Project Kat · Genre: rpg, puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-kat.webp" alt="Project Kat" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Project Kat · Genre: rpg, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-kat.webp" alt="Project Kat" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Project Kat · Genre: rpg, puzzle]]></content:encoded>
     </item>
     <item>
       <title>The Freak Circus</title>
       <link>https://thegamingemporium.com/game/the-freak-circus/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/the-freak-circus/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" type="image/webp" />
-      <description>Fan Games · Series: The Freak Circus · Genre: action, adventure</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" alt="The Freak Circus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: The Freak Circus · Genre: action, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-freak-circus.webp" alt="The Freak Circus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: The Freak Circus · Genre: action, adventure]]></content:encoded>
     </item>
     <item>
       <title>Mario Kart Wii DeluxeX</title>
       <link>https://thegamingemporium.com/game/mario-kart-wii-deluxex/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-wii-deluxex/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" type="image/webp" />
-      <description>Fan Games · Series: Super Mario · Genre: racing</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" alt="Mario Kart Wii DeluxeX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Super Mario · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-deluxex.webp" alt="Mario Kart Wii DeluxeX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Super Mario · Genre: racing]]></content:encoded>
     </item>
     <item>
       <title>Sonic Megamix Mania</title>
       <link>https://thegamingemporium.com/game/sonic-megamix-mania/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-megamix-mania/</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" type="image/webp" />
-      <description>Fan Games · Series: Sonic The Hedgehog · Genre: platformer</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" alt="Sonic Megamix Mania" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Sonic The Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-megamix-mania.webp" alt="Sonic Megamix Mania" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Sonic The Hedgehog · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Open Realm of Stars</title>
       <link>https://thegamingemporium.com/game/open-realm-of-stars/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/open-realm-of-stars/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" type="image/webp" />
-      <description>Open Source · Series: Open Realm of Stars · Genre: strategy</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" alt="Open Realm of Stars" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Open Realm of Stars · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/open-realm-of-stars.webp" alt="Open Realm of Stars" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Open Realm of Stars · Genre: strategy]]></content:encoded>
     </item>
     <item>
       <title>Ghostship - Mario 64 PC Port - HD Texture Pack</title>
       <link>https://thegamingemporium.com/game/ghostship-mario-64-pc-port-hd-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ghostship-mario-64-pc-port-hd-texture-pack/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" type="image/webp" />
-      <description>Decompilations Recompilations · Series: Super Mario · Genre: Platformer</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" alt="Ghostship - Mario 64 PC Port - HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: Platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ghostship-mario-64-pc-port-hd-texture-pack.webp" alt="Ghostship - Mario 64 PC Port - HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: Platformer]]></content:encoded>
     </item>
     <item>
       <title>The Witcher 3 - Dawn Over Kovir</title>
       <link>https://thegamingemporium.com/game/the-witcher-3-dawn-over-kovir/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/the-witcher-3-dawn-over-kovir/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" type="image/webp" />
-      <description>Mods · Series: The Witcher · Genre: rpg, adventure</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" alt="The Witcher 3 - Dawn Over Kovir" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Witcher · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-witcher-3-dawn-over-kovir.webp" alt="The Witcher 3 - Dawn Over Kovir" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Witcher · Genre: rpg, adventure]]></content:encoded>
     </item>
     <item>
       <title>Minima</title>
       <link>https://thegamingemporium.com/game/minima/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/minima/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/minima.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/minima.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/minima.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/minima.webp" type="image/webp" />
-      <description>Open Source · Series: Minima · Genre: rpg, adventure</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/minima.webp" alt="Minima" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Minima · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/minima.webp" alt="Minima" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Minima · Genre: rpg, adventure]]></content:encoded>
     </item>
     <item>
       <title>Anteform</title>
       <link>https://thegamingemporium.com/game/anteform/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/anteform/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/anteform.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/anteform.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/anteform.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/anteform.webp" type="image/webp" />
-      <description>Open Source · Series: Anteform · Genre: rpg</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/anteform.webp" alt="Anteform" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Anteform · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/anteform.webp" alt="Anteform" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Anteform · Genre: rpg]]></content:encoded>
     </item>
     <item>
       <title>MOTHER: Encore</title>
       <link>https://thegamingemporium.com/game/mother-encore/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mother-encore/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/mother-encore.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mother-encore.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mother-encore.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/mother-encore.webp" type="image/webp" />
-      <description>Fan Games · Series: Earthbound · Genre: rpg</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mother-encore.webp" alt="MOTHER: Encore" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Earthbound · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mother-encore.webp" alt="MOTHER: Encore" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Earthbound · Genre: rpg]]></content:encoded>
     </item>
     <item>
       <title>OpenBlok</title>
       <link>https://thegamingemporium.com/game/openblok/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/openblok/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/openblok.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openblok.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openblok.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/openblok.webp" type="image/webp" />
-      <description>Open Source · Series: OpenBlok · Genre: puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openblok.webp" alt="OpenBlok" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: OpenBlok · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openblok.webp" alt="OpenBlok" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: OpenBlok · Genre: puzzle]]></content:encoded>
     </item>
     <item>
       <title>PySol Fan Club Edition</title>
       <link>https://thegamingemporium.com/game/pysol-fan-club-edition/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/pysol-fan-club-edition/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" type="image/webp" />
-      <description>Open Source · Series: PySol Fan Club Edition · Genre: puzzle, strategy</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" alt="PySol Fan Club Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: PySol Fan Club Edition · Genre: puzzle, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pysol-fan-club-edition.webp" alt="PySol Fan Club Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: PySol Fan Club Edition · Genre: puzzle, strategy]]></content:encoded>
     </item>
     <item>
       <title>Augustus</title>
       <link>https://thegamingemporium.com/game/augustus/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/augustus/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/augustus.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/augustus.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/augustus.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/augustus.webp" type="image/webp" />
-      <description>Open Source · Series: Augustus · Genre: strategy</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/augustus.webp" alt="Augustus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Augustus · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/augustus.webp" alt="Augustus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Augustus · Genre: strategy]]></content:encoded>
     </item>
     <item>
       <title>ONI Remaster Mod</title>
       <link>https://thegamingemporium.com/game/oni-remaster-mod/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/oni-remaster-mod/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" type="image/webp" />
-      <description>Mods · Series: ONI · Genre: action</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" alt="ONI Remaster Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: ONI · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oni-remaster-mod.webp" alt="ONI Remaster Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: ONI · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Red Dead Redemption 2 Texture Pack</title>
       <link>https://thegamingemporium.com/game/red-dead-redemption-2-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/red-dead-redemption-2-texture-pack/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" type="image/webp" />
-      <description>Texture Packs · Series: Red Dead Redemption · Genre: adventure, sandbox</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" alt="Red Dead Redemption 2 Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Red Dead Redemption · Genre: adventure, sandbox]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/red-dead-redemption-2-texture-pack.webp" alt="Red Dead Redemption 2 Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Red Dead Redemption · Genre: adventure, sandbox]]></content:encoded>
     </item>
     <item>
       <title>Resident Evil HD Remaster 4K Texture Pack</title>
       <link>https://thegamingemporium.com/game/resident-evil-hd-remaster-4k-texture-pack/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-hd-remaster-4k-texture-pack/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" type="image/webp" />
-      <description>Texture Packs · Series: Resident Evil · Genre: survival horror, action</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" alt="Resident Evil HD Remaster 4K Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Resident Evil · Genre: survival horror, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-hd-remaster-4k-texture-pack.webp" alt="Resident Evil HD Remaster 4K Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Resident Evil · Genre: survival horror, action]]></content:encoded>
     </item>
     <item>
       <title>SuperTux 3D</title>
       <link>https://thegamingemporium.com/game/supertux-3d/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/supertux-3d/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/supertux-3d.webp" type="image/webp" />
-      <description>Open Source · Series: Tux Games · Genre: platformer</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/supertux-3d.webp" alt="SuperTux 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Tux Games · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/supertux-3d.webp" alt="SuperTux 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Tux Games · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Luanti</title>
       <link>https://thegamingemporium.com/game/luanti/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/luanti/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/luanti.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/luanti.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/luanti.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/luanti.webp" type="image/webp" />
-      <description>Open Source · Series: Luanti · Genre: sandbox</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/luanti.webp" alt="Luanti" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Luanti · Genre: sandbox]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/luanti.webp" alt="Luanti" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Luanti · Genre: sandbox]]></content:encoded>
     </item>
     <item>
       <title>Chobits: Chiidake no Hito - PS2</title>
       <link>https://thegamingemporium.com/game/chobits-chiidake-no-hito-ps2/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/chobits-chiidake-no-hito-ps2/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" type="image/webp" />
-      <description>English Translation Patches · Series: Chobits · Genre: visual novel</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" alt="Chobits: Chiidake no Hito - PS2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Chobits · Genre: visual novel]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chobits-chiidake-no-hito-ps2.webp" alt="Chobits: Chiidake no Hito - PS2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Chobits · Genre: visual novel]]></content:encoded>
     </item>
     <item>
       <title>Junk Runner 64</title>
       <link>https://thegamingemporium.com/game/junk-runner-64/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/junk-runner-64/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" type="image/webp" />
-      <description>Fan Games · Series: Junk Runner 64 · Genre: adventure</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" alt="Junk Runner 64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Junk Runner 64 · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/junk-runner-64.webp" alt="Junk Runner 64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Junk Runner 64 · Genre: adventure]]></content:encoded>
     </item>
     <item>
       <title>Brogue: Community Edition</title>
       <link>https://thegamingemporium.com/game/brogue-community-edition/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/brogue-community-edition/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" type="image/webp" />
-      <description>Open Source · Series: Brogue · Genre: roguelike</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" alt="Brogue: Community Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Brogue · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/brogue-community-edition.webp" alt="Brogue: Community Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Brogue · Genre: roguelike]]></content:encoded>
     </item>
     <item>
       <title>IVAN</title>
       <link>https://thegamingemporium.com/game/ivan/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ivan/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/ivan.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ivan.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ivan.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/ivan.webp" type="image/webp" />
-      <description>Open Source · Series: IVAN · Genre: roguelike</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ivan.webp" alt="IVAN" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: IVAN · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ivan.webp" alt="IVAN" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: IVAN · Genre: roguelike]]></content:encoded>
     </item>
     <item>
       <title>Shamogu</title>
       <link>https://thegamingemporium.com/game/shamogu/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/shamogu/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/shamogu.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shamogu.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/shamogu.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/shamogu.webp" type="image/webp" />
-      <description>Open Source · Series: Shamogu · Genre: roguelike</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shamogu.webp" alt="Shamogu" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Shamogu · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shamogu.webp" alt="Shamogu" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Shamogu · Genre: roguelike]]></content:encoded>
     </item>
     <item>
       <title>Harmonist: Dayoriah Clan Infiltration</title>
       <link>https://thegamingemporium.com/game/harmonist-dayoriah-clan-infiltration/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/harmonist-dayoriah-clan-infiltration/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" type="image/webp" />
-      <description>Open Source · Series: Harmonist · Genre: roguelike, stealth</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" alt="Harmonist: Dayoriah Clan Infiltration" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Harmonist · Genre: roguelike, stealth]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/harmonist-dayoriah-clan-infiltration.webp" alt="Harmonist: Dayoriah Clan Infiltration" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Harmonist · Genre: roguelike, stealth]]></content:encoded>
     </item>
     <item>
       <title>Oathbreaker</title>
       <link>https://thegamingemporium.com/game/oathbreaker/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/oathbreaker/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/oathbreaker.webp" type="image/webp" />
-      <description>Open Source · Series: Oathbreaker · Genre: roguelike, stealth</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oathbreaker.webp" alt="Oathbreaker" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Oathbreaker · Genre: roguelike, stealth]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oathbreaker.webp" alt="Oathbreaker" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Oathbreaker · Genre: roguelike, stealth]]></content:encoded>
     </item>
     <item>
       <title>Shadow of the Wyrm</title>
       <link>https://thegamingemporium.com/game/shadow-of-the-wyrm/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/shadow-of-the-wyrm/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" type="image/webp" />
-      <description>Open Source · Series: Shadow of the Wyrm · Genre: roguelike</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" alt="Shadow of the Wyrm" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Shadow of the Wyrm · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-of-the-wyrm.webp" alt="Shadow of the Wyrm" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Shadow of the Wyrm · Genre: roguelike]]></content:encoded>
     </item>
     <item>
       <title>Sil-Q</title>
       <link>https://thegamingemporium.com/game/sil-q/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/sil-q/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/sil-q.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sil-q.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/sil-q.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/sil-q.webp" type="image/webp" />
-      <description>Open Source · Series: Sil-Q · Genre: rpg</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sil-q.webp" alt="Sil-Q" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Sil-Q · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sil-q.webp" alt="Sil-Q" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Sil-Q · Genre: rpg]]></content:encoded>
     </item>
     <item>
       <title>Hyperroque</title>
       <link>https://thegamingemporium.com/game/hyperroque/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/hyperroque/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/hyperroque.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hyperroque.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/hyperroque.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/hyperroque.webp" type="image/webp" />
-      <description>Open Source · Series: Hyperroque · Genre: roguelike, puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></content:encoded>
     </item>
     <item>
       <title>Barotrauma</title>
       <link>https://thegamingemporium.com/game/barotrauma/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/barotrauma/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/barotrauma.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/barotrauma.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/barotrauma.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/barotrauma.webp" type="image/webp" />
-      <description>Open Source · Series: Barotrauma · Genre: survival horror</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/barotrauma.webp" alt="Barotrauma" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Barotrauma · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/barotrauma.webp" alt="Barotrauma" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Barotrauma · Genre: survival horror]]></content:encoded>
     </item>
     <item>
       <title>Mindustry</title>
       <link>https://thegamingemporium.com/game/mindustry/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/mindustry/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/mindustry.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mindustry.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mindustry.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/mindustry.webp" type="image/webp" />
-      <description>Open Source · Series: Mindustry · Genre: factory management, tower defence</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mindustry.webp" alt="Mindustry" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Mindustry · Genre: factory management, tower defence]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mindustry.webp" alt="Mindustry" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Mindustry · Genre: factory management, tower defence]]></content:encoded>
     </item>
     <item>
       <title>UltraStar Deluxw</title>
       <link>https://thegamingemporium.com/game/ultrastar-deluxw/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ultrastar-deluxw/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" type="image/webp" />
-      <description>Open Source · Series: UltraStar · Genre: karaoke</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" alt="UltraStar Deluxw" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: UltraStar · Genre: karaoke]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ultrastar-deluxw.webp" alt="UltraStar Deluxw" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: UltraStar · Genre: karaoke]]></content:encoded>
     </item>
     <item>
       <title>StepMania</title>
       <link>https://thegamingemporium.com/game/stepmania/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/stepmania/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/stepmania.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/stepmania.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/stepmania.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/stepmania.webp" type="image/webp" />
-      <description>Open Source · Series: StepMania · Genre: rhythm based</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stepmania.webp" alt="StepMania" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: StepMania · Genre: rhythm based]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stepmania.webp" alt="StepMania" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: StepMania · Genre: rhythm based]]></content:encoded>
     </item>
     <item>
       <title>Space Station Silicon Valley Recompilation</title>
       <link>https://thegamingemporium.com/game/space-station-silicon-valley-recompilation/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/space-station-silicon-valley-recompilation/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" type="image/webp" />
-      <description>Decompilations Recompilations · Series: Space Station Silicon Valley · Genre: platformer, puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" alt="Space Station Silicon Valley Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Space Station Silicon Valley · Genre: platformer, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/space-station-silicon-valley-recompilation.webp" alt="Space Station Silicon Valley Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Space Station Silicon Valley · Genre: platformer, puzzle]]></content:encoded>
     </item>
     <item>
       <title>EmuDevz</title>
       <link>https://thegamingemporium.com/game/emudevz/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/emudevz/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/emudevz.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/emudevz.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/emudevz.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/emudevz.webp" type="image/webp" />
-      <description>Open Source · Series: EmuDevz · Genre: puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/emudevz.webp" alt="EmuDevz" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: EmuDevz · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/emudevz.webp" alt="EmuDevz" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: EmuDevz · Genre: puzzle]]></content:encoded>
     </item>
     <item>
       <title>Station - Heroes for Hire</title>
       <link>https://thegamingemporium.com/game/station-heroes-for-hire/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/station-heroes-for-hire/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" type="image/webp" />
-      <description>Fan Games · Series: Station - Heroes for Hire · Genre: adventure, rpg</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" alt="Station - Heroes for Hire" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Station - Heroes for Hire · Genre: adventure, rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/station-heroes-for-hire.webp" alt="Station - Heroes for Hire" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Station - Heroes for Hire · Genre: adventure, rpg]]></content:encoded>
     </item>
     <item>
       <title>CRW: Metal Jacket - PC98</title>
       <link>https://thegamingemporium.com/game/crw-metal-jacket-pc98/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/crw-metal-jacket-pc98/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" type="image/webp" />
-      <description>English Translation Patches · Series: CRW: Metal Jacket · Genre: rpg, strategy</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" alt="CRW: Metal Jacket - PC98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: CRW: Metal Jacket · Genre: rpg, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crw-metal-jacket-pc98.webp" alt="CRW: Metal Jacket - PC98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: CRW: Metal Jacket · Genre: rpg, strategy]]></content:encoded>
     </item>
     <item>
       <title>Tuned Heart - PC98</title>
       <link>https://thegamingemporium.com/game/tuned-heart-pc98/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/tuned-heart-pc98/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" type="image/webp" />
-      <description>English Translation Patches · Series: Tuned Heart · Genre: rpg, strategy</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" alt="Tuned Heart - PC98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Tuned Heart · Genre: rpg, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tuned-heart-pc98.webp" alt="Tuned Heart - PC98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Tuned Heart · Genre: rpg, strategy]]></content:encoded>
     </item>
     <item>
       <title>Pokemon Inritum</title>
       <link>https://thegamingemporium.com/game/pokemon-inritum/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-inritum/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" type="image/webp" />
-      <description>Fan Games · Series: Pokemon · Genre: rpg, creature collector</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" alt="Pokemon Inritum" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: rpg, creature collector]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-inritum.webp" alt="Pokemon Inritum" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: rpg, creature collector]]></content:encoded>
     </item>
     <item>
       <title>Delivery &amp; Beyond</title>
       <link>https://thegamingemporium.com/game/delivery-beyond/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/delivery-beyond/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" type="image/webp" />
-      <description>Fan Games · Series: Delivery &amp; Beyond · Genre: action</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" alt="Delivery &amp; Beyond" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Delivery &amp; Beyond · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/delivery-beyond.webp" alt="Delivery &amp; Beyond" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Delivery &amp; Beyond · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Lode Runner - Nintendo DS</title>
       <link>https://thegamingemporium.com/game/lode-runner-nintendo-ds/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/lode-runner-nintendo-ds/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" type="image/webp" />
-      <description>English Translation Patches · Series: Lode Runner · Genre: action, puzzle</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" alt="Lode Runner - Nintendo DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Lode Runner · Genre: action, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lode-runner-nintendo-ds.webp" alt="Lode Runner - Nintendo DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Lode Runner · Genre: action, puzzle]]></content:encoded>
     </item>
     <item>
       <title>Rockman &amp; Forte - SNES</title>
       <link>https://thegamingemporium.com/game/rockman-forte-snes/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/rockman-forte-snes/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" type="image/webp" />
-      <description>English Translation Patches · Series: Mega Man · Genre: action, platformer</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" alt="Rockman &amp; Forte - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Mega Man · Genre: action, platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rockman-forte-snes.webp" alt="Rockman &amp; Forte - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Mega Man · Genre: action, platformer]]></content:encoded>
     </item>
     <item>
       <title>Dragon Ball Kai: Ultimate Butouden - Nintendo DS</title>
       <link>https://thegamingemporium.com/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" type="image/webp" />
-      <description>English Translation Patches · Series: Dragon Ball Z · Genre: fighting</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" alt="Dragon Ball Kai: Ultimate Butouden - Nintendo DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Dragon Ball Z · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragon-ball-kai-ultimate-butouden-nintendo-ds.webp" alt="Dragon Ball Kai: Ultimate Butouden - Nintendo DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Dragon Ball Z · Genre: fighting]]></content:encoded>
     </item>
     <item>
       <title>Fallout 4 - Heather Companion Mod</title>
       <link>https://thegamingemporium.com/game/fallout-4-heather-companion-mod/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-4-heather-companion-mod/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" type="image/webp" />
-      <description>Mods · Series: Fallout · Genre: rpg, action</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" alt="Fallout 4 - Heather Companion Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-4-heather-companion-mod.webp" alt="Fallout 4 - Heather Companion Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: rpg, action]]></content:encoded>
     </item>
     <item>
       <title>UFO: Alien Invasion</title>
       <link>https://thegamingemporium.com/game/ufo-alien-invasion/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/ufo-alien-invasion/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" type="image/webp" />
-      <description>Open Source · Series: UFO: Alien Invasion · Genre: strategy, resource management</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" alt="UFO: Alien Invasion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: UFO: Alien Invasion · Genre: strategy, resource management]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufo-alien-invasion.webp" alt="UFO: Alien Invasion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: UFO: Alien Invasion · Genre: strategy, resource management]]></content:encoded>
     </item>
     <item>
       <title>Argentum Age</title>
       <link>https://thegamingemporium.com/game/argentum-age/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/argentum-age/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/argentum-age.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/argentum-age.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/argentum-age.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/argentum-age.webp" type="image/webp" />
-      <description>Open Source · Series: Argentum Age · Genre: card collector</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/argentum-age.webp" alt="Argentum Age" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Argentum Age · Genre: card collector]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/argentum-age.webp" alt="Argentum Age" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Argentum Age · Genre: card collector]]></content:encoded>
     </item>
     <item>
       <title>Tales of Maj'Eyal</title>
       <link>https://thegamingemporium.com/game/tales-of-maj-eyal/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/tales-of-maj-eyal/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" type="image/webp" />
-      <description>Open Source · Series: Tales of Maj'Eyal · Genre: roguelike, rpg</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" alt="Tales of Maj'Eyal" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Tales of Maj'Eyal · Genre: roguelike, rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tales-of-maj-eyal.webp" alt="Tales of Maj'Eyal" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Tales of Maj'Eyal · Genre: roguelike, rpg]]></content:encoded>
     </item>
     <item>
       <title>OpenSpades</title>
       <link>https://thegamingemporium.com/game/openspades/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/openspades/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <media:content url="https://thegamingemporium.com/Images/Games/openspades.webp" medium="image" />
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openspades.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openspades.webp" medium="image" type="image/webp" />
       <enclosure url="https://thegamingemporium.com/Images/Games/openspades.webp" type="image/webp" />
-      <description>Open Source · Series: OpenSpades · Genre: first person shooter</description>
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openspades.webp" alt="OpenSpades" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: OpenSpades · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openspades.webp" alt="OpenSpades" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: OpenSpades · Genre: first person shooter]]></content:encoded>
     </item>
   </channel>
 </rss>

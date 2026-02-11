@@ -75,6 +75,18 @@ def parse_date(date_str: str) -> Optional[datetime]:
 def xml_escape(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
+def mime_from_url(url: str) -> str:
+    u = (url or "").split("?")[0].lower()
+    if u.endswith(".png"):
+        return "image/png"
+    if u.endswith(".jpg") or u.endswith(".jpeg"):
+        return "image/jpeg"
+    if u.endswith(".gif"):
+        return "image/gif"
+    if u.endswith(".webp"):
+        return "image/webp"
+    return "image/*"
+
 def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
     title = str(game.get("title") or "").strip()
     if not title:
@@ -94,25 +106,31 @@ def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
     genre2 = str(game.get("genre2") or "").strip()
     series = str(game.get("series") or "").strip()
 
-    # Keep description short.
     parts = []
     if cat: parts.append(cat.replace("-", " ").title())
     if series: parts.append(f"Series: {series}")
     genres = ", ".join([g for g in [genre1, genre2] if g])
     if genres: parts.append(f"Genre: {genres.replace('-', ' ')}")
-    desc = " · ".join(parts) if parts else "New addition"
+    desc_text = " · ".join(parts) if parts else "New addition"
 
     pub = format_datetime(dt)
 
-    # Attach a thumbnail image (Feedly-friendly).
-    # Prefer explicit "image" field; fall back to slug.webp under /Images/Games/.
+    # Image URL (absolute)
     image_field = str(game.get("image") or "").strip().lstrip("/")
     img_file = image_field if image_field else f"Images/Games/{slug}.webp"
-    # If someone entered a full URL, use it as-is.
     if img_file.startswith("http://") or img_file.startswith("https://"):
         img_url = img_file
     else:
         img_url = f"{base_url}{img_file}"
+
+    mime = mime_from_url(img_url)
+
+    # Feedly (and some readers) only show thumbnails reliably when an <img> is the first element
+    # in the description/content HTML.
+    html_desc = (
+        f'<img src="{img_url}" alt="{xml_escape(title)}" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />'
+        f'{xml_escape(desc_text)}'
+    )
 
     lines = [
         "    <item>",
@@ -120,10 +138,12 @@ def build_item(game: Dict[str, Any], base_url: str) -> Optional[str]:
         f"      <link>{xml_escape(internal)}</link>",
         f"      <guid isPermaLink=\"true\">{xml_escape(internal)}</guid>",
         f"      <pubDate>{xml_escape(pub)}</pubDate>",
-        # Media RSS + enclosure for broad reader support (Feedly thumbnails, etc.)
-        f"      <media:content url=\"{xml_escape(img_url)}\" medium=\"image\" />",
-        f"      <enclosure url=\"{xml_escape(img_url)}\" type=\"image/webp\" />",
-        f"      <description>{xml_escape(desc)}</description>",
+        # Strongest combo for Feedly: media:thumbnail + media:content + enclosure + HTML image in description.
+        f"      <media:thumbnail url=\"{xml_escape(img_url)}\" />",
+        f"      <media:content url=\"{xml_escape(img_url)}\" medium=\"image\" type=\"{xml_escape(mime)}\" />",
+        f"      <enclosure url=\"{xml_escape(img_url)}\" type=\"{xml_escape(mime)}\" />",
+        f"      <description><![CDATA[{html_desc}]]></description>",
+        f"      <content:encoded><![CDATA[{html_desc}]]></content:encoded>",
         "    </item>",
     ]
     return "\n".join(lines)
@@ -159,7 +179,7 @@ def main() -> None:
 
     xml = "\n".join([
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
-        "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\">",
+        "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\">",
         "  <channel>",
         f"    <title>{xml_escape(channel_title)}</title>",
         f"    <link>{xml_escape(channel_link)}</link>",
