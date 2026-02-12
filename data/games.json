@@ -1587,15 +1587,15 @@
   },
   {
     "id": 123,
-    "title": "Links Awakening DX HD",
+    "title": "N64RecompLauncher",
     "category": "decompilations-recompilations",
-    "link": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "genre1": "rpg",
-    "genre2": "action",
-    "series": "The Legend of Zelda",
+    "link": "https://github.com/SirDiabo/N64RecompLauncher",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
     "video_link": "",
     "notes": "",
-    "date_added": "",
+    "date_added": "2026-02-11",
     "image": ""
   },
   {
