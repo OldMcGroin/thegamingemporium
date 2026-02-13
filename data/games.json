@@ -21167,6 +21167,84 @@
     "notes": "",
     "date_added": "2026-02-11",
     "image": ""
+  },
+  {
+    "id": 1625,
+    "title": "Chiaki NG",
+    "category": "utility",
+    "link": "https://github.com/streetpea/chiaki-ng",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1626,
+    "title": "Steam Deck Guide",
+    "category": "guides",
+    "link": "https://github.com/mikeroyal/Steam-Deck-Guide",
+    "genre1": "guides",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1627,
+    "title": "Awesome Steam Deck",
+    "category": "guides",
+    "link": "https://github.com/airscripts/awesome-steam-deck",
+    "genre1": "guides",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1628,
+    "title": "Rog Ally & Steam Deck Ultimate Windows Guides",
+    "category": "guides",
+    "link": "https://baldsealion.com/",
+    "genre1": "guides",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1629,
+    "title": "Heart of the Alien N64 Port",
+    "category": "console-ports",
+    "link": "https://old-pirate.itch.io/heart-of-the-alien-n64",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Another World",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1630,
+    "title": "Super Mario 64 Remake",
+    "category": "rom-hacks",
+    "link": "https://cdromance.org/n64-roms/super-mario-64-remake-hack-n64/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/dghZDGhxR1k?si=MTjapMPJ9A4Q-77O",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
   }
 
   ]
