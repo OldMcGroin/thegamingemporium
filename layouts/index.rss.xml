@@ -11,55 +11,60 @@
     <title>{{ .Site.Title }} – Recent Additions</title>
     <link>{{ $base }}</link>
     <atom:link href="{{ "rss.xml" | absURL }}" rel="self" type="application/rss+xml" />
-    <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
+    <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
     <lastBuildDate>{{ now.UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
 
     {{- range first 50 $recent }}
       {{- $title := .title -}}
-      {{- $slug := $title | lower | urlize -}}
-      {{- /* Choose an image for the RSS item (fallback: webp -> png -> jpg -> jpeg). */ -}}
-{{- $imgRel := "" -}}
-{{- $mime := "" -}}
-{{- $pWebp := printf "static/Images/Games/%s.webp" $slug -}}
-{{- $pPng  := printf "static/Images/Games/%s.png"  $slug -}}
-{{- $pJpg  := printf "static/Images/Games/%s.jpg"  $slug -}}
-{{- $pJpeg := printf "static/Images/Games/%s.jpeg" $slug -}}
 
-{{- if fileExists $pWebp -}}
-  {{- $imgRel = printf "/Images/Games/%s.webp" $slug -}}
-  {{- $mime = "image/webp" -}}
-{{- else if fileExists $pPng -}}
-  {{- $imgRel = printf "/Images/Games/%s.png" $slug -}}
-  {{- $mime = "image/png" -}}
-{{- else if fileExists $pJpg -}}
-  {{- $imgRel = printf "/Images/Games/%s.jpg" $slug -}}
-  {{- $mime = "image/jpeg" -}}
-{{- else if fileExists $pJpeg -}}
-  {{- $imgRel = printf "/Images/Games/%s.jpeg" $slug -}}
-  {{- $mime = "image/jpeg" -}}
-{{- end -}}
+      {{/* Slug: match tools/generate_game_pages.py slugify_title() exactly */}}
+      {{- $slug := .slug -}}
+      {{- if not $slug -}}
+        {{- $slug = lower $title -}}
+        {{- $slug = replaceRE "[^a-z0-9]+" "-" $slug -}}
+        {{- $slug = replaceRE "^-+|-+$" "" $slug -}}
+      {{- end -}}
 
-{{- $img := "" -}}
-{{- if ne $imgRel "" -}}
-  {{- $img = $imgRel | absURL -}}
-{{- end -}}
-      {{- $internal := (printf "/game/%s/" $slug) | absURL -}}
-      {{- $external := .link -}}
+      {{- $pageURL := (printf "/game/%s/" $slug) | absURL -}}
+
+      {{/* Image fallback: .webp -> .png -> .jpg -> .jpeg (include tags only if present) */}}
+      {{- $imgRelWebp := printf "/Images/Games/%s.webp" $slug -}}
+      {{- $imgRelPng  := printf "/Images/Games/%s.png"  $slug -}}
+      {{- $imgRelJpg  := printf "/Images/Games/%s.jpg"  $slug -}}
+      {{- $imgRelJpeg := printf "/Images/Games/%s.jpeg" $slug -}}
+
+      {{- $imgRel := "" -}}
+      {{- if (fileExists (printf "static%s" $imgRelWebp)) -}}
+        {{- $imgRel = $imgRelWebp -}}
+      {{- else if (fileExists (printf "static%s" $imgRelPng)) -}}
+        {{- $imgRel = $imgRelPng -}}
+      {{- else if (fileExists (printf "static%s" $imgRelJpg)) -}}
+        {{- $imgRel = $imgRelJpg -}}
+      {{- else if (fileExists (printf "static%s" $imgRelJpeg)) -}}
+        {{- $imgRel = $imgRelJpeg -}}
+      {{- end -}}
+      {{- $img := "" -}}
+      {{- if $imgRel -}}
+        {{- $img = $imgRel | absURL -}}
+      {{- end -}}
+
       <item>
         <title>{{ $title | htmlEscape }}</title>
-        <link>{{ $internal | htmlEscape }}</link>
-        <guid isPermaLink="false">{{ $slug }}-{{ .date_added | htmlEscape }}</guid>
+        <link>{{ $pageURL | htmlEscape }}</link>
+        <guid isPermaLink="false">{{ $slug }}-{{ .date_added }}</guid>
         <pubDate>{{ (time .date_added).UTC.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
 
-        <!-- Images (thumbnail + enclosure) -->
-{{- if ne $img "" -}}
+        {{- if $img }}
         <media:thumbnail url="{{ $img | htmlEscape }}" />
         <media:content url="{{ $img | htmlEscape }}" medium="image" />
-        <enclosure url="{{ $img | htmlEscape }}" type="{{ $mime | htmlEscape }}" />
-{{- end -}}
+        <enclosure url="{{ $img | htmlEscape }}" type="image/*" />
+        {{- end }}
 
-        <!-- Plain-text description (avoid CDATA/XML parse issues) -->
-        <description>{{ printf "Category: %s | External link: %s" .category $external | htmlEscape }}</description>
+        {{- /* Keep description plain-text to avoid XML parser issues; no category/external-link text */ -}}
+        <description>{{ if .notes }}{{ .notes | plainify | htmlEscape }}{{ end }}</description>
+
+        {{- /* Optional RSS category field (doesn't clutter Feedly description) */ -}}
+        {{- if .category }}<category>{{ .category | htmlEscape }}</category>{{ end }}
       </item>
     {{- end }}
   </channel>
