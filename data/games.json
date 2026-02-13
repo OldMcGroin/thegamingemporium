@@ -21258,6 +21258,97 @@
     "notes": "",
     "date_added": "2026-02-13",
     "image": ""
+  },
+  {
+    "id": 1632,
+    "title": "Walfie's Nonograms",
+    "category": "fan-games",
+    "link": "https://walfie.itch.io/walfies-nonograms",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Walfie's Nonograms",
+    "video_link": "https://youtu.be/UGwOQdgLZZs?si=VpFoNnmPJjuKVjcY",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1633,
+    "title": "Celeste Classic PSX",
+    "category": "fan-games",
+    "link": "https://bonnie-games.itch.io/celeste-classic-psx",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Celeste",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1634,
+    "title": "Sonic The Hedgehog XA",
+    "category": "open-source",
+    "link": "https://github.com/luksamuk/engine-psx",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic The Hedgehog",
+    "video_link": "https://youtu.be/m6oMN9Otxmk?si=h5JoPDGVr0ulyD3z",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1635,
+    "title": "OldUnreal Game Installers",
+    "category": "utility",
+    "link": "https://github.com/OldUnreal/FullGameInstallers/releases/tag/windows-game-installers",
+    "genre1": "utility",
+    "genre2": "first-person-shooter",
+    "series": "Unreal",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1636,
+    "title": "Super Mario CD Super Mario 64 for the PS1",
+    "category": "in-the-works",
+    "link": "https://youtu.be/ogc-BAuQEGw?si=biUDDwz2ln5BR0qY",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1637,
+    "title": "Friends Adrift",
+    "category": "fan-games",
+    "link": "https://zhamul.itch.io/friends-adrift-ps1",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Friends Adrift",
+    "video_link": "https://youtu.be/MK0iC5sGIeI?si=HMkBJbiUKSR6Me7c",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
+  },
+  {
+    "id": 1638,
+    "title": "Magic Castle",
+    "category": "fan-games",
+    "link": "http://netyaroze.com/Media/Magic-Castle",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Magic Castle",
+    "video_link": "https://youtu.be/9PhHFm9kjuc?si=h-HQzqgx2I6a7vS0",
+    "notes": "",
+    "date_added": "2026-02-13",
+    "image": ""
   }
 
   ]

@@ -62,7 +62,11 @@
 
         <!-- Plain-text description (avoid CDATA/XML parse issues) -->
         <category>{{ .category | htmlEscape }}</category>
-        <description>{{ $desc | htmlEscape }}</description>
+        <description>{{ if $desc }}
+{{ $desc | htmlEscape }}
+{{ else }}
+View this entry on The Gaming Emporium.
+{{ end }}</description>
       </item>
     {{- end }}
   </channel>
