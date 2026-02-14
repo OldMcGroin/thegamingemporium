@@ -39,9 +39,6 @@ def main() -> None:
     slug_map: Dict[str, Dict[str, str]] = {}
     skipped = 0
     for g in games:
-        # Skip hidden games
-        if g.get('hidden') is True:
-            continue
         if (not include_hidden) and bool(g.get("hidden")):
             continue
         title = str(g.get("title") or "").strip()

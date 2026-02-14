@@ -1,0 +1,8 @@
+{{- $out := slice -}}
+{{- range .site.Data.games -}}
+  {{- $isHidden := partial "is-hidden.html" (dict "g" . "site" $.site) -}}
+  {{- if or .includeHidden (not $isHidden) -}}
+    {{- $out = $out | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

@@ -13042,7 +13042,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "hidden": true
+    "hidden": false
   },
   {
     "id": 1003,
@@ -13056,7 +13056,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "hidden": false
+    "hidden": true
   },
   {
     "id": 1004,
@@ -13070,7 +13070,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "hidden": false
+    "hidden": true
   },
   {
     "id": 1005,
@@ -13252,8 +13252,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1019,
@@ -13344,8 +13343,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1026,
@@ -13397,8 +13395,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": false
+    "image": ""
   },
   {
     "id": 1030,
@@ -13411,8 +13408,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": false
+    "image": ""
   },
   {
     "id": 1031,
@@ -13698,8 +13694,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1053,
@@ -14310,8 +14305,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1100,
@@ -14376,8 +14370,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1105,

@@ -3,26 +3,11 @@ languageCode = "en-us"
 title = "The Gaming Emporium"
 
 [params]
-description = "A curated list of decompilations, ports, mods, and more."
-cloudflare_web_analytics_token = ""
+  description = "A curated list of decompilations, ports, mods, and more."
+  cloudflare_web_analytics_token = ""
 
 [outputs]
-home = [ "HTML", "RSS", "SearchIndex", "SlugMap",]
+  home = ["HTML", "RSS"]
 
 [outputFormats.RSS]
-baseName = "rss"
-
-[outputFormats.SearchIndex]
-mediaType = "application/javascript"
-baseName = "search-index"
-isPlainText = true
-notAlternative = true
-
-[outputFormats.SlugMap]
-mediaType = "application/javascript"
-baseName = "games-slug-map"
-isPlainText = true
-notAlternative = true
-
-[mediaTypes."application/javascript"]
-suffixes = ["js"]
+  baseName = "rss"

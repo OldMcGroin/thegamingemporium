@@ -1,0 +1,6 @@
+{{- $g := .g -}}
+{{- $id := printf "%v" $g.id -}}
+{{- $ov := index .site.Data.hidden_overrides $id -}}
+{{- $hiddenField := default false $g.hidden -}}
+{{- $hidden := cond (ne $ov nil) $ov $hiddenField -}}
+{{- return $hidden -}}
