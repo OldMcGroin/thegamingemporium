@@ -343,6 +343,30 @@ select{
   cursor: pointer;
   backdrop-filter: blur(6px);
 }
+
+.admin-visibility-toggle{
+  position:absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 6;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.16);
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+}
+.admin-visibility-toggle.is-hidden{
+  opacity: 0.85;
+  text-decoration: line-through;
+}
+.admin-visibility-toggle:disabled{
+  opacity: 0.6;
+  cursor: default;
+}
+
 .copy-filename-btn:hover{
   background: rgba(0,0,0,0.72);
 }
@@ -911,6 +935,7 @@ html[data-theme="light"] .home-disclaimer a{
 .category-pc-ports             { --accent: rgba(160, 200, 160, 0.18); }
 .category-pc-port              { --accent: rgba(160, 200, 160, 0.18); }
 .category-decompilations       { --accent: rgba(160, 120, 220, 0.18); }
+.category-abandonware          { --accent: rgba(160, 200, 160, 0.18); }
 .category-decompilation        { --accent: rgba(160, 120, 220, 0.18); }
 .category-recompilations       { --accent: rgba(140, 180, 220, 0.18); }
 .category-recompilation        { --accent: rgba(140, 180, 220, 0.18); }
@@ -1679,4 +1704,15 @@ html[data-theme="light"] .rss-copied{
     border: 1px solid rgba(0,0,0,0.12);
     color: rgba(0,0,0,0.8);
   }
+}
+
+/* Preview-only hidden badge */
+.game-card__hiddenBadge{
+  display:inline-block;
+  margin-top:6px;
+  font-size:12px;
+  padding:3px 8px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.10);
+  border:1px solid rgba(255,255,255,0.18);
 }

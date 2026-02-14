@@ -1,8 +1,12 @@
 {{ define "preloads" }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
   {{/* Build a unique list of series, keep only those with 2+ games, and exclude certain umbrella series */}}
   {{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
   {{ $allSeries := slice }}
-  {{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+  {{ range $visibleGames }}
     {{ with .series }}{{ $allSeries = $allSeries | append . }}{{ end }}
   {{ end }}
   {{ $allSeries = sort (uniq $allSeries) }}
@@ -10,7 +14,7 @@
   {{ $series := slice }}
   {{ range $allSeries }}
     {{ $s := . }}
-    {{ $games := where site.Data.games "series" $s }}
+    {{ $games := where $visibleGames "series" $s }}
     {{ if and (ge (len $games) 2) (not (in $exclude (lower $s))) }}{{ $series = $series | append $s }}{{ end }}
   {{ end }}
 
@@ -31,6 +35,10 @@
 {{ end }}
 
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 <h1 class="page-title">Browse By Series</h1>
 
 
@@ -41,7 +49,7 @@
 */}}
 {{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
 {{ $allSeries := slice }}
-{{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+{{ range $visibleGames }}
   {{ with .series }}
     {{ $allSeries = $allSeries | append . }}
   {{ end }}
@@ -51,7 +59,7 @@
 {{ $series := slice }}
 {{ range $allSeries }}
   {{ $s := . }}
-  {{ $games := where site.Data.games "series" $s }}
+  {{ $games := where $visibleGames "series" $s }}
   {{ if and (ge (len $games) 2) (not (in $exclude (lower $s))) }}
     {{ $series = $series | append $s }}
   {{ end }}

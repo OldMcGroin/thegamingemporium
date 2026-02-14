@@ -1,12 +1,16 @@
 {{ define "preloads" }}{{ end }}
 
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 <h1 class="page-title">Categories</h1>
 <p class="page-subtitle"></p>
 
 {{/* Build a unique, sorted list of categories. */}}
 {{ $cats := slice }}
-{{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+{{ range $visibleGames }}
   {{ with .category }}
     {{/* Backwards-compat: old slug was "source-port"; new slug is "open-source" */}}
     {{ $c := . }}

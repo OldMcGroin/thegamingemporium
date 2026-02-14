@@ -1,10 +1,14 @@
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 {{ $seriesName := .Params.series }}
 {{ $slug := .Params.slug }}
 
 <h1 class="page-title">{{ $seriesName | title }}</h1>
 
-{{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
+{{ $games := where $visibleGames "series" $seriesName }}
 {{ $games = sort $games "title" "asc" }}
 
 <div class="game-controls" data-game-grid>
@@ -33,8 +37,12 @@
 {{ end }}
 
 {{ define "preloads" }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
   {{ $seriesName := .Params.series }}
-  {{ $games := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "series" $seriesName }}
+  {{ $games := where $visibleGames "series" $seriesName }}
   {{ $games = sort $games "title" "asc" }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}

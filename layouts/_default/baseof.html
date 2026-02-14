@@ -123,7 +123,9 @@
   */}}
   <script>
     window.__GAMES_BY_SLUG__ = {
-      {{- range $i, $g := site.Data.games -}}
+      {{- $slugGames := site.Data.games -}}
+      {{- if not hugo.IsServer -}}{{- $slugGames = where $slugGames "hidden" "ne" true -}}{{- end -}}
+      {{- range $i, $g := $slugGames -}}
         {{- $slug := default (urlize $g.title) $g.slug -}}
         {{- if $i }},{{ end -}}
         {{- printf "%q" $slug -}}: {"title": {{ printf "%q" $g.title }}, "url": {{ printf "%q" $g.link }} }
@@ -228,6 +230,7 @@
   {{ if hugo.IsServer }}
     <script src="{{ "/js/copy-filename.js" | relURL }}" defer></script>
   {{ end }}
+    <script src="{{ "/js/admin-visibility.js" | relURL }}" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
 
 <!-- Mastodon verification -->

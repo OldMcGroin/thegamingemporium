@@ -1,8 +1,12 @@
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 <h1 class="page-title">All</h1>
 
 
-{{ $games := where (where site.Data.games "category" "ne" "guides") "category" "not in" (slice "abandonware" "Abandonware") }}
+{{ $games := where $visibleGames "category" "ne" "guides" }}
 
 <div class="game-controls" data-game-grid>
   <div class="controls">
@@ -33,7 +37,11 @@
 
 {{/* Preload first few visible game images to make the initial grid feel instant */}}
 {{ define "preloads" }}
-  {{ $games := where (where site.Data.games "category" "ne" "guides") "category" "not in" (slice "abandonware" "Abandonware") }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
+  {{ $games := where $visibleGames "category" "ne" "guides" }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}
     {{ if ne $img "/Images/placeholder.jpg" }}

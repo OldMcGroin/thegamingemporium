@@ -1,4 +1,8 @@
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 <h1 class="page-title">Recent Additions</h1>
 <p class="page-subtitle"></p>
 
@@ -8,7 +12,7 @@
   This lets "newer entries added the same day" float to the top.
 */}}
 {{ $enriched := slice }}
-{{ range $i, $g := (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+{{ range $i, $g := $visibleGames }}
   {{ if and (isset $g "date_added") (ne $g.date_added "") }}
     {{ $k := printf "%s-%09d" $g.date_added $i }}
     {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
@@ -26,8 +30,12 @@
 {{ end }}
 
 {{ define "preloads" }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
   {{ $enriched := slice }}
-  {{ range $i, $g := (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+  {{ range $i, $g := $visibleGames }}
     {{ if and (isset $g "date_added") (ne $g.date_added "") }}
       {{ $k := printf "%s-%09d" $g.date_added $i }}
       {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}

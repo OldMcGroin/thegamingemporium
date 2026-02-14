@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import os
 from typing import Any, Dict, List
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -20,19 +21,11 @@ GAMES_JSON = PROJECT_ROOT / "data" / "games.json"
 OUT_PATH = PROJECT_ROOT / "static" / "search-index.js"
 SLUG_MAP_OUT = PROJECT_ROOT / "static" / "games-slug-map.js"
 
-ABANDONWARE = {"abandonware"}
-
 def read_games(path: Path) -> List[Dict[str, Any]]:
     data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(data, list):
         raise SystemExit("data/games.json must be a JSON array")
     return [x for x in data if isinstance(x, dict)]
-
-def is_abandonware(game: Dict[str, Any]) -> bool:
-    cat = game.get("category")
-    if cat is None:
-        return False
-    return str(cat).strip().lower() in ABANDONWARE
 
 def main() -> None:
     if not GAMES_JSON.exists():
@@ -40,11 +33,13 @@ def main() -> None:
 
     games = read_games(GAMES_JSON)
 
+    include_hidden = os.environ.get("INCLUDE_HIDDEN") == "1"
+
     index = []
     slug_map: Dict[str, Dict[str, str]] = {}
     skipped = 0
     for g in games:
-        if is_abandonware(g):
+        if (not include_hidden) and bool(g.get("hidden")):
             continue
         title = str(g.get("title") or "").strip()
         url = str(g.get("link") or "").strip()

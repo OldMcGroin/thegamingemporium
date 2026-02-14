@@ -38,6 +38,16 @@ Image strategy (scales to thousands of items):
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
     <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy image slug">Copy filename</button>
   {{- end -}}
+{{- if hugo.IsServer -}}
+  <button class="admin-visibility-toggle"
+          type="button"
+          data-game-id="{{ $g.id }}"
+          data-hidden="{{ if $g.hidden }}true{{ else }}false{{ end }}"
+          title="Toggle visibility (preview only)">
+    {{ if $g.hidden }}Hidden{{ else }}Visible{{ end }}
+  </button>
+{{- end -}}
+
   <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener" data-game-id="{{ $slug }}">
     <div class="game-card__image">
       <img class="game-card__img"
@@ -51,6 +61,7 @@ Image strategy (scales to thousands of items):
     </div>
     <div class="game-card__body">
       <h3 class="game-card__title">{{ $title }}</h3>
+       {{ if and hugo.IsServer $g.hidden }}<div class="game-card__hiddenBadge">Hidden (Live)</div>{{ end }}
 
       <div class="game-card__meta">
         <span class="pill">{{ $catDisp }}</span>

@@ -3,11 +3,15 @@
 {{ end }}
 
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 <h1 class="page-title">Browse By Genre</h1>
 
 {{/* Build a unique list of genres from genre1 + genre2 */}}
 {{ $allGenres := slice }}
-{{ range (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) }}
+{{ range $visibleGames }}
   {{ with .genre1 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
   {{ with .genre2 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
 {{ end }}

@@ -1,12 +1,16 @@
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 {{ $genreName := .Params.genre }}
 {{ $slug := .Params.slug }}
 
 <h1 class="page-title">{{ partial "format-genre.html" $genreName }}</h1>
 
 {{/* Match if genre appears in genre1 or genre2 */}}
-{{ $games1 := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "genre1" $genreName }}
-{{ $games2 := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "genre2" $genreName }}
+{{ $games1 := where $visibleGames "genre1" $genreName }}
+{{ $games2 := where $visibleGames "genre2" $genreName }}
 
 {{/* De-duplicate by id (data is a slice of maps) */}}
 {{ $byID := dict }}
@@ -46,9 +50,13 @@
 
 {{/* Preload first few visible game images */}}
 {{ define "preloads" }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
   {{ $genreName := .Params.genre }}
-  {{ $games1 := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "genre1" $genreName }}
-  {{ $games2 := where (where site.Data.games "category" "not in" (slice "abandonware" "Abandonware")) "genre2" $genreName }}
+  {{ $games1 := where $visibleGames "genre1" $genreName }}
+  {{ $games2 := where $visibleGames "genre2" $genreName }}
   {{ $all := $games1 | append $games2 }}
   {{ range first 6 $all }}
     {{ $img := partial "resolve-game-image.html" . }}

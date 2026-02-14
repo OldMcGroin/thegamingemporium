@@ -1,4 +1,8 @@
 {{ define "main" }}
+{{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
 {{ $slug := .Params.slug }}
 {{ $title := partial "format-category.html" $slug }}
 <h1 class="page-title">{{ $title }}</h1>
@@ -9,20 +13,20 @@
 {{ partial "share.html" . }}
 {{/*
   IMPORTANT:
-  `site.Data.games` (from data/games.json) is a slice of maps.
+  `$visibleGames` (from data/games.json) is a slice of maps.
   Hugo's `union` performs set operations and requires comparable elements.
   Maps are NOT comparable, so `union` will crash with: `hash of unhashable type: map[string]interface {}`.
 
   For the Utilities category we want backwards-compat with older entries that used
   `category: "utility"` (singular). We do that using `where ... "in" ...` instead.
 */}}
-{{ $games := where site.Data.games "category" $slug }}
+{{ $games := where $visibleGames "category" $slug }}
 {{ if eq $slug "utilities" }}
-  {{ $games = where site.Data.games "category" "in" (slice "utilities" "utility") }}
+  {{ $games = where $visibleGames "category" "in" (slice "utilities" "utility") }}
 {{ end }}
 {{ if eq $slug "open-source" }}
   {{/* Backwards-compat: old slug was "source-port" */}}
-  {{ $games = where site.Data.games "category" "in" (slice "open-source" "source-port") }}
+  {{ $games = where $visibleGames "category" "in" (slice "open-source" "source-port") }}
 {{ end }}
 
 
@@ -59,13 +63,17 @@
 {{ end }}
 
 {{ define "preloads" }}
+  {{ $visibleGames := site.Data.games }}
+{{ if not hugo.IsServer }}
+  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
+{{ end }}
   {{ $slug := .Params.slug }}
-  {{ $games := where site.Data.games "category" $slug }}
+  {{ $games := where $visibleGames "category" $slug }}
   {{ if eq $slug "utilities" }}
-    {{ $games = where site.Data.games "category" "in" (slice "utilities" "utility") }}
+    {{ $games = where $visibleGames "category" "in" (slice "utilities" "utility") }}
   {{ end }}
   {{ if eq $slug "open-source" }}
-    {{ $games = where site.Data.games "category" "in" (slice "open-source" "source-port") }}
+    {{ $games = where $visibleGames "category" "in" (slice "open-source" "source-port") }}
   {{ end }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}
