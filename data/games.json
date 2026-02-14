@@ -13056,7 +13056,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "hidden": true
+    "hidden": false
   },
   {
     "id": 1004,
@@ -13070,7 +13070,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "hidden": true
+    "hidden": false
   },
   {
     "id": 1005,
@@ -13291,7 +13291,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1022,
@@ -13330,7 +13331,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1025,
@@ -13473,7 +13475,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1036,
@@ -13538,7 +13541,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1041,
@@ -13551,7 +13555,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1042,
@@ -13564,7 +13569,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1043,
@@ -13577,7 +13583,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1044,
@@ -13694,7 +13701,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1053,
@@ -13707,7 +13715,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1054,
@@ -14214,7 +14223,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 1093,
@@ -14357,7 +14367,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1104,
@@ -14370,7 +14381,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1105,
@@ -14500,7 +14512,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
   {
     "id": 1115,
@@ -15228,7 +15241,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 1171,
