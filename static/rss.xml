@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 14 Feb 2026 23:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 23:57:45 +0000</lastBuildDate>
     <item>
       <title>Mario Kart Double Dash Retro Track Grand Prix</title>
       <link>https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Bangai-O - N64</title>
+      <link>https://thegamingemporium.com/game/bangai-o-n64/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bangai-o-n64/</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Chiaki NG</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/hyperroque.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>Barotrauma</title>
-      <link>https://thegamingemporium.com/game/barotrauma/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/barotrauma/</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/barotrauma.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/barotrauma.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/barotrauma.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/barotrauma.webp" alt="Barotrauma" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Barotrauma · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/barotrauma.webp" alt="Barotrauma" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Barotrauma · Genre: survival horror]]></content:encoded>
     </item>
   </channel>
 </rss>
