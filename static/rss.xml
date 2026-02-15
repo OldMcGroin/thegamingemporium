@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 14 Feb 2026 23:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 00:44:41 +0000</lastBuildDate>
+    <item>
+      <title>OpenCiv3</title>
+      <link>https://thegamingemporium.com/game/openciv3/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/openciv3/</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openciv3.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openciv3.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openciv3.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></content:encoded>
+    </item>
     <item>
       <title>Mario Kart Double Dash Retro Track Grand Prix</title>
       <link>https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/sil-q.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sil-q.webp" alt="Sil-Q" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Sil-Q · Genre: rpg]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sil-q.webp" alt="Sil-Q" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Sil-Q · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Hyperroque</title>
-      <link>https://thegamingemporium.com/game/hyperroque/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/hyperroque/</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hyperroque.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/hyperroque.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/hyperroque.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyperroque.webp" alt="Hyperroque" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Hyperroque · Genre: roguelike, puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>
