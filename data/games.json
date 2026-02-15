@@ -21395,6 +21395,71 @@
     "notes": "",
     "date_added": "2026-02-15",
     "image": ""
+  },
+    {
+    "id": 1642,
+    "title": "Isometric Games Don't Exist",
+    "category": "guides",
+    "link": "https://cyangmou.itch.io/isometric-games-dont-exist",
+    "genre1": "guides",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-15",
+    "image": ""
+  },
+    {
+    "id": 1643,
+    "title": "Xenosaga Episode I Der Wille zur Macht Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/ValakTurtle/Xenosaga-I-Decomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenosaga",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-15",
+    "image": ""
+  },
+    {
+    "id": 1644,
+    "title": "Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/GensokyoClub/th06",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "Touhou",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-15",
+    "image": ""
+  },
+    {
+    "id": 1645,
+    "title": "Fallout The New West",
+    "category": "in-the-works",
+    "link": "https://youtu.be/KY5X0G_05h0?si=-1DM55tQkS3nQvB8",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Fallout",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-15",
+    "image": ""
+  },
+    {
+    "id": 1646,
+    "title": "Cyberpunk 2077 The APEX Sonora Canyon and Safehouse Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/cyberpunk2077/mods/25999",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Cyberpunk 2077",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-15",
+    "image": ""
   }
 
 ]
