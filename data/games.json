@@ -21668,6 +21668,19 @@
     "notes": "",
     "date_added": "2026-02-16",
     "image": ""
+  },
+    {
+    "id": 1663,
+    "title": "Of Mice and Mechs",
+    "category": "open-source",
+    "link": "https://github.com/MarxMustermann/OfMiceAndMechs/",
+    "genre1": "roguelike",
+    "genre2": "tower-defence",
+    "series": "Of Mice and Mechs",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
   }
 
 ]
