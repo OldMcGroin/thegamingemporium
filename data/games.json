@@ -4018,15 +4018,15 @@
   },
   {
     "id": 310,
-    "title": "Super Mario World Mix",
-    "category": "fan-games",
-    "link": "https://www.smwcentral.net/?p=viewthread&t=130580",
-    "genre1": "platformer",
+    "title": "Pro Evolution Soccer 5​",
+    "category": "abandonware",
+    "link": "https://www.myabandonware.com/game/world-soccer-winning-eleven-9-g2k",
+    "genre1": "sports",
     "genre2": "",
-    "series": "Super Mario",
+    "series": "Pro Evolution Soccer",
     "video_link": "",
     "notes": "",
-    "date_added": "",
+    "date_added": "2026-02-16",
     "image": ""
   },
   {
@@ -9028,15 +9028,15 @@
   },
   {
     "id": 694,
-    "title": "Mega Man X Viral Nightmare",
-    "category": "in-the-works",
-    "link": "https://youtu.be/UIUOUg8MgC8?si=lNwU1mYtE9zvba66",
+    "title": "Mega Man X: Viral Nightmare​",
+    "category": "fan-games",
+    "link": "https://sonicfangameshq.com/forums/showcase/mega-man-x-viral-nightmare.2866/",
     "genre1": "platformer",
     "genre2": "action",
     "series": "Mega Man",
-    "video_link": "",
+    "video_link": "https://youtu.be/LHOs3lB4jP0?si=ekhvMIasUTWqTj8C",
     "notes": "",
-    "date_added": "",
+    "date_added": "2026-02-16",
     "image": ""
   },
   {
@@ -21867,7 +21867,7 @@
   {
     "id": 1678,
     "title": "Rhythm Heaven Silver - Gameboy Advance​",
-    "category": "english-translation-pstches",
+    "category": "english-translation-patches",
     "link": "https://github.com/ShaffySwitcher/RhythmHeavenSilver",
     "genre1": "rhythm-based",
     "genre2": "",
@@ -22045,5 +22045,125 @@
     "notes": "",
     "date_added": "2026-02-16",
     "image": ""
+  },
+    {
+    "id": 1692,
+    "title": "Close Combat: First to Fight​",
+    "category": "abandonware",
+    "link": "https://www.myabandonware.com/game/close-combat-first-to-fight-dj8",
+    "genre1": "first-person-shooter",
+    "genre2": "action",
+    "series": "Close Combat",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1693,
+    "title": "The Legend of Zelda Spirit Tracks D-Pad Controls​",
+    "category": "rom-hacks",
+    "link": "https://www.romhacking.net/hacks/2235/",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/UOiZglb7qm4?si=xvmawl92kyAWB-tA",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1694,
+    "title": "WWF Raw​",
+    "category": "abandonware",
+    "link": "https://www.myabandonware.com/game/wwf-raw-e6z",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1695,
+    "title": "The Legend of Zelda Phantom Hourglass D-Pad Patch​",
+    "category": "rom-hacks",
+    "link": "https://www.romhacking.net/hacks/2248/",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/UOiZglb7qm4?si=xvmawl92kyAWB-tA",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1696,
+    "title": "Turok: Evolution​",
+    "category": "abandonware",
+    "link": "https://www.myabandonware.com/game/turok-evolution-amg",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Turok",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1697,
+    "title": "ParaWorld​",
+    "category": "abandonware",
+    "link": "https://www.myabandonware.com/game/paraworld-f3y",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "ParaWorld",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1698,
+    "title": "Dreamcast Image Builder For Modding Patching Dreamcast Games​",
+    "category": "utility",
+    "link": "https://gitlab.com/PiKeyAr/dreamcast-image-builder/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1699,
+    "title": "Dreamcast Image Builder Mods​",
+    "category": "utility",
+    "link": "https://github.com/X-Hax/dreamcast-mods",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
+  },
+    {
+    "id": 1700,
+    "title": "WoWee World Of Warcraft Engine Experiment​",
+    "category": "open-source",
+    "link": "https://github.com/Kelsidavis/WoWee",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "Warcraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-16",
+    "image": ""
   }
+
+
+
 ]

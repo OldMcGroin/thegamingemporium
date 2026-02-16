@@ -656,6 +656,8 @@
   </url><url>
     <loc>http://localhost:1313/game/clock-tower-the-first-fear-playstation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/close-combat/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/club-penguin-journey/</loc>
   </url><url>
     <loc>http://localhost:1313/series/club-penguin-journey/</loc>
@@ -1103,6 +1105,10 @@
     <loc>http://localhost:1313/series/dragons-dogma/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragons-dogma-online/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dreamcast-image-builder-mods/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dreamkiller/</loc>
   </url><url>
@@ -2300,9 +2306,9 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-world-dr-wily-s-revenge-dx/</loc>
   </url><url>
-    <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
-  </url><url>
     <loc>http://localhost:1313/game/mega-man-x-omega-blaster-ultimate-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x4-knot-beret/</loc>
   </url><url>
@@ -2764,6 +2770,8 @@
   </url><url>
     <loc>http://localhost:1313/game/paratopic-wii-u-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/paraworld/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/party-game/</loc>
   </url><url>
     <loc>http://localhost:1313/series/patlabor/</loc>
@@ -2969,6 +2977,8 @@
     <loc>http://localhost:1313/series/princess-crown/</loc>
   </url><url>
     <loc>http://localhost:1313/game/princess-crown-sega-saturn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/pro-evolution-soccer/</loc>
   </url><url>
     <loc>http://localhost:1313/series/progenitor/</loc>
   </url><url>
@@ -4162,7 +4172,11 @@
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-hero-of-law/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-snes-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-breath-of-the-wild-bettervr/</loc>
   </url><url>
@@ -4613,6 +4627,8 @@
     <loc>http://localhost:1313/game/wonder-trek-playstation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/world-racing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wowee-world-of-warcraft-engine-experiment/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/wrestling/</loc>
   </url><url>
