@@ -1,560 +1,559 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>The Gaming Emporium — Recent Additions</title>
-    <link>https://thegamingemporium.com/</link>
-    <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
-    <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 16 Feb 2026 22:26:49 +0000</lastBuildDate>
-    <item>
-      <title>Mega Man X: Viral Nightmare​</title>
-      <link>https://thegamingemporium.com/game/mega-man-x-viral-nightmare/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mega-man-x-viral-nightmare/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mega-man-x-viral-nightmare.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mega-man-x-viral-nightmare.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-x-viral-nightmare.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x-viral-nightmare.webp" alt="Mega Man X: Viral Nightmare​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Mega Man · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x-viral-nightmare.webp" alt="Mega Man X: Viral Nightmare​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Mega Man · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Of Mice and Mechs</title>
-      <link>https://thegamingemporium.com/game/of-mice-and-mechs/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/of-mice-and-mechs/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/of-mice-and-mechs.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/of-mice-and-mechs.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/of-mice-and-mechs.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/of-mice-and-mechs.webp" alt="Of Mice and Mechs" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Of Mice and Mechs · Genre: roguelike, tower defence]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/of-mice-and-mechs.webp" alt="Of Mice and Mechs" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Of Mice and Mechs · Genre: roguelike, tower defence]]></content:encoded>
-    </item>
-    <item>
-      <title>Pikmin 1²</title>
-      <link>https://thegamingemporium.com/game/pikmin-12/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pikmin-12/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pikmin-12.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pikmin-12.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pikmin-12.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pikmin-12.webp" alt="Pikmin 1²" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Pikmin · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pikmin-12.webp" alt="Pikmin 1²" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Pikmin · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>NHL'94 Fight Edition</title>
-      <link>https://thegamingemporium.com/game/nhl-94-fight-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nhl-94-fight-edition/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nhl-94-fight-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nhl-94-fight-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nhl-94-fight-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nhl-94-fight-edition.webp" alt="NHL'94 Fight Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: sports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nhl-94-fight-edition.webp" alt="NHL'94 Fight Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: sports]]></content:encoded>
-    </item>
-    <item>
-      <title>Sword of Mana QuickMenu​</title>
-      <link>https://thegamingemporium.com/game/sword-of-mana-quickmenu/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sword-of-mana-quickmenu/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sword-of-mana-quickmenu.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sword-of-mana-quickmenu.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sword-of-mana-quickmenu.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sword-of-mana-quickmenu.webp" alt="Sword of Mana QuickMenu​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Sword of Mana · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sword-of-mana-quickmenu.webp" alt="Sword of Mana QuickMenu​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Sword of Mana · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mariomon​</title>
-      <link>https://thegamingemporium.com/game/super-mariomon/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mariomon/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mariomon.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mariomon.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mariomon.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mariomon.webp" alt="Super Mariomon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: creature collector, rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mariomon.webp" alt="Super Mariomon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: creature collector, rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Wario Land 4 Perfect Version​</title>
-      <link>https://thegamingemporium.com/game/wario-land-4-perfect-version/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wario-land-4-perfect-version/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wario-land-4-perfect-version.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wario-land-4-perfect-version.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wario-land-4-perfect-version.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wario-land-4-perfect-version.webp" alt="Wario Land 4 Perfect Version​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wario-land-4-perfect-version.webp" alt="Wario Land 4 Perfect Version​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Wario Land 4 Jungle Rumble!​</title>
-      <link>https://thegamingemporium.com/game/wario-land-4-jungle-rumble/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wario-land-4-jungle-rumble/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wario-land-4-jungle-rumble.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wario-land-4-jungle-rumble.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wario-land-4-jungle-rumble.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wario-land-4-jungle-rumble.webp" alt="Wario Land 4 Jungle Rumble!​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wario-land-4-jungle-rumble.webp" alt="Wario Land 4 Jungle Rumble!​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Goodboy Galaxy Emulator Rumble Patch​</title>
-      <link>https://thegamingemporium.com/game/goodboy-galaxy-emulator-rumble-patch/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/goodboy-galaxy-emulator-rumble-patch/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" alt="Goodboy Galaxy Emulator Rumble Patch​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" alt="Goodboy Galaxy Emulator Rumble Patch​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks]]></content:encoded>
-    </item>
-    <item>
-      <title>A More Modern Amazing Mirror​</title>
-      <link>https://thegamingemporium.com/game/a-more-modern-amazing-mirror/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/a-more-modern-amazing-mirror/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror.webp" alt="A More Modern Amazing Mirror​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror.webp" alt="A More Modern Amazing Mirror​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>A More Modern Amazing Mirror with Coloured Outlines​</title>
-      <link>https://thegamingemporium.com/game/a-more-modern-amazing-mirror-with-coloured-outlines/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/a-more-modern-amazing-mirror-with-coloured-outlines/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" alt="A More Modern Amazing Mirror with Coloured Outlines​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" alt="A More Modern Amazing Mirror with Coloured Outlines​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>A More Modern Nightmare In Dream Land​</title>
-      <link>https://thegamingemporium.com/game/a-more-modern-nightmare-in-dream-land/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/a-more-modern-nightmare-in-dream-land/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/a-more-modern-nightmare-in-dream-land.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/a-more-modern-nightmare-in-dream-land.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/a-more-modern-nightmare-in-dream-land.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-nightmare-in-dream-land.webp" alt="A More Modern Nightmare In Dream Land​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-more-modern-nightmare-in-dream-land.webp" alt="A More Modern Nightmare In Dream Land​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Kirby · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Fire Emblem Sacred Stones Reforged​</title>
-      <link>https://thegamingemporium.com/game/fire-emblem-sacred-stones-reforged/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/fire-emblem-sacred-stones-reforged/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fire-emblem-sacred-stones-reforged.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/fire-emblem-sacred-stones-reforged.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/fire-emblem-sacred-stones-reforged.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fire-emblem-sacred-stones-reforged.webp" alt="Fire Emblem Sacred Stones Reforged​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Fire Emblem · Genre: rpg, strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fire-emblem-sacred-stones-reforged.webp" alt="Fire Emblem Sacred Stones Reforged​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Fire Emblem · Genre: rpg, strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Rhythm Heaven Silver - Gameboy Advance​</title>
-      <link>https://thegamingemporium.com/game/rhythm-heaven-silver-gameboy-advance/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rhythm-heaven-silver-gameboy-advance/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" alt="Rhythm Heaven Silver - Gameboy Advance​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Rhythm Heaven Silver · Genre: rhythm based]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" alt="Rhythm Heaven Silver - Gameboy Advance​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Rhythm Heaven Silver · Genre: rhythm based]]></content:encoded>
-    </item>
-    <item>
-      <title>SMAS SMB Lost Levels Brick Fix​</title>
-      <link>https://thegamingemporium.com/game/smas-smb-lost-levels-brick-fix/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/smas-smb-lost-levels-brick-fix/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/smas-smb-lost-levels-brick-fix.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/smas-smb-lost-levels-brick-fix.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/smas-smb-lost-levels-brick-fix.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/smas-smb-lost-levels-brick-fix.webp" alt="SMAS SMB Lost Levels Brick Fix​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/smas-smb-lost-levels-brick-fix.webp" alt="SMAS SMB Lost Levels Brick Fix​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario World Mix​</title>
-      <link>https://thegamingemporium.com/game/super-mario-world-mix/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-world-mix/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-world-mix.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-world-mix.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-world-mix.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-world-mix.webp" alt="Super Mario World Mix​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-world-mix.webp" alt="Super Mario World Mix​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Yu-Gi-Oh! The Eternal Duelist Soul HACK​</title>
-      <link>https://thegamingemporium.com/game/yu-gi-oh-the-eternal-duelist-soul-hack/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/yu-gi-oh-the-eternal-duelist-soul-hack/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" alt="Yu-Gi-Oh! The Eternal Duelist Soul HACK​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Yu-Gi-Oh! · Genre: card game]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" alt="Yu-Gi-Oh! The Eternal Duelist Soul HACK​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Yu-Gi-Oh! · Genre: card game]]></content:encoded>
-    </item>
-    <item>
-      <title>Castlevania Aria of Sorrow Reprise​</title>
-      <link>https://thegamingemporium.com/game/castlevania-aria-of-sorrow-reprise/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-aria-of-sorrow-reprise/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-reprise.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-reprise.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-reprise.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-reprise.webp" alt="Castlevania Aria of Sorrow Reprise​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Castlevania · Genre: platformer, roguelike]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-reprise.webp" alt="Castlevania Aria of Sorrow Reprise​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Castlevania · Genre: platformer, roguelike]]></content:encoded>
-    </item>
-    <item>
-      <title>Castlevania Aria of Sorrow Definitive Edition​</title>
-      <link>https://thegamingemporium.com/game/castlevania-aria-of-sorrow-definitive-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-aria-of-sorrow-definitive-edition/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" alt="Castlevania Aria of Sorrow Definitive Edition​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Castlevania · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" alt="Castlevania Aria of Sorrow Definitive Edition​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Castlevania · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Contra Hard Corps Hit Points Restoration Hack​</title>
-      <link>https://thegamingemporium.com/game/contra-hard-corps-hit-points-restoration-hack/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/contra-hard-corps-hit-points-restoration-hack/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" alt="Contra Hard Corps Hit Points Restoration Hack​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Contra · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" alt="Contra Hard Corps Hit Points Restoration Hack​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Contra · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Luigi RPG Star Powered​</title>
-      <link>https://thegamingemporium.com/game/super-luigi-rpg-star-powered/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-luigi-rpg-star-powered/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-luigi-rpg-star-powered.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-luigi-rpg-star-powered.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-luigi-rpg-star-powered.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-luigi-rpg-star-powered.webp" alt="Super Luigi RPG Star Powered​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-luigi-rpg-star-powered.webp" alt="Super Luigi RPG Star Powered​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Metroid Arcade​</title>
-      <link>https://thegamingemporium.com/game/super-metroid-arcade/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-metroid-arcade/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-metroid-arcade.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-metroid-arcade.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-metroid-arcade.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-arcade.webp" alt="Super Metroid Arcade​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Metroid · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-arcade.webp" alt="Super Metroid Arcade​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Metroid · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Zelda II Amida's Curse​</title>
-      <link>https://thegamingemporium.com/game/zelda-ii-amida-s-curse/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/zelda-ii-amida-s-curse/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/zelda-ii-amida-s-curse.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/zelda-ii-amida-s-curse.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/zelda-ii-amida-s-curse.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-ii-amida-s-curse.webp" alt="Zelda II Amida's Curse​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-ii-amida-s-curse.webp" alt="Zelda II Amida's Curse​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Zelda II Resurrection of Ganon​</title>
-      <link>https://thegamingemporium.com/game/zelda-ii-resurrection-of-ganon/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/zelda-ii-resurrection-of-ganon/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/zelda-ii-resurrection-of-ganon.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/zelda-ii-resurrection-of-ganon.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/zelda-ii-resurrection-of-ganon.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-ii-resurrection-of-ganon.webp" alt="Zelda II Resurrection of Ganon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-ii-resurrection-of-ganon.webp" alt="Zelda II Resurrection of Ganon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario Kart Horizons​</title>
-      <link>https://thegamingemporium.com/game/super-mario-kart-horizons/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-kart-horizons/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-kart-horizons.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-kart-horizons.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-kart-horizons.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-kart-horizons.webp" alt="Super Mario Kart Horizons​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-kart-horizons.webp" alt="Super Mario Kart Horizons​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>The Legend of Zelda Allhallows Eve​</title>
-      <link>https://thegamingemporium.com/game/the-legend-of-zelda-allhallows-eve/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-allhallows-eve/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-allhallows-eve.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-allhallows-eve.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-allhallows-eve.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-allhallows-eve.webp" alt="The Legend of Zelda Allhallows Eve​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-allhallows-eve.webp" alt="The Legend of Zelda Allhallows Eve​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Legend of the Mana Sword​</title>
-      <link>https://thegamingemporium.com/game/legend-of-the-mana-sword/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/legend-of-the-mana-sword/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/legend-of-the-mana-sword.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/legend-of-the-mana-sword.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/legend-of-the-mana-sword.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/legend-of-the-mana-sword.webp" alt="Legend of the Mana Sword​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Final Fantasy · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/legend-of-the-mana-sword.webp" alt="Legend of the Mana Sword​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Final Fantasy · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>The Legend of Zelda Spirit Tracks D-Pad Controls​</title>
-      <link>https://thegamingemporium.com/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" alt="The Legend of Zelda Spirit Tracks D-Pad Controls​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" alt="The Legend of Zelda Spirit Tracks D-Pad Controls​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>The Legend of Zelda Phantom Hourglass D-Pad Patch​</title>
-      <link>https://thegamingemporium.com/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" alt="The Legend of Zelda Phantom Hourglass D-Pad Patch​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" alt="The Legend of Zelda Phantom Hourglass D-Pad Patch​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Dreamcast Image Builder For Modding Patching Dreamcast Games​</title>
-      <link>https://thegamingemporium.com/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" alt="Dreamcast Image Builder For Modding Patching Dreamcast Games​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" alt="Dreamcast Image Builder For Modding Patching Dreamcast Games​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Dreamcast Image Builder Mods​</title>
-      <link>https://thegamingemporium.com/game/dreamcast-image-builder-mods/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dreamcast-image-builder-mods/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-mods.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-mods.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-mods.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-mods.webp" alt="Dreamcast Image Builder Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreamcast-image-builder-mods.webp" alt="Dreamcast Image Builder Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>WoWee World Of Warcraft Engine Experiment​</title>
-      <link>https://thegamingemporium.com/game/wowee-world-of-warcraft-engine-experiment/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wowee-world-of-warcraft-engine-experiment/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" alt="WoWee World Of Warcraft Engine Experiment​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Warcraft · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" alt="WoWee World Of Warcraft Engine Experiment​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Warcraft · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Mystical Ninja Starring Goemon Recompilation Mods​</title>
-      <link>https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenCiv3</title>
-      <link>https://thegamingemporium.com/game/openciv3/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/openciv3/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openciv3.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/openciv3.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/openciv3.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Isometric Games Don't Exist</title>
-      <link>https://thegamingemporium.com/game/isometric-games-don-t-exist/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/isometric-games-don-t-exist/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" alt="Isometric Games Don't Exist" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" alt="Isometric Games Don't Exist" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></content:encoded>
-    </item>
-    <item>
-      <title>Xenosaga Episode I Der Wille zur Macht Decompilation</title>
-      <link>https://thegamingemporium.com/game/xenosaga-episode-i-der-wille-zur-macht-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/xenosaga-episode-i-der-wille-zur-macht-decompilation/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" alt="Xenosaga Episode I Der Wille zur Macht Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Xenosaga · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" alt="Xenosaga Episode I Der Wille zur Macht Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Xenosaga · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation</title>
-      <link>https://thegamingemporium.com/game/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>Fallout The New West</title>
-      <link>https://thegamingemporium.com/game/fallout-the-new-west/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-the-new-west/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" alt="Fallout The New West" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fallout · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" alt="Fallout The New West" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fallout · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 The APEX Sonora Canyon and Safehouse Mod</title>
-      <link>https://thegamingemporium.com/game/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod.webp" alt="Cyberpunk 2077 The APEX Sonora Canyon and Safehouse Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyberpunk 2077 · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyberpunk-2077-the-apex-sonora-canyon-and-safehouse-mod.webp" alt="Cyberpunk 2077 The APEX Sonora Canyon and Safehouse Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyberpunk 2077 · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Mushroom Heaven</title>
-      <link>https://thegamingemporium.com/game/mushroom-heaven/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mushroom-heaven/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mushroom-heaven.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mushroom-heaven.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mushroom-heaven.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mushroom-heaven.webp" alt="Mushroom Heaven" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mushroom-heaven.webp" alt="Mushroom Heaven" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>The Beatles Adventures in Pepperland</title>
-      <link>https://thegamingemporium.com/game/the-beatles-adventures-in-pepperland/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-beatles-adventures-in-pepperland/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" alt="The Beatles Adventures in Pepperland" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" alt="The Beatles Adventures in Pepperland" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Mario Kart Double Dash Retro Track Grand Prix</title>
-      <link>https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Bangai-O - N64</title>
-      <link>https://thegamingemporium.com/game/bangai-o-n64/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bangai-o-n64/</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Chiaki NG</title>
-      <link>https://thegamingemporium.com/game/chiaki-ng/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/chiaki-ng/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/chiaki-ng.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/chiaki-ng.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/chiaki-ng.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chiaki-ng.webp" alt="Chiaki NG" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chiaki-ng.webp" alt="Chiaki NG" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Steam Deck Guide</title>
-      <link>https://thegamingemporium.com/game/steam-deck-guide/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/steam-deck-guide/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/steam-deck-guide.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/steam-deck-guide.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/steam-deck-guide.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/steam-deck-guide.webp" alt="Steam Deck Guide" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/steam-deck-guide.webp" alt="Steam Deck Guide" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></content:encoded>
-    </item>
-    <item>
-      <title>Awesome Steam Deck</title>
-      <link>https://thegamingemporium.com/game/awesome-steam-deck/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/awesome-steam-deck/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/awesome-steam-deck.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/awesome-steam-deck.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/awesome-steam-deck.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/awesome-steam-deck.webp" alt="Awesome Steam Deck" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/awesome-steam-deck.webp" alt="Awesome Steam Deck" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></content:encoded>
-    </item>
-    <item>
-      <title>Rog Ally &amp; Steam Deck Ultimate Windows Guides</title>
-      <link>https://thegamingemporium.com/game/rog-ally-steam-deck-ultimate-windows-guides/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rog-ally-steam-deck-ultimate-windows-guides/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rog-ally-steam-deck-ultimate-windows-guides.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rog-ally-steam-deck-ultimate-windows-guides.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rog-ally-steam-deck-ultimate-windows-guides.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rog-ally-steam-deck-ultimate-windows-guides.webp" alt="Rog Ally &amp; Steam Deck Ultimate Windows Guides" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rog-ally-steam-deck-ultimate-windows-guides.webp" alt="Rog Ally &amp; Steam Deck Ultimate Windows Guides" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></content:encoded>
-    </item>
-    <item>
-      <title>Heart of the Alien N64 Port</title>
-      <link>https://thegamingemporium.com/game/heart-of-the-alien-n64-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/heart-of-the-alien-n64-port/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/heart-of-the-alien-n64-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/heart-of-the-alien-n64-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/heart-of-the-alien-n64-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/heart-of-the-alien-n64-port.webp" alt="Heart of the Alien N64 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Another World · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/heart-of-the-alien-n64-port.webp" alt="Heart of the Alien N64 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Another World · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario 64 Remake</title>
-      <link>https://thegamingemporium.com/game/super-mario-64-remake/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-64-remake/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-64-remake.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-64-remake.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-remake.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-remake.webp" alt="Super Mario 64 Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-remake.webp" alt="Super Mario 64 Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Assassin's Creed Director's Cut Remastered</title>
-      <link>https://thegamingemporium.com/game/assassin-s-creed-director-s-cut-remastered/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/assassin-s-creed-director-s-cut-remastered/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" alt="Assassin's Creed Director's Cut Remastered" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Assassin's Creed · Genre: stealth, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" alt="Assassin's Creed Director's Cut Remastered" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Assassin's Creed · Genre: stealth, adventure]]></content:encoded>
-    </item>
+    <title>The Gaming Emporium – Recent Additions</title>
+    <link>http://localhost:1313/</link>
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
+    <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
+    <lastBuildDate>Mon, 16 Feb 2026 23:56:02 &#43;0000</lastBuildDate><item>
+        <title>Pro Evolution Soccer 5​</title>
+        <link>http://localhost:1313/game/pro-evolution-soccer-5/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pro-evolution-soccer-5/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Mega Man X: Viral Nightmare​</title>
+        <link>http://localhost:1313/game/mega-man-x-viral-nightmare/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mega-man-x-viral-nightmare/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mega-man-x-viral-nightmare.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mega-man-x-viral-nightmare.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mega-man-x-viral-nightmare.webp" type="image/webp" />
+        <category>fan-games</category>
+        <description></description>
+      </item><item>
+        <title>Ghost Recon Advanced Warfighter 1 and 2</title>
+        <link>http://localhost:1313/game/ghost-recon-advanced-warfighter-1-and-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ghost-recon-advanced-warfighter-1-and-2/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/ghost-recon-advanced-warfighter-1-and-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ghost-recon-advanced-warfighter-1-and-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ghost-recon-advanced-warfighter-1-and-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Of Mice and Mechs</title>
+        <link>http://localhost:1313/game/of-mice-and-mechs/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/of-mice-and-mechs/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/of-mice-and-mechs.webp" />
+        <media:content url="http://localhost:1313/Images/Games/of-mice-and-mechs.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/of-mice-and-mechs.webp" type="image/webp" />
+        <category>open-source</category>
+        <description></description>
+      </item><item>
+        <title>Pikmin 1²</title>
+        <link>http://localhost:1313/game/pikmin-1/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pikmin-1/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/pikmin-1.webp" />
+        <media:content url="http://localhost:1313/Images/Games/pikmin-1.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/pikmin-1.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>NHL&amp;#39;94 Fight Edition</title>
+        <link>http://localhost:1313/game/nhl94-fight-edition/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/nhl94-fight-edition/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/nhl94-fight-edition.webp" />
+        <media:content url="http://localhost:1313/Images/Games/nhl94-fight-edition.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/nhl94-fight-edition.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Sword of Mana QuickMenu​</title>
+        <link>http://localhost:1313/game/sword-of-mana-quickmenu/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/sword-of-mana-quickmenu/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/sword-of-mana-quickmenu.webp" />
+        <media:content url="http://localhost:1313/Images/Games/sword-of-mana-quickmenu.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/sword-of-mana-quickmenu.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Snoopy vs The Red Baron</title>
+        <link>http://localhost:1313/game/snoopy-vs-the-red-baron/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/snoopy-vs-the-red-baron/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/snoopy-vs-the-red-baron.webp" />
+        <media:content url="http://localhost:1313/Images/Games/snoopy-vs-the-red-baron.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/snoopy-vs-the-red-baron.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>State of Emergency</title>
+        <link>http://localhost:1313/game/state-of-emergency/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/state-of-emergency/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/state-of-emergency.webp" />
+        <media:content url="http://localhost:1313/Images/Games/state-of-emergency.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/state-of-emergency.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Rise of Nations Rise of Legends</title>
+        <link>http://localhost:1313/game/rise-of-nations-rise-of-legends/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/rise-of-nations-rise-of-legends/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/rise-of-nations-rise-of-legends.webp" />
+        <media:content url="http://localhost:1313/Images/Games/rise-of-nations-rise-of-legends.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/rise-of-nations-rise-of-legends.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Super Mariomon​</title>
+        <link>http://localhost:1313/game/super-mariomon/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-mariomon/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-mariomon.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-mariomon.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-mariomon.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Wario Land 4 Perfect Version​</title>
+        <link>http://localhost:1313/game/wario-land-4-perfect-version/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wario-land-4-perfect-version/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wario-land-4-perfect-version.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wario-land-4-perfect-version.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wario-land-4-perfect-version.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Wario Land 4 Jungle Rumble!​</title>
+        <link>http://localhost:1313/game/wario-land-4-jungle-rumble/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wario-land-4-jungle-rumble/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wario-land-4-jungle-rumble.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wario-land-4-jungle-rumble.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wario-land-4-jungle-rumble.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Goodboy Galaxy Emulator Rumble Patch​</title>
+        <link>http://localhost:1313/game/goodboy-galaxy-emulator-rumble-patch/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/goodboy-galaxy-emulator-rumble-patch/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" />
+        <media:content url="http://localhost:1313/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/goodboy-galaxy-emulator-rumble-patch.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>A More Modern Amazing Mirror​</title>
+        <link>http://localhost:1313/game/a-more-modern-amazing-mirror/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/a-more-modern-amazing-mirror/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror.webp" />
+        <media:content url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>A More Modern Amazing Mirror with Coloured Outlines​</title>
+        <link>http://localhost:1313/game/a-more-modern-amazing-mirror-with-coloured-outlines/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/a-more-modern-amazing-mirror-with-coloured-outlines/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" />
+        <media:content url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/a-more-modern-amazing-mirror-with-coloured-outlines.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>A More Modern Nightmare In Dream Land​</title>
+        <link>http://localhost:1313/game/a-more-modern-nightmare-in-dream-land/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/a-more-modern-nightmare-in-dream-land/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/a-more-modern-nightmare-in-dream-land.webp" />
+        <media:content url="http://localhost:1313/Images/Games/a-more-modern-nightmare-in-dream-land.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/a-more-modern-nightmare-in-dream-land.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Fire Emblem Sacred Stones Reforged​</title>
+        <link>http://localhost:1313/game/fire-emblem-sacred-stones-reforged/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/fire-emblem-sacred-stones-reforged/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/fire-emblem-sacred-stones-reforged.webp" />
+        <media:content url="http://localhost:1313/Images/Games/fire-emblem-sacred-stones-reforged.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/fire-emblem-sacred-stones-reforged.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Rhythm Heaven Silver - Gameboy Advance​</title>
+        <link>http://localhost:1313/game/rhythm-heaven-silver-gameboy-advance/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/rhythm-heaven-silver-gameboy-advance/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" />
+        <media:content url="http://localhost:1313/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/rhythm-heaven-silver-gameboy-advance.webp" type="image/webp" />
+        <category>english-translation-patches</category>
+        <description></description>
+      </item><item>
+        <title>SMAS SMB Lost Levels Brick Fix​</title>
+        <link>http://localhost:1313/game/smas-smb-lost-levels-brick-fix/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/smas-smb-lost-levels-brick-fix/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/smas-smb-lost-levels-brick-fix.webp" />
+        <media:content url="http://localhost:1313/Images/Games/smas-smb-lost-levels-brick-fix.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/smas-smb-lost-levels-brick-fix.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Super Mario World Mix​</title>
+        <link>http://localhost:1313/game/super-mario-world-mix/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-mario-world-mix/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-world-mix.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-mario-world-mix.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-mario-world-mix.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Yu-Gi-Oh! The Eternal Duelist Soul HACK​</title>
+        <link>http://localhost:1313/game/yu-gi-oh-the-eternal-duelist-soul-hack/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/yu-gi-oh-the-eternal-duelist-soul-hack/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" />
+        <media:content url="http://localhost:1313/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/yu-gi-oh-the-eternal-duelist-soul-hack.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Castlevania Aria of Sorrow Reprise​</title>
+        <link>http://localhost:1313/game/castlevania-aria-of-sorrow-reprise/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/castlevania-aria-of-sorrow-reprise/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-reprise.webp" />
+        <media:content url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-reprise.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-reprise.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Castlevania Aria of Sorrow Definitive Edition​</title>
+        <link>http://localhost:1313/game/castlevania-aria-of-sorrow-definitive-edition/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/castlevania-aria-of-sorrow-definitive-edition/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" />
+        <media:content url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/castlevania-aria-of-sorrow-definitive-edition.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Contra Hard Corps Hit Points Restoration Hack​</title>
+        <link>http://localhost:1313/game/contra-hard-corps-hit-points-restoration-hack/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/contra-hard-corps-hit-points-restoration-hack/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" />
+        <media:content url="http://localhost:1313/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/contra-hard-corps-hit-points-restoration-hack.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Super Luigi RPG Star Powered​</title>
+        <link>http://localhost:1313/game/super-luigi-rpg-star-powered/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-luigi-rpg-star-powered/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-luigi-rpg-star-powered.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-luigi-rpg-star-powered.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-luigi-rpg-star-powered.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Super Metroid Arcade​</title>
+        <link>http://localhost:1313/game/super-metroid-arcade/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-metroid-arcade/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-metroid-arcade.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-metroid-arcade.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-metroid-arcade.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Zelda II Amida&amp;#39;s Curse​</title>
+        <link>http://localhost:1313/game/zelda-ii-amidas-curse/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/zelda-ii-amidas-curse/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/zelda-ii-amidas-curse.webp" />
+        <media:content url="http://localhost:1313/Images/Games/zelda-ii-amidas-curse.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/zelda-ii-amidas-curse.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Zelda II Resurrection of Ganon​</title>
+        <link>http://localhost:1313/game/zelda-ii-resurrection-of-ganon/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/zelda-ii-resurrection-of-ganon/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/zelda-ii-resurrection-of-ganon.webp" />
+        <media:content url="http://localhost:1313/Images/Games/zelda-ii-resurrection-of-ganon.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/zelda-ii-resurrection-of-ganon.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Super Mario Kart Horizons​</title>
+        <link>http://localhost:1313/game/super-mario-kart-horizons/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-mario-kart-horizons/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-kart-horizons.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-mario-kart-horizons.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-mario-kart-horizons.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>The Legend of Zelda Allhallows Eve​</title>
+        <link>http://localhost:1313/game/the-legend-of-zelda-allhallows-eve/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-allhallows-eve/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-allhallows-eve.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-allhallows-eve.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-allhallows-eve.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Legend of the Mana Sword​</title>
+        <link>http://localhost:1313/game/legend-of-the-mana-sword/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/legend-of-the-mana-sword/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/legend-of-the-mana-sword.webp" />
+        <media:content url="http://localhost:1313/Images/Games/legend-of-the-mana-sword.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/legend-of-the-mana-sword.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Close Combat: First to Fight​</title>
+        <link>http://localhost:1313/game/close-combat-first-to-fight/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/close-combat-first-to-fight/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/close-combat-first-to-fight.webp" />
+        <media:content url="http://localhost:1313/Images/Games/close-combat-first-to-fight.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/close-combat-first-to-fight.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>The Legend of Zelda Spirit Tracks D-Pad Controls​</title>
+        <link>http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-spirit-tracks-d-pad-controls.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>WWF Raw​</title>
+        <link>http://localhost:1313/game/wwf-raw/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwf-raw/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwf-raw.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwf-raw.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwf-raw.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>The Legend of Zelda Phantom Hourglass D-Pad Patch​</title>
+        <link>http://localhost:1313/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-phantom-hourglass-d-pad-patch.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Turok: Evolution​</title>
+        <link>http://localhost:1313/game/turok-evolution/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/turok-evolution/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/turok-evolution.webp" />
+        <media:content url="http://localhost:1313/Images/Games/turok-evolution.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/turok-evolution.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>ParaWorld​</title>
+        <link>http://localhost:1313/game/paraworld/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/paraworld/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/paraworld.webp" />
+        <media:content url="http://localhost:1313/Images/Games/paraworld.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/paraworld.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Dreamcast Image Builder For Modding Patching Dreamcast Games​</title>
+        <link>http://localhost:1313/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dreamcast-image-builder-for-modding-patching-dreamcast-games.webp" type="image/webp" />
+        <category>utility</category>
+        <description></description>
+      </item><item>
+        <title>Dreamcast Image Builder Mods​</title>
+        <link>http://localhost:1313/game/dreamcast-image-builder-mods/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dreamcast-image-builder-mods/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/dreamcast-image-builder-mods.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dreamcast-image-builder-mods.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dreamcast-image-builder-mods.webp" type="image/webp" />
+        <category>utility</category>
+        <description></description>
+      </item><item>
+        <title>WoWee World Of Warcraft Engine Experiment​</title>
+        <link>http://localhost:1313/game/wowee-world-of-warcraft-engine-experiment/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wowee-world-of-warcraft-engine-experiment/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" type="image/webp" />
+        <category>open-source</category>
+        <description></description>
+      </item><item>
+        <title>Mystical Ninja Starring Goemon Recompilation Mods​</title>
+        <link>http://localhost:1313/game/mystical-ninja-starring-goemon-recompilation-mods/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mystical-ninja-starring-goemon-recompilation-mods/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Harry Potter and the Deathly Hallows: Part 1​</title>
+        <link>http://localhost:1313/game/harry-potter-and-the-deathly-hallows-part-1/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/harry-potter-and-the-deathly-hallows-part-1/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-1.webp" />
+        <media:content url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-1.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-1.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Shaun White Skateboarding​</title>
+        <link>http://localhost:1313/game/shaun-white-skateboarding/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/shaun-white-skateboarding/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/shaun-white-skateboarding.webp" />
+        <media:content url="http://localhost:1313/Images/Games/shaun-white-skateboarding.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/shaun-white-skateboarding.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Sol Survivor​</title>
+        <link>http://localhost:1313/game/sol-survivor/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/sol-survivor/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/sol-survivor.webp" />
+        <media:content url="http://localhost:1313/Images/Games/sol-survivor.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/sol-survivor.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tom Clancy&amp;#39;s H.A.W.X 2​</title>
+        <link>http://localhost:1313/game/tom-clancys-h.a.w.x-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tom-clancys-h.a.w.x-2/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tom-clancys-h.a.w.x-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tom-clancys-h.a.w.x-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tom-clancys-h.a.w.x-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WRC FIA World Rally Championship​</title>
+        <link>http://localhost:1313/game/wrc-fia-world-rally-championship/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wrc-fia-world-rally-championship/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wrc-fia-world-rally-championship.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wrc-fia-world-rally-championship.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wrc-fia-world-rally-championship.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Harry Potter and the Deathly Hallows: Part 2​</title>
+        <link>http://localhost:1313/game/harry-potter-and-the-deathly-hallows-part-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/harry-potter-and-the-deathly-hallows-part-2/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/harry-potter-and-the-deathly-hallows-part-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Jurassic Park: The Game​</title>
+        <link>http://localhost:1313/game/jurassic-park-the-game/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/jurassic-park-the-game/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/jurassic-park-the-game.webp" />
+        <media:content url="http://localhost:1313/Images/Games/jurassic-park-the-game.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/jurassic-park-the-game.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Virtua Tennis 4​</title>
+        <link>http://localhost:1313/game/virtua-tennis-4/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/virtua-tennis-4/</guid>
+        <pubDate>Mon, 16 Feb 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/virtua-tennis-4.webp" />
+        <media:content url="http://localhost:1313/Images/Games/virtua-tennis-4.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/virtua-tennis-4.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item>
   </channel>
 </rss>
