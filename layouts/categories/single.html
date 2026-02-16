@@ -30,7 +30,7 @@
 {{ end }}
 
 
-<div class="game-controls" data-game-grid>
+<div class="game-controls" data-game-grid data-category-slug="{{ $slug }}">
   <div class="controls">
     <div class="control">
       <label>Sort</label>
@@ -41,9 +41,14 @@
       </div>
     <div class="control">
       <label>Genre</label>
-      <select data-genre>
-        <option value="All">All</option>
-      </select>
+      <div class="genre-dropdown" data-genre-dropdown>
+  <button type="button" class="genre-dropdown-toggle" data-genre-dropdown-toggle aria-expanded="false">
+    Genre ▾
+  </button>
+  <div class="genre-dropdown-panel" data-genre-dropdown-panel hidden>
+    <div class="genre-chips" data-genre-chips aria-label="Genre filters"></div>
+  </div>
+</div>
     </div>
   </div>
 

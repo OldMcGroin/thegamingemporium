@@ -36,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/action/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/adidas-power-soccer/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/advance-wars/</loc>
   </url><url>
     <loc>http://localhost:1313/game/advance-wars-returns/</loc>
@@ -351,6 +353,8 @@
     <loc>http://localhost:1313/series/bitcraft/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bitcraft-mmorpg-open-source-server-code/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/black-and-white/</loc>
   </url><url>
     <loc>http://localhost:1313/game/black-mesa-military/</loc>
   </url><url>
@@ -1530,6 +1534,8 @@
   </url><url>
     <loc>http://localhost:1313/game/gex-64-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/ghost-recon/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/ghosts-and-goblins/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ghosts-n-demons/</loc>
@@ -2230,6 +2236,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mechanoids-2-snes/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/mechwarrior/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/medal-of-honor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/medal-of-honor-airborne-redux/</loc>
@@ -2597,6 +2605,8 @@
     <loc>http://localhost:1313/game/oblivion-remastered-glock-functional-gun-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/of-mice-and-mechs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/of-mice-and-mechs/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ogre-battle/</loc>
   </url><url>
@@ -3144,6 +3154,8 @@
   </url><url>
     <loc>http://localhost:1313/game/rhythm-heaven-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/rhythm-heaven-silver/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/rhythm-heaven-silver-gameboy-advance/</loc>
   </url><url>
     <loc>http://localhost:1313/series/rhythm-tengoku/</loc>
@@ -3383,6 +3395,8 @@
     <loc>http://localhost:1313/series/silhouette-mirage/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silhouette-mirage-sega-saturn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/sim-ant/</loc>
   </url><url>
     <loc>http://localhost:1313/game/simutrans/</loc>
   </url><url>
@@ -3976,6 +3990,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sword-art-online-infinity-moment-psp/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/sword-of-mana/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sword-of-mana-quickmenu/</loc>
   </url><url>
     <loc>http://localhost:1313/series/sword-of-the-berserk/</loc>
@@ -4011,6 +4027,8 @@
     <loc>http://localhost:1313/game/tanks-rebirth/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tanks-rebirth/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tarzan/</loc>
   </url><url>
     <loc>http://localhost:1313/series/team-fortress/</loc>
   </url><url>
@@ -4200,6 +4218,8 @@
   </url><url>
     <loc>http://localhost:1313/series/the-matrix/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/the-movies/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-patchmaker-s-workshop/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-playstation-translation-doc/</loc>
@@ -4325,6 +4345,8 @@
     <loc>http://localhost:1313/series/toradora-portable/</loc>
   </url><url>
     <loc>http://localhost:1313/game/toradora-portable-playstation-portable/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/touhou/</loc>
   </url><url>
     <loc>http://localhost:1313/game/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation/</loc>
   </url><url>
@@ -4739,6 +4761,8 @@
     <loc>http://localhost:1313/game/zone-of-the-enders-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zone-of-the-enders-the-2nd-runner-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/zoo-tycoon/</loc>
   </url><url>
     <loc>http://localhost:1313/series/zork/</loc>
   </url><url>

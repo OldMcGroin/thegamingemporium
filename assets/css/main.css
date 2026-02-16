@@ -212,6 +212,32 @@ select{
   min-width: 200px;
 }
 
+/* Genre filter chips (used on Abandonware) */
+.genre-chips{
+  display:flex;
+  flex-wrap:wrap;
+  gap: 8px;
+  max-width: 720px;
+}
+.chip{
+  appearance:none;
+  border-radius: 999px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.45);
+  color: var(--text);
+  font-weight: 800;
+  font-size: 12px;
+  cursor: pointer;
+  user-select:none;
+}
+.chip:hover{ border-color: rgba(255,255,255,0.35); }
+.chip.is-active{
+  border-color: rgba(255, 215, 0, 0.65);
+  background: rgba(255, 215, 0, 0.14);
+}
+.chip:focus{ outline: none; box-shadow: 0 0 0 2px rgba(255, 215, 0, 0.35); }
+
 /* Category + Series grids */
 .category-grid,
 .series-grid,
@@ -1715,4 +1741,40 @@ html[data-theme="light"] .rss-copied{
   border-radius:999px;
   background:rgba(255,255,255,0.10);
   border:1px solid rgba(255,255,255,0.18);
+}
+
+
+/* Genre dropdown (Abandonware) */
+.genre-dropdown{
+  position: relative;
+  display: inline-block;
+  min-width: 200px;
+}
+.genre-dropdown-toggle{
+  width: 100%;
+  text-align: left;
+  border-radius: 999px;
+  padding: 10px 12px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.45);
+  color: var(--text);
+  font-weight: 800;
+  cursor: pointer;
+}
+.genre-dropdown-toggle:hover{ border-color: rgba(255,255,255,0.35); }
+.genre-dropdown-toggle:focus{ outline:none; box-shadow: 0 0 0 2px rgba(255, 215, 0, 0.35); }
+
+.genre-dropdown-panel{
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 50;
+  width: min(720px, 80vw);
+  max-width: 720px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.85);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.45);
 }

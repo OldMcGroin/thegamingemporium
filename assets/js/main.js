@@ -147,20 +147,27 @@ function initGameGrids(){
         if(!grid) return;
         var cards = Array.from(grid.querySelectorAll('.game-card'));
 
+        // Category slug (used to scope special behaviour)
+        var categorySlug = wrapper.getAttribute('data-category-slug') || '';
+
         // Support legacy attr `data-genre-filter` and current `data-genre`
         var genreSelect = wrapper.querySelector('select[data-genre], select[data-genre-filter]');
+        var genreChips  = wrapper.querySelector('[data-genre-chips]');
+        var genreDropdown = wrapper.querySelector('[data-genre-dropdown]');
+        var genreDropdownToggle = wrapper.querySelector('[data-genre-dropdown-toggle]');
+        var genreDropdownPanel  = wrapper.querySelector('[data-genre-dropdown-panel]');
         var sortSelect  = wrapper.querySelector('select[data-sort]');
 
-        // Populate genres from cards
-        if(genreSelect){
-          var genres = [];
-          cards.forEach(function(card){
-            var g = (card.getAttribute('data-genres')||"").split('|').map(function(x){ return x.trim(); }).filter(Boolean);
-            genres = genres.concat(g);
-          });
-          genres = uniqSorted(genres);
+        // Collect genres from cards
+        var genres = [];
+        cards.forEach(function(card){
+          var g = (card.getAttribute('data-genres')||"").split('|').map(function(x){ return x.trim(); }).filter(Boolean);
+          genres = genres.concat(g);
+        });
+        genres = uniqSorted(genres);
 
-          // keep first option (All)
+        // Populate classic select (all pages except those using chips)
+        if(genreSelect){
           genreSelect.innerHTML = '';
           var optAll = document.createElement('option');
           optAll.value = '';
@@ -174,7 +181,121 @@ function initGameGrids(){
           });
         }
 
+        // Populate chips (Abandonware)
+        var selectedGenres = new Set();
+        function __closeGenreDropdown(){
+          if(!genreDropdownPanel || !genreDropdownToggle) return;
+          genreDropdownPanel.hidden = true;
+          genreDropdownToggle.setAttribute('aria-expanded','false');
+        }
+        function __openGenreDropdown(){
+          if(!genreDropdownPanel || !genreDropdownToggle) return;
+          genreDropdownPanel.hidden = false;
+          genreDropdownToggle.setAttribute('aria-expanded','true');
+        }
+        function __toggleGenreDropdown(){
+          if(!genreDropdownPanel) return;
+          if(genreDropdownPanel.hidden) __openGenreDropdown(); else __closeGenreDropdown();
+        }
+        function __updateGenreDropdownLabel(){
+          if(!genreDropdownToggle) return;
+          var n = selectedGenres.size;
+          genreDropdownToggle.textContent = n ? ('Genre ('+n+') ▾') : 'Genre ▾';
+        }
+
+        if(genreDropdownToggle && genreDropdownPanel){
+          genreDropdownToggle.addEventListener('click', function(e){
+            e.preventDefault();
+            e.stopPropagation();
+            __toggleGenreDropdown();
+          });
+          // Close when clicking outside
+          document.addEventListener('click', function(e){
+            if(!genreDropdown) return;
+            if(!genreDropdown.contains(e.target)) __closeGenreDropdown();
+          });
+          // Escape closes
+          document.addEventListener('keydown', function(e){
+            if(e.key === 'Escape') __closeGenreDropdown();
+          });
+        }
+
+        function setChipActive(btn, isActive){
+          if(!btn) return;
+          btn.classList.toggle('is-active', !!isActive);
+          btn.setAttribute('aria-pressed', !!isActive ? 'true' : 'false');
+        }
+
+        function buildChips(){
+          if(!genreChips) return;
+          genreChips.innerHTML = '';
+
+          // "All" chip
+          var allBtn = document.createElement('button');
+          allBtn.type = 'button';
+          allBtn.className = 'chip is-active';
+          allBtn.textContent = 'All';
+          allBtn.setAttribute('data-genre', '');
+          allBtn.setAttribute('aria-pressed', 'true');
+          genreChips.appendChild(allBtn);
+
+          genres.forEach(function(g){
+            var b = document.createElement('button');
+            b.type = 'button';
+            b.className = 'chip';
+            b.textContent = g;
+            b.setAttribute('data-genre', g);
+            b.setAttribute('aria-pressed', 'false');
+            genreChips.appendChild(b);
+          });
+
+          genreChips.addEventListener('click', function(e){
+            var target = e.target;
+            if(!target || target.tagName !== 'BUTTON') return;
+            var g = target.getAttribute('data-genre') || '';
+
+            // Click "All" clears everything
+            if(!g){
+              selectedGenres.clear();
+              Array.from(genreChips.querySelectorAll('button.chip')).forEach(function(btn){
+                setChipActive(btn, btn.getAttribute('data-genre') === '');
+              });
+              applyFilter();
+              __updateGenreDropdownLabel();
+              return;
+            }
+
+            // Toggle a genre chip
+            if(selectedGenres.has(g)) selectedGenres.delete(g); else selectedGenres.add(g);
+
+            // Update chip states
+            Array.from(genreChips.querySelectorAll('button.chip')).forEach(function(btn){
+              var bg = btn.getAttribute('data-genre') || '';
+              if(!bg){
+                setChipActive(btn, selectedGenres.size === 0);
+              } else {
+                setChipActive(btn, selectedGenres.has(bg));
+              }
+            });
+
+            applyFilter();
+            __updateGenreDropdownLabel();
+          });
+        }
+
         function applyFilter(){
+          // Chips take priority if present (Abandonware)
+          if(genreChips){
+            var wanted = Array.from(selectedGenres);
+            cards.forEach(function(card){
+              var g = (card.getAttribute('data-genres')||"");
+              var cardGenres = g.split('|').map(function(x){return x.trim();}).filter(Boolean);
+              var show = wanted.length === 0 || wanted.every(function(w){ return cardGenres.indexOf(w) !== -1; });
+              card.style.display = show ? '' : 'none';
+            });
+            return;
+          }
+
           var selectedGenre = genreSelect ? genreSelect.value : '';
           cards.forEach(function(card){
             var g = (card.getAttribute('data-genres')||"");
@@ -204,6 +325,9 @@ function initGameGrids(){
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
 
         // initial
+        if(genreChips){ buildChips();
+        __updateGenreDropdownLabel();
+        __closeGenreDropdown(); }
         applyFilter();
         applySort();
       });
