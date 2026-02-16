@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 16 Feb 2026 22:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 22:26:49 +0000</lastBuildDate>
     <item>
       <title>Mega Man X: Viral Nightmare​</title>
       <link>https://thegamingemporium.com/game/mega-man-x-viral-nightmare/</link>
@@ -359,6 +359,17 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" alt="WoWee World Of Warcraft Engine Experiment​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Warcraft · Genre: utility]]></content:encoded>
     </item>
     <item>
+      <title>Mystical Ninja Starring Goemon Recompilation Mods​</title>
+      <link>https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></content:encoded>
+    </item>
+    <item>
       <title>OpenCiv3</title>
       <link>https://thegamingemporium.com/game/openciv3/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/openciv3/</guid>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" alt="Assassin's Creed Director's Cut Remastered" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Assassin's Creed · Genre: stealth, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/assassin-s-creed-director-s-cut-remastered.webp" alt="Assassin's Creed Director's Cut Remastered" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Assassin's Creed · Genre: stealth, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Walfie's Nonograms</title>
-      <link>https://thegamingemporium.com/game/walfie-s-nonograms/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/walfie-s-nonograms/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/walfie-s-nonograms.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/walfie-s-nonograms.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/walfie-s-nonograms.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/walfie-s-nonograms.webp" alt="Walfie's Nonograms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Walfie's Nonograms · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/walfie-s-nonograms.webp" alt="Walfie's Nonograms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Walfie's Nonograms · Genre: puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>
