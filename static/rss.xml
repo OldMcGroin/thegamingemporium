@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 17 Feb 2026 12:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 14:16:14 +0000</lastBuildDate>
     <item>
       <title>Super Junkoid DX​</title>
       <link>https://thegamingemporium.com/game/super-junkoid-dx/</link>
@@ -82,6 +82,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ancient-dungeon.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ancient-dungeon.webp" alt="The Legend of Zelda: Ancient Dungeon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ancient-dungeon.webp" alt="The Legend of Zelda: Ancient Dungeon​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: The Legend of Zelda · Genre: action, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Rockman EXE Phantom of Network PC Port​</title>
+      <link>https://thegamingemporium.com/game/rockman-exe-phantom-of-network-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/rockman-exe-phantom-of-network-pc-port/</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rockman-exe-phantom-of-network-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/rockman-exe-phantom-of-network-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/rockman-exe-phantom-of-network-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rockman-exe-phantom-of-network-pc-port.webp" alt="Rockman EXE Phantom of Network PC Port​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Mega Man · Genre: action, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rockman-exe-phantom-of-network-pc-port.webp" alt="Rockman EXE Phantom of Network PC Port​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Mega Man · Genre: action, strategy]]></content:encoded>
     </item>
     <item>
       <title>Mega Man X: Viral Nightmare​</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Bangai-O - N64</title>
-      <link>https://thegamingemporium.com/game/bangai-o-n64/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bangai-o-n64/</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bangai-o-n64.webp" alt="Bangai-O - N64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Bangai-O · Genre: action]]></content:encoded>
     </item>
   </channel>
 </rss>
