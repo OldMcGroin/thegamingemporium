@@ -7,6 +7,23 @@
 {{ $title := partial "format-category.html" $slug }}
 <h1 class="page-title">{{ $title }}</h1>
 
+{{ if eq $slug "abandonware" }}
+<div class="abandonware-warning-box" role="note" aria-label="Security notice">
+  <div class="abandonware-warning-icon">
+    <!-- Inline SVG Shield -->
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M12 2L4 5v6c0 5 3.5 9.5 8 11 4.5-1.5 8-6 8-11V5l-8-3zm0 3.2l5 1.9v4.2c0 3.7-2.5 7.3-5 8.6-2.5-1.3-5-4.9-5-8.6V7.1l5-1.9z"/>
+    </svg>
+  </div>
+  <div class="abandonware-warning-text">
+    <strong>Safety Tip:</strong>
+    If in doubt, right-click the downloadable <code>.zip</code> file, copy the link address, and check for any virus
+    <a href="https://www.virustotal.com/gui/home/url" target="_blank" rel="noopener noreferrer">HERE</a>.
+  </div>
+</div>
+{{ end }}
+
+
 
 
 

@@ -1778,3 +1778,49 @@ html[data-theme="light"] .rss-copied{
   backdrop-filter: blur(6px);
   box-shadow: 0 12px 30px rgba(0,0,0,0.45);
 }
+
+/* =========================================
+   Abandonware Security Warning Box
+   ========================================= */
+.abandonware-warning-box{
+  display:flex;
+  align-items:flex-start;
+  gap:14px;
+  margin: 14px 0 20px;
+  padding: 14px 18px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(6px);
+  box-shadow: var(--shadow);
+}
+
+.abandonware-warning-icon svg{
+  width:28px;
+  height:28px;
+  fill: #4CAF50;
+  flex-shrink:0;
+  margin-top:2px;
+}
+
+.abandonware-warning-text{
+  font-size: 0.95rem;
+  line-height: 1.5;
+  opacity: 0.92;
+}
+
+.abandonware-warning-text a{
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+/* Light mode tuning */
+html[data-theme="light"] .abandonware-warning-box{
+  background: rgba(0,0,0,0.04);
+  border: 1px solid rgba(0,0,0,0.14);
+}
+
+html[data-theme="light"] .abandonware-warning-icon svg{
+  fill: #2e7d32;
+}
+
