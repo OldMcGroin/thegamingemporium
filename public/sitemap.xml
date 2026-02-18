@@ -782,6 +782,8 @@
   </url><url>
     <loc>http://localhost:1313/game/crash-team-racing-retro-fueled/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/crash-time/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/crash-twinsanity-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/series/crazy-taxi/</loc>
@@ -1732,6 +1734,8 @@
   </url><url>
     <loc>http://localhost:1313/game/harvest-moon-friends-of-mineral-town-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/harvester/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/hayato-s-journey/</loc>
   </url><url>
     <loc>http://localhost:1313/series/hayatos-journey/</loc>
@@ -2155,6 +2159,8 @@
     <loc>http://localhost:1313/game/lunar-2-eternal-blue-complete-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mad-dog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/mad-dog-mccree/</loc>
   </url><url>
     <loc>http://localhost:1313/game/magarena/</loc>
   </url><url>
@@ -2641,6 +2647,8 @@
     <loc>http://localhost:1313/series/nigel-mansell-world-championship/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nigel-mansell-world-championship-c64/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/night-trap/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nightmare-kart/</loc>
   </url><url>
@@ -3680,6 +3688,8 @@
   </url><url>
     <loc>http://localhost:1313/series/space-cadet-pinball/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/space-invaders/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/space-quest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/space-quest-ii-vga-deluxe/</loc>
@@ -4649,6 +4659,8 @@
     <loc>http://localhost:1313/series/voxelibre/</loc>
   </url><url>
     <loc>http://localhost:1313/game/voxelibre-formerly-mineclone2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/voyeur/</loc>
   </url><url>
     <loc>http://localhost:1313/series/waku-waku-puyo-puyo-dungeon/</loc>
   </url><url>
