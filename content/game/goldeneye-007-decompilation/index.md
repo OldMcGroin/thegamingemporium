@@ -7,7 +7,7 @@ params:
   category: "in-the-works"
   genre1: "first-person-shooter"
   genre2: ""
-  series: "James Bond"
+  series: "007"
   video_link: ""
   date_added: ""
   image: ""
