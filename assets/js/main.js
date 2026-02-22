@@ -158,6 +158,13 @@ function initGameGrids(){
         var genreDropdownPanel  = wrapper.querySelector('[data-genre-dropdown-panel]');
         var sortSelect  = wrapper.querySelector('select[data-sort]');
 
+        // Category filter (chips / dropdown)
+        var categorySelect = wrapper.querySelector('select[data-category]');
+        var categoryChips  = wrapper.querySelector('[data-category-chips]');
+        var categoryDropdown = wrapper.querySelector('[data-category-dropdown]');
+        var categoryDropdownToggle = wrapper.querySelector('[data-category-dropdown-toggle]');
+        var categoryDropdownPanel  = wrapper.querySelector('[data-category-dropdown-panel]');
+
         // Collect genres from cards
         var genres = [];
         cards.forEach(function(card){
@@ -165,6 +172,124 @@ function initGameGrids(){
           genres = genres.concat(g);
         });
         genres = uniqSorted(genres);
+
+        // Collect categories from cards
+        var categoryMap = new Map();
+        cards.forEach(function(card){
+          var c = (card.getAttribute('data-category')||'').trim();
+          if(!c) return;
+          var label = (card.getAttribute('data-category-display')||c).trim();
+          if(!categoryMap.has(c)) categoryMap.set(c, label);
+        });
+        var categories = Array.from(categoryMap.entries())
+          .map(function(pair){ return { slug: pair[0], label: pair[1] }; })
+          .sort(function(a,b){ return a.label.localeCompare(b.label); });
+
+        // Populate classic category select (if present)
+        if(categorySelect){
+          categorySelect.innerHTML = '';
+          var cAll = document.createElement('option');
+          cAll.value = '';
+          cAll.textContent = 'All';
+          categorySelect.appendChild(cAll);
+          categories.forEach(function(c){
+            var opt = document.createElement('option');
+            opt.value = c.slug;
+            opt.textContent = c.label;
+            categorySelect.appendChild(opt);
+          });
+        }
+
+        // Category chips / dropdown
+        var selectedCategories = new Set();
+        function __closeCategoryDropdown(){
+          if(!categoryDropdownPanel || !categoryDropdownToggle) return;
+          categoryDropdownPanel.hidden = true;
+          categoryDropdownToggle.setAttribute('aria-expanded','false');
+        }
+        function __openCategoryDropdown(){
+          if(!categoryDropdownPanel || !categoryDropdownToggle) return;
+          categoryDropdownPanel.hidden = false;
+          categoryDropdownToggle.setAttribute('aria-expanded','true');
+        }
+        function __toggleCategoryDropdown(){
+          if(!categoryDropdownPanel) return;
+          if(categoryDropdownPanel.hidden) __openCategoryDropdown(); else __closeCategoryDropdown();
+        }
+        function __updateCategoryDropdownLabel(){
+          if(!categoryDropdownToggle) return;
+          var n = selectedCategories.size;
+          categoryDropdownToggle.textContent = n ? ('Category ('+n+') ▾') : 'Category ▾';
+        }
+
+        if(categoryDropdownToggle && categoryDropdownPanel){
+          categoryDropdownToggle.addEventListener('click', function(e){
+            e.preventDefault();
+            e.stopPropagation();
+            __toggleCategoryDropdown();
+          });
+          document.addEventListener('click', function(e){
+            if(!categoryDropdown) return;
+            if(!categoryDropdown.contains(e.target)) __closeCategoryDropdown();
+          });
+          document.addEventListener('keydown', function(e){
+            if(e.key === 'Escape') __closeCategoryDropdown();
+          });
+        }
+
+        function buildCategoryChips(){
+          if(!categoryChips) return;
+          categoryChips.innerHTML = '';
+
+          var allBtn = document.createElement('button');
+          allBtn.type = 'button';
+          allBtn.className = 'chip is-active';
+          allBtn.textContent = 'All';
+          allBtn.setAttribute('data-category', '');
+          allBtn.setAttribute('aria-pressed', 'true');
+          categoryChips.appendChild(allBtn);
+
+          categories.forEach(function(c){
+            var b = document.createElement('button');
+            b.type = 'button';
+            b.className = 'chip';
+            b.textContent = c.label;
+            b.setAttribute('data-category', c.slug);
+            b.setAttribute('aria-pressed', 'false');
+            categoryChips.appendChild(b);
+          });
+
+          categoryChips.addEventListener('click', function(e){
+            var target = e.target;
+            if(!target || target.tagName !== 'BUTTON') return;
+            var c = target.getAttribute('data-category') || '';
+
+            if(!c){
+              selectedCategories.clear();
+              Array.from(categoryChips.querySelectorAll('button.chip')).forEach(function(btn){
+                var bc = btn.getAttribute('data-category') || '';
+                setChipActive(btn, bc === '');
+              });
+              applyFilter();
+              __updateCategoryDropdownLabel();
+              return;
+            }
+
+            if(selectedCategories.has(c)) selectedCategories.delete(c); else selectedCategories.add(c);
+
+            Array.from(categoryChips.querySelectorAll('button.chip')).forEach(function(btn){
+              var bc = btn.getAttribute('data-category') || '';
+              if(!bc){
+                setChipActive(btn, selectedCategories.size === 0);
+              } else {
+                setChipActive(btn, selectedCategories.has(bc));
+              }
+            });
+
+            applyFilter();
+            __updateCategoryDropdownLabel();
+          });
+        }
 
         // Populate classic select (all pages except those using chips)
         if(genreSelect){
@@ -284,22 +409,34 @@ function initGameGrids(){
         }
 
         function applyFilter(){
-          // Chips take priority if present (Abandonware)
-          if(genreChips){
-            var wanted = Array.from(selectedGenres);
-            cards.forEach(function(card){
-              var g = (card.getAttribute('data-genres')||"");
-              var cardGenres = g.split('|').map(function(x){return x.trim();}).filter(Boolean);
-              var show = wanted.length === 0 || wanted.every(function(w){ return cardGenres.indexOf(w) !== -1; });
-              card.style.display = show ? '' : 'none';
-            });
-            return;
-          }
+          // Determine active genre filter
+          var wantedGenres = genreChips ? Array.from(selectedGenres) : [];
+          var selectedGenre = (!genreChips && genreSelect) ? (genreSelect.value || '') : '';
 
-          var selectedGenre = genreSelect ? genreSelect.value : '';
+          // Determine active category filter
+          var wantedCategories = categoryChips ? Array.from(selectedCategories) : [];
+          var selectedCategory = (!categoryChips && categorySelect) ? (categorySelect.value || '') : '';
+
           cards.forEach(function(card){
-            var g = (card.getAttribute('data-genres')||"");
-            var show = !selectedGenre || g.split('|').map(function(x){return x.trim();}).indexOf(selectedGenre) !== -1;
+            var gAttr = (card.getAttribute('data-genres')||"");
+            var cardGenres = gAttr.split('|').map(function(x){ return x.trim(); }).filter(Boolean);
+            var cardCategory = (card.getAttribute('data-category')||'').trim();
+
+            var showGenre = true;
+            if(genreChips){
+              showGenre = wantedGenres.length === 0 || wantedGenres.every(function(w){ return cardGenres.indexOf(w) !== -1; });
+            } else if(selectedGenre){
+              showGenre = cardGenres.indexOf(selectedGenre) !== -1;
+            }
+
+            var showCategory = true;
+            if(categoryChips){
+              showCategory = wantedCategories.length === 0 || wantedCategories.indexOf(cardCategory) !== -1;
+            } else if(selectedCategory){
+              showCategory = cardCategory === selectedCategory;
+            }
+
+            var show = showGenre && showCategory;
             card.style.display = show ? '' : 'none';
           });
         }
@@ -322,12 +459,16 @@ function initGameGrids(){
         }
 
         if(genreSelect){ genreSelect.addEventListener('change', function(){ applyFilter(); }); }
+        if(categorySelect){ categorySelect.addEventListener('change', function(){ applyFilter(); }); }
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
 
         // initial
         if(genreChips){ buildChips();
         __updateGenreDropdownLabel();
         __closeGenreDropdown(); }
+        if(categoryChips){ buildCategoryChips();
+        __updateCategoryDropdownLabel();
+        __closeCategoryDropdown(); }
         applyFilter();
         applySort();
       });

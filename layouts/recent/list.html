@@ -21,6 +21,20 @@
 {{ $sorted := sort $enriched "k" "desc" }}
 
 <div class="game-controls" data-game-grid>
+  <div class="controls">
+    <div class="control">
+      <label>Category</label>
+      <div class="genre-dropdown" data-category-dropdown>
+        <button type="button" class="genre-dropdown-toggle" data-category-dropdown-toggle aria-expanded="false">
+          Category ▾
+        </button>
+        <div class="genre-dropdown-panel" data-category-dropdown-panel hidden>
+          <div class="genre-chips" data-category-chips aria-label="Category filters"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="game-grid">
     {{ range $sorted }}
       {{ partial "game-card.html" (dict "game" .g "ctx" $) }}

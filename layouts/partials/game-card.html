@@ -32,7 +32,7 @@ Image strategy (scales to thousands of items):
 {{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
 {{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
 {{- $genreDisp := delimit $genres ", " -}}
-<div class="game-card" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}">
+<div class="game-card" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}">
   {{/* Only show the helper button while running `hugo server` (local dev) */}}
   {{- if and (isset . "ctx") hugo.IsServer -}}
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
