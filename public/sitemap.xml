@@ -468,6 +468,8 @@
   </url><url>
     <loc>http://localhost:1313/game/bubble-bobble-lost-cave-c64/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/buck-rogers/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/budokai/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bully/</loc>
@@ -982,6 +984,8 @@
   </url><url>
     <loc>http://localhost:1313/game/descent-3-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/destruction-derby/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/destruction-derby/</loc>
   </url><url>
     <loc>http://localhost:1313/game/deus-ex-nihilum/</loc>
@@ -1397,6 +1401,8 @@
     <loc>http://localhost:1313/game/fatal-frame-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/faust-seven-games-of-the-soul/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fear/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fheroes2-heroes-of-might-magic-2-recreation/</loc>
   </url><url>
@@ -1892,6 +1898,8 @@
   </url><url>
     <loc>http://localhost:1313/game/inazuma-eleven-strikers-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/indycar-racing/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/infernal/</loc>
   </url><url>
     <loc>http://localhost:1313/game/infested-island/</loc>
@@ -1907,6 +1915,8 @@
     <loc>http://localhost:1313/series/infinity-nikki/</loc>
   </url><url>
     <loc>http://localhost:1313/game/infinity-nikki-on-steam-deck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/innocent-until-caught-2-presumed-guilty/</loc>
   </url><url>
     <loc>http://localhost:1313/game/invincible/</loc>
   </url><url>
@@ -3294,6 +3304,8 @@
   </url><url>
     <loc>http://localhost:1313/game/rent-a-hero-no-1-dreamcast/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/reservoir-dogs/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/resident-evil/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-gameboy-colour/</loc>
@@ -3922,6 +3934,8 @@
   </url><url>
     <loc>http://localhost:1313/game/star-wars-shadows-of-the-empire-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/starcraft/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/stardew-valley/</loc>
   </url><url>
     <loc>http://localhost:1313/game/stardew-valley-a-voice-over-mod-for-all-love-interests/</loc>
@@ -4368,6 +4382,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-goonies-msx-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/the-house-of-the-dead/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/the-human-weapon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-human-weapon-dead-fox-nes/</loc>
@@ -4791,6 +4807,8 @@
     <loc>http://localhost:1313/game/virtua-racing-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/virtua-tennis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/virtual-on/</loc>
   </url><url>
     <loc>http://localhost:1313/series/virtual-pro-wrestling/</loc>
   </url><url>
