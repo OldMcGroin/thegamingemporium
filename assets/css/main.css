@@ -1236,6 +1236,25 @@ html[data-theme="light"] select{
   color: var(--text);
 }
 
+/* Light mode: topbar search + autocomplete dropdown */
+html[data-theme="light"] .search-input{
+  border: 1px solid rgba(0,0,0,0.14);
+  background: rgba(245,246,248,0.85);
+  color: var(--text);
+}
+html[data-theme="light"] .search-input:focus{ border-color: rgba(0,0,0,0.22); }
+
+html[data-theme="light"] .search-dropdown{
+  border: 1px solid rgba(0,0,0,0.14);
+  background: rgba(255,255,255,0.92);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.18);
+}
+html[data-theme="light"] .search-item{
+  color: var(--text);
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+html[data-theme="light"] .search-item:hover{ background: rgba(0,0,0,0.04); }
+
 /* Light mode: genre/category chip dropdown surfaces */
 html[data-theme="light"] .genre-dropdown-toggle{
   border: 1px solid rgba(0,0,0,0.14);

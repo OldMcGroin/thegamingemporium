@@ -25000,17 +25000,16 @@
   },
   {
     "id": 1918,
-    "title": "EF2000 - Complete",
+    "title": "Athens 2004",
     "category": "abandonware",
-    "link": "https://archive.org/details/fable-mr-abandonware",
-    "genre1": "combat-flight-simulator",
+    "link": "https://archive.org/details/athens-2004-repack",
+    "genre1": "sports",
     "genre2": "",
     "series": "",
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-22",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1919,
@@ -25621,22 +25620,21 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-22",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 1966,
-    "title": "Freedom Force vs The 3rd Reich",
+    "title": "Age Of Mythology",
     "category": "abandonware",
-    "link": "https://archive.org/details/freedom-force-vs-the-3rd-reich-repack",
+    "link": "https://archive.org/details/age-of-mythology-repack",
     "genre1": "strategy",
     "genre2": "",
     "series": "",
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-22",
-    "image": "",
-    "hidden": true
+    "image": ""
+
   },
   {
     "id": 1967,
@@ -25741,31 +25739,6 @@
     "notes": "",
     "date_added": "2026-02-22",
     "image": ""
-  },
-  {
-    "id": 1975,
-    "title": "Athens 2004",
-    "category": "abandonware",
-    "link": "https://archive.org/details/athens-2004-repack",
-    "genre1": "sports",
-    "genre2": "",
-    "series": "",
-    "video_link": "",
-    "notes": "",
-    "date_added": "2026-02-22",
-    "image": ""
-  },
-  {
-    "id": 1976,
-    "title": "Age Of Mythology",
-    "category": "abandonware",
-    "link": "https://archive.org/details/age-of-mythology-repack",
-    "genre1": "strategy",
-    "genre2": "",
-    "series": "",
-    "video_link": "",
-    "notes": "",
-    "date_added": "2026-02-22",
-    "image": ""
   }
+
 ]
