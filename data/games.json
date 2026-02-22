@@ -24750,6 +24750,45 @@
     "notes": "",
     "date_added": "2026-02-21",
     "image": ""
+    },
+    {
+    "id": 1900,
+    "title": "Journey: The Quest Begins",
+    "category": "abandonware",
+    "link": "https://archive.org/details/journey-the-quest-begins-mr-abandonware",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-21",
+    "image": ""
+    },
+    {
+    "id": 1901,
+    "title": "Jane's Combat Simulations: Longbow - Gold",
+    "category": "abandonware",
+    "link": "https://archive.org/details/jcs-longbow-gold-mr-abandonware",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "series": "Jane's Combat Simulations",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-21",
+    "image": ""
+    },
+    {
+    "id": 1902,
+    "title": "J.R.R. Tolkien's The Lord of the Rings Vol. II",
+    "category": "abandonware",
+    "link": "https://archive.org/details/lord-of-the-rings-volume-2-mr-abandonware",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "The Lord of the Rings",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-21",
+    "image": ""
     }
 
 
