@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 23 Feb 2026 01:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 01:37:21 +0000</lastBuildDate>
+    <item>
+      <title>Secret of Mana: Reborn</title>
+      <link>https://thegamingemporium.com/game/secret-of-mana-reborn/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/secret-of-mana-reborn/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/secret-of-mana-reborn.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/secret-of-mana-reborn.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/secret-of-mana-reborn.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/secret-of-mana-reborn.webp" alt="Secret of Mana: Reborn" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Secret of Mana · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/secret-of-mana-reborn.webp" alt="Secret of Mana: Reborn" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Secret of Mana · Genre: rpg, action]]></content:encoded>
+    </item>
     <item>
       <title>Super Junkoid DX​</title>
       <link>https://thegamingemporium.com/game/super-junkoid-dx/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" alt="The Beatles Adventures in Pepperland" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-beatles-adventures-in-pepperland.webp" alt="The Beatles Adventures in Pepperland" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Mario Kart Double Dash Retro Track Grand Prix</title>
-      <link>https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-double-dash-retro-track-grand-prix/</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-double-dash-retro-track-grand-prix.webp" alt="Mario Kart Double Dash Retro Track Grand Prix" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
