@@ -25752,6 +25752,45 @@
     "notes": "",
     "date_added": "2026-02-23",
     "image": ""
+  },
+  {
+    "id": 1976,
+    "title": "The Third of the Third - Street Fighter III: 3rd Strike Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/crowded-street/3sx",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Street Fighter",
+    "video_link": "https://youtu.be/KpQoX5QLgZI?si=dSqJQdckjoFKJomA",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1977,
+    "title": "Dragon Ball Z Budokai HD Recompiled",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/WistfulHopes/DBZ1",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1978,
+    "title": "Blue Dragon Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/rexglue/reblue",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Blue Dragon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
   }
 
 ]
