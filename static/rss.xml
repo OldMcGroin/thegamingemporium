@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 23 Feb 2026 02:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 09:43:44 +0000</lastBuildDate>
     <item>
       <title>Secret of Mana: Reborn</title>
       <link>https://thegamingemporium.com/game/secret-of-mana-reborn/</link>
@@ -49,6 +49,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/blue-dragon-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/blue-dragon-recompilation.webp" alt="Blue Dragon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Blue Dragon · Genre: rpg]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/blue-dragon-recompilation.webp" alt="Blue Dragon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Blue Dragon · Genre: rpg]]></content:encoded>
+    </item>
+    <item>
+      <title>Pyrite64 - N64 Game-Engine and Editor using libdragon &amp; tiny3d</title>
+      <link>https://thegamingemporium.com/game/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" alt="Pyrite64 - N64 Game-Engine and Editor using libdragon &amp; tiny3d" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" alt="Pyrite64 - N64 Game-Engine and Editor using libdragon &amp; tiny3d" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
     </item>
     <item>
       <title>Super Junkoid DX​</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>Fallout The New West</title>
-      <link>https://thegamingemporium.com/game/fallout-the-new-west/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-the-new-west/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" alt="Fallout The New West" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fallout · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-the-new-west.webp" alt="Fallout The New West" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fallout · Genre: rpg, action]]></content:encoded>
     </item>
   </channel>
 </rss>

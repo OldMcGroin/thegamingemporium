@@ -8,7 +8,7 @@ params:
   genre1: "rpg"
   genre2: ""
   series: "Blue Dragon"
-  video_link: ""
+  video_link: "https://youtu.be/vS95LWl0R5A?si=0rBfvUkTUYJ9Gap5"
   date_added: "2026-02-23"
   image: ""
 ---
