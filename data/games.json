@@ -25804,6 +25804,71 @@
     "notes": "",
     "date_added": "2026-02-23",
     "image": ""
+  },
+  {
+    "id": 1980,
+    "title": "Streets of Rage 2: Andore’s Rampage",
+    "category": "rom-hacks",
+    "link": "https://romhackplaza.org/romhacks/streets-of-rage-2-andores-rampage-genesis/",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Streets of Rage",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1981,
+    "title": "Monster Hunter Portable 3rd - PSP",
+    "category": "english-translation-patches",
+    "link": "https://www.youtube.com/watch?v=ucsGdmTjS2M",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Monster Hunter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1982,
+    "title": "What A Mario World!",
+    "category": "fan-games",
+    "link": "https://ralshi.itch.io/what-a-mario-world",
+    "genre1": "'platformer'",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/PLAfJ31bWgc?si=Z00LCZCc6QPLMYOg",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1983,
+    "title": "Aurora OS.js",
+    "category": "open-source",
+    "link": "https://github.com/mental-os/Aurora-OS.js",
+    "genre1": "'hacking-simulator'",
+    "genre2": "",
+    "series": "Aurora",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
+  },
+  {
+    "id": 1984,
+    "title": "Fallout: Vault 666",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/fallout-vault-666/downloads/fallout-vault-666",
+    "genre1": "'first-person-shooter'",
+    "genre2": "",
+    "series": "Fallout",
+    "video_link": "https://youtu.be/sGZDXzfUeGk?si=E46i7QQniMZLw65b",
+    "notes": "",
+    "date_added": "2026-02-23",
+    "image": ""
   }
 
 ]

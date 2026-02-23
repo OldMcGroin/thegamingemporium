@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 23 Feb 2026 09:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 10:27:12 +0000</lastBuildDate>
     <item>
       <title>Secret of Mana: Reborn</title>
       <link>https://thegamingemporium.com/game/secret-of-mana-reborn/</link>
@@ -60,6 +60,61 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" alt="Pyrite64 - N64 Game-Engine and Editor using libdragon &amp; tiny3d" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pyrite64-n64-game-engine-and-editor-using-libdragon-tiny3d.webp" alt="Pyrite64 - N64 Game-Engine and Editor using libdragon &amp; tiny3d" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Streets of Rage 2: Andore’s Rampage</title>
+      <link>https://thegamingemporium.com/game/streets-of-rage-2-andore-s-rampage/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/streets-of-rage-2-andore-s-rampage/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/streets-of-rage-2-andore-s-rampage.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/streets-of-rage-2-andore-s-rampage.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/streets-of-rage-2-andore-s-rampage.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/streets-of-rage-2-andore-s-rampage.webp" alt="Streets of Rage 2: Andore’s Rampage" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Streets of Rage · Genre: beat em up]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/streets-of-rage-2-andore-s-rampage.webp" alt="Streets of Rage 2: Andore’s Rampage" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Streets of Rage · Genre: beat em up]]></content:encoded>
+    </item>
+    <item>
+      <title>Monster Hunter Portable 3rd - PSP</title>
+      <link>https://thegamingemporium.com/game/monster-hunter-portable-3rd-psp/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/monster-hunter-portable-3rd-psp/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-psp.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-psp.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-psp.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-psp.webp" alt="Monster Hunter Portable 3rd - PSP" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Monster Hunter · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-psp.webp" alt="Monster Hunter Portable 3rd - PSP" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Monster Hunter · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>What A Mario World!</title>
+      <link>https://thegamingemporium.com/game/what-a-mario-world/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/what-a-mario-world/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/what-a-mario-world.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/what-a-mario-world.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/what-a-mario-world.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/what-a-mario-world.webp" alt="What A Mario World!" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Super Mario · Genre: 'platformer']]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/what-a-mario-world.webp" alt="What A Mario World!" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Super Mario · Genre: 'platformer']]></content:encoded>
+    </item>
+    <item>
+      <title>Aurora OS.js</title>
+      <link>https://thegamingemporium.com/game/aurora-os-js/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/aurora-os-js/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/aurora-os-js.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/aurora-os-js.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/aurora-os-js.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/aurora-os-js.webp" alt="Aurora OS.js" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Aurora · Genre: 'hacking simulator']]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/aurora-os-js.webp" alt="Aurora OS.js" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Aurora · Genre: 'hacking simulator']]></content:encoded>
+    </item>
+    <item>
+      <title>Fallout: Vault 666</title>
+      <link>https://thegamingemporium.com/game/fallout-vault-666/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-vault-666/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fallout-vault-666.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fallout-vault-666.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fallout-vault-666.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-vault-666.webp" alt="Fallout: Vault 666" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: 'first person shooter']]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-vault-666.webp" alt="Fallout: Vault 666" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: 'first person shooter']]></content:encoded>
     </item>
     <item>
       <title>Super Junkoid DX​</title>
@@ -500,61 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" alt="WoWee World Of Warcraft Engine Experiment​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Warcraft · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wowee-world-of-warcraft-engine-experiment.webp" alt="WoWee World Of Warcraft Engine Experiment​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Warcraft · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Mystical Ninja Starring Goemon Recompilation Mods​</title>
-      <link>https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-mods/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-mods.webp" alt="Mystical Ninja Starring Goemon Recompilation Mods​" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mystical Ninja · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenCiv3</title>
-      <link>https://thegamingemporium.com/game/openciv3/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/openciv3/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openciv3.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/openciv3.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/openciv3.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openciv3.webp" alt="OpenCiv3" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Civilisation · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Isometric Games Don't Exist</title>
-      <link>https://thegamingemporium.com/game/isometric-games-don-t-exist/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/isometric-games-don-t-exist/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" alt="Isometric Games Don't Exist" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/isometric-games-don-t-exist.webp" alt="Isometric Games Don't Exist" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Guides · Genre: guides]]></content:encoded>
-    </item>
-    <item>
-      <title>Xenosaga Episode I Der Wille zur Macht Decompilation</title>
-      <link>https://thegamingemporium.com/game/xenosaga-episode-i-der-wille-zur-macht-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/xenosaga-episode-i-der-wille-zur-macht-decompilation/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" alt="Xenosaga Episode I Der Wille zur Macht Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Xenosaga · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xenosaga-episode-i-der-wille-zur-macht-decompilation.webp" alt="Xenosaga Episode I Der Wille zur Macht Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Xenosaga · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation</title>
-      <link>https://thegamingemporium.com/game/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/touhou-koumakyou-the-embodiment-of-scarlet-devil-decompilation.webp" alt="Touhou Koumakyou The Embodiment of Scarlet Devil Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Touhou · Genre: shoot em up]]></content:encoded>
     </item>
   </channel>
 </rss>

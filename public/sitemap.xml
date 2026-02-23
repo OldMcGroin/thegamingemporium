@@ -222,6 +222,10 @@
   </url><url>
     <loc>http://localhost:1313/series/augustus/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/aurora/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/aurora-os-js/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/automation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/avatar/</loc>
@@ -1375,6 +1379,8 @@
     <loc>http://localhost:1313/game/fallout-the-new-west/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-bakersfield-doom-total-conversion-mod-gzdoom-wad/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fallout-vault-666/</loc>
   </url><url>
     <loc>http://localhost:1313/game/famicom-fighters/</loc>
   </url><url>
@@ -2587,6 +2593,8 @@
     <loc>http://localhost:1313/game/monster-hunter-frontier-z-steam-deck-guide/</loc>
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-portable-3rd-playstation-portable/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/monster-hunter-portable-3rd-psp/</loc>
   </url><url>
     <loc>http://localhost:1313/game/moonring/</loc>
   </url><url>
@@ -4004,6 +4012,8 @@
   </url><url>
     <loc>http://localhost:1313/game/streets-of-rage-2-teenage-mutant-ninja-turtles-hack/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/streets-of-rage-2-andore-s-rampage/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/streets-of-rage-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/series/stunt-car-racer/</loc>
@@ -4895,6 +4905,8 @@
     <loc>http://localhost:1313/series/welcome-house/</loc>
   </url><url>
     <loc>http://localhost:1313/game/welcome-house-2-keaton-and-his-uncle-playstation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/what-a-mario-world/</loc>
   </url><url>
     <loc>http://localhost:1313/series/who-shot-johnny-rock/</loc>
   </url><url>
