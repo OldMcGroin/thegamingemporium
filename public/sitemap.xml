@@ -1274,6 +1274,8 @@
   </url><url>
     <loc>http://localhost:1313/series/elvira/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/embers-of-mana/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/emerald-dragon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/emerald-dragon-pc-engine-cd/</loc>
@@ -1889,6 +1891,8 @@
     <loc>http://localhost:1313/series/idolmaster-sp-perfect-sun-wondering-star-and-missing-moon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/idolmaster-sp-perfect-sun-wondering-star-missing-moon-psp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ikemen/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ikenie-no-yoru/</loc>
   </url><url>
@@ -2956,6 +2960,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/party-game/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pasta-la-vista-super-mario-bros/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/patlabor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/patlabor-mega-drive-genesis/</loc>
@@ -3945,6 +3951,8 @@
     <loc>http://localhost:1313/game/star-wars-battlefront-2-remaster-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-battlefront-ii-private-server-and-mod-launcher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/star-wars-jedi-survivor-camera-and-animation-stutter-fix/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-x-wing-special-edition-xwvm/</loc>
   </url><url>
