@@ -25921,6 +25921,58 @@
     "notes": "",
     "date_added": "2026-02-26",
     "image": ""
+  },
+  {
+    "id": 1989,
+    "title": "Usurper Reborn",
+    "category": "open-source",
+    "link": "https://github.com/binary-knight/usurper-reborn",
+    "genre1": "rpg",
+    "genre2": "Persistent Online Text RPG",
+    "series": "Usurper",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-28",
+    "image": ""
+  },
+  {
+    "id": 1990,
+    "title": "Valkyria Chronicles 3 - PSP",
+    "category": "english-translation-patch",
+    "link": "https://www.youtube.com/watch?v=Q959IdFo6_g",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Valkyria Chronicles",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-28",
+    "image": ""
+  },
+  {
+    "id": 1990,
+    "title": "Ninja Gaiden II Recompilation",
+    "category": "in-the-works",
+    "link": "https://youtu.be/iEXDW2_4ffw?si=9zKyApbJwq75U0R1",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Ninja Gaiden",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-28",
+    "image": ""
+  },
+  {
+    "id": 1991,
+    "title": "The Wind Waker Rewritten",
+    "category": "rom-hacks",
+    "link": "https://www.romhacking.net/hacks/7002/",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-02-28",
+    "image": ""
   }
 
 ]

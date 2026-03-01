@@ -2764,6 +2764,8 @@
   </url><url>
     <loc>http://localhost:1313/series/ninja-gaiden/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ninja-gaiden-ii-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/ninja-gaiden-shadow-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ninja-gaiden-trilogy-snes-port/</loc>
@@ -4558,6 +4560,8 @@
   </url><url>
     <loc>http://localhost:1313/series/the-wheel-of-time/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-wind-waker-rewritten/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/the-witcher/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-witcher-3-brothers-in-arms-mod/</loc>
@@ -4790,6 +4794,10 @@
   </url><url>
     <loc>http://localhost:1313/series/unvanquished/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/usurper/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/usurper-reborn/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/utilities/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/utility/</loc>
@@ -4799,6 +4807,10 @@
     <loc>http://localhost:1313/game/vagrant-story-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/vagrant-story-on-duckstation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/valkyria-chronicles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/valkyria-chronicles-3-psp/</loc>
   </url><url>
     <loc>http://localhost:1313/series/vampire-panic/</loc>
   </url><url>
