@@ -26012,6 +26012,97 @@
     "notes": "",
     "date_added": "2026-03-03",
     "image": ""
+  },
+  {
+    "id": 1995,
+    "title": "Metal Gear Solid V: The Phantom Pain - Ground Zeroes",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/metalgearsolidvtpp/mods/2402",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Metal Gear",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1996,
+    "title": "The Tairyou Jigoku - PS2",
+    "category": "english-translation-patches",
+    "link": "https://romhack.ing/database/content/entry/sHfHRZI6QEKlylE337Gnng/the-tairyou-jigoku-english-translation",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "The Tairyou Jigoku",
+    "video_link": "https://youtu.be/I9BVijm93wA?si=Qu5Fn2e_kCl5m07o",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1997,
+    "title": "Keitai World Launcher",
+    "category": "utility",
+    "link": "https://keitaiarchive.org/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1998,
+    "title": "Duke Nukem Zero Hour Recompilation First Person Mod",
+    "category": "decompilations-recompilations",
+    "link": "https://dnzh-fps.netlify.app/",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Duke Nukem",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1999,
+    "title": "Fallout New Vegas - For A Few Brahmin More",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/newvegas/mods/96464",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Fallout",
+    "video_link": "https://youtu.be/47MvmXTHrIE?si=IVPP765j0PyUUOaH",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 2000,
+    "title": "Bloodborne - HardBorne Overhaul Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/bloodborne/mods/462?tab=description",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Bloodborne",
+    "video_link": "https://youtu.be/gCDrwgkphM0?si=JHi228-30kH_570C",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 2001,
+    "title": "Cyberpunk 2077 Unofficial DLC 2",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/cyberpunk2077/mods/22745",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Cyberpunk 2077",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
   }
 
 ]
