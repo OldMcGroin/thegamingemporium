@@ -3048,6 +3048,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemon-battle-revolution-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemon-crossroads/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pokemon-dark-rising/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-emerald-seaglass/</loc>
@@ -3179,6 +3181,10 @@
     <loc>http://localhost:1313/game/princess-crown-sega-saturn/</loc>
   </url><url>
     <loc>http://localhost:1313/series/private-eye/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/prize-fighter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/prize-fighter-heavyweight-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/series/pro-evolution-soccer/</loc>
   </url><url>
@@ -4357,6 +4363,8 @@
     <loc>http://localhost:1313/series/tetris/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tetris-rosy-retrospection-dx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tetrominos/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/text-adventure/</loc>
   </url><url>

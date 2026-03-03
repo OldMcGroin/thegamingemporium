@@ -25973,6 +25973,45 @@
     "notes": "",
     "date_added": "2026-02-28",
     "image": ""
+  },
+  {
+    "id": 1992,
+    "title": "Pokemon Crossroads",
+    "category": "rom-hacks",
+    "link": "https://github.com/eonlynx/pokecrossroads",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1993,
+    "title": "Tetrominos",
+    "category": "open-source",
+    "link": "https://github.com/giraffekey/tetermino",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Tetris",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
+  },
+  {
+    "id": 1994,
+    "title": "Prize Fighter Heavyweight Edition",
+    "category": "preserved-games",
+    "link": "https://archive.org/details/prize-fighter-heavyweight-edition-saturn",
+    "genre1": "sports",
+    "genre2": "fighting",
+    "series": "Prize Fighter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-03",
+    "image": ""
   }
 
 ]
