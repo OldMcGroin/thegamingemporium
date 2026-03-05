@@ -572,6 +572,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-order-of-ecclesia-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-order-of-shadows-golden-belmont/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-revamped/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-simon-s-destiny-a-total-conversion-doom-mod/</loc>
@@ -1535,6 +1537,8 @@
     <loc>http://localhost:1313/game/flightgear/</loc>
   </url><url>
     <loc>http://localhost:1313/series/flightgear/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/forza/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fpc-atomic-atomic-bomberman-reimplimentation/</loc>
   </url><url>
@@ -2791,6 +2795,8 @@
     <loc>http://localhost:1313/game/not-tetris-2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/nox/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/nx-optimizer/</loc>
   </url><url>
     <loc>http://localhost:1313/game/oathbreaker/</loc>
   </url><url>
