@@ -4,7 +4,7 @@ url: "/game/pasta-la-vista-super-mario-bros/"
 type: game
 params:
   external_link: "https://www.smwcentral.net/?p=viewthread&t=131870&page=1&pid=1661675"
-  category: "fan games"
+  category: "fan-games"
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"
