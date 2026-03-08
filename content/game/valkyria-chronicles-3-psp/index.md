@@ -4,7 +4,7 @@ url: "/game/valkyria-chronicles-3-psp/"
 type: game
 params:
   external_link: "https://www.youtube.com/watch?v=Q959IdFo6_g"
-  category: "english-translation-patch"
+  category: "english-translation-patches"
   genre1: "rpg"
   genre2: ""
   series: "Valkyria Chronicles"

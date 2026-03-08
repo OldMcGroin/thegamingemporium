@@ -15,8 +15,8 @@
     {{/* Backwards-compat: old slug was "source-port"; new slug is "open-source" */}}
     {{ $c := . }}
     {{ if eq $c "source-port" }}{{ $c = "open-source" }}{{ end }}
-    {{/* Hide removed categories from the Categories grid */}}
-    {{ if ne $c "native-pc-port" }}
+    {{/* Hide removed / duplicate categories from the Categories grid */}}
+    {{ if and (ne $c "native-pc-port") (ne $c "preserved-games") }}
       {{ $cats = $cats | append $c }}
     {{ end }}
   {{ end }}

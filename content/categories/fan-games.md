@@ -1,4 +1,4 @@
 ---
-title: "Fan Games"
+title: "Fan Games & Homebrew"
 slug: "fan-games"
 ---
