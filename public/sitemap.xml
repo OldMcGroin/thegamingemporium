@@ -30,6 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/game/a-more-modern-nightmare-in-dream-land/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/a-super-mario-world/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/abandonware/</loc>
   </url><url>
     <loc>http://localhost:1313/series/abes-odyssey/</loc>
@@ -668,6 +670,10 @@
   </url><url>
     <loc>http://localhost:1313/series/chris-sawyers-locomotion/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/chrono-cross/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/chrono-cross-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/chrono-trigger/</loc>
   </url><url>
     <loc>http://localhost:1313/game/chrono-trigger-pixel-demaster-mod/</loc>
@@ -813,6 +819,8 @@
     <loc>http://localhost:1313/game/crash-bandicoot-2-cortex-strikes-back-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crash-tag-team-racing-gamecube-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-team-racing-decompilation/</loc>
   </url><url>
@@ -1057,6 +1065,10 @@
     <loc>http://localhost:1313/game/disney-s-piglet-s-big-game-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dmc3-crimson-devil-may-cry-3-hd-collection-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/dogs-life/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dog-s-life-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dogwalk/</loc>
   </url><url>
@@ -1794,6 +1806,8 @@
   </url><url>
     <loc>http://localhost:1313/game/halo-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/halo-reach-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/halo-zero/</loc>
   </url><url>
     <loc>http://localhost:1313/series/harmonist/</loc>
@@ -2084,6 +2098,8 @@
   </url><url>
     <loc>http://localhost:1313/game/kirby-air-ride-deluxe/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/kirby-s-dream-collection-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/kirby-s-dream-land-2-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kirby-s-dream-land-dx/</loc>
@@ -2155,6 +2171,8 @@
     <loc>http://localhost:1313/series/legend-of-legaia/</loc>
   </url><url>
     <loc>http://localhost:1313/game/legend-of-legaia-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/legend-of-mana-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/legend-of-the-mana-sword/</loc>
   </url><url>
@@ -3130,6 +3148,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemon-uranium/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemon-xd-gale-of-darkness-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pokepark-wii-pikachu-s-adventure-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/poker-night-double-pack/</loc>
@@ -3321,6 +3341,8 @@
     <loc>http://localhost:1313/series/re-volt/</loc>
   </url><url>
     <loc>http://localhost:1313/series/reach-for-the-skies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/readym/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/real-time-strategy/</loc>
   </url><url>
@@ -3657,6 +3679,8 @@
     <loc>http://localhost:1313/series/silent-hill/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silent-hill-2-enhanced-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/silent-hill-3-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silent-hill-decompilation/</loc>
   </url><url>
