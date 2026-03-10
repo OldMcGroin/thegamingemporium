@@ -26363,6 +26363,32 @@
     "notes": "",
     "date_added": "2026-03-08",
     "image": ""
+  },
+  {
+    "id": 2022,
+    "title": "The Legend of Zelda: Ocarina Of Time Dreamcast Port",
+    "category": "in-the-works",
+    "link": "https://youtu.be/j2JTcDY9LI4?si=DJCiIOeU5CAbjZ4w",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-10",
+    "image": ""
+  },
+  {
+    "id": 2023,
+    "title": "Resident Evil Requiem - Xenomorph Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/residentevilrequiem/mods/510?tab=description",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/BD3XHYgeXbw?si=avEpPMQPbXjDQrtQ",
+    "notes": "",
+    "date_added": "2026-03-10",
+    "image": ""
   }
 
 ]
