@@ -26402,6 +26402,32 @@
     "notes": "",
     "date_added": "2026-03-10",
     "image": ""
+  },
+  {
+    "id": 2025,
+    "title": "Celeste Classic Sega Saturn Port",
+    "category": "console-ports",
+    "link": "https://en83.itch.io/celeste-classic-for-sega-saturn",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Celeste",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-11",
+    "image": ""
+  },
+  {
+    "id": 2026,
+    "title": "Rise Of The Tomb Raider HD 4K 8K Texture Collection",
+    "category": "texture-packs",
+    "link": "https://www.nexusmods.com/riseofthetombraider/mods/214?tab=description",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Tomb Raider",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-11",
+    "image": ""
   }
 
 ]
