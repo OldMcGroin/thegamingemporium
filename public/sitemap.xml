@@ -356,6 +356,10 @@
   </url><url>
     <loc>http://localhost:1313/game/big-brother/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/billy-frontier/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/billy-frontier/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/billy-hatcher/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bio-force-ape/</loc>
@@ -483,6 +487,12 @@
     <loc>http://localhost:1313/series/buck-rogers/</loc>
   </url><url>
     <loc>http://localhost:1313/series/budokai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bugdom/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/bugdom/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bugdom-2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bully/</loc>
   </url><url>
@@ -2576,6 +2586,10 @@
   </url><url>
     <loc>http://localhost:1313/game/mighty-final-fight-forever/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/mighty-mike/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mighty-mike-power-pete/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/mike-tysons-punch-out/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mike-tyson-s-punch-out-snes-port/</loc>
@@ -2707,6 +2721,12 @@
     <loc>http://localhost:1313/series/nanatsu-no-hikan/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nanatsu-no-hikan-senritsu-no-bishou-dreamcast/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/nanosaur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/nanosaur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/nanosaur-2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/naruto/</loc>
   </url><url>
@@ -2944,6 +2964,10 @@
   </url><url>
     <loc>http://localhost:1313/game/osu-lazer/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/otto-matic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/otto-matic/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/ougon-no-kizuna/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ougon-no-kizuna-wii/</loc>
@@ -3085,6 +3109,8 @@
     <loc>http://localhost:1313/game/pokemmo/</loc>
   </url><url>
     <loc>http://localhost:1313/series/pokemon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-aether-white-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-battle-revolution-decompilation/</loc>
   </url><url>

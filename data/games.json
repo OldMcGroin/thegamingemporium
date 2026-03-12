@@ -26441,6 +26441,111 @@
     "notes": "",
     "date_added": "2026-03-12",
     "image": ""
+  },
+  {
+    "id": 2028,
+    "title": "Pokemon Aether White 2",
+    "category": "rom-hacks",
+    "link": "https://youtu.be/SEDNNMH2DSk?si=IZFkSKdYzYMq0YhK",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2029,
+    "title": "Bugdom",
+    "category": "open-source",
+    "link": "https://github.com/jorio/Bugdom?tab=readme-ov-file",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Bugdom",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2030,
+    "title": "Bugdom 2",
+    "category": "open-source",
+    "link": "https://github.com/jorio/Bugdom2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Bugdom",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2031,
+    "title": "Billy Frontier",
+    "category": "open-source",
+    "link": "https://github.com/jorio/BillyFrontier",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Billy Frontier",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2032,
+    "title": "Mighty Mike - Power Pete",
+    "category": "open-source",
+    "link": "https://github.com/jorio/MightyMike",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Mighty Mike",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2033,
+    "title": "Nanosaur",
+    "category": "open-source",
+    "link": "https://github.com/jorio/Nanosaur",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Nanosaur",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2034,
+    "title": "Nanosaur 2",
+    "category": "open-source",
+    "link": "https://github.com/jorio/Nanosaur2",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Nanosaur",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
+  },
+  {
+    "id": 2035,
+    "title": "Otto Matic",
+    "category": "open-source",
+    "link": "https://github.com/jorio/OttoMatic",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Otto Matic",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-12",
+    "image": ""
   }
+
 
 ]
