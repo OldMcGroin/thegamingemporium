@@ -26649,6 +26649,45 @@
     "notes": "",
     "date_added": "2026-03-14",
     "image": ""
+  },
+  {
+    "id": 2044,
+    "title": "Zombie Panic!",
+    "category": "mods",
+    "link": "https://store.steampowered.com/app/3825360/Zombie_Panic/",
+    "genre1": "first-person-shooter",
+    "genre2": "survival-horror",
+    "series": "Half Life",
+    "video_link": "https://youtu.be/3vqcN8pN6AM?si=xBTKzm7jj215-eeD",
+    "notes": "",
+    "date_added": "2026-03-15",
+    "image": ""
+  },
+  {
+    "id": 2045,
+    "title": "Lupin III: The Sage of Pyramid - Sega Saturn",
+    "category": "english-translation-patches",
+    "link": "https://romhack.ing/database/content/entry/XJ5SNtjQSvK5-CLf2YUFeg/lupin-iii-the-sage-of-pyramid-english-translation",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Lupin",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-15",
+    "image": ""
+  },
+  {
+    "id": 2046,
+    "title": "Bubble Buddies",
+    "category": "fan-games",
+    "link": "https://geon3.itch.io/buddies",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Bubble Bobble",
+    "video_link": "https://youtu.be/zjlpx_O9ToY?si=qC6iq3X3Ygxo_Av5",
+    "notes": "",
+    "date_added": "2026-03-15",
+    "image": ""
   }
 
 
