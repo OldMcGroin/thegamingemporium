@@ -26727,6 +26727,32 @@
     "notes": "",
     "date_added": "2026-03-17",
     "image": ""
+  },
+  {
+    "id": 2050,
+    "title": "Minecraft - Arnis",
+    "category": "open-source",
+    "link": "https://arnismc.com/",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "Minecraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-18",
+    "image": ""
+  },
+  {
+    "id": 2051,
+    "title": "Baldur's Gate 3 - Baldur's Gate 1 Remake Demo",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/baldursgate3/mods/18315",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Baldur's Gate",
+    "video_link": "https://youtu.be/uIpfpWr6Zyc?si=yuBQeqZtNBb1QUYx",
+    "notes": "",
+    "date_added": "2026-03-18",
+    "image": ""
   }
 
 
