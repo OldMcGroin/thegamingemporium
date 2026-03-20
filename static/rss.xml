@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 20 Mar 2026 21:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 21:58:39 +0000</lastBuildDate>
     <item>
       <title>Animal Crossing PC Port HD Texture Pack</title>
       <link>https://thegamingemporium.com/game/animal-crossing-pc-port-hd-texture-pack/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/animal-crossing-pc-port-hd-texture-pack.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/animal-crossing-pc-port-hd-texture-pack.webp" alt="Animal Crossing PC Port HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Animal Crossing · Genre: life simulator, sandbox]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/animal-crossing-pc-port-hd-texture-pack.webp" alt="Animal Crossing PC Port HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Animal Crossing · Genre: life simulator, sandbox]]></content:encoded>
+    </item>
+    <item>
+      <title>Resident Evil Requiem VR Mod</title>
+      <link>https://thegamingemporium.com/game/resident-evil-requiem-vr-mod/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-requiem-vr-mod/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-vr-mod.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-vr-mod.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-vr-mod.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-vr-mod.webp" alt="Resident Evil Requiem VR Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-vr-mod.webp" alt="Resident Evil Requiem VR Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></content:encoded>
     </item>
     <item>
       <title>Minecraft - Arnis</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/keitai-world-launcher.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/keitai-world-launcher.webp" alt="Keitai World Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/keitai-world-launcher.webp" alt="Keitai World Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Duke Nukem Zero Hour Recompilation First Person Mod</title>
-      <link>https://thegamingemporium.com/game/duke-nukem-zero-hour-recompilation-first-person-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/duke-nukem-zero-hour-recompilation-first-person-mod/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/duke-nukem-zero-hour-recompilation-first-person-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/duke-nukem-zero-hour-recompilation-first-person-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/duke-nukem-zero-hour-recompilation-first-person-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duke-nukem-zero-hour-recompilation-first-person-mod.webp" alt="Duke Nukem Zero Hour Recompilation First Person Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duke Nukem · Genre: third person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duke-nukem-zero-hour-recompilation-first-person-mod.webp" alt="Duke Nukem Zero Hour Recompilation First Person Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duke Nukem · Genre: third person shooter]]></content:encoded>
     </item>
   </channel>
 </rss>
