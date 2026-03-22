@@ -26818,6 +26818,97 @@
     "notes": "",
     "date_added": "2026-03-22",
     "image": ""
+  },
+  {
+    "id": 2057,
+    "title": "Klonoa: Empire of Dreams Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Dream-Atelier/kl-eod-decomp",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Klonoa",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2058,
+    "title": "Black & White Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/openblack/bw1-decomp",
+    "genre1": "god-simulator",
+    "genre2": "strategy",
+    "series": "Black & White",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2059,
+    "title": "Monster Hunter Portable 2nd G Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/tclamb/mhp2g-decomp",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Monster Hunter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2060,
+    "title": "New Play Control! Pikmin Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/projectPiki/pik1wii",
+    "genre1": "strategy",
+    "genre2": "action",
+    "series": "Pikmin",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2060,
+    "title": "New Play Control! Pikmin 2 Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/projectPiki/pik2wii",
+    "genre1": "strategy",
+    "genre2": "action",
+    "series": "Pikmin",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2061,
+    "title": "Tetris Browser Based",
+    "category": "open-source",
+    "link": "https://mehmetmhy.github.io/tetris/",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Tetris",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2062,
+    "title": "Crimson Desert AHK Hotkeys for Jogging Sprint and Esc Menus",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/crimsondesert/mods/47",
+    "genre1": "rpg",
+    "genre2": "sandbox",
+    "series": "Crimson Desert",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
   }
 
 

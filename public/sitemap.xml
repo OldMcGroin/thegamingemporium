@@ -388,6 +388,8 @@
   </url><url>
     <loc>http://localhost:1313/series/black-and-white/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/black-white-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/black-dahlia/</loc>
   </url><url>
     <loc>http://localhost:1313/game/black-mesa-military/</loc>
@@ -855,6 +857,10 @@
     <loc>http://localhost:1313/game/crash-twinsanity-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/series/crazy-taxi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/crimson-desert/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crimson-desert-ahk-hotkeys-for-jogging-sprint-and-esc-menus/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cro-mag-rally/</loc>
   </url><url>
@@ -2146,6 +2152,8 @@
   </url><url>
     <loc>http://localhost:1313/game/klonoa-2-lunatea-s-veil-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/klonoa-empire-of-dreams-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/knife-edge/</loc>
   </url><url>
     <loc>http://localhost:1313/game/knife-edge-nose-gunner-decompilation/</loc>
@@ -2670,6 +2678,8 @@
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-frontier-z-steam-deck-guide/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/monster-hunter-portable-2nd-g-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/monster-hunter-portable-3rd-playstation-portable/</loc>
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-portable-3rd-psp/</loc>
@@ -2805,6 +2815,10 @@
     <loc>http://localhost:1313/game/neverball/</loc>
   </url><url>
     <loc>http://localhost:1313/series/neverball/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/new-play-control-pikmin-2-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/new-play-control-pikmin-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/new-super-mario-bros-u-decompilation/</loc>
   </url><url>
@@ -4479,6 +4493,8 @@
     <loc>http://localhost:1313/series/test-drive-unlimited/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tetris/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tetris-browser-based/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tetris-rosy-retrospection-dx/</loc>
   </url><url>
