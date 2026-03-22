@@ -1012,6 +1012,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/deck-builder/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/deckops/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/decompilations-recompilations/</loc>
   </url><url>
     <loc>http://localhost:1313/game/definitive-guide-to-rom-hacking-for-complete-beginners/</loc>
@@ -2869,6 +2871,10 @@
     <loc>http://localhost:1313/game/oblivion-oscuro-s-overhaul/</loc>
   </url><url>
     <loc>http://localhost:1313/game/oblivion-remastered-glock-functional-gun-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/oblivion-remastered-battlehorn-castle-expansion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/oblivion-remastered-citylord-series-the-fight-club/</loc>
   </url><url>
     <loc>http://localhost:1313/series/obsidian/</loc>
   </url><url>

@@ -26779,6 +26779,45 @@
     "notes": "",
     "date_added": "2026-03-20",
     "image": ""
+  },
+  {
+    "id": 2054,
+    "title": "DeckOps",
+    "category": "utility",
+    "link": "https://github.com/GalvarinoDev/DeckOps",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "Call of Duty",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2055,
+    "title": "Oblivion Remastered CityLord Series The Fight Club",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/oblivionremastered/mods/5330",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Elder Scrolls",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
+  },
+  {
+    "id": 2056,
+    "title": "Oblivion Remastered Battlehorn Castle Expansion",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/oblivionremastered/mods/5347",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Elder Scrolls",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-22",
+    "image": ""
   }
 
 
