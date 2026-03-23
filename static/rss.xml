@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 23 Mar 2026 22:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:11:09 +0000</lastBuildDate>
     <item>
       <title>Bomberman 64 Recompilation</title>
       <link>https://thegamingemporium.com/game/bomberman-64-recompilation/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>MHServerEmu - Marvel Heroes MMO Fan Server</title>
+      <link>https://thegamingemporium.com/game/mhserveremu-marvel-heroes-mmo-fan-server/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mhserveremu-marvel-heroes-mmo-fan-server/</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" alt="MHServerEmu - Marvel Heroes MMO Fan Server" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: MMORPG, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" alt="MHServerEmu - Marvel Heroes MMO Fan Server" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: MMORPG, action]]></content:encoded>
     </item>
     <item>
       <title>DeckOps</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" alt="Crash Tag Team Racing Gamecube Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" alt="Crash Tag Team Racing Gamecube Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Kirby's Dream Collection Decompilation</title>
-      <link>https://thegamingemporium.com/game/kirby-s-dream-collection-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/kirby-s-dream-collection-decompilation/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" alt="Kirby's Dream Collection Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Kirby · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" alt="Kirby's Dream Collection Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Kirby · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>
