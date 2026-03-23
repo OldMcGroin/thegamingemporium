@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 22 Mar 2026 23:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:04:49 +0000</lastBuildDate>
+    <item>
+      <title>Bomberman 64 Recompilation</title>
+      <link>https://thegamingemporium.com/game/bomberman-64-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bomberman-64-recompilation/</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></content:encoded>
+    </item>
     <item>
       <title>DeckOps</title>
       <link>https://thegamingemporium.com/game/deckops/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" alt="Kirby's Dream Collection Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Kirby · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-dream-collection-decompilation.webp" alt="Kirby's Dream Collection Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Kirby · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Dog's Life Decompilation</title>
-      <link>https://thegamingemporium.com/game/dog-s-life-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dog-s-life-decompilation/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dog-s-life-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dog-s-life-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dog-s-life-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dog-s-life-decompilation.webp" alt="Dog's Life Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Dog's Life · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dog-s-life-decompilation.webp" alt="Dog's Life Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Dog's Life · Genre: action, adventure]]></content:encoded>
     </item>
   </channel>
 </rss>

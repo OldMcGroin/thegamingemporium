@@ -456,6 +456,8 @@
   </url><url>
     <loc>http://localhost:1313/series/bomberman/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/bomberman-64-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/bomberman-hero-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/boneforge-battlegrounds/</loc>
