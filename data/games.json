@@ -26935,6 +26935,32 @@
     "notes": "",
     "date_added": "2026-03-23",
     "image": ""
+  },
+  {
+    "id": 2065,
+    "title": "Heretic II Source Port",
+    "category": "open-source",
+    "link": "https://github.com/m-x-d/Heretic2R",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-24",
+    "image": ""
+  },
+  {
+    "id": 2066,
+    "title": "RE:Enhance",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/reenhance-re1/news/reenhance-re1-version-20-is-out",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-24",
+    "image": ""
   }
 
 

@@ -5,7 +5,29 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 23 Mar 2026 23:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 23:08:02 +0000</lastBuildDate>
+    <item>
+      <title>Heretic II Source Port</title>
+      <link>https://thegamingemporium.com/game/heretic-ii-source-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/heretic-ii-source-port/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/heretic-ii-source-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/heretic-ii-source-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/heretic-ii-source-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/heretic-ii-source-port.webp" alt="Heretic II Source Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/heretic-ii-source-port.webp" alt="Heretic II Source Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>RE:Enhance</title>
+      <link>https://thegamingemporium.com/game/re-enhance/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/re-enhance/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/re-enhance.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/re-enhance.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/re-enhance.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/re-enhance.webp" alt="RE:Enhance" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/re-enhance.webp" alt="RE:Enhance" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: survival horror]]></content:encoded>
+    </item>
     <item>
       <title>Bomberman 64 Recompilation</title>
       <link>https://thegamingemporium.com/game/bomberman-64-recompilation/</link>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-3-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-3-decompilation.webp" alt="Silent Hill 3 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Silent Hill · Genre: survival horror, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-3-decompilation.webp" alt="Silent Hill 3 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Silent Hill · Genre: survival horror, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Chrono Cross Decompilation</title>
-      <link>https://thegamingemporium.com/game/chrono-cross-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/chrono-cross-decompilation/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/chrono-cross-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/chrono-cross-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/chrono-cross-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chrono-cross-decompilation.webp" alt="Chrono Cross Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Chrono Cross · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/chrono-cross-decompilation.webp" alt="Chrono Cross Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Chrono Cross · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Crash Tag Team Racing Gamecube Decompilation</title>
-      <link>https://thegamingemporium.com/game/crash-tag-team-racing-gamecube-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-tag-team-racing-gamecube-decompilation/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" alt="Crash Tag Team Racing Gamecube Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-tag-team-racing-gamecube-decompilation.webp" alt="Crash Tag Team Racing Gamecube Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
