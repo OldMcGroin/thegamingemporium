@@ -26956,10 +26956,62 @@
     "link": "https://www.moddb.com/mods/reenhance-re1/news/reenhance-re1-version-20-is-out",
     "genre1": "survival-horror",
     "genre2": "",
-    "series": "",
+    "series": "Resident Evil",
     "video_link": "",
     "notes": "",
     "date_added": "2026-03-24",
+    "image": ""
+  },
+  {
+    "id": 2067,
+    "title": "Batman Arkham Origins Advanced Graphics",
+    "category": "texture-packs",
+    "link": "https://www.nexusmods.com/batmanarkhamorigins/mods/451?tab=description",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Batman",
+    "video_link": "https://youtu.be/HSRvRRj6RP4?si=7IhAdH2AGCTlyikJ",
+    "notes": "",
+    "date_added": "2026-03-25",
+    "image": ""
+  },
+  {
+    "id": 2068,
+    "title": "Fire Emblem: Path of Radiance Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/FE8Dev/FE9-Decomp-Project",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Fire Emblem",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-25",
+    "image": ""
+  },
+  {
+    "id": 2069,
+    "title": "Alone In The Dark Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/spacefarergames/AloneInTheDarkReHaunted",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Alone In The Dark",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-25",
+    "image": ""
+  },
+  {
+    "id": 2070,
+    "title": "Sheep Wolf N Dog Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/lace22l/sheep-wolf-n-dog-decomp",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-25",
     "image": ""
   }
 

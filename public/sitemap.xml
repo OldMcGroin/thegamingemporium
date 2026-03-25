@@ -108,6 +108,10 @@
   </url><url>
     <loc>http://localhost:1313/game/alleyway-dx/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/alone-in-the-dark/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/alone-in-the-dark-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/altered-beast/</loc>
   </url><url>
     <loc>http://localhost:1313/game/altered-beast-remake/</loc>
@@ -309,6 +313,8 @@
     <loc>http://localhost:1313/series/barotrauma/</loc>
   </url><url>
     <loc>http://localhost:1313/series/batman/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/batman-arkham-origins-advanced-graphics/</loc>
   </url><url>
     <loc>http://localhost:1313/game/batman-arkham-asylum-hd-texture-pack/</loc>
   </url><url>
@@ -1541,6 +1547,8 @@
     <loc>http://localhost:1313/game/fire-emblem-monshou-no-nazo-super-nintendo/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-path-of-radiance-nintendo-gamecube/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-path-of-radiance-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-shadow-dragon-and-the-blade-of-light-nintendo-entertainment-system/</loc>
   </url><url>
@@ -3721,6 +3729,8 @@
     <loc>http://localhost:1313/series/shaun-white-skateboarding/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shaun-white-snowboarding/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sheep-wolf-n-dog-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shenmue/</loc>
   </url><url>

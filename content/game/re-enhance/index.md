@@ -7,7 +7,7 @@ params:
   category: "mods"
   genre1: "survival-horror"
   genre2: ""
-  series: ""
+  series: "Resident Evil"
   video_link: ""
   date_added: "2026-03-24"
   image: ""
