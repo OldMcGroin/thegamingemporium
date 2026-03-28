@@ -416,6 +416,8 @@
   </url><url>
     <loc>http://localhost:1313/game/blaster-master-snes-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/blaze-and-blade-busters-playstation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/blazing-angels/</loc>
   </url><url>
     <loc>http://localhost:1313/series/blink-182/</loc>
@@ -1076,6 +1078,8 @@
   </url><url>
     <loc>http://localhost:1313/game/digimon-world-2-alternative/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/digimon-world-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/digimon-world-re-digitize-playstation-portable/</loc>
   </url><url>
     <loc>http://localhost:1313/series/digital-devil-monogatari-megami-tensei/</loc>
@@ -1633,6 +1637,8 @@
     <loc>http://localhost:1313/game/friday-night-funkin/</loc>
   </url><url>
     <loc>http://localhost:1313/series/friday-night-funkin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/friday-the-13th-revisited/</loc>
   </url><url>
     <loc>http://localhost:1313/game/friends-adrift/</loc>
   </url><url>
@@ -2228,6 +2234,8 @@
   </url><url>
     <loc>http://localhost:1313/series/lego/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/lego-city-undercover-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/lego-island-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lego-island-web-port/</loc>
@@ -2703,6 +2711,8 @@
     <loc>http://localhost:1313/series/moonring/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mortal-kombat/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mortal-kombat-2-3do-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mortal-kombat-defenders-of-the-earth/</loc>
   </url><url>
@@ -4652,6 +4662,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-skyward-sword-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-decompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-tears-of-the-kingdom-ultracam-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-tears-of-the-kingdom-4k-texture-pack/</loc>
@@ -4659,6 +4671,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-tears-of-the-kingdom-online/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-missing-link/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-4k-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-decompilation/</loc>
   </url><url>

@@ -27013,6 +27013,97 @@
     "notes": "",
     "date_added": "2026-03-25",
     "image": ""
+  },
+  {
+    "id": 2071,
+    "title": "The Legend of Zelda: The Wind Waker 4K Texture Pack",
+    "category": "texture-packs",
+    "link": "https://www.henrikomagnifico.com/wind-waker-4k",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/mQYCtUT2Mxs?si=27j8MC1zsa7YWmou",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2072,
+    "title": "Friday the 13th Revisited",
+    "category": "console-ports",
+    "link": "https://zeichigames.itch.io/friday-the-13th-revisited-for-gbc",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "",
+    "video_link": "https://youtu.be/WoxxY_vS7-w?si=sC-kOMPD8G5TWnsJ",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2073,
+    "title": "Blaze and Blade Busters - Playstation",
+    "category": "english-translation-patches",
+    "link": "https://romhack.ing/database/content/entry/CqaRmZaFQNS1JX1zpGFNSQ/blaze-and-blade-busters-english-translation",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2074,
+    "title": "Digimon World Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/jype0/dw_decomp",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Digimon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2075,
+    "title": "The Legend of Zelda: Spirit Tracks Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/zeldaret/st",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2076,
+    "title": "Lego City Undercover Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
+  },
+  {
+    "id": 2077,
+    "title": "Mortal Kombat 2 3DO Port",
+    "category": "console-ports",
+    "link": "https://youtu.be/ciFdfj3D_NA?si=t3tWaHm_CB9mQGzY",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Mortal Kombat",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-03-28",
+    "image": ""
   }
 
 
