@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 28 Mar 2026 23:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 20:24:30 +0000</lastBuildDate>
+    <item>
+      <title>Fallout New Vegas - The Unforgiven REDUX</title>
+      <link>https://thegamingemporium.com/game/fallout-new-vegas-the-unforgiven-redux/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/fallout-new-vegas-the-unforgiven-redux/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fallout-new-vegas-the-unforgiven-redux.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fallout-new-vegas-the-unforgiven-redux.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fallout-new-vegas-the-unforgiven-redux.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-new-vegas-the-unforgiven-redux.webp" alt="Fallout New Vegas - The Unforgiven REDUX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fallout-new-vegas-the-unforgiven-redux.webp" alt="Fallout New Vegas - The Unforgiven REDUX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Fallout · Genre: rpg, action]]></content:encoded>
+    </item>
     <item>
       <title>The Legend of Zelda: The Wind Waker 4K Texture Pack</title>
       <link>https://thegamingemporium.com/game/the-legend-of-zelda-the-wind-waker-4k-texture-pack/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mighty-mike-power-pete.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mighty-mike-power-pete.webp" alt="Mighty Mike - Power Pete" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Mighty Mike · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mighty-mike-power-pete.webp" alt="Mighty Mike - Power Pete" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Mighty Mike · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Nanosaur</title>
-      <link>https://thegamingemporium.com/game/nanosaur/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nanosaur/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nanosaur.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nanosaur.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nanosaur.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nanosaur.webp" alt="Nanosaur" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Nanosaur · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nanosaur.webp" alt="Nanosaur" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Nanosaur · Genre: action]]></content:encoded>
     </item>
   </channel>
 </rss>
