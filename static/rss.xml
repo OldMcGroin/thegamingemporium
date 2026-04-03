@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 01 Apr 2026 21:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 22:15:09 +0000</lastBuildDate>
+    <item>
+      <title>OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports</title>
+      <link>https://thegamingemporium.com/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" alt="OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jak &amp; Daxter · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" alt="OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jak &amp; Daxter · Genre: platformer, action]]></content:encoded>
+    </item>
     <item>
       <title>Fallout New Vegas - The Unforgiven REDUX</title>
       <link>https://thegamingemporium.com/game/fallout-new-vegas-the-unforgiven-redux/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/bugdom.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bugdom.webp" alt="Bugdom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Bugdom · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bugdom.webp" alt="Bugdom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Bugdom · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Bugdom 2</title>
-      <link>https://thegamingemporium.com/game/bugdom-2/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bugdom-2/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bugdom-2.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bugdom-2.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bugdom-2.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bugdom-2.webp" alt="Bugdom 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Bugdom · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bugdom-2.webp" alt="Bugdom 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Bugdom · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>

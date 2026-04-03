@@ -1,6 +1,6 @@
 ---
-title: "OpenGoal - Jak & Daxter and Jak II Port"
-url: "/game/opengoal-jak-daxter-and-jak-ii-port/"
+title: "OpenGoal - Jak & Daxter, Jak 2 and Jak 3 Native PC Ports"
+url: "/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/"
 type: game
 params:
   external_link: "https://github.com/open-goal/jak-project"
@@ -9,7 +9,7 @@ params:
   genre2: "action"
   series: "Jak & Daxter"
   video_link: ""
-  date_added: ""
+  date_added: "2026-04-03"
   image: ""
 ---
 

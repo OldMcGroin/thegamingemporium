@@ -6000,7 +6000,7 @@
   },
   {
     "id": 462,
-    "title": "OpenGoal - Jak & Daxter and Jak II Port",
+    "title": "OpenGoal - Jak & Daxter, Jak 2 and Jak 3 Native PC Ports",
     "category": "decompilations-recompilations",
     "link": "https://github.com/open-goal/jak-project",
     "genre1": "platformer",
@@ -6008,7 +6008,7 @@
     "series": "Jak & Daxter",
     "video_link": "",
     "notes": "Complete decompilation and native-pc-port of the PS2 classics.",
-    "date_added": "",
+    "date_added": "2026-04-03",
     "image": ""
   },
   {
