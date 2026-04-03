@@ -27143,6 +27143,32 @@
     "notes": "",
     "date_added": "2026-04-01",
     "image": ""
+  },
+  {
+    "id": 2081,
+    "title": "Monster Hunter Stories 3 Twisted Reflection HD Texture Pack",
+    "category": "texture-packs",
+    "link": "https://www.nexusmods.com/monsterhunterstories3twistedreflection/mods/131?tab=description",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Monster Hunter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-03",
+    "image": ""
+  },
+  {
+    "id": 2082,
+    "title": "Pilotwings 64 Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/gcsmith/Pilotwings64Decomp",
+    "genre1": "flight-simulator",
+    "genre2": "",
+    "series": "Pilotwings",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-03",
+    "image": ""
   }
 
 
