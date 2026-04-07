@@ -27169,6 +27169,84 @@
     "notes": "",
     "date_added": "2026-04-03",
     "image": ""
+  },
+  {
+    "id": 2083,
+    "title": "RexGlue - Xbox 360 Recompilation Runtime and Toolkit",
+    "category": "utility",
+    "link": "https://github.com/rexglue/rexglue-sdk?ref=readonlymemo.com",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-07",
+    "image": ""
+  },
+  {
+    "id": 2084,
+    "title": "Banjo-Kazooie Nuts and Bolts Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/masterspike52/reNut?ref=readonlymemo.com",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-07",
+    "image": ""
+  },
+  {
+    "id": 2085,
+    "title": "Ninja Gaiden 2 Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Mystixor?tab=overview&from=2026-03-01&to=2026-03-31",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Ninja Gaiden",
+    "video_link": "https://youtu.be/dHKLl0kNRI8?si=s8fUa4n0scAkm3eU",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2086,
+    "title": "Halo 3 Delta Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/twist84/halo3_cache_release_recomp/?ref=readonlymemo.com",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2087,
+    "title": "Viva Pinata: Trouble In Paradise Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/SolarCookies/TiP-Recomp?ref=readonlymemo.com",
+    "genre1": "life-simulator",
+    "genre2": "farming-simulator",
+    "series": "Viva Pinata",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2088,
+    "title": "Fallout New Vegas - Retribution REDUX",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/newvegas/mods/97155",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Fallout",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
   }
 
 
