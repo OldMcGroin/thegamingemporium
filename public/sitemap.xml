@@ -2798,6 +2798,8 @@
   </url><url>
     <loc>http://localhost:1313/series/naev/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/naikari/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/nakedavp-aliens-vs-predator-classic-2000-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/namco/</loc>
@@ -3008,6 +3010,8 @@
   </url><url>
     <loc>http://localhost:1313/game/opendune/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/opendungeonsplus/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/openenroth-open-reimplementation-of-might-and-magic-6-7-8-engine/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</loc>
@@ -3035,6 +3039,8 @@
     <loc>http://localhost:1313/game/openrw-gta-iii-reimplementation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opensa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/opensoldat/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openspades/</loc>
   </url><url>
@@ -3775,6 +3781,8 @@
     <loc>http://localhost:1313/game/shamogu/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shamogu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/shapez/</loc>
   </url><url>
     <loc>http://localhost:1313/game/shattered-pixel-dungeon/</loc>
   </url><url>
@@ -4759,6 +4767,8 @@
     <loc>http://localhost:1313/game/the-playstation-translation-doc/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-polar-express/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-powder-toy/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-punisher/</loc>
   </url><url>

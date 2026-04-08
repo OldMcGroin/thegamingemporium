@@ -27494,6 +27494,71 @@
     "notes": "",
     "date_added": "2026-04-08",
     "image": ""
+  },
+  {
+    "id": 2108,
+    "title": "Naikari",
+    "category": "open-source",
+    "link": "https://naikari.github.io/",
+    "genre1": "space-combat-simulator",
+    "genre2": "trading-simulator",
+    "series": "",
+    "video_link": "https://youtu.be/n074klDiuno?si=Isbbjer4pmIdfF_Y",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2109,
+    "title": "OpenSoldat",
+    "category": "open-source",
+    "link": "https://github.com/opensoldat/opensoldat",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2110,
+    "title": "The Powder Toy",
+    "category": "open-source",
+    "link": "https://powdertoy.co.uk/",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2111,
+    "title": "OpenDungeonsPlus",
+    "category": "open-source",
+    "link": "https://opendungeons.org/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
+  },
+  {
+    "id": 2112,
+    "title": "shapez",
+    "category": "open-source",
+    "link": "https://github.com/tobspr-games/shapez.io",
+    "genre1": "base-building",
+    "genre2": "automation",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-08",
+    "image": ""
   }
 
 

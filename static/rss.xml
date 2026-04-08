@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 08 Apr 2026 21:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:01:54 +0000</lastBuildDate>
     <item>
       <title>Ninja Gaiden 2 Recompilation</title>
       <link>https://thegamingemporium.com/game/ninja-gaiden-2-recompilation/</link>
@@ -260,6 +260,61 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/solaris.webp" alt="Solaris" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
     </item>
     <item>
+      <title>Naikari</title>
+      <link>https://thegamingemporium.com/game/naikari/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/naikari/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/naikari.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/naikari.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/naikari.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/naikari.webp" alt="Naikari" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: space combat simulator, trading simulator]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/naikari.webp" alt="Naikari" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: space combat simulator, trading simulator]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenSoldat</title>
+      <link>https://thegamingemporium.com/game/opensoldat/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/opensoldat/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opensoldat.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/opensoldat.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/opensoldat.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opensoldat.webp" alt="OpenSoldat" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opensoldat.webp" alt="OpenSoldat" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>The Powder Toy</title>
+      <link>https://thegamingemporium.com/game/the-powder-toy/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/the-powder-toy/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" alt="The Powder Toy" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: sandbox]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" alt="The Powder Toy" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: sandbox]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenDungeonsPlus</title>
+      <link>https://thegamingemporium.com/game/opendungeonsplus/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/opendungeonsplus/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" alt="OpenDungeonsPlus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" alt="OpenDungeonsPlus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>shapez</title>
+      <link>https://thegamingemporium.com/game/shapez/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/shapez/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shapez.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/shapez.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/shapez.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shapez.webp" alt="shapez" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: base building, automation]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shapez.webp" alt="shapez" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: base building, automation]]></content:encoded>
+    </item>
+    <item>
       <title>RexGlue - Xbox 360 Recompilation Runtime and Toolkit</title>
       <link>https://thegamingemporium.com/game/rexglue-xbox-360-recompilation-runtime-and-toolkit/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/rexglue-xbox-360-recompilation-runtime-and-toolkit/</guid>
@@ -500,61 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-64-recompilation.webp" alt="Bomberman 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: action, puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>MHServerEmu - Marvel Heroes MMO Fan Server</title>
-      <link>https://thegamingemporium.com/game/mhserveremu-marvel-heroes-mmo-fan-server/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mhserveremu-marvel-heroes-mmo-fan-server/</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" alt="MHServerEmu - Marvel Heroes MMO Fan Server" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: MMORPG, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mhserveremu-marvel-heroes-mmo-fan-server.webp" alt="MHServerEmu - Marvel Heroes MMO Fan Server" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: MMORPG, action]]></content:encoded>
-    </item>
-    <item>
-      <title>DeckOps</title>
-      <link>https://thegamingemporium.com/game/deckops/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/deckops/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/deckops.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/deckops.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/deckops.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deckops.webp" alt="DeckOps" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Series: Call of Duty · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deckops.webp" alt="DeckOps" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Series: Call of Duty · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Oblivion Remastered CityLord Series The Fight Club</title>
-      <link>https://thegamingemporium.com/game/oblivion-remastered-citylord-series-the-fight-club/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/oblivion-remastered-citylord-series-the-fight-club/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/oblivion-remastered-citylord-series-the-fight-club.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/oblivion-remastered-citylord-series-the-fight-club.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/oblivion-remastered-citylord-series-the-fight-club.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oblivion-remastered-citylord-series-the-fight-club.webp" alt="Oblivion Remastered CityLord Series The Fight Club" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oblivion-remastered-citylord-series-the-fight-club.webp" alt="Oblivion Remastered CityLord Series The Fight Club" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Oblivion Remastered Battlehorn Castle Expansion</title>
-      <link>https://thegamingemporium.com/game/oblivion-remastered-battlehorn-castle-expansion/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/oblivion-remastered-battlehorn-castle-expansion/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/oblivion-remastered-battlehorn-castle-expansion.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/oblivion-remastered-battlehorn-castle-expansion.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/oblivion-remastered-battlehorn-castle-expansion.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oblivion-remastered-battlehorn-castle-expansion.webp" alt="Oblivion Remastered Battlehorn Castle Expansion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oblivion-remastered-battlehorn-castle-expansion.webp" alt="Oblivion Remastered Battlehorn Castle Expansion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Klonoa: Empire of Dreams Decompilation</title>
-      <link>https://thegamingemporium.com/game/klonoa-empire-of-dreams-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/klonoa-empire-of-dreams-decompilation/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/klonoa-empire-of-dreams-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/klonoa-empire-of-dreams-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/klonoa-empire-of-dreams-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/klonoa-empire-of-dreams-decompilation.webp" alt="Klonoa: Empire of Dreams Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Klonoa · Genre: platformer, puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/klonoa-empire-of-dreams-decompilation.webp" alt="Klonoa: Empire of Dreams Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Klonoa · Genre: platformer, puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>
