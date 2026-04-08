@@ -1170,6 +1170,8 @@
   </url><url>
     <loc>http://localhost:1313/game/doshin-the-giant-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/double-damnation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/double-dragon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/double-dragon-2-snes-port/</loc>
@@ -1320,6 +1322,8 @@
   </url><url>
     <loc>http://localhost:1313/game/eduke32-duke-nukem-3d-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/einstein-puzzle/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/elden-ring/</loc>
   </url><url>
     <loc>http://localhost:1313/game/elden-ring-gameboy-demake/</loc>
@@ -1371,6 +1375,8 @@
     <loc>http://localhost:1313/series/enemy-territory-legacy/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/english-translation-patches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/enigma/</loc>
   </url><url>
     <loc>http://localhost:1313/series/evil-dead/</loc>
   </url><url>
@@ -1802,6 +1808,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/graphic-adventure/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/gravity-bone/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/grid/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gta-2-configuration-guide-steam-deck/</loc>
@@ -1837,6 +1845,8 @@
     <loc>http://localhost:1313/game/gyakuten-kenji-2-nintendo-ds/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gzdoom-with-gzdeck-mods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/h-craft-championship/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hacking-games-in-hex-sega-genesis-edition/</loc>
   </url><url>
@@ -1910,6 +1920,8 @@
   </url><url>
     <loc>http://localhost:1313/game/heretic-ii-source-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/hero-of-allacrost/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/heroes-of-might-and-magic-iii-horn-of-the-abyss/</loc>
   </url><url>
     <loc>http://localhost:1313/series/heroes-over-europe/</loc>
@@ -1943,6 +1955,8 @@
     <loc>http://localhost:1313/game/how-to-play-games-from-gog-and-epic-games-on-linux-steamos-and-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/how-to-setup-openmw-for-modern-morrowind-on-linux-steamos-and-steam-deck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/hurrican/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hurry-curry/</loc>
   </url><url>
@@ -2962,6 +2976,8 @@
   </url><url>
     <loc>http://localhost:1313/game/open-fodder/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/open-hexagon/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/open-imperium-galactica/</loc>
   </url><url>
     <loc>http://localhost:1313/game/open-realm-of-stars/</loc>
@@ -3116,6 +3132,10 @@
   </url><url>
     <loc>http://localhost:1313/game/pcexhumed-exhumed-powerslave-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/pekka-kana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pekka-kana-2/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/perfect-dark/</loc>
   </url><url>
     <loc>http://localhost:1313/game/perfect-dark-pc-port/</loc>
@@ -3193,6 +3213,8 @@
     <loc>http://localhost:1313/game/playstation-home/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pocket-monsters-green-version-game-boy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pocket-palm-heroes/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemmo/</loc>
   </url><url>
@@ -3395,6 +3417,8 @@
     <loc>http://localhost:1313/game/pysol-fan-club-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/series/pysol-fan-club-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/q3rally/</loc>
   </url><url>
     <loc>http://localhost:1313/series/quake/</loc>
   </url><url>
@@ -3894,6 +3918,8 @@
   </url><url>
     <loc>http://localhost:1313/series/sol-survivor/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/solaris/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/s-ldner-x/</loc>
   </url><url>
     <loc>http://localhost:1313/game/solution-to-slow-download-speeds-on-steam-deck-1/</loc>
@@ -4163,6 +4189,8 @@
     <loc>http://localhost:1313/game/starfield-steam-deck-essentials-mod-install-guide/</loc>
   </url><url>
     <loc>http://localhost:1313/game/starfield-stfi-hd-landscape-4k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/starflight-the-lost-colony/</loc>
   </url><url>
     <loc>http://localhost:1313/series/starlancer/</loc>
   </url><url>
@@ -4436,6 +4464,8 @@
   </url><url>
     <loc>http://localhost:1313/series/surge-engine/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/surge-the-rabbit/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/survival-horror/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/survival-horror-l/</loc>
@@ -4512,6 +4542,10 @@
   </url><url>
     <loc>http://localhost:1313/game/tecmo-super-bowl-2024/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/tecnoballz/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tecnoballz/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/teenage-mutant-ninja-turtles/</loc>
   </url><url>
     <loc>http://localhost:1313/game/teenage-mutant-ninja-turtles-snes-port/</loc>
@@ -4529,6 +4563,8 @@
     <loc>http://localhost:1313/series/tengai-makyou-zero/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tengai-makyou-zero-super-nintendo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tenmado/</loc>
   </url><url>
     <loc>http://localhost:1313/game/terasology/</loc>
   </url><url>
@@ -4728,6 +4764,8 @@
   </url><url>
     <loc>http://localhost:1313/series/the-scroll/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-secret-chronicles-of-dr-m/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/the-secret-of-mana/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-settlers/</loc>
@@ -4890,6 +4928,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/trading-simulator/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/transball-gl/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/transformers/</loc>
   </url><url>
     <loc>http://localhost:1313/series/transports-tycoon/</loc>
@@ -5015,6 +5055,8 @@
     <loc>http://localhost:1313/series/valkyria-chronicles/</loc>
   </url><url>
     <loc>http://localhost:1313/game/valkyria-chronicles-3-psp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/valyria-tear/</loc>
   </url><url>
     <loc>http://localhost:1313/series/vampire-panic/</loc>
   </url><url>
