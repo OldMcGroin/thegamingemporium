@@ -54,6 +54,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/adventure/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/adventure-on-eos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/adventure-on-eos/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/aero-gauge/</loc>
   </url><url>
     <loc>http://localhost:1313/game/aero-gauge-decompilation/</loc>
@@ -1035,6 +1039,8 @@
     <loc>http://localhost:1313/game/deckops/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/decompilations-recompilations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/deer-portal/</loc>
   </url><url>
     <loc>http://localhost:1313/game/definitive-guide-to-rom-hacking-for-complete-beginners/</loc>
   </url><url>
@@ -2275,6 +2281,8 @@
     <loc>http://localhost:1313/game/lethalmon/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/level-builder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/liberation-circuit/</loc>
   </url><url>
     <loc>http://localhost:1313/game/liblast/</loc>
   </url><url>
@@ -3716,6 +3724,8 @@
   </url><url>
     <loc>http://localhost:1313/series/scarface/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/scorched3d/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/scratches-directors-cut/</loc>
   </url><url>
     <loc>http://localhost:1313/series/screaming-mad-georges-paranoiascape/</loc>
@@ -4230,6 +4240,8 @@
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-psp-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/street-fighter-one-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-x-mega-man/</loc>
@@ -4329,6 +4341,8 @@
     <loc>http://localhost:1313/game/super-mario-bros-remastered-custom-levels/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-bros-remastered-mods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-bros-sega-master-system-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-bros-wonder-demake/</loc>
   </url><url>
@@ -5082,6 +5096,8 @@
   </url><url>
     <loc>http://localhost:1313/game/vcmi-heroes-of-might-magic-3-open-source-recreation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/vega-strike/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/veloren/</loc>
   </url><url>
     <loc>http://localhost:1313/series/veloren/</loc>
@@ -5232,6 +5248,8 @@
   </url><url>
     <loc>http://localhost:1313/series/worms/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/worms-armageddon-open-source-re-implementation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/wowee-world-of-warcraft-engine-experiment/</loc>
   </url><url>
     <loc>http://localhost:1313/series/wrc-fia-world-rally-championship/</loc>
@@ -5287,6 +5305,8 @@
     <loc>http://localhost:1313/game/yknytt/</loc>
   </url><url>
     <loc>http://localhost:1313/series/yknytt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/yorg/</loc>
   </url><url>
     <loc>http://localhost:1313/game/yoshi-gameboy-advance/</loc>
   </url><url>
