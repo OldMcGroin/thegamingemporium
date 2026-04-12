@@ -27676,6 +27676,97 @@
     "notes": "",
     "date_added": "2026-04-09",
     "image": ""
+  },
+  {
+    "id": 2122,
+    "title": "Dust Racing 2D",
+    "category": "open-source",
+    "link": "https://github.com/juzzlin/DustRacing2D",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2123,
+    "title": "Steam Sky",
+    "category": "open-source",
+    "link": "https://thindil.itch.io/steam-sky",
+    "genre1": "roguelike",
+    "genre2": "strategy",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2124,
+    "title": "AstroMenace",
+    "category": "open-source",
+    "link": "https://viewizard.com/",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2125,
+    "title": "World of PADMAN",
+    "category": "open-source",
+    "link": "https://worldofpadman.net/en/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2126,
+    "title": "Cave Story Sega Megadrive Port",
+    "category": "console-ports",
+    "link": "https://github.com/andwn/cave-story-md",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2127,
+    "title": "Ridge Racer Collection with Online Play",
+    "category": "fan-games",
+    "link": "https://youtu.be/eNtb8myubnI?si=iKcoY4kzkVWN64CK",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Ridge Racer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2128,
+    "title": "Silent Hill 2 Decompilation",
+    "category": "in-the-works",
+    "link": "https://decomp.dev/dreamingmoths/mirror-of-alessa",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
   }
 
 

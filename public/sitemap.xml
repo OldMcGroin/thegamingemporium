@@ -232,6 +232,8 @@
   </url><url>
     <loc>http://localhost:1313/series/assaultcube/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/astromenace/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/atlantis-the-lost-empire-trial-by-fire/</loc>
   </url><url>
     <loc>http://localhost:1313/game/augustus/</loc>
@@ -657,6 +659,8 @@
     <loc>http://localhost:1313/game/cave-story-dokutsu-monogatari-pc/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cave-story-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/cave-story-sega-megadrive-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/caveman-2-cosmos-civilization-4-total-overhaul-mod/</loc>
   </url><url>
@@ -1297,6 +1301,8 @@
     <loc>http://localhost:1313/series/dungeons-and-dragons/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dungeons-dragons-tower-of-doom-sega-saturn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dust-racing-2d/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dxx-rebirth-open-descent/</loc>
   </url><url>
@@ -3604,6 +3610,10 @@
   </url><url>
     <loc>http://localhost:1313/game/rick-dangerous-dx-megadrive-genesis-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/ridge-racer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ridge-racer-collection-with-online-play/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/rigs-of-rods/</loc>
   </url><url>
     <loc>http://localhost:1313/series/rigs-of-rods/</loc>
@@ -3853,6 +3863,8 @@
     <loc>http://localhost:1313/series/sil-q/</loc>
   </url><url>
     <loc>http://localhost:1313/series/silent-hill/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/silent-hill-2-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silent-hill-2-enhanced-edition/</loc>
   </url><url>
@@ -4225,6 +4237,8 @@
     <loc>http://localhost:1313/genres/stealth/</loc>
   </url><url>
     <loc>http://localhost:1313/game/steam-deck-guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/steam-sky/</loc>
   </url><url>
     <loc>http://localhost:1313/game/stepmania/</loc>
   </url><url>
@@ -5243,6 +5257,8 @@
     <loc>http://localhost:1313/series/wonder-trek/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wonder-trek-playstation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/world-of-padman/</loc>
   </url><url>
     <loc>http://localhost:1313/series/world-racing/</loc>
   </url><url>
