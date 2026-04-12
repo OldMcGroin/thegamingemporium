@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 12 Apr 2026 18:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 22:00:47 +0000</lastBuildDate>
     <item>
       <title>Dust Racing 2D</title>
       <link>https://thegamingemporium.com/game/dust-racing-2d/</link>
@@ -104,6 +104,72 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/starfield-neonexpansion.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starfield-neonexpansion.webp" alt="Starfield - NeonExpansion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Starfield · Genre: rpg, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starfield-neonexpansion.webp" alt="Starfield - NeonExpansion" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Starfield · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Advanced Strategic Command</title>
+      <link>https://thegamingemporium.com/game/advanced-strategic-command/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/advanced-strategic-command/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/advanced-strategic-command.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/advanced-strategic-command.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/advanced-strategic-command.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/advanced-strategic-command.webp" alt="Advanced Strategic Command" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/advanced-strategic-command.webp" alt="Advanced Strategic Command" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>CaveExpress</title>
+      <link>https://thegamingemporium.com/game/caveexpress/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/caveexpress/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/caveexpress.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/caveexpress.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/caveexpress.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/caveexpress.webp" alt="CaveExpress" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/caveexpress.webp" alt="CaveExpress" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Wyrmsun</title>
+      <link>https://thegamingemporium.com/game/wyrmsun/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/wyrmsun/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wyrmsun.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/wyrmsun.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/wyrmsun.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wyrmsun.webp" alt="Wyrmsun" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wyrmsun.webp" alt="Wyrmsun" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Shadow Over the Twelve Lands</title>
+      <link>https://thegamingemporium.com/game/shadow-over-the-twelve-lands/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/shadow-over-the-twelve-lands/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shadow-over-the-twelve-lands.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/shadow-over-the-twelve-lands.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/shadow-over-the-twelve-lands.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-over-the-twelve-lands.webp" alt="Shadow Over the Twelve Lands" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: dungeon crawler]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-over-the-twelve-lands.webp" alt="Shadow Over the Twelve Lands" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: dungeon crawler]]></content:encoded>
+    </item>
+    <item>
+      <title>Bos Wars</title>
+      <link>https://thegamingemporium.com/game/bos-wars/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bos-wars/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bos-wars.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bos-wars.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bos-wars.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bos-wars.webp" alt="Bos Wars" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bos-wars.webp" alt="Bos Wars" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>reTux</title>
+      <link>https://thegamingemporium.com/game/retux/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/retux/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/retux.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/retux.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/retux.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/retux.webp" alt="reTux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/retux.webp" alt="reTux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Super Mario Bros. Sega Master System Port</title>
@@ -489,72 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" alt="The Powder Toy" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: sandbox]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-powder-toy.webp" alt="The Powder Toy" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: sandbox]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDungeonsPlus</title>
-      <link>https://thegamingemporium.com/game/opendungeonsplus/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/opendungeonsplus/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" alt="OpenDungeonsPlus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opendungeonsplus.webp" alt="OpenDungeonsPlus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>shapez</title>
-      <link>https://thegamingemporium.com/game/shapez/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/shapez/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shapez.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/shapez.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/shapez.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shapez.webp" alt="shapez" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: base building, automation]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shapez.webp" alt="shapez" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: base building, automation]]></content:encoded>
-    </item>
-    <item>
-      <title>RexGlue - Xbox 360 Recompilation Runtime and Toolkit</title>
-      <link>https://thegamingemporium.com/game/rexglue-xbox-360-recompilation-runtime-and-toolkit/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rexglue-xbox-360-recompilation-runtime-and-toolkit/</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rexglue-xbox-360-recompilation-runtime-and-toolkit.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rexglue-xbox-360-recompilation-runtime-and-toolkit.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rexglue-xbox-360-recompilation-runtime-and-toolkit.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rexglue-xbox-360-recompilation-runtime-and-toolkit.webp" alt="RexGlue - Xbox 360 Recompilation Runtime and Toolkit" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rexglue-xbox-360-recompilation-runtime-and-toolkit.webp" alt="RexGlue - Xbox 360 Recompilation Runtime and Toolkit" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Banjo-Kazooie Nuts and Bolts Recompilation</title>
-      <link>https://thegamingemporium.com/game/banjo-kazooie-nuts-and-bolts-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/banjo-kazooie-nuts-and-bolts-recompilation/</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/banjo-kazooie-nuts-and-bolts-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/banjo-kazooie-nuts-and-bolts-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/banjo-kazooie-nuts-and-bolts-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-nuts-and-bolts-recompilation.webp" alt="Banjo-Kazooie Nuts and Bolts Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Banjo Kazooie · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-nuts-and-bolts-recompilation.webp" alt="Banjo-Kazooie Nuts and Bolts Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports</title>
-      <link>https://thegamingemporium.com/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" alt="OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jak &amp; Daxter · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports.webp" alt="OpenGoal - Jak &amp; Daxter, Jak 2 and Jak 3 Native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jak &amp; Daxter · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Monster Hunter Stories 3 Twisted Reflection HD Texture Pack</title>
-      <link>https://thegamingemporium.com/game/monster-hunter-stories-3-twisted-reflection-hd-texture-pack/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/monster-hunter-stories-3-twisted-reflection-hd-texture-pack/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/monster-hunter-stories-3-twisted-reflection-hd-texture-pack.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/monster-hunter-stories-3-twisted-reflection-hd-texture-pack.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-stories-3-twisted-reflection-hd-texture-pack.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-stories-3-twisted-reflection-hd-texture-pack.webp" alt="Monster Hunter Stories 3 Twisted Reflection HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Monster Hunter · Genre: rpg, creature collector]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-stories-3-twisted-reflection-hd-texture-pack.webp" alt="Monster Hunter Stories 3 Twisted Reflection HD Texture Pack" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Texture Packs · Series: Monster Hunter · Genre: rpg, creature collector]]></content:encoded>
     </item>
   </channel>
 </rss>

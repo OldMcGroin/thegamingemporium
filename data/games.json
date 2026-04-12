@@ -27793,6 +27793,84 @@
     "notes": "",
     "date_added": "2026-04-12",
     "image": ""
+  },
+  {
+    "id": 2131,
+    "title": "Advanced Strategic Command",
+    "category": "open-source",
+    "link": "https://www.asc-hq.org/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2132,
+    "title": "CaveExpress",
+    "category": "open-source",
+    "link": "https://github.com/mgerhardy/caveexpress",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2133,
+    "title": "Wyrmsun",
+    "category": "open-source",
+    "link": "https://andrettin.github.io/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2134,
+    "title": "Shadow Over the Twelve Lands",
+    "category": "open-source",
+    "link": "https://btco.itch.io/shadow-over-the-twelve-lands",
+    "genre1": "dungeon-crawler",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2135,
+    "title": "Bos Wars",
+    "category": "open-source",
+    "link": "https://www.boswars.org/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
+  },
+  {
+    "id": 2136,
+    "title": "reTux",
+    "category": "open-source",
+    "link": "https://retux-game.github.io/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-12",
+    "image": ""
   }
 
 
