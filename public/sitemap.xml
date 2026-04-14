@@ -1422,6 +1422,8 @@
   </url><url>
     <loc>http://localhost:1313/series/f1-race-stars/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/f1-spirit/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/fable/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fable-2-recompilation/</loc>
@@ -1483,6 +1485,8 @@
     <loc>http://localhost:1313/game/fallout-the-new-west/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-bakersfield-doom-total-conversion-mod-gzdoom-wad/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fallout-new-vegas-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-vault-666/</loc>
   </url><url>
@@ -1722,6 +1726,8 @@
   </url><url>
     <loc>http://localhost:1313/game/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/gardens-of-kadesh/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/gauntlet/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gauntlet-legends-decompilation/</loc>
@@ -1955,6 +1961,8 @@
     <loc>http://localhost:1313/series/holocure/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/hoverrace/</loc>
   </url><url>
     <loc>http://localhost:1313/game/how-to-dump-roms-all-systems/</loc>
   </url><url>
@@ -2382,6 +2390,8 @@
   </url><url>
     <loc>http://localhost:1313/series/mad-dog-mccree/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/maelstrom/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/magarena/</loc>
   </url><url>
     <loc>http://localhost:1313/series/magarena/</loc>
@@ -2389,6 +2399,8 @@
     <loc>http://localhost:1313/game/magic-castle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/magic-castle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/magical-broom-extreme/</loc>
   </url><url>
     <loc>http://localhost:1313/series/magical-date/</loc>
   </url><url>
@@ -2942,6 +2954,8 @@
   </url><url>
     <loc>http://localhost:1313/series/no-one-lives-forever/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/noctis-iv-plus/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/nocturne/</loc>
   </url><url>
     <loc>http://localhost:1313/series/noir-a-shadowy-thriller/</loc>
@@ -2989,6 +3003,8 @@
     <loc>http://localhost:1313/series/oni/</loc>
   </url><url>
     <loc>http://localhost:1313/game/oni-remaster-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/onifoxed/</loc>
   </url><url>
     <loc>http://localhost:1313/series/onimusha/</loc>
   </url><url>
@@ -3648,6 +3664,8 @@
   </url><url>
     <loc>http://localhost:1313/series/road-rash/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/roadfighter/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/robocop/</loc>
   </url><url>
     <loc>http://localhost:1313/game/robocop-psone/</loc>
@@ -3749,6 +3767,10 @@
     <loc>http://localhost:1313/series/screaming-mad-georges-paranoiascape/</loc>
   </url><url>
     <loc>http://localhost:1313/game/screaming-mad-george-s-paranoiascape-playstation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sdl-asylum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sdl-scavenger/</loc>
   </url><url>
     <loc>http://localhost:1313/series/seal-team/</loc>
   </url><url>
@@ -3923,6 +3945,8 @@
     <loc>http://localhost:1313/game/skyrim-special-edition-azeroth-reborn/</loc>
   </url><url>
     <loc>http://localhost:1313/game/skyrim-special-edition-lordbound/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/skyrim-special-edition-new-dawn-redux-modlist/</loc>
   </url><url>
     <loc>http://localhost:1313/game/skyrim-special-edition-norden-ui/</loc>
   </url><url>
@@ -4440,6 +4464,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-mariomon/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-methane-brothers/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-metroid-arcade/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-metroid-decompilation/</loc>
@@ -4951,6 +4977,8 @@
     <loc>http://localhost:1313/series/tony-hawk/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-american-wasteland-rethawed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-underground/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-underground-2-thugpro/</loc>
   </url><url>
