@@ -804,6 +804,8 @@
   </url><url>
     <loc>http://localhost:1313/series/commander-blood/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/commander-genius/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/companions-of-xanth/</loc>
   </url><url>
     <loc>http://localhost:1313/series/condemned/</loc>
@@ -1071,6 +1073,8 @@
     <loc>http://localhost:1313/series/destruction-derby/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/destruction-derby/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dethrace-labs/</loc>
   </url><url>
     <loc>http://localhost:1313/game/deus-ex-nihilum/</loc>
   </url><url>
@@ -1359,6 +1363,8 @@
     <loc>http://localhost:1313/game/elder-scrolls-iii-morrowind-rebirth/</loc>
   </url><url>
     <loc>http://localhost:1313/game/elder-scrolls-iii-morrowind-morrowind-rebirth/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/elite-reinforce/</loc>
   </url><url>
     <loc>http://localhost:1313/series/elona/</loc>
   </url><url>
@@ -1665,6 +1671,8 @@
     <loc>http://localhost:1313/series/freespace-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/freespace-open/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/freesynd-re-implementation-of-syndicate/</loc>
   </url><url>
     <loc>http://localhost:1313/game/frets-on-fire/</loc>
   </url><url>
@@ -2125,6 +2133,8 @@
     <loc>http://localhost:1313/game/jet-set-radio-dreamcast-prototype/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jet-set-radio-future-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jftekwar-tekwar-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/jingle-cats/</loc>
   </url><url>
@@ -3024,6 +3034,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/open-source/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/open-iw/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/open1560-midtown-madness/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openage/</loc>
@@ -3063,6 +3075,8 @@
     <loc>http://localhost:1313/game/openloco-chris-sawyer-s-locomotion-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openmw-morrowind-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/opennotrium/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opennox/</loc>
   </url><url>
@@ -3638,6 +3652,8 @@
   </url><url>
     <loc>http://localhost:1313/game/ridge-racer-collection-with-online-play/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/rigelengine-re-implementation-duke-nukem-ii/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/rigs-of-rods/</loc>
   </url><url>
     <loc>http://localhost:1313/series/rigs-of-rods/</loc>
@@ -3809,6 +3825,8 @@
     <loc>http://localhost:1313/series/sensible-soccer/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sensible-soccer-nes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/seven-kingdoms-ancient-adversaries/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shadow-of-the-beast/</loc>
   </url><url>
