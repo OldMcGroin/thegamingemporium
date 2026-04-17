@@ -396,6 +396,8 @@
   </url><url>
     <loc>http://localhost:1313/game/bioshock-native-hdr-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/bioshock-the-war-in-rapture/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/biosys/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bit-of-war-god-of-war-demake/</loc>
@@ -3968,6 +3970,8 @@
   </url><url>
     <loc>http://localhost:1313/game/skyrim-special-edition-norden-ui/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/skys-of-arcadia-legends/</loc>
   </url><url>
     <loc>http://localhost:1313/game/skys-of-arcadia-legends-decompilation/</loc>
@@ -4664,6 +4668,8 @@
   </url><url>
     <loc>http://localhost:1313/series/terasology/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/terminal-breeder/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/terraria/</loc>
   </url><url>
     <loc>http://localhost:1313/game/terraria-calamity-mod/</loc>
@@ -4795,6 +4801,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-ganon-s-deception/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-link-s-awakening-dx-hd-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-majora-s-mask-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-majora-s-mask-recompilation/</loc>
   </url><url>
@@ -4981,6 +4989,8 @@
     <loc>http://localhost:1313/series/tomb-raider/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-chronicles-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tomb-raider-n64-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-legend-hd-texture-pack/</loc>
   </url><url>

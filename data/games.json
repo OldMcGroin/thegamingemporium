@@ -28170,6 +28170,71 @@
     "notes": "",
     "date_added": "2026-04-15",
     "image": ""
+  },
+  {
+    "id": 2160,
+    "title": "Bioshock - The War In Rapture",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/bioshock/mods/143?tab=description",
+    "genre1": "first-person-shooter",
+    "genre2": "action",
+    "series": "Bioshock",
+    "video_link": "https://youtu.be/mJortFDr-4A?si=53m0df4DIitYM7V3",
+    "notes": "",
+    "date_added": "2026-04-17",
+    "image": ""
+  },
+  {
+    "id": 2161,
+    "title": "Skyrim Special Edition - Through Fire and War - A Morrowind Inspired Quest",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/skyrimspecialedition/mods/176402",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Skyrim",
+    "video_link": "https://youtu.be/VTFq-xDztIo?si=rLprqmELbWOhjruO",
+    "notes": "",
+    "date_added": "2026-04-17",
+    "image": ""
+  },
+  {
+    "id": 2162,
+    "title": "Terminal Breeder",
+    "category": "open-source",
+    "link": "https://github.com/amit221/compi",
+    "genre1": "creature-collector",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-17",
+    "image": ""
+  },
+  {
+    "id": 2163,
+    "title": "Tomb Raider N64 Port",
+    "category": "in-the-works",
+    "link": "https://youtu.be/SLqWCiGk1rs?si=2RgrAJ9aWYtcT2M-",
+    "genre1": "adventure",
+    "genre2": "action",
+    "series": "Tomb Raider",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-17",
+    "image": ""
+  },
+  {
+    "id": 2164,
+    "title": "The Legend of Zelda: Majora's Mask PS Vita Port",
+    "category": "decompilations-recompilations",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1384",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-17",
+    "image": ""
   }
 
 
