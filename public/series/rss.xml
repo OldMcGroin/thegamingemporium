@@ -8,7 +8,55 @@
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml"/>
     <description>The 50 most recent additions to The Gaming Emporium (opens on the site first).</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 22:31:01 &#43;0100</lastBuildDate><item>
+    <lastBuildDate>Fri, 24 Apr 2026 00:14:14 &#43;0100</lastBuildDate><item>
+        <title>Luigi&amp;#39;s Mansion Decompilation</title>
+        <link>http://localhost:1313/game/luigis-mansion-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/luigis-mansion-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>in-the-works</category><category>Series: Super Mario</category><category>Genre: adventure, puzzle</category><enclosure url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/luigis-mansion-decompilation/"><img src="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" alt="Luigi&amp;#39;s Mansion Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Super Mario · Genre: adventure, puzzle</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/luigis-mansion-decompilation/"><img src="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" alt="Luigi&amp;#39;s Mansion Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Super Mario · Genre: adventure, puzzle</p>]]></content:encoded>
+      </item><item>
+        <title>PortForge - A De-Recompilation Port Manager</title>
+        <link>http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>utility</category><category>Genre: utility</category><enclosure url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/portforge-a-de-recompilation-port-manager/"><img src="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" alt="PortForge - A De-Recompilation Port Manager" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Utility · Genre: utility</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/portforge-a-de-recompilation-port-manager/"><img src="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" alt="PortForge - A De-Recompilation Port Manager" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Utility · Genre: utility</p>]]></content:encoded>
+      </item><item>
+        <title>Final Fantasy VIII Decompilation</title>
+        <link>http://localhost:1313/game/final-fantasy-viii-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/final-fantasy-viii-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>in-the-works</category><category>Series: Final Fantasy</category><category>Genre: rpg</category><enclosure url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/final-fantasy-viii-decompilation/"><img src="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" alt="Final Fantasy VIII Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Final Fantasy · Genre: rpg</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/final-fantasy-viii-decompilation/"><img src="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" alt="Final Fantasy VIII Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Final Fantasy · Genre: rpg</p>]]></content:encoded>
+      </item><item>
+        <title>1080 Snowboarding Decompilation</title>
+        <link>http://localhost:1313/game/1080-snowboarding-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/1080-snowboarding-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>in-the-works</category><category>Series: 1080 Snowboarding</category><category>Genre: sports</category><enclosure url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/1080-snowboarding-decompilation/"><img src="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" alt="1080 Snowboarding Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: 1080 Snowboarding · Genre: sports</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/1080-snowboarding-decompilation/"><img src="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" alt="1080 Snowboarding Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: 1080 Snowboarding · Genre: sports</p>]]></content:encoded>
+      </item><item>
+        <title>Pokemon Ranger: Shadows of Almia Decompilation</title>
+        <link>http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>in-the-works</category><category>Series: Pokemon</category><category>Genre: creature-collector, rpg</category><enclosure url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/"><img src="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" alt="Pokemon Ranger: Shadows of Almia Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Pokemon · Genre: creature-collector, rpg</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/"><img src="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" alt="Pokemon Ranger: Shadows of Almia Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Pokemon · Genre: creature-collector, rpg</p>]]></content:encoded>
+      </item><item>
+        <title>Tiny Dec - Educational decompiler that helps people understand how decompilation works</title>
+        <link>http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate><category>utility</category><category>Genre: utility</category><enclosure url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/"><img src="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" alt="Tiny Dec - Educational decompiler that helps people understand how decompilation works" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Utility · Genre: utility</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/"><img src="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" alt="Tiny Dec - Educational decompiler that helps people understand how decompilation works" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Utility · Genre: utility</p>]]></content:encoded>
+      </item><item>
         <title>Bioshock - The War In Rapture</title>
         <link>http://localhost:1313/game/bioshock-the-war-in-rapture/</link>
         <guid isPermaLink="true">http://localhost:1313/game/bioshock-the-war-in-rapture/</guid>
@@ -360,53 +408,5 @@
         <media:thumbnail url="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp"/>
         <media:content url="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/ridge-racer-collection-with-online-play/"><img src="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp" alt="Ridge Racer Collection with Online Play" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Fan games · Series: Ridge Racer · Genre: racing</p>]]></description>
         <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/ridge-racer-collection-with-online-play/"><img src="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp" alt="Ridge Racer Collection with Online Play" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Fan games · Series: Ridge Racer · Genre: racing</p>]]></content:encoded>
-      </item><item>
-        <title>Silent Hill 2 Decompilation</title>
-        <link>http://localhost:1313/game/silent-hill-2-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/silent-hill-2-decompilation/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>in-the-works</category><category>Series: Silent Hill</category><category>Genre: survival-horror</category><enclosure url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/silent-hill-2-decompilation/"><img src="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" alt="Silent Hill 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Silent Hill · Genre: survival-horror</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/silent-hill-2-decompilation/"><img src="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" alt="Silent Hill 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Silent Hill · Genre: survival-horror</p>]]></content:encoded>
-      </item><item>
-        <title>Seen in Liberty City - GTA 3 PSP Remake</title>
-        <link>http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Grand Theft Auto</category><category>Genre: sandbox, action</category><enclosure url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/"><img src="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" alt="Seen in Liberty City - GTA 3 PSP Remake" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/"><img src="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" alt="Seen in Liberty City - GTA 3 PSP Remake" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></content:encoded>
-      </item><item>
-        <title>Starfield - NeonExpansion</title>
-        <link>http://localhost:1313/game/starfield-neonexpansion/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/starfield-neonexpansion/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Starfield</category><category>Genre: rpg, action</category><enclosure url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/starfield-neonexpansion/"><img src="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" alt="Starfield - NeonExpansion" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Starfield · Genre: rpg, action</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/starfield-neonexpansion/"><img src="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" alt="Starfield - NeonExpansion" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Starfield · Genre: rpg, action</p>]]></content:encoded>
-      </item><item>
-        <title>Advanced Strategic Command</title>
-        <link>http://localhost:1313/game/advanced-strategic-command/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/advanced-strategic-command/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>open-source</category><category>Genre: strategy</category><enclosure url="http://localhost:1313/Images/Games/advanced-strategic-command.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/advanced-strategic-command.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/advanced-strategic-command.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/advanced-strategic-command/"><img src="http://localhost:1313/Images/Games/advanced-strategic-command.webp" alt="Advanced Strategic Command" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: strategy</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/advanced-strategic-command/"><img src="http://localhost:1313/Images/Games/advanced-strategic-command.webp" alt="Advanced Strategic Command" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: strategy</p>]]></content:encoded>
-      </item><item>
-        <title>CaveExpress</title>
-        <link>http://localhost:1313/game/caveexpress/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/caveexpress/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>open-source</category><category>Genre: platformer</category><enclosure url="http://localhost:1313/Images/Games/caveexpress.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/caveexpress.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/caveexpress.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/caveexpress/"><img src="http://localhost:1313/Images/Games/caveexpress.webp" alt="CaveExpress" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: platformer</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/caveexpress/"><img src="http://localhost:1313/Images/Games/caveexpress.webp" alt="CaveExpress" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: platformer</p>]]></content:encoded>
-      </item><item>
-        <title>Wyrmsun</title>
-        <link>http://localhost:1313/game/wyrmsun/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/wyrmsun/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate><category>open-source</category><category>Genre: strategy</category><enclosure url="http://localhost:1313/Images/Games/wyrmsun.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/wyrmsun.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/wyrmsun.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/wyrmsun/"><img src="http://localhost:1313/Images/Games/wyrmsun.webp" alt="Wyrmsun" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: strategy</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/wyrmsun/"><img src="http://localhost:1313/Images/Games/wyrmsun.webp" alt="Wyrmsun" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Open source · Genre: strategy</p>]]></content:encoded>
       </item></channel>
 </rss>

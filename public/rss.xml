@@ -6,7 +6,73 @@
     <link>http://localhost:1313/</link>
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
-    <lastBuildDate>Fri, 17 Apr 2026 21:31:01 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Thu, 23 Apr 2026 23:14:14 &#43;0000</lastBuildDate><item>
+        <title>Luigi&amp;#39;s Mansion Decompilation</title>
+        <link>http://localhost:1313/game/luigis-mansion-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/luigis-mansion-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>PortForge - A De-Recompilation Port Manager</title>
+        <link>http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" />
+        <media:content url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" type="image/webp" />
+        <category>utility</category>
+        <description></description>
+      </item><item>
+        <title>Final Fantasy VIII Decompilation</title>
+        <link>http://localhost:1313/game/final-fantasy-viii-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/final-fantasy-viii-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>1080 Snowboarding Decompilation</title>
+        <link>http://localhost:1313/game/1080-snowboarding-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/1080-snowboarding-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>Pokemon Ranger: Shadows of Almia Decompilation</title>
+        <link>http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>Tiny Dec - Educational decompiler that helps people understand how decompilation works</title>
+        <link>http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</guid>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" type="image/webp" />
+        <category>utility</category>
+        <description></description>
+      </item><item>
         <title>Bioshock - The War In Rapture</title>
         <link>http://localhost:1313/game/bioshock-the-war-in-rapture/</link>
         <guid isPermaLink="true">http://localhost:1313/game/bioshock-the-war-in-rapture/</guid>
@@ -489,72 +555,6 @@
         <media:content url="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp" medium="image" />
         <enclosure url="http://localhost:1313/Images/Games/ridge-racer-collection-with-online-play.webp" type="image/webp" />
         <category>fan-games</category>
-        <description></description>
-      </item><item>
-        <title>Silent Hill 2 Decompilation</title>
-        <link>http://localhost:1313/game/silent-hill-2-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/silent-hill-2-decompilation/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/silent-hill-2-decompilation.webp" type="image/webp" />
-        <category>in-the-works</category>
-        <description></description>
-      </item><item>
-        <title>Seen in Liberty City - GTA 3 PSP Remake</title>
-        <link>http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/seen-in-liberty-city-gta-3-psp-remake/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" />
-        <media:content url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/seen-in-liberty-city-gta-3-psp-remake.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Starfield - NeonExpansion</title>
-        <link>http://localhost:1313/game/starfield-neonexpansion/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/starfield-neonexpansion/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" />
-        <media:content url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/starfield-neonexpansion.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Advanced Strategic Command</title>
-        <link>http://localhost:1313/game/advanced-strategic-command/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/advanced-strategic-command/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/advanced-strategic-command.webp" />
-        <media:content url="http://localhost:1313/Images/Games/advanced-strategic-command.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/advanced-strategic-command.webp" type="image/webp" />
-        <category>open-source</category>
-        <description></description>
-      </item><item>
-        <title>CaveExpress</title>
-        <link>http://localhost:1313/game/caveexpress/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/caveexpress/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/caveexpress.webp" />
-        <media:content url="http://localhost:1313/Images/Games/caveexpress.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/caveexpress.webp" type="image/webp" />
-        <category>open-source</category>
-        <description></description>
-      </item><item>
-        <title>Wyrmsun</title>
-        <link>http://localhost:1313/game/wyrmsun/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/wyrmsun/</guid>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/wyrmsun.webp" />
-        <media:content url="http://localhost:1313/Images/Games/wyrmsun.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/wyrmsun.webp" type="image/webp" />
-        <category>open-source</category>
         <description></description>
       </item>
   </channel>

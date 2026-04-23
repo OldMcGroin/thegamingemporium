@@ -8861,13 +8861,13 @@
     "id": 681,
     "title": "Luigi's Mansion Decompilation",
     "category": "in-the-works",
-    "link": "https://github.com/Moddimation/Yasiki",
+    "link": "https://github.com/ThePlayerRolo/lm-decomp",
     "genre1": "adventure",
     "genre2": "puzzle",
     "series": "Super Mario",
     "video_link": "",
     "notes": "",
-    "date_added": "",
+    "date_added": "2026-04-23",
     "image": ""
   },
   {
@@ -28364,6 +28364,71 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-04-17",
+    "image": ""
+  },
+  {
+    "id": 2175,
+    "title": "PortForge - A De-Recompilation Port Manager",
+    "category": "utility",
+    "link": "https://github.com/portforge/portforge-app",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-23",
+    "image": ""
+  },
+  {
+    "id": 2176,
+    "title": "Final Fantasy VIII Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/roengstrom/ff8-decomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Final Fantasy",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-23",
+    "image": ""
+  },
+  {
+    "id": 2177,
+    "title": "1080 Snowboarding Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/bigyoshi51/1080-decomp",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "1080 Snowboarding",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-23",
+    "image": ""
+  },
+  {
+    "id": 2178,
+    "title": "Pokemon Ranger: Shadows of Almia Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Kuruyia/pokeranger2",
+    "genre1": "creature-collector",
+    "genre2": "rpg",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-23",
+    "image": ""
+  },
+  {
+    "id": 2179,
+    "title": "Tiny Dec - Educational decompiler that helps people understand how decompilation works",
+    "category": "utility",
+    "link": "https://github.com/ZhangZhuoSJTU/tiny-dec",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-23",
     "image": ""
   }
 
