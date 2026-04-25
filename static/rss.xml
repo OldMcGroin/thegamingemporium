@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 25 Apr 2026 22:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 23:05:33 +0000</lastBuildDate>
     <item>
       <title>Ghostship - Mario 64 PS Vita Port</title>
       <link>https://thegamingemporium.com/game/ghostship-mario-64-ps-vita-port/</link>
@@ -38,6 +38,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" alt="Star Warfare: Alien Invasion PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Star Warfare · Genre: third person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" alt="Star Warfare: Alien Invasion PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Star Warfare · Genre: third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Mario's Modules 2</title>
+      <link>https://thegamingemporium.com/game/mario-s-modules-2/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-s-modules-2/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-s-modules-2.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-s-modules-2.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-s-modules-2.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-s-modules-2.webp" alt="Mario's Modules 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-s-modules-2.webp" alt="Mario's Modules 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Mega Man DXtreme</title>
+      <link>https://thegamingemporium.com/game/mega-man-dxtreme/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mega-man-dxtreme/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mega-man-dxtreme.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mega-man-dxtreme.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-dxtreme.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-dxtreme.webp" alt="Mega Man DXtreme" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Mega Man · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-dxtreme.webp" alt="Mega Man DXtreme" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Mega Man · Genre: platformer, action]]></content:encoded>
     </item>
     <item>
       <title>Luigi's Mansion Decompilation</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dust-racing-2d.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dust-racing-2d.webp" alt="Dust Racing 2D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dust-racing-2d.webp" alt="Dust Racing 2D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Steam Sky</title>
-      <link>https://thegamingemporium.com/game/steam-sky/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/steam-sky/</guid>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/steam-sky.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/steam-sky.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/steam-sky.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/steam-sky.webp" alt="Steam Sky" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: roguelike, strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/steam-sky.webp" alt="Steam Sky" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: roguelike, strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>AstroMenace</title>
-      <link>https://thegamingemporium.com/game/astromenace/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/astromenace/</guid>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/astromenace.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/astromenace.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/astromenace.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/astromenace.webp" alt="AstroMenace" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/astromenace.webp" alt="AstroMenace" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></content:encoded>
     </item>
   </channel>
 </rss>
