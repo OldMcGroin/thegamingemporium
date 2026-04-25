@@ -28430,6 +28430,45 @@
     "notes": "",
     "date_added": "2026-04-23",
     "image": ""
+  },
+  {
+    "id": 2180,
+    "title": "Ghostship - Mario 64 PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1387",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-25",
+    "image": ""
+  },
+  {
+    "id": 2181,
+    "title": "Starship - Starfox 64 PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1388",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "series": "Star Fox",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-25",
+    "image": ""
+  },
+  {
+    "id": 2182,
+    "title": "Star Warfare: Alien Invasion PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1386",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Star Warfare",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-25",
+    "image": ""
   }
 
 
