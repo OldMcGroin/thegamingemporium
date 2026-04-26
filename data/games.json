@@ -28495,6 +28495,32 @@
     "notes": "",
     "date_added": "2026-04-25",
     "image": ""
+  },
+  {
+    "id": 2185,
+    "title": "OpenMW - Morrowind PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1390",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "The Elder Scrolls",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-26",
+    "image": ""
+  },
+  {
+    "id": 2186,
+    "title": "Pokemon Light Platinum DS",
+    "category": "rom-hacks",
+    "link": "https://pokehacking.com/fangames/light-platinum/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-26",
+    "image": ""
   }
 
 

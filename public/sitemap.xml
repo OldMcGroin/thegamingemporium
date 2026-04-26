@@ -3100,6 +3100,8 @@
   </url><url>
     <loc>http://localhost:1313/game/openmw-morrowind-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/openmw-morrowind-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/opennotrium/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opennox/</loc>
@@ -3327,6 +3329,8 @@
     <loc>http://localhost:1313/game/pokemon-inritum/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-lazarus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-light-platinum-ds/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-luminescent-platinum/</loc>
   </url><url>
