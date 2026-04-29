@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 27 Apr 2026 21:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 22:05:02 +0000</lastBuildDate>
+    <item>
+      <title>Battleship - Smash Brothers 64 PC Port</title>
+      <link>https://thegamingemporium.com/game/battleship-smash-brothers-64-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/battleship-smash-brothers-64-pc-port/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/battleship-smash-brothers-64-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/battleship-smash-brothers-64-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/battleship-smash-brothers-64-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-smash-brothers-64-pc-port.webp" alt="Battleship - Smash Brothers 64 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-smash-brothers-64-pc-port.webp" alt="Battleship - Smash Brothers 64 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: fighting]]></content:encoded>
+    </item>
     <item>
       <title>Tiny Bullets - Playstation</title>
       <link>https://thegamingemporium.com/game/tiny-bullets-playstation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" alt="Super Methane Brothers" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" alt="Super Methane Brothers" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Gardens of Kadesh</title>
-      <link>https://thegamingemporium.com/game/gardens-of-kadesh/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/gardens-of-kadesh/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gardens-of-kadesh.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/gardens-of-kadesh.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/gardens-of-kadesh.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gardens-of-kadesh.webp" alt="Gardens of Kadesh" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gardens-of-kadesh.webp" alt="Gardens of Kadesh" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy]]></content:encoded>
     </item>
   </channel>
 </rss>

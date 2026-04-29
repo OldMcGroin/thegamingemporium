@@ -10220,7 +10220,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 786,
@@ -25634,7 +25635,6 @@
     "notes": "",
     "date_added": "2026-02-22",
     "image": ""
-
   },
   {
     "id": 1967,
@@ -28534,7 +28534,18 @@
     "notes": "",
     "date_added": "2026-04-27",
     "image": ""
+  },
+  {
+    "id": 2188,
+    "title": "Battleship - Smash Brothers 64 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/JRickey/BattleShip",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-04-29",
+    "image": ""
   }
-
-
 ]
