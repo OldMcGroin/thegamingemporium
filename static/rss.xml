@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 29 Apr 2026 22:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:08:31 +0000</lastBuildDate>
+    <item>
+      <title>Bomberman Hero Recompilation</title>
+      <link>https://thegamingemporium.com/game/bomberman-hero-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bomberman-hero-recompilation/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bomberman-hero-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bomberman-hero-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bomberman-hero-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-hero-recompilation.webp" alt="Bomberman Hero Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: adventure, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-hero-recompilation.webp" alt="Bomberman Hero Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: adventure, action]]></content:encoded>
+    </item>
     <item>
       <title>Battleship - Smash Brothers 64 PC Port</title>
       <link>https://thegamingemporium.com/game/battleship-smash-brothers-64-pc-port/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/f1-spirit.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/f1-spirit.webp" alt="F1-Spirit" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/f1-spirit.webp" alt="F1-Spirit" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Methane Brothers</title>
-      <link>https://thegamingemporium.com/game/super-methane-brothers/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-methane-brothers/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" alt="Super Methane Brothers" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-methane-brothers.webp" alt="Super Methane Brothers" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>
