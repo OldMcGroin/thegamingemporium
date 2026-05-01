@@ -28560,6 +28560,32 @@
     "notes": "",
     "date_added": "2026-05-01",
     "image": ""
+  },
+    {
+    "id": 2190,
+    "title": "Spaghetti Kart - Mario Kart 64 PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1393",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-01",
+    "image": ""
+  },
+    {
+    "id": 2191,
+    "title": "Tomb Raider: Side-Scroller Edition",
+    "category": "fan-games",
+    "link": "https://trcustoms.org/levels/3883",
+    "genre1": "plarformer",
+    "genre2": "puzzle",
+    "series": "Tomb Raider",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-01",
+    "image": ""
   }
 
 
