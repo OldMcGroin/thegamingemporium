@@ -1,6 +1,6 @@
 ---
-title: "Spaghetti Kart - Mario Kart 64 PS Vita Port"
-url: "/game/spaghetti-kart-mario-kart-64-ps-vita-port/"
+title: "Mario Kart 64 PS Vita Port"
+url: "/game/mario-kart-64-ps-vita-port/"
 type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1393"

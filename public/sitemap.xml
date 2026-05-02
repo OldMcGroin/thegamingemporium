@@ -2490,6 +2490,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mario-kart-64-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-8-deluxe-ctgp-deluxe/</loc>
@@ -4193,8 +4195,6 @@
     <loc>http://localhost:1313/series/spaceship-warlock/</loc>
   </url><url>
     <loc>http://localhost:1313/game/spaghetti-kart-mario-kart-64-pc-port/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/spaghetti-kart-mario-kart-64-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/spankys-quest/</loc>
   </url><url>
