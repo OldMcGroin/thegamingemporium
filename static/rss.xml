@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 02 May 2026 22:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:55:57 +0000</lastBuildDate>
+    <item>
+      <title>The Legend of Zelda: The Minish Cap PC Port</title>
+      <link>https://thegamingemporium.com/game/the-legend-of-zelda-the-minish-cap-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-the-minish-cap-pc-port/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" alt="The Legend of Zelda: The Minish Cap PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" alt="The Legend of Zelda: The Minish Cap PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, puzzle]]></content:encoded>
+    </item>
     <item>
       <title>Bomberman Hero Recompilation</title>
       <link>https://thegamingemporium.com/game/bomberman-hero-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/magical-broom-extreme.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/magical-broom-extreme.webp" alt="Magical Broom Extreme" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/magical-broom-extreme.webp" alt="Magical Broom Extreme" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>HoverRace</title>
-      <link>https://thegamingemporium.com/game/hoverrace/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/hoverrace/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hoverrace.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/hoverrace.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/hoverrace.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hoverrace.webp" alt="HoverRace" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hoverrace.webp" alt="HoverRace" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
