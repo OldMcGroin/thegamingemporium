@@ -28599,6 +28599,45 @@
     "notes": "",
     "date_added": "2026-05-04",
     "image": ""
+  },
+    {
+    "id": 2193,
+    "title": "Librelancer",
+    "category": "open-source",
+    "link": "https://librelancer.net/",
+    "genre1": "space-combat-simulator",
+    "genre2": "rpg",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-05",
+    "image": ""
+  },
+    {
+    "id": 2194,
+    "title": "Resident Evil - Requiem for Ravenholm",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/residentevilrequiem/mods/1976",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "",
+    "video_link": "https://youtu.be/5qPM4_TZTjA?si=uxUuShmOl3zbpv2J",
+    "notes": "",
+    "date_added": "2026-05-05",
+    "image": ""
+  },
+    {
+    "id": 2195,
+    "title": "Paper Mario: Star Nova",
+    "category": "mods",
+    "link": "https://nictuber.itch.io/paper-mario-star-nova",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/EOZQR3QEEM8?si=0IybnpCVZxyKXTtT",
+    "notes": "",
+    "date_added": "2026-05-05",
+    "image": ""
   }
 
 
