@@ -5,7 +5,40 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 05 May 2026 13:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:23:03 +0000</lastBuildDate>
+    <item>
+      <title>Parasite Eve 2 Decompilation</title>
+      <link>https://thegamingemporium.com/game/parasite-eve-2-decompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/parasite-eve-2-decompilation/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/parasite-eve-2-decompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/parasite-eve-2-decompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/parasite-eve-2-decompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/parasite-eve-2-decompilation.webp" alt="Parasite Eve 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Parasite Eve · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/parasite-eve-2-decompilation.webp" alt="Parasite Eve 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Parasite Eve · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>WarioWare Inc. Decompilation</title>
+      <link>https://thegamingemporium.com/game/warioware-inc-decompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/warioware-inc-decompilation/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" alt="WarioWare Inc. Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Super Mario · Genre: party game]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" alt="WarioWare Inc. Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Super Mario · Genre: party game]]></content:encoded>
+    </item>
+    <item>
+      <title>Resident Evil Requiem - Merchant</title>
+      <link>https://thegamingemporium.com/game/resident-evil-requiem-merchant/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-requiem-merchant/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></content:encoded>
+    </item>
     <item>
       <title>Librelancer</title>
       <link>https://thegamingemporium.com/game/librelancer/</link>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/maelstrom.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/maelstrom.webp" alt="Maelstrom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/maelstrom.webp" alt="Maelstrom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>SDL Scavenger</title>
-      <link>https://thegamingemporium.com/game/sdl-scavenger/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sdl-scavenger/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sdl-scavenger.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sdl-scavenger.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sdl-scavenger.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdl-scavenger.webp" alt="SDL Scavenger" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdl-scavenger.webp" alt="SDL Scavenger" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>SDL Asylum</title>
-      <link>https://thegamingemporium.com/game/sdl-asylum/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sdl-asylum/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sdl-asylum.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sdl-asylum.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sdl-asylum.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdl-asylum.webp" alt="SDL Asylum" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdl-asylum.webp" alt="SDL Asylum" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Noctis IV Plus</title>
-      <link>https://thegamingemporium.com/game/noctis-iv-plus/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/noctis-iv-plus/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/noctis-iv-plus.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/noctis-iv-plus.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/noctis-iv-plus.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/noctis-iv-plus.webp" alt="Noctis IV Plus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: dreamable space simulator]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/noctis-iv-plus.webp" alt="Noctis IV Plus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: dreamable space simulator]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -28638,6 +28638,45 @@
     "notes": "",
     "date_added": "2026-05-05",
     "image": ""
+  },
+    {
+    "id": 2196,
+    "title": "Parasite Eve 2 Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/GabeRealB/parasite-eve-2-decomp",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Parasite Eve",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-08",
+    "image": ""
+  },
+    {
+    "id": 2197,
+    "title": "WarioWare Inc. Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/ShaffySwitcher/wariowareinc",
+    "genre1": "party-game",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-08",
+    "image": ""
+  },
+    {
+    "id": 2198,
+    "title": "Resident Evil Requiem - Merchant",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/residentevilrequiem/mods/1920?tab=description",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/BA30PG3FD8w?si=kWCGBZD710-Pyn1x",
+    "notes": "",
+    "date_added": "2026-05-08",
+    "image": ""
   }
 
 
