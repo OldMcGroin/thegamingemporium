@@ -11586,7 +11586,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 891,
@@ -28548,7 +28549,7 @@
     "date_added": "2026-04-29",
     "image": ""
   },
-    {
+  {
     "id": 2189,
     "title": "Bomberman Hero Recompilation",
     "category": "decompilations-recompilations",
@@ -28561,7 +28562,7 @@
     "date_added": "2026-05-01",
     "image": ""
   },
-    {
+  {
     "id": 2190,
     "title": "Mario Kart 64 PS Vita Port",
     "category": "console-ports",
@@ -28574,7 +28575,7 @@
     "date_added": "2026-05-01",
     "image": ""
   },
-    {
+  {
     "id": 2191,
     "title": "Tomb Raider: Side-Scroller Edition",
     "category": "fan-games",
@@ -28587,7 +28588,7 @@
     "date_added": "2026-05-01",
     "image": ""
   },
-    {
+  {
     "id": 2192,
     "title": "The Legend of Zelda: The Minish Cap PC Port",
     "category": "decompilations-recompilations",
@@ -28600,7 +28601,7 @@
     "date_added": "2026-05-04",
     "image": ""
   },
-    {
+  {
     "id": 2193,
     "title": "Librelancer",
     "category": "open-source",
@@ -28613,7 +28614,7 @@
     "date_added": "2026-05-05",
     "image": ""
   },
-    {
+  {
     "id": 2194,
     "title": "Resident Evil - Requiem for Ravenholm",
     "category": "mods",
@@ -28626,7 +28627,7 @@
     "date_added": "2026-05-05",
     "image": ""
   },
-    {
+  {
     "id": 2195,
     "title": "Paper Mario: Star Nova",
     "category": "mods",
@@ -28639,7 +28640,7 @@
     "date_added": "2026-05-05",
     "image": ""
   },
-    {
+  {
     "id": 2196,
     "title": "Parasite Eve 2 Decompilation",
     "category": "in-the-works",
@@ -28652,7 +28653,7 @@
     "date_added": "2026-05-08",
     "image": ""
   },
-    {
+  {
     "id": 2197,
     "title": "WarioWare Inc. Decompilation",
     "category": "in-the-works",
@@ -28665,7 +28666,7 @@
     "date_added": "2026-05-08",
     "image": ""
   },
-    {
+  {
     "id": 2198,
     "title": "Resident Evil Requiem - Merchant",
     "category": "mods",
@@ -28678,7 +28679,4 @@
     "date_added": "2026-05-08",
     "image": ""
   }
-
-
-
 ]
