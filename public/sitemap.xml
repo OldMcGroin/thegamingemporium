@@ -170,6 +170,8 @@
   </url><url>
     <loc>http://localhost:1313/game/animal-crossing-deluxe/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/animal-crossing-gamecube-web-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/animal-crossing-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/animal-crossing-pc-port-hd-texture-pack/</loc>
@@ -429,6 +431,8 @@
     <loc>http://localhost:1313/game/black-mesa-military/</loc>
   </url><url>
     <loc>http://localhost:1313/game/black-reliquary-total-conversion-mod-for-darkest-dungeon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/black-white/</loc>
   </url><url>
     <loc>http://localhost:1313/series/blacksite/</loc>
   </url><url>
@@ -1899,8 +1903,6 @@
     <loc>http://localhost:1313/series/gyakuten-kenji/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gyakuten-kenji-2-nintendo-ds/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/gzdoom-with-gzdeck-mods/</loc>
   </url><url>
     <loc>http://localhost:1313/game/h-craft-championship/</loc>
   </url><url>

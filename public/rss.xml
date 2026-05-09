@@ -5,7 +5,29 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 09 May 2026 11:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 12:35:46 +0000</lastBuildDate>
+    <item>
+      <title>Animal Crossing Gamecube Web Port</title>
+      <link>https://thegamingemporium.com/game/animal-crossing-gamecube-web-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/animal-crossing-gamecube-web-port/</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/animal-crossing-gamecube-web-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/animal-crossing-gamecube-web-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/animal-crossing-gamecube-web-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/animal-crossing-gamecube-web-port.webp" alt="Animal Crossing Gamecube Web Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Animal Crossing · Genre: life simulator, sandbox]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/animal-crossing-gamecube-web-port.webp" alt="Animal Crossing Gamecube Web Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Animal Crossing · Genre: life simulator, sandbox]]></content:encoded>
+    </item>
+    <item>
+      <title>Resident Evil Requiem - Merchant</title>
+      <link>https://thegamingemporium.com/game/resident-evil-requiem-merchant/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-requiem-merchant/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></content:encoded>
+    </item>
     <item>
       <title>Parasite Eve 2 Decompilation</title>
       <link>https://thegamingemporium.com/game/parasite-eve-2-decompilation/</link>
@@ -27,17 +49,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" alt="WarioWare Inc. Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Super Mario · Genre: party game]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-inc-decompilation.webp" alt="WarioWare Inc. Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Super Mario · Genre: party game]]></content:encoded>
-    </item>
-    <item>
-      <title>Resident Evil Requiem - Merchant</title>
-      <link>https://thegamingemporium.com/game/resident-evil-requiem-merchant/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-requiem-merchant/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-requiem-merchant.webp" alt="Resident Evil Requiem - Merchant" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></content:encoded>
     </item>
     <item>
       <title>Librelancer</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dethrace-labs.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dethrace-labs.webp" alt="Dethrace Labs" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dethrace-labs.webp" alt="Dethrace Labs" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: racing, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Maelstrom</title>
-      <link>https://thegamingemporium.com/game/maelstrom/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/maelstrom/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/maelstrom.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/maelstrom.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/maelstrom.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/maelstrom.webp" alt="Maelstrom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/maelstrom.webp" alt="Maelstrom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: shoot em up]]></content:encoded>
     </item>
   </channel>
 </rss>

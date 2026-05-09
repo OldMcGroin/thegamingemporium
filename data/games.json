@@ -11576,18 +11576,17 @@
     "image": ""
   },
   {
-    "id": 890,
-    "title": "GZDoom with GZDeck mods",
+    "id": 2198,
+    "title": "Resident Evil Requiem - Merchant",
     "category": "mods",
-    "link": "https://github.com/flegald/GZDeck",
-    "genre1": "first-person-shooter",
+    "link": "https://www.nexusmods.com/residentevilrequiem/mods/1920?tab=description",
+    "genre1": "survival-horror",
     "genre2": "",
-    "series": "Doom",
-    "video_link": "",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/BA30PG3FD8w?si=kWCGBZD710-Pyn1x",
     "notes": "",
-    "date_added": "",
-    "image": "",
-    "hidden": true
+    "date_added": "2026-05-08",
+    "image": ""
   },
   {
     "id": 891,
@@ -21471,7 +21470,7 @@
     "link": "https://www.myabandonware.com/game/black-white-2-bem",
     "genre1": "strategy",
     "genre2": "god-simulator",
-    "series": "Black & White",
+    "series": "Black White",
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-15",
@@ -21497,7 +21496,7 @@
     "link": "https://www.myabandonware.com/game/black-white-a33",
     "genre1": "strategy",
     "genre2": "god-simulator",
-    "series": "Black & White",
+    "series": "Black White",
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-15",
@@ -28666,17 +28665,19 @@
     "date_added": "2026-05-08",
     "image": ""
   },
-  {
+    {
     "id": 2198,
-    "title": "Resident Evil Requiem - Merchant",
-    "category": "mods",
-    "link": "https://www.nexusmods.com/residentevilrequiem/mods/1920?tab=description",
-    "genre1": "survival-horror",
-    "genre2": "",
-    "series": "Resident Evil",
-    "video_link": "https://youtu.be/BA30PG3FD8w?si=kWCGBZD710-Pyn1x",
+    "title": "Animal Crossing Gamecube Web Port",
+    "category": "fan-games",
+    "link": "https://turtlekiosk.github.io/slider/",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "series": "Animal Crossing",
+    "video_link": "",
     "notes": "",
-    "date_added": "2026-05-08",
+    "date_added": "2026-05-09",
     "image": ""
   }
+
+
 ]
