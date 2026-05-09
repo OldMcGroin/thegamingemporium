@@ -28677,6 +28677,32 @@
     "notes": "",
     "date_added": "2026-05-09",
     "image": ""
+  },
+    {
+    "id": 2199,
+    "title": "Flare",
+    "category": "open-source",
+    "link": "https://flarerpg.org/2026/05/03/flare-1-15/",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Flare",
+    "video_link": "https://youtu.be/rj7XfoCERK4?si=5KtKQi1RWwc_zHyD",
+    "notes": "",
+    "date_added": "2026-05-09",
+    "image": ""
+  },
+    {
+    "id": 2200,
+    "title": "Triggerheart Exelica - Dreamcast",
+    "category": "english-translation-patches",
+    "link": "https://github.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-09",
+    "image": ""
   }
 
 
