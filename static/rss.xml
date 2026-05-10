@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 09 May 2026 22:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 07:12:35 +0000</lastBuildDate>
+    <item>
+      <title>Dusk - The Legend of Zelda Twilight Princess PC Port</title>
+      <link>https://thegamingemporium.com/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" alt="Dusk - The Legend of Zelda Twilight Princess PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" alt="Dusk - The Legend of Zelda Twilight Princess PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
+    </item>
     <item>
       <title>Animal Crossing Gamecube Web Port</title>
       <link>https://thegamingemporium.com/game/animal-crossing-gamecube-web-port/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/freesynd-re-implementation-of-syndicate.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freesynd-re-implementation-of-syndicate.webp" alt="FreeSynd - Re-implementation of Syndicate" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freesynd-re-implementation-of-syndicate.webp" alt="FreeSynd - Re-implementation of Syndicate" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: strategy, action]]></content:encoded>
-    </item>
-    <item>
-      <title>jftekwar - TekWar Port</title>
-      <link>https://thegamingemporium.com/game/jftekwar-tekwar-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/jftekwar-tekwar-port/</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/jftekwar-tekwar-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/jftekwar-tekwar-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/jftekwar-tekwar-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jftekwar-tekwar-port.webp" alt="jftekwar - TekWar Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jftekwar-tekwar-port.webp" alt="jftekwar - TekWar Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: first person shooter]]></content:encoded>
     </item>
   </channel>
 </rss>
