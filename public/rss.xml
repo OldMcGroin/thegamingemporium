@@ -3,557 +3,557 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>The Gaming Emporium – Recent Additions</title>
-    <link>http://localhost:33269/</link>
-    <atom:link href="http://localhost:33269/rss.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
-    <lastBuildDate>Sun, 10 May 2026 07:13:38 &#43;0000</lastBuildDate><item>
-        <title>Dusk - The Legend of Zelda Twilight Princess PC Port</title>
-        <link>http://localhost:33269/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</guid>
+    <lastBuildDate>Sun, 10 May 2026 07:23:15 &#43;0000</lastBuildDate><item>
+        <title>Dusk - The Legend of Zelda Twilight Princess PC Port Texture Pack</title>
+        <link>http://localhost:1313/game/dusk-the-legend-of-zelda-twilight-princess-pc-port-texture-pack/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dusk-the-legend-of-zelda-twilight-princess-pc-port-texture-pack/</guid>
         <pubDate>Sun, 10 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port-texture-pack.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port-texture-pack.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port-texture-pack.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Dusk - The Legend of Zelda Twilight Princess PC Port</title>
+        <link>http://localhost:1313/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/</guid>
+        <pubDate>Sun, 10 May 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dusk-the-legend-of-zelda-twilight-princess-pc-port.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
         <description></description>
       </item><item>
         <title>Animal Crossing Gamecube Web Port</title>
-        <link>http://localhost:33269/game/animal-crossing-gamecube-web-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/animal-crossing-gamecube-web-port/</guid>
+        <link>http://localhost:1313/game/animal-crossing-gamecube-web-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/animal-crossing-gamecube-web-port/</guid>
         <pubDate>Sat, 09 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/animal-crossing-gamecube-web-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/animal-crossing-gamecube-web-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/animal-crossing-gamecube-web-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/animal-crossing-gamecube-web-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/animal-crossing-gamecube-web-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/animal-crossing-gamecube-web-port.webp" type="image/webp" />
         <category>fan-games</category>
         <description></description>
       </item><item>
         <title>Flare</title>
-        <link>http://localhost:33269/game/flare/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/flare/</guid>
+        <link>http://localhost:1313/game/flare/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/flare/</guid>
         <pubDate>Sat, 09 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/flare.webp" />
-        <media:content url="http://localhost:33269/Images/Games/flare.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/flare.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/flare.webp" />
+        <media:content url="http://localhost:1313/Images/Games/flare.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/flare.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Triggerheart Exelica - Dreamcast</title>
-        <link>http://localhost:33269/game/triggerheart-exelica-dreamcast/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/triggerheart-exelica-dreamcast/</guid>
+        <link>http://localhost:1313/game/triggerheart-exelica-dreamcast/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/triggerheart-exelica-dreamcast/</guid>
         <pubDate>Sat, 09 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/triggerheart-exelica-dreamcast.webp" />
-        <media:content url="http://localhost:33269/Images/Games/triggerheart-exelica-dreamcast.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/triggerheart-exelica-dreamcast.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/triggerheart-exelica-dreamcast.webp" />
+        <media:content url="http://localhost:1313/Images/Games/triggerheart-exelica-dreamcast.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/triggerheart-exelica-dreamcast.webp" type="image/webp" />
         <category>english-translation-patches</category>
         <description></description>
       </item><item>
         <title>Resident Evil Requiem - Merchant</title>
-        <link>http://localhost:33269/game/resident-evil-requiem-merchant/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/resident-evil-requiem-merchant/</guid>
+        <link>http://localhost:1313/game/resident-evil-requiem-merchant/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/resident-evil-requiem-merchant/</guid>
         <pubDate>Fri, 08 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/resident-evil-requiem-merchant.webp" />
-        <media:content url="http://localhost:33269/Images/Games/resident-evil-requiem-merchant.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/resident-evil-requiem-merchant.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/resident-evil-requiem-merchant.webp" />
+        <media:content url="http://localhost:1313/Images/Games/resident-evil-requiem-merchant.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/resident-evil-requiem-merchant.webp" type="image/webp" />
         <category>mods</category>
         <description></description>
       </item><item>
         <title>Parasite Eve 2 Decompilation</title>
-        <link>http://localhost:33269/game/parasite-eve-2-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/parasite-eve-2-decompilation/</guid>
+        <link>http://localhost:1313/game/parasite-eve-2-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/parasite-eve-2-decompilation/</guid>
         <pubDate>Fri, 08 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/parasite-eve-2-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/parasite-eve-2-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/parasite-eve-2-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/parasite-eve-2-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/parasite-eve-2-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/parasite-eve-2-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>WarioWare Inc. Decompilation</title>
-        <link>http://localhost:33269/game/warioware-inc.-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/warioware-inc.-decompilation/</guid>
+        <link>http://localhost:1313/game/warioware-inc.-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/warioware-inc.-decompilation/</guid>
         <pubDate>Fri, 08 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/warioware-inc.-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/warioware-inc.-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/warioware-inc.-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/warioware-inc.-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/warioware-inc.-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/warioware-inc.-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>Librelancer</title>
-        <link>http://localhost:33269/game/librelancer/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/librelancer/</guid>
+        <link>http://localhost:1313/game/librelancer/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/librelancer/</guid>
         <pubDate>Tue, 05 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/librelancer.webp" />
-        <media:content url="http://localhost:33269/Images/Games/librelancer.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/librelancer.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/librelancer.webp" />
+        <media:content url="http://localhost:1313/Images/Games/librelancer.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/librelancer.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Resident Evil - Requiem for Ravenholm</title>
-        <link>http://localhost:33269/game/resident-evil-requiem-for-ravenholm/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/resident-evil-requiem-for-ravenholm/</guid>
+        <link>http://localhost:1313/game/resident-evil-requiem-for-ravenholm/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/resident-evil-requiem-for-ravenholm/</guid>
         <pubDate>Tue, 05 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/resident-evil-requiem-for-ravenholm.webp" />
-        <media:content url="http://localhost:33269/Images/Games/resident-evil-requiem-for-ravenholm.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/resident-evil-requiem-for-ravenholm.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/resident-evil-requiem-for-ravenholm.webp" />
+        <media:content url="http://localhost:1313/Images/Games/resident-evil-requiem-for-ravenholm.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/resident-evil-requiem-for-ravenholm.webp" type="image/webp" />
         <category>mods</category>
         <description></description>
       </item><item>
         <title>Paper Mario: Star Nova</title>
-        <link>http://localhost:33269/game/paper-mario-star-nova/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/paper-mario-star-nova/</guid>
+        <link>http://localhost:1313/game/paper-mario-star-nova/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/paper-mario-star-nova/</guid>
         <pubDate>Tue, 05 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/paper-mario-star-nova.webp" />
-        <media:content url="http://localhost:33269/Images/Games/paper-mario-star-nova.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/paper-mario-star-nova.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/paper-mario-star-nova.webp" />
+        <media:content url="http://localhost:1313/Images/Games/paper-mario-star-nova.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/paper-mario-star-nova.webp" type="image/webp" />
         <category>mods</category>
         <description></description>
       </item><item>
         <title>The Legend of Zelda: The Minish Cap PC Port</title>
-        <link>http://localhost:33269/game/the-legend-of-zelda-the-minish-cap-pc-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/the-legend-of-zelda-the-minish-cap-pc-port/</guid>
+        <link>http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-pc-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-pc-port/</guid>
         <pubDate>Mon, 04 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-the-minish-cap-pc-port.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
         <description></description>
       </item><item>
         <title>Bomberman Hero Recompilation</title>
-        <link>http://localhost:33269/game/bomberman-hero-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/bomberman-hero-recompilation/</guid>
+        <link>http://localhost:1313/game/bomberman-hero-recompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/bomberman-hero-recompilation/</guid>
         <pubDate>Fri, 01 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/bomberman-hero-recompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/bomberman-hero-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/bomberman-hero-recompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/bomberman-hero-recompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/bomberman-hero-recompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/bomberman-hero-recompilation.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
         <description></description>
       </item><item>
         <title>Mario Kart 64 PS Vita Port</title>
-        <link>http://localhost:33269/game/mario-kart-64-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/mario-kart-64-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/mario-kart-64-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mario-kart-64-ps-vita-port/</guid>
         <pubDate>Fri, 01 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/mario-kart-64-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/mario-kart-64-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/mario-kart-64-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/mario-kart-64-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mario-kart-64-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mario-kart-64-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Tomb Raider: Side-Scroller Edition</title>
-        <link>http://localhost:33269/game/tomb-raider-side-scroller-edition/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/tomb-raider-side-scroller-edition/</guid>
+        <link>http://localhost:1313/game/tomb-raider-side-scroller-edition/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tomb-raider-side-scroller-edition/</guid>
         <pubDate>Fri, 01 May 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/tomb-raider-side-scroller-edition.webp" />
-        <media:content url="http://localhost:33269/Images/Games/tomb-raider-side-scroller-edition.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/tomb-raider-side-scroller-edition.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/tomb-raider-side-scroller-edition.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tomb-raider-side-scroller-edition.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tomb-raider-side-scroller-edition.webp" type="image/webp" />
         <category>fan-games</category>
         <description></description>
       </item><item>
         <title>Battleship - Smash Brothers 64 PC Port</title>
-        <link>http://localhost:33269/game/battleship-smash-brothers-64-pc-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/battleship-smash-brothers-64-pc-port/</guid>
+        <link>http://localhost:1313/game/battleship-smash-brothers-64-pc-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/battleship-smash-brothers-64-pc-port/</guid>
         <pubDate>Wed, 29 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/battleship-smash-brothers-64-pc-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/battleship-smash-brothers-64-pc-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/battleship-smash-brothers-64-pc-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
         <description></description>
       </item><item>
         <title>Tiny Bullets - Playstation</title>
-        <link>http://localhost:33269/game/tiny-bullets-playstation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/tiny-bullets-playstation/</guid>
+        <link>http://localhost:1313/game/tiny-bullets-playstation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tiny-bullets-playstation/</guid>
         <pubDate>Mon, 27 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/tiny-bullets-playstation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/tiny-bullets-playstation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/tiny-bullets-playstation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/tiny-bullets-playstation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tiny-bullets-playstation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tiny-bullets-playstation.webp" type="image/webp" />
         <category>english-translation-patches</category>
         <description></description>
       </item><item>
         <title>OpenMW - Morrowind PS Vita Port</title>
-        <link>http://localhost:33269/game/openmw-morrowind-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/openmw-morrowind-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/openmw-morrowind-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/openmw-morrowind-ps-vita-port/</guid>
         <pubDate>Sun, 26 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/openmw-morrowind-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/openmw-morrowind-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/openmw-morrowind-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/openmw-morrowind-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/openmw-morrowind-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/openmw-morrowind-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Pokemon Light Platinum DS</title>
-        <link>http://localhost:33269/game/pokemon-light-platinum-ds/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/pokemon-light-platinum-ds/</guid>
+        <link>http://localhost:1313/game/pokemon-light-platinum-ds/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pokemon-light-platinum-ds/</guid>
         <pubDate>Sun, 26 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/pokemon-light-platinum-ds.webp" />
-        <media:content url="http://localhost:33269/Images/Games/pokemon-light-platinum-ds.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/pokemon-light-platinum-ds.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/pokemon-light-platinum-ds.webp" />
+        <media:content url="http://localhost:1313/Images/Games/pokemon-light-platinum-ds.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/pokemon-light-platinum-ds.webp" type="image/webp" />
         <category>rom-hacks</category>
         <description></description>
       </item><item>
         <title>Ghostship - Mario 64 PS Vita Port</title>
-        <link>http://localhost:33269/game/ghostship-mario-64-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/ghostship-mario-64-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/ghostship-mario-64-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ghostship-mario-64-ps-vita-port/</guid>
         <pubDate>Sat, 25 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/ghostship-mario-64-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/ghostship-mario-64-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/ghostship-mario-64-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/ghostship-mario-64-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ghostship-mario-64-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ghostship-mario-64-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Starship - Starfox 64 PS Vita Port</title>
-        <link>http://localhost:33269/game/starship-starfox-64-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/starship-starfox-64-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/starship-starfox-64-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/starship-starfox-64-ps-vita-port/</guid>
         <pubDate>Sat, 25 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/starship-starfox-64-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/starship-starfox-64-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/starship-starfox-64-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/starship-starfox-64-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/starship-starfox-64-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/starship-starfox-64-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Star Warfare: Alien Invasion PS Vita Port</title>
-        <link>http://localhost:33269/game/star-warfare-alien-invasion-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/star-warfare-alien-invasion-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/star-warfare-alien-invasion-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/star-warfare-alien-invasion-ps-vita-port/</guid>
         <pubDate>Sat, 25 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/star-warfare-alien-invasion-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Mario&amp;#39;s Modules 2</title>
-        <link>http://localhost:33269/game/marios-modules-2/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/marios-modules-2/</guid>
+        <link>http://localhost:1313/game/marios-modules-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/marios-modules-2/</guid>
         <pubDate>Sat, 25 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/marios-modules-2.webp" />
-        <media:content url="http://localhost:33269/Images/Games/marios-modules-2.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/marios-modules-2.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/marios-modules-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/marios-modules-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/marios-modules-2.webp" type="image/webp" />
         <category>rom-hacks</category>
         <description></description>
       </item><item>
         <title>Mega Man DXtreme</title>
-        <link>http://localhost:33269/game/mega-man-dxtreme/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/mega-man-dxtreme/</guid>
+        <link>http://localhost:1313/game/mega-man-dxtreme/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mega-man-dxtreme/</guid>
         <pubDate>Sat, 25 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/mega-man-dxtreme.webp" />
-        <media:content url="http://localhost:33269/Images/Games/mega-man-dxtreme.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/mega-man-dxtreme.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/mega-man-dxtreme.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mega-man-dxtreme.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mega-man-dxtreme.webp" type="image/webp" />
         <category>fan-games</category>
         <description></description>
       </item><item>
         <title>Luigi&amp;#39;s Mansion Decompilation</title>
-        <link>http://localhost:33269/game/luigis-mansion-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/luigis-mansion-decompilation/</guid>
+        <link>http://localhost:1313/game/luigis-mansion-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/luigis-mansion-decompilation/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/luigis-mansion-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/luigis-mansion-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/luigis-mansion-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/luigis-mansion-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>PortForge - A De-Recompilation Port Manager</title>
-        <link>http://localhost:33269/game/portforge-a-de-recompilation-port-manager/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/portforge-a-de-recompilation-port-manager/</guid>
+        <link>http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/portforge-a-de-recompilation-port-manager/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/portforge-a-de-recompilation-port-manager.webp" />
-        <media:content url="http://localhost:33269/Images/Games/portforge-a-de-recompilation-port-manager.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/portforge-a-de-recompilation-port-manager.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" />
+        <media:content url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/portforge-a-de-recompilation-port-manager.webp" type="image/webp" />
         <category>utility</category>
         <description></description>
       </item><item>
         <title>Final Fantasy VIII Decompilation</title>
-        <link>http://localhost:33269/game/final-fantasy-viii-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/final-fantasy-viii-decompilation/</guid>
+        <link>http://localhost:1313/game/final-fantasy-viii-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/final-fantasy-viii-decompilation/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/final-fantasy-viii-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/final-fantasy-viii-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/final-fantasy-viii-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/final-fantasy-viii-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>1080 Snowboarding Decompilation</title>
-        <link>http://localhost:33269/game/1080-snowboarding-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/1080-snowboarding-decompilation/</guid>
+        <link>http://localhost:1313/game/1080-snowboarding-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/1080-snowboarding-decompilation/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/1080-snowboarding-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/1080-snowboarding-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/1080-snowboarding-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/1080-snowboarding-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>Pokemon Ranger: Shadows of Almia Decompilation</title>
-        <link>http://localhost:33269/game/pokemon-ranger-shadows-of-almia-decompilation/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/pokemon-ranger-shadows-of-almia-decompilation/</guid>
+        <link>http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/pokemon-ranger-shadows-of-almia-decompilation/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" />
-        <media:content url="http://localhost:33269/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>Tiny Dec - Educational decompiler that helps people understand how decompilation works</title>
-        <link>http://localhost:33269/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</guid>
+        <link>http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works/</guid>
         <pubDate>Thu, 23 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" />
-        <media:content url="http://localhost:33269/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tiny-dec-educational-decompiler-that-helps-people-understand-how-decompilation-works.webp" type="image/webp" />
         <category>utility</category>
         <description></description>
       </item><item>
         <title>Bioshock - The War In Rapture</title>
-        <link>http://localhost:33269/game/bioshock-the-war-in-rapture/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/bioshock-the-war-in-rapture/</guid>
+        <link>http://localhost:1313/game/bioshock-the-war-in-rapture/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/bioshock-the-war-in-rapture/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/bioshock-the-war-in-rapture.webp" />
-        <media:content url="http://localhost:33269/Images/Games/bioshock-the-war-in-rapture.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/bioshock-the-war-in-rapture.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/bioshock-the-war-in-rapture.webp" />
+        <media:content url="http://localhost:1313/Images/Games/bioshock-the-war-in-rapture.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/bioshock-the-war-in-rapture.webp" type="image/webp" />
         <category>mods</category>
         <description></description>
       </item><item>
         <title>Skyrim Special Edition - Through Fire and War - A Morrowind Inspired Quest</title>
-        <link>http://localhost:33269/game/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest/</guid>
+        <link>http://localhost:1313/game/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" />
-        <media:content url="http://localhost:33269/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" />
+        <media:content url="http://localhost:1313/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/skyrim-special-edition-through-fire-and-war-a-morrowind-inspired-quest.webp" type="image/webp" />
         <category>mods</category>
         <description></description>
       </item><item>
         <title>Terminal Breeder</title>
-        <link>http://localhost:33269/game/terminal-breeder/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/terminal-breeder/</guid>
+        <link>http://localhost:1313/game/terminal-breeder/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/terminal-breeder/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/terminal-breeder.webp" />
-        <media:content url="http://localhost:33269/Images/Games/terminal-breeder.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/terminal-breeder.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/terminal-breeder.webp" />
+        <media:content url="http://localhost:1313/Images/Games/terminal-breeder.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/terminal-breeder.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Tomb Raider N64 Port</title>
-        <link>http://localhost:33269/game/tomb-raider-n64-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/tomb-raider-n64-port/</guid>
+        <link>http://localhost:1313/game/tomb-raider-n64-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tomb-raider-n64-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/tomb-raider-n64-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/tomb-raider-n64-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/tomb-raider-n64-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/tomb-raider-n64-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tomb-raider-n64-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tomb-raider-n64-port.webp" type="image/webp" />
         <category>in-the-works</category>
         <description></description>
       </item><item>
         <title>The Legend of Zelda: Majora&amp;#39;s Mask PS Vita Port</title>
-        <link>http://localhost:33269/game/the-legend-of-zelda-majoras-mask-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/the-legend-of-zelda-majoras-mask-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/the-legend-of-zelda-majoras-mask-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-majoras-mask-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-majoras-mask-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Devil May Cry 4 Refrain Vita</title>
-        <link>http://localhost:33269/game/devil-may-cry-4-refrain-vita/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/devil-may-cry-4-refrain-vita/</guid>
+        <link>http://localhost:1313/game/devil-may-cry-4-refrain-vita/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/devil-may-cry-4-refrain-vita/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/devil-may-cry-4-refrain-vita.webp" />
-        <media:content url="http://localhost:33269/Images/Games/devil-may-cry-4-refrain-vita.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/devil-may-cry-4-refrain-vita.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/devil-may-cry-4-refrain-vita.webp" />
+        <media:content url="http://localhost:1313/Images/Games/devil-may-cry-4-refrain-vita.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/devil-may-cry-4-refrain-vita.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>The Legend of Zelda: Ocarina of Time PS Vita Port</title>
-        <link>http://localhost:33269/game/the-legend-of-zelda-ocarina-of-time-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/the-legend-of-zelda-ocarina-of-time-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-ocarina-of-time-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Animal Crossing PS Vita Port</title>
-        <link>http://localhost:33269/game/animal-crossing-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/animal-crossing-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/animal-crossing-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/animal-crossing-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/animal-crossing-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/animal-crossing-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/animal-crossing-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/animal-crossing-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/animal-crossing-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/animal-crossing-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Baldur&amp;#39;s Gate: Dark Alliance PS Vita Port</title>
-        <link>http://localhost:33269/game/baldurs-gate-dark-alliance-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/baldurs-gate-dark-alliance-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/baldurs-gate-dark-alliance-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/baldurs-gate-dark-alliance-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/baldurs-gate-dark-alliance-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Unreal PS Vita Port</title>
-        <link>http://localhost:33269/game/unreal-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/unreal-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/unreal-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/unreal-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/unreal-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/unreal-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/unreal-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/unreal-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/unreal-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/unreal-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Arx Libertatis PS Vita Port</title>
-        <link>http://localhost:33269/game/arx-libertatis-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/arx-libertatis-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/arx-libertatis-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/arx-libertatis-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/arx-libertatis-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/arx-libertatis-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/arx-libertatis-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/arx-libertatis-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/arx-libertatis-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/arx-libertatis-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Super Mario All-Stars PS Vita Port</title>
-        <link>http://localhost:33269/game/super-mario-all-stars-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/super-mario-all-stars-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/super-mario-all-stars-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-mario-all-stars-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/super-mario-all-stars-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/super-mario-all-stars-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/super-mario-all-stars-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-all-stars-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-mario-all-stars-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-mario-all-stars-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Super Mario World PS Vita Port</title>
-        <link>http://localhost:33269/game/super-mario-world-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/super-mario-world-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/super-mario-world-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/super-mario-world-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/super-mario-world-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/super-mario-world-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/super-mario-world-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-world-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/super-mario-world-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/super-mario-world-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>Perfect Dark PS Vita Port</title>
-        <link>http://localhost:33269/game/perfect-dark-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/perfect-dark-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/perfect-dark-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/perfect-dark-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/perfect-dark-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/perfect-dark-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/perfect-dark-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/perfect-dark-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/perfect-dark-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/perfect-dark-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>The Legend of Zelda: A Link to The Past PS Vita Port</title>
-        <link>http://localhost:33269/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</guid>
+        <link>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</guid>
         <pubDate>Fri, 17 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" />
-        <media:content url="http://localhost:33269/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-legend-of-zelda-a-link-to-the-past-ps-vita-port.webp" type="image/webp" />
         <category>console-ports</category>
         <description></description>
       </item><item>
         <title>OpenNotrium</title>
-        <link>http://localhost:33269/game/opennotrium/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/opennotrium/</guid>
+        <link>http://localhost:1313/game/opennotrium/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/opennotrium/</guid>
         <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/opennotrium.webp" />
-        <media:content url="http://localhost:33269/Images/Games/opennotrium.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/opennotrium.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/opennotrium.webp" />
+        <media:content url="http://localhost:1313/Images/Games/opennotrium.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/opennotrium.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Elite-Reinforce</title>
-        <link>http://localhost:33269/game/elite-reinforce/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/elite-reinforce/</guid>
+        <link>http://localhost:1313/game/elite-reinforce/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/elite-reinforce/</guid>
         <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/elite-reinforce.webp" />
-        <media:content url="http://localhost:33269/Images/Games/elite-reinforce.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/elite-reinforce.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/elite-reinforce.webp" />
+        <media:content url="http://localhost:1313/Images/Games/elite-reinforce.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/elite-reinforce.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Seven Kingdoms: Ancient Adversaries</title>
-        <link>http://localhost:33269/game/seven-kingdoms-ancient-adversaries/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/seven-kingdoms-ancient-adversaries/</guid>
+        <link>http://localhost:1313/game/seven-kingdoms-ancient-adversaries/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/seven-kingdoms-ancient-adversaries/</guid>
         <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/seven-kingdoms-ancient-adversaries.webp" />
-        <media:content url="http://localhost:33269/Images/Games/seven-kingdoms-ancient-adversaries.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/seven-kingdoms-ancient-adversaries.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/seven-kingdoms-ancient-adversaries.webp" />
+        <media:content url="http://localhost:1313/Images/Games/seven-kingdoms-ancient-adversaries.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/seven-kingdoms-ancient-adversaries.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>RigelEngine - Re-implementation Duke Nukem II</title>
-        <link>http://localhost:33269/game/rigelengine-re-implementation-duke-nukem-ii/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/rigelengine-re-implementation-duke-nukem-ii/</guid>
+        <link>http://localhost:1313/game/rigelengine-re-implementation-duke-nukem-ii/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/rigelengine-re-implementation-duke-nukem-ii/</guid>
         <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" />
-        <media:content url="http://localhost:33269/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" />
+        <media:content url="http://localhost:1313/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/rigelengine-re-implementation-duke-nukem-ii.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item><item>
         <title>Open-IW</title>
-        <link>http://localhost:33269/game/open-iw/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/open-iw/</guid>
+        <link>http://localhost:1313/game/open-iw/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/open-iw/</guid>
         <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
 
-        <media:thumbnail url="http://localhost:33269/Images/Games/open-iw.webp" />
-        <media:content url="http://localhost:33269/Images/Games/open-iw.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/open-iw.webp" type="image/webp" />
-        <category>open-source</category>
-        <description></description>
-      </item><item>
-        <title>FreeSynd - Re-implementation of Syndicate</title>
-        <link>http://localhost:33269/game/freesynd-re-implementation-of-syndicate/</link>
-        <guid isPermaLink="true">http://localhost:33269/game/freesynd-re-implementation-of-syndicate/</guid>
-        <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:33269/Images/Games/freesynd-re-implementation-of-syndicate.webp" />
-        <media:content url="http://localhost:33269/Images/Games/freesynd-re-implementation-of-syndicate.webp" medium="image" />
-        <enclosure url="http://localhost:33269/Images/Games/freesynd-re-implementation-of-syndicate.webp" type="image/webp" />
+        <media:thumbnail url="http://localhost:1313/Images/Games/open-iw.webp" />
+        <media:content url="http://localhost:1313/Images/Games/open-iw.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/open-iw.webp" type="image/webp" />
         <category>open-source</category>
         <description></description>
       </item>
