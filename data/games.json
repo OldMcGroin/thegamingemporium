@@ -28716,6 +28716,58 @@
     "notes": "",
     "date_added": "2026-05-10",
     "image": ""
+  },
+    {
+    "id": 2202,
+    "title": "Paperboy 64 Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/marijnvdwerf/paperboy-n64",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Paperboy",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-10",
+    "image": ""
+  },
+    {
+    "id": 2203,
+    "title": "Evos Space Adventures Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/mkst/esa",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-10",
+    "image": ""
+  },
+    {
+    "id": 2204,
+    "title": "Ultima V Warriors of Destiny Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/wonst719/u5d",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Ultima",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-10",
+    "image": ""
+  },
+    {
+    "id": 2205,
+    "title": "Tokyo Bus Guide Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/lhsazevedo/tbg-decomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Tokyo Bus Guide",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-10",
+    "image": ""
   }
 
 
