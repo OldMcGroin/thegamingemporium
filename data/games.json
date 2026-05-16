@@ -28937,6 +28937,58 @@
     "notes": "",
     "date_added": "2026-05-16",
     "image": ""
+  },
+    {
+    "id": 2219,
+    "title": "Goopie - Xbox 360 Recompilation Launcher",
+    "category": "utility",
+    "link": "https://goopie.xyz/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-16",
+    "image": ""
+  },
+    {
+    "id": 2220,
+    "title": "Kameo: Elements of Power Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/birabittoh/KameoRePowered",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Kameo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-17",
+    "image": ""
+  },
+    {
+    "id": 2221,
+    "title": "Lollipop Chainsaw Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/MaxDeadBear/Re-Cherry",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "series": "Lollipop Chainsaw",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-17",
+    "image": ""
+  },
+    {
+    "id": 2222,
+    "title": "Naughty Bear Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/MaxDeadBear/NaughtyBear_ReStuff",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Naughty Bear",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-17",
+    "image": ""
   }
 
 
