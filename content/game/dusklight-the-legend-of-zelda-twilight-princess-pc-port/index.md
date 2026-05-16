@@ -1,6 +1,6 @@
 ---
-title: "Dusk - The Legend of Zelda Twilight Princess PC Port"
-url: "/game/dusk-the-legend-of-zelda-twilight-princess-pc-port/"
+title: "Dusklight - The Legend of Zelda Twilight Princess PC Port"
+url: "/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port/"
 type: game
 params:
   external_link: "https://twilitrealm.dev/"
