@@ -1104,6 +1104,10 @@
   </url><url>
     <loc>http://localhost:1313/game/descent-3-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/destroy-all-humans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/destroy-all-humans-path-of-the-furon-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/destruction-derby/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/destruction-derby/</loc>

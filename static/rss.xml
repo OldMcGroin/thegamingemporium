@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 16 May 2026 23:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 00:11:12 +0000</lastBuildDate>
     <item>
       <title>Kameo: Elements of Power Recompilation</title>
       <link>https://thegamingemporium.com/game/kameo-elements-of-power-recompilation/</link>
@@ -38,6 +38,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/naughty-bear-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/naughty-bear-recompilation.webp" alt="Naughty Bear Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Naughty Bear · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/naughty-bear-recompilation.webp" alt="Naughty Bear Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Naughty Bear · Genre: action, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Destroy All Humans: Path of the Furon Recompilation</title>
+      <link>https://thegamingemporium.com/game/destroy-all-humans-path-of-the-furon-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/destroy-all-humans-path-of-the-furon-recompilation/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" alt="Destroy All Humans: Path of the Furon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Destroy All Humans · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" alt="Destroy All Humans: Path of the Furon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Destroy All Humans · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Dusklight - The Legend of Zelda Twilight Princess PC Port Texture Pack 1</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/1080-snowboarding-decompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1080-snowboarding-decompilation.webp" alt="1080 Snowboarding Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: 1080 Snowboarding · Genre: sports]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1080-snowboarding-decompilation.webp" alt="1080 Snowboarding Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: 1080 Snowboarding · Genre: sports]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokemon Ranger: Shadows of Almia Decompilation</title>
-      <link>https://thegamingemporium.com/game/pokemon-ranger-shadows-of-almia-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-ranger-shadows-of-almia-decompilation/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" alt="Pokemon Ranger: Shadows of Almia Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Pokemon · Genre: creature collector, rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-ranger-shadows-of-almia-decompilation.webp" alt="Pokemon Ranger: Shadows of Almia Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Pokemon · Genre: creature collector, rpg]]></content:encoded>
     </item>
   </channel>
 </rss>
