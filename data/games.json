@@ -29015,6 +29015,19 @@
     "notes": "",
     "date_added": "2026-05-17",
     "image": ""
+  },
+    {
+    "id": 2225,
+    "title": "nesrecomp - NES Recompiler Project",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/nesrecomp",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-18",
+    "image": ""
   }
 
 

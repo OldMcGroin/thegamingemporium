@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 17 May 2026 18:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:57:29 +0000</lastBuildDate>
+    <item>
+      <title>nesrecomp - NES Recompiler Project</title>
+      <link>https://thegamingemporium.com/game/nesrecomp-nes-recompiler-project/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/nesrecomp-nes-recompiler-project/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></content:encoded>
+    </item>
     <item>
       <title>Kameo: Elements of Power Recompilation</title>
       <link>https://thegamingemporium.com/game/kameo-elements-of-power-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/portforge-a-de-recompilation-port-manager.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portforge-a-de-recompilation-port-manager.webp" alt="PortForge - A De-Recompilation Port Manager" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portforge-a-de-recompilation-port-manager.webp" alt="PortForge - A De-Recompilation Port Manager" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Final Fantasy VIII Decompilation</title>
-      <link>https://thegamingemporium.com/game/final-fantasy-viii-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/final-fantasy-viii-decompilation/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/final-fantasy-viii-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/final-fantasy-viii-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/final-fantasy-viii-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fantasy-viii-decompilation.webp" alt="Final Fantasy VIII Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Final Fantasy · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fantasy-viii-decompilation.webp" alt="Final Fantasy VIII Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Final Fantasy · Genre: rpg]]></content:encoded>
     </item>
   </channel>
 </rss>
