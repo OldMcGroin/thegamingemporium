@@ -29028,6 +29028,71 @@
     "notes": "",
     "date_added": "2026-05-18",
     "image": ""
+  },
+    {
+    "id": 2226,
+    "title": "Castlevania - Symphony of the Night GBC",
+    "category": "fan-games",
+    "link": "https://richterwilker.itch.io/castlevania-gospel-of-belmont",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Castlevania",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-22",
+    "image": ""
+  },
+    {
+    "id": 2227,
+    "title": "Animal Crossing GBC",
+    "category": "fan-games",
+    "link": "https://richterwilker.itch.io/animal-forest-gb-folk",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "series": "Animal Crossing",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-22",
+    "image": ""
+  },
+    {
+    "id": 2228,
+    "title": "BlasNESmous - Blasphemous NES Demake",
+    "category": "fan-games",
+    "link": "https://fjpolo.itch.io/blasnesmous",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Blasphemous",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-22",
+    "image": ""
+  },
+    {
+    "id": 2229,
+    "title": "Magiczna kula Papatki Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/regratka/mkp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Magiczna kula Papatki",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-22",
+    "image": ""
+  },
+    {
+    "id": 2230,
+    "title": "Return to Castle Wolfenstein PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/459",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Wolfenstein",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-22",
+    "image": ""
   }
 
 
