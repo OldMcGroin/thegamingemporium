@@ -29106,6 +29106,58 @@
     "notes": "",
     "date_added": "2026-05-22",
     "image": ""
+  },
+    {
+    "id": 2232,
+    "title": "Terranigma Redux",
+    "category": "rom-hacks",
+    "link": "https://www.romhacking.net/hacks/8939/",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Terranigma",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-23",
+    "image": ""
+  },
+    {
+    "id": 2233,
+    "title": "Five Nights At Freddy's 3: Wii Edition",
+    "category": "console-ports",
+    "link": "https://gamejolt.com/games/fnaf3wii/1071424",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Five Nights At Freddy's",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-23",
+    "image": ""
+  },
+    {
+    "id": 2234,
+    "title": "Quetoo",
+    "category": "open-source",
+    "link": "https://quetoo.org/news/quetoo-is-here/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Quake",
+    "video_link": "https://youtu.be/GY2vPCj81bs?si=127OWftymOZgF2VS",
+    "notes": "",
+    "date_added": "2026-05-23",
+    "image": ""
+  },
+    {
+    "id": 2235,
+    "title": "WCW nWo Revenge Starrcade Edition",
+    "category": "rom-hacks",
+    "link": "https://patcher.aki.guide/revse.html",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-23",
+    "image": ""
   }
 
 

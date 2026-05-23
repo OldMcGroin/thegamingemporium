@@ -1692,6 +1692,8 @@
   </url><url>
     <loc>http://localhost:1313/game/five-nights-at-freddy-s-2-wii-u-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/five-nights-at-freddy-s-3-wii-edition/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/flare/</loc>
   </url><url>
     <loc>http://localhost:1313/series/flare/</loc>
@@ -3604,6 +3606,8 @@
   </url><url>
     <loc>http://localhost:1313/game/quest-64-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/quetoo/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/quick-dungeon-crawler/</loc>
   </url><url>
     <loc>http://localhost:1313/series/quick-dungeon-crawler/</loc>
@@ -4814,6 +4818,10 @@
   </url><url>
     <loc>http://localhost:1313/game/terminal-breeder/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/terranigma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/terranigma-redux/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/terraria/</loc>
   </url><url>
     <loc>http://localhost:1313/game/terraria-calamity-mod/</loc>
@@ -5447,6 +5455,8 @@
     <loc>http://localhost:1313/game/waydroid-on-steamos-android-on-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wcw-nwo-revenge-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wcw-nwo-revenge-starrcade-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/series/wcw-nwo-revenge/</loc>
   </url><url>
