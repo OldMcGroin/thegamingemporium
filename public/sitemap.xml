@@ -1902,6 +1902,8 @@
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-3-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/grand-theft-auto-5-squid-games/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-5-enhanced-edition-4k-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-liberty-city-stories-decked-edition/</loc>
@@ -1909,6 +1911,8 @@
     <loc>http://localhost:1313/game/grand-theft-auto-vice-city-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-ready2play/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/graphic-adventure/</loc>
   </url><url>
@@ -3885,6 +3889,8 @@
     <loc>http://localhost:1313/game/s-t-a-l-k-e-r-shadow-of-chernobyl-radiophobia-3/</loc>
   </url><url>
     <loc>http://localhost:1313/series/saints-row/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/saints-row-2-console-dlc-for-pc/</loc>
   </url><url>
     <loc>http://localhost:1313/game/saints-row-2-juiced-patch/</loc>
   </url><url>
