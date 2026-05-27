@@ -3682,6 +3682,8 @@
   </url><url>
     <loc>http://localhost:1313/recent/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/recut-paper-mario-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/red-dead-redemption/</loc>
   </url><url>
     <loc>http://localhost:1313/game/red-dead-redemption-2-blurbs-pokemon-rpg/</loc>
@@ -5537,6 +5539,8 @@
     <loc>http://localhost:1313/series/wrc-fia-world-rally-championship/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/wrestling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wwe-smackdown-vs-raw-2007-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wyrmsun/</loc>
   </url><url>
