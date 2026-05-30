@@ -29275,6 +29275,71 @@
     "notes": "",
     "date_added": "2026-05-28",
     "image": ""
+  },
+  {
+    "id": 2245,
+    "title": "SNESRecomp",
+    "category": "utility",
+    "link": "https://github.com/mstan/snesrecomp",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-30",
+    "image": ""
+  },
+  {
+    "id": 2246,
+    "title": "Super Mario World Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/SuperMarioWorldRecomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-30",
+    "image": ""
+  },
+  {
+    "id": 2247,
+    "title": "The Legend of Zelda: A Link to the Past Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/ZeldaAlttPSNESRecomp",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-30",
+    "image": ""
+  },
+  {
+    "id": 2248,
+    "title": "Mega Man X Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/MegaManXSNESRecomp",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Mega Man",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-30",
+    "image": ""
+  },
+  {
+    "id": 2249,
+    "title": "Pokemon Crystal PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DanZC/suiCune",
+    "genre1": "creature-collector",
+    "genre2": "rpg",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-05-30",
+    "image": ""
   }
 
 
