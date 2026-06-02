@@ -29340,6 +29340,45 @@
     "notes": "",
     "date_added": "2026-05-30",
     "image": ""
+  },
+  {
+    "id": 2250,
+    "title": "Banjo Kazooie Recompiled Stereoscopic 3D",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/oneup03/BanjoRecomp3D/releases",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-02",
+    "image": ""
+  },
+  {
+    "id": 2251,
+    "title": "Perfect Dark Recompiled Stereoscopic 3D",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/oneup03/perfect_dark_3D/releases",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Perfect Dark",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-02",
+    "image": ""
+  },
+  {
+    "id": 2252,
+    "title": "Phantasy Star Generation:2 - PS2",
+    "category": "english-translation-patches",
+    "link": "https://cdromance.org/ps2-iso/sega-ages-2500-series-vol-17-phantasy-star-generation2-english-patched/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Phantasy Star",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-02",
+    "image": ""
   }
 
 
