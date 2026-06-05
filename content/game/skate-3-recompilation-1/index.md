@@ -1,6 +1,6 @@
 ---
-title: "Skate 3 Recompilation"
-url: "/game/skate-3-recompilation/"
+title: "Skate 3 Recompilation 1"
+url: "/game/skate-3-recompilation-1/"
 type: game
 params:
   external_link: "https://github.com/portingpete/skate3-recomp"

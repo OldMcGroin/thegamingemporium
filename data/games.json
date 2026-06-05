@@ -29408,7 +29408,7 @@
   },
   {
     "id": 2255,
-    "title": "Skate 3 Recompilation",
+    "title": "Skate 3 Recompilation 1",
     "category": "decompilations-recompilations",
     "link": "https://github.com/portingpete/skate3-recomp",
     "genre1": "sports",
@@ -29417,6 +29417,71 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-06-04",
+    "image": ""
+  },
+  {
+    "id": 2256,
+    "title": "Skate 3 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mchughalex/skate3recomp",
+    "genre1": "sports",
+    "genre2": "action",
+    "series": "Skate",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-05",
+    "image": ""
+  },
+  {
+    "id": 2257,
+    "title": "Lost Odyssey Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Graine25/reodyssey",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Lost Odyssey",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-05",
+    "image": ""
+  },
+  {
+    "id": 2258,
+    "title": "The Outfit Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/DohmBoy64Bit/TheOutFit",
+    "genre1": "action",
+    "genre2": "",
+    "series": "The Outfit",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-05",
+    "image": ""
+  },
+  {
+    "id": 2259,
+    "title": "Test Drive Unlimited Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/testdriveupgrade/TDURE",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Test Drive",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-05",
+    "image": ""
+  },
+  {
+    "id": 2259,
+    "title": "Rock Band 3 Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/ihatecompvir/band3_recomp",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Rock Band",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-05",
     "image": ""
   }
 
