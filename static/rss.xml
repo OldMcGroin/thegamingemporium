@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 05 Jun 2026 21:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 20:58:47 +0000</lastBuildDate>
+    <item>
+      <title>Eternal Sonata Recompilation</title>
+      <link>https://thegamingemporium.com/game/eternal-sonata-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/eternal-sonata-recompilation/</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></content:encoded>
+    </item>
     <item>
       <title>Skate 3 Recompilation 2</title>
       <link>https://thegamingemporium.com/game/skate-3-recompilation-2/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/beat-hazard-2-ps-vita-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/beat-hazard-2-ps-vita-port.webp" alt="Beat Hazard 2 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Beat Hazard · Genre: rhythm based, shoot em up]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/beat-hazard-2-ps-vita-port.webp" alt="Beat Hazard 2 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Beat Hazard · Genre: rhythm based, shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>VitaDB Downloader</title>
-      <link>https://thegamingemporium.com/game/vitadb-downloader/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/vitadb-downloader/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/vitadb-downloader.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/vitadb-downloader.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/vitadb-downloader.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vitadb-downloader.webp" alt="VitaDB Downloader" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vitadb-downloader.webp" alt="VitaDB Downloader" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
     </item>
   </channel>
 </rss>

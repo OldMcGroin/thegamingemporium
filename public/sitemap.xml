@@ -1468,6 +1468,10 @@
   </url><url>
     <loc>http://localhost:1313/game/enigma/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/eternal-sonata/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/eternal-sonata-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/evil-dead/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/evolutionary-live-simulator/</loc>
