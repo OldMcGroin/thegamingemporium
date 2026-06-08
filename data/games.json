@@ -29509,7 +29509,73 @@
     "notes": "",
     "date_added": "2026-06-07",
     "image": ""
+  },
+  {
+    "id": 2262,
+    "title": "Unreal Tournament PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1399",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Unreal",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-08",
+    "image": ""
+  },
+  {
+    "id": 2263,
+    "title": "Resident Evil 4 Mobile PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1402",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Resident Evil",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-08",
+    "image": ""
+  },
+  {
+    "id": 2264,
+    "title": "PAC-MAN Championship Edition DX PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1409",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-08",
+    "image": ""
+  },
+  {
+    "id": 2265,
+    "title": "Call of Duty Black Ops Zombies PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1410",
+    "genre1": "first-person-shooter",
+    "genre2": "survival-horror",
+    "series": "Call of Duty",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-08",
+    "image": ""
+  },
+  {
+    "id": 2266,
+    "title": "Marvel's Spider-Man 2 First Person Camera Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/marvelsspiderman2/mods/1993?tab=description",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "video_link": "https://youtu.be/CSoL-sFFD1k?si=zdfjwDAwXQlaIpIR",
+    "notes": "",
+    "date_added": "2026-06-08",
+    "image": ""
   }
+
 
 
 

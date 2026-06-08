@@ -600,6 +600,8 @@
   </url><url>
     <loc>http://localhost:1313/series/call-of-duty/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/call-to-power/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cannon-fodder/</loc>
@@ -2632,6 +2634,8 @@
   </url><url>
     <loc>http://localhost:1313/game/marvel-vs-capcom-infinite-beyond-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/marvel-s-spider-man-2-first-person-camera-mod/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/mass-effect/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mass-effect-legendary-edition/</loc>
@@ -3262,6 +3266,8 @@
   </url><url>
     <loc>http://localhost:1313/series/pac-man/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pac-man-championship-edition-dx-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/pacific-strike/</loc>
   </url><url>
     <loc>http://localhost:1313/series/palworld/</loc>
@@ -3759,6 +3765,8 @@
     <loc>http://localhost:1313/game/resident-evil-2-fps/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-hd-project/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-4-mobile-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-remake-tactical-first-person-mod/</loc>
   </url><url>
@@ -5385,6 +5393,8 @@
     <loc>http://localhost:1313/game/unreal-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unreal-redux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/unreal-tournament-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unvanquished/</loc>
   </url><url>
