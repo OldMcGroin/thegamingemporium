@@ -4,7 +4,7 @@ url: "/game/castlevania-legacy-of-darkness-recompilation/"
 type: game
 params:
   external_link: "https://github.com/fliperama86/cvlod_recomp"
-  category: "in-the-works"
+  category: "decompilations-recompilations"
   genre1: "action"
   genre2: ""
   series: "Castlevania"
