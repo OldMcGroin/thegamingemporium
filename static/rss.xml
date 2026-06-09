@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 09 Jun 2026 18:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 23:16:38 +0000</lastBuildDate>
+    <item>
+      <title>Kowloon's Gate - Playstation</title>
+      <link>https://thegamingemporium.com/game/kowloon-s-gate-playstation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/kowloon-s-gate-playstation/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></content:encoded>
+    </item>
     <item>
       <title>MOTHER: Encore</title>
       <link>https://thegamingemporium.com/game/mother-encore/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Lollipop Chainsaw Recompilation</title>
-      <link>https://thegamingemporium.com/game/lollipop-chainsaw-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/lollipop-chainsaw-recompilation/</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lollipop-chainsaw-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/lollipop-chainsaw-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/lollipop-chainsaw-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lollipop-chainsaw-recompilation.webp" alt="Lollipop Chainsaw Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Lollipop Chainsaw · Genre: beat em up, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lollipop-chainsaw-recompilation.webp" alt="Lollipop Chainsaw Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Lollipop Chainsaw · Genre: beat em up, action]]></content:encoded>
     </item>
   </channel>
 </rss>
