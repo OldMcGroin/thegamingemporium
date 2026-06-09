@@ -21025,13 +21025,13 @@
     "id": 1613,
     "title": "MOTHER: Encore",
     "category": "fan-games",
-    "link": "https://motherencore.com/",
+    "link": "https://mother-encore.itch.io/mother-encore",
     "genre1": "rpg",
     "genre2": "",
     "series": "Earthbound",
-    "video_link": "https://youtu.be/OUgyQj5Hw9s?si=lduALIPAGtdQtrnr",
+    "video_link": "",
     "notes": "",
-    "date_added": "2026-02-07",
+    "date_added": "2026-06-09",
     "image": ""
   },
   {
@@ -29573,6 +29573,45 @@
     "video_link": "https://youtu.be/CSoL-sFFD1k?si=zdfjwDAwXQlaIpIR",
     "notes": "",
     "date_added": "2026-06-08",
+    "image": ""
+  },
+  {
+    "id": 2267,
+    "title": "RecompOne - Static PSOne Recompiler",
+    "category": "utility",
+    "link": "https://github.com/flafmg/RecompOne",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "https://youtu.be/7IBgpdZGhFY?si=l5xAJ-FXj3pf9LRS",
+    "notes": "",
+    "date_added": "2026-06-09",
+    "image": ""
+  },
+  {
+    "id": 2268,
+    "title": "Soul Blazer - SNES",
+    "category": "english-translation-patches",
+    "link": "https://romhack.ing/database/content/entry/ecw_olT_SyWuzHzrJz_tPg/soul-blazer-relocalization",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Soul Blazer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-09",
+    "image": ""
+  },
+  {
+    "id": 2269,
+    "title": "Rushing Beat Shura The Eternal Conflict - SNES",
+    "category": "english-translation-patches",
+    "link": "https://romhack.ing/database/content/entry/iiKVVaitQxSE0Lfm2I0Xkw/rushing-beate-shura-the-eternal-conflict-english-translation",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Rushing Beat Shura",
+    "video_link": "https://youtu.be/tk587KmPOw0?si=HqvhApNKLGqos-5o",
+    "notes": "",
+    "date_added": "2026-06-09",
     "image": ""
   }
 

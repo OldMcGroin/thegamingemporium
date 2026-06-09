@@ -3718,6 +3718,8 @@
   </url><url>
     <loc>http://localhost:1313/recent/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/recompone-static-psone-recompiler/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/recut-paper-mario-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/red-dead-redemption/</loc>
@@ -3915,6 +3917,10 @@
     <loc>http://localhost:1313/genres/rpg/</loc>
   </url><url>
     <loc>http://localhost:1313/rss/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/rushing-beat-shura/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rushing-beat-shura-the-eternal-conflict-snes/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rvgl-re-volt-port/</loc>
   </url><url>
@@ -4301,6 +4307,10 @@
     <loc>http://localhost:1313/game/sonic-unleashed-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-utopia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/soul-blazer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/soul-blazer-snes/</loc>
   </url><url>
     <loc>http://localhost:1313/series/soul-calibre/</loc>
   </url><url>
