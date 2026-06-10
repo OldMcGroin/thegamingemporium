@@ -8,7 +8,7 @@ params:
   genre1: "adventure"
   genre2: ""
   series: "Kowloon's Gate"
-  video_link: ""
+  video_link: "https://youtu.be/VO2erw3s6qQ?si=ytGRRnPeRF02c2g6"
   date_added: "2026-06-10"
   image: ""
 ---

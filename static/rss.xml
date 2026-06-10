@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 09 Jun 2026 23:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 19:14:22 +0000</lastBuildDate>
     <item>
       <title>Kowloon's Gate - Playstation</title>
       <link>https://thegamingemporium.com/game/kowloon-s-gate-playstation/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build</title>
+      <link>https://thegamingemporium.com/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
     </item>
     <item>
       <title>MOTHER: Encore</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" alt="PS2Recomp - Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" alt="PS2Recomp - Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>nesrecomp - NES Recompiler Project</title>
-      <link>https://thegamingemporium.com/game/nesrecomp-nes-recompiler-project/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nesrecomp-nes-recompiler-project/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nesrecomp-nes-recompiler-project.webp" alt="nesrecomp - NES Recompiler Project" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></content:encoded>
     </item>
   </channel>
 </rss>
