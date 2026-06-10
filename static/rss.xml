@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 10 Jun 2026 19:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 23:24:51 +0000</lastBuildDate>
     <item>
       <title>Kowloon's Gate - Playstation</title>
       <link>https://thegamingemporium.com/game/kowloon-s-gate-playstation/</link>
@@ -27,6 +27,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Pokemon Stadium Recompilation</title>
+      <link>https://thegamingemporium.com/game/pokemon-stadium-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-stadium-recompilation/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" alt="Pokemon Stadium Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: action, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" alt="Pokemon Stadium Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: action, strategy]]></content:encoded>
     </item>
     <item>
       <title>MOTHER: Encore</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-ps-vita-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-ps-vita-port.webp" alt="Return to Castle Wolfenstein PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Wolfenstein · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-ps-vita-port.webp" alt="Return to Castle Wolfenstein PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Wolfenstein · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>PS2Recomp - Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC Ports</title>
-      <link>https://thegamingemporium.com/game/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports/</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" alt="PS2Recomp - Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ps2recomp-playstation-2-static-recompiler-runtime-tool-to-make-native-pc-ports.webp" alt="PS2Recomp - Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
     </item>
   </channel>
 </rss>
