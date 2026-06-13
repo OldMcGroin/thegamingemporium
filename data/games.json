@@ -29652,6 +29652,45 @@
     "notes": "",
     "date_added": "2026-06-10",
     "image": ""
+  },
+  {
+    "id": 2273,
+    "title": "Goldeneye XBLA Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SunJaycy/GoldenEye-Recomp",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-13",
+    "image": ""
+  },
+  {
+    "id": 2274,
+    "title": "Paper Mario Down Bad Edition",
+    "category": "rom-hacks",
+    "link": "https://github.com/MinusBros/downbadeditionsource/releases",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/7h790rfbZAI?si=_PErA5Z9DhEG6oWN",
+    "notes": "",
+    "date_added": "2026-06-13",
+    "image": ""
+  },
+  {
+    "id": 2275,
+    "title": "SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms",
+    "category": "utility",
+    "link": "https://github.com/Dax-Dot/SNES-Cheat-Patcher-Studio",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-13",
+    "image": ""
   }
 
 
