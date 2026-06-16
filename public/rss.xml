@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 16 Jun 2026 19:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:42:47 +0000</lastBuildDate>
     <item>
       <title>Super Mario 64 Nintendo DS Port with Multiplayer</title>
       <link>https://thegamingemporium.com/game/super-mario-64-nintendo-ds-port-with-multiplayer/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Earthbound Beginnings Remake</title>
+      <link>https://thegamingemporium.com/game/earthbound-beginnings-remake/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/earthbound-beginnings-remake/</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" alt="Earthbound Beginnings Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Earthbound · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" alt="Earthbound Beginnings Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Earthbound · Genre: rpg]]></content:encoded>
     </item>
     <item>
       <title>Silent Hill PC Port</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/quetoo.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quetoo.webp" alt="Quetoo" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Quake · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quetoo.webp" alt="Quetoo" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Quake · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>WCW nWo Revenge Starrcade Edition</title>
-      <link>https://thegamingemporium.com/game/wcw-nwo-revenge-starrcade-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wcw-nwo-revenge-starrcade-edition/</guid>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" alt="WCW nWo Revenge Starrcade Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" alt="WCW nWo Revenge Starrcade Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
