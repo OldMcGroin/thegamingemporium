@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 15 Jun 2026 09:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:53:49 +0000</lastBuildDate>
+    <item>
+      <title>Super Mario 64 Nintendo DS Port with Multiplayer</title>
+      <link>https://thegamingemporium.com/game/super-mario-64-nintendo-ds-port-with-multiplayer/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-64-nintendo-ds-port-with-multiplayer/</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
     <item>
       <title>Silent Hill PC Port</title>
       <link>https://thegamingemporium.com/game/silent-hill-pc-port/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" alt="WCW nWo Revenge Starrcade Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: fighting]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wcw-nwo-revenge-starrcade-edition.webp" alt="WCW nWo Revenge Starrcade Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>Castlevania - Symphony of the Night GBC</title>
-      <link>https://thegamingemporium.com/game/castlevania-symphony-of-the-night-gbc/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-symphony-of-the-night-gbc/</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-gbc.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-gbc.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-gbc.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-gbc.webp" alt="Castlevania - Symphony of the Night GBC" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Castlevania · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-gbc.webp" alt="Castlevania - Symphony of the Night GBC" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Castlevania · Genre: platformer, action]]></content:encoded>
     </item>
   </channel>
 </rss>
