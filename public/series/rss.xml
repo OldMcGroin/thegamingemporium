@@ -8,7 +8,7 @@
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml"/>
     <description>The 50 most recent additions to The Gaming Emporium (opens on the site first).</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:18:28 &#43;0100</lastBuildDate><item>
+    <lastBuildDate>Wed, 17 Jun 2026 22:31:01 &#43;0100</lastBuildDate><item>
         <title>Fire Emblem: Seima no Kouseki Decompilation</title>
         <link>http://localhost:1313/game/fire-emblem-seima-no-kouseki-decompilation/</link>
         <guid isPermaLink="true">http://localhost:1313/game/fire-emblem-seima-no-kouseki-decompilation/</guid>
@@ -32,6 +32,30 @@
         <media:thumbnail url="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp"/>
         <media:content url="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/homeworld-2-classic-decompilation/"><img src="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp" alt="Homeworld 2 Classic Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Homeworld · Genre: strategy</p>]]></description>
         <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/homeworld-2-classic-decompilation/"><img src="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp" alt="Homeworld 2 Classic Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>In the works · Series: Homeworld · Genre: strategy</p>]]></content:encoded>
+      </item><item>
+        <title>Wolfenstein 3D Atari Lynx Port</title>
+        <link>http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate><category>console-ports</category><category>Series: Wolfenstein</category><category>Genre: first-person-shooter</category><enclosure url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/"><img src="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" alt="Wolfenstein 3D Atari Lynx Port" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Console ports · Series: Wolfenstein · Genre: first-person-shooter</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/"><img src="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" alt="Wolfenstein 3D Atari Lynx Port" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Console ports · Series: Wolfenstein · Genre: first-person-shooter</p>]]></content:encoded>
+      </item><item>
+        <title>Ironclad - Xbox 360</title>
+        <link>http://localhost:1313/game/ironclad-xbox-360/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ironclad-xbox-360/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate><category>preserved-games</category><category>Series: Ironclad</category><category>Genre: third-person-shooter</category><enclosure url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/ironclad-xbox-360/"><img src="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" alt="Ironclad - Xbox 360" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Preserved games · Series: Ironclad · Genre: third-person-shooter</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/ironclad-xbox-360/"><img src="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" alt="Ironclad - Xbox 360" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Preserved games · Series: Ironclad · Genre: third-person-shooter</p>]]></content:encoded>
+      </item><item>
+        <title>Resident Evil 4 - Multiplayer Mod</title>
+        <link>http://localhost:1313/game/resident-evil-4-multiplayer-mod/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/resident-evil-4-multiplayer-mod/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Resident Evil</category><category>Genre: third-person-shooter, survival-horror</category><enclosure url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/resident-evil-4-multiplayer-mod/"><img src="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" alt="Resident Evil 4 - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Resident Evil · Genre: third-person-shooter, survival-horror</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/resident-evil-4-multiplayer-mod/"><img src="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" alt="Resident Evil 4 - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Resident Evil · Genre: third-person-shooter, survival-horror</p>]]></content:encoded>
       </item><item>
         <title>Super Mario 64 Nintendo DS Port with Multiplayer</title>
         <link>http://localhost:1313/game/super-mario-64-nintendo-ds-port-with-multiplayer/</link>
@@ -384,29 +408,5 @@
         <media:thumbnail url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp"/>
         <media:content url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/battleship-smash-brothers-64-pc-port-netplay/"><img src="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp" alt="Battleship - Smash Brothers 64 PC Port Netplay" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Series: Super Mario · Genre: fighting</p>]]></description>
         <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/battleship-smash-brothers-64-pc-port-netplay/"><img src="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp" alt="Battleship - Smash Brothers 64 PC Port Netplay" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Series: Super Mario · Genre: fighting</p>]]></content:encoded>
-      </item><item>
-        <title>Grand Theft Auto: San Andreas - Carcer City</title>
-        <link>http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Grand Theft Auto</category><category>Genre: sandbox, action</category><enclosure url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/"><img src="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" alt="Grand Theft Auto: San Andreas - Carcer City" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/"><img src="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" alt="Grand Theft Auto: San Andreas - Carcer City" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></content:encoded>
-      </item><item>
-        <title>Grand Theft Auto 5 - Squid Games</title>
-        <link>http://localhost:1313/game/grand-theft-auto-5-squid-games/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/grand-theft-auto-5-squid-games/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Grand Theft Auto</category><category>Genre: sandbox, action</category><enclosure url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/grand-theft-auto-5-squid-games/"><img src="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" alt="Grand Theft Auto 5 - Squid Games" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/grand-theft-auto-5-squid-games/"><img src="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" alt="Grand Theft Auto 5 - Squid Games" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Grand Theft Auto · Genre: sandbox, action</p>]]></content:encoded>
-      </item><item>
-        <title>Saints Row 2 - Console DLC For PC</title>
-        <link>http://localhost:1313/game/saints-row-2-console-dlc-for-pc/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/saints-row-2-console-dlc-for-pc/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Saints Row</category><category>Genre: sandbox, action</category><enclosure url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/saints-row-2-console-dlc-for-pc/"><img src="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" alt="Saints Row 2 - Console DLC For PC" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Saints Row · Genre: sandbox, action</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/saints-row-2-console-dlc-for-pc/"><img src="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" alt="Saints Row 2 - Console DLC For PC" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Saints Row · Genre: sandbox, action</p>]]></content:encoded>
       </item></channel>
 </rss>

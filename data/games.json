@@ -29769,6 +29769,45 @@
     "notes": "",
     "date_added": "2026-06-17",
     "image": ""
+  },
+  {
+    "id": 2282,
+    "title": "Wolfenstein 3D Atari Lynx Port",
+    "category": "console-ports",
+    "link": "https://drive.google.com/drive/folders/11Mq1f8bDg_ZH8Z9DtjH5dC1-cCsP8ycZ",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Wolfenstein",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
+  },
+  {
+    "id": 2283,
+    "title": "Ironclad - Xbox 360",
+    "category": "preserved-games",
+    "link": "https://hiddenpalace.org/Ironclad_(Dec_16,_2008_prototype)",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Ironclad",
+    "video_link": "https://youtu.be/HAgOKjO5EfQ?si=Wk_nuuv353vJWEtP",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
+  },
+  {
+    "id": 2284,
+    "title": "Resident Evil 4 - Multiplayer Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/residentevil42023/mods/6539?tab=description",
+    "genre1": "third-person-shooter",
+    "genre2": "survival-horror",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/M5YeYh3Cb-c?si=_y44eSnrbtXJ7KHA",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
   }
 
 

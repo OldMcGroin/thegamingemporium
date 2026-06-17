@@ -6,7 +6,7 @@
     <link>http://localhost:1313/</link>
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
-    <lastBuildDate>Wed, 17 Jun 2026 13:18:28 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Wed, 17 Jun 2026 21:31:01 &#43;0000</lastBuildDate><item>
         <title>Fire Emblem: Seima no Kouseki Decompilation</title>
         <link>http://localhost:1313/game/fire-emblem-seima-no-kouseki-decompilation/</link>
         <guid isPermaLink="true">http://localhost:1313/game/fire-emblem-seima-no-kouseki-decompilation/</guid>
@@ -38,6 +38,39 @@
         <media:content url="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp" medium="image" />
         <enclosure url="http://localhost:1313/Images/Games/homeworld-2-classic-decompilation.webp" type="image/webp" />
         <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>Wolfenstein 3D Atari Lynx Port</title>
+        <link>http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wolfenstein-3d-atari-lynx-port/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wolfenstein-3d-atari-lynx-port.webp" type="image/webp" />
+        <category>console-ports</category>
+        <description></description>
+      </item><item>
+        <title>Ironclad - Xbox 360</title>
+        <link>http://localhost:1313/game/ironclad-xbox-360/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ironclad-xbox-360/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ironclad-xbox-360.webp" type="image/webp" />
+        <category>preserved-games</category>
+        <description></description>
+      </item><item>
+        <title>Resident Evil 4 - Multiplayer Mod</title>
+        <link>http://localhost:1313/game/resident-evil-4-multiplayer-mod/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/resident-evil-4-multiplayer-mod/</guid>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" />
+        <media:content url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/resident-evil-4-multiplayer-mod.webp" type="image/webp" />
+        <category>mods</category>
         <description></description>
       </item><item>
         <title>Super Mario 64 Nintendo DS Port with Multiplayer</title>
@@ -522,39 +555,6 @@
         <media:content url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp" medium="image" />
         <enclosure url="http://localhost:1313/Images/Games/battleship-smash-brothers-64-pc-port-netplay.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Grand Theft Auto: San Andreas - Carcer City</title>
-        <link>http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" />
-        <media:content url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/grand-theft-auto-san-andreas-carcer-city.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Grand Theft Auto 5 - Squid Games</title>
-        <link>http://localhost:1313/game/grand-theft-auto-5-squid-games/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/grand-theft-auto-5-squid-games/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" />
-        <media:content url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/grand-theft-auto-5-squid-games.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Saints Row 2 - Console DLC For PC</title>
-        <link>http://localhost:1313/game/saints-row-2-console-dlc-for-pc/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/saints-row-2-console-dlc-for-pc/</guid>
-        <pubDate>Sun, 24 May 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" />
-        <media:content url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/saints-row-2-console-dlc-for-pc.webp" type="image/webp" />
-        <category>mods</category>
         <description></description>
       </item>
   </channel>
