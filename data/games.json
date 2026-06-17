@@ -8296,8 +8296,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 638,
@@ -28666,7 +28665,7 @@
     "date_added": "2026-05-08",
     "image": ""
   },
-  {
+    {
     "id": 2198,
     "title": "Animal Crossing Gamecube Web Port",
     "category": "fan-games",
@@ -28679,7 +28678,7 @@
     "date_added": "2026-05-09",
     "image": ""
   },
-  {
+    {
     "id": 2199,
     "title": "Flare",
     "category": "open-source",
@@ -28692,7 +28691,7 @@
     "date_added": "2026-05-09",
     "image": ""
   },
-  {
+    {
     "id": 2200,
     "title": "Triggerheart Exelica - Dreamcast",
     "category": "english-translation-patches",
@@ -28705,7 +28704,7 @@
     "date_added": "2026-05-09",
     "image": ""
   },
-  {
+    {
     "id": 2201,
     "title": "Dusklight - The Legend of Zelda Twilight Princess PC Port",
     "category": "decompilations-recompilations",
@@ -28718,7 +28717,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2202,
     "title": "Paperboy 64 Decompilation",
     "category": "in-the-works",
@@ -28731,7 +28730,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2203,
     "title": "Evos Space Adventures Decompilation",
     "category": "in-the-works",
@@ -28744,7 +28743,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2204,
     "title": "Ultima V Warriors of Destiny Decompilation",
     "category": "in-the-works",
@@ -28757,7 +28756,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2205,
     "title": "Tokyo Bus Guide Decompilation",
     "category": "in-the-works",
@@ -28770,7 +28769,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2206,
     "title": "Armored Trooper Votoms - Playstation 2",
     "category": "english-translation-patches",
@@ -28783,7 +28782,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2207,
     "title": "Racing Battle: C1 Grand Prix - Playstation 2",
     "category": "english-translation-patches",
@@ -28796,7 +28795,7 @@
     "date_added": "2026-05-10",
     "image": ""
   },
-  {
+    {
     "id": 2208,
     "title": "Dusklight - The Legend of Zelda Twilight Princess PC Port Texture Pack 1",
     "category": "decompilations-recompilations",
@@ -28809,7 +28808,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2209,
     "title": "Pokemon Snap 3DS Port",
     "category": "console-ports",
@@ -28822,7 +28821,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2210,
     "title": "Ace Driver - Arcade Emulator for Xbox 360",
     "category": "utility",
@@ -28835,7 +28834,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2211,
     "title": "Castlevania - Sega Master System Port",
     "category": "console-ports",
@@ -28848,7 +28847,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2212,
     "title": "SpelunkyClassicHD",
     "category": "open-source",
@@ -28861,7 +28860,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2213,
     "title": "Starfield - Star Wars Resources - Galaxy",
     "category": "mods",
@@ -28874,7 +28873,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2214,
     "title": "Star Fox 64 PSP Port",
     "category": "in-the-works",
@@ -28887,7 +28886,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2215,
     "title": "Beat Hazard 2 PS Vita Port",
     "category": "console-ports",
@@ -28900,7 +28899,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2216,
     "title": "VitaDB Downloader",
     "category": "utility",
@@ -28913,7 +28912,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2217,
     "title": "Universal Dreamcast Patcher",
     "category": "utility",
@@ -28926,7 +28925,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2218,
     "title": "R. C. Pro Am SNES Port",
     "category": "console-ports",
@@ -28939,7 +28938,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2219,
     "title": "Goopie - Xbox 360 Recompilation Launcher",
     "category": "utility",
@@ -28952,7 +28951,7 @@
     "date_added": "2026-05-16",
     "image": ""
   },
-  {
+    {
     "id": 2220,
     "title": "Kameo: Elements of Power Recompilation",
     "category": "decompilations-recompilations",
@@ -28965,7 +28964,7 @@
     "date_added": "2026-06-04",
     "image": ""
   },
-  {
+    {
     "id": 2221,
     "title": "Lollipop Chainsaw Recompilation",
     "category": "in-the-works",
@@ -28978,7 +28977,7 @@
     "date_added": "2026-05-17",
     "image": ""
   },
-  {
+    {
     "id": 2222,
     "title": "Naughty Bear Recompilation",
     "category": "in-the-works",
@@ -28991,7 +28990,7 @@
     "date_added": "2026-05-17",
     "image": ""
   },
-  {
+    {
     "id": 2223,
     "title": "Destroy All Humans: Path of the Furon Recompilation",
     "category": "decompilations-recompilations",
@@ -29004,7 +29003,7 @@
     "date_added": "2026-06-04",
     "image": ""
   },
-  {
+    {
     "id": 2224,
     "title": "Ecstatica 1 and 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -29017,7 +29016,7 @@
     "date_added": "2026-05-17",
     "image": ""
   },
-  {
+    {
     "id": 2225,
     "title": "nesrecomp - NES Recompiler Project",
     "category": "decompilations-recompilations",
@@ -29030,7 +29029,7 @@
     "date_added": "2026-05-18",
     "image": ""
   },
-  {
+    {
     "id": 2226,
     "title": "Castlevania - Symphony of the Night GBC",
     "category": "fan-games",
@@ -29043,7 +29042,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2227,
     "title": "Animal Crossing GBC",
     "category": "fan-games",
@@ -29056,7 +29055,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2228,
     "title": "BlasNESmous - Blasphemous NES Demake",
     "category": "fan-games",
@@ -29069,7 +29068,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2229,
     "title": "Magiczna kula Papatki Decompilation",
     "category": "in-the-works",
@@ -29082,7 +29081,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2230,
     "title": "Return to Castle Wolfenstein PS Vita Port",
     "category": "console-ports",
@@ -29095,7 +29094,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2231,
     "title": "PS2Recomp - Playstation 2 Static Recompiler & Runtime Tool to make native PC Ports",
     "category": "utility",
@@ -29108,7 +29107,7 @@
     "date_added": "2026-05-22",
     "image": ""
   },
-  {
+    {
     "id": 2232,
     "title": "Terranigma Redux",
     "category": "rom-hacks",
@@ -29121,7 +29120,7 @@
     "date_added": "2026-05-23",
     "image": ""
   },
-  {
+    {
     "id": 2233,
     "title": "Five Nights At Freddy's 3: Wii Edition",
     "category": "console-ports",
@@ -29134,7 +29133,7 @@
     "date_added": "2026-05-23",
     "image": ""
   },
-  {
+    {
     "id": 2234,
     "title": "Quetoo",
     "category": "open-source",
@@ -29147,7 +29146,7 @@
     "date_added": "2026-05-23",
     "image": ""
   },
-  {
+    {
     "id": 2235,
     "title": "WCW nWo Revenge Starrcade Edition",
     "category": "rom-hacks",
@@ -29160,7 +29159,7 @@
     "date_added": "2026-05-23",
     "image": ""
   },
-  {
+    {
     "id": 2236,
     "title": "Grand Theft Auto: San Andreas - Carcer City",
     "category": "mods",
@@ -29173,7 +29172,7 @@
     "date_added": "2026-05-24",
     "image": ""
   },
-  {
+    {
     "id": 2237,
     "title": "Grand Theft Auto 5 - Squid Games",
     "category": "mods",
@@ -29186,7 +29185,7 @@
     "date_added": "2026-05-24",
     "image": ""
   },
-  {
+    {
     "id": 2238,
     "title": "Saints Row 2 - Console DLC For PC",
     "category": "mods",
@@ -29731,5 +29730,48 @@
     "notes": "",
     "date_added": "2026-06-16",
     "image": ""
+  },
+  {
+    "id": 2279,
+    "title": "Fire Emblem: Seima no Kouseki Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/laqieer/fireemblem8j",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Fire Emblem",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
+  },
+  {
+    "id": 2280,
+    "title": "Star Wars: Rogue Squadron II - Rogue Leader Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/AARosson48/rogue-leader-decomp",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
+  },
+  {
+    "id": 2281,
+    "title": "Homeworld 2 Classic Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/HaydnTrigg/Homeworld2Classic",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Homeworld",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-17",
+    "image": ""
   }
+
+
+
+
 ]
