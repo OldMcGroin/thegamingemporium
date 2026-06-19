@@ -29834,7 +29834,34 @@
     "notes": "",
     "date_added": "2026-06-18",
     "image": ""
+  },
+  {
+    "id": 2287,
+    "title": "Colin McRae Rally 2.0",
+    "category": "abandonware",
+    "link": "https://archive.org/details/colin-mcrae-rally-2.0-repack",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Colin McRae",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-19",
+    "image": ""
+  },
+  {
+    "id": 2288,
+    "title": "Colin McRae Rally",
+    "category": "abandonware",
+    "link": "https://archive.org/details/colin-mcrae-rally-repack?",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Colin McRae",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-19",
+    "image": ""
   }
+
 
 
 
