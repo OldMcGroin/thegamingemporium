@@ -30614,6 +30614,58 @@
     "notes": "",
     "date_added": "2026-06-20",
     "image": ""
+  },
+  {
+    "id": 2346,
+    "title": "Banjo-Kazooie Recompilation for Android",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AurelioB/BanjoRecomp-Android/releases",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-21",
+    "image": ""
+  },
+  {
+    "id": 2347,
+    "title": "Alundra Definitive Edition",
+    "category": "rom-hacks",
+    "link": "https://github.com/Pixelplix93/Alundra-Definitive-Edition",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Alundra",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-21",
+    "image": ""
+  },
+  {
+    "id": 2348,
+    "title": "Ancient Ys Vanished Omen - PC-98",
+    "category": "english-translation-patches",
+    "link": "https://github.com/GhaleonX/Ys",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Ys",
+    "video_link": "https://youtu.be/Qc-7nTh0tyw?si=-1auACOpv9B_WXUA",
+    "notes": "",
+    "date_added": "2026-06-21",
+    "image": ""
+  },
+  {
+    "id": 2349,
+    "title": "Deadly Premonition Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LittleBitUA/DPRecomp",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Deadly Premonition",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-21",
+    "image": ""
   }
 
 
