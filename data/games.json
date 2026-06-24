@@ -30705,6 +30705,84 @@
     "notes": "",
     "date_added": "2026-06-23",
     "image": ""
+  },
+  {
+    "id": 2353,
+    "title": "DolRecomp - A static recompiler for GameCube, Wii, and experimental Wii U CPU code",
+    "category": "utility",
+    "link": "https://github.com/ExpansionPak/DolRecomp",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
+  },
+  {
+    "id": 2354,
+    "title": "Smash Remix: Project Galleon",
+    "category": "rom-hacks",
+    "link": "https://www.youtube.com/watch?v=LIvRGQ0mZB8",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/LIvRGQ0mZB8?si=AL9gySqhjbA3T8D0",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
+  },
+  {
+    "id": 2355,
+    "title": "OpenPREY",
+    "category": "open-source",
+    "link": "https://github.com/themuffinator/OpenPREY",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Prey",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
+  },
+  {
+    "id": 2356,
+    "title": "Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/roborich/Shipwright/releases/tag/v0.3-cel-shade",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
+  },
+  {
+    "id": 2357,
+    "title": "Monster Hunter Dynamic Hunting PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1420",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Monster Hunter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
+  },
+  {
+    "id": 2358,
+    "title": "Castlevania ReVamped Android Port",
+    "category": "open-source",
+    "link": "https://github.com/eboody/Castlevania-ReVamped-Open-Source-Edition/releases",
+    "genre1": "metroidvania",
+    "genre2": "action",
+    "series": "Castlevania",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-24",
+    "image": ""
   }
 
 

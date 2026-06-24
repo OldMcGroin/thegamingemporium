@@ -1,560 +1,561 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>The Gaming Emporium — Recent Additions</title>
-    <link>https://thegamingemporium.com/</link>
-    <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
-    <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 22 Jun 2026 23:19:37 +0000</lastBuildDate>
-    <item>
-      <title>Crash Team Racing PC Port</title>
-      <link>https://thegamingemporium.com/game/crash-team-racing-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-team-racing-pc-port/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Silent Hill: Downpour Recompilation</title>
-      <link>https://thegamingemporium.com/game/silent-hill-downpour-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/silent-hill-downpour-recompilation/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/silent-hill-downpour-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/silent-hill-downpour-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-downpour-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-downpour-recompilation.webp" alt="Silent Hill: Downpour Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-downpour-recompilation.webp" alt="Silent Hill: Downpour Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Snowboard Kids 2 Recompilation</title>
-      <link>https://thegamingemporium.com/game/snowboard-kids-2-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/snowboard-kids-2-recompilation/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/snowboard-kids-2-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/snowboard-kids-2-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/snowboard-kids-2-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snowboard-kids-2-recompilation.webp" alt="Snowboard Kids 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Snowboard Kids · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snowboard-kids-2-recompilation.webp" alt="Snowboard Kids 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Snowboard Kids · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Banjo-Kazooie Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/banjo-kazooie-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/banjo-kazooie-recompilation-for-android/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompilation-for-android.webp" alt="Banjo-Kazooie Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompilation-for-android.webp" alt="Banjo-Kazooie Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Alundra Definitive Edition</title>
-      <link>https://thegamingemporium.com/game/alundra-definitive-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/alundra-definitive-edition/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/alundra-definitive-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/alundra-definitive-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/alundra-definitive-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alundra-definitive-edition.webp" alt="Alundra Definitive Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Alundra · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alundra-definitive-edition.webp" alt="Alundra Definitive Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Alundra · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Ancient Ys Vanished Omen - PC-98</title>
-      <link>https://thegamingemporium.com/game/ancient-ys-vanished-omen-pc-98/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ancient-ys-vanished-omen-pc-98/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ancient-ys-vanished-omen-pc-98.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ancient-ys-vanished-omen-pc-98.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ancient-ys-vanished-omen-pc-98.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ancient-ys-vanished-omen-pc-98.webp" alt="Ancient Ys Vanished Omen - PC-98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Ys · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ancient-ys-vanished-omen-pc-98.webp" alt="Ancient Ys Vanished Omen - PC-98" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Ys · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Deadly Premonition Recompilation</title>
-      <link>https://thegamingemporium.com/game/deadly-premonition-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/deadly-premonition-recompilation/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/deadly-premonition-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/deadly-premonition-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/deadly-premonition-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deadly-premonition-recompilation.webp" alt="Deadly Premonition Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Deadly Premonition · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deadly-premonition-recompilation.webp" alt="Deadly Premonition Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Deadly Premonition · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Snowboard Kids Decompilation</title>
-      <link>https://thegamingemporium.com/game/snowboard-kids-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/snowboard-kids-decompilation/</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/snowboard-kids-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/snowboard-kids-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/snowboard-kids-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snowboard-kids-decompilation.webp" alt="Snowboard Kids Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Snowboard Kids · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snowboard-kids-decompilation.webp" alt="Snowboard Kids Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Snowboard Kids · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>God Hand Decompilation</title>
-      <link>https://thegamingemporium.com/game/god-hand-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/god-hand-decompilation/</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/god-hand-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/god-hand-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/god-hand-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/god-hand-decompilation.webp" alt="God Hand Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: God Hand · Genre: beat em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/god-hand-decompilation.webp" alt="God Hand Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: God Hand · Genre: beat em up]]></content:encoded>
-    </item>
-    <item>
-      <title>DARIUSBURST SP PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/dariusburst-sp-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dariusburst-sp-ps-vita-port/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dariusburst-sp-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dariusburst-sp-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dariusburst-sp-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dariusburst-sp-ps-vita-port.webp" alt="DARIUSBURST SP PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Genre: shoot em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dariusburst-sp-ps-vita-port.webp" alt="DARIUSBURST SP PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Genre: shoot em up]]></content:encoded>
-    </item>
-    <item>
-      <title>A Bite at Freddy's PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/a-bite-at-freddy-s-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/a-bite-at-freddy-s-ps-vita-port/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/a-bite-at-freddy-s-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/a-bite-at-freddy-s-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/a-bite-at-freddy-s-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-bite-at-freddy-s-ps-vita-port.webp" alt="A Bite at Freddy's PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Five Nights At Freddy's · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/a-bite-at-freddy-s-ps-vita-port.webp" alt="A Bite at Freddy's PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Five Nights At Freddy's · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Fire Emblem: Seima no Kouseki Decompilation</title>
-      <link>https://thegamingemporium.com/game/fire-emblem-seima-no-kouseki-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/fire-emblem-seima-no-kouseki-decompilation/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fire-emblem-seima-no-kouseki-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/fire-emblem-seima-no-kouseki-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/fire-emblem-seima-no-kouseki-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fire-emblem-seima-no-kouseki-decompilation.webp" alt="Fire Emblem: Seima no Kouseki Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fire Emblem · Genre: rpg, strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fire-emblem-seima-no-kouseki-decompilation.webp" alt="Fire Emblem: Seima no Kouseki Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Fire Emblem · Genre: rpg, strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Wars: Rogue Squadron II - Rogue Leader Decompilation</title>
-      <link>https://thegamingemporium.com/game/star-wars-rogue-squadron-ii-rogue-leader-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-wars-rogue-squadron-ii-rogue-leader-decompilation/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-wars-rogue-squadron-ii-rogue-leader-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-wars-rogue-squadron-ii-rogue-leader-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-wars-rogue-squadron-ii-rogue-leader-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-rogue-squadron-ii-rogue-leader-decompilation.webp" alt="Star Wars: Rogue Squadron II - Rogue Leader Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Star Wars · Genre: space combat simulator]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-rogue-squadron-ii-rogue-leader-decompilation.webp" alt="Star Wars: Rogue Squadron II - Rogue Leader Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Star Wars · Genre: space combat simulator]]></content:encoded>
-    </item>
-    <item>
-      <title>Homeworld 2 Classic Decompilation</title>
-      <link>https://thegamingemporium.com/game/homeworld-2-classic-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/homeworld-2-classic-decompilation/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/homeworld-2-classic-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/homeworld-2-classic-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/homeworld-2-classic-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/homeworld-2-classic-decompilation.webp" alt="Homeworld 2 Classic Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Homeworld · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/homeworld-2-classic-decompilation.webp" alt="Homeworld 2 Classic Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Homeworld · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Wolfenstein 3D Atari Lynx Port</title>
-      <link>https://thegamingemporium.com/game/wolfenstein-3d-atari-lynx-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wolfenstein-3d-atari-lynx-port/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wolfenstein-3d-atari-lynx-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wolfenstein-3d-atari-lynx-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wolfenstein-3d-atari-lynx-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wolfenstein-3d-atari-lynx-port.webp" alt="Wolfenstein 3D Atari Lynx Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Wolfenstein · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wolfenstein-3d-atari-lynx-port.webp" alt="Wolfenstein 3D Atari Lynx Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Wolfenstein · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Ironclad - Xbox 360</title>
-      <link>https://thegamingemporium.com/game/ironclad-xbox-360/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ironclad-xbox-360/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ironclad-xbox-360.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ironclad-xbox-360.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ironclad-xbox-360.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ironclad-xbox-360.webp" alt="Ironclad - Xbox 360" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Series: Ironclad · Genre: third person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ironclad-xbox-360.webp" alt="Ironclad - Xbox 360" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Series: Ironclad · Genre: third person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Resident Evil 4 - Multiplayer Mod</title>
-      <link>https://thegamingemporium.com/game/resident-evil-4-multiplayer-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-4-multiplayer-mod/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-4-multiplayer-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-4-multiplayer-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-4-multiplayer-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-4-multiplayer-mod.webp" alt="Resident Evil 4 - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: third person shooter, survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-4-multiplayer-mod.webp" alt="Resident Evil 4 - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: third person shooter, survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario 64 Nintendo DS Port with Multiplayer</title>
-      <link>https://thegamingemporium.com/game/super-mario-64-nintendo-ds-port-with-multiplayer/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-64-nintendo-ds-port-with-multiplayer/</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-ds-port-with-multiplayer.webp" alt="Super Mario 64 Nintendo DS Port with Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Earthbound Beginnings Remake</title>
-      <link>https://thegamingemporium.com/game/earthbound-beginnings-remake/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/earthbound-beginnings-remake/</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" alt="Earthbound Beginnings Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Earthbound · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthbound-beginnings-remake.webp" alt="Earthbound Beginnings Remake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Earthbound · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Silent Hill PC Port</title>
-      <link>https://thegamingemporium.com/game/silent-hill-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/silent-hill-pc-port/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" alt="Silent Hill PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" alt="Silent Hill PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Goldeneye XBLA Recompilation</title>
-      <link>https://thegamingemporium.com/game/goldeneye-xbla-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-xbla-recompilation/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" alt="Goldeneye XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" alt="Goldeneye XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Paper Mario Down Bad Edition</title>
-      <link>https://thegamingemporium.com/game/paper-mario-down-bad-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/paper-mario-down-bad-edition/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" alt="Paper Mario Down Bad Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" alt="Paper Mario Down Bad Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms</title>
-      <link>https://thegamingemporium.com/game/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" alt="SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" alt="SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Kowloon's Gate - Playstation</title>
-      <link>https://thegamingemporium.com/game/kowloon-s-gate-playstation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/kowloon-s-gate-playstation/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kowloon-s-gate-playstation.webp" alt="Kowloon's Gate - Playstation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Kowloon's Gate · Genre: adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build</title>
-      <link>https://thegamingemporium.com/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build.webp" alt="Dusklight - The Legend of Zelda Twilight Princess PC Port Web Browser Build" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokemon Stadium Recompilation</title>
-      <link>https://thegamingemporium.com/game/pokemon-stadium-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-stadium-recompilation/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" alt="Pokemon Stadium Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: action, strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-stadium-recompilation.webp" alt="Pokemon Stadium Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: action, strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>MOTHER: Encore</title>
-      <link>https://thegamingemporium.com/game/mother-encore/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mother-encore/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mother-encore.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mother-encore.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mother-encore.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mother-encore.webp" alt="MOTHER: Encore" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Earthbound · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mother-encore.webp" alt="MOTHER: Encore" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Earthbound · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>RecompOne - Static PSOne Recompiler</title>
-      <link>https://thegamingemporium.com/game/recompone-static-psone-recompiler/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/recompone-static-psone-recompiler/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/recompone-static-psone-recompiler.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/recompone-static-psone-recompiler.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/recompone-static-psone-recompiler.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/recompone-static-psone-recompiler.webp" alt="RecompOne - Static PSOne Recompiler" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/recompone-static-psone-recompiler.webp" alt="RecompOne - Static PSOne Recompiler" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Soul Blazer - SNES</title>
-      <link>https://thegamingemporium.com/game/soul-blazer-snes/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/soul-blazer-snes/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/soul-blazer-snes.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/soul-blazer-snes.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/soul-blazer-snes.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soul-blazer-snes.webp" alt="Soul Blazer - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Soul Blazer · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soul-blazer-snes.webp" alt="Soul Blazer - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Soul Blazer · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Rushing Beat Shura The Eternal Conflict - SNES</title>
-      <link>https://thegamingemporium.com/game/rushing-beat-shura-the-eternal-conflict-snes/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rushing-beat-shura-the-eternal-conflict-snes/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rushing-beat-shura-the-eternal-conflict-snes.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rushing-beat-shura-the-eternal-conflict-snes.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rushing-beat-shura-the-eternal-conflict-snes.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rushing-beat-shura-the-eternal-conflict-snes.webp" alt="Rushing Beat Shura The Eternal Conflict - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Rushing Beat Shura · Genre: beat em up]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rushing-beat-shura-the-eternal-conflict-snes.webp" alt="Rushing Beat Shura The Eternal Conflict - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Rushing Beat Shura · Genre: beat em up]]></content:encoded>
-    </item>
-    <item>
-      <title>Unreal Tournament PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/unreal-tournament-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/unreal-tournament-ps-vita-port/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/unreal-tournament-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/unreal-tournament-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/unreal-tournament-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/unreal-tournament-ps-vita-port.webp" alt="Unreal Tournament PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Unreal · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/unreal-tournament-ps-vita-port.webp" alt="Unreal Tournament PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Unreal · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Resident Evil 4 Mobile PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/resident-evil-4-mobile-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-4-mobile-ps-vita-port/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-4-mobile-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-4-mobile-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-4-mobile-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-4-mobile-ps-vita-port.webp" alt="Resident Evil 4 Mobile PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Resident Evil · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-4-mobile-ps-vita-port.webp" alt="Resident Evil 4 Mobile PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Resident Evil · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>PAC-MAN Championship Edition DX PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/pac-man-championship-edition-dx-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pac-man-championship-edition-dx-ps-vita-port/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pac-man-championship-edition-dx-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pac-man-championship-edition-dx-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pac-man-championship-edition-dx-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pac-man-championship-edition-dx-ps-vita-port.webp" alt="PAC-MAN Championship Edition DX PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pac-man-championship-edition-dx-ps-vita-port.webp" alt="PAC-MAN Championship Edition DX PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>Call of Duty Black Ops Zombies PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/call-of-duty-black-ops-zombies-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/call-of-duty-black-ops-zombies-ps-vita-port/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/call-of-duty-black-ops-zombies-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/call-of-duty-black-ops-zombies-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/call-of-duty-black-ops-zombies-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/call-of-duty-black-ops-zombies-ps-vita-port.webp" alt="Call of Duty Black Ops Zombies PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Call of Duty · Genre: first person shooter, survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/call-of-duty-black-ops-zombies-ps-vita-port.webp" alt="Call of Duty Black Ops Zombies PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Call of Duty · Genre: first person shooter, survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Marvel's Spider-Man 2 First Person Camera Mod</title>
-      <link>https://thegamingemporium.com/game/marvel-s-spider-man-2-first-person-camera-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/marvel-s-spider-man-2-first-person-camera-mod/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-first-person-camera-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-first-person-camera-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-first-person-camera-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-first-person-camera-mod.webp" alt="Marvel's Spider-Man 2 First Person Camera Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Spiderman · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-first-person-camera-mod.webp" alt="Marvel's Spider-Man 2 First Person Camera Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Spiderman · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Castlevania Legacy of Darkness Recompilation</title>
-      <link>https://thegamingemporium.com/game/castlevania-legacy-of-darkness-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-legacy-of-darkness-recompilation/</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" alt="Castlevania Legacy of Darkness Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" alt="Castlevania Legacy of Darkness Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Eternal Sonata Recompilation</title>
-      <link>https://thegamingemporium.com/game/eternal-sonata-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/eternal-sonata-recompilation/</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Skate 3 Recompilation 2</title>
-      <link>https://thegamingemporium.com/game/skate-3-recompilation-2/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/skate-3-recompilation-2/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-2.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-2.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-2.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-recompilation-2.webp" alt="Skate 3 Recompilation 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Skate · Genre: sports, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-recompilation-2.webp" alt="Skate 3 Recompilation 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Skate · Genre: sports, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Lost Odyssey Recompilation</title>
-      <link>https://thegamingemporium.com/game/lost-odyssey-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/lost-odyssey-recompilation/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lost-odyssey-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/lost-odyssey-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/lost-odyssey-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lost-odyssey-recompilation.webp" alt="Lost Odyssey Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Lost Odyssey · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lost-odyssey-recompilation.webp" alt="Lost Odyssey Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Lost Odyssey · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>The Outfit Recompilation</title>
-      <link>https://thegamingemporium.com/game/the-outfit-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-outfit-recompilation/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-outfit-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-outfit-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-outfit-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-outfit-recompilation.webp" alt="The Outfit Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: The Outfit · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-outfit-recompilation.webp" alt="The Outfit Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: The Outfit · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Test Drive Unlimited Recompilation</title>
-      <link>https://thegamingemporium.com/game/test-drive-unlimited-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/test-drive-unlimited-recompilation/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/test-drive-unlimited-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/test-drive-unlimited-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/test-drive-unlimited-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/test-drive-unlimited-recompilation.webp" alt="Test Drive Unlimited Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Test Drive · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/test-drive-unlimited-recompilation.webp" alt="Test Drive Unlimited Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Test Drive · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Rock Band 3 Recompilation</title>
-      <link>https://thegamingemporium.com/game/rock-band-3-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rock-band-3-recompilation/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rock-band-3-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rock-band-3-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rock-band-3-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rock-band-3-recompilation.webp" alt="Rock Band 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Rock Band · Genre: rhythm based]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rock-band-3-recompilation.webp" alt="Rock Band 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Rock Band · Genre: rhythm based]]></content:encoded>
-    </item>
-    <item>
-      <title>Kameo: Elements of Power Recompilation</title>
-      <link>https://thegamingemporium.com/game/kameo-elements-of-power-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/kameo-elements-of-power-recompilation/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kameo-elements-of-power-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/kameo-elements-of-power-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/kameo-elements-of-power-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kameo-elements-of-power-recompilation.webp" alt="Kameo: Elements of Power Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Kameo · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kameo-elements-of-power-recompilation.webp" alt="Kameo: Elements of Power Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Kameo · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Destroy All Humans: Path of the Furon Recompilation</title>
-      <link>https://thegamingemporium.com/game/destroy-all-humans-path-of-the-furon-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/destroy-all-humans-path-of-the-furon-recompilation/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" alt="Destroy All Humans: Path of the Furon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Destroy All Humans · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destroy-all-humans-path-of-the-furon-recompilation.webp" alt="Destroy All Humans: Path of the Furon Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Destroy All Humans · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Skate 3 Recompilation 1</title>
-      <link>https://thegamingemporium.com/game/skate-3-recompilation-1/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/skate-3-recompilation-1/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-1.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-1.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/skate-3-recompilation-1.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-recompilation-1.webp" alt="Skate 3 Recompilation 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Skate · Genre: sports, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-recompilation-1.webp" alt="Skate 3 Recompilation 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Skate · Genre: sports, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Morrowind - Muffinwind Rebaked</title>
-      <link>https://thegamingemporium.com/game/morrowind-muffinwind-rebaked/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/morrowind-muffinwind-rebaked/</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/morrowind-muffinwind-rebaked.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/morrowind-muffinwind-rebaked.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/morrowind-muffinwind-rebaked.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/morrowind-muffinwind-rebaked.webp" alt="Morrowind - Muffinwind Rebaked" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/morrowind-muffinwind-rebaked.webp" alt="Morrowind - Muffinwind Rebaked" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: The Elder Scrolls · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Banjo Kazooie Recompiled Stereoscopic 3D</title>
-      <link>https://thegamingemporium.com/game/banjo-kazooie-recompiled-stereoscopic-3d/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/banjo-kazooie-recompiled-stereoscopic-3d/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompiled-stereoscopic-3d.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompiled-stereoscopic-3d.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompiled-stereoscopic-3d.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompiled-stereoscopic-3d.webp" alt="Banjo Kazooie Recompiled Stereoscopic 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-recompiled-stereoscopic-3d.webp" alt="Banjo Kazooie Recompiled Stereoscopic 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Perfect Dark Recompiled Stereoscopic 3D</title>
-      <link>https://thegamingemporium.com/game/perfect-dark-recompiled-stereoscopic-3d/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/perfect-dark-recompiled-stereoscopic-3d/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/perfect-dark-recompiled-stereoscopic-3d.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/perfect-dark-recompiled-stereoscopic-3d.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/perfect-dark-recompiled-stereoscopic-3d.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-recompiled-stereoscopic-3d.webp" alt="Perfect Dark Recompiled Stereoscopic 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Perfect Dark · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-recompiled-stereoscopic-3d.webp" alt="Perfect Dark Recompiled Stereoscopic 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Perfect Dark · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Phantasy Star Generation:2 - PS2</title>
-      <link>https://thegamingemporium.com/game/phantasy-star-generation-2-ps2/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/phantasy-star-generation-2-ps2/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/phantasy-star-generation-2-ps2.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/phantasy-star-generation-2-ps2.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/phantasy-star-generation-2-ps2.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/phantasy-star-generation-2-ps2.webp" alt="Phantasy Star Generation:2 - PS2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Phantasy Star · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/phantasy-star-generation-2-ps2.webp" alt="Phantasy Star Generation:2 - PS2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />English Translation Patches · Series: Phantasy Star · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Daytona USA Recompilation</title>
-      <link>https://thegamingemporium.com/game/daytona-usa-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/daytona-usa-recompilation/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/daytona-usa-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/daytona-usa-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/daytona-usa-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/daytona-usa-recompilation.webp" alt="Daytona USA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Daytona · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/daytona-usa-recompilation.webp" alt="Daytona USA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Daytona · Genre: racing]]></content:encoded>
-    </item>
+    <title>The Gaming Emporium – Recent Additions</title>
+    <link>http://localhost:1313/</link>
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
+    <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
+    <lastBuildDate>Wed, 24 Jun 2026 21:53:22 &#43;0000</lastBuildDate><item>
+        <title>DolRecomp - A static recompiler for GameCube, Wii, and experimental Wii U CPU code</title>
+        <link>http://localhost:1313/game/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code.webp" type="image/webp" />
+        <category>utility</category>
+        <description></description>
+      </item><item>
+        <title>Smash Remix: Project Galleon</title>
+        <link>http://localhost:1313/game/smash-remix-project-galleon/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/smash-remix-project-galleon/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/smash-remix-project-galleon.webp" />
+        <media:content url="http://localhost:1313/Images/Games/smash-remix-project-galleon.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/smash-remix-project-galleon.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>OpenPREY</title>
+        <link>http://localhost:1313/game/openprey/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/openprey/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/openprey.webp" />
+        <media:content url="http://localhost:1313/Images/Games/openprey.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/openprey.webp" type="image/webp" />
+        <category>open-source</category>
+        <description></description>
+      </item><item>
+        <title>Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod</title>
+        <link>http://localhost:1313/game/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Monster Hunter Dynamic Hunting PS Vita Port</title>
+        <link>http://localhost:1313/game/monster-hunter-dynamic-hunting-ps-vita-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/monster-hunter-dynamic-hunting-ps-vita-port/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" type="image/webp" />
+        <category>console-ports</category>
+        <description></description>
+      </item><item>
+        <title>Castlevania ReVamped Android Port</title>
+        <link>http://localhost:1313/game/castlevania-revamped-android-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/castlevania-revamped-android-port/</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/castlevania-revamped-android-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/castlevania-revamped-android-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/castlevania-revamped-android-port.webp" type="image/webp" />
+        <category>open-source</category>
+        <description></description>
+      </item><item>
+        <title>Crash Team Racing PC Port</title>
+        <link>http://localhost:1313/game/crash-team-racing-pc-port/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/crash-team-racing-pc-port/</guid>
+        <pubDate>Tue, 23 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/crash-team-racing-pc-port.webp" />
+        <media:content url="http://localhost:1313/Images/Games/crash-team-racing-pc-port.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/crash-team-racing-pc-port.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Silent Hill: Downpour Recompilation</title>
+        <link>http://localhost:1313/game/silent-hill-downpour-recompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/silent-hill-downpour-recompilation/</guid>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/silent-hill-downpour-recompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/silent-hill-downpour-recompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/silent-hill-downpour-recompilation.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Snowboard Kids 2 Recompilation</title>
+        <link>http://localhost:1313/game/snowboard-kids-2-recompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/snowboard-kids-2-recompilation/</guid>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/snowboard-kids-2-recompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/snowboard-kids-2-recompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/snowboard-kids-2-recompilation.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Banjo-Kazooie Recompilation for Android</title>
+        <link>http://localhost:1313/game/banjo-kazooie-recompilation-for-android/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/banjo-kazooie-recompilation-for-android/</guid>
+        <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/banjo-kazooie-recompilation-for-android.webp" />
+        <media:content url="http://localhost:1313/Images/Games/banjo-kazooie-recompilation-for-android.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/banjo-kazooie-recompilation-for-android.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Alundra Definitive Edition</title>
+        <link>http://localhost:1313/game/alundra-definitive-edition/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/alundra-definitive-edition/</guid>
+        <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/alundra-definitive-edition.webp" />
+        <media:content url="http://localhost:1313/Images/Games/alundra-definitive-edition.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/alundra-definitive-edition.webp" type="image/webp" />
+        <category>rom-hacks</category>
+        <description></description>
+      </item><item>
+        <title>Ancient Ys Vanished Omen - PC-98</title>
+        <link>http://localhost:1313/game/ancient-ys-vanished-omen-pc-98/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ancient-ys-vanished-omen-pc-98/</guid>
+        <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/ancient-ys-vanished-omen-pc-98.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ancient-ys-vanished-omen-pc-98.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ancient-ys-vanished-omen-pc-98.webp" type="image/webp" />
+        <category>english-translation-patches</category>
+        <description></description>
+      </item><item>
+        <title>Deadly Premonition Recompilation</title>
+        <link>http://localhost:1313/game/deadly-premonition-recompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/deadly-premonition-recompilation/</guid>
+        <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/deadly-premonition-recompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/deadly-premonition-recompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/deadly-premonition-recompilation.webp" type="image/webp" />
+        <category>decompilations-recompilations</category>
+        <description></description>
+      </item><item>
+        <title>Snowboard Kids Decompilation</title>
+        <link>http://localhost:1313/game/snowboard-kids-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/snowboard-kids-decompilation/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/snowboard-kids-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/snowboard-kids-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/snowboard-kids-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>God Hand Decompilation</title>
+        <link>http://localhost:1313/game/god-hand-decompilation/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/god-hand-decompilation/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/god-hand-decompilation.webp" />
+        <media:content url="http://localhost:1313/Images/Games/god-hand-decompilation.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/god-hand-decompilation.webp" type="image/webp" />
+        <category>in-the-works</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K16</title>
+        <link>http://localhost:1313/game/wwe-2k16/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k16/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k16.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k16.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k16.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K17</title>
+        <link>http://localhost:1313/game/wwe-2k17/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k17/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k17.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k17.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k17.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K18</title>
+        <link>http://localhost:1313/game/wwe-2k18/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k18/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k18.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k18.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k18.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K19</title>
+        <link>http://localhost:1313/game/wwe-2k19/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k19/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k19.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k19.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k19.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K20</title>
+        <link>http://localhost:1313/game/wwe-2k20/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k20/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k20.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k20.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k20.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K22</title>
+        <link>http://localhost:1313/game/wwe-2k22/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k22/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k22.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k22.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k22.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>WWE 2K23</title>
+        <link>http://localhost:1313/game/wwe-2k23/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/wwe-2k23/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/wwe-2k23.webp" />
+        <media:content url="http://localhost:1313/Images/Games/wwe-2k23.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/wwe-2k23.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Starship Troopers - Terran Ascendancy</title>
+        <link>http://localhost:1313/game/starship-troopers-terran-ascendancy/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/starship-troopers-terran-ascendancy/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/starship-troopers-terran-ascendancy.webp" />
+        <media:content url="http://localhost:1313/Images/Games/starship-troopers-terran-ascendancy.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/starship-troopers-terran-ascendancy.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Ghostbusters: The Video Game</title>
+        <link>http://localhost:1313/game/ghostbusters-the-video-game/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/ghostbusters-the-video-game/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/ghostbusters-the-video-game.webp" />
+        <media:content url="http://localhost:1313/Images/Games/ghostbusters-the-video-game.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/ghostbusters-the-video-game.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Dexter: The Game</title>
+        <link>http://localhost:1313/game/dexter-the-game/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/dexter-the-game/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/dexter-the-game.webp" />
+        <media:content url="http://localhost:1313/Images/Games/dexter-the-game.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/dexter-the-game.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>House M.D.</title>
+        <link>http://localhost:1313/game/house-m.d./</link>
+        <guid isPermaLink="true">http://localhost:1313/game/house-m.d./</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/house-m.d..webp" />
+        <media:content url="http://localhost:1313/Images/Games/house-m.d..webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/house-m.d..webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>MechCommander: Gold</title>
+        <link>http://localhost:1313/game/mechcommander-gold/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mechcommander-gold/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mechcommander-gold.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mechcommander-gold.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mechcommander-gold.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>MechCommander 2</title>
+        <link>http://localhost:1313/game/mechcommander-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mechcommander-2/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mechcommander-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mechcommander-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mechcommander-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Onimusha 3: Demon Siege</title>
+        <link>http://localhost:1313/game/onimusha-3-demon-siege/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/onimusha-3-demon-siege/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/onimusha-3-demon-siege.webp" />
+        <media:content url="http://localhost:1313/Images/Games/onimusha-3-demon-siege.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/onimusha-3-demon-siege.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Forza Horizon 4</title>
+        <link>http://localhost:1313/game/forza-horizon-4/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/forza-horizon-4/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/forza-horizon-4.webp" />
+        <media:content url="http://localhost:1313/Images/Games/forza-horizon-4.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/forza-horizon-4.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Colin McRae: DiRT</title>
+        <link>http://localhost:1313/game/colin-mcrae-dirt/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/colin-mcrae-dirt/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/colin-mcrae-dirt.webp" />
+        <media:content url="http://localhost:1313/Images/Games/colin-mcrae-dirt.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/colin-mcrae-dirt.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tom Clancy&amp;#39;s Ghost Recon Advanced Warfighter</title>
+        <link>http://localhost:1313/game/tom-clancys-ghost-recon-advanced-warfighter/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tom-clancys-ghost-recon-advanced-warfighter/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tom Clancy&amp;#39;s Ghost Recon Advanced Warfighter 2</title>
+        <link>http://localhost:1313/game/tom-clancys-ghost-recon-advanced-warfighter-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tom-clancys-ghost-recon-advanced-warfighter-2/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tom-clancys-ghost-recon-advanced-warfighter-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Star Trek</title>
+        <link>http://localhost:1313/game/star-trek/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/star-trek/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/star-trek.webp" />
+        <media:content url="http://localhost:1313/Images/Games/star-trek.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/star-trek.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>The Lord Of The Rings - War Of The Ring</title>
+        <link>http://localhost:1313/game/the-lord-of-the-rings-war-of-the-ring/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-lord-of-the-rings-war-of-the-ring/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-lord-of-the-rings-war-of-the-ring.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-lord-of-the-rings-war-of-the-ring.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-lord-of-the-rings-war-of-the-ring.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Peaky Blinders Mastermind</title>
+        <link>http://localhost:1313/game/peaky-blinders-mastermind/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/peaky-blinders-mastermind/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/peaky-blinders-mastermind.webp" />
+        <media:content url="http://localhost:1313/Images/Games/peaky-blinders-mastermind.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/peaky-blinders-mastermind.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tony Hawk&amp;#39;s Pro Skater 2</title>
+        <link>http://localhost:1313/game/tony-hawks-pro-skater-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tony-hawks-pro-skater-2/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tony Hawk&amp;#39;s Pro Skater 3</title>
+        <link>http://localhost:1313/game/tony-hawks-pro-skater-3/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tony-hawks-pro-skater-3/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-3.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-3.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-3.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tony Hawk&amp;#39;s Underground</title>
+        <link>http://localhost:1313/game/tony-hawks-underground/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tony-hawks-underground/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tony-hawks-underground.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tony-hawks-underground.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tony-hawks-underground.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tony Hawk&amp;#39;s Underground 2</title>
+        <link>http://localhost:1313/game/tony-hawks-underground-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tony-hawks-underground-2/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tony-hawks-underground-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tony-hawks-underground-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tony-hawks-underground-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tony Hawk&amp;#39;s Pro Skater HD</title>
+        <link>http://localhost:1313/game/tony-hawks-pro-skater-hd/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tony-hawks-pro-skater-hd/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-hd.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-hd.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tony-hawks-pro-skater-hd.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Grand Theft Auto 2</title>
+        <link>http://localhost:1313/game/grand-theft-auto-2/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/grand-theft-auto-2/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/grand-theft-auto-2.webp" />
+        <media:content url="http://localhost:1313/Images/Games/grand-theft-auto-2.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/grand-theft-auto-2.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>MLB 2K9</title>
+        <link>http://localhost:1313/game/mlb-2k9/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mlb-2k9/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mlb-2k9.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mlb-2k9.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mlb-2k9.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>MLB 2K10</title>
+        <link>http://localhost:1313/game/mlb-2k10/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mlb-2k10/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mlb-2k10.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mlb-2k10.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mlb-2k10.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>MLB 2K11</title>
+        <link>http://localhost:1313/game/mlb-2k11/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/mlb-2k11/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/mlb-2k11.webp" />
+        <media:content url="http://localhost:1313/Images/Games/mlb-2k11.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/mlb-2k11.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Prison Break: The Conspiracy</title>
+        <link>http://localhost:1313/game/prison-break-the-conspiracy/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/prison-break-the-conspiracy/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/prison-break-the-conspiracy.webp" />
+        <media:content url="http://localhost:1313/Images/Games/prison-break-the-conspiracy.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/prison-break-the-conspiracy.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Tonic Trouble</title>
+        <link>http://localhost:1313/game/tonic-trouble/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/tonic-trouble/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/tonic-trouble.webp" />
+        <media:content url="http://localhost:1313/Images/Games/tonic-trouble.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/tonic-trouble.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>The Neverhood</title>
+        <link>http://localhost:1313/game/the-neverhood/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/the-neverhood/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/the-neverhood.webp" />
+        <media:content url="http://localhost:1313/Images/Games/the-neverhood.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/the-neverhood.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Disney&amp;#39;s G-Force</title>
+        <link>http://localhost:1313/game/disneys-g-force/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/disneys-g-force/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/disneys-g-force.webp" />
+        <media:content url="http://localhost:1313/Images/Games/disneys-g-force.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/disneys-g-force.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item><item>
+        <title>Sheep, Dog, &amp;#39;n&amp;#39; Wolf</title>
+        <link>http://localhost:1313/game/sheep-dog-n-wolf/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/sheep-dog-n-wolf/</guid>
+        <pubDate>Sat, 20 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/sheep-dog-n-wolf.webp" />
+        <media:content url="http://localhost:1313/Images/Games/sheep-dog-n-wolf.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/sheep-dog-n-wolf.webp" type="image/webp" />
+        <category>abandonware</category>
+        <description></description>
+      </item>
   </channel>
 </rss>
