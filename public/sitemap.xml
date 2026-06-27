@@ -1022,6 +1022,8 @@
   </url><url>
     <loc>http://localhost:1313/game/daggerfall-unity/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/damnation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/dance-central/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dance-central-3-decompilation/</loc>
@@ -3885,6 +3887,8 @@
     <loc>http://localhost:1313/game/resident-evil-the-mercenaries-3d-hd-project/</loc>
   </url><url>
     <loc>http://localhost:1313/game/residentvania/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/resistance-fall-of-man/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/resource-management/</loc>
   </url><url>
