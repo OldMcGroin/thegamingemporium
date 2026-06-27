@@ -96,6 +96,8 @@
   </url><url>
     <loc>http://localhost:1313/game/aleph-one-marathon-trilogy/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/aleph-one-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/alice-in-wonderland/</loc>
   </url><url>
     <loc>http://localhost:1313/game/alice-in-wonderland-wii-decompilation/</loc>
@@ -1051,6 +1053,10 @@
     <loc>http://localhost:1313/series/dark-half/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dark-half-super-nintendo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/dark-lands/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dark-lands-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dark-rift/</loc>
   </url><url>
@@ -2063,6 +2069,8 @@
     <loc>http://localhost:1313/series/harvest-moon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harvest-moon-64-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/harvest-moon-64-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harvest-moon-a-wonderful-life-decompilation/</loc>
   </url><url>

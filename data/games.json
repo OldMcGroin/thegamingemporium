@@ -30809,6 +30809,45 @@
     "notes": "",
     "date_added": "2026-06-25",
     "image": ""
+  },
+  {
+    "id": 2361,
+    "title": "Harvest Moon 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp",
+    "genre1": "life-simulator",
+    "genre2": "farming-simulator",
+    "series": "Harvest Moon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-27",
+    "image": ""
+  },
+  {
+    "id": 2362,
+    "title": "Dark Lands PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1425",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "Dark Lands",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-27",
+    "image": ""
+  },
+  {
+    "id": 2363,
+    "title": "Aleph One PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1421",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-06-27",
+    "image": ""
   }
 
 
