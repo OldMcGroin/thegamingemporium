@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 29 Jun 2026 02:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:49:31 +0000</lastBuildDate>
+    <item>
+      <title>NocturneRecomp - Castlevania Symphony of the Night XBLA Recompilation</title>
+      <link>https://thegamingemporium.com/game/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation.webp" alt="NocturneRecomp - Castlevania Symphony of the Night XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nocturnerecomp-castlevania-symphony-of-the-night-xbla-recompilation.webp" alt="NocturneRecomp - Castlevania Symphony of the Night XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: metroidvania]]></content:encoded>
+    </item>
     <item>
       <title>1 GithubLauncher - Universal Launcher for Recompilations and PC Ports</title>
       <link>https://thegamingemporium.com/game/1-githublauncher-universal-launcher-for-recompilations-and-pc-ports/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" alt="Castlevania Legacy of Darkness Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-recompilation.webp" alt="Castlevania Legacy of Darkness Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Eternal Sonata Recompilation</title>
-      <link>https://thegamingemporium.com/game/eternal-sonata-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/eternal-sonata-recompilation/</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/eternal-sonata-recompilation.webp" alt="Eternal Sonata Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Eternal Sonata · Genre: rpg, adventure]]></content:encoded>
     </item>
   </channel>
 </rss>
