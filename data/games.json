@@ -30966,6 +30966,45 @@
     "notes": "",
     "date_added": "2026-06-30",
     "image": ""
+  },
+  {
+    "id": 2374,
+    "title": "Metal Slug XX Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FluffyQuack/rexglue-sdk/releases",
+    "genre1": "action",
+    "genre2": "shoot-em-up",
+    "series": "Metal Slug",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-02",
+    "image": ""
+  },
+  {
+    "id": 2375,
+    "title": "Perfect Dark VR Port",
+    "category": "console-ports",
+    "link": "https://github.com/Alex-LeTux/perfect_dark_VR/releases",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Perfect Dark",
+    "video_link": "https://youtu.be/wkQiyeYn7QU?si=EsD2ra0icHtSQ9VN",
+    "notes": "",
+    "date_added": "2026-07-02",
+    "image": ""
+  },
+  {
+    "id": 2376,
+    "title": "Harvest Moon 64 Recompilation Mods",
+    "category": "decompilations-recompilations",
+    "link": "https://thunderstore.io/c/harvest-moon-64-recompiled/",
+    "genre1": "life-simulator",
+    "genre2": "farming-simulator",
+    "series": "Harvest Moon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-03",
+    "image": ""
   }
 
 
