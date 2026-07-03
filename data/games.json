@@ -31005,6 +31005,45 @@
     "notes": "",
     "date_added": "2026-07-03",
     "image": ""
+  },
+  {
+    "id": 2377,
+    "title": "Diablo 3 Xbox 360 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Boron853/Souls-of-the-Reaper/releases/tag/beta-1.2",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Diablo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-04",
+    "image": ""
+  },
+  {
+    "id": 2378,
+    "title": "Kingdom Hearts 358 2 Days Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/Yokimitsuro/khdays-decomp",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Kingdom Hearts",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-04",
+    "image": ""
+  },
+  {
+    "id": 2379,
+    "title": "Digimon World 4 Decompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/ivanno4317/dw4-gc",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Digimon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-04",
+    "image": ""
   }
 
 
