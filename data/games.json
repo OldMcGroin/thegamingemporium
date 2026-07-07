@@ -31070,7 +31070,73 @@
     "notes": "",
     "date_added": "2026-07-04",
     "image": ""
+  },
+  {
+    "id": 2382,
+    "title": "Virtual Pro Wrestling 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://discovery.onl/Grix/a1ac11ed-e635-4c5f-959e-2716d6c3fdd0",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "Virtual Pro Wrestling",
+    "video_link": "https://youtu.be/Zo38sCgApFQ?si=NvOqUlOWngPCPZBY",
+    "notes": "",
+    "date_added": "2026-07-07",
+    "image": ""
+  },
+  {
+    "id": 2382,
+    "title": "Tomba! Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/TombaRecomp",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Tomba!",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-07",
+    "image": ""
+  },
+  {
+    "id": 2383,
+    "title": "WCW vs. nWo World Tour Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessetbh/WCWvsNWOWorldTourRecomp",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "WCW vs. nWo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-07",
+    "image": ""
+  },
+  {
+    "id": 2384,
+    "title": "Grand Theft Auto 3 - Liberty Extended",
+    "category": "mods",
+    "link": "https://libertycity.net/files/gta-3/191140-liberty-extended-october-2025-update.html",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-07",
+    "image": ""
+  },
+  {
+    "id": 2385,
+    "title": "Grand Theft Auto Vice City - Vice Extended",
+    "category": "mods",
+    "link": "https://libertycity.net/files/gta-vice-city/167639-vice-extended-october-2025-update.html",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-07",
+    "image": ""
   }
+
 
 
 
