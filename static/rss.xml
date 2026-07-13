@@ -5,7 +5,40 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 07 Jul 2026 21:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:31:21 +0000</lastBuildDate>
+    <item>
+      <title>Mega Man X4 Recompilation</title>
+      <link>https://thegamingemporium.com/game/mega-man-x4-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mega-man-x4-recompilation/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mega-man-x4-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mega-man-x4-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-x4-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x4-recompilation.webp" alt="Mega Man X4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x4-recompilation.webp" alt="Mega Man X4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Virtua Racing PC Emulation</title>
+      <link>https://thegamingemporium.com/game/virtua-racing-pc-emulation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/virtua-racing-pc-emulation/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/virtua-racing-pc-emulation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/virtua-racing-pc-emulation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/virtua-racing-pc-emulation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/virtua-racing-pc-emulation.webp" alt="Virtua Racing PC Emulation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Virtua Racing · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/virtua-racing-pc-emulation.webp" alt="Virtua Racing PC Emulation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Virtua Racing · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Virtua Fighter PC Emulation</title>
+      <link>https://thegamingemporium.com/game/virtua-fighter-pc-emulation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/virtua-fighter-pc-emulation/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/virtua-fighter-pc-emulation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/virtua-fighter-pc-emulation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/virtua-fighter-pc-emulation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/virtua-fighter-pc-emulation.webp" alt="Virtua Fighter PC Emulation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Virtua Fighter · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/virtua-fighter-pc-emulation.webp" alt="Virtua Fighter PC Emulation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Virtua Fighter · Genre: fighting]]></content:encoded>
+    </item>
     <item>
       <title>Virtual Pro Wrestling 2 Recompilation</title>
       <link>https://thegamingemporium.com/game/virtual-pro-wrestling-2-recompilation/</link>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" alt="Silent Hill PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-pc-port.webp" alt="Silent Hill PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Silent Hill · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Goldeneye XBLA Recompilation</title>
-      <link>https://thegamingemporium.com/game/goldeneye-xbla-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-xbla-recompilation/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" alt="Goldeneye XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-xbla-recompilation.webp" alt="Goldeneye XBLA Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Paper Mario Down Bad Edition</title>
-      <link>https://thegamingemporium.com/game/paper-mario-down-bad-edition/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/paper-mario-down-bad-edition/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" alt="Paper Mario Down Bad Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-down-bad-edition.webp" alt="Paper Mario Down Bad Edition" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms</title>
-      <link>https://thegamingemporium.com/game/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" alt="SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/snes-cheat-patcher-studio-apply-game-genie-cheats-to-snes-roms.webp" alt="SNES Cheat Patcher Studio - Apply Game Genie Cheats To SNES Roms" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
     </item>
   </channel>
 </rss>

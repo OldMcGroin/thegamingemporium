@@ -31135,6 +31135,45 @@
     "notes": "",
     "date_added": "2026-07-07",
     "image": ""
+  },
+  {
+    "id": 2386,
+    "title": "Mega Man X4 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/MegaManX4Recomp",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Mega Man",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-14",
+    "image": ""
+  },
+  {
+    "id": 2387,
+    "title": "Virtua Racing PC Emulation",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/wanszai/Virtua-Racing---XBOXONE-Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Virtua Racing",
+    "video_link": "https://youtu.be/UKN2eCBLI9E?si=ASfm3HD0varr6Jyl",
+    "notes": "",
+    "date_added": "2026-07-14",
+    "image": ""
+  },
+  {
+    "id": 2388,
+    "title": "Virtua Fighter PC Emulation",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/wanszai/Virtua-Fighter---XboxOne-Windows",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Virtua Fighter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-14",
+    "image": ""
   }
 
 
