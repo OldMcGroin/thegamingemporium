@@ -31315,7 +31315,20 @@
     "series": "Gears of War",
     "video_link": "",
     "notes": "",
-    "date_added": "2026-07-14",
+    "date_added": "2026-07-18",
+    "image": ""
+  },
+  {
+    "id": 2400,
+    "title": "Mischief Makers Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ThiagoLira/trouble-makers-pc-recomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Mischief Makers",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-18",
     "image": ""
   }
 

@@ -9,7 +9,7 @@ params:
   genre2: ""
   series: "Gears of War"
   video_link: ""
-  date_added: "2026-07-14"
+  date_added: "2026-07-18"
   image: ""
 ---
 
