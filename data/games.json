@@ -7959,7 +7959,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 612,
@@ -31330,11 +31331,85 @@
     "notes": "",
     "date_added": "2026-07-18",
     "image": ""
+  },
+  {
+    "id": 2401,
+    "title": "Chameleon Twist Recompilation",
+    "category": "decompilati0ns-recompilations",
+    "link": "https://github.com/Rainchus/ChameleonTwist1-JP-Recomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Chameleon Twist",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
+  },
+  {
+    "id": 2402,
+    "title": "WWF WrestleMania 2000 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
+  },
+  {
+    "id": 2403,
+    "title": "WCW nWo Revenge Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
+  },
+  {
+    "id": 2404,
+    "title": "WWF No Mercy Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessetbh/WWFNoMercyRecomp",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
+  },
+  {
+    "id": 2405,
+    "title": "Virtual Pro Wrestling 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessetbh/VPW64Recomp",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
+  },
+  {
+    "id": 2406,
+    "title": "AkiLauncher - Launcher for the AKI-engine N64 Wrestling Recompilations",
+    "category": "utility",
+    "link": "https://github.com/jessetbh/AkiLauncher",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-19",
+    "image": ""
   }
 
 
-
-
-
-
-  ]
+]

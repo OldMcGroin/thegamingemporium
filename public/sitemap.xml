@@ -94,6 +94,8 @@
   </url><url>
     <loc>http://localhost:1313/game/airs-adventure-sega-saturn/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/akilauncher-launcher-for-the-aki-engine-n64-wrestling-recompilations/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/akira/</loc>
   </url><url>
     <loc>http://localhost:1313/game/akira-genesis-megadrive/</loc>
@@ -5656,6 +5658,8 @@
   </url><url>
     <loc>http://localhost:1313/game/virtual-pro-wrestling-2-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/virtual-pro-wrestling-64-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/virtual-pro-wrestling/</loc>
   </url><url>
     <loc>http://localhost:1313/game/virtual-pro-wrestling-2-decompilation/</loc>
@@ -5725,6 +5729,8 @@
     <loc>http://localhost:1313/game/waydroid-on-steamos-android-on-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wcw-nwo-revenge-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wcw-nwo-revenge-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wcw-nwo-revenge-starrcade-edition/</loc>
   </url><url>
@@ -5805,6 +5811,10 @@
     <loc>http://localhost:1313/series/wwe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wwe-smackdown-vs-raw-2007-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wwf-no-mercy-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wyrmsun/</loc>
   </url><url>

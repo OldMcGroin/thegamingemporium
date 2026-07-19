@@ -4,12 +4,12 @@ url: "/game/chameleon-twist-recompilation/"
 type: game
 params:
   external_link: "https://github.com/Rainchus/ChameleonTwist1-JP-Recomp"
-  category: "in-the-works"
+  category: "decompilati0ns-recompilations"
   genre1: "platformer"
   genre2: ""
   series: "Chameleon Twist"
   video_link: ""
-  date_added: ""
+  date_added: "2026-07-19"
   image: ""
 ---
 
