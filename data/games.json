@@ -31409,6 +31409,84 @@
     "notes": "",
     "date_added": "2026-07-19",
     "image": ""
+  },
+  {
+    "id": 2407,
+    "title": "Infamous RPCS 3 Patched Build",
+    "category": "abandonware",
+    "link": "https://archive.org/details/INFAMOUS1RPCS3",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Infamous",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
+  },
+  {
+    "id": 2408,
+    "title": "Uncharted RPCS 3 Patched Build",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/4GqbvrpB2DCI",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Uncharted",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
+  },
+  {
+    "id": 2409,
+    "title": "Motorstorm Pacific Rift RPCS 3 Patched Build",
+    "category": "abandonware",
+    "link": "https://archive.org/details/MOTORSTORMPACIFICRIFTRPCS3",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Motorstorm",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
+  },
+  {
+    "id": 2410,
+    "title": "Uncharted 2 RPCS 3 Patched Build",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/sv5gYVknSZia",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Uncharted",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
+  },
+  {
+    "id": 2411,
+    "title": "Wet RPCS 3 Patched Build",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/AnylMJ1XXTKa",
+    "genre1": "adventure",
+    "genre2": "action",
+    "series": "Wet",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
+  },
+  {
+    "id": 2412,
+    "title": "Dodonpachi Saidaioujou Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/eandis/SDOJ-Recomp",
+    "genre1": "shoot-em-up",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-20",
+    "image": ""
   }
 
 
