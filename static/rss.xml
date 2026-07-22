@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 22 Jul 2026 09:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:30:08 +0000</lastBuildDate>
+    <item>
+      <title>Kirby's Return to Dream Land Recompilation</title>
+      <link>https://thegamingemporium.com/game/kirby-s-return-to-dream-land-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/kirby-s-return-to-dream-land-recompilation/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kirby-s-return-to-dream-land-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/kirby-s-return-to-dream-land-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/kirby-s-return-to-dream-land-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-return-to-dream-land-recompilation.webp" alt="Kirby's Return to Dream Land Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Kirby · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirby-s-return-to-dream-land-recompilation.webp" alt="Kirby's Return to Dream Land Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Kirby · Genre: platformer]]></content:encoded>
+    </item>
     <item>
       <title>Pokemon Red Recompilation</title>
       <link>https://thegamingemporium.com/game/pokemon-red-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" alt="Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ship-of-harkinian-zelda-ocarina-of-time-port-cel-shaded-model-mod.webp" alt="Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Monster Hunter Dynamic Hunting PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/monster-hunter-dynamic-hunting-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/monster-hunter-dynamic-hunting-ps-vita-port/</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" alt="Monster Hunter Dynamic Hunting PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Monster Hunter · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-dynamic-hunting-ps-vita-port.webp" alt="Monster Hunter Dynamic Hunting PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Monster Hunter · Genre: action]]></content:encoded>
     </item>
   </channel>
 </rss>
