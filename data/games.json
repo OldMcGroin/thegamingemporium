@@ -31526,6 +31526,71 @@
     "notes": "",
     "date_added": "2026-07-22",
     "image": ""
+  },
+  {
+    "id": 2416,
+    "title": "Street Fighter III Third Strike PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/guimaraf/3sxw",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Street Fighter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
+  },
+  {
+    "id": 2417,
+    "title": "Heavenly Sword RPCS 3 Build",
+    "category": "abandonware",
+    "link": "https://archive.org/details/heavenly-sword-rpcs-3",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Heavenly Sword",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
+  },
+  {
+    "id": 2418,
+    "title": "Rain RPCS 3 Build",
+    "category": "abandonware",
+    "link": "https://gofile.io/d/pxeLJ3",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Rain",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
+  },
+  {
+    "id": 2419,
+    "title": "Tokyo Jungle RPCS 3 Build",
+    "category": "abandonware",
+    "link": "https://archive.org/details/TOKYOJUNGLERPCS3",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Tokyo Jungle",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
+  },
+  {
+    "id": 2420,
+    "title": "Folklore",
+    "category": "abandonware",
+    "link": "https://archive.org/details/folklore_rpcs3",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Folklore",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
   }
 
 

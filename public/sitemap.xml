@@ -1786,6 +1786,8 @@
   </url><url>
     <loc>http://localhost:1313/series/flightgear/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/folklore/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/forza/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fpc-atomic-atomic-bomberman-reimplimentation/</loc>
@@ -2121,6 +2123,8 @@
     <loc>http://localhost:1313/series/he-man/</loc>
   </url><url>
     <loc>http://localhost:1313/game/heart-of-the-alien-n64-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/heavenly-sword/</loc>
   </url><url>
     <loc>http://localhost:1313/series/heavy-metal-f-a-k-k-2/</loc>
   </url><url>
@@ -3824,6 +3828,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/rail-shooter/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/rain/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/rainbow-cotton/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rainbow-cotton-dreamcast/</loc>
@@ -4704,6 +4710,8 @@
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/street-fighter-iii-third-strike-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-psp-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-one-remake/</loc>
@@ -5417,6 +5425,8 @@
     <loc>http://localhost:1313/series/tokyo-bus-guide/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tokyo-bus-guide-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tokyo-jungle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tom-clancys-ghost-recon-advanced-warfighter/</loc>
   </url><url>
