@@ -31604,6 +31604,19 @@
     "notes": "",
     "date_added": "2026-07-24",
     "image": ""
+  },
+  {
+    "id": 2422,
+    "title": "Sega Rally Championship PC Emulation",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-/releases/tag/1.0.0",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sega Rally",
+    "video_link": "https://youtu.be/63ZicVMUZeA?si=jfRzCNR_qgZgrbry",
+    "notes": "",
+    "date_added": "2026-07-24",
+    "image": ""
   }
 
 
