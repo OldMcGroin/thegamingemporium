@@ -30620,7 +30620,7 @@
   {
     "id": 2346,
     "title": "Banjo-Kazooie Recompilation for Android",
-    "category": "decompilations-recompilations",
+    "category": "android-ports",
     "link": "https://github.com/AurelioB/BanjoRecomp-Android/releases",
     "genre1": "platformer",
     "genre2": "",
@@ -31205,7 +31205,7 @@
   {
     "id": 2391,
     "title": "The Legend of Zelda Majora's Mask Recompilation for Android",
-    "category": "decompilations-recompilations",
+    "category": "android-ports",
     "link": "https://github.com/linkzenic/Zelda64Recomp-Android",
     "genre1": "rpg",
     "genre2": "adventure",
