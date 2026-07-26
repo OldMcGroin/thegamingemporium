@@ -1861,6 +1861,41 @@ html[data-theme="light"] .rss-copied{
 .suggestion-form__message.is-success span{color:var(--muted);font-weight:600}
 .suggestion-hp{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}
 body.has-suggestion-modal{overflow:hidden}
+
+/* Suggestion modal: clear, high-contrast Day mode */
+html[data-theme="light"] .suggestion-modal__backdrop{
+  background:rgba(24,32,42,.52);
+  backdrop-filter:blur(2px);
+}
+html[data-theme="light"] .suggestion-modal__panel{
+  background:#ffffff;
+  color:#20242a;
+  border-color:rgba(0,0,0,.16);
+  box-shadow:0 24px 70px rgba(20,28,38,.28);
+}
+html[data-theme="light"] .suggestion-modal__panel h2{color:#171a1f}
+html[data-theme="light"] .suggestion-modal__panel p{color:#4d5662}
+html[data-theme="light"] .suggestion-modal__panel .suggestion-modal__note{color:#59636f}
+html[data-theme="light"] .suggestion-modal__close{color:#252a31}
+html[data-theme="light"] .suggestion-modal__close:hover{color:#000}
+html[data-theme="light"] .suggestion-form label{color:#252a31;font-weight:750}
+html[data-theme="light"] .suggestion-form input{
+  background:#f7f8fa;
+  color:#171a1f;
+  border-color:rgba(0,0,0,.20);
+  box-shadow:inset 0 1px 2px rgba(0,0,0,.04);
+}
+html[data-theme="light"] .suggestion-form input::placeholder{color:#7a838e;opacity:1}
+html[data-theme="light"] .suggestion-form input:hover{border-color:rgba(0,0,0,.30)}
+html[data-theme="light"] .suggestion-form input:focus{
+  background:#fff;
+  border-color:#d6a900;
+  outline:3px solid rgba(255,196,0,.34);
+  outline-offset:1px;
+}
+html[data-theme="light"] .suggestion-form__message.is-error{color:#b42318}
+html[data-theme="light"] .suggestion-form__message.is-success{color:#157347}
+html[data-theme="light"] .suggestion-form__message.is-success span{color:#4d5662}
 @media (max-width:900px){.nav__link--suggestion{margin-left:0;width:100%;text-align:left;border-radius:10px}}
 
 /* Private suggestions inbox */
