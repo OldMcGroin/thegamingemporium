@@ -4,7 +4,7 @@ url: "/game/undermobile-undertale-android-port/"
 type: game
 params:
   external_link: "https://gamejolt.com/games/UnderMobile/1086330"
-  category: "console-ports"
+  category: "android-ports"
   genre1: "rpg"
   genre2: ""
   series: "Undertale"

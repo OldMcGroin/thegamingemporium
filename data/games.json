@@ -30776,7 +30776,7 @@
   {
     "id": 2358,
     "title": "Castlevania ReVamped Android Port",
-    "category": "open-source",
+    "category": "android-ports",
     "link": "https://github.com/eboody/Castlevania-ReVamped-Open-Source-Edition/releases",
     "genre1": "metroidvania",
     "genre2": "action",
@@ -31634,7 +31634,7 @@
   {
     "id": 2424,
     "title": "UnderMobile - Undertale Android Port",
-    "category": "console-ports",
+    "category": "android-ports",
     "link": "https://gamejolt.com/games/UnderMobile/1086330",
     "genre1": "rpg",
     "genre2": "",

@@ -4,7 +4,7 @@ url: "/game/castlevania-revamped-android-port/"
 type: game
 params:
   external_link: "https://github.com/eboody/Castlevania-ReVamped-Open-Source-Edition/releases"
-  category: "open-source"
+  category: "android-ports"
   genre1: "metroidvania"
   genre2: "action"
   series: "Castlevania"
