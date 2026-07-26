@@ -27,7 +27,12 @@ export async function onRequestPost(context) {
     ).bind(title, link, ipHash).run();
     return reply({ ok: true }, 201);
   } catch (error) {
-    return reply({ ok: false, message: "Could not save the suggestion." }, 500);
+    console.error("Suggestion submission failed:", error);
+
+    return reply({
+      ok: false,
+      message: error?.stack || error?.message || String(error)
+    }, 500);
   }
 }
 export function onRequestOptions() { return new Response(null, { status: 204, headers: { Allow: "POST, OPTIONS" } }); }
