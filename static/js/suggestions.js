@@ -31,7 +31,7 @@
     submit.textContent = 'Submitting…';
     try {
       var payload = Object.fromEntries(new FormData(form).entries());
-      var res = await fetch('/api/suggestions', {
+      var res = await fetch('/submit-suggestion', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify(payload)
