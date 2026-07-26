@@ -106,10 +106,22 @@ async function sendSuggestionEmail(env, suggestion) {
     })
   });
 
+  const body = await response.text().catch(()=>"");
   if (!response.ok) {
-    const details = await response.text().catch(() => "");
-    throw new Error(`Resend returned ${response.status}: ${details || response.statusText}`);
+    console.error("[Resend] Email failed", {
+      status: response.status,
+      recipient: env.SUGGESTION_NOTIFY_TO,
+      title: suggestion.title,
+      response: body
+    });
+    throw new Error(`Resend returned ${response.status}: ${body || response.statusText}`);
   }
+  console.log("[Resend] Email sent", {
+    status: response.status,
+    recipient: env.SUGGESTION_NOTIFY_TO,
+    title: suggestion.title,
+    response: body
+  });
 }
 
 function buildEmailHtml(suggestion, adminUrl) {
