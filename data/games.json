@@ -31617,6 +31617,58 @@
     "notes": "",
     "date_added": "2026-07-24",
     "image": ""
+  },
+  {
+    "id": 2423,
+    "title": "StarCraft 64 Campaign Co-Op Mod",
+    "category": "romhacks",
+    "link": "https://github.com/Tokatta007/Starcraft-64-Co-Op-Mod",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "StarCraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2424,
+    "title": "UnderMobile - Undertale Android Port",
+    "category": "console-ports",
+    "link": "https://gamejolt.com/games/UnderMobile/1086330",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Undertale",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2425,
+    "title": "Fullmetal Alchemist 3 The Girl Who Succeeds God - Playstation 2",
+    "category": "english-translation-patches",
+    "link": "https://agtteam.net/fma/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Fullmetal Alchemist",
+    "video_link": "https://youtu.be/Kwneb1nRLAI?si=bObTsQ2_eq87FvLo",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2426,
+    "title": "Midtown Madness 2 - Complete Browser Port",
+    "category": "fan-games",
+    "link": "https://gorjan.rocks/projects/midtown-madness/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Midtown Madness",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
   }
 
 
