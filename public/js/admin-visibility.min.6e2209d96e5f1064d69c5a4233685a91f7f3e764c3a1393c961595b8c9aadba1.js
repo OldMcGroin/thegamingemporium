@@ -1,0 +1,8 @@
+(function(){function e(e,t){return Array.prototype.slice.call((t||document).querySelectorAll(e))}function s(e,t){if(!e)return;const n=e.querySelector(".game-card__hiddenBadge");if(t){if(n)return;const t=e.querySelector(".game-card__body");if(!t)return;const s=document.createElement("div");s.className="game-card__hiddenBadge",s.textContent="Hidden (Live)";const o=t.querySelector(".game-card__title");o&&o.parentNode?o.parentNode.insertBefore(s,o.nextSibling):t.insertBefore(s,t.firstChild)}else n&&n.remove()}const t=e(".admin-visibility-toggle");if(!t.length)return;async function o(){try{const e=await fetch("http://127.0.0.1:7331/ping",{method:"GET"});return e.ok}catch{return!1}}function n(e,t){e.dataset.hidden=t?"true":"false",e.textContent=t?"Hidden":"Visible",e.classList.toggle("is-hidden",!!t)}function i(t,o){e('.admin-visibility-toggle[data-game-id="'+String(t)+'"]').forEach(e=>{n(e,o);const t=e.closest(".game-card");s(t,o)})}t.forEach(e=>{n(e,e.dataset.hidden==="true"),e.addEventListener("click",async()=>{const s=e.getAttribute("data-game-id"),t=Number(s);if(!Number.isFinite(t)){alert("Missing/invalid game id on this card.");return}const a=e.dataset.hidden==="true",n=!a;if(e.disabled)return;e.disabled=!0;const r=await o();if(!r){e.disabled=!1,alert(`Preview visibility helper isn't running.
+
+Use ./tools/preview.sh (recommended),
+or run: python3 tools/visibility_server.py
+
+Then refresh this page.`);return}try{const e=await fetch("http://127.0.0.1:7331/toggle",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:t,hidden:n})});if(!e.ok){const t=await e.text();throw new Error(t||"HTTP "+e.status)}i(t,n)}catch(e){alert(`Could not toggle visibility.
+
+`+(e&&e.message?e.message:String(e)))}finally{e.disabled=!1}})})})()

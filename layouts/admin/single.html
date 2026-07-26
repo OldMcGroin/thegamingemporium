@@ -12,5 +12,6 @@
   <p data-admin-message aria-live="polite">Loading suggestions…</p>
   <div class="suggestions-list" data-suggestions-list></div>
 </section>
-<script src="{{ "/js/admin-suggestions.js" | relURL }}" defer></script>
+{{ $adminSuggestionsJS := resources.Get "js/admin-suggestions.js" | minify | fingerprint }}
+<script src="{{ $adminSuggestionsJS.RelPermalink }}" integrity="{{ $adminSuggestionsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 {{ end }}

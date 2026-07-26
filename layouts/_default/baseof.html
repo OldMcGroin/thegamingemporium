@@ -237,24 +237,32 @@
   {{/* Fingerprinted JS for the same reason as CSS (cache busting) */}}
   {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
-  <script src="{{ "/js/theme.js" | relURL }}" defer></script>
+  {{ $themeJS := resources.Get "js/theme.js" | minify | fingerprint }}
+  <script src="{{ $themeJS.RelPermalink }}" integrity="{{ $themeJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{/* Randomize home card images every page load (uses data-random-srcs) */}}
-  <script src="{{ "/js/home-random.js" | relURL }}" defer></script>
+  {{ $homeRandomJS := resources.Get "js/home-random.js" | minify | fingerprint }}
+  <script src="{{ $homeRandomJS.RelPermalink }}" integrity="{{ $homeRandomJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ partial "search-data.html" . }}
-<script src="{{ "/js/video-pill.js" | relURL }}"></script>
+  {{ $videoPillJS := resources.Get "js/video-pill.js" | minify | fingerprint }}
+  <script src="{{ $videoPillJS.RelPermalink }}" integrity="{{ $videoPillJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Lazy-load game card images (works with 1,400+ items) */}}
-  <script src="{{ "/js/lazy-images.js" | relURL }}" defer></script>
+  {{ $lazyImagesJS := resources.Get "js/lazy-images.js" | minify | fingerprint }}
+  <script src="{{ $lazyImagesJS.RelPermalink }}" integrity="{{ $lazyImagesJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Copy RSS URL buttons (desktop + mobile) */}}
-  <script src="{{ "/js/rss-copy.js" | relURL }}" defer></script>
-  <script src="{{ "/js/suggestions.js" | relURL }}" defer></script>
+  {{ $rssCopyJS := resources.Get "js/rss-copy.js" | minify | fingerprint }}
+  <script src="{{ $rssCopyJS.RelPermalink }}" integrity="{{ $rssCopyJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $suggestionsJS := resources.Get "js/suggestions.js" | minify | fingerprint }}
+  <script src="{{ $suggestionsJS.RelPermalink }}" integrity="{{ $suggestionsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}
-    <script src="{{ "/js/copy-filename.js" | relURL }}" defer></script>
+    {{ $copyFilenameJS := resources.Get "js/copy-filename.js" | minify | fingerprint }}
+    <script src="{{ $copyFilenameJS.RelPermalink }}" integrity="{{ $copyFilenameJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end }}
-    <script src="{{ "/js/admin-visibility.js" | relURL }}" defer></script>
+  {{ $adminVisibilityJS := resources.Get "js/admin-visibility.js" | minify | fingerprint }}
+  <script src="{{ $adminVisibilityJS.RelPermalink }}" integrity="{{ $adminVisibilityJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
 
 <!-- Mastodon verification -->
