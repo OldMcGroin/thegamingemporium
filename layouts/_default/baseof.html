@@ -62,7 +62,7 @@
   {{ $ogUrl := .Permalink }}
 
   {{/* Default site share image */}}
-  {{ $ogImage := ("/share-preview.jpg" | absURL) }}
+  {{ $ogImage := ("/Images/Social/share-preview.jpg" | absURL) }}
   {{ $ogImageType := "image/jpeg" }}
   {{ $ogImageW := "1200" }}
   {{ $ogImageH := "630" }}
@@ -176,6 +176,7 @@
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
           </span>
+          <button class="nav__link nav__link--pill nav__link--suggestion" type="button" data-suggestion-open aria-haspopup="dialog" aria-controls="suggestionModal">💡 Have a Suggestion?</button>
         </nav>
       </div>
     </header>
@@ -197,6 +198,28 @@
       <div class="popular__msg" id="popularMsg">Loading…</div>
       <ol class="popular__list" id="popularList"></ol>
     </div>
+    </div>
+
+    <div class="suggestion-modal" id="suggestionModal" data-suggestion-modal hidden>
+      <div class="suggestion-modal__backdrop" data-suggestion-close></div>
+      <section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-labelledby="suggestionTitle">
+        <button class="suggestion-modal__close" type="button" aria-label="Close suggestion form" data-suggestion-close>✕</button>
+        <h2 id="suggestionTitle">Suggest a Game</h2>
+        <p>Send me the game title and a link to the project.</p>
+        <p class="suggestion-modal__note">I’ll review every suggestion before adding it to the site.</p>
+        <form class="suggestion-form" data-suggestion-form>
+          <label for="suggestionGameTitle">Game title</label>
+          <input id="suggestionGameTitle" name="game_title" type="text" maxlength="120" required autocomplete="off">
+          <label for="suggestionGameLink">Link</label>
+          <input id="suggestionGameLink" name="game_link" type="url" maxlength="500" placeholder="https://..." required inputmode="url">
+          <div class="suggestion-hp" aria-hidden="true">
+            <label for="suggestionWebsite">Website</label>
+            <input id="suggestionWebsite" name="website" type="text" tabindex="-1" autocomplete="off">
+          </div>
+          <button class="suggestion-form__submit" type="submit">Submit Suggestion</button>
+          <p class="suggestion-form__message" data-suggestion-message aria-live="polite"></p>
+        </form>
+      </section>
     </div>
 
     <main class="container main">
@@ -225,6 +248,7 @@
 
   {{/* Copy RSS URL buttons (desktop + mobile) */}}
   <script src="{{ "/js/rss-copy.js" | relURL }}" defer></script>
+  <script src="{{ "/js/suggestions.js" | relURL }}" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}

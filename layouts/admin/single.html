@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="suggestions-admin" data-suggestions-admin>
+  <div class="suggestions-admin__head">
+    <div><h1>Suggestion Inbox</h1><p>Private list of game suggestions submitted through the homepage.</p></div>
+    <strong data-suggestion-count></strong>
+  </div>
+  <div class="suggestions-tabs" role="tablist">
+    <button class="is-active" type="button" data-status="new">New</button>
+    <button type="button" data-status="reviewed">Reviewed</button>
+    <button type="button" data-status="all">All</button>
+  </div>
+  <p data-admin-message aria-live="polite">Loading suggestions…</p>
+  <div class="suggestions-list" data-suggestions-list></div>
+</section>
+<script src="{{ "/js/admin-suggestions.js" | relURL }}" defer></script>
+{{ end }}

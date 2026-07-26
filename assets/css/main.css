@@ -1825,3 +1825,55 @@ html[data-theme="light"] .rss-copied{
   backdrop-filter: blur(6px);
   box-shadow: 0 12px 30px rgba(0,0,0,0.45);
 }
+
+/* Suggestion button + modal */
+.nav__link--suggestion{
+  margin-left:auto;
+  border:1px solid var(--border);
+  border-radius:999px;
+  padding:.55rem .95rem;
+  background:transparent;
+  color:var(--text);
+  font:inherit;
+  font-weight:700;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.nav__link--suggestion:hover{border-color:#ffc400;color:#ffc400}
+.suggestion-modal[hidden]{display:none}
+.suggestion-modal{position:fixed;inset:0;z-index:10000;display:grid;place-items:center;padding:1rem}
+.suggestion-modal__backdrop{position:absolute;inset:0;background:rgba(0,0,0,.72)}
+.suggestion-modal__panel{position:relative;width:min(100%,460px);border:1px solid var(--border);border-radius:18px;background:var(--surface,#171717);color:var(--text);padding:1.4rem;box-shadow:0 20px 60px rgba(0,0,0,.45)}
+.suggestion-modal__panel h2{margin:0 2rem .35rem 0}
+.suggestion-modal__panel p{color:var(--muted);margin:.25rem 0 1rem}
+.suggestion-modal__panel .suggestion-modal__note{margin-top:-.55rem;font-size:.9rem;font-style:italic}
+.suggestion-modal__close{position:absolute;right:.8rem;top:.7rem;border:0;background:transparent;color:var(--text);font-size:1.15rem;cursor:pointer}
+.suggestion-form{display:grid;gap:.65rem}
+.suggestion-form label{font-weight:700}
+.suggestion-form input{width:100%;box-sizing:border-box;border:1px solid var(--border);border-radius:10px;background:var(--surface-2,#202020);color:var(--text);padding:.8rem;font:inherit}
+.suggestion-form input:focus{outline:2px solid #ffc400;outline-offset:2px}
+.suggestion-form__submit{margin-top:.35rem;border:0;border-radius:999px;background:#ffc400;color:#151515;padding:.75rem 1rem;font:inherit;font-weight:800;cursor:pointer}
+.suggestion-form__submit:disabled{opacity:.65;cursor:wait}
+.suggestion-form__message{min-height:1.4em;margin:.25rem 0 0!important;font-weight:700}
+.suggestion-form__message.is-error{color:#ff7b7b}
+.suggestion-form__message.is-success{display:grid;gap:.15rem;color:#70d890;text-align:center;padding:.45rem 0}
+.suggestion-form__message.is-success strong{font-size:1.05rem}
+.suggestion-form__message.is-success span{color:var(--muted);font-weight:600}
+.suggestion-hp{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}
+body.has-suggestion-modal{overflow:hidden}
+@media (max-width:900px){.nav__link--suggestion{margin-left:0;width:100%;text-align:left;border-radius:10px}}
+
+/* Private suggestions inbox */
+.suggestions-admin{max-width:1000px;margin:0 auto}
+.suggestions-admin__head{display:flex;gap:1rem;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.suggestions-tabs{display:flex;gap:.5rem;flex-wrap:wrap;margin:1rem 0}
+.suggestions-tabs button,.suggestion-card button,.suggestion-card__open{border:1px solid var(--border);border-radius:999px;background:var(--surface-2,#202020);color:var(--text);padding:.55rem .85rem;font:inherit;font-weight:700;cursor:pointer;text-decoration:none}
+.suggestions-tabs button.is-active{background:#ffc400;color:#151515;border-color:#ffc400}
+.suggestions-list{display:grid;gap:1rem}
+.suggestion-card{border:1px solid var(--border);border-radius:14px;background:var(--surface,#171717);padding:1rem}
+.suggestion-card h3{margin:0 0 .4rem}
+.suggestion-card a{overflow-wrap:anywhere}
+.suggestion-card__meta{color:var(--muted);font-size:.9rem;margin:.55rem 0}
+.suggestion-card__actions{display:flex;gap:.55rem;flex-wrap:wrap;margin-top:.8rem}
+.suggestion-card__open{background:#ffc400!important;border-color:#ffc400!important;color:#151515!important}
+.suggestion-card__delete{color:#ff8a8a!important}
