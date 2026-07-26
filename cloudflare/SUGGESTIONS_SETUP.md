@@ -46,3 +46,36 @@ Run your normal `./deploy` command. Then:
 ## Included spam protection
 
 The public form has a hidden bot-trap field, validates titles and URLs, rejects recent duplicates, and limits each hashed visitor IP to five submissions per hour. Raw IP addresses are not stored.
+
+## 5. Enable email notifications (Resend)
+
+This build can email you after each new suggestion is saved. The email includes the submitted game title/link and an **Open Suggestion Inbox** button linking to:
+
+`https://thegamingemporium.com/admin/suggestions/`
+
+Email delivery runs in the background. If Resend is temporarily unavailable, the suggestion is still stored successfully.
+
+### Create and verify Resend
+
+1. Create a Resend account.
+2. Add and verify `thegamingemporium.com` in Resend. Resend will provide DNS records to add in Cloudflare.
+3. Create a Resend API key.
+
+### Add Cloudflare Pages variables
+
+Cloudflare Dashboard → Workers & Pages → your Pages project → Settings → Variables and Secrets.
+
+Add these to **Production** (and Preview too if you test preview deployments):
+
+- Secret: `RESEND_API_KEY` — the API key from Resend
+- Variable: `SUGGESTION_NOTIFY_TO` — the email address that should receive notifications
+- Variable: `SUGGESTION_NOTIFY_FROM` — for example `The Gaming Emporium <suggestions@thegamingemporium.com>`
+- Optional variable: `SUGGESTION_ADMIN_URL` — defaults to `https://thegamingemporium.com/admin/suggestions/`
+
+Redeploy the Pages project after adding the variables.
+
+### Test
+
+Submit a new, non-duplicate game suggestion. It should appear in the admin inbox immediately, and the notification email should arrive shortly afterwards.
+
+If the suggestion appears but no email arrives, check Cloudflare Pages/Workers real-time logs for `Suggestion notification email failed` and confirm the domain, API key, sender, and recipient values in Resend.
