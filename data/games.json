@@ -31955,6 +31955,84 @@
     "notes": "",
     "date_added": "2026-07-26",
     "image": ""
+  },
+  {
+    "id": 2449,
+    "title": "PartyBoard - Mario Party 4 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/mariopartyrd/marioparty4",
+    "genre1": "party-game",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2450,
+    "title": "OpenCrossing - Animal Crossing for Android",
+    "category": "android-ports",
+    "link": "https://github.com/GabeConway/OpenCrossing-Anbernic/releases",
+    "genre1": "sandbox",
+    "genre2": "life-simulator",
+    "series": "Animal Crossing",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2451,
+    "title": "Sigma Touch - Unreal and Unreal Tournament 99 Engine for Android",
+    "category": "android-ports",
+    "link": "http://opentouchgaming.com/sigma-touch/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Unreal",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2452,
+    "title": "Battleship - Super Smash Brothers 64 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/JRickey/BattleShip/releases",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2453,
+    "title": "The Simpsons Hit & Run for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android/releases",
+    "genre1": "sandbox",
+    "genre2": "racing",
+    "series": "The Simpsons",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
+  },
+  {
+    "id": 2454,
+    "title": "Perfect Dark for Android",
+    "category": "android-ports",
+    "link": "https://github.com/izzy2lost/perfect_dark/releases/tag/1.0",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Perfect Dark",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-26",
+    "image": ""
   }
 
 
