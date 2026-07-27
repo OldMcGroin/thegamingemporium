@@ -32254,6 +32254,58 @@
     "notes": "",
     "date_added": "2026-07-27",
     "image": ""
+  },
+  {
+    "id": 2472,
+    "title": "RimDroid - Rimworld for Android",
+    "category": "android-ports",
+    "link": "https://github.com/udarmolota/RimDroid/releases/",
+    "genre1": "colony-simulation",
+    "genre2": "strategy",
+    "series": "Rimworld",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
+  },
+  {
+    "id": 2473,
+    "title": "2 Starboard - play games from the PortMaster library on your Android handheld",
+    "category": "android-ports",
+    "link": "https://github.com/get-starboard/starboard",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
+  },
+  {
+    "id": 2474,
+    "title": "1 Obtainium",
+    "category": "android-ports",
+    "link": "https://github.com/ImranR98/Obtainium",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
+  },
+  {
+    "id": 2475,
+    "title": "SwitchNOW - A Native Nintendo Switch Homebrew Client for GeForce NOW",
+    "category": "utility",
+    "link": "https://github.com/Blade-Punisher/SwitchNOW",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
   }
 
 
