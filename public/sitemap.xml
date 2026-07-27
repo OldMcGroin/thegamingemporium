@@ -156,6 +156,8 @@
   </url><url>
     <loc>http://localhost:1313/game/am2r/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/am2r-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/am64-another-metroid-64/</loc>
   </url><url>
     <loc>http://localhost:1313/series/amazing-penguin/</loc>
@@ -1141,6 +1143,8 @@
     <loc>http://localhost:1313/game/dead-of-the-brain-pc98/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dead-of-the-brain-2-pc98/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/dead-or-alive/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dead-rising/</loc>
   </url><url>
@@ -2585,6 +2589,8 @@
     <loc>http://localhost:1313/game/link-to-darkuni-mega-list-of-steam-deck-video-tutorials/</loc>
   </url><url>
     <loc>http://localhost:1313/game/link-faces-of-evil-zelda-wand-of-gamelon-remastered/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/link-s-awakening-dx-hd-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/linkle-liver-story/</loc>
   </url><url>
@@ -5271,6 +5277,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-snes-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</loc>
   </url><url>
