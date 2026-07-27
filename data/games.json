@@ -32046,6 +32046,58 @@
     "notes": "",
     "date_added": "2026-07-27",
     "image": ""
+  },
+  {
+    "id": 2456,
+    "title": "Pokemon Red and Blue Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bryanthaboi/pokemon-gen1-recomp-project",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
+  },
+  {
+    "id": 2457,
+    "title": "Pokemon Red and Blue Recompilation",
+    "category": "android-ports",
+    "link": "https://github.com/bryanthaboi/pokemon-gen1-recomp-project",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "",
+    "image": ""
+  },
+  {
+    "id": 2458,
+    "title": "Pokemon Red and Blue Recompilation Dramatic Shape Voxel Mod",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-27",
+    "image": ""
+  },
+  {
+    "id": 2459,
+    "title": "Pokemon Red and Blue Recompilation Dramatic Shape Voxel Mod",
+    "category": "android-ports",
+    "link": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "",
+    "image": ""
   }
 
 
