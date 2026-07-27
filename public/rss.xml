@@ -6,7 +6,18 @@
     <link>http://localhost:1313/</link>
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
-    <lastBuildDate>Sun, 26 Jul 2026 23:23:00 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Mon, 27 Jul 2026 00:49:37 &#43;0000</lastBuildDate><item>
+        <title>Better Super Mario Sunshine Online</title>
+        <link>http://localhost:1313/game/better-super-mario-sunshine-online/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/better-super-mario-sunshine-online/</guid>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 &#43;0000</pubDate>
+
+        <media:thumbnail url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" />
+        <media:content url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" medium="image" />
+        <enclosure url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" type="image/webp" />
+        <category>mods</category>
+        <description></description>
+      </item><item>
         <title>StarCraft 64 Campaign Co-Op Mod</title>
         <link>http://localhost:1313/game/starcraft-64-campaign-co-op-mod/</link>
         <guid isPermaLink="true">http://localhost:1313/game/starcraft-64-campaign-co-op-mod/</guid>
@@ -543,17 +554,6 @@
         <media:thumbnail url="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" />
         <media:content url="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" medium="image" />
         <enclosure url="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>WWF WrestleMania 2000 Recompilation</title>
-        <link>http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</guid>
-        <pubDate>Sun, 19 Jul 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" type="image/webp" />
         <category>decompilations-recompilations</category>
         <description></description>
       </item>

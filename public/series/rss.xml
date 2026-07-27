@@ -8,7 +8,15 @@
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml"/>
     <description>The 50 most recent additions to The Gaming Emporium (opens on the site first).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:23:00 &#43;0100</lastBuildDate><item>
+    <lastBuildDate>Mon, 27 Jul 2026 01:49:37 &#43;0100</lastBuildDate><item>
+        <title>Better Super Mario Sunshine Online</title>
+        <link>http://localhost:1313/game/better-super-mario-sunshine-online/</link>
+        <guid isPermaLink="true">http://localhost:1313/game/better-super-mario-sunshine-online/</guid>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 &#43;0000</pubDate><category>mods</category><category>Series: Super Mario</category><category>Genre: platformer</category><enclosure url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" type="image/webp"/>
+        <media:thumbnail url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp"/>
+        <media:content url="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/better-super-mario-sunshine-online/"><img src="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" alt="Better Super Mario Sunshine Online" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Super Mario · Genre: platformer</p>]]></description>
+        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/better-super-mario-sunshine-online/"><img src="http://localhost:1313/Images/Games/better-super-mario-sunshine-online.webp" alt="Better Super Mario Sunshine Online" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Mods · Series: Super Mario · Genre: platformer</p>]]></content:encoded>
+      </item><item>
         <title>StarCraft 64 Campaign Co-Op Mod</title>
         <link>http://localhost:1313/game/starcraft-64-campaign-co-op-mod/</link>
         <guid isPermaLink="true">http://localhost:1313/game/starcraft-64-campaign-co-op-mod/</guid>
@@ -400,13 +408,5 @@
         <media:thumbnail url="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp"/>
         <media:content url="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/chameleon-twist-recompilation/"><img src="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" alt="Chameleon Twist Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Series: Chameleon Twist · Genre: platformer</p>]]></description>
         <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/chameleon-twist-recompilation/"><img src="http://localhost:1313/Images/Games/chameleon-twist-recompilation.webp" alt="Chameleon Twist Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Series: Chameleon Twist · Genre: platformer</p>]]></content:encoded>
-      </item><item>
-        <title>WWF WrestleMania 2000 Recompilation</title>
-        <link>http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</guid>
-        <pubDate>Sun, 19 Jul 2026 00:00:00 &#43;0000</pubDate><category>decompilations-recompilations</category><category>Genre: fighting, sports</category><enclosure url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" type="image/webp"/>
-        <media:thumbnail url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp"/>
-        <media:content url="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" medium="image" type="image/webp"/><description>&lt;![CDATA[<p><a href="http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/"><img src="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" alt="WWF WrestleMania 2000 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Genre: fighting, sports</p>]]></description>
-        <content:encoded>&lt;![CDATA[<p><a href="http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/"><img src="http://localhost:1313/Images/Games/wwf-wrestlemania-2000-recompilation.webp" alt="WWF WrestleMania 2000 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 10px 0;border-radius:10px;"></a></p><p>Decompilations recompilations · Genre: fighting, sports</p>]]></content:encoded>
       </item></channel>
 </rss>
