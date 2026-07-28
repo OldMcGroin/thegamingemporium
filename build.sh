@@ -11,6 +11,8 @@ python3 tools/generate_series_pages.py
 echo "Generating search index..."
 python3 tools/generate_search_index.py
 
+python3 tools/check_social_preview.py
+
 echo "Building Hugo site..."
 hugo
 
