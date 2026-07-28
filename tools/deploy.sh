@@ -21,7 +21,7 @@ python3 tools/generate_series_pages.py
 INCLUDE_HIDDEN=1 python3 tools/generate_search_index.py
 python3 tools/generate_rss_feed.py || true
 
-python3 tools/check_social_preview.py
+./check-social
 
 # Build Hugo
 "$HUGO_CMD" --minify

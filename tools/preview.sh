@@ -35,7 +35,7 @@ python3 tools/generate_series_pages.py
 # Preview search can include hidden so you can still find + toggle them
 INCLUDE_HIDDEN=1 python3 tools/generate_search_index.py
 
-python3 tools/check_social_preview.py
+./check-social
 
 # Run hugo server (disableFastRender helps ensure data changes trigger updates)
 "$HUGO_CMD" server -D --disableFastRender

@@ -1,79 +1,168 @@
 #!/usr/bin/env python3
-"""Fail a build if the known-good social preview setup is accidentally changed."""
-from pathlib import Path
+"""Validate the site's social-preview configuration using only Python's standard library."""
+
+from __future__ import annotations
+
+import re
+import struct
 import sys
+from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-partial = ROOT / "layouts" / "partials" / "social-meta.html"
-baseof = ROOT / "layouts" / "_default" / "baseof.html"
-image = ROOT / "static" / "share-preview.jpg"
-expected_url = "https://thegamingemporium.com/share-preview.jpg"
+EXPECTED_URL = "https://thegamingemporium.com/share-preview.jpg"
+EXPECTED_IMAGE = Path("static/share-preview.jpg")
+BASEOF = Path("layouts/_default/baseof.html")
+SOCIAL_META = Path("layouts/partials/social-meta.html")
 
-errors = []
+REQUIRED_SNIPPETS = (
+    'property="og:image"',
+    'property="og:image:secure_url"',
+    'property="og:image:type"',
+    'property="og:image:width"',
+    'property="og:image:height"',
+    'name="twitter:image"',
+)
 
-if not partial.is_file():
-    errors.append(f"Missing {partial.relative_to(ROOT)}")
-else:
-    text = partial.read_text(encoding="utf-8")
-    required = [
-        expected_url,
-        'property="og:image"',
-        'property="og:image:secure_url"',
-        'property="og:image:type"',
-        'property="og:image:width"',
-        'property="og:image:height"',
-        'name="twitter:image"',
-    ]
-    for item in required:
-        if item not in text:
-            errors.append(f"social-meta.html is missing: {item}")
-    if "/Images/Social/share-preview" in text:
-        errors.append("social-meta.html has reverted to the unreliable /Images/Social preview path")
 
-if not baseof.is_file():
-    errors.append(f"Missing {baseof.relative_to(ROOT)}")
-else:
-    text = baseof.read_text(encoding="utf-8")
-    if '{{ partial "social-meta.html" . }}' not in text:
-        errors.append('baseof.html is not calling partial "social-meta.html"')
+def fail(message: str) -> None:
+    print(f"ERROR: {message}", file=sys.stderr)
+    raise SystemExit(1)
 
-if not image.is_file():
-    errors.append(f"Missing {image.relative_to(ROOT)}")
-else:
-    try:
-        from PIL import Image
-        with Image.open(image) as im:
-            if im.format != "JPEG":
-                errors.append(f"{image.name} must be JPEG, found {im.format}")
-            if im.size != (1178, 563):
-                errors.append(f"{image.name} must be 1178x563, found {im.size[0]}x{im.size[1]}")
-    except ImportError:
-        # Pillow is optional on the user's machine; existence is still checked.
-        pass
-    except Exception as exc:
-        errors.append(f"Could not validate {image.name}: {exc}")
 
-# Prevent old or duplicate preview images from returning in future builds.
-legacy_files = [
-    ROOT / "static" / "share-preview-v3.jpg",
-    ROOT / "static" / "Images" / "Social" / "share-preview.jpg",
-    ROOT / "static" / "Images" / "Social" / "share-preview.webp",
-    ROOT / "static" / "Images" / "Social" / "share-preview-v2.jpg",
-]
-for legacy in legacy_files:
-    if legacy.exists():
-        errors.append(f"Remove obsolete social preview file: {legacy.relative_to(ROOT)}")
+def jpeg_dimensions(path: Path) -> tuple[int, int]:
+    """Return JPEG width and height without Pillow or any other dependency."""
+    data = path.read_bytes()
+    if len(data) < 4 or data[:2] != b"\xff\xd8":
+        fail(f"{path} is not a valid JPEG file.")
 
-root_previews = sorted((ROOT / "static").glob("share-preview*"))
-allowed = [image]
-if root_previews != allowed:
-    found = ", ".join(str(p.relative_to(ROOT)) for p in root_previews) or "none"
-    errors.append(f"Only static/share-preview.jpg is allowed; found: {found}")
+    sof_markers = {
+        0xC0, 0xC1, 0xC2, 0xC3,
+        0xC5, 0xC6, 0xC7,
+        0xC9, 0xCA, 0xCB,
+        0xCD, 0xCE, 0xCF,
+    }
 
-if errors:
-    print("ERROR: Social preview safeguard failed:", file=sys.stderr)
-    for error in errors:
-        print(f"  - {error}", file=sys.stderr)
-    sys.exit(1)
+    offset = 2
+    while offset < len(data):
+        if data[offset] != 0xFF:
+            offset += 1
+            continue
 
-print(f"Social preview check passed: {expected_url}")
+        while offset < len(data) and data[offset] == 0xFF:
+            offset += 1
+        if offset >= len(data):
+            break
+
+        marker = data[offset]
+        offset += 1
+
+        if marker in {0x01, *range(0xD0, 0xD9)}:
+            continue
+
+        if offset + 2 > len(data):
+            break
+
+        segment_length = struct.unpack(">H", data[offset:offset + 2])[0]
+        if segment_length < 2 or offset + segment_length > len(data):
+            fail(f"{path} contains an invalid JPEG segment.")
+
+        if marker in sof_markers:
+            if segment_length < 7:
+                fail(f"{path} contains an invalid JPEG size segment.")
+            height = struct.unpack(">H", data[offset + 3:offset + 5])[0]
+            width = struct.unpack(">H", data[offset + 5:offset + 7])[0]
+            return width, height
+
+        offset += segment_length
+
+    fail(f"Could not determine JPEG dimensions for {path}.")
+    raise AssertionError("unreachable")
+
+
+def declared_dimension(text: str, variable: str) -> int:
+    match = re.search(
+        rf'\{{\{{\s*\${re.escape(variable)}\s*:=\s*"(\d+)"\s*\}}\}}',
+        text,
+    )
+    if not match:
+        fail(f"Could not find the declared ${variable} value in {SOCIAL_META}.")
+    return int(match.group(1))
+
+
+def main() -> None:
+    root = Path(__file__).resolve().parent.parent
+    image = root / EXPECTED_IMAGE
+    baseof_file = root / BASEOF
+    social_file = root / SOCIAL_META
+
+    if not image.is_file():
+        fail(f"Required root image is missing: {EXPECTED_IMAGE}")
+    print(f"✓ Root image exists: {EXPECTED_IMAGE}")
+
+    if not baseof_file.is_file():
+        fail(f"Missing template: {BASEOF}")
+    baseof = baseof_file.read_text(encoding="utf-8")
+
+    include_count = len(re.findall(
+        r'\{\{\s*partial\s+["\']social-meta\.html["\']\s+\.\s*\}\}',
+        baseof,
+    ))
+    if include_count != 1:
+        fail(f"{BASEOF} must include social-meta.html exactly once; found {include_count}.")
+    print("✓ baseof.html includes social-meta.html exactly once")
+
+    if not social_file.is_file():
+        fail(f"Missing partial: {SOCIAL_META}")
+    social = social_file.read_text(encoding="utf-8")
+    print("✓ social-meta.html exists")
+
+    if EXPECTED_URL not in social:
+        fail(f"Default preview URL is incorrect. Expected: {EXPECTED_URL}")
+    print(f"✓ Default preview URL is correct: {EXPECTED_URL}")
+
+    for snippet in REQUIRED_SNIPPETS:
+        if snippet not in social:
+            fail(f"Required social metadata tag is missing: {snippet}")
+    print("✓ Required Open Graph and Twitter tags are present")
+
+    # Scan source only. Generated public/ output and unrelated image files are ignored.
+    obsolete = "/images/social/share-preview"
+    offenders: list[str] = []
+    for source_dir_name in ("layouts", "content", "data"):
+        source_dir = root / source_dir_name
+        if not source_dir.exists():
+            continue
+        for file in source_dir.rglob("*"):
+            if not file.is_file():
+                continue
+            try:
+                contents = file.read_text(encoding="utf-8")
+            except UnicodeDecodeError:
+                continue
+            if obsolete in contents.lower():
+                offenders.append(str(file.relative_to(root)))
+
+    if offenders:
+        fail(
+            "Obsolete /Images/Social/share-preview reference found in source:\n  "
+            + "\n  ".join(sorted(set(offenders)))
+        )
+    print("✓ No obsolete /Images/Social/share-preview source references found")
+
+    width, height = jpeg_dimensions(image)
+    declared_width = declared_dimension(social, "ogImageW")
+    declared_height = declared_dimension(social, "ogImageH")
+
+    if (width, height) != (declared_width, declared_height):
+        fail(
+            "JPEG dimensions do not match the Open Graph metadata.\n"
+            f"Image: {width}x{height}\n"
+            f"Declared: {declared_width}x{declared_height}"
+        )
+
+    print(f"✓ Preview image is a valid JPEG ({width}x{height})")
+    print("✓ Declared Open Graph dimensions match the image")
+    print("Social preview check passed.")
+
+
+if __name__ == "__main__":
+    main()
