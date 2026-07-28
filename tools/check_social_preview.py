@@ -8,8 +8,8 @@ import struct
 import sys
 from pathlib import Path
 
-EXPECTED_URL = "https://thegamingemporium.com/share-preview-july-2026.jpg"
-EXPECTED_IMAGE = Path("static/share-preview-july-2026.jpg")
+EXPECTED_URL = "https://thegamingemporium.com/share-preview-final-2026.jpg"
+EXPECTED_IMAGE = Path("static/share-preview-final-2026.jpg")
 BASEOF = Path("layouts/_default/baseof.html")
 SOCIAL_META = Path("layouts/partials/social-meta.html")
 

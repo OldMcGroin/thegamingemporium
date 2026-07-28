@@ -1,5 +1,5 @@
 ---
-title: "Switchnow a Native Nintendo Switch Homebrew Client for Geforce Now"
+title: "SwitchNow a Native Nintendo Switch Homebrew Client for Geforce Now"
 url: "/game/switchnow-a-native-nintendo-switch-homebrew-client-for-geforce-now/"
 type: game
 params:
