@@ -62,7 +62,8 @@
   {{ $ogUrl := .Permalink }}
 
   {{/* Default site share image */}}
-  {{ $ogImage := ("/Images/Social/share-preview.jpg" | absURL) }}
+  {{/* IMPORTANT: Keep the default social preview at the site root. Facebook has repeatedly rejected the nested /Images/Social/ path. */}}
+  {{ $ogImage := "https://thegamingemporium.com/share-preview.jpg" }}
   {{ $ogImageType := "image/jpeg" }}
   {{ $ogImageW := "1200" }}
   {{ $ogImageH := "630" }}
