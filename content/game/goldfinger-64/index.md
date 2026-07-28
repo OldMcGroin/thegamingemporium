@@ -7,7 +7,7 @@ params:
   category: "rom-hacks"
   genre1: "first-person-shooter"
   genre2: ""
-  series: "007"
+  series: "James Bond"
   video_link: ""
   date_added: ""
   image: ""
