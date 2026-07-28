@@ -32033,7 +32033,125 @@
     "notes": "",
     "date_added": "2026-07-26",
     "image": ""
+  },
+  {
+    "id": 2455,
+    "title": "Pokemon Red and Blue Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bryanthaboi/gen1recomp",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2456,
+    "title": "Pokemon Red and Blue Recompilation Dramatic Shape Voxel Mod",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DramaticShape/DramaticShapeVoxelMod/releases",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2457,
+    "title": "Pokemon Red and Blue Recompilation",
+    "category": "android-ports",
+    "link": "https://github.com/bryanthaboi/gen1recomp",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "",
+    "image": ""
+  },
+  {
+    "id": 2458,
+    "title": "Pokemon Red and Blue Recompilation Dramatic Shape Voxel Mod",
+    "category": "android-ports",
+    "link": "https://github.com/DramaticShape/DramaticShapeVoxelMod/releases",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "",
+    "image": ""
+  },
+  {
+    "id": 2459,
+    "title": "The Legend of Zelda the Minish Cap for Android",
+    "category": "android-ports",
+    "link": "https://github.com/samyost1/tmc-android/releases",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2460,
+    "title": "Link's Awakening DX HD for Android",
+    "category": "android-ports",
+    "link": "https://archive.org/details/links-awakening-dx-hd-v-1.7.0-windows-direct-x.-7z",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2461,
+    "title": "2 Starboard Play Games From The Portmaster Library On Your Android Handheld",
+    "category": "android-ports",
+    "link": "https://github.com/get-starboard/starboard",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2462,
+    "title": "1 Obtainium",
+    "category": "android-ports",
+    "link": "https://github.com/ImranR98/Obtainium",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
+  },
+  {
+    "id": 2463,
+    "title": "Switchnow a Native Nintendo Switch Homebrew Client for Geforce Now",
+    "category": "utility",
+    "link": "https://github.com/Blade-Punisher/SwitchNOW",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-28",
+    "image": ""
   }
+
 
 
 ]
