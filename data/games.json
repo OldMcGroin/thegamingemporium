@@ -32696,6 +32696,58 @@
     "notes": "",
     "date_added": "2026-07-28",
     "image": ""
+  },
+  {
+    "id": 2506,
+    "title": "RimDroid - RimWorld Launcher for Android",
+    "category": "android-ports",
+    "link": "https://github.com/udarmolota/RimDroid",
+    "genre1": "sandbox",
+    "genre2": "colony-simulator",
+    "series": "RimWorld",
+    "video_link": "https://youtu.be/oAw_FjZKVTs?si=NlFqeLF6KoXRStfk",
+    "notes": "",
+    "date_added": "2026-07-29",
+    "image": ""
+  },
+  {
+    "id": 2507,
+    "title": "Automobili Lamborghini Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/alondero/automobililamborghini-recomp/releases/tag/v0.5.0",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Automobili Lamborghini",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-29",
+    "image": ""
+  },
+  {
+    "id": 2508,
+    "title": "Halo Campaign Evolved Split-Screen Co-op Mod",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/halocampaignevolved/mods/53",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-29",
+    "image": ""
+  },
+  {
+    "id": 2509,
+    "title": "Surging Aura - Sega Megadrive",
+    "category": "english-translation-patches",
+    "link": "https://www.romhacking.net/translations/7660/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Surging Aura",
+    "video_link": "https://youtu.be/1TQNxApMpBc?si=EgrJpa8oputA1ucC",
+    "notes": "",
+    "date_added": "2026-07-29",
+    "image": ""
   }
 
 

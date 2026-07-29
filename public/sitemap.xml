@@ -302,6 +302,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/automation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/automobili-lamborghini/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/automobili-lamborghini-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/avatar/</loc>
   </url><url>
     <loc>http://localhost:1313/game/awesome-steam-deck/</loc>
@@ -2129,6 +2133,8 @@
     <loc>http://localhost:1313/game/halo-3-delta-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/halo-3-permafrost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/halo-campaign-evolved-split-screen-co-op-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/halo-decompilation/</loc>
   </url><url>
@@ -4074,6 +4080,8 @@
   </url><url>
     <loc>http://localhost:1313/series/rigs-of-rods/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/rimdroid-rimworld-launcher-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/rimworld/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rimworld-a-rimworld-of-magic/</loc>
@@ -5053,6 +5061,10 @@
     <loc>http://localhost:1313/series/surge-engine/</loc>
   </url><url>
     <loc>http://localhost:1313/game/surge-the-rabbit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/surging-aura/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/surging-aura-sega-megadrive/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/survival-horror/</loc>
   </url><url>
