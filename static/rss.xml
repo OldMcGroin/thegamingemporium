@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 31 Jul 2026 21:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:38:30 +0000</lastBuildDate>
     <item>
       <title>Diddy Kong Racing WebGPU Android Port</title>
       <link>https://thegamingemporium.com/game/diddy-kong-racing-webgpu-android-port/</link>
@@ -192,6 +192,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" alt="idTech4A++ - Engine for Doom III - Quake 4 - Prey 2006 on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" alt="idTech4A++ - Engine for Doom III - Quake 4 - Prey 2006 on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Lighthouse - Banjo Kazooie PC Port</title>
+      <link>https://thegamingemporium.com/game/lighthouse-banjo-kazooie-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/lighthouse-banjo-kazooie-pc-port/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-pc-port.webp" alt="Lighthouse - Banjo Kazooie PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-pc-port.webp" alt="Lighthouse - Banjo Kazooie PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>RimDroid - RimWorld Launcher for Android</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/openmw-morrowind-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openmw-morrowind-for-android.webp" alt="OpenMW - Morrowind for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Elder Scrolls · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openmw-morrowind-for-android.webp" alt="OpenMW - Morrowind for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Elder Scrolls · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic Unleashed Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-unleashed-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-unleashed-recompilation-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" alt="Sonic Unleashed Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: action, platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" alt="Sonic Unleashed Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: action, platformer]]></content:encoded>
     </item>
   </channel>
 </rss>
