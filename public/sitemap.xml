@@ -636,6 +636,8 @@
   </url><url>
     <loc>http://localhost:1313/series/bzflag/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/c-dogs-sdl/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/c-evo/</loc>
   </url><url>
     <loc>http://localhost:1313/series/c-evo/</loc>
@@ -877,6 +879,8 @@
     <loc>http://localhost:1313/game/cold-case/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cold-case/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/colditz-escape/</loc>
   </url><url>
     <loc>http://localhost:1313/series/colin-mcrae/</loc>
   </url><url>
@@ -1291,6 +1295,8 @@
     <loc>http://localhost:1313/series/dogwalk/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dolrecomp-a-static-recompiler-for-gamecube-wii-and-experimental-wii-u-cpu-code/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dominatrix-port-of-sin/</loc>
   </url><url>
     <loc>http://localhost:1313/series/donkey-kong/</loc>
   </url><url>
@@ -2679,6 +2685,8 @@
     <loc>http://localhost:1313/series/mad-dog/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mad-dog-mccree/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mad-monks-revenge-definitive-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/game/maelstrom/</loc>
   </url><url>
@@ -5381,6 +5389,12 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-twilight-princess-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-voyager-of-time/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/the-lengend-of-zelda/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-lengend-of-zelda-a-link-to-the-past-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-lord-of-the-rings/</loc>
   </url><url>
