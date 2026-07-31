@@ -32748,6 +32748,58 @@
     "notes": "",
     "date_added": "2026-07-29",
     "image": ""
+  },
+  {
+    "id": 2510,
+    "title": "Diddy Kong Racing WebGPU Android Port",
+    "category": "android-ports",
+    "link": "https://www.mediafire.com/file/j1hc0cg224ghiky/Golden_Balloon_1.0_%25281%2529.apk/file",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Donkey Kong",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
+  },
+  {
+    "id": 2511,
+    "title": "Syphon Filter PC Port",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/Madxbio97/SF-pc-port",
+    "genre1": "stealth",
+    "genre2": "third-person-shooter",
+    "series": "Syphon Filter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
+  },
+  {
+    "id": 2512,
+    "title": "TeknoParrot for Android",
+    "category": "android-ports",
+    "link": "https://github.com/teknogods/TeknoParrotUI/releases/tag/TeknoParrotUI-android",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
+  },
+  {
+    "id": 2513,
+    "title": "Super Smash Bros. 64 Nintendo DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/rockenrooster/Smash64DS_Port",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
   }
 
 

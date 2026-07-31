@@ -1236,6 +1236,8 @@
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/diddy-kong-racing-webgpu-android-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/die-hard/</loc>
   </url><url>
     <loc>http://localhost:1313/series/digimon/</loc>
@@ -5016,6 +5018,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-64-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-smash-bros-64-nintendo-ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-brawl-rex/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-brawl-decompilation/</loc>
@@ -5096,6 +5100,10 @@
   </url><url>
     <loc>http://localhost:1313/series/synnergist/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/syphon-filter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/syphon-filter-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/tactical/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tactics-ogre/</loc>
@@ -5161,6 +5169,8 @@
     <loc>http://localhost:1313/series/tekken/</loc>
   </url><url>
     <loc>http://localhost:1313/game/teknoparrot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/teknoparrot-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tenchu/</loc>
   </url><url>
