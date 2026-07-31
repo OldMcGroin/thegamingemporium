@@ -79,3 +79,14 @@ Redeploy the Pages project after adding the variables.
 Submit a new, non-duplicate game suggestion. It should appear in the admin inbox immediately, and the notification email should arrive shortly afterwards.
 
 If the suggestion appears but no email arrives, check Cloudflare Pages/Workers real-time logs for `Suggestion notification email failed` and confirm the domain, API key, sender, and recipient values in Resend.
+
+
+## Category dropdown database update (existing installations)
+
+If the suggestions database already exists, run this once in the D1 Console before deploying this build:
+
+```sql
+ALTER TABLE suggestions ADD COLUMN category TEXT;
+```
+
+The same command is provided in `cloudflare/d1_add_suggestion_category.sql`. Existing suggestions are preserved and will show “No category”; all new suggestions must select a category.

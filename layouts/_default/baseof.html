@@ -132,6 +132,25 @@
           <input id="suggestionGameTitle" name="game_title" type="text" maxlength="120" required autocomplete="off">
           <label for="suggestionGameLink">Link</label>
           <input id="suggestionGameLink" name="game_link" type="url" maxlength="500" placeholder="https://..." required inputmode="url">
+          <label for="suggestionCategory">Category</label>
+          <select id="suggestionCategory" name="category" required>
+            <option value="" selected disabled>Select a category...</option>
+            <option value="abandonware">Abandonware</option>
+            <option value="android-ports">Android Ports</option>
+            <option value="console-ports">Console To Console Ports</option>
+            <option value="console-to-pc-port">Console To PC Ports</option>
+            <option value="decompilations-recompilations">Decompilations &amp; Recompilations</option>
+            <option value="english-translation-patches">English Translation Patches</option>
+            <option value="fan-games">Fan Games &amp; Homebrew</option>
+            <option value="guides">Guides</option>
+            <option value="in-the-works">In The Works</option>
+            <option value="mods">Mods</option>
+            <option value="open-source">Open Source</option>
+            <option value="preserved-games">Preserved Games</option>
+            <option value="rom-hacks">ROM Hacks</option>
+            <option value="texture-packs">Texture Packs</option>
+            <option value="utility">Utilities</option>
+          </select>
           <div class="suggestion-hp" aria-hidden="true">
             <label for="suggestionWebsite">Website</label>
             <input id="suggestionWebsite" name="website" type="text" tabindex="-1" autocomplete="off">

@@ -5,8 +5,8 @@ export async function onRequestGet({ request, env }) {
     const requested = url.searchParams.get("status");
     const status = ["new", "reviewed", "all"].includes(requested) ? requested : "new";
     const sql = status === "all"
-      ? "SELECT id, game_title, game_link, status, submitted_at FROM suggestions ORDER BY datetime(submitted_at) DESC LIMIT 500"
-      : "SELECT id, game_title, game_link, status, submitted_at FROM suggestions WHERE status=?1 ORDER BY datetime(submitted_at) DESC LIMIT 500";
+      ? "SELECT id, game_title, game_link, category, status, submitted_at FROM suggestions ORDER BY datetime(submitted_at) DESC LIMIT 500"
+      : "SELECT id, game_title, game_link, category, status, submitted_at FROM suggestions WHERE status=?1 ORDER BY datetime(submitted_at) DESC LIMIT 500";
     const result = status === "all"
       ? await env.SUGGESTIONS_DB.prepare(sql).all()
       : await env.SUGGESTIONS_DB.prepare(sql).bind(status).all();

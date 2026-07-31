@@ -9,6 +9,7 @@ export async function onRequestPost(context) {
     const body = await request.json().catch(() => ({}));
     const title = String(body.game_title || "").trim();
     const link = String(body.game_link || "").trim();
+    const category = String(body.category || "").trim();
     const honeypot = String(body.website || "").trim();
 
     if (honeypot) return reply({ ok: true }, 200);
@@ -17,6 +18,9 @@ export async function onRequestPost(context) {
     }
     if (link.length > 500 || !isHttpUrl(link)) {
       return reply({ ok: false, message: "Please enter a valid http or https link." }, 400);
+    }
+    if (!CATEGORY_LABELS[category]) {
+      return reply({ ok: false, message: "Please select a valid category." }, 400);
     }
 
     const ip = request.headers.get("CF-Connecting-IP") || "unknown";
@@ -39,14 +43,14 @@ export async function onRequestPost(context) {
     }
 
     await env.SUGGESTIONS_DB.prepare(
-      "INSERT INTO suggestions (game_title, game_link, status, submitted_at, ip_hash) VALUES (?1, ?2, 'new', datetime('now'), ?3)"
-    ).bind(title, link, ipHash).run();
+      "INSERT INTO suggestions (game_title, game_link, category, status, submitted_at, ip_hash) VALUES (?1, ?2, ?3, 'new', datetime('now'), ?4)"
+    ).bind(title, link, category, ipHash).run();
 
     // Email is deliberately sent after the database write and in the background.
     // A temporary email-provider failure will never make a valid suggestion look failed.
     if (emailNotificationsConfigured(env)) {
       context.waitUntil(
-        sendSuggestionEmail(env, { title, link }).catch((error) => {
+        sendSuggestionEmail(env, { title, link, category }).catch((error) => {
           console.error("Suggestion notification email failed:", error);
         })
       );
@@ -98,6 +102,7 @@ async function sendSuggestionEmail(env, suggestion) {
         "A new game suggestion was submitted to The Gaming Emporium.",
         "",
         `Game: ${suggestion.title}`,
+        `Category: ${categoryLabel(suggestion.category)}`,
         `Submitted link: ${suggestion.link}`,
         "",
         `Open the Suggestion Inbox: ${adminUrl}`
@@ -127,6 +132,7 @@ async function sendSuggestionEmail(env, suggestion) {
 function buildEmailHtml(suggestion, adminUrl) {
   const safeTitle = escapeHtml(suggestion.title);
   const safeLink = escapeHtml(suggestion.link);
+  const safeCategory = escapeHtml(categoryLabel(suggestion.category));
   const safeAdminUrl = escapeHtml(adminUrl);
 
   return `<!doctype html>
@@ -135,7 +141,8 @@ function buildEmailHtml(suggestion, adminUrl) {
     <div style="max-width:620px;margin:0 auto;background:#1d1d1d;border:1px solid #3a3a3a;border-radius:14px;padding:28px;">
       <h1 style="margin:0 0 18px;font-size:24px;">New game suggestion</h1>
       <p style="margin:0 0 8px;color:#bdbdbd;">A visitor submitted:</p>
-      <p style="margin:0 0 18px;font-size:20px;font-weight:700;">${safeTitle}</p>
+      <p style="margin:0 0 10px;font-size:20px;font-weight:700;">${safeTitle}</p>
+      <p style="margin:0 0 18px;color:#bdbdbd;"><strong style="color:#f5f5f5;">Category:</strong> ${safeCategory}</p>
       <p style="margin:0 0 24px;word-break:break-word;">
         <a href="${safeLink}" style="color:#ffcf00;">${safeLink}</a>
       </p>
@@ -145,6 +152,28 @@ function buildEmailHtml(suggestion, adminUrl) {
     </div>
   </body>
 </html>`;
+}
+
+const CATEGORY_LABELS = Object.freeze({
+  "abandonware": "Abandonware",
+  "android-ports": "Android Ports",
+  "console-ports": "Console To Console Ports",
+  "console-to-pc-port": "Console To PC Ports",
+  "decompilations-recompilations": "Decompilations & Recompilations",
+  "english-translation-patches": "English Translation Patches",
+  "fan-games": "Fan Games & Homebrew",
+  "guides": "Guides",
+  "in-the-works": "In The Works",
+  "mods": "Mods",
+  "open-source": "Open Source",
+  "preserved-games": "Preserved Games",
+  "rom-hacks": "ROM Hacks",
+  "texture-packs": "Texture Packs",
+  "utility": "Utilities"
+});
+
+function categoryLabel(category) {
+  return CATEGORY_LABELS[category] || category;
 }
 
 function escapeHtml(value) {
