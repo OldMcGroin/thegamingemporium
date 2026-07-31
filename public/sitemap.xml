@@ -2008,6 +2008,8 @@
   </url><url>
     <loc>http://localhost:1313/game/golden-axe-returns/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/golden-balloon-diddy-kong-racing-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/golden-sun/</loc>
   </url><url>
     <loc>http://localhost:1313/game/golden-sun-decompilation/</loc>
@@ -2015,6 +2017,8 @@
     <loc>http://localhost:1313/game/goldeneye-007-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-4k-textures/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/goldeneye-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-xbla-recompilation/</loc>
   </url><url>
@@ -2285,6 +2289,8 @@
     <loc>http://localhost:1313/series/idolmaster-sp-perfect-sun-wondering-star-and-missing-moon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/idolmaster-sp-perfect-sun-wondering-star-missing-moon-psp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ikemen/</loc>
   </url><url>
@@ -5320,6 +5326,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-allhallows-eve/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-majora-s-mask-recompilation-for-android/</loc>
@@ -5395,8 +5403,6 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-voyager-of-time/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-lengend-of-zelda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-lengend-of-zelda-a-link-to-the-past-for-android/</loc>
   </url><url>
@@ -5999,6 +6005,8 @@
     <loc>http://localhost:1313/game/x-men-mutant-apocalypse-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/x4-foundations-star-wars-interworlds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force/</loc>
   </url><url>
     <loc>http://localhost:1313/game/xcom-enemy-unknown-long-war/</loc>
   </url><url>

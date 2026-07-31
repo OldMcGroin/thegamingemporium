@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 31 Jul 2026 19:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:11:07 +0000</lastBuildDate>
     <item>
       <title>Diddy Kong Racing WebGPU Android Port</title>
       <link>https://thegamingemporium.com/game/diddy-kong-racing-webgpu-android-port/</link>
@@ -95,15 +95,15 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/c-dogs-sdl.webp" alt="C-Dogs SDL" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: action, shoot em up]]></content:encoded>
     </item>
     <item>
-      <title>The Lengend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port</title>
-      <link>https://thegamingemporium.com/game/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</guid>
+      <title>The Legend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port</title>
+      <link>https://thegamingemporium.com/game/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port/</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" alt="The Lengend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Lengend of Zelda · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" alt="The Lengend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Lengend of Zelda · Genre: rpg, adventure]]></content:encoded>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" alt="The Legend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-a-link-to-the-past-dual-screen-nintendo-3ds-port.webp" alt="The Legend of Zelda A Link to the Past Dual Screen Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
     </item>
     <item>
       <title>The Lengend of Zelda A Link to the Past for Android</title>
@@ -148,6 +148,50 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" alt="Dune 2 For Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Dune · Genre: strategy]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" alt="Dune 2 For Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Dune · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Xash3D FWGS engine for Half-Life - Blue Shift - Opposing force</title>
+      <link>https://thegamingemporium.com/game/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force.webp" alt="Xash3D FWGS engine for Half-Life - Blue Shift - Opposing force" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force.webp" alt="Xash3D FWGS engine for Half-Life - Blue Shift - Opposing force" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Goldeneye Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/goldeneye-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-recompilation-for-android/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-recompilation-for-android.webp" alt="Goldeneye Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: 007 · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-recompilation-for-android.webp" alt="Goldeneye Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: 007 · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Golden Balloon - Diddy Kong Racing Recompilation</title>
+      <link>https://thegamingemporium.com/game/golden-balloon-diddy-kong-racing-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/golden-balloon-diddy-kong-racing-recompilation/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/golden-balloon-diddy-kong-racing-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/golden-balloon-diddy-kong-racing-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/golden-balloon-diddy-kong-racing-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/golden-balloon-diddy-kong-racing-recompilation.webp" alt="Golden Balloon - Diddy Kong Racing Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/golden-balloon-diddy-kong-racing-recompilation.webp" alt="Golden Balloon - Diddy Kong Racing Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>idTech4A++ - Engine for Doom III - Quake 4 - Prey 2006 on Android</title>
+      <link>https://thegamingemporium.com/game/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" alt="idTech4A++ - Engine for Doom III - Quake 4 - Prey 2006 on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/idtech4a-engine-for-doom-iii-quake-4-prey-2006-on-android.webp" alt="idTech4A++ - Engine for Doom III - Quake 4 - Prey 2006 on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
     </item>
     <item>
       <title>RimDroid - RimWorld Launcher for Android</title>
@@ -511,50 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" alt="Sonic Unleashed Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: action, platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-unleashed-recompilation-for-android.webp" alt="Sonic Unleashed Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: action, platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>PartyBoard - Mario Party 4 for Android</title>
-      <link>https://thegamingemporium.com/game/partyboard-mario-party-4-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/partyboard-mario-party-4-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/partyboard-mario-party-4-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/partyboard-mario-party-4-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/partyboard-mario-party-4-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/partyboard-mario-party-4-for-android.webp" alt="PartyBoard - Mario Party 4 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: party game]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/partyboard-mario-party-4-for-android.webp" alt="PartyBoard - Mario Party 4 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: party game]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenCrossing - Animal Crossing for Android</title>
-      <link>https://thegamingemporium.com/game/opencrossing-animal-crossing-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/opencrossing-animal-crossing-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/opencrossing-animal-crossing-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/opencrossing-animal-crossing-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/opencrossing-animal-crossing-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opencrossing-animal-crossing-for-android.webp" alt="OpenCrossing - Animal Crossing for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Animal Crossing · Genre: sandbox, life simulator]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/opencrossing-animal-crossing-for-android.webp" alt="OpenCrossing - Animal Crossing for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Animal Crossing · Genre: sandbox, life simulator]]></content:encoded>
-    </item>
-    <item>
-      <title>Sigma Touch - Unreal and Unreal Tournament 99 Engine for Android</title>
-      <link>https://thegamingemporium.com/game/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android.webp" alt="Sigma Touch - Unreal and Unreal Tournament 99 Engine for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Unreal · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sigma-touch-unreal-and-unreal-tournament-99-engine-for-android.webp" alt="Sigma Touch - Unreal and Unreal Tournament 99 Engine for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Unreal · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Battleship - Super Smash Brothers 64 for Android</title>
-      <link>https://thegamingemporium.com/game/battleship-super-smash-brothers-64-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/battleship-super-smash-brothers-64-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" alt="Battleship - Super Smash Brothers 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" alt="Battleship - Super Smash Brothers 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
