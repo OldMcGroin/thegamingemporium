@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 31 Jul 2026 16:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:29:52 +0000</lastBuildDate>
     <item>
       <title>Diddy Kong Racing WebGPU Android Port</title>
       <link>https://thegamingemporium.com/game/diddy-kong-racing-webgpu-android-port/</link>
@@ -115,6 +115,39 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-for-android.webp" alt="The Lengend of Zelda A Link to the Past for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Lengend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-lengend-of-zelda-a-link-to-the-past-for-android.webp" alt="The Lengend of Zelda A Link to the Past for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Lengend of Zelda · Genre: rpg, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Crash Team Racing for Android</title>
+      <link>https://thegamingemporium.com/game/crash-team-racing-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-team-racing-for-android/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-team-racing-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crash-team-racing-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-for-android.webp" alt="Crash Team Racing for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-for-android.webp" alt="Crash Team Racing for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Warcraft II for Android</title>
+      <link>https://thegamingemporium.com/game/warcraft-ii-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/warcraft-ii-for-android/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/warcraft-ii-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/warcraft-ii-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/warcraft-ii-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warcraft-ii-for-android.webp" alt="Warcraft II for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Warcraft · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warcraft-ii-for-android.webp" alt="Warcraft II for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Warcraft · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Dune 2 For Android</title>
+      <link>https://thegamingemporium.com/game/dune-2-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dune-2-for-android/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" alt="Dune 2 For Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Dune · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dune-2-for-android.webp" alt="Dune 2 For Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Dune · Genre: strategy]]></content:encoded>
     </item>
     <item>
       <title>RimDroid - RimWorld Launcher for Android</title>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" alt="Battleship - Super Smash Brothers 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: fighting]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battleship-super-smash-brothers-64-for-android.webp" alt="Battleship - Super Smash Brothers 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>The Simpsons Hit &amp; Run for Android</title>
-      <link>https://thegamingemporium.com/game/the-simpsons-hit-run-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-simpsons-hit-run-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-simpsons-hit-run-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-simpsons-hit-run-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-simpsons-hit-run-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-simpsons-hit-run-for-android.webp" alt="The Simpsons Hit &amp; Run for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Simpsons · Genre: sandbox, racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-simpsons-hit-run-for-android.webp" alt="The Simpsons Hit &amp; Run for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: The Simpsons · Genre: sandbox, racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Perfect Dark for Android</title>
-      <link>https://thegamingemporium.com/game/perfect-dark-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/perfect-dark-for-android/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/perfect-dark-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/perfect-dark-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/perfect-dark-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-for-android.webp" alt="Perfect Dark for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Perfect Dark · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-for-android.webp" alt="Perfect Dark for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Perfect Dark · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Street Fighter III Third Strike PC Port</title>
-      <link>https://thegamingemporium.com/game/street-fighter-iii-third-strike-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/street-fighter-iii-third-strike-pc-port/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/street-fighter-iii-third-strike-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/street-fighter-iii-third-strike-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/street-fighter-iii-third-strike-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-iii-third-strike-pc-port.webp" alt="Street Fighter III Third Strike PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-iii-third-strike-pc-port.webp" alt="Street Fighter III Third Strike PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>

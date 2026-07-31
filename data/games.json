@@ -32891,6 +32891,45 @@
     "notes": "",
     "date_added": "2026-07-31",
     "image": ""
+  },
+  {
+    "id": 2521,
+    "title": "Crash Team Racing for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Simon358/ctr-native-android/releases",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
+  },
+  {
+    "id": 2522,
+    "title": "Warcraft II for Android",
+    "category": "android-ports",
+    "link": "https://dos.zone/offline/warcraft-ii-android/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Warcraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
+  },
+  {
+    "id": 2523,
+    "title": "Dune 2 For Android",
+    "category": "android-ports",
+    "link": "https://dos.zone/offline/dune-2-android/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Dune",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-07-31",
+    "image": ""
   }
 
 
