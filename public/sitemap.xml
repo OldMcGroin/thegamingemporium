@@ -298,6 +298,8 @@
   </url><url>
     <loc>http://localhost:1313/series/augustus/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/augustus-caesar-iii-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/aurora/</loc>
   </url><url>
     <loc>http://localhost:1313/game/aurora-os-js/</loc>
@@ -1862,6 +1864,8 @@
   </url><url>
     <loc>http://localhost:1313/game/freeciv/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/freeciv-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/freecol/</loc>
   </url><url>
     <loc>http://localhost:1313/game/freedoom/</loc>
@@ -2394,6 +2398,8 @@
   </url><url>
     <loc>http://localhost:1313/game/jagged-alliance-2-stracciatella/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/jagged-alliance-2-stracciatella-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/jak-and-daxter/</loc>
   </url><url>
     <loc>http://localhost:1313/series/james-bond/</loc>
@@ -2433,6 +2439,8 @@
     <loc>http://localhost:1313/game/jojo-no-kimyou-na-bouken-ougon-no-kaze-playstation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/juiced/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/julius-caesar-iii-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/julius-caesar-iii-remake/</loc>
   </url><url>
@@ -3731,6 +3739,8 @@
     <loc>http://localhost:1313/game/pokemon-odyssey/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-pinball-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-platinum-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-prism/</loc>
   </url><url>

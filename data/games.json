@@ -33268,6 +33268,71 @@
     "notes": "",
     "date_added": "2026-08-01",
     "image": ""
+  },
+  {
+    "id": 2550,
+    "title": "Jagged Alliance 2 Stracciatella for Android",
+    "category": "android-ports",
+    "link": "https://ja2-stracciatella.github.io/download/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Jagged Alliance",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-02",
+    "image": ""
+  },
+  {
+    "id": 2551,
+    "title": "Julius - Caesar III for Android",
+    "category": "android-ports",
+    "link": "https://github.com/bvschaik/julius/releases/tag/v1.8.0",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-02",
+    "image": ""
+  },
+  {
+    "id": 2552,
+    "title": "Augustus - Caesar III for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Keriew/augustus/releases/tag/v4.0.0",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-02",
+    "image": ""
+  },
+  {
+    "id": 2553,
+    "title": "Freeciv for Android",
+    "category": "android-ports",
+    "link": "https://github.com/zielmicha/freeciv-android",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-02",
+    "image": ""
+  },
+  {
+    "id": 2554,
+    "title": "Pokemon Platinum PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cybervisi0n/pokeplatinum",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-02",
+    "image": ""
   }
 
 
