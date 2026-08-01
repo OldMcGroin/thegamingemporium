@@ -264,6 +264,8 @@
   </url><url>
     <loc>http://localhost:1313/series/arx-libertatis/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/arx-libertatis-arx-fatalis-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/arx-libertatis-arx-fatalis-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/arx-libertatis-ps-vita-port/</loc>
@@ -854,6 +856,8 @@
   </url><url>
     <loc>http://localhost:1313/series/clangen/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/classic-core-unofficial-android-ports-of-classic-game-engines/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/classicube/</loc>
   </url><url>
     <loc>http://localhost:1313/series/classicube/</loc>
@@ -1067,6 +1071,8 @@
     <loc>http://localhost:1313/series/cytopia/</loc>
   </url><url>
     <loc>http://localhost:1313/series/daggerfall/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/daggerfall-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/daggerfall-unity/</loc>
   </url><url>
@@ -1594,6 +1600,8 @@
   </url><url>
     <loc>http://localhost:1313/series/exhumed/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/exult-ultima-vii-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/exult-ultima-vii-reimplementation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/f-zero/</loc>
@@ -1632,6 +1640,8 @@
   </url><url>
     <loc>http://localhost:1313/game/fallout-2-community-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fallout-2-community-edition-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fallout-3-fallout-legends/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-4-heather-companion-mod/</loc>
@@ -1655,6 +1665,8 @@
     <loc>http://localhost:1313/game/fallout-4-upscaling/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-community-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fallout-community-edition-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-new-vegas-enhanced-animations-3rd-person-movement/</loc>
   </url><url>
@@ -2229,6 +2241,8 @@
     <loc>http://localhost:1313/game/holocure/</loc>
   </url><url>
     <loc>http://localhost:1313/series/holocure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/holotz-s-castle/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
@@ -3426,6 +3440,8 @@
   </url><url>
     <loc>http://localhost:1313/series/openhv/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/openjkdf2-dark-forces-2-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/openlara-tomb-raider-engine-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openloco-chris-sawyer-s-locomotion-port/</loc>
@@ -3473,6 +3489,8 @@
     <loc>http://localhost:1313/game/opentyrian-2000/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openxcom/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/openxcom-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/operation-flashpoint/</loc>
   </url><url>
@@ -5911,6 +5929,8 @@
     <loc>http://localhost:1313/game/wario-s-conquest-super-mario-land-2-reclaimed/</loc>
   </url><url>
     <loc>http://localhost:1313/game/warioware-inc-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/warsmash-warcraft-3-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/warsow/</loc>
   </url><url>
