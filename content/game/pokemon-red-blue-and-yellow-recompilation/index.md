@@ -1,6 +1,6 @@
 ---
-title: "Pokemon Red and Blue Recompilation"
-url: "/game/pokemon-red-and-blue-recompilation/"
+title: "Pokemon Red Blue and Yellow Recompilation"
+url: "/game/pokemon-red-blue-and-yellow-recompilation/"
 type: game
 params:
   external_link: "https://github.com/bryanthaboi/gen1recomp"

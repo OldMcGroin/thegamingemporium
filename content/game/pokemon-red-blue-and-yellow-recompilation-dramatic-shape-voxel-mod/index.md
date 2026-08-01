@@ -1,6 +1,6 @@
 ---
-title: "Pokemon Red and Blue Recompilation Dramatic Shape Voxel Mod"
-url: "/game/pokemon-red-and-blue-recompilation-dramatic-shape-voxel-mod/"
+title: "Pokemon Red, Blue and Yellow Recompilation Dramatic Shape Voxel Mod"
+url: "/game/pokemon-red-blue-and-yellow-recompilation-dramatic-shape-voxel-mod/"
 type: game
 params:
   external_link: "https://github.com/DramaticShape/DramaticShapeVoxelMod/releases"
