@@ -950,6 +950,8 @@
   </url><url>
     <loc>http://localhost:1313/series/cool-spot/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/corsixth-theme-hospital-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/corsixth-theme-hospital-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cortex-command/</loc>
@@ -965,6 +967,8 @@
     <loc>http://localhost:1313/game/cotton-2-sega-saturn/</loc>
   </url><url>
     <loc>http://localhost:1313/series/counter-strike/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/counter-strike-1-6-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/counter-strike-football/</loc>
   </url><url>
@@ -1935,6 +1939,8 @@
     <loc>http://localhost:1313/game/galaga-galaxian-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/game-over-elysium/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gamenative-run-supported-steam-epic-and-gog-games-locally-on-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/</loc>
   </url><url>
@@ -3420,6 +3426,8 @@
   </url><url>
     <loc>http://localhost:1313/series/openhv/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/openlara-tomb-raider-engine-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/openloco-chris-sawyer-s-locomotion-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openmw-morrowind-for-android/</loc>
@@ -3440,6 +3448,8 @@
   </url><url>
     <loc>http://localhost:1313/game/openrct2-roller-coaster-tycoon-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/openrct2-rollercoaster-tycoon-2-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/openrw-gta-iii-reimplementation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opensa/</loc>
@@ -3450,11 +3460,15 @@
   </url><url>
     <loc>http://localhost:1313/series/openspades/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/openstarbound-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/opentdu-source-port-of-test-drive-unlimited/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opentesarena-elder-scrolls-arena-open-source-reimplementation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openttd-port-of-transports-tycoon-deluxe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/openttd-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opentyrian-2000/</loc>
   </url><url>
@@ -3848,6 +3862,8 @@
   </url><url>
     <loc>http://localhost:1313/series/project-kat/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/project-zomboid/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/project-x/</loc>
   </url><url>
     <loc>http://localhost:1313/game/projectr-san-francisco-rush-the-rock-and-san-francisco-rush-2049-ports/</loc>
@@ -4161,6 +4177,8 @@
     <loc>http://localhost:1313/genres/roguelike/</loc>
   </url><url>
     <loc>http://localhost:1313/series/roller-coaster-tycoon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/rollercoaster-tycoon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rom-hacking-101/</loc>
   </url><url>
@@ -4614,6 +4632,8 @@
   </url><url>
     <loc>http://localhost:1313/series/souls/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/source-engine-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/south-park/</loc>
   </url><url>
     <loc>http://localhost:1313/series/space-cadet-pinball/</loc>
@@ -4963,6 +4983,8 @@
     <loc>http://localhost:1313/game/super-mario-land-2-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-land-dx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-maker-world-engine-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-meltdown/</loc>
   </url><url>
@@ -5638,6 +5660,8 @@
   </url><url>
     <loc>http://localhost:1313/series/transformers/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/transport-tycoon/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/transports-tycoon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tremulous/</loc>
@@ -5753,6 +5777,10 @@
     <loc>http://localhost:1313/game/unreal-redux/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unreal-tournament-ps-vita-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/unturned/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/unturned-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unvanquished/</loc>
   </url><url>
@@ -6145,6 +6173,8 @@
     <loc>http://localhost:1313/game/zombies-ate-my-neighbours-escape-the-house/</loc>
   </url><url>
     <loc>http://localhost:1313/series/zombies-ate-my-neighbours/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zomdroid-unofficial-project-zomboid-launcher-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/zone-of-the-enders/</loc>
   </url><url>
