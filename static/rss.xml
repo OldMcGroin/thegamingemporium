@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 02 Aug 2026 14:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:13:41 +0000</lastBuildDate>
     <item>
       <title>Jagged Alliance 2 Stracciatella for Android</title>
       <link>https://thegamingemporium.com/game/jagged-alliance-2-stracciatella-for-android/</link>
@@ -282,6 +282,17 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pizza-legacy-pizza-tycoon-port.webp" alt="Pizza Legacy - Pizza Tycoon Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Pizza Tycoon · Genre: business simulator]]></content:encoded>
     </item>
     <item>
+      <title>Castlevania Symphony of the Night Recompilation</title>
+      <link>https://thegamingemporium.com/game/castlevania-symphony-of-the-night-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-symphony-of-the-night-recompilation/</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-recompilation.webp" alt="Castlevania Symphony of the Night Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: metroidvania, rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-symphony-of-the-night-recompilation.webp" alt="Castlevania Symphony of the Night Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Castlevania · Genre: metroidvania, rpg]]></content:encoded>
+    </item>
+    <item>
       <title>Source Engine for Android</title>
       <link>https://thegamingemporium.com/game/source-engine-for-android/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/source-engine-for-android/</guid>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" alt="TeknoParrot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" alt="TeknoParrot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Smash Bros. 64 Nintendo DS Port</title>
-      <link>https://thegamingemporium.com/game/super-smash-bros-64-nintendo-ds-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-smash-bros-64-nintendo-ds-port/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-smash-bros-64-nintendo-ds-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-smash-bros-64-nintendo-ds-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-smash-bros-64-nintendo-ds-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-bros-64-nintendo-ds-port.webp" alt="Super Smash Bros. 64 Nintendo DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-bros-64-nintendo-ds-port.webp" alt="Super Smash Bros. 64 Nintendo DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
