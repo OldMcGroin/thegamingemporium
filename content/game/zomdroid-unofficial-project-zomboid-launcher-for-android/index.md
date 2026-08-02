@@ -3,7 +3,7 @@ title: "Zomdroid - Unofficial Project Zomboid Launcher for Android"
 url: "/game/zomdroid-unofficial-project-zomboid-launcher-for-android/"
 type: game
 params:
-  external_link: "https://github.com/liamelui/zomdroid"
+  external_link: "https://github.com/udarmolota/zomdroid/releases"
   category: "android-ports"
   genre1: "survival-horror"
   genre2: "strategy"
