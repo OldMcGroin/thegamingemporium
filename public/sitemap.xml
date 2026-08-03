@@ -1138,6 +1138,10 @@
   </url><url>
     <loc>http://localhost:1313/game/dark-souls-remastered-seamless-co-op-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/darkenstein-3d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/darkenstein-3d/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/darkest-dungeon/</loc>
   </url><url>
     <loc>http://localhost:1313/series/darksiders/</loc>
@@ -1213,6 +1217,8 @@
     <loc>http://localhost:1313/series/demons-crest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/demon-s-crest-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/demons-souls/</loc>
   </url><url>
     <loc>http://localhost:1313/game/densetsu-no-ogre-battle-the-march-of-the-black-queen-sega-saturn/</loc>
   </url><url>
@@ -1293,6 +1299,8 @@
     <loc>http://localhost:1313/series/discworld/</loc>
   </url><url>
     <loc>http://localhost:1313/game/discworld-noir/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/disgaea/</loc>
   </url><url>
     <loc>http://localhost:1313/series/disney/</loc>
   </url><url>
@@ -1425,6 +1433,8 @@
     <loc>http://localhost:1313/series/dragon-warrior/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-warrior-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/dragons-crown/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dragons-dogma/</loc>
   </url><url>
@@ -1739,6 +1749,8 @@
     <loc>http://localhost:1313/series/fifa/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fifa-14-and-16-classic-patch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fight-night/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fightcade-a-matchmaking-application-for-playing-retro-games-online/</loc>
   </url><url>
@@ -2452,6 +2464,8 @@
   </url><url>
     <loc>http://localhost:1313/game/julius-caesar-iii-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/jump-force/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/jump-ultimate-stars/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jump-ultimate-stars-nintendo-ds/</loc>
@@ -3114,6 +3128,8 @@
   </url><url>
     <loc>http://localhost:1313/game/moderngekko-static-recompilation-pipeline-for-gamecube-and-wii-games/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/modnation-racers/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/mods/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mole-mania/</loc>
@@ -3285,6 +3301,8 @@
     <loc>http://localhost:1313/series/nethack/</loc>
   </url><url>
     <loc>http://localhost:1313/series/neuromancer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/never-dead/</loc>
   </url><url>
     <loc>http://localhost:1313/game/neverball/</loc>
   </url><url>
@@ -4198,6 +4216,8 @@
   </url><url>
     <loc>http://localhost:1313/game/robocop-psone/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/robocop-megadrive-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/rock-band/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rock-band-3-decompilation/</loc>
@@ -4681,6 +4701,8 @@
     <loc>http://localhost:1313/game/soul-blazer-snes/</loc>
   </url><url>
     <loc>http://localhost:1313/series/soul-calibre/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/soul-calibur/</loc>
   </url><url>
     <loc>http://localhost:1313/game/soul-calibur-swords-of-destiny/</loc>
   </url><url>

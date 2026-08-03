@@ -5,7 +5,29 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 02 Aug 2026 21:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 23:07:48 +0000</lastBuildDate>
+    <item>
+      <title>Robocop Megadrive Port</title>
+      <link>https://thegamingemporium.com/game/robocop-megadrive-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/robocop-megadrive-port/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/robocop-megadrive-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/robocop-megadrive-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/robocop-megadrive-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/robocop-megadrive-port.webp" alt="Robocop Megadrive Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Robocop · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/robocop-megadrive-port.webp" alt="Robocop Megadrive Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Robocop · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Darkenstein 3D</title>
+      <link>https://thegamingemporium.com/game/darkenstein-3d/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/darkenstein-3d/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/darkenstein-3d.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/darkenstein-3d.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/darkenstein-3d.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/darkenstein-3d.webp" alt="Darkenstein 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Darkenstein 3D · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/darkenstein-3d.webp" alt="Darkenstein 3D" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Darkenstein 3D · Genre: first person shooter]]></content:encoded>
+    </item>
     <item>
       <title>Jagged Alliance 2 Stracciatella for Android</title>
       <link>https://thegamingemporium.com/game/jagged-alliance-2-stracciatella-for-android/</link>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/diddy-kong-racing-webgpu-android-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diddy-kong-racing-webgpu-android-port.webp" alt="Diddy Kong Racing WebGPU Android Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Donkey Kong · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diddy-kong-racing-webgpu-android-port.webp" alt="Diddy Kong Racing WebGPU Android Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Donkey Kong · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Syphon Filter PC Port</title>
-      <link>https://thegamingemporium.com/game/syphon-filter-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/syphon-filter-pc-port/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/syphon-filter-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/syphon-filter-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/syphon-filter-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/syphon-filter-pc-port.webp" alt="Syphon Filter PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Syphon Filter · Genre: stealth, third person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/syphon-filter-pc-port.webp" alt="Syphon Filter PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Syphon Filter · Genre: stealth, third person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>TeknoParrot for Android</title>
-      <link>https://thegamingemporium.com/game/teknoparrot-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/teknoparrot-for-android/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" alt="TeknoParrot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/teknoparrot-for-android.webp" alt="TeknoParrot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
     </item>
   </channel>
 </rss>
