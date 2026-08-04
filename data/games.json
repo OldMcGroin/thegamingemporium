@@ -33853,6 +33853,45 @@
     "notes": "",
     "date_added": "2026-08-03",
     "image": ""
+  },
+  {
+    "id": 2595,
+    "title": "Vandal Hearts PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HalmyLyseas/VandalHearts-PcPort",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Vandal Hearts",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-04",
+    "image": ""
+  },
+  {
+    "id": 2596,
+    "title": "MobileUO - Ultima Online Mobile Port",
+    "category": "android-ports",
+    "link": "https://www.mobileuo.com/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Ultima",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-04",
+    "image": ""
+  },
+  {
+    "id": 2597,
+    "title": "Pokemon Everworld Online",
+    "category": "fan-games",
+    "link": "https://pokeeverworldonline.com/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-04",
+    "image": ""
   }
 
 

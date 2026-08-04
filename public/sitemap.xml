@@ -3126,6 +3126,8 @@
   </url><url>
     <loc>http://localhost:1313/series/mobhold/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mobileuo-ultima-online-mobile-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/moderngekko-static-recompilation-pipeline-for-gamecube-and-wii-games/</loc>
   </url><url>
     <loc>http://localhost:1313/series/modnation-racers/</loc>
@@ -3747,6 +3749,8 @@
     <loc>http://localhost:1313/game/pokemon-dark-rising/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-emerald-seaglass/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-everworld-online/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan-wii/</loc>
   </url><url>
@@ -5911,6 +5915,8 @@
     <loc>http://localhost:1313/series/vandal-hearts/</loc>
   </url><url>
     <loc>http://localhost:1313/game/vandal-hearts-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/vandal-hearts-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/variable-geo/</loc>
   </url><url>
