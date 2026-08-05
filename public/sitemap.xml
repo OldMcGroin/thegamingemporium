@@ -924,6 +924,8 @@
   </url><url>
     <loc>http://localhost:1313/series/condemned/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/condemned-2-bloodshot-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/conflict/</loc>
   </url><url>
     <loc>http://localhost:1313/game/conflict-3049/</loc>
@@ -1510,6 +1512,8 @@
   </url><url>
     <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-recompilation-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dust-racing-2d/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dxx-rebirth-open-descent/</loc>
@@ -2048,6 +2052,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/god-simulator/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/godzilla/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/golden-axe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/golden-axe-returns/</loc>
@@ -2217,6 +2223,8 @@
     <loc>http://localhost:1313/game/harvest-moon-64-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harvest-moon-64-recompilation-mods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/harvest-moon-64-recompilation-with-dual-screen-support-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harvest-moon-a-wonderful-life-decompilation/</loc>
   </url><url>
@@ -2703,6 +2711,10 @@
     <loc>http://localhost:1313/series/lollipop-chainsaw/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lollipop-chainsaw-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/london-seirei-tanteidan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/london-seirei-tanteidan-playstation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/lord-of-the-rings/</loc>
   </url><url>
@@ -4695,6 +4707,8 @@
     <loc>http://localhost:1313/game/sonic-time-twisted/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-triple-trouble-16-bit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-triple-trouble-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-ultrasaturn/</loc>
   </url><url>

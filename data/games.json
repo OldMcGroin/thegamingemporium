@@ -33931,8 +33931,97 @@
     "notes": "",
     "date_added": "2026-08-05",
     "image": ""
+  },
+  {
+    "id": 2601,
+    "title": "Harvest Moon 64 Recompilation with Dual Screen Support for Android",
+    "category": "android-ports",
+    "link": "https://github.com/igawa6/HarvestMoon64Recomp/releases/",
+    "genre1": "life-simulator",
+    "genre2": "farming-simulator",
+    "series": "Harvest Moon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
+  },
+  {
+    "id": 2602,
+    "title": "Dusklight - The Legend of Zelda Twilight Princess Recompilation for Android",
+    "category": "android-ports",
+    "link": "https://github.com/TwilitRealm/dusklight/releases",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
+  },
+  {
+    "id": 2603,
+    "title": "Sonic Triple Trouble for Android",
+    "category": "android-ports",
+    "link": "https://gamejolt.com/games/sonictripletrouble16bit/322794",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
+  },
+  {
+    "id": 2604,
+    "title": "Condemned 2: Bloodshot Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/psxrestore/Condemned2Recomp",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Condemned",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
+  },
+  {
+    "id": 2605,
+    "title": "Pokemon Gamma Emerald",
+    "category": "fan-games",
+    "link": "https://undreamedpanic.itch.io/gamma-emerald#download",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": "",
+    "hidden": false
+  },
+  {
+    "id": 2606,
+    "title": "London Seirei Tanteidan - Playstation",
+    "category": "english-translation-patches",
+    "link": "https://github.com/bigbanana23/london-seirei-tanteidan",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "London Seirei Tanteidan",
+    "video_link": "https://youtu.be/Ogusm_TDDI0?si=WJIIy2PlWbx9phOL",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
+  },
+  {
+    "id": 2607,
+    "title": "Godzilla PC Patched",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/mtvSiTgXDbQK",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Godzilla",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-05",
+    "image": ""
   }
-
-
-
 ]
