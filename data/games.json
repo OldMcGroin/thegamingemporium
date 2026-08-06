@@ -34033,7 +34033,20 @@
     "series": "Syphon Filter",
     "video_link": "",
     "notes": "",
-    "date_added": "2026-08-05",
+    "date_added": "2026-08-06",
+    "image": ""
+  },
+  {
+    "id": 2609,
+    "title": "AM2R Autopatcher for Android",
+    "category": "android-ports",
+    "link": "https://github.com/am2r-android/AM2R-Autopatcher-Android",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Metroid",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-06",
     "image": ""
   }
 

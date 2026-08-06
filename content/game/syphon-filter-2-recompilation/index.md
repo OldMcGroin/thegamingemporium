@@ -9,7 +9,7 @@ params:
   genre2: "stealth"
   series: "Syphon Filter"
   video_link: ""
-  date_added: "2026-08-05"
+  date_added: "2026-08-06"
   image: ""
 ---
 
