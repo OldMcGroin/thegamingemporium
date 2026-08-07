@@ -364,6 +364,8 @@
   </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-recompiled-stereoscopic-3d/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/banjo-kazooie-switch-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-the-corrupted-jiggys/</loc>
   </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-the-lair-witch-project/</loc>
@@ -1359,6 +1361,8 @@
     <loc>http://localhost:1313/game/doom-64-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-64-ex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doom-64-switch-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-infinite-doom-2-mod/</loc>
   </url><url>
@@ -3652,6 +3656,8 @@
   </url><url>
     <loc>http://localhost:1313/series/perfect-dark/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/perfect-dark-3ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/perfect-dark-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/perfect-dark-pc-port/</loc>
@@ -3659,6 +3665,8 @@
     <loc>http://localhost:1313/game/perfect-dark-pc-port-friends-of-joanna-4-player-counter-co-operative-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/perfect-dark-ps-vita-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/perfect-dark-psp-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/perfect-dark-recompiled-stereoscopic-3d/</loc>
   </url><url>
@@ -5040,19 +5048,27 @@
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-playstation-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-3ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-mario-64-android-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-co-op-deluxe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-nintendo-ds-port-with-multiplayer/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-nintendo-dsi-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-mario-64-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-ps4-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-render96/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-splitscreen-multiplayer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-switch-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-coopware/</loc>
   </url><url>
@@ -5485,6 +5501,10 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-allhallows-eve/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-majora-s-mask-recompilation-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-majoras-mask-switch-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-majoras-mask-wii-u-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-hero-of-law/</loc>
   </url><url>
