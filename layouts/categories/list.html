@@ -21,6 +21,7 @@
 
 {{ $cats = $cats | append "decompilations-recompilations" }}
 {{ $cats = $cats | append "android-ports" }}
+{{ $cats = $cats | append "vr-ports" }}
 {{ $cats = sort (uniq $cats) }}
 
 <div class="category-grid">

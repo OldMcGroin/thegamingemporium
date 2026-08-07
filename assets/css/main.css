@@ -957,6 +957,7 @@ html[data-theme="light"] .home-disclaimer a{
 .category-rom-hacks            { --accent: rgba(120, 200, 220, 0.18); }
 
 .category-android-ports        { --accent: rgba(120, 200, 140, 0.18); }
+.category-vr-ports             { --accent: rgba(120, 160, 240, 0.18); }
 .category-fan-games            { --accent: rgba(220, 140, 80, 0.18); }
 .category-fan-game             { --accent: rgba(220, 140, 80, 0.18); }
 .category-homebrew             { --accent: rgba(120, 220, 160, 0.18); }

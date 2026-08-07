@@ -370,6 +370,8 @@
   </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-the-lair-witch-project/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/banjo-kazooie-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-n64-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/banjo-kazooie-xbox-360-decompilation/</loc>
@@ -1354,6 +1356,8 @@
   </url><url>
     <loc>http://localhost:1313/game/doom-3-bfg-edition-rbdoom3bfg/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/doom-3-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/doom-3-realdoom/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-32x-resurrection/</loc>
@@ -1397,6 +1401,8 @@
     <loc>http://localhost:1313/game/dr-mario-mania/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dr-robotnik-s-ring-racer-editor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dr-robotnik-s-ring-racers-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dracula-hunter/</loc>
   </url><url>
@@ -2448,6 +2454,8 @@
   </url><url>
     <loc>http://localhost:1313/game/jedi-knight-dark-forces-2-unreal-engine/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/jedi-knight-games-on-openxr-devices/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/jedi-knight-jedi-academy-star-wars-movie-duels/</loc>
   </url><url>
     <loc>http://localhost:1313/series/jesus-kyoufu-no-bio-monster/</loc>
@@ -2843,6 +2851,8 @@
     <loc>http://localhost:1313/game/mario-kart-64-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-kart-64-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-8-deluxe-ctgp-deluxe/</loc>
   </url><url>
@@ -3884,6 +3894,8 @@
   </url><url>
     <loc>http://localhost:1313/game/porky-pig-s-haunted-holiday-snes/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/portal/</loc>
   </url><url>
     <loc>http://localhost:1313/game/portal-2-portal-reloaded/</loc>
@@ -3913,6 +3925,8 @@
     <loc>http://localhost:1313/series/prey/</loc>
   </url><url>
     <loc>http://localhost:1313/game/prey-2006-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/prey-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/prince-of-persia/</loc>
   </url><url>
@@ -4002,13 +4016,19 @@
   </url><url>
     <loc>http://localhost:1313/game/quake-arcane-dimensions/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/quake-2-on-the-oculus-quest/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/quake-4-source-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-brutalist-jam-3-standalone-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/quake-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/quest-64/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quest-64-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/questzdoom-doom-heretic-hexen-strife-etc/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quetoo/</loc>
   </url><url>
@@ -4067,6 +4087,8 @@
     <loc>http://localhost:1313/game/rayman-lum-o-grams/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rayman-redemption/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/razexr-duke-nukem-3d-blood-shadow-warrior-etc/</loc>
   </url><url>
     <loc>http://localhost:1313/series/re-volt/</loc>
   </url><url>
@@ -4169,6 +4191,8 @@
     <loc>http://localhost:1313/series/resistance-fall-of-man/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/resource-management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/return-to-castle-wolfenstein-for-the-oculus-quest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/return-to-castle-wolfenstein-ps-vita-port/</loc>
   </url><url>
@@ -4690,6 +4714,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-kart/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-robo-blast-2-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-32x/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-roboblast-2-for-android/</loc>
@@ -4861,6 +4887,8 @@
     <loc>http://localhost:1313/game/star-fox-64-psp-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-fox-64-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/star-fox-64-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-fox-adventures-decompilation/</loc>
   </url><url>
@@ -5069,6 +5097,8 @@
     <loc>http://localhost:1313/game/super-mario-64-splitscreen-multiplayer/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-switch-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-coopware/</loc>
   </url><url>
@@ -5754,6 +5784,8 @@
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-n64-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/tomb-raider-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tomb-raider-legend-hd-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-side-scroller-edition/</loc>
@@ -6033,6 +6065,8 @@
     <loc>http://localhost:1313/game/voxelibre-formerly-mineclone2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/voyeur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/vr-ports/</loc>
   </url><url>
     <loc>http://localhost:1313/series/waku-waku-puyo-puyo-dungeon/</loc>
   </url><url>

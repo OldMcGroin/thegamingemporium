@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 07 Aug 2026 19:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:00:39 +0000</lastBuildDate>
     <item>
       <title>Banjo Kazooie Switch Port</title>
       <link>https://thegamingemporium.com/game/banjo-kazooie-switch-port/</link>
@@ -126,6 +126,193 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-dsi-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-dsi-port.webp" alt="Super Mario 64 Nintendo DSi Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-nintendo-dsi-port.webp" alt="Super Mario 64 Nintendo DSi Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Banjo Kazooie VR</title>
+      <link>https://thegamingemporium.com/game/banjo-kazooie-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/banjo-kazooie-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/banjo-kazooie-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/banjo-kazooie-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/banjo-kazooie-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-vr.webp" alt="Banjo Kazooie VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Banjo Kazooie · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/banjo-kazooie-vr.webp" alt="Banjo Kazooie VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario 64 VR</title>
+      <link>https://thegamingemporium.com/game/super-mario-64-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-64-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-64-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-64-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-vr.webp" alt="Super Mario 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-vr.webp" alt="Super Mario 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Mario Kart 64 VR</title>
+      <link>https://thegamingemporium.com/game/mario-kart-64-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-64-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-64-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-64-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-64-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-vr.webp" alt="Mario Kart 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-vr.webp" alt="Mario Kart 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Fox 64 VR</title>
+      <link>https://thegamingemporium.com/game/star-fox-64-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/star-fox-64-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-fox-64-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/star-fox-64-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/star-fox-64-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-fox-64-vr.webp" alt="Star Fox 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Fox · Genre: rail shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-fox-64-vr.webp" alt="Star Fox 64 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Fox · Genre: rail shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Sonic Robo Blast 2 VR</title>
+      <link>https://thegamingemporium.com/game/sonic-robo-blast-2-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-robo-blast-2-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-robo-blast-2-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/sonic-robo-blast-2-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-robo-blast-2-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-robo-blast-2-vr.webp" alt="Sonic Robo Blast 2 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-robo-blast-2-vr.webp" alt="Sonic Robo Blast 2 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Dr. Robotnik's Ring Racers VR</title>
+      <link>https://thegamingemporium.com/game/dr-robotnik-s-ring-racers-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dr-robotnik-s-ring-racers-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dr-robotnik-s-ring-racers-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dr-robotnik-s-ring-racers-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dr-robotnik-s-ring-racers-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dr-robotnik-s-ring-racers-vr.webp" alt="Dr. Robotnik's Ring Racers VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Sonic the Hedgehog · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dr-robotnik-s-ring-racers-vr.webp" alt="Dr. Robotnik's Ring Racers VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Sonic the Hedgehog · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Port of the Xash3D-FWGS Half Life Engine to Oculus Quest</title>
+      <link>https://thegamingemporium.com/game/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest.webp" alt="Port of the Xash3D-FWGS Half Life Engine to Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Half Life · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/port-of-the-xash3d-fwgs-half-life-engine-to-oculus-quest.webp" alt="Port of the Xash3D-FWGS Half Life Engine to Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Half Life · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Quake VR</title>
+      <link>https://thegamingemporium.com/game/quake-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/quake-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/quake-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/quake-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/quake-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-vr.webp" alt="Quake VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-vr.webp" alt="Quake VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Quake 2 on the Oculus Quest</title>
+      <link>https://thegamingemporium.com/game/quake-2-on-the-oculus-quest/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/quake-2-on-the-oculus-quest/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/quake-2-on-the-oculus-quest.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/quake-2-on-the-oculus-quest.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/quake-2-on-the-oculus-quest.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-on-the-oculus-quest.webp" alt="Quake 2 on the Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-on-the-oculus-quest.webp" alt="Quake 2 on the Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Doom 3 VR</title>
+      <link>https://thegamingemporium.com/game/doom-3-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/doom-3-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/doom-3-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/doom-3-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/doom-3-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/doom-3-vr.webp" alt="Doom 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Doom · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/doom-3-vr.webp" alt="Doom 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Doom · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Return to Castle Wolfenstein for the Oculus Quest</title>
+      <link>https://thegamingemporium.com/game/return-to-castle-wolfenstein-for-the-oculus-quest/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/return-to-castle-wolfenstein-for-the-oculus-quest/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-for-the-oculus-quest.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-for-the-oculus-quest.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-for-the-oculus-quest.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-for-the-oculus-quest.webp" alt="Return to Castle Wolfenstein for the Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Wolfenstein · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/return-to-castle-wolfenstein-for-the-oculus-quest.webp" alt="Return to Castle Wolfenstein for the Oculus Quest" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Wolfenstein · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Jedi Knight games on OpenXR Devices</title>
+      <link>https://thegamingemporium.com/game/jedi-knight-games-on-openxr-devices/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/jedi-knight-games-on-openxr-devices/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" alt="Jedi Knight games on OpenXR Devices" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" alt="Jedi Knight games on OpenXR Devices" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Jedi Knight games on OpenXR Devices</title>
+      <link>https://thegamingemporium.com/game/jedi-knight-games-on-openxr-devices/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/jedi-knight-games-on-openxr-devices/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" alt="Jedi Knight games on OpenXR Devices" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jedi-knight-games-on-openxr-devices.webp" alt="Jedi Knight games on OpenXR Devices" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomb Raider VR</title>
+      <link>https://thegamingemporium.com/game/tomb-raider-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tomb-raider-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tomb-raider-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tomb-raider-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tomb-raider-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tomb-raider-vr.webp" alt="Tomb Raider VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Tomb Raider · Genre: adventure, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tomb-raider-vr.webp" alt="Tomb Raider VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Tomb Raider · Genre: adventure, puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Prey VR</title>
+      <link>https://thegamingemporium.com/game/prey-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/prey-vr/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/prey-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/prey-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/prey-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/prey-vr.webp" alt="Prey VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Prey · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/prey-vr.webp" alt="Prey VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Prey · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>RazeXR - Duke Nukem 3D, Blood, Shadow Warrior, etc</title>
+      <link>https://thegamingemporium.com/game/razexr-duke-nukem-3d-blood-shadow-warrior-etc/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/razexr-duke-nukem-3d-blood-shadow-warrior-etc/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/razexr-duke-nukem-3d-blood-shadow-warrior-etc.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/razexr-duke-nukem-3d-blood-shadow-warrior-etc.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/razexr-duke-nukem-3d-blood-shadow-warrior-etc.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/razexr-duke-nukem-3d-blood-shadow-warrior-etc.webp" alt="RazeXR - Duke Nukem 3D, Blood, Shadow Warrior, etc" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Duke Nukem · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/razexr-duke-nukem-3d-blood-shadow-warrior-etc.webp" alt="RazeXR - Duke Nukem 3D, Blood, Shadow Warrior, etc" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Duke Nukem · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>QuestZDoom - DOOM, Heretic, Hexen, Strife, etc</title>
+      <link>https://thegamingemporium.com/game/questzdoom-doom-heretic-hexen-strife-etc/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/questzdoom-doom-heretic-hexen-strife-etc/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/questzdoom-doom-heretic-hexen-strife-etc.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/questzdoom-doom-heretic-hexen-strife-etc.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/questzdoom-doom-heretic-hexen-strife-etc.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/questzdoom-doom-heretic-hexen-strife-etc.webp" alt="QuestZDoom - DOOM, Heretic, Hexen, Strife, etc" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Doom · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/questzdoom-doom-heretic-hexen-strife-etc.webp" alt="QuestZDoom - DOOM, Heretic, Hexen, Strife, etc" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Doom · Genre: first person shooter]]></content:encoded>
     </item>
     <item>
       <title>Syphon Filter 2 Recompilation</title>
@@ -368,193 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/team-fortress-2-reclassic-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/team-fortress-2-reclassic-for-android.webp" alt="Team Fortress 2 ReClassic for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Team Fortress · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/team-fortress-2-reclassic-for-android.webp" alt="Team Fortress 2 ReClassic for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Team Fortress · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Rexuiz for Android</title>
-      <link>https://thegamingemporium.com/game/rexuiz-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rexuiz-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rexuiz-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rexuiz-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rexuiz-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rexuiz-for-android.webp" alt="Rexuiz for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rexuiz · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rexuiz-for-android.webp" alt="Rexuiz for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rexuiz · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario Bros Remastered for Android</title>
-      <link>https://thegamingemporium.com/game/super-mario-bros-remastered-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-bros-remastered-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-bros-remastered-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-bros-remastered-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-bros-remastered-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-bros-remastered-for-android.webp" alt="Super Mario Bros Remastered for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-bros-remastered-for-android.webp" alt="Super Mario Bros Remastered for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Space Cadet Pinball for Android</title>
-      <link>https://thegamingemporium.com/game/space-cadet-pinball-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/space-cadet-pinball-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/space-cadet-pinball-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/space-cadet-pinball-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/space-cadet-pinball-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/space-cadet-pinball-for-android.webp" alt="Space Cadet Pinball for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Space Cadet Pinball · Genre: pinball]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/space-cadet-pinball-for-android.webp" alt="Space Cadet Pinball for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Space Cadet Pinball · Genre: pinball]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinball FX GO for Android</title>
-      <link>https://thegamingemporium.com/game/pinball-fx-go-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pinball-fx-go-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pinball-fx-go-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pinball-fx-go-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pinball-fx-go-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pinball-fx-go-for-android.webp" alt="Pinball FX GO for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Pinball FX GO · Genre: pinball]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pinball-fx-go-for-android.webp" alt="Pinball FX GO for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Pinball FX GO · Genre: pinball]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic Roboblast 2 for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-roboblast-2-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-roboblast-2-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-roboblast-2-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-roboblast-2-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-roboblast-2-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-roboblast-2-for-android.webp" alt="Sonic Roboblast 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-roboblast-2-for-android.webp" alt="Sonic Roboblast 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Game Collection - Portal Beta, Cuphead, Buckshot Roulette and SMM_WE for Android</title>
-      <link>https://thegamingemporium.com/game/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android.webp" alt="Game Collection - Portal Beta, Cuphead, Buckshot Roulette and SMM_WE for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android.webp" alt="Game Collection - Portal Beta, Cuphead, Buckshot Roulette and SMM_WE for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Trek Voyager - Elite Force Single Player for Android</title>
-      <link>https://thegamingemporium.com/game/star-trek-voyager-elite-force-single-player-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-trek-voyager-elite-force-single-player-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-single-player-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-single-player-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-single-player-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-single-player-for-android.webp" alt="Star Trek Voyager - Elite Force Single Player for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Trek · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-single-player-for-android.webp" alt="Star Trek Voyager - Elite Force Single Player for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Trek · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Trek Voyager - Elite Force Holomatch for Android</title>
-      <link>https://thegamingemporium.com/game/star-trek-voyager-elite-force-holomatch-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-trek-voyager-elite-force-holomatch-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-holomatch-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-holomatch-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-holomatch-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-holomatch-for-android.webp" alt="Star Trek Voyager - Elite Force Holomatch for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Trek · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-trek-voyager-elite-force-holomatch-for-android.webp" alt="Star Trek Voyager - Elite Force Holomatch for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Trek · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>sdlioq3a - Quake III for Android</title>
-      <link>https://thegamingemporium.com/game/sdlioq3a-quake-iii-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sdlioq3a-quake-iii-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sdlioq3a-quake-iii-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sdlioq3a-quake-iii-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sdlioq3a-quake-iii-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdlioq3a-quake-iii-for-android.webp" alt="sdlioq3a - Quake III for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Quake · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sdlioq3a-quake-iii-for-android.webp" alt="sdlioq3a - Quake III for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Quake · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic Mania Plus for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-mania-plus-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-mania-plus-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-mania-plus-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-mania-plus-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-mania-plus-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-mania-plus-for-android.webp" alt="Sonic Mania Plus for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-mania-plus-for-android.webp" alt="Sonic Mania Plus for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic the Hedgehog Forever for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-the-hedgehog-forever-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-the-hedgehog-forever-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-forever-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-forever-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-forever-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-forever-for-android.webp" alt="Sonic the Hedgehog Forever for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-forever-for-android.webp" alt="Sonic the Hedgehog Forever for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic 2 Absolute for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-2-absolute-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-2-absolute-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-2-absolute-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-2-absolute-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-2-absolute-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-2-absolute-for-android.webp" alt="Sonic 2 Absolute for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-2-absolute-for-android.webp" alt="Sonic 2 Absolute for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic CD Restored for Android</title>
-      <link>https://thegamingemporium.com/game/sonic-cd-restored-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-cd-restored-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-cd-restored-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-cd-restored-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-cd-restored-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-cd-restored-for-android.webp" alt="Sonic CD Restored for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-cd-restored-for-android.webp" alt="Sonic CD Restored for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Render96 for Android</title>
-      <link>https://thegamingemporium.com/game/render96-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/render96-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/render96-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/render96-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/render96-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/render96-for-android.webp" alt="Render96 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/render96-for-android.webp" alt="Render96 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Spaghetti Kart - Mario Kart 64 Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/spaghetti-kart-mario-kart-64-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/spaghetti-kart-mario-kart-64-recompilation-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-recompilation-for-android.webp" alt="Spaghetti Kart - Mario Kart 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-recompilation-for-android.webp" alt="Spaghetti Kart - Mario Kart 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Starship - Starfox 64 Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/starship-starfox-64-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/starship-starfox-64-recompilation-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/starship-starfox-64-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/starship-starfox-64-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/starship-starfox-64-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starship-starfox-64-recompilation-for-android.webp" alt="Starship - Starfox 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Fox · Genre: rail shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starship-starfox-64-recompilation-for-android.webp" alt="Starship - Starfox 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Fox · Genre: rail shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Ghostship - Mario 64 Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/ghostship-mario-64-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ghostship-mario-64-recompilation-for-android/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ghostship-mario-64-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ghostship-mario-64-recompilation-for-android.webp" alt="Ghostship - Mario 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ghostship-mario-64-recompilation-for-android.webp" alt="Ghostship - Mario 64 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>

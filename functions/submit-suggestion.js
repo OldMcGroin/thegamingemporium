@@ -169,7 +169,8 @@ const CATEGORY_LABELS = Object.freeze({
   "preserved-games": "Preserved Games",
   "rom-hacks": "ROM Hacks",
   "texture-packs": "Texture Packs",
-  "utility": "Utilities"
+  "utility": "Utilities",
+  "vr-ports": "VR Ports"
 });
 
 function categoryLabel(category) {
