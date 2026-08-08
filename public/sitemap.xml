@@ -2396,6 +2396,8 @@
   </url><url>
     <loc>http://localhost:1313/game/infinity-blade-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/infinity-blade-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/infinity-nikki/</loc>
   </url><url>
     <loc>http://localhost:1313/game/infinity-nikki-on-steam-deck/</loc>
@@ -3788,6 +3790,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemon-dark-rising/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemon-dark-rising-remake/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pokemon-emerald-seaglass/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-everworld-online/</loc>
@@ -4417,6 +4421,8 @@
     <loc>http://localhost:1313/series/sega-rally/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sega-rally-championship-pc-emulation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sega-vs-capcom/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sega-vs-capcom-the-next-level/</loc>
   </url><url>
@@ -6281,6 +6287,10 @@
     <loc>http://localhost:1313/series/you-are-empty/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ys/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ys-iii-wanderers-playstation-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ys-v-lost-kefin-playstation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ys-v-lost-kefin-kingdom-of-sand-playstation-2/</loc>
   </url><url>

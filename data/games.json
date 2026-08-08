@@ -34438,9 +34438,84 @@
     "notes": "",
     "date_added": "2026-08-08",
     "image": ""
+  },
+  {
+    "id": 2640,
+    "title": "SEGA VS CAPCOM",
+    "category": "fan-games",
+    "link": "https://4cydestudios.com/game/sega-vs-capcom",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "video_link": "https://youtu.be/22nhFoJJ-O8?si=ECQ2ChReq0LMS8H4",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+  {
+    "id": 2641,
+    "title": "Infinity Blade for Android",
+    "category": "android-ports",
+    "link": "https://archive.org/details/infinity-blade-android",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Infinity Blade",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+  {
+    "id": 2642,
+    "title": "Pokemon Dark Rising Remake",
+    "category": "rom-hacks",
+    "link": "https://eeveeexpo.com/threads/9603/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "https://youtu.be/MAkWD_wecLo?si=lyh-MNJLX7-3nmWN",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": "",
+    "hidden": true
+  },
+  {
+    "id": 2642,
+    "title": "Pokemon Dark Rising Remake",
+    "category": "rom-hacks",
+    "link": "https://eeveeexpo.com/threads/9603/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "https://youtu.be/MAkWD_wecLo?si=lyh-MNJLX7-3nmWN",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+  {
+    "id": 2643,
+    "title": "Ys III Wanderers - Playstation 2",
+    "category": "english-translation-patches",
+    "link": "https://github.com/Kaisaan/wanderers/releases/tag/v1.0",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Ys",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+  {
+    "id": 2644,
+    "title": "Ys V Lost Kefin - Playstation 2",
+    "category": "english-translation-patches",
+    "link": "https://github.com/Kaisaan/lostkefin",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Ys",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
   }
-
-
-
-
 ]
