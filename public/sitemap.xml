@@ -28,6 +28,8 @@
   </url><url>
     <loc>http://localhost:1313/series/3d-maze/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/3d-pinball-space-cadet-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/40-winks-gameboy-colour/</loc>
   </url><url>
     <loc>http://localhost:1313/series/7th-dragon/</loc>
@@ -265,6 +267,8 @@
     <loc>http://localhost:1313/game/armored-trooper-votoms-playstation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/arx-fatalis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/arx-fatalis-arxwasm-demo-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/arx-libertatis/</loc>
   </url><url>
@@ -610,6 +614,8 @@
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/browser-based/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/brutal-doom-doom-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bstone-port-of-blake-stone-aliens-of-gold-and-blake-stone-planet-strike/</loc>
@@ -778,6 +784,8 @@
   </url><url>
     <loc>http://localhost:1313/game/cave-story-dokutsu-monogatari-pc/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/cave-story-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cave-story-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cave-story-sega-megadrive-port/</loc>
@@ -926,6 +934,10 @@
   </url><url>
     <loc>http://localhost:1313/game/commander-genius/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/commander-keen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/commander-keen-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/companions-of-xanth/</loc>
   </url><url>
     <loc>http://localhost:1313/series/condemned/</loc>
@@ -1029,6 +1041,8 @@
     <loc>http://localhost:1313/game/cro-mag-rally/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cro-mag-rally/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/cro-mag-rally-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/croc/</loc>
   </url><url>
@@ -1236,6 +1250,8 @@
   </url><url>
     <loc>http://localhost:1313/game/descent-3-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/descent-descent-ii-dxx-rebirth-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/destroy-all-humans/</loc>
   </url><url>
     <loc>http://localhost:1313/game/destroy-all-humans-path-of-the-furon-recompilation/</loc>
@@ -1269,6 +1285,8 @@
     <loc>http://localhost:1313/series/diablo/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diablo-3-xbox-360-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/diablo-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-decompilation/</loc>
   </url><url>
@@ -1348,6 +1366,8 @@
   </url><url>
     <loc>http://localhost:1313/game/doom-voxel-doom-replace-2d-sprites-with-3d-voxels/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/doom-webprboom-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/doom-2-project-brutality/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-2-voxel-doom-replace-2d-sprites-with-3d-voxels/</loc>
@@ -1355,6 +1375,8 @@
     <loc>http://localhost:1313/game/doom-2-rpg/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-3-bfg-edition-rbdoom3bfg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doom-3-demo-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-3-vr/</loc>
   </url><url>
@@ -1486,6 +1508,8 @@
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-3d-voxel-duke/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/duke-nukem-3d-belgian-chocolate-duke3d-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/duke-nukem-d-day-ps2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-zero-hour-recompilation/</loc>
@@ -1525,6 +1549,8 @@
     <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-pc-port-web-browser-build/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-recompilation-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-recompilation-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dust-racing-2d/</loc>
   </url><url>
@@ -1701,6 +1727,8 @@
     <loc>http://localhost:1313/game/fallout-community-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-community-edition-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fallout-nevada-sonora-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-new-vegas-enhanced-animations-3rd-person-movement/</loc>
   </url><url>
@@ -2194,6 +2222,8 @@
   </url><url>
     <loc>http://localhost:1313/game/half-life-2-no-more-room-in-hell/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/half-life-2-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/half-life-2-episode-two-raising-the-bar-redux/</loc>
   </url><url>
     <loc>http://localhost:1313/game/half-life-black-mesa-blue-shift-caretaking-update/</loc>
@@ -2293,6 +2323,8 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/series/homeworld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/homeworld-gardens-of-kadesh-demo-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/homeworld-2-classic-decompilation/</loc>
   </url><url>
@@ -3038,6 +3070,8 @@
   </url><url>
     <loc>http://localhost:1313/series/meritous/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/messenger/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/metal-gear/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-mega-drive-port/</loc>
@@ -3109,6 +3143,8 @@
     <loc>http://localhost:1313/series/might-and-magic/</loc>
   </url><url>
     <loc>http://localhost:1313/series/might-magic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/might-and-magic-ii-fheroes2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mighty-final-fight-forever/</loc>
   </url><url>
@@ -3912,6 +3948,8 @@
   </url><url>
     <loc>http://localhost:1313/game/portal-2-portal-stories-mel/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/portal-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/portal-still-alive-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/portal64-still-alive/</loc>
@@ -3939,6 +3977,8 @@
     <loc>http://localhost:1313/series/prince-of-persia/</loc>
   </url><url>
     <loc>http://localhost:1313/game/prince-of-persia-decked-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/prince-of-persia-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/prince-of-persia-original-trilogy-port/</loc>
   </url><url>
@@ -4023,6 +4063,10 @@
     <loc>http://localhost:1313/series/quake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-arcane-dimensions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quake-quake-wasm-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quake-2-quake-wasm2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-2-on-the-oculus-quest/</loc>
   </url><url>
@@ -5222,6 +5266,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-monkey-ball-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-monkey-ball-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-paper-mario-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/super-robot-taisen/</loc>
@@ -5434,6 +5480,8 @@
   </url><url>
     <loc>http://localhost:1313/game/tetris-browser-based/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/tetris-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tetris-rosy-retrospection-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tetrominos/</loc>
@@ -5482,6 +5530,8 @@
   </url><url>
     <loc>http://localhost:1313/series/the-elder-scrolls/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-elder-scrolls-iii-morrowind-openmw-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-elder-scrolls-travels-oblivion-psp/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-force-engine-dark-forces-reimplementation/</loc>
@@ -5515,6 +5565,8 @@
     <loc>http://localhost:1313/series/the-last-of-us/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-last-of-us-demake-browser-game/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-last-of-us-demake-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-last-remnant/</loc>
   </url><url>
@@ -5794,6 +5846,8 @@
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-chronicles-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/tomb-raider-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tomb-raider-n64-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomb-raider-vr/</loc>
@@ -5911,6 +5965,8 @@
     <loc>http://localhost:1313/game/ty-the-tasmanian-tiger-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tyrian/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tyrian-opentyrian-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ufo-alien-invasion/</loc>
   </url><url>
@@ -6175,6 +6231,8 @@
     <loc>http://localhost:1313/series/wipeout/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wipeout-dreamcast-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wipeout-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wipeout-phantom-edition-pc-port/</loc>
   </url><url>

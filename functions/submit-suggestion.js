@@ -157,6 +157,7 @@ function buildEmailHtml(suggestion, adminUrl) {
 const CATEGORY_LABELS = Object.freeze({
   "abandonware": "Abandonware",
   "android-ports": "Android Ports",
+  "browser-based": "Browser Based",
   "console-ports": "Console To Console Ports",
   "console-to-pc-port": "Console To PC Ports",
   "decompilations-recompilations": "Decompilations & Recompilations",
