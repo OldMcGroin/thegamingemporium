@@ -34881,6 +34881,84 @@
     "notes": "",
     "date_added": "2026-08-08",
     "image": ""
+  },
+    {
+    "id": 2673,
+    "title": "Cyberpunk 2077 VR",
+    "category": "vr-ports",
+    "link": "https://www.nexusmods.com/cyberpunk2077/mods/30093",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Cyberpunk 2077",
+    "video_link": "https://youtu.be/wXho2LdD1qo?si=S4RnYkSz19FfFj-h",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+    {
+    "id": 2674,
+    "title": "Call of Duty 4 Modern Warfare VR",
+    "category": "vr-ports",
+    "link": "https://github.com/jplakon/CallOfDuty4_VR/releases",
+    "genre1": "first-person-shooter",
+    "genre2": "action",
+    "series": "Call of Duty",
+    "video_link": "https://youtu.be/-taf3bGEnv8?si=joSXf82veiW8LSwb",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+    {
+    "id": 2675,
+    "title": "BioShock Remastered VR",
+    "category": "vr-ports",
+    "link": "https://github.com/mohamad-balouza/bioshock-vr",
+    "genre1": "first-person-shooter",
+    "genre2": "action",
+    "series": "BioShock",
+    "video_link": "https://youtu.be/LbP9ddrvbWw?si=4JxkLR2mox95WQR3",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+    {
+    "id": 2676,
+    "title": "Skyrim VR",
+    "category": "vr-ports",
+    "link": "https://www.nexusmods.com/skyrimspecialedition/mods/107333",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "The Elder Scrolls",
+    "video_link": "https://youtu.be/6CUWjjkBKi8?si=Yn3BmUE18Z-LJ_Vx",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+    {
+    "id": 2677,
+    "title": "Resident Evil Requiem VR",
+    "category": "vr-ports",
+    "link": "https://www.nexusmods.com/residentevilrequiem/mods/1017?tab=videos",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/FHADF5L3kqs?si=KmJLOLdPVp4pC2dT",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+    {
+    "id": 2678,
+    "title": "Silent Hill 2 VR",
+    "category": "vr-ports",
+    "link": "https://github.com/jbusfield/SH2_UEVR/releases/tag/v1.0.0",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Silent Hill",
+    "video_link": "https://youtu.be/XBFGM09MNfU?si=NTv7vRHbiQneG0Ib",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
   }
 
 
