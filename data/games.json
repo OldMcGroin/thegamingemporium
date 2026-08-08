@@ -29497,7 +29497,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-06-06",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 2261,
@@ -34518,7 +34519,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2645,
     "title": "Messenger",
     "category": "browser-based",
@@ -34531,7 +34532,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2646,
     "title": "Dungeon Keeper in Browser",
     "category": "browser-based",
@@ -34544,7 +34545,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2647,
     "title": "Dusklight - The Legend of Zelda Twilight Princess Recompilation in Browser",
     "category": "browser-based",
@@ -34557,7 +34558,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2648,
     "title": "The Elder Scrolls III Morrowind – OpenMW in Browser",
     "category": "browser-based",
@@ -34570,7 +34571,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2649,
     "title": "Half-Life 2 in Browser",
     "category": "browser-based",
@@ -34583,7 +34584,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2650,
     "title": "Portal in Browser",
     "category": "browser-based",
@@ -34596,7 +34597,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2651,
     "title": "Diablo in Browser",
     "category": "browser-based",
@@ -34609,7 +34610,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2652,
     "title": "3D Pinball Space Cadet in Browser",
     "category": "browser-based",
@@ -34622,7 +34623,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2653,
     "title": "Wipeout in Browser",
     "category": "browser-based",
@@ -34635,7 +34636,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2654,
     "title": "Doom – WebPrBoom in Browser",
     "category": "browser-based",
@@ -34648,7 +34649,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2655,
     "title": "Doom 3 Demo in Browser",
     "category": "browser-based",
@@ -34661,7 +34662,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2656,
     "title": "Quake – Quake WASM in Browser",
     "category": "browser-based",
@@ -34674,7 +34675,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2657,
     "title": "Quake 2 – Quake WASM2 in Browser",
     "category": "browser-based",
@@ -34687,7 +34688,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2658,
     "title": "Arx Fatalis – Arxwasm Demo in Browser",
     "category": "browser-based",
@@ -34700,7 +34701,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2659,
     "title": "Homeworld - Gardens of Kadesh Demo in Browser",
     "category": "browser-based",
@@ -34713,7 +34714,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2660,
     "title": "Cave Story in Browser",
     "category": "browser-based",
@@ -34726,7 +34727,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2661,
     "title": "Commander Keen in Browser",
     "category": "browser-based",
@@ -34739,7 +34740,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2662,
     "title": "Cro-Mag Rally in Browser",
     "category": "browser-based",
@@ -34752,7 +34753,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2663,
     "title": "Descent Descent II – DXX-Rebirth in Browser",
     "category": "browser-based",
@@ -34765,7 +34766,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2664,
     "title": "Duke Nukem 3D – Belgian Chocolate Duke3D in Browser",
     "category": "browser-based",
@@ -34778,7 +34779,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2665,
     "title": "Fallout Nevada Sonora in Browser",
     "category": "browser-based",
@@ -34791,7 +34792,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2666,
     "title": "Might and Magic II - fheroes2 in Browser",
     "category": "browser-based",
@@ -34804,7 +34805,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2667,
     "title": "Prince of Persia in Browser",
     "category": "browser-based",
@@ -34817,7 +34818,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2668,
     "title": "Tyrian – OpenTyrian in Browser",
     "category": "browser-based",
@@ -34830,7 +34831,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2669,
     "title": "Tomb Raider in Browser",
     "category": "browser-based",
@@ -34843,7 +34844,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2670,
     "title": "Super Monkey Ball in Browser",
     "category": "browser-based",
@@ -34856,7 +34857,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2671,
     "title": "Tetris in Browser",
     "category": "browser-based",
@@ -34869,7 +34870,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2672,
     "title": "The Last of Us Demake in Browser",
     "category": "browser-based",
@@ -34882,7 +34883,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2673,
     "title": "Cyberpunk 2077 VR",
     "category": "vr-ports",
@@ -34895,7 +34896,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2674,
     "title": "Call of Duty 4 Modern Warfare VR",
     "category": "vr-ports",
@@ -34908,7 +34909,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2675,
     "title": "BioShock Remastered VR",
     "category": "vr-ports",
@@ -34921,7 +34922,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2676,
     "title": "Skyrim VR",
     "category": "vr-ports",
@@ -34934,7 +34935,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2677,
     "title": "Resident Evil Requiem VR",
     "category": "vr-ports",
@@ -34947,7 +34948,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2678,
     "title": "Silent Hill 2 VR",
     "category": "vr-ports",
@@ -34959,8 +34960,18 @@
     "notes": "",
     "date_added": "2026-08-08",
     "image": ""
+  },
+  {
+    "id": 2679,
+    "title": "Eternal Sonata Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/birabittoh/EternalSonataReprise",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Eternal Sonata",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-09",
+    "image": ""
   }
-
-
-
 ]
