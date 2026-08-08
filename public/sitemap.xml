@@ -3042,11 +3042,15 @@
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-msx2-msx/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/metal-gear-solid/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-2-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-3-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/metal-gear-solid-fan-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-v-the-phantom-pain-ground-zeroes/</loc>
   </url><url>
@@ -5537,6 +5541,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-majoras-mask-wii-u-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-hero-of-law/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</loc>
   </url><url>

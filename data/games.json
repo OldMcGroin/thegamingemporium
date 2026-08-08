@@ -34346,8 +34346,7 @@
     "video_link": "https://youtu.be/d1q3R3IZ8EQ?si=QqjfH0eHGBTon70p",
     "notes": "",
     "date_added": "2026-08-07",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 2633,
@@ -34413,5 +34412,35 @@
     "notes": "",
     "date_added": "2026-08-07",
     "image": ""
+  },
+  {
+    "id": 2638,
+    "title": "Metal Gear Solid Fan Remake",
+    "category": "fan-games",
+    "link": "https://youtu.be/VgvFT43zUYI?si=y7qVvSA_xKXbZ4kd",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Metal Gear Solid",
+    "video_link": "https://youtu.be/VgvFT43zUYI?si=7o7duUwIiAVAYPBC",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
+  },
+  {
+    "id": 2639,
+    "title": "The Legend of Zelda Ocarina of Time VR",
+    "category": "vr-ports",
+    "link": "https://github.com/ShinyWindow/Shipwright-VR",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/fzhbhrotI1Q?si=liBA70CPP0BQmQaP",
+    "notes": "",
+    "date_added": "2026-08-08",
+    "image": ""
   }
+
+
+
+
 ]
