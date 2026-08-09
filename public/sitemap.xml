@@ -672,6 +672,8 @@
   </url><url>
     <loc>http://localhost:1313/game/call-of-duty-4-modern-warfare-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/call-to-power/</loc>
@@ -929,6 +931,8 @@
     <loc>http://localhost:1313/series/command-conquer/</loc>
   </url><url>
     <loc>http://localhost:1313/game/command-conquer-combined-arms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/command-conquer-generals-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/command-conquer-red-alert-2-mental-omega/</loc>
   </url><url>
@@ -1368,6 +1372,8 @@
   </url><url>
     <loc>http://localhost:1313/game/donkey-kong-land-dx/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/donkey-kong-land-pc-remake/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/doom/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-voxel-doom-replace-2d-sprites-with-3d-voxels/</loc>
@@ -1377,6 +1383,8 @@
     <loc>http://localhost:1313/game/doom-2-project-brutality/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-2-voxel-doom-replace-2d-sprites-with-3d-voxels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doom-2-in-doom-3/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-2-rpg/</loc>
   </url><url>
@@ -5603,6 +5611,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-allhallows-eve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-breath-of-the-wild-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-majora-s-mask-recompilation-for-android/</loc>
   </url><url>
