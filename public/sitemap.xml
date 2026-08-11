@@ -1300,6 +1300,8 @@
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/diddy-kong-racing-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-webgpu-android-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/die-hard/</loc>
@@ -1688,9 +1690,13 @@
   </url><url>
     <loc>http://localhost:1313/game/f-zero-x-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/f-zero-x-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/f-e-a-r/</loc>
   </url><url>
     <loc>http://localhost:1313/game/f-e-a-r-echo-patch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/f-e-a-r-2-project-origin-vr-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/series/f1/</loc>
   </url><url>
@@ -5358,6 +5364,8 @@
   </url><url>
     <loc>http://localhost:1313/game/surging-aura-sega-megadrive/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/surreal-engine-web-unreal-ut99-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/survival-horror/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/survival-horror-l/</loc>
@@ -6479,5 +6487,7 @@
     <loc>http://localhost:1313/game/zquest-classic-zelda/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zquest-classic-zelda-quest-lists/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zquest-classic-in-browser/</loc>
   </url>
 </urlset>

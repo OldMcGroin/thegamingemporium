@@ -35037,7 +35037,73 @@
     "notes": "",
     "date_added": "2026-08-09",
     "image": ""
+  },
+    {
+    "id": 2685,
+    "title": "ZQuest Classic in Browser",
+    "category": "browser-based",
+    "link": "https://web.zquestclassic.com/play/",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-10",
+    "image": ""
+  },
+    {
+    "id": 2686,
+    "title": "Surreal Engine Web – Unreal UT99 in Browser",
+    "category": "browser-based",
+    "link": "https://demensdeum.com/demos/SurrealEngine/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Unreal",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-10",
+    "image": ""
+  },
+    {
+    "id": 2687,
+    "title": "F-Zero X PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Zorkats/G-Diffuser",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "F-Zero",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-10",
+    "image": ""
+  },
+    {
+    "id": 2688,
+    "title": "Diddy Kong Racing Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ThatGuyMcd/DKR-R",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Donkey Kong",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-11",
+    "image": ""
+  },
+    {
+    "id": 2689,
+    "title": "F.E.A.R. 2: Project Origin VR Mod",
+    "category": "vr-ports",
+    "link": "https://github.com/praydog/FEAR2VR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Fear",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-11",
+    "image": ""
   }
+
 
 
 
