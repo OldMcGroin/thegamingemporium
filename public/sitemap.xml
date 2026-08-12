@@ -58,6 +58,8 @@
   </url><url>
     <loc>http://localhost:1313/series/ace-combat/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ace-combat-6-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/ace-combat-6-fires-of-liberation-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ace-driver-arcade-emulator-for-xbox-360/</loc>
@@ -429,6 +431,8 @@
     <loc>http://localhost:1313/game/battle-stormer-classics/</loc>
   </url><url>
     <loc>http://localhost:1313/series/battlefield/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/battlefield-1942-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/battlefield-1942-desert-combat/</loc>
   </url><url>
@@ -3134,6 +3138,8 @@
   </url><url>
     <loc>http://localhost:1313/game/metroid-prime-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/metroid-prime-origins/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/metroid-snes-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metroid-super-zero-mission/</loc>
@@ -3859,6 +3865,10 @@
     <loc>http://localhost:1313/game/pokemon-gadir-deluxe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-gamma-emerald/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-gold-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-gold-port-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-heartgold-soulsilver-decompilation/</loc>
   </url><url>
@@ -4816,6 +4826,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-the-hedgehog-2013-and-sonic-the-hedgehog-2-2013-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-the-hedgehog-2006-android-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-the-hedgehog-forever-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-the-hedgehog-rpg/</loc>
@@ -5163,6 +5175,8 @@
     <loc>http://localhost:1313/game/super-mario-64-android-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-co-op-deluxe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-ds-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-nintendo-ds-port-with-multiplayer/</loc>
   </url><url>
@@ -5701,6 +5715,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-twilight-princess-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-voyager-of-time/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-z-for-2-two-player-simultaneous-co-op/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-lengend-of-zelda/</loc>
   </url><url>
