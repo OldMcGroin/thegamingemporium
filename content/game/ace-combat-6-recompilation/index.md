@@ -4,7 +4,7 @@ url: "/game/ace-combat-6-recompilation/"
 type: game
 params:
   external_link: "https://github.com/sal063/AC6_recomp"
-  category: "decompilations-recompilstions"
+  category: "decompilations-recompilations"
   genre1: "combat-flight-simulator"
   genre2: ""
   series: "Ace Combat"

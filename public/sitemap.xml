@@ -12,6 +12,8 @@
   </url><url>
     <loc>http://localhost:1313/game/1-obtainium/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/1-the-multiverse-vr-hub/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/1080-snowboarding/</loc>
   </url><url>
     <loc>http://localhost:1313/game/1080-snowboarding-decompilation/</loc>
@@ -2908,6 +2910,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mario-kart-64-3ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-recompilation/</loc>
@@ -4962,6 +4966,8 @@
   </url><url>
     <loc>http://localhost:1313/game/spyro-the-dragon-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/spyro-the-dragon-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/squid-games/</loc>
   </url><url>
     <loc>http://localhost:1313/game/squid-games-gameboy-fan-game/</loc>
@@ -5087,6 +5093,8 @@
     <loc>http://localhost:1313/series/stratosphere-conquest-of-the-skies/</loc>
   </url><url>
     <loc>http://localhost:1313/series/street-fighter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/street-fighter-aplha-3-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-decompilation/</loc>
   </url><url>
@@ -5654,6 +5662,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-spirit-tracks-d-pad-controls/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-3ds-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</loc>
@@ -6002,6 +6012,8 @@
   </url><url>
     <loc>http://localhost:1313/series/twisted-metal/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/twisted-metal-4-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/twisted-metal-black-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/twisted-metal-decompilation/</loc>
@@ -6075,6 +6087,8 @@
     <loc>http://localhost:1313/game/unreal-tournament-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unreal-tournament-vr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/untitled-sonic-fangame/</loc>
   </url><url>
     <loc>http://localhost:1313/series/unturned/</loc>
   </url><url>
@@ -6459,6 +6473,10 @@
     <loc>http://localhost:1313/series/zenless-zone-zero/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zenless-zone-zero-on-steam-deck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/zenonia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zenonia-3-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zero-k/</loc>
   </url><url>

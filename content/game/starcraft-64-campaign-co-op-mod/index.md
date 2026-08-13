@@ -4,7 +4,7 @@ url: "/game/starcraft-64-campaign-co-op-mod/"
 type: game
 params:
   external_link: "https://github.com/Tokatta007/Starcraft-64-Co-Op-Mod"
-  category: "romhacks"
+  category: "rom-hacks"
   genre1: "strategy"
   genre2: ""
   series: "StarCraft"

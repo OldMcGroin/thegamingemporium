@@ -31621,7 +31621,7 @@
   {
     "id": 2423,
     "title": "StarCraft 64 Campaign Co-Op Mod",
-    "category": "romhacks",
+    "category": "rom-hacks",
     "link": "https://github.com/Tokatta007/Starcraft-64-Co-Op-Mod",
     "genre1": "strategy",
     "genre2": "",
@@ -35197,7 +35197,7 @@
     {
     "id": 2696,
     "title": "Ace Combat 6 Recompilation",
-    "category": "decompilations-recompilstions",
+    "category": "decompilations-recompilations",
     "link": "https://github.com/sal063/AC6_recomp",
     "genre1": "combat-flight-simulator",
     "genre2": "",
@@ -35232,8 +35232,111 @@
     "notes": "",
     "date_added": "2026-08-13",
     "image": ""
+  },
+    {
+    "id": 2699,
+    "title": "Spyro the Dragon Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://openpete.com/",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Spyro the Dragon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2700,
+    "title": "Twisted Metal 4 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TechnicallyComputers/TwistedMetal4Recomp",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "Twisted Metal",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2701,
+    "title": "The Legend of Zelda The Minish Cap 3DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/EstebanPdN/zelda-tmc-3ds",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2702,
+    "title": "1 The Multiverse VR Hub",
+    "category": "vr-ports",
+    "link": "https://github.com/RaYRoD-TV/MVRH",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2703,
+    "title": "Untitled Sonic Fangame",
+    "category": "fan-games",
+    "link": "https://liquafusion.itch.io/untitled-sonic-fangame",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "https://youtu.be/SWgBKfkkSdE?si=k4aQhcOFAEYtMowM",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2704,
+    "title": "Mario Kart 64 3DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/EstebanPdN/mario-kart-64-3ds",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2705,
+    "title": "Street Fighter Aplha 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Street Fighter",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
+  },
+    {
+    "id": 2706,
+    "title": "Zenonia 3 PS Vita Port",
+    "category": "console-ports",
+    "link": "https://github.com/MetalSyntax/zenonia3-psvita-port",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Zenonia",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-13",
+    "image": ""
   }
-
 
 
 
