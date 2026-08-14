@@ -64,6 +64,8 @@
   </url><url>
     <loc>http://localhost:1313/game/ace-combat-6-fires-of-liberation-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ace-combat-x-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/ace-driver-arcade-emulator-for-xbox-360/</loc>
   </url><url>
     <loc>http://localhost:1313/game/acemulator-asheron-s-call-server-emulator/</loc>
@@ -2216,6 +2218,8 @@
   </url><url>
     <loc>http://localhost:1313/game/gta-vice-city-actual-nextgen-edition-modpack/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/gta-vice-city-stories-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/guides/</loc>
   </url><url>
     <loc>http://localhost:1313/series/guilty-gear/</loc>
@@ -2337,6 +2341,10 @@
     <loc>http://localhost:1313/series/heroes-over-europe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hidden-palace-archive-of-playable-unreleased-games-prototypes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/hissatsu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/hissatsu-sega-saturn/</loc>
   </url><url>
     <loc>http://localhost:1313/series/hollow-knight/</loc>
   </url><url>
@@ -3851,6 +3859,8 @@
     <loc>http://localhost:1313/game/pokemon-aether-white-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-battle-revolution-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-blue-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-brown-3d/</loc>
   </url><url>
@@ -5452,6 +5462,10 @@
   </url><url>
     <loc>http://localhost:1313/game/tales-of-rebirth-playstation-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/tama/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tama-adventurous-ball-in-giddy-labyrinth-sega-saturn/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tango-mega-man-battle-network-with-rollback-netcode/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tanks-rebirth/</loc>
@@ -6325,6 +6339,8 @@
     <loc>http://localhost:1313/game/wonder-trek-playstation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/world-of-padman/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/world-of-warcraft-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/world-racing/</loc>
   </url><url>

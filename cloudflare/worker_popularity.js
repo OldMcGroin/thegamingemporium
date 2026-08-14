@@ -3,7 +3,6 @@
  *
  * Routes:
  *  - GET  /api/click?id=<game-id>
- *  - GET  /api/view?id=<game-id>
  *  - GET  /api/top?mode=trending|all&days=7&limit=10
  */
 
@@ -42,21 +41,6 @@ export default {
            VALUES (date('now'), ?1, 1, 0)
            ON CONFLICT(day, id) DO UPDATE SET
              clicks = clicks + 1`
-        ).bind(id).run();
-
-        return json({ ok: true }, 200, corsHeaders);
-      }
-
-      if (url.pathname === "/api/view") {
-        const id = (url.searchParams.get("id") || "").trim();
-        if (!id) return json({ ok: false, error: "missing_id" }, 400, corsHeaders);
-
-        // Views are stored only in the daily table (used for future tweaks)
-        await env.DB.prepare(
-          `INSERT INTO events_daily (day, id, clicks, views)
-           VALUES (date('now'), ?1, 0, 1)
-           ON CONFLICT(day, id) DO UPDATE SET
-             views = views + 1`
         ).bind(id).run();
 
         return json({ ok: true }, 200, corsHeaders);

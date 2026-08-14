@@ -547,63 +547,8 @@ function initGameGrids(){
     // Best-effort: never block navigation.
     var lastSent = Object.create(null);
 
-    // Session-level de-duplication for impressions (views)
-    var seenKey = 'tge_seen_game_impressions_v1';
-    var seen = Object.create(null);
-    try {
-      var raw = sessionStorage.getItem(seenKey);
-      if(raw){
-        var arr = JSON.parse(raw);
-        if(Array.isArray(arr)){
-          for(var i=0;i<arr.length;i++) seen[arr[i]] = true;
-        }
-      }
-    } catch(e) {}
-
-    function rememberSeen(id){
-      try {
-        var arr = Object.keys(seen);
-        // Keep it small so sessionStorage doesn't grow forever
-        if(arr.length > 600){
-          arr = arr.slice(arr.length - 600);
-        }
-        sessionStorage.setItem(seenKey, JSON.stringify(arr));
-      } catch(e) {}
-    }
-
-    // Impressions: count a view when a game card is meaningfully visible.
-    // This makes "Trending" update even when users browse without clicking.
-    try {
-      if('IntersectionObserver' in window){
-        var io = new IntersectionObserver(function(entries){
-          for(var i=0;i<entries.length;i++){
-            var ent = entries[i];
-            if(!ent.isIntersecting || ent.intersectionRatio < 0.6) continue;
-            var card = ent.target;
-            io.unobserve(card);
-            var link = card.querySelector && card.querySelector('a.game-card__link');
-            if(!link) continue;
-            var id = (link.getAttribute('data-game-id') || '').trim();
-            if(!id){
-              var titleEl = link.querySelector('.game-card__title');
-              if(titleEl) id = slugifyTitle(titleEl.textContent);
-            }
-            if(!id || seen[id]) continue;
-            seen[id] = true;
-            rememberSeen(id);
-            var urlV = '/api/view?id=' + encodeURIComponent(id);
-            try {
-              if(navigator.sendBeacon){ navigator.sendBeacon(urlV); }
-              else fetch(urlV, { method: 'GET', keepalive: true }).catch(function(){});
-            } catch(e) {}
-          }
-        }, { threshold: [0.6] });
-
-        // Only observe real game cards (not the home carousel cards)
-        var cards = document.querySelectorAll('.game-card');
-        for(var j=0;j<cards.length;j++) io.observe(cards[j]);
-      }
-    } catch(e) {}
+    // Popularity is click-based only.
+    // Do not send card-impression/view requests: they can generate huge Worker traffic.
 
     document.addEventListener('click', function(e){
       var a = e.target && e.target.closest ? e.target.closest('a.game-card__link') : null;

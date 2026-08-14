@@ -35349,6 +35349,84 @@
     "notes": "",
     "date_added": "2026-08-14",
     "image": ""
+  },
+    {
+    "id": 2708,
+    "title": "World of Warcraft for Android",
+    "category": "android-ports",
+    "link": "https://github.com/marcocastignoli/wow-mobile",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Warcraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2709,
+    "title": "Ace Combat X Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sal063/Ace-Combat-X-Recompilation",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "series": "Ace Combat",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2710,
+    "title": "GTA: Vice City Stories Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jessicanataliagta/PSPRecomp/tree/main/profiles/vcs",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2711,
+    "title": "Tama: Adventurous Ball in Giddy Labyrinth - Sega Saturn",
+    "category": "english-translation-patches",
+    "link": "https://github.com/ExxistanceDC/Tama-English-Translation",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Tama",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2712,
+    "title": "Hissatsu! - Sega Saturn",
+    "category": "english-translation-patches",
+    "link": "https://github.com/ExxistanceDC/Hissatsu-English-Translation",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Hissatsu!",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2713,
+    "title": "Pokemon Blue VR",
+    "category": "vr-ports",
+    "link": "https://youtu.be/oY_3Uvyjy_k?si=xjiXCeK6Tx15zW20",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "https://youtu.be/oY_3Uvyjy_k?si=xjiXCeK6Tx15zW20",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
   }
 
 

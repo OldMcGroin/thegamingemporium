@@ -34,3 +34,14 @@ Then **Deploy**.
 
 Both should return JSON with `{ ok: true, top: [...] }`.
 
+## Worker routes (important)
+
+Popularity is click-based only. The site no longer calls `/api/view`.
+
+If you use Cloudflare Worker Routes, do **not** route a broad `/api/*` pattern to the popularity Worker. Route only the endpoints it needs:
+
+- `thegamingemporium.com/api/click*`
+- `thegamingemporium.com/api/top*`
+
+This prevents unrelated API requests from consuming the popularity Worker's request quota.
+
