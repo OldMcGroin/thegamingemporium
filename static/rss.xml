@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 14 Aug 2026 18:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:41:17 +0000</lastBuildDate>
     <item>
       <title>Crash Bandicoot for Android</title>
       <link>https://thegamingemporium.com/game/crash-bandicoot-for-android/</link>
@@ -82,6 +82,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-blue-vr.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-blue-vr.webp" alt="Pokemon Blue VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Pokemon · Genre: rpg, creature collector]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-blue-vr.webp" alt="Pokemon Blue VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Pokemon · Genre: rpg, creature collector]]></content:encoded>
+    </item>
+    <item>
+      <title>Ridge Racer Collection</title>
+      <link>https://thegamingemporium.com/game/ridge-racer-collection/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ridge-racer-collection/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ridge-racer-collection.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ridge-racer-collection.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ridge-racer-collection.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ridge-racer-collection.webp" alt="Ridge Racer Collection" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Ridge Racer · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ridge-racer-collection.webp" alt="Ridge Racer Collection" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Ridge Racer · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Spaghetti Kart - Mario Kart 64 PC Port Track Editor</title>
+      <link>https://thegamingemporium.com/game/spaghetti-kart-mario-kart-64-pc-port-track-editor/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/spaghetti-kart-mario-kart-64-pc-port-track-editor/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-pc-port-track-editor.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-pc-port-track-editor.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-pc-port-track-editor.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-pc-port-track-editor.webp" alt="Spaghetti Kart - Mario Kart 64 PC Port Track Editor" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: racing, utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spaghetti-kart-mario-kart-64-pc-port-track-editor.webp" alt="Spaghetti Kart - Mario Kart 64 PC Port Track Editor" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: racing, utility]]></content:encoded>
     </item>
     <item>
       <title>Super Mario 64 DS PC Port</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/half-life-2-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/half-life-2-in-browser.webp" alt="Half-Life 2 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Half Life · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/half-life-2-in-browser.webp" alt="Half-Life 2 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Half Life · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Portal in Browser</title>
-      <link>https://thegamingemporium.com/game/portal-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/portal-in-browser/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/portal-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/portal-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/portal-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portal-in-browser.webp" alt="Portal in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Portal · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portal-in-browser.webp" alt="Portal in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Portal · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>Diablo in Browser</title>
-      <link>https://thegamingemporium.com/game/diablo-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/diablo-in-browser/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/diablo-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/diablo-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/diablo-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diablo-in-browser.webp" alt="Diablo in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Diablo · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diablo-in-browser.webp" alt="Diablo in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Diablo · Genre: rpg, action]]></content:encoded>
     </item>
   </channel>
 </rss>

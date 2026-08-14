@@ -35427,6 +35427,45 @@
     "notes": "",
     "date_added": "2026-08-14",
     "image": ""
+  },
+    {
+    "id": 2714,
+    "title": "Ridge Racer Collection",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/wanszai/Ridge-Racer-Collection",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Ridge Racer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2715,
+    "title": "Spaghetti Kart - Mario Kart 64 PC Port Track Editor",
+    "category": "decompilations-recompilations",
+    "link": "https://trackeditor.goodhouseinc.com/",
+    "genre1": "racing",
+    "genre2": "utility",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2716,
+    "title": "Baldur's Gate II: Enhanced Edition PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1454",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Baldur's Gate",
+    "video_link": "",
+    "notes": "",
+    "date_added": "",
+    "image": ""
   }
 
 
