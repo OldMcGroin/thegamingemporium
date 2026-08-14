@@ -37,6 +37,8 @@
       <select data-sort>
         <option value="az">Title (A to Z)</option>
         <option value="za">Title (Z to A)</option>
+        <option value="newest">Newest Added</option>
+        <option value="oldest">Oldest Added</option>
       </select>
       </div>
     <div class="control">
@@ -50,8 +52,19 @@
   </div>
 </div>
     </div>
+    <div class="control">
+      <label>Added</label>
+      <select data-added-filter>
+        <option value="">Any time</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last 30 days</option>
+        <option value="90">Last 3 months</option>
+        <option value="365">Last year</option>
+      </select>
+    </div>
   </div>
 
+  <div class="filter-summary" data-filter-summary aria-live="polite"></div>
   <div class="game-grid">
     {{ if gt (len $games) 0 }}
       {{ range $games }}

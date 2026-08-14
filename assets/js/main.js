@@ -157,6 +157,12 @@ function initGameGrids(){
         var genreDropdownToggle = wrapper.querySelector('[data-genre-dropdown-toggle]');
         var genreDropdownPanel  = wrapper.querySelector('[data-genre-dropdown-panel]');
         var sortSelect  = wrapper.querySelector('select[data-sort]');
+        var addedFilter = wrapper.querySelector('select[data-added-filter]');
+        var filterSummary = wrapper.querySelector('[data-filter-summary]');
+        var loadMoreBtn = wrapper.querySelector('[data-load-more]');
+        var loadMoreWrap = wrapper.querySelector('[data-load-more-wrap]');
+        var pageSize = parseInt(wrapper.getAttribute('data-page-size') || '0', 10) || 0;
+        var visibleLimit = pageSize;
 
         // Category filter (chips / dropdown)
         var categorySelect = wrapper.querySelector('select[data-category]');
@@ -408,6 +414,26 @@ function initGameGrids(){
           });
         }
 
+        function __parseCardDate(card){
+          var raw = (card.getAttribute('data-date-added') || '').trim();
+          if(!raw) return null;
+          var d = new Date(raw + 'T00:00:00');
+          return isNaN(d.getTime()) ? null : d;
+        }
+
+        function __passesAddedFilter(card){
+          if(!addedFilter || !addedFilter.value) return true;
+          var days = parseInt(addedFilter.value, 10);
+          if(!days) return true;
+          var d = __parseCardDate(card);
+          if(!d) return false;
+          var now = new Date();
+          now.setHours(23,59,59,999);
+          var cutoff = new Date(now);
+          cutoff.setDate(cutoff.getDate() - days);
+          return d >= cutoff && d <= now;
+        }
+
         function applyFilter(){
           // Determine active genre filter
           var wantedGenres = genreChips ? Array.from(selectedGenres) : [];
@@ -417,6 +443,7 @@ function initGameGrids(){
           var wantedCategories = categoryChips ? Array.from(selectedCategories) : [];
           var selectedCategory = (!categoryChips && categorySelect) ? (categorySelect.value || '') : '';
 
+          var matches = [];
           cards.forEach(function(card){
             var gAttr = (card.getAttribute('data-genres')||"");
             var cardGenres = gAttr.split('|').map(function(x){ return x.trim(); }).filter(Boolean);
@@ -436,9 +463,25 @@ function initGameGrids(){
               showCategory = cardCategory === selectedCategory;
             }
 
-            var show = showGenre && showCategory;
-            card.style.display = show ? '' : 'none';
+            if(showGenre && showCategory && __passesAddedFilter(card)) matches.push(card);
           });
+
+          var showCount = pageSize ? Math.min(visibleLimit, matches.length) : matches.length;
+          cards.forEach(function(card){ card.style.display = 'none'; });
+          matches.slice(0, showCount).forEach(function(card){ card.style.display = ''; });
+
+          if(filterSummary){
+            var total = cards.length;
+            var text = 'Showing ' + showCount + ' of ' + matches.length;
+            if(matches.length === total) text = 'Showing ' + showCount + ' of ' + total;
+            filterSummary.textContent = text + (matches.length === 1 ? ' game' : ' games');
+          }
+
+          if(loadMoreWrap && loadMoreBtn){
+            var hasMore = pageSize && showCount < matches.length;
+            loadMoreWrap.hidden = !hasMore;
+            if(hasMore) loadMoreBtn.textContent = 'Load More (' + (matches.length - showCount) + ' remaining)';
+          }
         }
 
         function applySort(){
@@ -446,21 +489,40 @@ function initGameGrids(){
           var mode = sortSelect.value || 'az';
           var visibleCards = cards.slice();
           visibleCards.sort(function(a,b){
+            var ta = (a.getAttribute('data-title')||'').toLowerCase();
+            var tb = (b.getAttribute('data-title')||'').toLowerCase();
+
+            if(mode === 'newest' || mode === 'oldest'){
+              var da = __parseCardDate(a);
+              var db = __parseCardDate(b);
+              // Missing dates always go below dated entries.
+              if(da && !db) return -1;
+              if(!da && db) return 1;
+              if(da && db){
+                var dateCmp = da.getTime() - db.getTime();
+                if(dateCmp !== 0) return mode === 'newest' ? -dateCmp : dateCmp;
+              }
+              return ta.localeCompare(tb);
+            }
+
             var wa = __getCardWeight(a);
             var wb = __getCardWeight(b);
             if(wa !== wb) return wa - wb;
-
-            var ta = (a.getAttribute('data-title')||'').toLowerCase();
-            var tb = (b.getAttribute('data-title')||'').toLowerCase();
             var cmp = ta.localeCompare(tb);
             return mode === 'za' ? -cmp : cmp;
           });
           visibleCards.forEach(function(c){ grid.appendChild(c); });
+          applyFilter();
         }
 
         if(genreSelect){ genreSelect.addEventListener('change', function(){ applyFilter(); }); }
-        if(categorySelect){ categorySelect.addEventListener('change', function(){ applyFilter(); }); }
+        if(categorySelect){ categorySelect.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
+        if(addedFilter){ addedFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
+        if(loadMoreBtn){ loadMoreBtn.addEventListener('click', function(){ visibleLimit += pageSize; applyFilter(); }); }
+
+        if(genreChips){ genreChips.addEventListener('click', function(){ visibleLimit = pageSize; }, true); }
+        if(categoryChips){ categoryChips.addEventListener('click', function(){ visibleLimit = pageSize; }, true); }
 
         // initial
         if(genreChips){ buildChips();

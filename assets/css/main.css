@@ -212,6 +212,36 @@ select{
   min-width: 200px;
 }
 
+
+.filter-summary{
+  min-height: 20px;
+  margin: -4px 0 14px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+.load-more-wrap{
+  display:flex;
+  justify-content:center;
+  margin: 24px 0 8px;
+}
+.load-more-wrap[hidden]{ display:none; }
+.load-more-btn{
+  appearance:none;
+  border-radius:999px;
+  padding: 11px 20px;
+  border:1px solid rgba(255,255,255,0.22);
+  background:rgba(0,0,0,0.45);
+  color:var(--text);
+  font-weight:800;
+  cursor:pointer;
+}
+.load-more-btn:hover{ border-color:rgba(255,215,0,0.75); }
+html[data-theme="light"] .load-more-btn{
+  background:rgba(255,255,255,0.7);
+  border-color:rgba(0,0,0,0.18);
+}
+
 /* Genre filter chips (used on Abandonware) */
 .genre-chips{
   display:flex;
