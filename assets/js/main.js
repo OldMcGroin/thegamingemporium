@@ -645,17 +645,26 @@ function initGameGrids(){
     var root = document.querySelector('[data-category-popular]');
     if(!root) return;
 
-    var dataEl = root.querySelector('[data-category-popular-games]');
     var list = root.querySelector('[data-category-popular-list]');
     var msg = root.querySelector('[data-category-popular-msg]');
     var updated = root.querySelector('[data-category-popular-updated]');
     var tabs = Array.prototype.slice.call(root.querySelectorAll('[data-category-popular-mode]'));
-    if(!dataEl || !list) return;
+    if(!list) return;
 
-    var games = [];
-    try { games = JSON.parse(dataEl.textContent || '[]'); } catch(e) { games = []; }
+    // Build the category ID list directly from the rendered game cards.
+    // These data-game-id values are the exact same IDs used by click tracking,
+    // so Popular Picks cannot drift out of sync with the D1 counter IDs.
     var byId = Object.create(null);
-    games.forEach(function(g){ if(g && g.id) byId[String(g.id)] = g; });
+    Array.prototype.slice.call(document.querySelectorAll('[data-game-grid] a.game-card__link[data-game-id]')).forEach(function(a){
+      var id = (a.getAttribute('data-game-id') || '').trim();
+      if(!id) return;
+      var titleEl = a.querySelector('.game-card__title');
+      byId[id] = {
+        id: id,
+        title: titleEl ? titleEl.textContent.trim() : id,
+        url: a.href || a.getAttribute('href') || '#'
+      };
+    });
     var ids = Object.keys(byId);
     var mode = 'trending';
 
