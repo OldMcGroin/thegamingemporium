@@ -1934,6 +1934,8 @@
   </url><url>
     <loc>http://localhost:1313/game/five-nights-at-freddy-s-3-wii-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/five-nights-at-frickbear-s-3/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/flare/</loc>
   </url><url>
     <loc>http://localhost:1313/series/flare/</loc>
@@ -2352,6 +2354,8 @@
   </url><url>
     <loc>http://localhost:1313/game/hollow-knight-android-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/hollow-knight-silksong-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/hollow-knight-silksong-multiplayer-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/holocure/</loc>
@@ -2525,6 +2529,8 @@
     <loc>http://localhost:1313/series/jazz-jackrabbit/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jazz-resurrection-native-pc-port-jazz-jackrabbit-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jeb-s-legend-of-zelda/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jedi-knight-dark-forces-2-unreal-engine/</loc>
   </url><url>
@@ -3663,6 +3669,8 @@
     <loc>http://localhost:1313/series/ougon-no-kizuna/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ougon-no-kizuna-wii/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/outertale-project-spacetime/</loc>
   </url><url>
     <loc>http://localhost:1313/series/outrun/</loc>
   </url><url>

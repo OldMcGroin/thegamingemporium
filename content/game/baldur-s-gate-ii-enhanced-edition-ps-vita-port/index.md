@@ -9,7 +9,7 @@ params:
   genre2: ""
   series: "Baldur's Gate"
   video_link: ""
-  date_added: ""
+  date_added: "2026-08-14"
   image: ""
 ---
 

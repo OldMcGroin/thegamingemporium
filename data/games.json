@@ -35464,7 +35464,59 @@
     "series": "Baldur's Gate",
     "video_link": "",
     "notes": "",
-    "date_added": "",
+    "date_added": "2026-08-14",
+    "image": ""
+  },
+    {
+    "id": 2717,
+    "title": "Hollow Knight: Silksong for Android",
+    "category": "android-ports",
+    "link": "https://apkvision.org/games/action/hollow-knight-silksong-130787/",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Hollow Knight",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+    {
+    "id": 2718,
+    "title": "Jeb's Legend of Zelda",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/jzelda_woohoo/1043660",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+    {
+    "id": 2719,
+    "title": "Outertale - Project Spacetime",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/outertale/643082",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+    {
+    "id": 2720,
+    "title": "Five Nights At Frickbear's 3",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/frickbears3/930477",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
     "image": ""
   }
 
