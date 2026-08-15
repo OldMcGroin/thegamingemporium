@@ -3892,6 +3892,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemon-gamma-emerald/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemon-gamma-emerald-early-access/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pokemon-gold-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-gold-port-for-android/</loc>
@@ -4029,6 +4031,8 @@
     <loc>http://localhost:1313/series/prey/</loc>
   </url><url>
     <loc>http://localhost:1313/game/prey-2006-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/prey-2017-co-op/</loc>
   </url><url>
     <loc>http://localhost:1313/game/prey-vr/</loc>
   </url><url>

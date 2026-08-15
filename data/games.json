@@ -2637,7 +2637,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 204,
@@ -33995,7 +33996,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-05",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 2606,
@@ -34518,7 +34520,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2645,
     "title": "Messenger",
     "category": "browser-based",
@@ -34531,7 +34533,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2646,
     "title": "Dungeon Keeper in Browser",
     "category": "browser-based",
@@ -34544,7 +34546,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2647,
     "title": "Dusklight - The Legend of Zelda Twilight Princess Recompilation in Browser",
     "category": "browser-based",
@@ -34557,7 +34559,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2648,
     "title": "The Elder Scrolls III Morrowind – OpenMW in Browser",
     "category": "browser-based",
@@ -34570,7 +34572,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2649,
     "title": "Half-Life 2 in Browser",
     "category": "browser-based",
@@ -34583,7 +34585,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2650,
     "title": "Portal in Browser",
     "category": "browser-based",
@@ -34596,7 +34598,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2651,
     "title": "Diablo in Browser",
     "category": "browser-based",
@@ -34609,7 +34611,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2652,
     "title": "3D Pinball Space Cadet in Browser",
     "category": "browser-based",
@@ -34622,7 +34624,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2653,
     "title": "Wipeout in Browser",
     "category": "browser-based",
@@ -34635,7 +34637,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2654,
     "title": "Doom – WebPrBoom in Browser",
     "category": "browser-based",
@@ -34648,7 +34650,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2655,
     "title": "Doom 3 Demo in Browser",
     "category": "browser-based",
@@ -34661,7 +34663,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2656,
     "title": "Quake – Quake WASM in Browser",
     "category": "browser-based",
@@ -34674,7 +34676,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2657,
     "title": "Quake 2 – Quake WASM2 in Browser",
     "category": "browser-based",
@@ -34687,7 +34689,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2658,
     "title": "Arx Fatalis – Arxwasm Demo in Browser",
     "category": "browser-based",
@@ -34700,7 +34702,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2659,
     "title": "Homeworld - Gardens of Kadesh Demo in Browser",
     "category": "browser-based",
@@ -34713,7 +34715,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2660,
     "title": "Cave Story in Browser",
     "category": "browser-based",
@@ -34726,7 +34728,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2661,
     "title": "Commander Keen in Browser",
     "category": "browser-based",
@@ -34739,7 +34741,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2662,
     "title": "Cro-Mag Rally in Browser",
     "category": "browser-based",
@@ -34752,7 +34754,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2663,
     "title": "Descent Descent II – DXX-Rebirth in Browser",
     "category": "browser-based",
@@ -34765,7 +34767,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2664,
     "title": "Duke Nukem 3D – Belgian Chocolate Duke3D in Browser",
     "category": "browser-based",
@@ -34778,7 +34780,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2665,
     "title": "Fallout Nevada Sonora in Browser",
     "category": "browser-based",
@@ -34791,7 +34793,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2666,
     "title": "Might and Magic II - fheroes2 in Browser",
     "category": "browser-based",
@@ -34804,7 +34806,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2667,
     "title": "Prince of Persia in Browser",
     "category": "browser-based",
@@ -34817,7 +34819,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2668,
     "title": "Tyrian – OpenTyrian in Browser",
     "category": "browser-based",
@@ -34830,7 +34832,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2669,
     "title": "Tomb Raider in Browser",
     "category": "browser-based",
@@ -34843,7 +34845,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2670,
     "title": "Super Monkey Ball in Browser",
     "category": "browser-based",
@@ -34856,7 +34858,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2671,
     "title": "Tetris in Browser",
     "category": "browser-based",
@@ -34869,7 +34871,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2672,
     "title": "The Last of Us Demake in Browser",
     "category": "browser-based",
@@ -34882,7 +34884,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2673,
     "title": "Cyberpunk 2077 VR",
     "category": "vr-ports",
@@ -34895,7 +34897,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2674,
     "title": "Call of Duty 4 Modern Warfare VR",
     "category": "vr-ports",
@@ -34908,7 +34910,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2675,
     "title": "BioShock Remastered VR",
     "category": "vr-ports",
@@ -34921,7 +34923,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2676,
     "title": "Skyrim VR",
     "category": "vr-ports",
@@ -34934,7 +34936,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2677,
     "title": "Resident Evil Requiem VR",
     "category": "vr-ports",
@@ -34947,7 +34949,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2678,
     "title": "Silent Hill 2 VR",
     "category": "vr-ports",
@@ -34960,7 +34962,7 @@
     "date_added": "2026-08-08",
     "image": ""
   },
-    {
+  {
     "id": 2679,
     "title": "Eternal Sonata Recompilation",
     "category": "decompilations-recompilations",
@@ -34973,7 +34975,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2680,
     "title": "Call of Duty Black Ops Zombies for Android",
     "category": "android-ports",
@@ -34986,7 +34988,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2681,
     "title": "Donkey Kong Land PC Remake",
     "category": "fan-games",
@@ -34999,7 +35001,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2682,
     "title": "The Legend of Zelda Breath of the Wild VR",
     "category": "vr-ports",
@@ -35012,7 +35014,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2683,
     "title": "Command & Conquer Generals in Browser",
     "category": "browser-based",
@@ -35025,7 +35027,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2684,
     "title": "Doom 2 in Doom 3",
     "category": "mods",
@@ -35038,7 +35040,7 @@
     "date_added": "2026-08-09",
     "image": ""
   },
-    {
+  {
     "id": 2685,
     "title": "ZQuest Classic in Browser",
     "category": "browser-based",
@@ -35051,7 +35053,7 @@
     "date_added": "2026-08-10",
     "image": ""
   },
-    {
+  {
     "id": 2686,
     "title": "Surreal Engine Web – Unreal UT99 in Browser",
     "category": "browser-based",
@@ -35064,7 +35066,7 @@
     "date_added": "2026-08-10",
     "image": ""
   },
-    {
+  {
     "id": 2687,
     "title": "F-Zero X PC Port",
     "category": "decompilations-recompilations",
@@ -35077,7 +35079,7 @@
     "date_added": "2026-08-10",
     "image": ""
   },
-    {
+  {
     "id": 2688,
     "title": "Diddy Kong Racing Recompilation",
     "category": "decompilations-recompilations",
@@ -35090,7 +35092,7 @@
     "date_added": "2026-08-11",
     "image": ""
   },
-    {
+  {
     "id": 2689,
     "title": "F.E.A.R. 2: Project Origin VR Mod",
     "category": "vr-ports",
@@ -35103,7 +35105,7 @@
     "date_added": "2026-08-11",
     "image": ""
   },
-    {
+  {
     "id": 2690,
     "title": "Asobi: Remote Play - Stream PS Plus games to Steam Deck or Steam Machine",
     "category": "utility",
@@ -35116,7 +35118,7 @@
     "date_added": "2026-08-11",
     "image": ""
   },
-    {
+  {
     "id": 2691,
     "title": "Unreal Tournament VR",
     "category": "vr-ports",
@@ -35129,7 +35131,7 @@
     "date_added": "2026-08-11",
     "image": ""
   },
-    {
+  {
     "id": 2692,
     "title": "Super Mario 64 DS PC Port",
     "category": "decompilations-recompilations",
@@ -35142,7 +35144,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2693,
     "title": "Sonic the Hedgehog 2006 Android Port",
     "category": "android-ports",
@@ -35155,7 +35157,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2694,
     "title": "Pokemon Gold PC Port",
     "category": "decompilations-recompilations",
@@ -35168,7 +35170,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2694,
     "title": "Pokemon Gold Port for Android",
     "category": "android-ports",
@@ -35181,7 +35183,7 @@
     "date_added": "",
     "image": ""
   },
-    {
+  {
     "id": 2695,
     "title": "Battlefield 1942 VR",
     "category": "vr-ports",
@@ -35194,7 +35196,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2696,
     "title": "Ace Combat 6 Recompilation",
     "category": "decompilations-recompilations",
@@ -35207,7 +35209,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2697,
     "title": "Metroid Prime Origins",
     "category": "fan-games",
@@ -35220,7 +35222,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2698,
     "title": "The Legend of Zelda: Z for 2 - Two Player Simultaneous Co-Op",
     "category": "rom-hacks",
@@ -35233,7 +35235,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2699,
     "title": "Spyro the Dragon Recompilation",
     "category": "decompilations-recompilations",
@@ -35246,7 +35248,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2700,
     "title": "Twisted Metal 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -35259,7 +35261,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2701,
     "title": "The Legend of Zelda The Minish Cap 3DS Port",
     "category": "console-ports",
@@ -35272,7 +35274,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2702,
     "title": "1 The Multiverse VR Hub",
     "category": "vr-ports",
@@ -35285,7 +35287,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2703,
     "title": "Untitled Sonic Fangame",
     "category": "fan-games",
@@ -35298,7 +35300,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2704,
     "title": "Mario Kart 64 3DS Port",
     "category": "console-ports",
@@ -35311,7 +35313,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2705,
     "title": "Street Fighter Aplha 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -35324,7 +35326,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2706,
     "title": "Zenonia 3 PS Vita Port",
     "category": "console-ports",
@@ -35337,7 +35339,7 @@
     "date_added": "2026-08-13",
     "image": ""
   },
-    {
+  {
     "id": 2707,
     "title": "Crash Bandicoot for Android",
     "category": "android-ports",
@@ -35350,7 +35352,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2708,
     "title": "World of Warcraft for Android",
     "category": "android-ports",
@@ -35363,7 +35365,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2709,
     "title": "Ace Combat X Recompilation",
     "category": "decompilations-recompilations",
@@ -35376,7 +35378,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2710,
     "title": "GTA: Vice City Stories Recompilation",
     "category": "decompilations-recompilations",
@@ -35389,7 +35391,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2711,
     "title": "Tama: Adventurous Ball in Giddy Labyrinth - Sega Saturn",
     "category": "english-translation-patches",
@@ -35402,7 +35404,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2712,
     "title": "Hissatsu! - Sega Saturn",
     "category": "english-translation-patches",
@@ -35415,7 +35417,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2713,
     "title": "Pokemon Blue VR",
     "category": "vr-ports",
@@ -35428,7 +35430,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2714,
     "title": "Ridge Racer Collection",
     "category": "console-to-pc-port",
@@ -35441,7 +35443,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2715,
     "title": "Spaghetti Kart - Mario Kart 64 PC Port Track Editor",
     "category": "decompilations-recompilations",
@@ -35454,7 +35456,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2716,
     "title": "Baldur's Gate 2: Enhanced Edition PS Vita Port",
     "category": "console-ports",
@@ -35467,7 +35469,7 @@
     "date_added": "2026-08-14",
     "image": ""
   },
-    {
+  {
     "id": 2717,
     "title": "Hollow Knight: Silksong for Android",
     "category": "android-ports",
@@ -35480,7 +35482,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2718,
     "title": "Jeb's Legend of Zelda",
     "category": "fan-games",
@@ -35493,7 +35495,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2719,
     "title": "Outertale - Project Spacetime",
     "category": "fan-games",
@@ -35506,7 +35508,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2720,
     "title": "Five Nights At Frickbear's 3",
     "category": "fan-games",
@@ -35518,8 +35520,44 @@
     "notes": "",
     "date_added": "2026-08-15",
     "image": ""
+  },
+  {
+    "id": 2721,
+    "title": "Five Nights At Frickbear's 3",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/frickbears3/930477",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+  {
+    "id": 2722,
+    "title": "Pokemon Gamma Emerald - Early Access",
+    "category": "fan-games",
+    "link": "https://undreamedpanic.itch.io/gamma-emerald-ea",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+  {
+    "id": 2723,
+    "title": "Prey 2017 Co-op",
+    "category": "mods",
+    "link": "https://www.nexusmods.com/prey2017/mods/218?tab=description",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Prey",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
   }
-
-
-
 ]
