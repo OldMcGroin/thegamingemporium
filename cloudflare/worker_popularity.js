@@ -50,28 +50,55 @@ export default {
         const mode = (url.searchParams.get("mode") || "all").toLowerCase();
         const limit = clampInt(url.searchParams.get("limit"), 10, 1, 25);
         const days = clampInt(url.searchParams.get("days"), 7, 1, 30);
+        const ids = (url.searchParams.get("ids") || "")
+          .split(",")
+          .map((id) => id.trim())
+          .filter(Boolean)
+          .slice(0, 50);
 
         let rows = [];
 
         if (mode === "trending") {
           // Last N days inclusive (e.g. days=7 => today + previous 6 days)
           const offset = -(days - 1);
-          const q = `
-            SELECT id, SUM(clicks) AS count
-            FROM events_daily
-            WHERE day >= date('now', ?1)
-            GROUP BY id
-            HAVING count > 0
-            ORDER BY count DESC
-            LIMIT ?2
-          `;
-          const res = await env.DB.prepare(q).bind(`${offset} days`, limit).all();
-          rows = res.results || [];
+          if (ids.length) {
+            const marks = ids.map(() => "?").join(",");
+            const q = `
+              SELECT id, SUM(clicks) AS count
+              FROM events_daily
+              WHERE day >= date('now', ?) AND id IN (${marks})
+              GROUP BY id
+              HAVING count > 0
+              ORDER BY count DESC
+              LIMIT ?
+            `;
+            const res = await env.DB.prepare(q).bind(`${offset} days`, ...ids, limit).all();
+            rows = res.results || [];
+          } else {
+            const q = `
+              SELECT id, SUM(clicks) AS count
+              FROM events_daily
+              WHERE day >= date('now', ?1)
+              GROUP BY id
+              HAVING count > 0
+              ORDER BY count DESC
+              LIMIT ?2
+            `;
+            const res = await env.DB.prepare(q).bind(`${offset} days`, limit).all();
+            rows = res.results || [];
+          }
         } else {
-          const res = await env.DB.prepare(
-            `SELECT id, count FROM clicks ORDER BY count DESC LIMIT ?1`
-          ).bind(limit).all();
-          rows = res.results || [];
+          if (ids.length) {
+            const marks = ids.map(() => "?").join(",");
+            const q = `SELECT id, count FROM clicks WHERE id IN (${marks}) ORDER BY count DESC LIMIT ?`;
+            const res = await env.DB.prepare(q).bind(...ids, limit).all();
+            rows = res.results || [];
+          } else {
+            const res = await env.DB.prepare(
+              `SELECT id, count FROM clicks ORDER BY count DESC LIMIT ?1`
+            ).bind(limit).all();
+            rows = res.results || [];
+          }
         }
 
         return json({ ok: true, mode, top: rows }, 200, corsHeaders);

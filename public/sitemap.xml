@@ -792,6 +792,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-rondo-of-the-night/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-symphony-of-the-night-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cataclysm-dark-days-ahead/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cataclysm-dark-days-ahead/</loc>
@@ -2142,6 +2144,8 @@
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-007-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/goldeneye-007-random-eye-zer-mod/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/goldeneye-4k-textures/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-recompilation-for-android/</loc>
@@ -3210,6 +3214,8 @@
   </url><url>
     <loc>http://localhost:1313/series/mindustry/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mine64-minecraft-for-n64-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/minecraft/</loc>
   </url><url>
     <loc>http://localhost:1313/game/minecraft-arnis/</loc>
@@ -3671,6 +3677,10 @@
     <loc>http://localhost:1313/game/ougon-no-kizuna-wii/</loc>
   </url><url>
     <loc>http://localhost:1313/game/outertale-project-spacetime/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/outlast/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/outlast-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/outrun/</loc>
   </url><url>
@@ -4663,6 +4673,8 @@
     <loc>http://localhost:1313/game/silhouette-mirage-sega-saturn/</loc>
   </url><url>
     <loc>http://localhost:1313/series/sim-ant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sim-copter-reimplementation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/simutrans/</loc>
   </url><url>

@@ -641,6 +641,83 @@ function initGameGrids(){
     }, { passive: true });
   }
 
+  function initCategoryPopular(){
+    var root = document.querySelector('[data-category-popular]');
+    if(!root) return;
+
+    var dataEl = root.querySelector('[data-category-popular-games]');
+    var list = root.querySelector('[data-category-popular-list]');
+    var msg = root.querySelector('[data-category-popular-msg]');
+    var updated = root.querySelector('[data-category-popular-updated]');
+    var tabs = Array.prototype.slice.call(root.querySelectorAll('[data-category-popular-mode]'));
+    if(!dataEl || !list) return;
+
+    var games = [];
+    try { games = JSON.parse(dataEl.textContent || '[]'); } catch(e) { games = []; }
+    var byId = Object.create(null);
+    games.forEach(function(g){ if(g && g.id) byId[String(g.id)] = g; });
+    var ids = Object.keys(byId);
+    var mode = 'trending';
+
+    function setActive(){
+      tabs.forEach(function(t){
+        var active = t.getAttribute('data-category-popular-mode') === mode;
+        t.classList.toggle('is-active', active);
+        t.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+    }
+
+    function chunks(arr, size){
+      var out = [];
+      for(var i=0;i<arr.length;i+=size) out.push(arr.slice(i, i+size));
+      return out;
+    }
+
+    function endpoint(group){
+      var q = '/api/top?limit=5&mode=' + encodeURIComponent(mode) + '&ids=' + encodeURIComponent(group.join(','));
+      if(mode === 'trending') q += '&days=7';
+      return q;
+    }
+
+    function render(rows){
+      list.innerHTML = '';
+      if(!rows.length){
+        list.innerHTML = '<li class="category-popular__empty">No clicks recorded in this category yet.</li>';
+        return;
+      }
+      rows.slice(0,5).forEach(function(row, i){
+        var info = byId[String(row.id)] || { title: String(row.id), url: '#' };
+        var li = document.createElement('li'); li.className = 'category-popular__item';
+        var rank = document.createElement('span'); rank.className = 'category-popular__rank'; rank.textContent = String(i+1);
+        var a = document.createElement('a'); a.className = 'category-popular__link'; a.textContent = (mode === 'trending' && i === 0 ? '🔥 ' : '') + info.title; a.href = info.url;
+        if(/^https?:\/\//i.test(info.url)){ a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+        var count = document.createElement('span'); count.className = 'category-popular__count'; count.textContent = Number(row.count || 0).toLocaleString() + (Number(row.count || 0) === 1 ? ' click' : ' clicks');
+        li.appendChild(rank); li.appendChild(a); li.appendChild(count); list.appendChild(li);
+      });
+    }
+
+    function load(){
+      if(msg) msg.textContent = 'Loading…';
+      list.innerHTML = '';
+      if(!ids.length){ if(msg) msg.textContent = ''; render([]); return; }
+      Promise.all(chunks(ids, 40).map(function(group){
+        return fetch(endpoint(group), {cache:'no-store'}).then(function(r){ return r.json(); });
+      })).then(function(results){
+        var merged = [];
+        results.forEach(function(data){ if(data && data.ok && Array.isArray(data.top)) merged = merged.concat(data.top); });
+        merged.sort(function(a,b){ return Number(b.count || 0) - Number(a.count || 0); });
+        if(msg) msg.textContent = '';
+        render(merged.slice(0,5));
+        if(updated) updated.textContent = 'Updated just now';
+      }).catch(function(){
+        if(msg) msg.textContent = 'Couldn\'t load this category\'s most clicked games right now.';
+      });
+    }
+
+    tabs.forEach(function(t){ t.addEventListener('click', function(){ mode = t.getAttribute('data-category-popular-mode') || 'trending'; setActive(); load(); }); });
+    setActive(); load();
+  }
+
   function initMostPopularNav(){
     var btns = Array.prototype.slice.call(document.querySelectorAll('[data-popular-toggle]'));
     var closeBtn = document.getElementById('popularClose');
@@ -883,6 +960,7 @@ function initGameGrids(){
     initSeriesGrids();
     initGenreGrids();
     initPopularityTracking();
+    initCategoryPopular();
     initMostPopularNav();
   });
 })();

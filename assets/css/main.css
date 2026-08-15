@@ -1948,3 +1948,40 @@ html[data-theme="light"] .suggestion-form__message.is-success span{color:#4d5662
 .suggestion-card__actions{display:flex;gap:.55rem;flex-wrap:wrap;margin-top:.8rem}
 .suggestion-card__open{background:#ffc400!important;border-color:#ffc400!important;color:#151515!important}
 .suggestion-card__delete{color:#ff8a8a!important}
+
+/* Category-specific Popular Picks Top 5 */
+.category-popular{
+  margin: 18px 0 24px;
+  padding: 16px 18px;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: var(--radius);
+  background: rgba(255,255,255,0.045);
+  box-shadow: var(--shadow);
+}
+.category-popular__head{ display:flex; align-items:flex-start; justify-content:space-between; gap:16px; }
+.category-popular__title{ margin:0 0 9px; font-size:1.15rem; }
+.category-popular__tabs{ display:flex; gap:8px; flex-wrap:wrap; }
+.category-popular__tab{
+  appearance:none; border:1px solid rgba(255,255,255,0.14); background:rgba(255,255,255,0.06);
+  color:var(--text); padding:6px 10px; border-radius:999px; font-weight:800; cursor:pointer; font-size:12px;
+}
+.category-popular__tab.is-active{ box-shadow:0 0 0 2px rgba(245,196,0,0.25) inset; }
+.category-popular__updated{ font-size:12px; opacity:.75; white-space:nowrap; padding-top:3px; }
+.category-popular__msg{ margin-top:12px; font-weight:700; opacity:.8; }
+.category-popular__list{ list-style:none; margin:12px 0 0; padding:0; display:grid; gap:0; }
+.category-popular__item{ display:flex; align-items:center; gap:10px; padding:9px 0; border-top:1px solid rgba(255,255,255,0.08); }
+.category-popular__item:first-child{ border-top:0; }
+.category-popular__rank{ width:26px; height:26px; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex:0 0 26px; font-size:13px; font-weight:800; background:rgba(255,255,255,0.14); border:1px solid rgba(255,255,255,0.18); }
+.category-popular__link{ color:var(--text); text-decoration:none; font-weight:800; min-width:0; }
+.category-popular__link:hover{ text-decoration:underline; }
+.category-popular__count{ margin-left:auto; font-size:12px; opacity:.72; font-weight:800; white-space:nowrap; }
+.category-popular__empty{ opacity:.78; font-weight:700; padding:5px 0; }
+html[data-theme="light"] .category-popular{ background:rgba(0,0,0,0.025); border-color:rgba(0,0,0,0.11); }
+html[data-theme="light"] .category-popular__tab{ border-color:rgba(0,0,0,0.12); background:rgba(0,0,0,0.04); }
+html[data-theme="light"] .category-popular__item{ border-top-color:rgba(0,0,0,0.08); }
+html[data-theme="light"] .category-popular__rank{ background:rgba(0,0,0,0.07); border-color:rgba(0,0,0,0.12); }
+@media (max-width:700px){
+  .category-popular{ padding:14px; }
+  .category-popular__head{ display:block; }
+  .category-popular__updated{ margin-top:8px; }
+}

@@ -45,3 +45,13 @@ If you use Cloudflare Worker Routes, do **not** route a broad `/api/*` pattern t
 
 This prevents unrelated API requests from consuming the popularity Worker's request quota.
 
+
+## Category Top 5 support
+
+Category pages now show their own **Popular Picks — Top 5** with Trending (7 days) and All-time tabs.
+The category widget uses the existing `/api/top` route with an optional comma-separated `ids` parameter, so no new Worker route is required.
+
+When deploying this site version, also replace the Worker code with the included `cloudflare/worker_popularity.js` so category-specific filtering works. Your existing Worker routes remain unchanged:
+
+- `thegamingemporium.com/api/click*`
+- `thegamingemporium.com/api/top*`

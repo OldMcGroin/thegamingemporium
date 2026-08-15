@@ -35559,5 +35559,74 @@
     "notes": "",
     "date_added": "2026-08-15",
     "image": ""
+  },
+   {
+    "id": 2724,
+    "title": "Castlevania: Symphony of the Night for Android",
+    "category": "android-ports",
+    "link": "https://github.com/sergiomanzur/SymphonyRecomp/releases/tag/android-v0.9b",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Castlevania",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+   {
+    "id": 2725,
+    "title": "Goldeneye 007 Random-Eye-zer Mod",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/random-eye-the-true-randomizer",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+   {
+    "id": 2726,
+    "title": "Outlast VR",
+    "category": "vr-ports",
+    "link": "https://www.patreon.com/dhalcyon/posts/nowhere-to-hide-165840706",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Outlast",
+    "video_link": "https://youtu.be/odXzJC-JABM?si=LVg8HAIiBdaNRyxG",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+   {
+    "id": 2727,
+    "title": "Mine64 - Minecraft for N64 in Browser",
+    "category": "browser-based",
+    "link": "https://mine64.c0di.com/",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "Minecraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
+  },
+   {
+    "id": 2728,
+    "title": "Sim Copter Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/JamesIV4/sim-copter-remake",
+    "genre1": "flight-simulator",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-15",
+    "image": ""
   }
+
+
+
+
 ]
