@@ -1,6 +1,6 @@
 ---
-title: "Baldur's Gate II: Enhanced Edition PS Vita Port"
-url: "/game/baldur-s-gate-ii-enhanced-edition-ps-vita-port/"
+title: "Baldur's Gate 2: Enhanced Edition PS Vita Port"
+url: "/game/baldur-s-gate-2-enhanced-edition-ps-vita-port/"
 type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1454"
