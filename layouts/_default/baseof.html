@@ -87,11 +87,13 @@
           <a class="nav__link" href="{{ partial "section-link.html" "series" }}">Browse By Series</a>
           <a class="nav__link" href="{{ partial "section-link.html" "genres" }}">Browse By Genre</a>
           <a class="nav__link" href="{{ partial "section-link.html" "all" }}">All</a>
+          {{ if or .IsHome (eq .Section "all") }}
           <div class="nav-popular-wrap">
             <button class="nav__link nav__link--pill" type="button" id="popularBtn" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
               Most Popular
             </button>
           </div>
+          {{ end }}
           <span class="rss-copy-wrap">
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
@@ -101,6 +103,7 @@
       </div>
     </header>
 
+    {{ if or .IsHome (eq .Section "all") }}
     <!-- Most Popular popover (kept outside the mobile nav so it can open from anywhere) -->
     <div class="nav-popular" id="popularPopover" hidden>
       <div class="nav-popular__head">
@@ -119,6 +122,7 @@
       <ol class="popular__list" id="popularList"></ol>
     </div>
     </div>
+    {{ end }}
 
     <div class="suggestion-modal" id="suggestionModal" data-suggestion-modal hidden>
       <div class="suggestion-modal__backdrop" data-suggestion-close></div>

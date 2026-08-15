@@ -33,15 +33,15 @@
 <section class="category-popular" data-category-popular aria-labelledby="categoryPopularTitle">
   <div class="category-popular__head">
     <div>
-      <h2 class="category-popular__title" id="categoryPopularTitle">Popular Picks — Top 5</h2>
+      <h2 class="category-popular__title" id="categoryPopularTitle">Popular Picks - Top 5 in {{ $title }}</h2>
       <div class="category-popular__tabs" role="tablist" aria-label="Most clicked in {{ $title }}">
-        <button class="category-popular__tab is-active" type="button" data-category-popular-mode="trending" role="tab" aria-selected="true">🔥 Trending</button>
+        <button class="category-popular__tab" type="button" data-category-popular-mode="trending" role="tab" aria-selected="false">🔥 Trending</button>
         <button class="category-popular__tab" type="button" data-category-popular-mode="all" role="tab" aria-selected="false">🏆 All-time</button>
       </div>
     </div>
     <div class="category-popular__updated" data-category-popular-updated aria-live="polite"></div>
   </div>
-  <div class="category-popular__msg" data-category-popular-msg>Loading…</div>
+  <div class="category-popular__msg" data-category-popular-msg></div>
   <ol class="category-popular__list" data-category-popular-list></ol>
   <script type="application/json" data-category-popular-games>[
     {{- range $i, $g := $games -}}

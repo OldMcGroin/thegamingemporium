@@ -1974,7 +1974,6 @@ html[data-theme="light"] .suggestion-form__message.is-success span{color:#4d5662
 .category-popular__rank{ width:26px; height:26px; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex:0 0 26px; font-size:13px; font-weight:800; background:rgba(255,255,255,0.14); border:1px solid rgba(255,255,255,0.18); }
 .category-popular__link{ color:var(--text); text-decoration:none; font-weight:800; min-width:0; }
 .category-popular__link:hover{ text-decoration:underline; }
-.category-popular__count{ margin-left:auto; font-size:12px; opacity:.72; font-weight:800; white-space:nowrap; }
 .category-popular__empty{ opacity:.78; font-weight:700; padding:5px 0; }
 html[data-theme="light"] .category-popular{ background:rgba(0,0,0,0.025); border-color:rgba(0,0,0,0.11); }
 html[data-theme="light"] .category-popular__tab{ border-color:rgba(0,0,0,0.12); background:rgba(0,0,0,0.04); }

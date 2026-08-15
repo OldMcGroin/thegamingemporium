@@ -126,9 +126,11 @@
       </div>
     </details>
 
+    {{ if .IsHome }}
     <button class="popular-mobile-btn" type="button" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
       Most Popular
     </button>
+    {{ end }}
   
     <button class="theme-toggle theme-toggle--mobilebar" type="button" aria-label="Toggle theme" title="Toggle theme" data-theme-toggle>
       <span class="theme-toggle__icon" aria-hidden="true" data-theme-icon>🌙</span>

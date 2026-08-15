@@ -666,7 +666,7 @@ function initGameGrids(){
       };
     });
     var ids = Object.keys(byId);
-    var mode = 'trending';
+    var mode = '';
 
     function setActive(){
       tabs.forEach(function(t){
@@ -700,8 +700,7 @@ function initGameGrids(){
         var rank = document.createElement('span'); rank.className = 'category-popular__rank'; rank.textContent = String(i+1);
         var a = document.createElement('a'); a.className = 'category-popular__link'; a.textContent = (mode === 'trending' && i === 0 ? '🔥 ' : '') + info.title; a.href = info.url;
         if(/^https?:\/\//i.test(info.url)){ a.target = '_blank'; a.rel = 'noopener noreferrer'; }
-        var count = document.createElement('span'); count.className = 'category-popular__count'; count.textContent = Number(row.count || 0).toLocaleString() + (Number(row.count || 0) === 1 ? ' click' : ' clicks');
-        li.appendChild(rank); li.appendChild(a); li.appendChild(count); list.appendChild(li);
+        li.appendChild(rank); li.appendChild(a); list.appendChild(li);
       });
     }
 
@@ -723,8 +722,23 @@ function initGameGrids(){
       });
     }
 
-    tabs.forEach(function(t){ t.addEventListener('click', function(){ mode = t.getAttribute('data-category-popular-mode') || 'trending'; setActive(); load(); }); });
-    setActive(); load();
+    // Keep the ranking collapsed on first load. It is fetched and shown only
+    // after the visitor chooses Trending or All-time.
+    list.hidden = true;
+    if(msg) msg.hidden = true;
+    if(updated) updated.hidden = true;
+
+    tabs.forEach(function(t){
+      t.addEventListener('click', function(){
+        mode = t.getAttribute('data-category-popular-mode') || 'trending';
+        setActive();
+        list.hidden = false;
+        if(msg) msg.hidden = false;
+        if(updated) updated.hidden = false;
+        load();
+      });
+    });
+    setActive();
   }
 
   function initMostPopularNav(){
