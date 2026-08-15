@@ -700,7 +700,7 @@ function initGameGrids(){
       if(msg) msg.textContent = 'Loading…';
       list.innerHTML = '';
       if(!ids.length){ if(msg) msg.textContent = ''; render([]); return; }
-      Promise.all(chunks(ids, 40).map(function(group){
+      Promise.all(chunks(ids, 10).map(function(group){
         return fetch(endpoint(group), {cache:'no-store'}).then(function(r){ return r.json(); });
       })).then(function(results){
         var merged = [];
