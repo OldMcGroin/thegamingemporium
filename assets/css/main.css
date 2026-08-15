@@ -1966,7 +1966,10 @@ html[data-theme="light"] .suggestion-form__message.is-success span{color:#4d5662
   color:var(--text); padding:6px 10px; border-radius:999px; font-weight:800; cursor:pointer; font-size:12px;
 }
 .category-popular__tab.is-active{ box-shadow:0 0 0 2px rgba(245,196,0,0.25) inset; }
+.category-popular__actions{ display:flex; align-items:center; gap:10px; }
 .category-popular__updated{ font-size:12px; opacity:.75; white-space:nowrap; padding-top:3px; }
+.category-popular__close{ appearance:none; border:1px solid rgba(255,255,255,0.14); background:rgba(255,255,255,0.06); color:var(--text); padding:6px 11px; border-radius:999px; font-weight:800; cursor:pointer; font-size:12px; }
+.category-popular__close:hover{ background:rgba(255,255,255,0.11); }
 .category-popular__msg{ margin-top:12px; font-weight:700; opacity:.8; }
 .category-popular__list{ list-style:none; margin:12px 0 0; padding:0; display:grid; gap:0; }
 .category-popular__item{ display:flex; align-items:center; gap:10px; padding:9px 0; border-top:1px solid rgba(255,255,255,0.08); }
@@ -1976,11 +1979,12 @@ html[data-theme="light"] .suggestion-form__message.is-success span{color:#4d5662
 .category-popular__link:hover{ text-decoration:underline; }
 .category-popular__empty{ opacity:.78; font-weight:700; padding:5px 0; }
 html[data-theme="light"] .category-popular{ background:rgba(0,0,0,0.025); border-color:rgba(0,0,0,0.11); }
-html[data-theme="light"] .category-popular__tab{ border-color:rgba(0,0,0,0.12); background:rgba(0,0,0,0.04); }
+html[data-theme="light"] .category-popular__tab, html[data-theme="light"] .category-popular__close{ border-color:rgba(0,0,0,0.12); background:rgba(0,0,0,0.04); }
 html[data-theme="light"] .category-popular__item{ border-top-color:rgba(0,0,0,0.08); }
 html[data-theme="light"] .category-popular__rank{ background:rgba(0,0,0,0.07); border-color:rgba(0,0,0,0.12); }
 @media (max-width:700px){
   .category-popular{ padding:14px; }
   .category-popular__head{ display:block; }
-  .category-popular__updated{ margin-top:8px; }
+  .category-popular__actions{ margin-top:8px; justify-content:space-between; }
+  .category-popular__updated{ margin-top:0; }
 }

@@ -648,6 +648,7 @@ function initGameGrids(){
     var list = root.querySelector('[data-category-popular-list]');
     var msg = root.querySelector('[data-category-popular-msg]');
     var updated = root.querySelector('[data-category-popular-updated]');
+    var closeBtn = root.querySelector('[data-category-popular-close]');
     var tabs = Array.prototype.slice.call(root.querySelectorAll('[data-category-popular-mode]'));
     if(!list) return;
 
@@ -727,6 +728,7 @@ function initGameGrids(){
     list.hidden = true;
     if(msg) msg.hidden = true;
     if(updated) updated.hidden = true;
+    if(closeBtn) closeBtn.hidden = true;
 
     tabs.forEach(function(t){
       t.addEventListener('click', function(){
@@ -735,9 +737,21 @@ function initGameGrids(){
         list.hidden = false;
         if(msg) msg.hidden = false;
         if(updated) updated.hidden = false;
+        if(closeBtn) closeBtn.hidden = false;
         load();
       });
     });
+    if(closeBtn){
+      closeBtn.addEventListener('click', function(){
+        mode = '';
+        setActive();
+        list.hidden = true;
+        list.innerHTML = '';
+        if(msg){ msg.hidden = true; msg.textContent = ''; }
+        if(updated){ updated.hidden = true; updated.textContent = ''; }
+        closeBtn.hidden = true;
+      });
+    }
     setActive();
   }
 
