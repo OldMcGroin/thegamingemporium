@@ -60,3 +60,16 @@ When deploying this site version, also replace the Worker code with the included
 ## Hidden Gems mode
 
 This build adds `mode=hidden` to the existing `/api/top` Worker route. It returns a randomised pool of projects with low, non-zero all-time click counts. The browser then filters that pool against the site's 30-day eligibility data. No new D1 table or Worker route is required; deploy the included `cloudflare/worker_popularity.js` to the existing popularity Worker.
+
+## Rising mode
+
+This build adds `mode=rising` to the existing `/api/top` Worker route. It compares each project's clicks from the last 3 days with its preceding 14-day baseline and ranks projects that are gaining momentum. It uses the existing `events_daily` data, so no D1 schema change or new Worker route is required.
+
+Deploy the included `cloudflare/worker_popularity.js` to the existing popularity Worker, then test:
+
+- `https://thegamingemporium.com/api/top?mode=rising&limit=10`
+
+The existing Worker routes remain unchanged:
+
+- `thegamingemporium.com/api/click*`
+- `thegamingemporium.com/api/top*`

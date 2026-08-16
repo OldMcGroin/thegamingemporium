@@ -3,7 +3,7 @@
  *
  * Routes:
  *  - GET  /api/click?id=<game-id>
- *  - GET  /api/top?mode=trending|all&days=7&limit=10
+ *  - GET  /api/top?mode=trending|all|hidden|rising&days=7&limit=10
  */
 
 export default {
@@ -58,7 +58,50 @@ export default {
 
         let rows = [];
 
-        if (mode === "hidden") {
+        if (mode === "rising") {
+          // Rising: compare the last 3 days with the preceding 14-day baseline.
+          // We smooth the baseline slightly and weight by recent volume so that
+          // a project with 2 clicks after a quiet spell does not outrank one
+          // with a genuinely meaningful surge. No extra D1 table is required.
+          const recentDays = 3;
+          const baselineDays = 14;
+          const startOffset = -(recentDays + baselineDays - 1);
+          const recentOffset = -(recentDays - 1);
+          const risingLimit = clampInt(url.searchParams.get("limit"), 10, 1, 25);
+          const q = `
+            WITH momentum AS (
+              SELECT
+                id,
+                SUM(CASE WHEN day >= date('now', ?1) THEN clicks ELSE 0 END) AS recent_count,
+                SUM(CASE WHEN day < date('now', ?1) THEN clicks ELSE 0 END) AS baseline_count
+              FROM events_daily
+              WHERE day >= date('now', ?2)
+              GROUP BY id
+            )
+            SELECT
+              id,
+              recent_count,
+              baseline_count,
+              ROUND(
+                ((recent_count * recent_count) * ?3 * 1.0) /
+                ((baseline_count + 1) * ?4),
+                2
+              ) AS score
+            FROM momentum
+            WHERE recent_count >= 2
+              AND (recent_count * ?3 * 1.0 / ?4) > baseline_count
+            ORDER BY score DESC, recent_count DESC
+            LIMIT ?5
+          `;
+          const res = await env.DB.prepare(q).bind(
+            `${recentOffset} days`,
+            `${startOffset} days`,
+            baselineDays,
+            recentDays,
+            risingLimit
+          ).all();
+          rows = res.results || [];
+        } else if (mode === "hidden") {
           // Hidden Gems: return genuinely low-engagement projects directly
           // from D1 instead of making the browser probe thousands of IDs.
           // Keep only projects that have at least one click; eligibility by age

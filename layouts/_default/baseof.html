@@ -82,6 +82,7 @@
           {{ end }}
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
           <button class="nav__link nav__link--pill nav__link--hidden-gems" type="button" data-hidden-gems-open aria-haspopup="dialog" aria-controls="hiddenGemsModal">💎 Hidden Gems</button>
+          <button class="nav__link nav__link--pill nav__link--rising" type="button" data-rising-open aria-haspopup="dialog" aria-controls="risingModal">📈 Rising</button>
           <button class="nav__link nav__link--pill nav__link--favourites" type="button" data-favourites-open aria-haspopup="dialog" aria-controls="favouritesModal">❤️ Favourites <span class="favourites-count" data-favourites-count>0</span></button>
           <button class="nav__link nav__link--pill nav__link--stats" type="button" data-stats-open aria-haspopup="dialog" aria-controls="siteStatsModal">📊 Site Stats</button>
           <span class="rss-copy-wrap">
@@ -143,6 +144,20 @@
         <p class="hidden-gems-modal__message" data-hidden-gems-message aria-live="polite">Finding overlooked projects…</p>
         <div class="hidden-gems-modal__list" data-hidden-gems-list></div>
         <button class="hidden-gems-modal__refresh" type="button" data-hidden-gems-refresh>💎 Refresh Gems</button>
+      </section>
+    </div>
+
+    {{/* Rising is calculated from the existing rolling daily click data. */}}
+    <div class="rising-modal" id="risingModal" data-rising-modal hidden>
+      <div class="rising-modal__backdrop" data-rising-close></div>
+      <section class="rising-modal__panel" role="dialog" aria-modal="true" aria-labelledby="risingTitle">
+        <button class="rising-modal__close" type="button" aria-label="Close Rising" data-rising-close>✕</button>
+        <div class="rising-modal__heading">
+          <h2 id="risingTitle">📈 Rising</h2>
+          <p>Projects gaining momentum right now.</p>
+        </div>
+        <p class="rising-modal__message" data-rising-message aria-live="polite">Finding projects on the rise…</p>
+        <div class="rising-modal__list" data-rising-list></div>
       </section>
     </div>
 
@@ -267,6 +282,8 @@
   <script src="{{ $siteStatsJS.RelPermalink }}" integrity="{{ $siteStatsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $hiddenGemsJS := resources.Get "js/hidden-gems.js" | minify | fingerprint }}
   <script src="{{ $hiddenGemsJS.RelPermalink }}" integrity="{{ $hiddenGemsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $risingJS := resources.Get "js/rising.js" | minify | fingerprint }}
+  <script src="{{ $risingJS.RelPermalink }}" integrity="{{ $risingJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}
