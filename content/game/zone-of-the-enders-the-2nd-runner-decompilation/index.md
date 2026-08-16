@@ -5,7 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GirianSeed/zoe2"
   category: "in-the-works"
-  genre1: "mech-simulator"
+  genre1: "mech"
   genre2: "action"
   series: "Zone of the Enders"
   video_link: ""

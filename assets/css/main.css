@@ -787,6 +787,22 @@ html[data-theme="light"] .home-disclaimer a{
   color: #ffffff;
 }
 
+/* Browser-based entries: make immediately playable projects easy to spot */
+.pill--play-browser{
+  background: rgba(70, 220, 140, 0.12);
+  border: 1px solid rgba(70, 220, 140, 0.88);
+  color: rgba(190, 255, 220, 0.98);
+  font-weight: 900;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.pill--play-browser:hover{
+  background: rgba(70, 220, 140, 0.20);
+  border-color: rgba(70, 220, 140, 1);
+  color: #ffffff;
+}
+
 /* Utilities badge (extra-visible tag for the Utilities category) */
 .pill--utilities{
   background: rgba(90, 200, 255, 0.10);
@@ -1352,6 +1368,17 @@ html[data-theme="light"] .popular__msg{ color: rgba(0,0,0,0.78); }
 html[data-theme="light"] .popular__link{ color: rgba(0,0,0,0.92); }
 html[data-theme="light"] .popular__count{ color: rgba(0,0,0,0.60); }
 html[data-theme="light"] .popular__empty{ color: rgba(0,0,0,0.72); }
+
+html[data-theme="light"] .pill--play-browser{
+  background: rgba(15, 145, 80, 0.10);
+  border-color: rgba(15, 145, 80, 0.72);
+  color: #087542;
+}
+html[data-theme="light"] .pill--play-browser:hover{
+  background: rgba(15, 145, 80, 0.17);
+  border-color: rgba(15, 145, 80, 0.95);
+  color: #04582f;
+}
 
 html[data-theme="light"] .pill--video{
   background: rgba(255,80,80,0.20);
@@ -2010,3 +2037,95 @@ html[data-theme="light"] .surprise-modal__panel{background:#fff;color:#20242a;bo
 html[data-theme="light"] .surprise-modal__panel p{color:#4d5662}
 html[data-theme="light"] .surprise-modal__panel select{background:#f7f8fa;color:#171a1f;border-color:rgba(0,0,0,.20)}
 html[data-theme="light"] .surprise-modal__close{color:#252a31}
+
+
+/* Favourites */
+.game-card__favourite{
+  position:absolute;
+  top:10px;
+  right:10px;
+  z-index:8;
+  width:40px;
+  height:40px;
+  display:grid;
+  place-items:center;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,.24);
+  background:rgba(0,0,0,.64);
+  color:#fff;
+  font:inherit;
+  font-size:25px;
+  line-height:1;
+  cursor:pointer;
+  box-shadow:0 4px 14px rgba(0,0,0,.28);
+  backdrop-filter:blur(7px);
+  transition:transform .15s ease,background .15s ease,border-color .15s ease;
+}
+.game-card__favourite:hover{transform:scale(1.08);background:rgba(0,0,0,.8)}
+.game-card__favourite:active{transform:scale(.96)}
+.game-card__favourite.is-favourite{background:#f5c400;color:#171717;border-color:#f5c400}
+.game-card__favourite:focus-visible{outline:3px solid #f5c400;outline-offset:2px}
+/* In local preview keep the existing Copy filename helper clear of the heart. */
+.game-card .copy-filename-btn{right:58px}
+
+.favourites-count{
+  display:inline-grid;
+  place-items:center;
+  min-width:20px;
+  height:20px;
+  padding:0 6px;
+  margin-left:2px;
+  border-radius:999px;
+  background:rgba(0,0,0,.14);
+  font-size:11px;
+  line-height:1;
+}
+.favourites-modal[hidden]{display:none}
+.favourites-modal{position:fixed;inset:0;z-index:10025;display:grid;place-items:center;padding:1rem}
+.favourites-modal__backdrop{position:absolute;inset:0;background:rgba(0,0,0,.72)}
+.favourites-modal__panel{
+  position:relative;
+  width:min(100%,640px);
+  max-height:min(80vh,760px);
+  border:1px solid var(--border);
+  border-radius:18px;
+  background:var(--surface,#171717);
+  color:var(--text);
+  padding:1.35rem;
+  box-shadow:0 20px 60px rgba(0,0,0,.45);
+  display:flex;
+  flex-direction:column;
+  gap:1rem;
+}
+.favourites-modal__heading h2{margin:0 2rem .25rem 0}
+.favourites-modal__heading p{margin:0;color:var(--muted)}
+.favourites-modal__close{position:absolute;right:.8rem;top:.7rem;border:0;background:transparent;color:var(--text);font-size:1.15rem;cursor:pointer}
+.favourites-modal__list{display:flex;flex-direction:column;gap:.6rem;overflow:auto;padding-right:3px}
+.favourites-item{display:flex;align-items:center;gap:.75rem;padding:.8rem;border:1px solid var(--border);border-radius:12px;background:rgba(255,255,255,.045)}
+.favourites-item__info{min-width:0;flex:1;display:flex;flex-direction:column;gap:.2rem;color:inherit;text-decoration:none}
+.favourites-item__title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:15px}
+.favourites-item__category{color:var(--muted);font-size:12px;font-weight:700}
+.favourites-item__actions{display:flex;align-items:center;gap:.45rem;flex:none}
+.favourites-item__open{border:1px solid var(--border);border-radius:999px;padding:.45rem .7rem;color:inherit;text-decoration:none;font-size:12px;font-weight:800;background:rgba(255,255,255,.06)}
+.favourites-item__remove{width:34px;height:34px;border:0;border-radius:999px;background:#f5c400;color:#171717;font-size:18px;cursor:pointer;display:grid;place-items:center}
+.favourites-modal__empty{min-height:220px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:.45rem;color:var(--muted)}
+.favourites-modal__empty[hidden]{display:none}
+.favourites-modal__empty strong{color:var(--text);font-size:18px}
+.favourites-modal__empty-heart{font-size:54px;line-height:1;color:#f5c400}
+.favourites-modal__clear{align-self:center;border:1px solid var(--border);border-radius:999px;background:transparent;color:var(--muted);padding:.55rem .85rem;font:inherit;font-size:12px;font-weight:800;cursor:pointer}
+.favourites-modal__clear:hover{color:var(--text);background:rgba(255,255,255,.06)}
+body.has-favourites-modal{overflow:hidden}
+html[data-theme="light"] .favourites-modal__backdrop{background:rgba(24,32,42,.52);backdrop-filter:blur(2px)}
+html[data-theme="light"] .favourites-modal__panel{background:#fff;color:#20242a;border-color:rgba(0,0,0,.16);box-shadow:0 24px 70px rgba(20,28,38,.28)}
+html[data-theme="light"] .favourites-item{background:#f7f8fa;border-color:rgba(0,0,0,.12)}
+html[data-theme="light"] .favourites-item__category,html[data-theme="light"] .favourites-modal__heading p,html[data-theme="light"] .favourites-modal__empty{color:#56606c}
+html[data-theme="light"] .favourites-modal__close{color:#252a31}
+html[data-theme="light"] .favourites-item__open{background:#fff;border-color:rgba(0,0,0,.16)}
+
+@media(max-width:600px){
+  .favourites-modal{padding:.65rem}
+  .favourites-modal__panel{padding:1rem;max-height:86vh}
+  .favourites-item{align-items:flex-start}
+  .favourites-item__actions{gap:.3rem}
+  .favourites-item__open{padding:.42rem .58rem}
+}

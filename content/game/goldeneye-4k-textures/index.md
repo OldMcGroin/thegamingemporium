@@ -7,7 +7,7 @@ params:
   category: "texture-packs"
   genre1: "first-person-shooter"
   genre2: ""
-  series: "007"
+  series: "James Bond"
   video_link: ""
   date_added: "2026-01-01"
   image: ""

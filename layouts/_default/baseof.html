@@ -95,6 +95,7 @@
           </div>
           {{ end }}
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
+          <button class="nav__link nav__link--pill nav__link--favourites" type="button" data-favourites-open aria-haspopup="dialog" aria-controls="favouritesModal">❤️ Favourites <span class="favourites-count" data-favourites-count>0</span></button>
           <span class="rss-copy-wrap">
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
@@ -152,6 +153,40 @@
         </select>
         <button class="surprise-modal__go" type="button" data-surprise-go>Surprise Me!</button>
         <p class="surprise-modal__message" data-surprise-message aria-live="polite"></p>
+      </section>
+    </div>
+
+    {{/* Favourites: kept entirely in the visitor's browser via localStorage. */}}
+    <script type="application/json" id="favouritesGamesData">
+      [
+      {{- $favouriteGames := site.Data.games -}}
+      {{- if not hugo.IsServer -}}{{- $favouriteGames = where $favouriteGames "hidden" "ne" true -}}{{- end -}}
+      {{- $firstFavourite := true -}}
+      {{- range $g := $favouriteGames -}}
+        {{- if $g.link -}}
+          {{- $favSlug := urlize $g.title -}}
+          {{- if not $firstFavourite }},{{ end -}}
+          {"id":{{ $favSlug | jsonify | safeJS }},"title":{{ $g.title | jsonify | safeJS }},"url":{{ $g.link | jsonify | safeJS }},"categoryLabel":{{ (partial "format-category.html" $g.category) | jsonify | safeJS }}}
+          {{- $firstFavourite = false -}}
+        {{- end -}}
+      {{- end -}}
+      ]
+    </script>
+    <div class="favourites-modal" id="favouritesModal" data-favourites-modal hidden>
+      <div class="favourites-modal__backdrop" data-favourites-close></div>
+      <section class="favourites-modal__panel" role="dialog" aria-modal="true" aria-labelledby="favouritesTitle">
+        <button class="favourites-modal__close" type="button" aria-label="Close Favourites" data-favourites-close>✕</button>
+        <div class="favourites-modal__heading">
+          <h2 id="favouritesTitle">❤️ Favourites</h2>
+          <p>Saved on this device — no account needed.</p>
+        </div>
+        <div class="favourites-modal__empty" data-favourites-empty>
+          <div class="favourites-modal__empty-heart" aria-hidden="true">♡</div>
+          <strong>No favourites yet</strong>
+          <span>Tap the heart on any game card to save it here.</span>
+        </div>
+        <div class="favourites-modal__list" data-favourites-list></div>
+        <button class="favourites-modal__clear" type="button" data-favourites-clear hidden>Clear all favourites</button>
       </section>
     </div>
 
@@ -233,6 +268,8 @@
   <script src="{{ $suggestionsJS.RelPermalink }}" integrity="{{ $suggestionsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $surpriseJS := resources.Get "js/surprise-me.js" | minify | fingerprint }}
   <script src="{{ $surpriseJS.RelPermalink }}" integrity="{{ $surpriseJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $favouritesJS := resources.Get "js/favourites.js" | minify | fingerprint }}
+  <script src="{{ $favouritesJS.RelPermalink }}" integrity="{{ $favouritesJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}

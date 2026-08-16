@@ -32,12 +32,16 @@ Image strategy (scales to thousands of items):
 {{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
 {{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
 {{- $genreDisp := delimit $genres ", " -}}
-<div class="game-card" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
+<div class="game-card" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
   {{/* Only show the helper button while running `hugo server` (local dev) */}}
   {{- if and (isset . "ctx") hugo.IsServer -}}
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
     <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy image slug">Copy filename</button>
   {{- end -}}
+<button class="game-card__favourite" type="button" data-favourite-toggle data-favourite-id="{{ $slug }}" aria-label="Add {{ $title }} to favourites" title="Add to favourites" aria-pressed="false">
+  <span aria-hidden="true">♡</span>
+</button>
+
 {{- if hugo.IsServer -}}
   <button class="admin-visibility-toggle"
           type="button"
@@ -67,6 +71,7 @@ Image strategy (scales to thousands of items):
         <span class="pill">{{ $catDisp }}</span>
         {{/* Extra, more visible badge for the Utilities category */}}
         {{ if eq $g.category "utilities" }}<span class="pill pill--utilities">🛠 UTILITIES</span>{{ end }}
+        {{ if eq $g.category "browser-based" }}<span class="pill pill--play-browser">▶ PLAY IN BROWSER</span>{{ end }}
         {{ if $genreDisp }}<span class="pill pill--muted">{{ $genreDisp }}</span>{{ end }}
         {{ if $g.video_link }}<span class="pill pill--video" data-video="{{ $g.video_link }}">▶ VIDEO</span>{{ end }}
       </div>
