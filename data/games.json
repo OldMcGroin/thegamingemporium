@@ -35519,7 +35519,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-15",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 2721,
@@ -35560,7 +35561,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-   {
+  {
     "id": 2724,
     "title": "Castlevania: Symphony of the Night for Android",
     "category": "android-ports",
@@ -35573,7 +35574,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-   {
+  {
     "id": 2725,
     "title": "Goldeneye 007 Random-Eye-zer Mod",
     "category": "mods",
@@ -35586,7 +35587,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-   {
+  {
     "id": 2726,
     "title": "Outlast VR",
     "category": "vr-ports",
@@ -35599,7 +35600,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-   {
+  {
     "id": 2727,
     "title": "Mine64 - Minecraft for N64 in Browser",
     "category": "browser-based",
@@ -35612,7 +35613,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-   {
+  {
     "id": 2728,
     "title": "Sim Copter Reimplementation",
     "category": "decompilations-recompilations",
@@ -35625,8 +35626,4 @@
     "date_added": "2026-08-15",
     "image": ""
   }
-
-
-
-
 ]
