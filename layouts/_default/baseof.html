@@ -36,22 +36,8 @@
   {{/* Page-specific preloads for above-the-fold card images */}}
   {{ block "preloads" . }}{{ end }}
 
-  {{/*
-  Map: tracking-id -> external link, used by Most Popular dropdown.
-  Supports an optional stable slug override per game (field: "slug" in games.json)
-  so title edits don't break Most Popular links.
-  */}}
-  <script>
-    window.__GAMES_BY_SLUG__ = {
-      {{- $slugGames := site.Data.games -}}
-      {{- if not hugo.IsServer -}}{{- $slugGames = where $slugGames "hidden" "ne" true -}}{{- end -}}
-      {{- range $i, $g := $slugGames -}}
-        {{- $slug := default (urlize $g.title) $g.slug -}}
-        {{- if $i }},{{ end -}}
-        {{- printf "%q" $slug -}}: {"title": {{ printf "%q" $g.title }}, "url": {{ printf "%q" $g.link }} }
-      {{- end -}}
-    };
-  </script>
+  {{/* Most Popular lookup data is generated once, outside Hugo templates. */}}
+  <script src="{{ "/js/tge-feature-data.js" | relURL }}"></script>
 </head>
 <body>
 <div class="site-bg">
@@ -96,6 +82,7 @@
           {{ end }}
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
           <button class="nav__link nav__link--pill nav__link--favourites" type="button" data-favourites-open aria-haspopup="dialog" aria-controls="favouritesModal">❤️ Favourites <span class="favourites-count" data-favourites-count>0</span></button>
+          <button class="nav__link nav__link--pill nav__link--stats" type="button" data-stats-open aria-haspopup="dialog" aria-controls="siteStatsModal">📊 Site Stats</button>
           <span class="rss-copy-wrap">
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
@@ -126,21 +113,7 @@
     </div>
     {{ end }}
 
-    {{/* Surprise Me: all visible linked entries, grouped client-side by category. */}}
-    <script type="application/json" id="surpriseGamesData">
-      [
-      {{- $surpriseGames := site.Data.games -}}
-      {{- if not hugo.IsServer -}}{{- $surpriseGames = where $surpriseGames "hidden" "ne" true -}}{{- end -}}
-      {{- $firstSurprise := true -}}
-      {{- range $g := $surpriseGames -}}
-        {{- if and $g.link $g.category -}}
-          {{- if not $firstSurprise }},{{ end -}}
-          {"title":{{ $g.title | jsonify | safeJS }},"url":{{ $g.link | jsonify | safeJS }},"category":{{ $g.category | jsonify | safeJS }},"categoryLabel":{{ (partial "format-category.html" $g.category) | jsonify | safeJS }}}
-          {{- $firstSurprise = false -}}
-        {{- end -}}
-      {{- end -}}
-      ]
-    </script>
+    {{/* Surprise Me data is pre-generated once by tools/generate_feature_data.py. */}}
     <div class="surprise-modal" id="surpriseModal" data-surprise-modal hidden>
       <div class="surprise-modal__backdrop" data-surprise-close></div>
       <section class="surprise-modal__panel" role="dialog" aria-modal="true" aria-labelledby="surpriseTitle">
@@ -156,22 +129,25 @@
       </section>
     </div>
 
-    {{/* Favourites: kept entirely in the visitor's browser via localStorage. */}}
-    <script type="application/json" id="favouritesGamesData">
-      [
-      {{- $favouriteGames := site.Data.games -}}
-      {{- if not hugo.IsServer -}}{{- $favouriteGames = where $favouriteGames "hidden" "ne" true -}}{{- end -}}
-      {{- $firstFavourite := true -}}
-      {{- range $g := $favouriteGames -}}
-        {{- if $g.link -}}
-          {{- $favSlug := urlize $g.title -}}
-          {{- if not $firstFavourite }},{{ end -}}
-          {"id":{{ $favSlug | jsonify | safeJS }},"title":{{ $g.title | jsonify | safeJS }},"url":{{ $g.link | jsonify | safeJS }},"categoryLabel":{{ (partial "format-category.html" $g.category) | jsonify | safeJS }}}
-          {{- $firstFavourite = false -}}
-        {{- end -}}
-      {{- end -}}
-      ]
-    </script>
+    {{/* Site Stats values are pre-generated once, avoiding a full games.json loop on every page. */}}
+    <div class="site-stats-modal" id="siteStatsModal" data-stats-modal hidden>
+      <div class="site-stats-modal__backdrop" data-stats-close></div>
+      <section class="site-stats-modal__panel" role="dialog" aria-modal="true" aria-labelledby="siteStatsTitle">
+        <button class="site-stats-modal__close" type="button" aria-label="Close Site Stats" data-stats-close>✕</button>
+        <div class="site-stats-modal__heading">
+          <h2 id="siteStatsTitle">📊 Site Stats</h2>
+          <p>A quick look around The Gaming Emporium.</p>
+        </div>
+        <div class="site-stats-grid site-stats-grid--summary">
+          <div class="site-stat site-stat--summary"><strong data-stat-key="totalProjects">—</strong><span>Total Projects</span></div>
+          <div class="site-stat site-stat--summary"><strong data-stat-key="addedThisMonth">—</strong><span>Added This Month</span></div>
+        </div>
+        <h3 class="site-stats-modal__categories-title">Categories</h3>
+        <div class="site-stats-grid site-stats-grid--categories" data-category-stats></div>
+      </section>
+    </div>
+
+    {{/* Favourites remain entirely local to the visitor's browser. */}}
     <div class="favourites-modal" id="favouritesModal" data-favourites-modal hidden>
       <div class="favourites-modal__backdrop" data-favourites-close></div>
       <section class="favourites-modal__panel" role="dialog" aria-modal="true" aria-labelledby="favouritesTitle">
@@ -221,7 +197,7 @@
             <option value="rom-hacks">ROM Hacks</option>
             <option value="texture-packs">Texture Packs</option>
             <option value="utility">Utilities</option>
-            <option value="vr-ports">VR Ports</option>
+            <option value="vr-ports">VR</option>
           </select>
           <div class="suggestion-hp" aria-hidden="true">
             <label for="suggestionWebsite">Website</label>
@@ -270,6 +246,8 @@
   <script src="{{ $surpriseJS.RelPermalink }}" integrity="{{ $surpriseJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $favouritesJS := resources.Get "js/favourites.js" | minify | fingerprint }}
   <script src="{{ $favouritesJS.RelPermalink }}" integrity="{{ $favouritesJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $siteStatsJS := resources.Get "js/site-stats.js" | minify | fingerprint }}
+  <script src="{{ $siteStatsJS.RelPermalink }}" integrity="{{ $siteStatsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}

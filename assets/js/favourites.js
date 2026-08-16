@@ -8,11 +8,9 @@
   var emptyEl = modal ? modal.querySelector("[data-favourites-empty]") : null;
   var clearBtn = modal ? modal.querySelector("[data-favourites-clear]") : null;
   var countEls = document.querySelectorAll("[data-favourites-count]");
-  var dataNode = document.getElementById("favouritesGamesData");
-  var games = [];
+  var games = (window.TGE_FEATURE_DATA && Array.isArray(window.TGE_FEATURE_DATA.favourites)) ? window.TGE_FEATURE_DATA.favourites : [];
   var gameMap = {};
 
-  try { games = JSON.parse(dataNode ? dataNode.textContent : "[]"); } catch (e) { games = []; }
   games.forEach(function (g) {
     g.id = String(g.id || "");
     g.title = String(g.title || "");

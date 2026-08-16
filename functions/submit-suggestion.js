@@ -171,7 +171,7 @@ const CATEGORY_LABELS = Object.freeze({
   "rom-hacks": "ROM Hacks",
   "texture-packs": "Texture Packs",
   "utility": "Utilities",
-  "vr-ports": "VR Ports"
+  "vr-ports": "VR"
 });
 
 function categoryLabel(category) {

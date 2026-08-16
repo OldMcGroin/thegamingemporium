@@ -1,4 +1,4 @@
 ---
-title: "VR Ports"
+title: "VR"
 slug: "vr-ports"
 ---

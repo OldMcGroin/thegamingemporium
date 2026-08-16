@@ -15,6 +15,7 @@ fi
 # Always regenerate derived content before building
 python3 tools/generate_game_pages.py
 python3 tools/generate_series_pages.py
+python3 tools/generate_feature_data.py --include-hidden 0
 
 # Live build: (you said you don't care if hidden appears in search)
 # If you ever want hidden excluded later, change INCLUDE_HIDDEN=1 -> 0

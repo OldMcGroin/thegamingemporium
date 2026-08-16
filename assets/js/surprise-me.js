@@ -7,9 +7,7 @@
   var select = modal.querySelector("[data-surprise-category]");
   var go = modal.querySelector("[data-surprise-go]");
   var msg = modal.querySelector("[data-surprise-message]");
-  var dataNode = document.getElementById("surpriseGamesData");
-  var games = [];
-  try { games = JSON.parse(dataNode ? dataNode.textContent : "[]"); } catch (e) {}
+  var games = (window.TGE_FEATURE_DATA && Array.isArray(window.TGE_FEATURE_DATA.surprise)) ? window.TGE_FEATURE_DATA.surprise : [];
 
   // Hugo now emits proper JSON strings directly. Do not URL-encode display text:
   // URL encoding is what caused spaces to appear as + and ampersands as &amp;.
