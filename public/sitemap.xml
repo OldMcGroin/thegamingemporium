@@ -1788,6 +1788,8 @@
   </url><url>
     <loc>http://localhost:1313/game/fallout-new-vegas-long-15-expansion/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fallout-new-vegas-tale-of-two-wastelands/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fallout-new-vegas-vanilla-plus-ao/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fallout-the-new-west/</loc>
@@ -2523,6 +2525,10 @@
     <loc>http://localhost:1313/series/j-b-harold-blue-chicago-blues/</loc>
   </url><url>
     <loc>http://localhost:1313/game/j-b-harold-blue-chicago-blues-sega-saturn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jackie-chan-stuntmaster-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jackie-chan-stuntmaster-pc-port-steam-deck-fork/</loc>
   </url><url>
     <loc>http://localhost:1313/series/jagged-alliance/</loc>
   </url><url>
@@ -4802,6 +4808,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-3-angel-island-revisited/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-4-episode-1-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-advance-2-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-advance-3-sp/</loc>
@@ -5147,6 +5155,8 @@
     <loc>http://localhost:1313/series/stratosphere-conquest-of-the-skies/</loc>
   </url><url>
     <loc>http://localhost:1313/series/street-fighter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/street-fighter-3-3rd-strike-online-edition-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-aplha-3-recompilation/</loc>
   </url><url>
