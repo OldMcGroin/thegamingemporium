@@ -5,6 +5,9 @@ import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 import tempfile
+from urllib.parse import urlparse, parse_qs, urlencode
+from urllib.request import Request, urlopen
+from urllib.error import URLError, HTTPError
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 GAMES_PATH = PROJECT_ROOT / "data" / "games.json"
@@ -24,6 +27,35 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(b"")
 
     def do_GET(self):
+        # Preview-only proxy for the live popularity API. Browsers can be
+        # inconsistent about cross-origin requests from localhost, while the
+        # production site uses /api/top on the same origin. Keeping the proxy
+        # here makes local preview behave like production without changing D1.
+        if self.path.startswith("/popularity"):
+            try:
+                parsed = urlparse(self.path)
+                q = parse_qs(parsed.query)
+                allowed = {}
+                for key in ("mode", "limit", "days", "ids"):
+                    if key in q and q[key]:
+                        allowed[key] = q[key][0]
+                target = "https://thegamingemporium.com/api/top"
+                if allowed:
+                    target += "?" + urlencode(allowed)
+                req = Request(target, headers={"User-Agent": "TGE local preview"})
+                with urlopen(req, timeout=15) as resp:
+                    body = resp.read()
+                    code = getattr(resp, "status", 200)
+                self._headers(code, "application/json; charset=utf-8")
+                self.wfile.write(body)
+            except HTTPError as e:
+                self._headers(e.code, "application/json; charset=utf-8")
+                self.wfile.write(e.read() or b'{"ok":false,"error":"upstream_error"}')
+            except Exception as e:
+                self._headers(502, "application/json; charset=utf-8")
+                self.wfile.write(json.dumps({"ok": False, "error": "proxy_error", "detail": str(e)}).encode("utf-8"))
+            return
+
         if self.path == "/ping":
             self._headers(200)
             self.wfile.write(b"OK")

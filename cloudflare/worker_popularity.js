@@ -58,7 +58,17 @@ export default {
 
         let rows = [];
 
-        if (mode === "trending") {
+        if (mode === "hidden") {
+          // Hidden Gems: return genuinely low-engagement projects directly
+          // from D1 instead of making the browser probe thousands of IDs.
+          // Keep only projects that have at least one click; eligibility by age
+          // is applied client-side using the generated site data.
+          const hiddenLimit = clampInt(url.searchParams.get("limit"), 100, 1, 100);
+          const res = await env.DB.prepare(
+            `SELECT id, count FROM clicks WHERE count > 0 ORDER BY count ASC, RANDOM() LIMIT ?1`
+          ).bind(hiddenLimit).all();
+          rows = res.results || [];
+        } else if (mode === "trending") {
           // Last N days inclusive (e.g. days=7 => today + previous 6 days)
           const offset = -(days - 1);
           if (ids.length) {

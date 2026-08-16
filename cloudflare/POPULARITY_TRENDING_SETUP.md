@@ -55,3 +55,8 @@ When deploying this site version, also replace the Worker code with the included
 
 - `thegamingemporium.com/api/click*`
 - `thegamingemporium.com/api/top*`
+
+
+## Hidden Gems mode
+
+This build adds `mode=hidden` to the existing `/api/top` Worker route. It returns a randomised pool of projects with low, non-zero all-time click counts. The browser then filters that pool against the site's 30-day eligibility data. No new D1 table or Worker route is required; deploy the included `cloudflare/worker_popularity.js` to the existing popularity Worker.

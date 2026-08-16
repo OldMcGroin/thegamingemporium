@@ -104,7 +104,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/main.min.dfed22e1d4ba06503b2de3203826904a390dd167ff3907812088fa58e0fbbb0c.css" integrity="sha256-3&#43;0i4dS6BlA7LeMgOCaQSjkN0Wf/OQeBIIj6WOD7uww=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/css/main.min.b36d27553a283c64d64527ebeac298281132715bc8ba1b0c9b1c4b83b1fb2efd.css" integrity="sha256-s20nVTooPGTWRSfr6sKYKBEycVvIuhsMmxxLg7H7Lv0=" crossorigin="anonymous" />
 
   <link rel="alternate" type="application/rss+xml" title="The Gaming Emporium — Recent Additions" href="/rss.xml" />
 
@@ -153,6 +153,7 @@
           <a class="nav__link" href="/all/">All</a>
           
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
+          <button class="nav__link nav__link--pill nav__link--hidden-gems" type="button" data-hidden-gems-open aria-haspopup="dialog" aria-controls="hiddenGemsModal">💎 Hidden Gems</button>
           <button class="nav__link nav__link--pill nav__link--favourites" type="button" data-favourites-open aria-haspopup="dialog" aria-controls="favouritesModal">❤️ Favourites <span class="favourites-count" data-favourites-count>0</span></button>
           <button class="nav__link nav__link--pill nav__link--stats" type="button" data-stats-open aria-haspopup="dialog" aria-controls="siteStatsModal">📊 Site Stats</button>
           <span class="rss-copy-wrap">
@@ -179,6 +180,22 @@
         </select>
         <button class="surprise-modal__go" type="button" data-surprise-go>Surprise Me!</button>
         <p class="surprise-modal__message" data-surprise-message aria-live="polite"></p>
+      </section>
+    </div>
+
+
+    
+    <div class="hidden-gems-modal" id="hiddenGemsModal" data-hidden-gems-modal hidden>
+      <div class="hidden-gems-modal__backdrop" data-hidden-gems-close></div>
+      <section class="hidden-gems-modal__panel" role="dialog" aria-modal="true" aria-labelledby="hiddenGemsTitle">
+        <button class="hidden-gems-modal__close" type="button" aria-label="Close Hidden Gems" data-hidden-gems-close>✕</button>
+        <div class="hidden-gems-modal__heading">
+          <h2 id="hiddenGemsTitle">💎 Hidden Gems</h2>
+          <p>Great projects that deserve a little more attention.</p>
+        </div>
+        <p class="hidden-gems-modal__message" data-hidden-gems-message aria-live="polite">Finding overlooked projects…</p>
+        <div class="hidden-gems-modal__list" data-hidden-gems-list></div>
+        <button class="hidden-gems-modal__refresh" type="button" data-hidden-gems-refresh>💎 Refresh Gems</button>
       </section>
     </div>
 
@@ -319,8 +336,8 @@
   
   
   <script src="/js/home-random.min.f09c4f48e1808142d6976126198c0682cefede693987c6689c9c5aa112b3a54f.js" integrity="sha256-8JxPSOGAgULWl2EmGYwGgs7&#43;3mk5h8ZonJxaoRKzpU8=" crossorigin="anonymous" defer></script>
-  <script src="/games-slug-map.js?v=1786914984" defer></script>
-<script src="/search-index.js?v=1786914984" defer></script>
+  <script src="/games-slug-map.js?v=1786916260" defer></script>
+<script src="/search-index.js?v=1786916260" defer></script>
 
 <script src="/js/search.min.aa08452716e208abc9f3e7132dea9b184edb80c6970329976182f362a24ac055.js" integrity="sha256-qghFJxbiCKvJ8&#43;cTLeqbGE7bgMaXAymXYYLzYqJKwFU=" crossorigin="anonymous" defer></script>
 
@@ -344,6 +361,8 @@
   <script src="/js/favourites.min.51e9e874b474f8a8c2e01f9550410d00169d69c7cdbfb9dbfe051f666d6ed32e.js" integrity="sha256-UenodLR0&#43;KjC4B&#43;VUEENABadacfNv7nb/gUfZm1u0y4=" crossorigin="anonymous" defer></script>
   
   <script src="/js/site-stats.min.5459b3f82e27e9d72eea0138299745d90f1ede007f20fb5813a77809d80cd7e2.js" integrity="sha256-VFmz&#43;C4n6dcu6gE4KZdF2Q8e3gB/IPtYE6d4CdgM1&#43;I=" crossorigin="anonymous" defer></script>
+  
+  <script src="/js/hidden-gems.min.9b31f2245d517c711e7883ce7eb9958409b559f1d3354e96cd6255f21ecd24d3.js" integrity="sha256-mzHyJF1RfHEeeIPOfrmVhAm1WfHTNU6WzWJV8h7NJNM=" crossorigin="anonymous" defer></script>
 
   
   

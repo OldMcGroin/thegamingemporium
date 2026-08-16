@@ -2161,3 +2161,36 @@ html[data-theme="light"] .site-stat{background:#f7f8fa;border-color:rgba(0,0,0,.
   .site-stat{min-height:92px;padding:.7rem .45rem}
   .site-stat span{font-size:.78rem}
 }
+
+/* Hidden Gems */
+.nav__link--hidden-gems{white-space:nowrap}
+.hidden-gems-modal[hidden]{display:none}
+.hidden-gems-modal{position:fixed;inset:0;z-index:10027;display:grid;place-items:center;padding:1rem}
+.hidden-gems-modal__backdrop{position:absolute;inset:0;background:rgba(0,0,0,.72)}
+.hidden-gems-modal__panel{position:relative;width:min(100%,620px);max-height:min(82vh,760px);border:1px solid var(--border);border-radius:18px;background:var(--surface,#171717);color:var(--text);padding:1.3rem;box-shadow:0 20px 60px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:.85rem;overflow:hidden}
+.hidden-gems-modal__heading h2{margin:0 2rem .25rem 0}
+.hidden-gems-modal__heading p{margin:0;color:var(--muted)}
+.hidden-gems-modal__close{position:absolute;right:.8rem;top:.7rem;border:0;background:transparent;color:var(--text);font-size:1.15rem;cursor:pointer}
+.hidden-gems-modal__message{margin:0;color:var(--muted);font-size:.92rem;min-height:1.2em}
+.hidden-gems-modal__list{display:flex;flex-direction:column;gap:.55rem;overflow:auto;padding-right:3px}
+.hidden-gem{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:.8rem;padding:.75rem .85rem;border:1px solid var(--border);border-radius:12px;background:var(--surface-2,#202020);color:var(--text);text-decoration:none;transition:transform .12s ease,border-color .12s ease,background .12s ease}
+.hidden-gem:hover{transform:translateY(-1px);border-color:rgba(255,196,0,.7);background:rgba(255,196,0,.06)}
+.hidden-gem__icon{font-size:1.25rem}
+.hidden-gem__text{min-width:0;display:flex;flex-direction:column;gap:.15rem}
+.hidden-gem__text strong{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hidden-gem__text span{font-size:.82rem;color:var(--muted)}
+.hidden-gem__arrow{font-size:1.1rem;color:#ffc400;font-weight:900}
+.hidden-gems-modal__refresh{align-self:center;border:0;border-radius:999px;background:#ffc400;color:#151515;padding:.72rem 1.15rem;font:inherit;font-weight:900;cursor:pointer;min-width:170px}
+.hidden-gems-modal__refresh:hover{filter:brightness(.97)}
+.hidden-gems-modal__refresh:disabled{opacity:.55;cursor:wait}
+.hidden-gems-modal__empty{padding:2rem 1rem;text-align:center;color:var(--muted);border:1px dashed var(--border);border-radius:12px}
+body.has-hidden-gems-modal{overflow:hidden}
+html[data-theme="light"] .hidden-gems-modal__backdrop{background:rgba(24,32,42,.52);backdrop-filter:blur(2px)}
+html[data-theme="light"] .hidden-gems-modal__panel{background:#fff;color:#20242a;border-color:rgba(0,0,0,.16);box-shadow:0 24px 70px rgba(20,28,38,.28)}
+html[data-theme="light"] .hidden-gem{background:#f7f8fa;border-color:rgba(0,0,0,.13);color:#20242a}
+html[data-theme="light"] .hidden-gem:hover{background:#fff9dd;border-color:#d8a900}
+@media (max-width:600px){
+  .hidden-gems-modal{padding:.6rem}
+  .hidden-gems-modal__panel{padding:1rem;max-height:88vh}
+  .hidden-gem{padding:.68rem .7rem;gap:.65rem}
+}

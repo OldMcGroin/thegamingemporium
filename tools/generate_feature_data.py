@@ -2,7 +2,7 @@
 import argparse, json, re, unicodedata
 from collections import Counter
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 
 ROOT = Path(__file__).resolve().parents[1]
 GAMES = ROOT / 'data' / 'games.json'
@@ -50,6 +50,7 @@ def main():
 
     surprise = []
     favourites = []
+    hidden_gems = []
     games_by_slug = {}
     cats = set()
     month_prefix = datetime.now().strftime('%Y-%m')
@@ -62,11 +63,27 @@ def main():
         label = category_label(cat)
         tracking_id = str(g.get('slug') or slugify(title))
         if tracking_id:
-            games_by_slug[tracking_id] = {'title': title, 'url': link}
+            games_by_slug[tracking_id] = {'title': title, 'url': link, 'categoryLabel': label}
         if link and cat:
             surprise.append({'title': title, 'url': link, 'category': cat, 'categoryLabel': label})
         if link:
             favourites.append({'id': slugify(title), 'title': title, 'url': link, 'categoryLabel': label})
+
+        # Hidden Gems excludes entries known to be less than 30 days old.
+        # Legacy entries with no date are treated as established so older
+        # parts of the collection are not unfairly excluded.
+        eligible_for_gems = bool(link and tracking_id)
+        raw_date = str(g.get('date_added') or '').strip().replace('/', '-')
+        if raw_date:
+            try:
+                added_date = datetime.strptime(raw_date[:10], '%Y-%m-%d')
+                if added_date > (datetime.now() - timedelta(days=30)):
+                    eligible_for_gems = False
+            except ValueError:
+                pass
+        if eligible_for_gems:
+            hidden_gems.append(tracking_id)
+
         if cat: cats.add(cat)
         if str(g.get('date_added') or '').startswith(month_prefix):
             added_this_month += 1
@@ -84,7 +101,7 @@ def main():
         'categoryCounts': category_stats,
     }
 
-    payload = {'surprise': surprise, 'favourites': favourites, 'stats': stats, 'gamesBySlug': games_by_slug}
+    payload = {'surprise': surprise, 'favourites': favourites, 'hiddenGems': hidden_gems, 'stats': stats, 'gamesBySlug': games_by_slug}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     compact = json.dumps(payload, ensure_ascii=False, separators=(',', ':'))
     OUT.write_text('window.TGE_FEATURE_DATA=' + compact + ';window.__GAMES_BY_SLUG__=window.TGE_FEATURE_DATA.gamesBySlug||{};\n', encoding='utf-8')
