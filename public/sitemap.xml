@@ -2256,8 +2256,6 @@
   </url><url>
     <loc>http://localhost:1313/game/gyakuten-kenji-2-nintendo-ds/</loc>
   </url><url>
-    <loc>http://localhost:1313/game/gzdoom-with-gzdeck-mods/</loc>
-  </url><url>
     <loc>http://localhost:1313/game/h-craft-championship/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hacking-games-in-hex-sega-genesis-edition/</loc>
@@ -3098,9 +3096,9 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x-recompilation/</loc>
   </url><url>
-    <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
-  </url><url>
     <loc>http://localhost:1313/game/mega-man-x-omega-blaster-ultimate-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x4-knot-beret/</loc>
   </url><url>
@@ -3603,8 +3601,6 @@
     <loc>http://localhost:1313/game/opendungeonsplus/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openenroth-open-reimplementation-of-might-and-magic-6-7-8-engine/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/opengoal-jak-daxter-and-jak-ii-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</loc>
   </url><url>
@@ -6525,8 +6521,6 @@
     <loc>http://localhost:1313/game/zelda-ocarina-of-time-3d/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-skyward-sword/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/zelda-twilight-princess/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-oni-link-begins/</loc>
   </url><url>

@@ -5,7 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jacobleeharris/tmhc"
   category: "in-the-works"
-  genre1: "car-combat"
+  genre1: "vehicular-combat"
   genre2: ""
   series: "Twisted Metal"
   video_link: ""
