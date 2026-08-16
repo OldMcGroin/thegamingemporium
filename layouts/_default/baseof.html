@@ -94,6 +94,7 @@
             </button>
           </div>
           {{ end }}
+          <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
           <span class="rss-copy-wrap">
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
@@ -123,6 +124,36 @@
     </div>
     </div>
     {{ end }}
+
+    {{/* Surprise Me: all visible linked entries, grouped client-side by category. */}}
+    <script type="application/json" id="surpriseGamesData">
+      [
+      {{- $surpriseGames := site.Data.games -}}
+      {{- if not hugo.IsServer -}}{{- $surpriseGames = where $surpriseGames "hidden" "ne" true -}}{{- end -}}
+      {{- $firstSurprise := true -}}
+      {{- range $g := $surpriseGames -}}
+        {{- if and $g.link $g.category -}}
+          {{- if not $firstSurprise }},{{ end -}}
+          {"title":{{ $g.title | jsonify | safeJS }},"url":{{ $g.link | jsonify | safeJS }},"category":{{ $g.category | jsonify | safeJS }},"categoryLabel":{{ (partial "format-category.html" $g.category) | jsonify | safeJS }}}
+          {{- $firstSurprise = false -}}
+        {{- end -}}
+      {{- end -}}
+      ]
+    </script>
+    <div class="surprise-modal" id="surpriseModal" data-surprise-modal hidden>
+      <div class="surprise-modal__backdrop" data-surprise-close></div>
+      <section class="surprise-modal__panel" role="dialog" aria-modal="true" aria-labelledby="surpriseTitle">
+        <button class="surprise-modal__close" type="button" aria-label="Close Surprise Me" data-surprise-close>✕</button>
+        <h2 id="surpriseTitle">🎲 Surprise Me</h2>
+        <p>Pick from the whole Emporium or narrow it down to a category.</p>
+        <label for="surpriseCategory">Category</label>
+        <select id="surpriseCategory" data-surprise-category>
+          <option value="">All Categories</option>
+        </select>
+        <button class="surprise-modal__go" type="button" data-surprise-go>Surprise Me!</button>
+        <p class="surprise-modal__message" data-surprise-message aria-live="polite"></p>
+      </section>
+    </div>
 
     <div class="suggestion-modal" id="suggestionModal" data-suggestion-modal hidden>
       <div class="suggestion-modal__backdrop" data-suggestion-close></div>
@@ -200,6 +231,8 @@
   <script src="{{ $rssCopyJS.RelPermalink }}" integrity="{{ $rssCopyJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $suggestionsJS := resources.Get "js/suggestions.js" | minify | fingerprint }}
   <script src="{{ $suggestionsJS.RelPermalink }}" integrity="{{ $suggestionsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $surpriseJS := resources.Get "js/surprise-me.js" | minify | fingerprint }}
+  <script src="{{ $surpriseJS.RelPermalink }}" integrity="{{ $surpriseJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 
   {{/* Dev-only helper: copy the required image filename for any game card */}}
   {{ if hugo.IsServer }}

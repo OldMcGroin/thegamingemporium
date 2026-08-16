@@ -1988,3 +1988,25 @@ html[data-theme="light"] .category-popular__rank{ background:rgba(0,0,0,0.07); b
   .category-popular__actions{ margin-top:8px; justify-content:space-between; }
   .category-popular__updated{ margin-top:0; }
 }
+
+/* Surprise Me */
+.nav__link--surprise{background:#f5c400;color:rgba(0,0,0,.88)}
+.surprise-modal[hidden]{display:none}
+.surprise-modal{position:fixed;inset:0;z-index:10020;display:grid;place-items:center;padding:1rem}
+.surprise-modal__backdrop{position:absolute;inset:0;background:rgba(0,0,0,.72)}
+.surprise-modal__panel{position:relative;width:min(100%,440px);border:1px solid var(--border);border-radius:18px;background:var(--surface,#171717);color:var(--text);padding:1.4rem;box-shadow:0 20px 60px rgba(0,0,0,.45);display:grid;gap:.75rem}
+.surprise-modal__panel h2{margin:0 2rem 0 0}
+.surprise-modal__panel p{color:var(--muted);margin:0 0 .25rem}
+.surprise-modal__panel label{font-weight:800}
+.surprise-modal__panel select{width:100%;box-sizing:border-box;border:1px solid var(--border);border-radius:10px;background:var(--surface-2,#202020);color:var(--text);padding:.8rem;font:inherit}
+.surprise-modal__panel select:focus{outline:2px solid #ffc400;outline-offset:2px}
+.surprise-modal__close{position:absolute;right:.8rem;top:.7rem;border:0;background:transparent;color:var(--text);font-size:1.15rem;cursor:pointer}
+.surprise-modal__go{margin-top:.2rem;border:0;border-radius:999px;background:#ffc400;color:#151515;padding:.8rem 1rem;font:inherit;font-weight:900;cursor:pointer}
+.surprise-modal__go:hover{filter:brightness(.97)}
+.surprise-modal__message{min-height:1.2em!important;margin:0!important;font-weight:700;text-align:center}
+body.has-surprise-modal{overflow:hidden}
+html[data-theme="light"] .surprise-modal__backdrop{background:rgba(24,32,42,.52);backdrop-filter:blur(2px)}
+html[data-theme="light"] .surprise-modal__panel{background:#fff;color:#20242a;border-color:rgba(0,0,0,.16);box-shadow:0 24px 70px rgba(20,28,38,.28)}
+html[data-theme="light"] .surprise-modal__panel p{color:#4d5662}
+html[data-theme="light"] .surprise-modal__panel select{background:#f7f8fa;color:#171a1f;border-color:rgba(0,0,0,.20)}
+html[data-theme="light"] .surprise-modal__close{color:#252a31}
