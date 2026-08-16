@@ -30973,7 +30973,7 @@
     "id": 2374,
     "title": "Metal Slug XX Recompilation",
     "category": "decompilations-recompilations",
-    "link": "https://github.com/FluffyQuack/rexglue-sdk/releases",
+    "link": "https://github.com/FluffyQuack/rexglue-MetalSlugXX",
     "genre1": "action",
     "genre2": "shoot-em-up",
     "series": "Metal Slug",
@@ -35767,6 +35767,32 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2740,
+    "title": "Sonic the Hedgehog for Android",
+    "category": "android-ports",
+    "link": "https://sonic-the-hedgehog.en.uptodown.com/android",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-17",
+    "image": ""
+  },
+    {
+    "id": 2741,
+    "title": "Sonic the Hedgehog 2 for Android",
+    "category": "android-ports",
+    "link": "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-17",
     "image": ""
   }
 

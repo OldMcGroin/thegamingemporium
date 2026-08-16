@@ -3,7 +3,7 @@ title: "Metal Slug XX Recompilation"
 url: "/game/metal-slug-xx-recompilation/"
 type: game
 params:
-  external_link: "https://github.com/FluffyQuack/rexglue-sdk/releases"
+  external_link: "https://github.com/FluffyQuack/rexglue-MetalSlugXX"
   category: "decompilations-recompilations"
   genre1: "action"
   genre2: "shoot-em-up"
