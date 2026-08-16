@@ -35625,5 +35625,88 @@
     "notes": "",
     "date_added": "2026-08-15",
     "image": ""
+  },
+    {
+    "id": 2729,
+    "title": "Dusklight - The Legend of Zelda Twilight Princess VR",
+    "category": "vr-ports",
+    "link": "https://github.com/JoeyAW/dusklight-vr/releases/",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/ioJsbBGZ0Cs?si=OjmoEMLy4hoUiL-Z",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2730,
+    "title": "Rage Racer PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/khasinski/rage-racer-pc",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Ridge Racer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2731,
+    "title": "Pokemon Dawn of Darkness MMORPG",
+    "category": "fan-games",
+    "link": "https://pdod.dev/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2732,
+    "title": "Metroid Prime Hunters Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/mstan/ndsrecomp",
+    "genre1": "first-person-shooter",
+    "genre2": "metroidvania",
+    "series": "Metroid",
+    "video_link": "https://youtu.be/tvqnW6J6KU0?si=QJtsWS3I2Cdw6PVR",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2733,
+    "title": "Dragon Ball Z: Buu's Fury Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/DragonBallZBuusFuryRecomp",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
+  },
+    {
+    "id": 2734,
+    "title": "ChonkCraft - Warcraft 2 Rebuilt",
+    "category": "open-source",
+    "link": "https://chonkbase.net/chonkcraft/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Warcraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-16",
+    "image": ""
   }
+
+
+
+
+
 ]
