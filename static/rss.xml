@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 16 Aug 2026 23:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:48:38 +0000</lastBuildDate>
     <item>
       <title>Sonic the Hedgehog for Android</title>
       <link>https://thegamingemporium.com/game/sonic-the-hedgehog-for-android/</link>
@@ -27,6 +27,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2-for-android.webp" alt="Sonic the Hedgehog 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2-for-android.webp" alt="Sonic the Hedgehog 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Lighthouse - Banjo Kazooie Port for Android</title>
+      <link>https://thegamingemporium.com/game/lighthouse-banjo-kazooie-port-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/lighthouse-banjo-kazooie-port-for-android/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-port-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-port-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-port-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-port-for-android.webp" alt="Lighthouse - Banjo Kazooie Port for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Banjo Kazooie · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-port-for-android.webp" alt="Lighthouse - Banjo Kazooie Port for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Lighthouse - Banjo Kazooie PS Vita Port</title>
+      <link>https://thegamingemporium.com/game/lighthouse-banjo-kazooie-ps-vita-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/lighthouse-banjo-kazooie-ps-vita-port/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-ps-vita-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-ps-vita-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-ps-vita-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-ps-vita-port.webp" alt="Lighthouse - Banjo Kazooie PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Banjo Kazooie · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/lighthouse-banjo-kazooie-ps-vita-port.webp" alt="Lighthouse - Banjo Kazooie PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Banjo Kazooie · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Dusklight - The Legend of Zelda Twilight Princess VR</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-64-3ds-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-3ds-port.webp" alt="Mario Kart 64 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-3ds-port.webp" alt="Mario Kart 64 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Street Fighter Aplha 3 Recompilation</title>
-      <link>https://thegamingemporium.com/game/street-fighter-aplha-3-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/street-fighter-aplha-3-recompilation/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/street-fighter-aplha-3-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/street-fighter-aplha-3-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/street-fighter-aplha-3-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-aplha-3-recompilation.webp" alt="Street Fighter Aplha 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-aplha-3-recompilation.webp" alt="Street Fighter Aplha 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>Zenonia 3 PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/zenonia-3-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/zenonia-3-ps-vita-port/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/zenonia-3-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/zenonia-3-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/zenonia-3-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zenonia-3-ps-vita-port.webp" alt="Zenonia 3 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Zenonia · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zenonia-3-ps-vita-port.webp" alt="Zenonia 3 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Zenonia · Genre: rpg, action]]></content:encoded>
     </item>
   </channel>
 </rss>

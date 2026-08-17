@@ -35794,6 +35794,32 @@
     "notes": "",
     "date_added": "2026-08-17",
     "image": ""
+  },
+    {
+    "id": 2742,
+    "title": "Lighthouse - Banjo Kazooie Port for Android",
+    "category": "android-ports",
+    "link": "https://github.com/izzy2lost/Lighthouse/releases/tag/1.0.2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-17",
+    "image": ""
+  },
+    {
+    "id": 2743,
+    "title": "Lighthouse - Banjo Kazooie PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1468",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-17",
+    "image": ""
   }
 
 
