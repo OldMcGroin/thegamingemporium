@@ -5,7 +5,7 @@ type: game
 params:
   external_link: "https://trcustoms.org/levels/3883"
   category: "fan-games"
-  genre1: "plarformer"
+  genre1: "platformer"
   genre2: "puzzle"
   series: "Tomb Raider"
   video_link: ""

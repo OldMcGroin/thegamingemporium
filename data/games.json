@@ -25839,7 +25839,7 @@
     "title": "What A Mario World!",
     "category": "fan-games",
     "link": "https://ralshi.itch.io/what-a-mario-world",
-    "genre1": "'platformer'",
+    "genre1": "platformer",
     "genre2": "",
     "series": "Super Mario",
     "video_link": "https://youtu.be/PLAfJ31bWgc?si=Z00LCZCc6QPLMYOg",
@@ -25852,7 +25852,7 @@
     "title": "Aurora OS.js",
     "category": "open-source",
     "link": "https://github.com/mental-os/Aurora-OS.js",
-    "genre1": "'hacking-simulator'",
+    "genre1": "hacking-simulator",
     "genre2": "",
     "series": "Aurora",
     "video_link": "",
@@ -25865,7 +25865,7 @@
     "title": "Fallout: Vault 666",
     "category": "mods",
     "link": "https://www.moddb.com/mods/fallout-vault-666/downloads/fallout-vault-666",
-    "genre1": "'first-person-shooter'",
+    "genre1": "first-person-shooter",
     "genre2": "",
     "series": "Fallout",
     "video_link": "https://youtu.be/sGZDXzfUeGk?si=E46i7QQniMZLw65b",
@@ -28582,7 +28582,7 @@
     "title": "Tomb Raider: Side-Scroller Edition",
     "category": "fan-games",
     "link": "https://trcustoms.org/levels/3883",
-    "genre1": "plarformer",
+    "genre1": "platformer",
     "genre2": "puzzle",
     "series": "Tomb Raider",
     "video_link": "",
@@ -35626,7 +35626,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2729,
     "title": "Dusklight - The Legend of Zelda Twilight Princess VR",
     "category": "vr-ports",
@@ -35639,7 +35639,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2730,
     "title": "Rage Racer PC Port",
     "category": "decompilations-recompilations",
@@ -35652,7 +35652,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2731,
     "title": "Pokemon Dawn of Darkness MMORPG",
     "category": "fan-games",
@@ -35665,7 +35665,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2732,
     "title": "Metroid Prime Hunters Recompilation",
     "category": "decompilations-recompilations",
@@ -35678,7 +35678,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2733,
     "title": "Dragon Ball Z: Buu's Fury Recompilation",
     "category": "decompilations-recompilations",
@@ -35691,7 +35691,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2734,
     "title": "ChonkCraft - Warcraft 2 Rebuilt",
     "category": "open-source",
@@ -35704,7 +35704,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2735,
     "title": "Street Fighter 3: 3rd Strike Online Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -35717,7 +35717,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2736,
     "title": "Jackie Chan Stuntmaster PC Port",
     "category": "console-to-pc-port",
@@ -35730,7 +35730,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2737,
     "title": "Jackie Chan Stuntmaster PC Port - Steam Deck Fork",
     "category": "console-to-pc-port",
@@ -35743,7 +35743,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2738,
     "title": "Fallout New Vegas: Tale of Two Wastelands",
     "category": "mods",
@@ -35756,7 +35756,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2739,
     "title": "Sonic 4 Episode 1 in Browser",
     "category": "browser-based",
@@ -35769,7 +35769,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2740,
     "title": "Sonic the Hedgehog for Android",
     "category": "android-ports",
@@ -35782,7 +35782,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2741,
     "title": "Sonic the Hedgehog 2 for Android",
     "category": "android-ports",
@@ -35795,7 +35795,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2742,
     "title": "Lighthouse - Banjo Kazooie Port for Android",
     "category": "android-ports",
@@ -35808,7 +35808,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2743,
     "title": "Lighthouse - Banjo Kazooie PS Vita Port",
     "category": "console-ports",
@@ -35820,10 +35820,136 @@
     "notes": "",
     "date_added": "2026-08-17",
     "image": ""
+  },
+  {
+    "id": 2744,
+    "title": "Tony Hawk's Project 8 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/theokyr/Project8Recomp",
+    "genre1": "sports",
+    "genre2": "action",
+    "series": "Tony Hawk",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2745,
+    "title": "Mega Man X Regenesis",
+    "category": "fan-games",
+    "link": "https://mmxregenesis.itch.io/mega-man-x-regenesis",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Mega Man",
+    "video_link": "https://youtu.be/6cUeq37d8q4?si=rLjXq91jB8tsrR03",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2746,
+    "title": "Grand Theft Auto Vice City VR",
+    "category": "vr-ports",
+    "link": "https://github.com/dubrovskiy-yevhen-stakelogic/vice-city-vr-quest/tree/master",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2747,
+    "title": "Minecraft: Story Mode PS Vita Port",
+    "category": "console-ports",
+    "link": "https://github.com/LeZergan/mcsm-vita",
+    "genre1": "graphic-adventure",
+    "genre2": "",
+    "series": "Minecraft",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2748,
+    "title": "1 The Multiverse VR Hub",
+    "category": "vr-ports",
+    "link": "https://github.com/RaYRoD-TV/MVRH",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": "",
+    "hidden": true
+  },
+  {
+    "id": 2749,
+    "title": "Zelda II: The Adventure of Link Co-op",
+    "category": "rom-hacks",
+    "link": "https://retrohackers.net/hack-details.php?id=5243",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2750,
+    "title": "Resident Evil 4 VR",
+    "category": "vr-ports",
+    "link": "https://re4vr.com/",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Resident Evil",
+    "video_link": "https://youtu.be/LMVjIDeZ8sY?si=IzFHG38UoaY5HlTB",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2751,
+    "title": "Jedi Knight: Dark Forces II Xbox Port",
+    "category": "console-ports",
+    "link": "https://github.com/GTTeancum/OpenJKDF2ogx",
+    "genre1": "first-person-shooter",
+    "genre2": "action",
+    "series": "Star Wars",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2752,
+    "title": "Yu-Gi-Oh! Forbidden Memories Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Unchiga/YuGiOhForbiddenMemoriesRecomp",
+    "genre1": "card-collector",
+    "genre2": "rpg",
+    "series": "Yu-Gi-Oh!",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
+  },
+  {
+    "id": 2753,
+    "title": "DONTFORGET",
+    "category": "fan-games",
+    "link": "https://rickygdev.itch.io/dontforget",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Undertale",
+    "video_link": "https://youtu.be/kmkJPP9liZY?si=PJI-MU4hWrXKcZKe",
+    "notes": "",
+    "date_added": "2026-08-19",
+    "image": ""
   }
-
-
-
-
-
 ]

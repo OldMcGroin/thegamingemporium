@@ -1394,6 +1394,8 @@
   </url><url>
     <loc>http://localhost:1313/game/donkey-kong-land-pc-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dontforget/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/doom/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-voxel-doom-replace-2d-sprites-with-3d-voxels/</loc>
@@ -2208,6 +2210,8 @@
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-vice-city-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/grand-theft-auto-vice-city-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-ready2play/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-san-andreas-carcer-city/</loc>
@@ -2551,6 +2555,8 @@
     <loc>http://localhost:1313/game/jedi-knight-dark-forces-2-unreal-engine/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jedi-knight-games-on-openxr-devices/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jedi-knight-dark-forces-ii-xbox-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jedi-knight-jedi-academy-star-wars-movie-duels/</loc>
   </url><url>
@@ -3106,6 +3112,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mega-man-x-regenesis/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mega-man-x-omega-blaster-ultimate-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
@@ -3241,6 +3249,8 @@
     <loc>http://localhost:1313/game/minecraft-on-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/minecraft-legacy-console-edition-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/minecraft-story-mode-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mini-doom-2/</loc>
   </url><url>
@@ -4307,6 +4317,8 @@
     <loc>http://localhost:1313/game/resident-evil-4-mobile-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-remake-tactical-first-person-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-4-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-5-texture-pack/</loc>
   </url><url>
@@ -6006,6 +6018,8 @@
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-american-wasteland-rethawed/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-project-8-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-underground/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-underground-2-thugpro/</loc>
@@ -6500,6 +6514,8 @@
   </url><url>
     <loc>http://localhost:1313/game/yu-gi-oh-arc-v-tag-force-special-psp/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/yu-gi-oh-forbidden-memories-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/yu-gi-oh-reshef-of-destruction-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/yu-gi-oh-the-eternal-duelist-soul-hack/</loc>
@@ -6531,6 +6547,8 @@
     <loc>http://localhost:1313/game/zelda-ii-resurrection-of-ganon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-ii-the-adventures-of-link-snes-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zelda-ii-the-adventure-of-link-co-op/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-majora-s-mask-3d/</loc>
   </url><url>

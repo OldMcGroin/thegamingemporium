@@ -5,7 +5,7 @@ type: game
 params:
   external_link: "https://ralshi.itch.io/what-a-mario-world"
   category: "fan-games"
-  genre1: "'platformer'"
+  genre1: "platformer"
   genre2: ""
   series: "Super Mario"
   video_link: "https://youtu.be/PLAfJ31bWgc?si=Z00LCZCc6QPLMYOg"

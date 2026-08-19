@@ -9,7 +9,7 @@ params:
   genre2: ""
   series: ""
   video_link: ""
-  date_added: "2026-08-13"
+  date_added: "2026-08-19"
   image: ""
 ---
 
