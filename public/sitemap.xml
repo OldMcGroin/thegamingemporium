@@ -1266,6 +1266,10 @@
   </url><url>
     <loc>http://localhost:1313/game/delta-touch-doom-engine-source-ports-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/deltarune/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/deltatraveler-deltarune-interdream/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/demons-crest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/demon-s-crest-decompilation/</loc>
@@ -1557,6 +1561,8 @@
     <loc>http://localhost:1313/series/dune/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dune-2-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dune-2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dune-2-the-maker/</loc>
   </url><url>
@@ -1975,6 +1981,8 @@
     <loc>http://localhost:1313/game/freeciv/</loc>
   </url><url>
     <loc>http://localhost:1313/game/freeciv-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/freeciv-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/freecol/</loc>
   </url><url>
@@ -2632,6 +2640,8 @@
   </url><url>
     <loc>http://localhost:1313/game/kidou-senshi-gundam-gundam-vs-gundam-next-plus-psp/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/kiki-the-nano-bot-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/kindergarten/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kindergarten-wii-u-port/</loc>
@@ -2661,6 +2671,8 @@
     <loc>http://localhost:1313/game/kirby-air-ride-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kirby-air-ride-deluxe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/kirby-battle-blitz/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kirby-s-dream-collection-decompilation/</loc>
   </url><url>
@@ -3082,6 +3094,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-64-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mega-man-8-bit-deathmatch/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mega-man-8x-demake-16bit/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-arena/</loc>
@@ -3315,6 +3329,8 @@
     <loc>http://localhost:1313/game/monster-hunter-portable-3rd-psp/</loc>
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-stories-3-twisted-reflection-hd-texture-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/moon-child-fe-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/moonring/</loc>
   </url><url>
@@ -3551,6 +3567,8 @@
     <loc>http://localhost:1313/game/of-mice-and-mechs/</loc>
   </url><url>
     <loc>http://localhost:1313/series/of-mice-and-mechs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/off/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ogre-battle/</loc>
   </url><url>
@@ -4386,6 +4404,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/rhythm-based/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ribbit-the-deltarune-mod/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/rick-dangerous/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rick-dangerous-dx-megadrive-genesis-port/</loc>
@@ -4719,6 +4739,8 @@
     <loc>http://localhost:1313/game/skate-3-recompilation-1/</loc>
   </url><url>
     <loc>http://localhost:1313/game/skate-3-recompilation-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/skate-3-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/skies-of-arcadia/</loc>
   </url><url>
@@ -6153,6 +6175,8 @@
     <loc>http://localhost:1313/series/undertale/</loc>
   </url><url>
     <loc>http://localhost:1313/game/undertale-undertale-together/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/undertale-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/undertale-decompilation/</loc>
   </url><url>

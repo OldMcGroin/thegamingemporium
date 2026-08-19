@@ -3,7 +3,7 @@ title: "The Legend of Zelda: Link's Awakening DX HD PC Port"
 url: "/game/the-legend-of-zelda-link-s-awakening-dx-hd-pc-port/"
 type: game
 params:
-  external_link: "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated"
+  external_link: "https://gitlab.com/bighead.0/ladxhd_updated"
   category: "decompilations-recompilations"
   genre1: "rpg"
   genre2: "adventure"
