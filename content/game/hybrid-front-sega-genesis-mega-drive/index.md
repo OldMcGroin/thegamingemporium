@@ -7,7 +7,7 @@ params:
   category: "english-translation-patches"
   genre1: "strategy"
   genre2: ""
-  series: "Hybrid Front"
+  series: ""
   video_link: ""
   date_added: ""
   image: ""

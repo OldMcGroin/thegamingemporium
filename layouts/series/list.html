@@ -5,21 +5,27 @@
 {{ end }}
   {{/* Build a unique list of series, keep only those with 2+ games, and exclude certain umbrella series */}}
   {{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
-  {{ $allSeries := slice }}
+  {{/* De-duplicate by URL slug, not raw spelling/capitalisation. */}}
+  {{ $seriesBySlug := dict }}
   {{ range $visibleGames }}
-    {{ with .series }}{{ $allSeries = $allSeries | append . }}{{ end }}
+    {{ with .series }}
+      {{ $name := strings.TrimSpace (printf "%v" .) }}
+      {{ if $name }}
+        {{ $key := partial "series-key.html" $name }}
+        {{ if not (isset $seriesBySlug $key) }}{{ $seriesBySlug = merge $seriesBySlug (dict $key $name) }}{{ end }}
+      {{ end }}
+    {{ end }}
   {{ end }}
-  {{ $allSeries = sort (uniq $allSeries) }}
-
   {{ $series := slice }}
-  {{ range $allSeries }}
-    {{ $s := . }}
-    {{ $games := where $visibleGames "series" $s }}
-    {{ if and (ge (len $games) 2) (not (in $exclude (lower $s))) }}{{ $series = $series | append $s }}{{ end }}
+  {{ range $key, $name := $seriesBySlug }}
+    {{ $count := 0 }}
+    {{ range $visibleGames }}{{ with .series }}{{ if eq (partial "series-key.html" .) $key }}{{ $count = add $count 1 }}{{ end }}{{ end }}{{ end }}
+    {{ if and (ge $count 2) (not (in $exclude (lower $name))) }}{{ $series = $series | append $name }}{{ end }}
   {{ end }}
+  {{ $series = sort $series }}
 
   {{ range first 6 $series }}
-    {{ $slug := urlize . }}
+    {{ $slug := partial "series-key.html" . }}
     {{ $img := "/Images/placeholder.jpg" }}
     {{ $exts := slice "webp" "jpg" "png" }}
     {{ range $ext := $exts }}
@@ -48,22 +54,24 @@
   (Avoids using the non-existent `set` function.)
 */}}
 {{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
-{{ $allSeries := slice }}
+{{/* De-duplicate by URL slug, so case/punctuation variants become one card. */}}
+{{ $seriesBySlug := dict }}
 {{ range $visibleGames }}
   {{ with .series }}
-    {{ $allSeries = $allSeries | append . }}
+    {{ $name := strings.TrimSpace (printf "%v" .) }}
+    {{ if $name }}
+      {{ $key := partial "series-key.html" $name }}
+      {{ if not (isset $seriesBySlug $key) }}{{ $seriesBySlug = merge $seriesBySlug (dict $key $name) }}{{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
-{{ $allSeries = sort (uniq $allSeries) }}
-
 {{ $series := slice }}
-{{ range $allSeries }}
-  {{ $s := . }}
-  {{ $games := where $visibleGames "series" $s }}
-  {{ if and (ge (len $games) 2) (not (in $exclude (lower $s))) }}
-    {{ $series = $series | append $s }}
-  {{ end }}
+{{ range $key, $name := $seriesBySlug }}
+  {{ $count := 0 }}
+  {{ range $visibleGames }}{{ with .series }}{{ if eq (partial "series-key.html" .) $key }}{{ $count = add $count 1 }}{{ end }}{{ end }}{{ end }}
+  {{ if and (ge $count 2) (not (in $exclude (lower $name))) }}{{ $series = $series | append $name }}{{ end }}
 {{ end }}
+{{ $series = sort $series }}
 
 <div class="series-controls" data-series-grid>
   
@@ -71,7 +79,7 @@
   <div class="series-grid">
     {{ range $series }}
       {{ $name := . }}
-      {{ $slug := urlize . }}
+      {{ $slug := partial "series-key.html" . }}
       {{ $disp := ($name | title) }}
       {{/*
         Series card images:

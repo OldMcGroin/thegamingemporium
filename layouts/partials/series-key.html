@@ -1,0 +1,3 @@
+{{- $key := urlize (printf "%v" .) -}}
+{{- $key = strings.TrimPrefix "the-" $key -}}
+{{- return $key -}}

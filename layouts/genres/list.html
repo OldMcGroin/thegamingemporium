@@ -9,13 +9,20 @@
 {{ end }}
 <h1 class="page-title">Browse By Genre</h1>
 
-{{/* Build a unique list of genres from genre1 + genre2 */}}
-{{ $allGenres := slice }}
+{{/* Build genres uniquely by URL slug, merging case/spelling-format variants. */}}
+{{ $genresBySlug := dict }}
 {{ range $visibleGames }}
-  {{ with .genre1 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
-  {{ with .genre2 }}{{ if ne . "" }}{{ $allGenres = $allGenres | append . }}{{ end }}{{ end }}
+  {{ range slice .genre1 .genre2 }}
+    {{ $name := strings.TrimSpace (printf "%v" .) }}
+    {{ if $name }}
+      {{ $key := urlize $name }}
+      {{ if not (isset $genresBySlug $key) }}{{ $genresBySlug = merge $genresBySlug (dict $key $name) }}{{ end }}
+    {{ end }}
+  {{ end }}
 {{ end }}
-{{ $allGenres = sort (uniq $allGenres) }}
+{{ $allGenres := slice }}
+{{ range $key, $name := $genresBySlug }}{{ $allGenres = $allGenres | append $name }}{{ end }}
+{{ $allGenres = sort $allGenres }}
 
 <div class="genre-controls" data-genre-grid>
   <div class="genre-grid">

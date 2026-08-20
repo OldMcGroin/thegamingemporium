@@ -8,7 +8,10 @@
 
 <h1 class="page-title">{{ $seriesName | title }}</h1>
 
-{{ $games := where $visibleGames "series" $seriesName }}
+{{ $games := slice }}
+{{ range $game := $visibleGames }}
+  {{ with $game.series }}{{ if eq (partial "series-key.html" .) $slug }}{{ $games = $games | append $game }}{{ end }}{{ end }}
+{{ end }}
 {{ $games = sort $games "title" "asc" }}
 
 <div class="game-controls" data-game-grid>
@@ -42,7 +45,11 @@
   {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
 {{ end }}
   {{ $seriesName := .Params.series }}
-  {{ $games := where $visibleGames "series" $seriesName }}
+  {{ $slug := .Params.slug }}
+  {{ $games := slice }}
+{{ range $game := $visibleGames }}
+  {{ with $game.series }}{{ if eq (partial "series-key.html" .) $slug }}{{ $games = $games | append $game }}{{ end }}{{ end }}
+{{ end }}
   {{ $games = sort $games "title" "asc" }}
   {{ range first 6 $games }}
     {{ $img := partial "resolve-game-image.html" . }}

@@ -37,6 +37,9 @@ def hugo_urlize(value: str) -> str:
     # Replace any non-alphanumeric with hyphen
     s = re.sub(r"[^a-z0-9]+", "-", s)
     s = re.sub(r"-{2,}", "-", s).strip("-")
+    # Treat optional leading "The" as the same series (e.g. Lord of the Rings).
+    if s.startswith("the-"):
+        s = s[4:]
     return s or "series"
 
 def read_games(path: Path) -> List[Dict[str, Any]]:
