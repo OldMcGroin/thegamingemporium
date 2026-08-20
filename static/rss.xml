@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Thu, 20 Aug 2026 00:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:56:44 +0000</lastBuildDate>
+    <item>
+      <title>Castlevania MX</title>
+      <link>https://thegamingemporium.com/game/castlevania-mx/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-mx/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-mx.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-mx.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-mx.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-mx.webp" alt="Castlevania MX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Castlevania · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-mx.webp" alt="Castlevania MX" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Castlevania · Genre: platformer]]></content:encoded>
+    </item>
     <item>
       <title>Tony Hawk's Project 8 Recompilation</title>
       <link>https://thegamingemporium.com/game/tony-hawk-s-project-8-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/sim-copter-reimplementation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sim-copter-reimplementation.webp" alt="Sim Copter Reimplementation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: flight simulator, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sim-copter-reimplementation.webp" alt="Sim Copter Reimplementation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: flight simulator, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Crash Bandicoot for Android</title>
-      <link>https://thegamingemporium.com/game/crash-bandicoot-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-bandicoot-for-android/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-bandicoot-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-bandicoot-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-bandicoot-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-for-android.webp" alt="Crash Bandicoot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-for-android.webp" alt="Crash Bandicoot for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -1,76 +1,12 @@
 {{ define "main" }}
-{{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
-{{ $genreName := .Params.genre }}
-{{ $slug := .Params.slug }}
-
+{{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+{{ $idx := index site.Data.browse_indexes $mode }}{{ $genreName := .Params.genre }}{{ $slug := .Params.slug }}
 <h1 class="page-title">{{ partial "format-genre.html" $genreName }}</h1>
-
-{{/* Match if genre appears in genre1 or genre2 */}}
-{{ $games1 := slice }}
-{{ $games2 := slice }}
-{{ range $game := $visibleGames }}
-  {{ with $game.genre1 }}{{ if eq (urlize (printf "%v" .)) $slug }}{{ $games1 = $games1 | append $game }}{{ end }}{{ end }}
-  {{ with $game.genre2 }}{{ if eq (urlize (printf "%v" .)) $slug }}{{ $games2 = $games2 | append $game }}{{ end }}{{ end }}
+{{ $games := index $idx.genre_games $slug | default (slice) }}
+<div class="page-controls"><div class="controls"><div class="control"><label>Sort</label><select data-sort><option value="az">Title (A to Z)</option><option value="za">Title (Z to A)</option></select></div></div><div class="game-grid">{{ range $games }}{{ partial "game-card.html" (dict "game" . "ctx" $) }}{{ end }}</div></div>
 {{ end }}
-
-{{/* De-duplicate by id (data is a slice of maps) */}}
-{{ $byID := dict }}
-{{ range $games1 }}
-  {{ $byID = merge $byID (dict (printf "%d" .id) .) }}
-{{ end }}
-{{ range $games2 }}
-  {{ $byID = merge $byID (dict (printf "%d" .id) .) }}
-{{ end }}
-
-{{ $games := slice }}
-{{ range $k, $v := $byID }}
-  {{ $games = $games | append $v }}
-{{ end }}
-
-{{/* Default server-side sort (A to Z) */}}
-{{ $games = sort $games "title" "asc" }}
-
-<div class="page-controls">
-  <div class="controls">
-    <div class="control">
-      <label>Sort</label>
-      <select data-sort>
-        <option value="az">Title (A to Z)</option>
-        <option value="za">Title (Z to A)</option>
-      </select>
-    </div>
-  </div>
-
-  <div class="game-grid">
-    {{ range $games }}
-      {{ partial "game-card.html" (dict "game" . "ctx" $) }}
-    {{ end }}
-  </div>
-</div>
-{{ end }}
-
-{{/* Preload first few visible game images */}}
 {{ define "preloads" }}
-  {{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
-  {{ $genreName := .Params.genre }}
-  {{ $slug := .Params.slug }}
-  {{ $games1 := slice }}
-  {{ $games2 := slice }}
-  {{ range $game := $visibleGames }}
-    {{ with $game.genre1 }}{{ if eq (urlize (printf "%v" .)) $slug }}{{ $games1 = $games1 | append $game }}{{ end }}{{ end }}
-    {{ with $game.genre2 }}{{ if eq (urlize (printf "%v" .)) $slug }}{{ $games2 = $games2 | append $game }}{{ end }}{{ end }}
-  {{ end }}
-  {{ $all := $games1 | append $games2 }}
-  {{ range first 6 $all }}
-    {{ $img := partial "resolve-game-image.html" . }}
-    {{ if ne $img "/Images/placeholder.jpg" }}
-      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
-    {{ end }}
-  {{ end }}
+  {{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+  {{ $idx := index site.Data.browse_indexes $mode }}{{ $slug := .Params.slug }}{{ $games := index $idx.genre_games $slug | default (slice) }}
+  {{ range first 6 $games }}{{ $img := partial "resolve-game-image.html" . }}{{ if ne $img "/Images/placeholder.jpg" }}<link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />{{ end }}{{ end }}
 {{ end }}

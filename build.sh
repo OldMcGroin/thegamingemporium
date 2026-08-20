@@ -7,6 +7,7 @@ python3 tools/generate_game_pages.py
 
 echo "Generating series pages..."
 python3 tools/generate_series_pages.py
+python3 tools/generate_browse_indexes.py
 
 echo "Generating search index..."
 python3 tools/generate_search_index.py

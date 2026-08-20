@@ -1,60 +1,17 @@
 {{ define "main" }}
-{{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
-{{ $seriesName := .Params.series }}
-{{ $slug := .Params.slug }}
-
+{{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+{{ $idx := index site.Data.browse_indexes $mode }}
+{{ $seriesName := .Params.series }}{{ $slug := .Params.slug }}
 <h1 class="page-title">{{ $seriesName | title }}</h1>
-
-{{ $games := slice }}
-{{ range $game := $visibleGames }}
-  {{ with $game.series }}{{ if eq (partial "series-key.html" .) $slug }}{{ $games = $games | append $game }}{{ end }}{{ end }}
-{{ end }}
-{{ $games = sort $games "title" "asc" }}
-
+{{ $games := index $idx.series_games $slug | default (slice) }}
 <div class="game-controls" data-game-grid>
-  <div class="controls">
-    <div class="control">
-      <label>Sort</label>
-      <select data-sort>
-        <option value="az">Title (A to Z)</option>
-        <option value="za">Title (Z to A)</option>
-      </select>
-    </div>
-    <div class="control">
-      <label>Genre</label>
-      <select data-genre>
-        <option value="All">All</option>
-      </select>
-    </div>
-  </div>
-
-  <div class="game-grid">
-    {{ range $games }}
-      {{ partial "game-card.html" (dict "game" . "ctx" $) }}
-    {{ end }}
-  </div>
+  <div class="controls"><div class="control"><label>Sort</label><select data-sort><option value="az">Title (A to Z)</option><option value="za">Title (Z to A)</option></select></div><div class="control"><label>Genre</label><select data-genre><option value="All">All</option></select></div></div>
+  <div class="game-grid">{{ range $games }}{{ partial "game-card.html" (dict "game" . "ctx" $) }}{{ end }}</div>
 </div>
 {{ end }}
-
 {{ define "preloads" }}
-  {{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
-  {{ $seriesName := .Params.series }}
-  {{ $slug := .Params.slug }}
-  {{ $games := slice }}
-{{ range $game := $visibleGames }}
-  {{ with $game.series }}{{ if eq (partial "series-key.html" .) $slug }}{{ $games = $games | append $game }}{{ end }}{{ end }}
-{{ end }}
-  {{ $games = sort $games "title" "asc" }}
-  {{ range first 6 $games }}
-    {{ $img := partial "resolve-game-image.html" . }}
-    {{ if ne $img "/Images/placeholder.jpg" }}
-      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
-    {{ end }}
-  {{ end }}
+  {{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+  {{ $idx := index site.Data.browse_indexes $mode }}{{ $slug := .Params.slug }}
+  {{ $games := index $idx.series_games $slug | default (slice) }}
+  {{ range first 6 $games }}{{ $img := partial "resolve-game-image.html" . }}{{ if ne $img "/Images/placeholder.jpg" }}<link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />{{ end }}{{ end }}
 {{ end }}

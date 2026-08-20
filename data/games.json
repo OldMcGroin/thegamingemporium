@@ -35626,7 +35626,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2729,
     "title": "Dusklight - The Legend of Zelda Twilight Princess VR",
     "category": "vr-ports",
@@ -35639,7 +35639,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2730,
     "title": "Rage Racer PC Port",
     "category": "decompilations-recompilations",
@@ -35652,7 +35652,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2731,
     "title": "Pokemon Dawn of Darkness MMORPG",
     "category": "fan-games",
@@ -35665,7 +35665,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2732,
     "title": "Metroid Prime Hunters Recompilation",
     "category": "decompilations-recompilations",
@@ -35678,7 +35678,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2733,
     "title": "Dragon Ball Z: Buu's Fury Recompilation",
     "category": "decompilations-recompilations",
@@ -35691,7 +35691,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2734,
     "title": "ChonkCraft - Warcraft 2 Rebuilt",
     "category": "open-source",
@@ -35704,7 +35704,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2735,
     "title": "Street Fighter 3: 3rd Strike Online Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -35717,7 +35717,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2736,
     "title": "Jackie Chan Stuntmaster PC Port",
     "category": "console-to-pc-port",
@@ -35730,7 +35730,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2737,
     "title": "Jackie Chan Stuntmaster PC Port - Steam Deck Fork",
     "category": "console-to-pc-port",
@@ -35743,7 +35743,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2738,
     "title": "Fallout New Vegas: Tale of Two Wastelands",
     "category": "mods",
@@ -35756,7 +35756,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2739,
     "title": "Sonic 4 Episode 1 in Browser",
     "category": "browser-based",
@@ -35769,7 +35769,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2740,
     "title": "Sonic the Hedgehog for Android",
     "category": "android-ports",
@@ -35782,7 +35782,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2741,
     "title": "Sonic the Hedgehog 2 for Android",
     "category": "android-ports",
@@ -35795,7 +35795,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2742,
     "title": "Lighthouse - Banjo Kazooie Port for Android",
     "category": "android-ports",
@@ -35808,7 +35808,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2743,
     "title": "Lighthouse - Banjo Kazooie PS Vita Port",
     "category": "console-ports",
@@ -35821,7 +35821,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2744,
     "title": "Tony Hawk's Project 8 Recompilation",
     "category": "decompilations-recompilations",
@@ -35834,7 +35834,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2745,
     "title": "Mega Man X Regenesis",
     "category": "fan-games",
@@ -35847,7 +35847,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2746,
     "title": "Grand Theft Auto Vice City VR",
     "category": "vr-ports",
@@ -35860,7 +35860,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2747,
     "title": "Minecraft: Story Mode PS Vita Port",
     "category": "console-ports",
@@ -35873,7 +35873,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2748,
     "title": "1 The Multiverse VR Hub",
     "category": "vr-ports",
@@ -35884,9 +35884,10 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-19",
-    "image": ""
+    "image": "",
+    "hidden": false
   },
-    {
+  {
     "id": 2749,
     "title": "Zelda II: The Adventure of Link Co-op",
     "category": "rom-hacks",
@@ -35899,7 +35900,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2750,
     "title": "Resident Evil 4 VR",
     "category": "vr-ports",
@@ -35912,7 +35913,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2751,
     "title": "Jedi Knight: Dark Forces II Xbox Port",
     "category": "console-ports",
@@ -35925,7 +35926,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2752,
     "title": "Yu-Gi-Oh! Forbidden Memories Recompilation",
     "category": "decompilations-recompilations",
@@ -35938,7 +35939,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2753,
     "title": "DONTFORGET",
     "category": "fan-games",
@@ -35949,9 +35950,10 @@
     "video_link": "https://youtu.be/kmkJPP9liZY?si=PJI-MU4hWrXKcZKe",
     "notes": "",
     "date_added": "2026-08-19",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
-    {
+  {
     "id": 2754,
     "title": "DONTFORGET",
     "category": "fan-games",
@@ -35964,7 +35966,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2755,
     "title": "RIBBIT - The Deltarune Mod",
     "category": "mods",
@@ -35977,7 +35979,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2756,
     "title": "Kirby Battle Blitz!",
     "category": "fan-games",
@@ -35990,7 +35992,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2757,
     "title": "Mega Man 8-Bit Deathmatch",
     "category": "fan-games",
@@ -36003,7 +36005,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2758,
     "title": "OFF",
     "category": "open-source",
@@ -36016,7 +36018,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2759,
     "title": "FreeCiv in Browser",
     "category": "browser-based",
@@ -36029,7 +36031,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2760,
     "title": "Dune 2 in Browser",
     "category": "browser-based",
@@ -36042,7 +36044,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2761,
     "title": "Kiki the Nano Bot in Browser",
     "category": "browser-based",
@@ -36055,7 +36057,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2762,
     "title": "Moon Child FE in Browser",
     "category": "browser-based",
@@ -36068,7 +36070,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2763,
     "title": "Undertale 2",
     "category": "fan-games",
@@ -36081,7 +36083,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2764,
     "title": "Deltatraveler - Deltarune Interdream",
     "category": "fan-games",
@@ -36094,7 +36096,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2765,
     "title": "Skate 3 Recompilation for Android",
     "category": "android-ports",
@@ -36106,10 +36108,18 @@
     "notes": "",
     "date_added": "2026-08-19",
     "image": ""
+  },
+  {
+    "id": 2766,
+    "title": "Castlevania MX",
+    "category": "fan-games",
+    "link": "https://www.moddb.com/games/castlevania-mx",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Castlevania",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-20",
+    "image": ""
   }
-
-
-
-
-
 ]

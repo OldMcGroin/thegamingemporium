@@ -1,127 +1,44 @@
 {{ define "preloads" }}
-  {{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
-  {{/* Build a unique list of series, keep only those with 2+ games, and exclude certain umbrella series */}}
-  {{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
-  {{/* De-duplicate by URL slug, not raw spelling/capitalisation. */}}
-  {{ $seriesBySlug := dict }}
-  {{ range $visibleGames }}
-    {{ with .series }}
-      {{ $name := strings.TrimSpace (printf "%v" .) }}
-      {{ if $name }}
-        {{ $key := partial "series-key.html" $name }}
-        {{ if not (isset $seriesBySlug $key) }}{{ $seriesBySlug = merge $seriesBySlug (dict $key $name) }}{{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  {{ $series := slice }}
-  {{ range $key, $name := $seriesBySlug }}
-    {{ $count := 0 }}
-    {{ range $visibleGames }}{{ with .series }}{{ if eq (partial "series-key.html" .) $key }}{{ $count = add $count 1 }}{{ end }}{{ end }}{{ end }}
-    {{ if and (ge $count 2) (not (in $exclude (lower $name))) }}{{ $series = $series | append $name }}{{ end }}
-  {{ end }}
-  {{ $series = sort $series }}
-
-  {{ range first 6 $series }}
-    {{ $slug := partial "series-key.html" . }}
+  {{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+  {{ $idx := index site.Data.browse_indexes $mode }}
+  {{ range first 6 $idx.series_catalog }}
+    {{ $slug := .slug }}
     {{ $img := "/Images/placeholder.jpg" }}
-    {{ $exts := slice "webp" "jpg" "png" }}
-    {{ range $ext := $exts }}
+    {{ range $ext := slice "webp" "jpg" "png" }}
       {{ if eq $img "/Images/placeholder.jpg" }}
         {{ $rel := printf "/Images/Series/%s.%s" $slug $ext }}
         {{ if fileExists (printf "static%s" $rel) }}{{ $img = $rel }}{{ end }}
       {{ end }}
     {{ end }}
-    {{ if ne $img "/Images/placeholder.jpg" }}
-      <link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />
-    {{ end }}
+    {{ if ne $img "/Images/placeholder.jpg" }}<link rel="preload" as="image" href="{{ $img | relURL }}" fetchpriority="high" />{{ end }}
   {{ end }}
 {{ end }}
 
 {{ define "main" }}
-{{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
+{{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+{{ $idx := index site.Data.browse_indexes $mode }}
 <h1 class="page-title">Browse By Series</h1>
-
-
-{{/*
-  Build a unique list of series, then keep only those with 2+ games.
-  Also exclude certain umbrella series.
-  (Avoids using the non-existent `set` function.)
-*/}}
-{{ $exclude := slice "disney" "james bond" "lego" "marvel" "nfl" "spongebob squarepants" "dragon ball fighterz" }}
-{{/* De-duplicate by URL slug, so case/punctuation variants become one card. */}}
-{{ $seriesBySlug := dict }}
-{{ range $visibleGames }}
-  {{ with .series }}
-    {{ $name := strings.TrimSpace (printf "%v" .) }}
-    {{ if $name }}
-      {{ $key := partial "series-key.html" $name }}
-      {{ if not (isset $seriesBySlug $key) }}{{ $seriesBySlug = merge $seriesBySlug (dict $key $name) }}{{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-{{ $series := slice }}
-{{ range $key, $name := $seriesBySlug }}
-  {{ $count := 0 }}
-  {{ range $visibleGames }}{{ with .series }}{{ if eq (partial "series-key.html" .) $key }}{{ $count = add $count 1 }}{{ end }}{{ end }}{{ end }}
-  {{ if and (ge $count 2) (not (in $exclude (lower $name))) }}{{ $series = $series | append $name }}{{ end }}
-{{ end }}
-{{ $series = sort $series }}
-
 <div class="series-controls" data-series-grid>
-  
-
   <div class="series-grid">
-    {{ range $series }}
-      {{ $name := . }}
-      {{ $slug := partial "series-key.html" . }}
-      {{ $disp := ($name | title) }}
-      {{/*
-        Series card images:
-        - Support multiple extensions automatically: .webp, .jpg, .png (in that order)
-        - Fall back to the global placeholder if none exists
-      */}}
+    {{ range $idx.series_catalog }}
+      {{ $name := .name }}{{ $slug := .slug }}{{ $disp := ($name | title) }}
       {{ $img := "/Images/placeholder.jpg" }}
-      {{ $exts := slice "webp" "jpg" "png" }}
-      {{ range $ext := $exts }}
+      {{ range $ext := slice "webp" "jpg" "png" }}
         {{ if eq $img "/Images/placeholder.jpg" }}
           {{ $rel := printf "/Images/Series/%s.%s" $slug $ext }}
-          {{ if fileExists (printf "static%s" $rel) }}
-            {{ $img = $rel }}
-          {{ end }}
+          {{ if fileExists (printf "static%s" $rel) }}{{ $img = $rel }}{{ end }}
         {{ end }}
       {{ end }}
-
       <div class="series-card{{ if eq $img "/Images/placeholder.jpg" }} is-placeholder{{ end }}" data-title="{{ $disp }}">
-        {{ if hugo.IsServer }}
-          <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy slug">Copy slug</button>
-        {{ end }}
+        {{ if hugo.IsServer }}<button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy slug">Copy slug</button>{{ end }}
         <a class="series-card__link" href="{{ (printf "/series/%s/" $slug) | relURL }}">
-        {{/*
-          Lazy-loading strategy (same as game cards):
-          - If a real image exists, start with the lightweight placeholder and store the real path in data-src.
-          - JS swaps data-src -> src when the card is near the viewport.
-          - If no real image exists (already placeholder), just use it directly.
-        */}}
-        {{- $placeholder := "/Images/placeholder.jpg" -}}
-        {{- if ne $img $placeholder -}}
-          <img class="series-card__img lazy-img" src="{{ $placeholder | relURL }}" data-src="{{ $img | relURL }}" alt="{{ $disp }}" loading="lazy" decoding="async"
-               onerror="this.style.display='none'; this.parentElement.classList.add('is-missing');" />
-        {{- else -}}
-          <img class="series-card__img" src="{{ $img | relURL }}" alt="{{ $disp }}" loading="lazy" decoding="async"
-               onerror="this.style.display='none'; this.parentElement.classList.add('is-missing');" />
-        {{- end -}}
-
-        {{ if eq $img "/Images/placeholder.jpg" }}
-        <div class="series-card__fallback">{{ $disp }}</div>
-        {{ end }}
-
-        {{/* Title intentionally hidden on this page (image-only cards) */}}
+          {{ $placeholder := "/Images/placeholder.jpg" }}
+          {{ if ne $img $placeholder }}
+            <img class="series-card__img lazy-img" src="{{ $placeholder | relURL }}" data-src="{{ $img | relURL }}" alt="{{ $disp }}" loading="lazy" decoding="async" onerror="this.style.display='none'; this.parentElement.classList.add('is-missing');" />
+          {{ else }}
+            <img class="series-card__img" src="{{ $img | relURL }}" alt="{{ $disp }}" loading="lazy" decoding="async" onerror="this.style.display='none'; this.parentElement.classList.add('is-missing');" />
+          {{ end }}
+          {{ if eq $img "/Images/placeholder.jpg" }}<div class="series-card__fallback">{{ $disp }}</div>{{ end }}
         </a>
       </div>
     {{ end }}

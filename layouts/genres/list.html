@@ -1,39 +1,9 @@
-{{ define "preloads" }}
-  {{/* No image preloads needed for text-only genre cards */}}
-{{ end }}
-
+{{ define "preloads" }}{{ end }}
 {{ define "main" }}
-{{ $visibleGames := site.Data.games }}
-{{ if not hugo.IsServer }}
-  {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
-{{ end }}
+{{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
+{{ $idx := index site.Data.browse_indexes $mode }}
 <h1 class="page-title">Browse By Genre</h1>
-
-{{/* Build genres uniquely by URL slug, merging case/spelling-format variants. */}}
-{{ $genresBySlug := dict }}
-{{ range $visibleGames }}
-  {{ range slice .genre1 .genre2 }}
-    {{ $name := strings.TrimSpace (printf "%v" .) }}
-    {{ if $name }}
-      {{ $key := urlize $name }}
-      {{ if not (isset $genresBySlug $key) }}{{ $genresBySlug = merge $genresBySlug (dict $key $name) }}{{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-{{ $allGenres := slice }}
-{{ range $key, $name := $genresBySlug }}{{ $allGenres = $allGenres | append $name }}{{ end }}
-{{ $allGenres = sort $allGenres }}
-
-<div class="genre-controls" data-genre-grid>
-  <div class="genre-grid">
-    {{ range $allGenres }}
-      {{ $g := . }}
-      {{ $slug := urlize $g }}
-      {{ $disp := partial "format-genre.html" $g }}
-      <a class="genre-card genre-{{ $slug }}" data-title="{{ $disp }}" href="{{ (printf "/genres/%s/" $slug) | relURL }}">
-        <span class="genre-title">{{ $disp }}</span>
-      </a>
-    {{ end }}
-  </div>
-</div>
+<div class="genre-controls" data-genre-grid><div class="genre-grid">
+{{ range $idx.genre_catalog }}{{ $disp := partial "format-genre.html" .name }}<a class="genre-card genre-{{ .slug }}" data-title="{{ $disp }}" href="{{ (printf "/genres/%s/" .slug) | relURL }}"><span class="genre-title">{{ $disp }}</span></a>{{ end }}
+</div></div>
 {{ end }}
