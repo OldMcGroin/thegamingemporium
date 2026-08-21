@@ -36184,6 +36184,45 @@
     "notes": "",
     "date_added": "2026-08-20",
     "image": ""
+  },
+    {
+    "id": 2772,
+    "title": "Grand Theft Auto Vice City in Browser",
+    "category": "browser-based",
+    "link": "https://revc.wasm.ltd/",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2773,
+    "title": "Virtua Cop 2 VR",
+    "category": "vr-ports",
+    "link": "https://github.com/NeuralF/Rea-Virtua-Cop-2-VR",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "series": "Virtua Cop",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2774,
+    "title": "OpenXCOM Nintendo 3DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/TheRumble/OpenXCOM-3DS",
+    "genre1": "strategy",
+    "genre2": "resource-management",
+    "series": "X-Com",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
   }
 
 
