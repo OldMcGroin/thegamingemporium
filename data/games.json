@@ -36223,6 +36223,84 @@
     "notes": "",
     "date_added": "2026-08-21",
     "image": ""
+  },
+    {
+    "id": 2775,
+    "title": "Command & Conquer 64 PC Port",
+    "category": "console-to-pc-port",
+    "link": "https://cnc3dgame.com/",
+    "genre1": "strategy",
+    "genre2": "resource-management",
+    "series": "Command & Conquer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2776,
+    "title": "Star Wars: Masters of Teras Kasi Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TechnicallyComputers/MastersOfTerasKasiRecomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2777,
+    "title": "Rampage Through Time Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Rampage",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2778,
+    "title": "System Shock for Android",
+    "category": "android-ports",
+    "link": "https://github.com/raposomiguel50/system-shock-android",
+    "genre1": "first-person-shooter",
+    "genre2": "survival-horror",
+    "series": "System Shock",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2779,
+    "title": "Red Faction VR",
+    "category": "vr-ports",
+    "link": "https://github.com/CactusVRStudios/alpinefactionVR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Red Faction",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2780,
+    "title": "RPG Maker DS+ Create the New World - Nintendo DS",
+    "category": "english-translation-patches",
+    "link": "https://romhackplaza.org/translations/rpg-maker-ds-create-the-new-world-english-translation-nintendo-ds",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-21",
+    "image": ""
   }
 
 
