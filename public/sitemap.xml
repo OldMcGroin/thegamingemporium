@@ -570,6 +570,10 @@
   </url><url>
     <loc>http://localhost:1313/series/bloodwings/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/bloody-roar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bloody-roar-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/blue-angelo-angels-from-the-shrine/</loc>
   </url><url>
     <loc>http://localhost:1313/game/blue-angelo-angels-from-the-shrine-gameboy-advance/</loc>
@@ -831,6 +835,8 @@
     <loc>http://localhost:1313/game/celeste-classic-psx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/celeste-classic-sega-saturn-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/celeste-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/celeste-mario-s-zap-dash-deluxe/</loc>
   </url><url>
@@ -1435,6 +1441,8 @@
     <loc>http://localhost:1313/game/doom-64-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-64-ex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doom-64-ray-tracing/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-64-switch-port/</loc>
   </url><url>
@@ -5669,6 +5677,8 @@
     <loc>http://localhost:1313/game/terraria-calamity-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/terraria-tmodloader/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/terraria-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/test-drive/</loc>
   </url><url>

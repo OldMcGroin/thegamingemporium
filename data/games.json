@@ -36309,10 +36309,62 @@
     "link": "https://github.com/jakobkhansen/SilksongAndroid",
     "genre1": "metroidvania",
     "genre2": "",
-    "series": "Hollow Knigh",
+    "series": "Hollow Knight",
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-21",
+    "image": ""
+  },
+    {
+    "id": 2782,
+    "title": "Doom 64 Ray Tracing",
+    "category": "mods",
+    "link": "https://github.com/jlrouzies-fr/doom64-rt",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Doom",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-22",
+    "image": ""
+  },
+    {
+    "id": 2783,
+    "title": "Bloody Roar 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/novapowers0/BloodyRoar2Recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Bloody Roar",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-22",
+    "image": ""
+  },
+    {
+    "id": 2784,
+    "title": "Terraria in Browser",
+    "category": "browser-based",
+    "link": "https://terraria.mercurywork.shop/",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "Terraria",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-22",
+    "image": ""
+  },
+    {
+    "id": 2785,
+    "title": "Celeste in Browser",
+    "category": "browser-based",
+    "link": "https://celeste.r58playz.dev/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Celeste",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-22",
     "image": ""
   }
 

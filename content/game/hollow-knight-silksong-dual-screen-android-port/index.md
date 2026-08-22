@@ -7,7 +7,7 @@ params:
   category: "android-ports"
   genre1: "metroidvania"
   genre2: ""
-  series: "Hollow Knigh"
+  series: "Hollow Knight"
   video_link: ""
   date_added: "2026-08-21"
   image: ""
