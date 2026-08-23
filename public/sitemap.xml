@@ -1656,6 +1656,10 @@
   </url><url>
     <loc>http://localhost:1313/game/eduke32-duke-nukem-3d-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/einhander/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/einhander-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/einstein-puzzle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/elden-ring/</loc>
@@ -1725,6 +1729,10 @@
     <loc>http://localhost:1313/game/evos-space-adventures-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/exhumed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/extreme-g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/extreme-g-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/exult-ultima-vii-for-android/</loc>
   </url><url>

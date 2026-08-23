@@ -36366,6 +36366,32 @@
     "notes": "",
     "date_added": "2026-08-22",
     "image": ""
+  },
+    {
+    "id": 2786,
+    "title": "Einhander Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/strider973/Einhander-Recompiled",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "Einhander",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-23",
+    "image": ""
+  },
+    {
+    "id": 2787,
+    "title": "Extreme G Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/sonicdcer/ExtremeGRecomp/-/releases",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Extreme G",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-23",
+    "image": ""
   }
 
 
