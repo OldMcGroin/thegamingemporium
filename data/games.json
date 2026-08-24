@@ -36678,6 +36678,71 @@
     "notes": "",
     "date_added": "2026-08-24",
     "image": ""
+  },
+    {
+    "id": 2810,
+    "title": "Soloman Darker in Browser",
+    "category": "browser-based",
+    "link": "https://solomondarker.com/",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2811,
+    "title": "Duke Nukem Advance TC",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/duke-nukem-advance-tc",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Duke Nukem",
+    "video_link": "https://youtu.be/ZWS4ujFhofg?si=WX_K8M_fxkdxCZU1",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2812,
+    "title": "Halo MCC VR",
+    "category": "vr-ports",
+    "link": "https://github.com/pancreations/Halo-MCC-VR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2813,
+    "title": "Cyber Troopers Virtual-On Modern PC Patch",
+    "category": "mods",
+    "link": "https://github.com/pairomaniac/vo_patch",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Cyber Troopers Virtual-On",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2814,
+    "title": "Alexbeav's Recomps Batch 1",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Alexbeav/psxrecomp-ports",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
   }
 
 
