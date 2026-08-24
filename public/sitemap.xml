@@ -1314,9 +1314,13 @@
   </url><url>
     <loc>http://localhost:1313/series/descent/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/descent-2-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/descent-3-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/descent-descent-ii-dxx-rebirth-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/descent-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/destroy-all-humans/</loc>
   </url><url>
@@ -1403,6 +1407,10 @@
     <loc>http://localhost:1313/game/disney-s-piglet-s-big-game-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dmc3-crimson-devil-may-cry-3-hd-collection-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/do-not-take-this-cat-home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/do-not-take-this-cat-home-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dodonpachi-saidaioujou-recompilation/</loc>
   </url><url>
@@ -1748,6 +1756,10 @@
   </url><url>
     <loc>http://localhost:1313/game/evos-space-adventures-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/ex-zodiac/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ex-zodiac-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/exhumed/</loc>
   </url><url>
     <loc>http://localhost:1313/series/extreme-g/</loc>
@@ -1889,6 +1901,12 @@
     <loc>http://localhost:1313/series/faust-seven-games-of-the-soul/</loc>
   </url><url>
     <loc>http://localhost:1313/series/fear/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fear-and-hunger/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fear-and-hunger-2-termina-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fear-and-hunger-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fheroes2-heroes-of-might-magic-2-recreation/</loc>
   </url><url>
@@ -5035,6 +5053,8 @@
     <loc>http://localhost:1313/series/soul-calibre/</loc>
   </url><url>
     <loc>http://localhost:1313/series/soul-calibur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/soul-calibur-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/soul-calibur-swords-of-destiny/</loc>
   </url><url>

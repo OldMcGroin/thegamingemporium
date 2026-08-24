@@ -36587,6 +36587,97 @@
     "notes": "",
     "date_added": "2026-08-24",
     "image": ""
+  },
+    {
+    "id": 2803,
+    "title": "Descent for Android",
+    "category": "android-ports",
+    "link": "https://github.com/devint1/Descent-Mobile",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Descent",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2804,
+    "title": "Descent 2 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/devint1/Descent2-Mobile",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Descent",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2805,
+    "title": "Do NOT Take This Cat Home for Android",
+    "category": "android-ports",
+    "link": "https://t.me/visual_novels_android_eng/156",
+    "genre1": "visual-novel",
+    "genre2": "",
+    "series": "Do NOT Take This Cat Home",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2806,
+    "title": "Ex-Zodiac for Android",
+    "category": "android-ports",
+    "link": "https://www.mediafire.com/file/em0b6boxlb49h7q/Ex-Zodiac_0.1.8.apk/file",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "series": "Ex-Zodiac",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2807,
+    "title": "Fear and Hunger for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Chokage/Fear-And-Hunger-Android-Application",
+    "genre1": "rpg",
+    "genre2": "survival-horror",
+    "series": "Fear and Hunger",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2808,
+    "title": "Fear and Hunger 2 Termina for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Chokage/Fear-and-Hunger-2-Termina-Mobile",
+    "genre1": "rpg",
+    "genre2": "survival-horror",
+    "series": "Fear and Hunger",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
+  },
+    {
+    "id": 2809,
+    "title": "Soul Calibur 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jackpoison-prog/RingOut",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Soul Calibur",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-24",
+    "image": ""
   }
 
 
