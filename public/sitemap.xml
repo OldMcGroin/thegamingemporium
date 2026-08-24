@@ -244,6 +244,10 @@
   </url><url>
     <loc>http://localhost:1313/series/anteform/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/antonblast/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/antonblast-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/ao-no-6-go-saigetsufutai-hito-time-and-tide/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ao-no-6-go-saigetsufutai-hito-time-and-tide-dreamcast/</loc>
@@ -818,6 +822,8 @@
   </url><url>
     <loc>http://localhost:1313/game/cave-story-dokutsu-monogatari-pc/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/cave-story-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cave-story-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cave-story-port/</loc>
@@ -909,6 +915,10 @@
     <loc>http://localhost:1313/series/civilisation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/civilisation-5-faerun/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/civilization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/civilization-5-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/clangen/</loc>
   </url><url>
@@ -1091,6 +1101,10 @@
     <loc>http://localhost:1313/series/croc/</loc>
   </url><url>
     <loc>http://localhost:1313/game/croc-legend-of-the-gobbos-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/crosscode/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crosscode-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/crusader-kings/</loc>
   </url><url>
@@ -1285,6 +1299,8 @@
     <loc>http://localhost:1313/game/delta-touch-doom-engine-source-ports-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/deltarune/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/deltarune-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/deltatraveler-deltarune-interdream/</loc>
   </url><url>
