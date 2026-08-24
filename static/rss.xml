@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sun, 23 Aug 2026 19:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:29:19 +0000</lastBuildDate>
+    <item>
+      <title>2 MRSURVIV0R'S VR HUB</title>
+      <link>https://thegamingemporium.com/game/2-mrsurviv0r-s-vr-hub/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/2-mrsurviv0r-s-vr-hub/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" alt="2 MRSURVIV0R'S VR HUB" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" alt="2 MRSURVIV0R'S VR HUB" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Genre: utility]]></content:encoded>
+    </item>
     <item>
       <title>Einhander Recompilation</title>
       <link>https://thegamingemporium.com/game/einhander-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/moon-child-fe-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/moon-child-fe-in-browser.webp" alt="Moon Child FE in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/moon-child-fe-in-browser.webp" alt="Moon Child FE in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Undertale 2</title>
-      <link>https://thegamingemporium.com/game/undertale-2/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/undertale-2/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/undertale-2.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/undertale-2.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/undertale-2.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/undertale-2.webp" alt="Undertale 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Undertale · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/undertale-2.webp" alt="Undertale 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Undertale · Genre: rpg]]></content:encoded>
     </item>
   </channel>
 </rss>
