@@ -37029,6 +37029,32 @@
     "notes": "",
     "date_added": "2026-08-25",
     "image": ""
+  },
+    {
+    "id": 2837,
+    "title": "PSXRecomp - Sony PlayStation game static recompiler ecosystem",
+    "category": "utilities",
+    "link": "https://github.com/mstan/psxrecomp/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2838,
+    "title": "Tekken 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/fabioap-cpu/Tekken3Recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Tekken",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
   }
 
 

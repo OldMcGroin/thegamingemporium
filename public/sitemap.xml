@@ -4294,6 +4294,8 @@
   </url><url>
     <loc>http://localhost:1313/series/psi-ops/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/psxrecomp-sony-playstation-game-static-recompiler-ecosystem/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/psychological-horror/</loc>
   </url><url>
     <loc>http://localhost:1313/series/psychotoxic/</loc>
@@ -5777,6 +5779,8 @@
     <loc>http://localhost:1313/series/teeworlds/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tekken/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tekken-3-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/teknoparrot/</loc>
   </url><url>

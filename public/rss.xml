@@ -1,561 +1,560 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Gaming Emporium – Recent Additions</title>
-    <link>http://localhost:1313/</link>
-    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
-    <description>The 50 most recent additions to The Gaming Emporium. (Links go to the site first.)</description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:11:57 &#43;0000</lastBuildDate><item>
-        <title>Soloman Darker in Browser</title>
-        <link>http://localhost:1313/game/soloman-darker-in-browser/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/soloman-darker-in-browser/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/soloman-darker-in-browser.webp" />
-        <media:content url="http://localhost:1313/Images/Games/soloman-darker-in-browser.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/soloman-darker-in-browser.webp" type="image/webp" />
-        <category>browser-based</category>
-        <description></description>
-      </item><item>
-        <title>Duke Nukem Advance TC</title>
-        <link>http://localhost:1313/game/duke-nukem-advance-tc/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/duke-nukem-advance-tc/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/duke-nukem-advance-tc.webp" />
-        <media:content url="http://localhost:1313/Images/Games/duke-nukem-advance-tc.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/duke-nukem-advance-tc.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Halo MCC VR</title>
-        <link>http://localhost:1313/game/halo-mcc-vr/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/halo-mcc-vr/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/halo-mcc-vr.webp" />
-        <media:content url="http://localhost:1313/Images/Games/halo-mcc-vr.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/halo-mcc-vr.webp" type="image/webp" />
-        <category>vr-ports</category>
-        <description></description>
-      </item><item>
-        <title>Cyber Troopers Virtual-On Modern PC Patch</title>
-        <link>http://localhost:1313/game/cyber-troopers-virtual-on-modern-pc-patch/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/cyber-troopers-virtual-on-modern-pc-patch/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" />
-        <media:content url="http://localhost:1313/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" type="image/webp" />
-        <category>mods</category>
-        <description></description>
-      </item><item>
-        <title>Alexbeav&amp;#39;s Recomps Batch 1</title>
-        <link>http://localhost:1313/game/alexbeavs-recomps-batch-1/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/alexbeavs-recomps-batch-1/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/alexbeavs-recomps-batch-1.webp" />
-        <media:content url="http://localhost:1313/Images/Games/alexbeavs-recomps-batch-1.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/alexbeavs-recomps-batch-1.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Ms. Metaverse</title>
-        <link>http://localhost:1313/game/ms.-metaverse/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/ms.-metaverse/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/ms.-metaverse.webp" />
-        <media:content url="http://localhost:1313/Images/Games/ms.-metaverse.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/ms.-metaverse.webp" type="image/webp" />
-        <category>abandonware</category>
-        <description></description>
-      </item><item>
-        <title>Tenchu: Stealth Assassins Recompilation</title>
-        <link>http://localhost:1313/game/tenchu-stealth-assassins-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/tenchu-stealth-assassins-recompilation/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/tenchu-stealth-assassins-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/tenchu-stealth-assassins-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/tenchu-stealth-assassins-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Dragon Ball GT Final Bout Recompilation</title>
-        <link>http://localhost:1313/game/dragon-ball-gt-final-bout-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/dragon-ball-gt-final-bout-recompilation/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Freedom Planet 2 for Android</title>
-        <link>http://localhost:1313/game/freedom-planet-2-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/freedom-planet-2-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/freedom-planet-2-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/freedom-planet-2-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/freedom-planet-2-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Gish for Android</title>
-        <link>http://localhost:1313/game/gish-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/gish-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/gish-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/gish-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/gish-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Gloom Collection for Android</title>
-        <link>http://localhost:1313/game/gloom-collection-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/gloom-collection-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/gloom-collection-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/gloom-collection-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/gloom-collection-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Helltaker for Android</title>
-        <link>http://localhost:1313/game/helltaker-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/helltaker-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/helltaker-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/helltaker-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/helltaker-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Fheroes 2 - Heroes of Might and Magic 2 for Android</title>
-        <link>http://localhost:1313/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Homeworld for Android</title>
-        <link>http://localhost:1313/game/homeworld-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/homeworld-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/homeworld-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/homeworld-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/homeworld-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Inscryption for Android</title>
-        <link>http://localhost:1313/game/inscryption-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/inscryption-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/inscryption-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/inscryption-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/inscryption-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Jazz Jackrabbit 2 for Android</title>
-        <link>http://localhost:1313/game/jazz-jackrabbit-2-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/jazz-jackrabbit-2-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/jazz-jackrabbit-2-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/jazz-jackrabbit-2-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/jazz-jackrabbit-2-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Kindergarten for Android</title>
-        <link>http://localhost:1313/game/kindergarten-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/kindergarten-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/kindergarten-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/kindergarten-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/kindergarten-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Kindergarten 3 for Android</title>
-        <link>http://localhost:1313/game/kindergarten-3-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/kindergarten-3-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/kindergarten-3-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/kindergarten-3-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/kindergarten-3-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Look Outside for Android</title>
-        <link>http://localhost:1313/game/look-outside-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/look-outside-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/look-outside-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/look-outside-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/look-outside-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Marble Blast Collection for Android</title>
-        <link>http://localhost:1313/game/marble-blast-collection-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/marble-blast-collection-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/marble-blast-collection-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/marble-blast-collection-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/marble-blast-collection-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Minecraft: Java Edition for Android</title>
-        <link>http://localhost:1313/game/minecraft-java-edition-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/minecraft-java-edition-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/minecraft-java-edition-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/minecraft-java-edition-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/minecraft-java-edition-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Need For Speed 2 SE for Android</title>
-        <link>http://localhost:1313/game/need-for-speed-2-se-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/need-for-speed-2-se-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/need-for-speed-2-se-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/need-for-speed-2-se-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/need-for-speed-2-se-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>NetHack Dual Screen for Android</title>
-        <link>http://localhost:1313/game/nethack-dual-screen-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/nethack-dual-screen-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/nethack-dual-screen-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/nethack-dual-screen-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/nethack-dual-screen-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Night In The Woods for Android</title>
-        <link>http://localhost:1313/game/night-in-the-woods-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/night-in-the-woods-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/night-in-the-woods-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/night-in-the-woods-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/night-in-the-woods-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Nuclear Throne for Android</title>
-        <link>http://localhost:1313/game/nuclear-throne-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/nuclear-throne-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/nuclear-throne-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/nuclear-throne-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/nuclear-throne-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Oneshot WME for Android</title>
-        <link>http://localhost:1313/game/oneshot-wme-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/oneshot-wme-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/oneshot-wme-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/oneshot-wme-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/oneshot-wme-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Ori and the Blind Forest: Definitive Edition for Android</title>
-        <link>http://localhost:1313/game/ori-and-the-blind-forest-definitive-edition-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/ori-and-the-blind-forest-definitive-edition-for-android/</guid>
-        <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>2 MRSURVIV0R&amp;#39;S VR HUB</title>
-        <link>http://localhost:1313/game/2-mrsurviv0rs-vr-hub/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/2-mrsurviv0rs-vr-hub/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/2-mrsurviv0rs-vr-hub.webp" />
-        <media:content url="http://localhost:1313/Images/Games/2-mrsurviv0rs-vr-hub.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/2-mrsurviv0rs-vr-hub.webp" type="image/webp" />
-        <category>vr-ports</category>
-        <description></description>
-      </item><item>
-        <title>The Sims Medieval PC Patched</title>
-        <link>http://localhost:1313/game/the-sims-medieval-pc-patched/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/the-sims-medieval-pc-patched/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/the-sims-medieval-pc-patched.webp" />
-        <media:content url="http://localhost:1313/Images/Games/the-sims-medieval-pc-patched.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/the-sims-medieval-pc-patched.webp" type="image/webp" />
-        <category>abandonware</category>
-        <description></description>
-      </item><item>
-        <title>Antonblast for Android</title>
-        <link>http://localhost:1313/game/antonblast-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/antonblast-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/antonblast-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/antonblast-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/antonblast-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Cave Story for Android</title>
-        <link>http://localhost:1313/game/cave-story-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/cave-story-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/cave-story-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/cave-story-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/cave-story-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Civilization 5 for Android</title>
-        <link>http://localhost:1313/game/civilization-5-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/civilization-5-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/civilization-5-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/civilization-5-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/civilization-5-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>CrossCode for Android</title>
-        <link>http://localhost:1313/game/crosscode-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/crosscode-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/crosscode-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/crosscode-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/crosscode-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Deltarune for Android</title>
-        <link>http://localhost:1313/game/deltarune-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/deltarune-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/deltarune-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/deltarune-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/deltarune-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Descent for Android</title>
-        <link>http://localhost:1313/game/descent-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/descent-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/descent-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/descent-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/descent-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Descent 2 for Android</title>
-        <link>http://localhost:1313/game/descent-2-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/descent-2-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/descent-2-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/descent-2-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/descent-2-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Do NOT Take This Cat Home for Android</title>
-        <link>http://localhost:1313/game/do-not-take-this-cat-home-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/do-not-take-this-cat-home-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/do-not-take-this-cat-home-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/do-not-take-this-cat-home-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/do-not-take-this-cat-home-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Ex-Zodiac for Android</title>
-        <link>http://localhost:1313/game/ex-zodiac-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/ex-zodiac-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/ex-zodiac-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/ex-zodiac-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/ex-zodiac-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Fear and Hunger for Android</title>
-        <link>http://localhost:1313/game/fear-and-hunger-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/fear-and-hunger-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/fear-and-hunger-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/fear-and-hunger-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/fear-and-hunger-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Fear and Hunger 2 Termina for Android</title>
-        <link>http://localhost:1313/game/fear-and-hunger-2-termina-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/fear-and-hunger-2-termina-for-android/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/fear-and-hunger-2-termina-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/fear-and-hunger-2-termina-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/fear-and-hunger-2-termina-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Soul Calibur 2 Recompilation</title>
-        <link>http://localhost:1313/game/soul-calibur-2-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/soul-calibur-2-recompilation/</guid>
-        <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/soul-calibur-2-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/soul-calibur-2-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/soul-calibur-2-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Einhander Recompilation</title>
-        <link>http://localhost:1313/game/einhander-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/einhander-recompilation/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/einhander-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/einhander-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/einhander-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Extreme G Recompilation</title>
-        <link>http://localhost:1313/game/extreme-g-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/extreme-g-recompilation/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/extreme-g-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/extreme-g-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/extreme-g-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Mass Effect Legendary Edition Trilogy VR</title>
-        <link>http://localhost:1313/game/mass-effect-legendary-edition-trilogy-vr/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/mass-effect-legendary-edition-trilogy-vr/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" />
-        <media:content url="http://localhost:1313/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" type="image/webp" />
-        <category>vr-ports</category>
-        <description></description>
-      </item><item>
-        <title>Bomberman Fantasy Race Recompilation</title>
-        <link>http://localhost:1313/game/bomberman-fantasy-race-recompilation/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/bomberman-fantasy-race-recompilation/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/bomberman-fantasy-race-recompilation.webp" />
-        <media:content url="http://localhost:1313/Images/Games/bomberman-fantasy-race-recompilation.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/bomberman-fantasy-race-recompilation.webp" type="image/webp" />
-        <category>decompilations-recompilations</category>
-        <description></description>
-      </item><item>
-        <title>Super Mario World Remastered Plus for Android</title>
-        <link>http://localhost:1313/game/super-mario-world-remastered-plus-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/super-mario-world-remastered-plus-for-android/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-world-remastered-plus-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/super-mario-world-remastered-plus-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/super-mario-world-remastered-plus-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Super Metroid for Android</title>
-        <link>http://localhost:1313/game/super-metroid-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/super-metroid-for-android/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/super-metroid-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/super-metroid-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/super-metroid-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Mystical Ninja Starring Goemon Recompilation for Android</title>
-        <link>http://localhost:1313/game/mystical-ninja-starring-goemon-recompilation-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/mystical-ninja-starring-goemon-recompilation-for-android/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Super Mario Sunshine for Android</title>
-        <link>http://localhost:1313/game/super-mario-sunshine-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/super-mario-sunshine-for-android/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/super-mario-sunshine-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/super-mario-sunshine-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/super-mario-sunshine-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item><item>
-        <title>Stratagus - Warcraft, Starcraft for Android</title>
-        <link>http://localhost:1313/game/stratagus-warcraft-starcraft-for-android/</link>
-        <guid isPermaLink="true">http://localhost:1313/game/stratagus-warcraft-starcraft-for-android/</guid>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-
-        <media:thumbnail url="http://localhost:1313/Images/Games/stratagus-warcraft-starcraft-for-android.webp" />
-        <media:content url="http://localhost:1313/Images/Games/stratagus-warcraft-starcraft-for-android.webp" medium="image" />
-        <enclosure url="http://localhost:1313/Images/Games/stratagus-warcraft-starcraft-for-android.webp" type="image/webp" />
-        <category>android-ports</category>
-        <description></description>
-      </item>
+    <title>The Gaming Emporium — Recent Additions</title>
+    <link>https://thegamingemporium.com/</link>
+    <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
+    <lastBuildDate>Tue, 25 Aug 2026 13:38:03 +0000</lastBuildDate>
+    <item>
+      <title>Soloman Darker in Browser</title>
+      <link>https://thegamingemporium.com/game/soloman-darker-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/soloman-darker-in-browser/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/soloman-darker-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/soloman-darker-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/soloman-darker-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soloman-darker-in-browser.webp" alt="Soloman Darker in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soloman-darker-in-browser.webp" alt="Soloman Darker in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Duke Nukem Advance TC</title>
+      <link>https://thegamingemporium.com/game/duke-nukem-advance-tc/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/duke-nukem-advance-tc/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/duke-nukem-advance-tc.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/duke-nukem-advance-tc.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/duke-nukem-advance-tc.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duke-nukem-advance-tc.webp" alt="Duke Nukem Advance TC" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Duke Nukem · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duke-nukem-advance-tc.webp" alt="Duke Nukem Advance TC" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Duke Nukem · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Halo MCC VR</title>
+      <link>https://thegamingemporium.com/game/halo-mcc-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/halo-mcc-vr/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/halo-mcc-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/halo-mcc-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/halo-mcc-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-mcc-vr.webp" alt="Halo MCC VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Halo · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-mcc-vr.webp" alt="Halo MCC VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Cyber Troopers Virtual-On Modern PC Patch</title>
+      <link>https://thegamingemporium.com/game/cyber-troopers-virtual-on-modern-pc-patch/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/cyber-troopers-virtual-on-modern-pc-patch/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" alt="Cyber Troopers Virtual-On Modern PC Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyber Troopers Virtual-On · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" alt="Cyber Troopers Virtual-On Modern PC Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyber Troopers Virtual-On · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>Alexbeav's Recomps Batch 1</title>
+      <link>https://thegamingemporium.com/game/alexbeav-s-recomps-batch-1/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/alexbeav-s-recomps-batch-1/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>Tenchu: Stealth Assassins Recompilation</title>
+      <link>https://thegamingemporium.com/game/tenchu-stealth-assassins-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tenchu-stealth-assassins-recompilation/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" alt="Tenchu: Stealth Assassins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tenchu · Genre: stealth, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" alt="Tenchu: Stealth Assassins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tenchu · Genre: stealth, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Dragon Ball GT Final Bout Recompilation</title>
+      <link>https://thegamingemporium.com/game/dragon-ball-gt-final-bout-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dragon-ball-gt-final-bout-recompilation/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" alt="Dragon Ball GT Final Bout Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dragon Ball Z · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragon-ball-gt-final-bout-recompilation.webp" alt="Dragon Ball GT Final Bout Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dragon Ball Z · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Freedom Planet 2 for Android</title>
+      <link>https://thegamingemporium.com/game/freedom-planet-2-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/freedom-planet-2-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/freedom-planet-2-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/freedom-planet-2-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/freedom-planet-2-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freedom-planet-2-for-android.webp" alt="Freedom Planet 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freedom Planet · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freedom-planet-2-for-android.webp" alt="Freedom Planet 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freedom Planet · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Gish for Android</title>
+      <link>https://thegamingemporium.com/game/gish-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gish-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gish-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gish-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gish-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gish-for-android.webp" alt="Gish for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Gish · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gish-for-android.webp" alt="Gish for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Gish · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Gloom Collection for Android</title>
+      <link>https://thegamingemporium.com/game/gloom-collection-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gloom-collection-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gloom-collection-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gloom-collection-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gloom-collection-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gloom-collection-for-android.webp" alt="Gloom Collection for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Gloom · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gloom-collection-for-android.webp" alt="Gloom Collection for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Gloom · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Helltaker for Android</title>
+      <link>https://thegamingemporium.com/game/helltaker-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/helltaker-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/helltaker-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/helltaker-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/helltaker-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/helltaker-for-android.webp" alt="Helltaker for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Helltaker · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/helltaker-for-android.webp" alt="Helltaker for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Helltaker · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Fheroes 2 - Heroes of Might and Magic 2 for Android</title>
+      <link>https://thegamingemporium.com/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" alt="Fheroes 2 - Heroes of Might and Magic 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Might &amp; Magic · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fheroes-2-heroes-of-might-and-magic-2-for-android.webp" alt="Fheroes 2 - Heroes of Might and Magic 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Might &amp; Magic · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Homeworld for Android</title>
+      <link>https://thegamingemporium.com/game/homeworld-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/homeworld-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/homeworld-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/homeworld-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/homeworld-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/homeworld-for-android.webp" alt="Homeworld for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Homeworld · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/homeworld-for-android.webp" alt="Homeworld for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Homeworld · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Inscryption for Android</title>
+      <link>https://thegamingemporium.com/game/inscryption-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/inscryption-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/inscryption-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/inscryption-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/inscryption-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/inscryption-for-android.webp" alt="Inscryption for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Inscryption · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/inscryption-for-android.webp" alt="Inscryption for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Inscryption · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Jazz Jackrabbit 2 for Android</title>
+      <link>https://thegamingemporium.com/game/jazz-jackrabbit-2-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/jazz-jackrabbit-2-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/jazz-jackrabbit-2-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/jazz-jackrabbit-2-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/jazz-jackrabbit-2-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jazz-jackrabbit-2-for-android.webp" alt="Jazz Jackrabbit 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Jazz Jackrabbit · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jazz-jackrabbit-2-for-android.webp" alt="Jazz Jackrabbit 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Jazz Jackrabbit · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Kindergarten for Android</title>
+      <link>https://thegamingemporium.com/game/kindergarten-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/kindergarten-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kindergarten-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/kindergarten-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/kindergarten-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kindergarten-for-android.webp" alt="Kindergarten for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Kindergarten · Genre: puzzle, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kindergarten-for-android.webp" alt="Kindergarten for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Kindergarten · Genre: puzzle, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Kindergarten 3 for Android</title>
+      <link>https://thegamingemporium.com/game/kindergarten-3-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/kindergarten-3-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/kindergarten-3-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/kindergarten-3-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/kindergarten-3-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kindergarten-3-for-android.webp" alt="Kindergarten 3 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Kindergarten · Genre: puzzle, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kindergarten-3-for-android.webp" alt="Kindergarten 3 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Kindergarten · Genre: puzzle, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Look Outside for Android</title>
+      <link>https://thegamingemporium.com/game/look-outside-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/look-outside-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/look-outside-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/look-outside-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/look-outside-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/look-outside-for-android.webp" alt="Look Outside for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Look Outside · Genre: rpg, survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/look-outside-for-android.webp" alt="Look Outside for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Look Outside · Genre: rpg, survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Marble Blast Collection for Android</title>
+      <link>https://thegamingemporium.com/game/marble-blast-collection-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/marble-blast-collection-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/marble-blast-collection-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/marble-blast-collection-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/marble-blast-collection-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marble-blast-collection-for-android.webp" alt="Marble Blast Collection for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Marble Blast · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marble-blast-collection-for-android.webp" alt="Marble Blast Collection for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Marble Blast · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Minecraft: Java Edition for Android</title>
+      <link>https://thegamingemporium.com/game/minecraft-java-edition-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/minecraft-java-edition-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/minecraft-java-edition-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/minecraft-java-edition-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/minecraft-java-edition-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/minecraft-java-edition-for-android.webp" alt="Minecraft: Java Edition for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Minecraft · Genre: sandbox, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/minecraft-java-edition-for-android.webp" alt="Minecraft: Java Edition for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Minecraft · Genre: sandbox, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Need For Speed 2 SE for Android</title>
+      <link>https://thegamingemporium.com/game/need-for-speed-2-se-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/need-for-speed-2-se-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/need-for-speed-2-se-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/need-for-speed-2-se-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/need-for-speed-2-se-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/need-for-speed-2-se-for-android.webp" alt="Need For Speed 2 SE for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Need For Speed · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/need-for-speed-2-se-for-android.webp" alt="Need For Speed 2 SE for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Need For Speed · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>NetHack Dual Screen for Android</title>
+      <link>https://thegamingemporium.com/game/nethack-dual-screen-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/nethack-dual-screen-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nethack-dual-screen-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/nethack-dual-screen-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/nethack-dual-screen-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nethack-dual-screen-for-android.webp" alt="NetHack Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: NetHack · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nethack-dual-screen-for-android.webp" alt="NetHack Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: NetHack · Genre: roguelike]]></content:encoded>
+    </item>
+    <item>
+      <title>Night In The Woods for Android</title>
+      <link>https://thegamingemporium.com/game/night-in-the-woods-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/night-in-the-woods-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" alt="Night In The Woods for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Night In The Woods · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" alt="Night In The Woods for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Night In The Woods · Genre: adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Nuclear Throne for Android</title>
+      <link>https://thegamingemporium.com/game/nuclear-throne-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/nuclear-throne-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" alt="Nuclear Throne for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Nuclear Throne · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" alt="Nuclear Throne for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Nuclear Throne · Genre: roguelike]]></content:encoded>
+    </item>
+    <item>
+      <title>Oneshot WME for Android</title>
+      <link>https://thegamingemporium.com/game/oneshot-wme-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/oneshot-wme-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/oneshot-wme-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/oneshot-wme-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/oneshot-wme-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oneshot-wme-for-android.webp" alt="Oneshot WME for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Oneshot · Genre: puzzle, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/oneshot-wme-for-android.webp" alt="Oneshot WME for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Oneshot · Genre: puzzle, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Ori and the Blind Forest: Definitive Edition for Android</title>
+      <link>https://thegamingemporium.com/game/ori-and-the-blind-forest-definitive-edition-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ori-and-the-blind-forest-definitive-edition-for-android/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" alt="Ori and the Blind Forest: Definitive Edition for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ori and the Blind Forest · Genre: metroidvania, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ori-and-the-blind-forest-definitive-edition-for-android.webp" alt="Ori and the Blind Forest: Definitive Edition for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ori and the Blind Forest · Genre: metroidvania, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>PSXRecomp - Sony PlayStation game static recompiler ecosystem</title>
+      <link>https://thegamingemporium.com/game/psxrecomp-sony-playstation-game-static-recompiler-ecosystem/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/psxrecomp-sony-playstation-game-static-recompiler-ecosystem/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/psxrecomp-sony-playstation-game-static-recompiler-ecosystem.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/psxrecomp-sony-playstation-game-static-recompiler-ecosystem.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/psxrecomp-sony-playstation-game-static-recompiler-ecosystem.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/psxrecomp-sony-playstation-game-static-recompiler-ecosystem.webp" alt="PSXRecomp - Sony PlayStation game static recompiler ecosystem" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utilities · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/psxrecomp-sony-playstation-game-static-recompiler-ecosystem.webp" alt="PSXRecomp - Sony PlayStation game static recompiler ecosystem" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utilities · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Tekken 3 Recompilation</title>
+      <link>https://thegamingemporium.com/game/tekken-3-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tekken-3-recompilation/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tekken-3-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tekken-3-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tekken-3-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tekken-3-recompilation.webp" alt="Tekken 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tekken · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tekken-3-recompilation.webp" alt="Tekken 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tekken · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>2 MRSURVIV0R'S VR HUB</title>
+      <link>https://thegamingemporium.com/game/2-mrsurviv0r-s-vr-hub/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/2-mrsurviv0r-s-vr-hub/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" alt="2 MRSURVIV0R'S VR HUB" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/2-mrsurviv0r-s-vr-hub.webp" alt="2 MRSURVIV0R'S VR HUB" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Antonblast for Android</title>
+      <link>https://thegamingemporium.com/game/antonblast-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/antonblast-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/antonblast-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/antonblast-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/antonblast-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/antonblast-for-android.webp" alt="Antonblast for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Antonblast · Genre: twin stick shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/antonblast-for-android.webp" alt="Antonblast for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Antonblast · Genre: twin stick shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Cave Story for Android</title>
+      <link>https://thegamingemporium.com/game/cave-story-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/cave-story-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/cave-story-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/cave-story-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/cave-story-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cave-story-for-android.webp" alt="Cave Story for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Cave Story · Genre: metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cave-story-for-android.webp" alt="Cave Story for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Cave Story · Genre: metroidvania]]></content:encoded>
+    </item>
+    <item>
+      <title>Civilization 5 for Android</title>
+      <link>https://thegamingemporium.com/game/civilization-5-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/civilization-5-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/civilization-5-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/civilization-5-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/civilization-5-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/civilization-5-for-android.webp" alt="Civilization 5 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Civilization · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/civilization-5-for-android.webp" alt="Civilization 5 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Civilization · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>CrossCode for Android</title>
+      <link>https://thegamingemporium.com/game/crosscode-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/crosscode-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crosscode-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crosscode-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crosscode-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crosscode-for-android.webp" alt="CrossCode for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: CrossCode · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crosscode-for-android.webp" alt="CrossCode for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: CrossCode · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Deltarune for Android</title>
+      <link>https://thegamingemporium.com/game/deltarune-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/deltarune-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/deltarune-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/deltarune-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/deltarune-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deltarune-for-android.webp" alt="Deltarune for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Deltarune · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/deltarune-for-android.webp" alt="Deltarune for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Deltarune · Genre: rpg]]></content:encoded>
+    </item>
+    <item>
+      <title>Descent for Android</title>
+      <link>https://thegamingemporium.com/game/descent-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/descent-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/descent-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/descent-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/descent-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-for-android.webp" alt="Descent for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-for-android.webp" alt="Descent for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Descent 2 for Android</title>
+      <link>https://thegamingemporium.com/game/descent-2-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/descent-2-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/descent-2-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/descent-2-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/descent-2-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-2-for-android.webp" alt="Descent 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-2-for-android.webp" alt="Descent 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Do NOT Take This Cat Home for Android</title>
+      <link>https://thegamingemporium.com/game/do-not-take-this-cat-home-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/do-not-take-this-cat-home-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/do-not-take-this-cat-home-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/do-not-take-this-cat-home-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/do-not-take-this-cat-home-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/do-not-take-this-cat-home-for-android.webp" alt="Do NOT Take This Cat Home for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Do NOT Take This Cat Home · Genre: visual novel]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/do-not-take-this-cat-home-for-android.webp" alt="Do NOT Take This Cat Home for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Do NOT Take This Cat Home · Genre: visual novel]]></content:encoded>
+    </item>
+    <item>
+      <title>Ex-Zodiac for Android</title>
+      <link>https://thegamingemporium.com/game/ex-zodiac-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ex-zodiac-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ex-zodiac-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ex-zodiac-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ex-zodiac-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ex-zodiac-for-android.webp" alt="Ex-Zodiac for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ex-Zodiac · Genre: rail shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ex-zodiac-for-android.webp" alt="Ex-Zodiac for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ex-Zodiac · Genre: rail shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Fear and Hunger for Android</title>
+      <link>https://thegamingemporium.com/game/fear-and-hunger-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/fear-and-hunger-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fear-and-hunger-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fear-and-hunger-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fear-and-hunger-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fear-and-hunger-for-android.webp" alt="Fear and Hunger for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Fear and Hunger · Genre: rpg, survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fear-and-hunger-for-android.webp" alt="Fear and Hunger for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Fear and Hunger · Genre: rpg, survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Fear and Hunger 2 Termina for Android</title>
+      <link>https://thegamingemporium.com/game/fear-and-hunger-2-termina-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/fear-and-hunger-2-termina-for-android/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fear-and-hunger-2-termina-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/fear-and-hunger-2-termina-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/fear-and-hunger-2-termina-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fear-and-hunger-2-termina-for-android.webp" alt="Fear and Hunger 2 Termina for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Fear and Hunger · Genre: rpg, survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fear-and-hunger-2-termina-for-android.webp" alt="Fear and Hunger 2 Termina for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Fear and Hunger · Genre: rpg, survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Soul Calibur 2 Recompilation</title>
+      <link>https://thegamingemporium.com/game/soul-calibur-2-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/soul-calibur-2-recompilation/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/soul-calibur-2-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/soul-calibur-2-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/soul-calibur-2-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soul-calibur-2-recompilation.webp" alt="Soul Calibur 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Soul Calibur · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/soul-calibur-2-recompilation.webp" alt="Soul Calibur 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Soul Calibur · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Einhander Recompilation</title>
+      <link>https://thegamingemporium.com/game/einhander-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/einhander-recompilation/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/einhander-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/einhander-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/einhander-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/einhander-recompilation.webp" alt="Einhander Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Einhander · Genre: shoot em up]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/einhander-recompilation.webp" alt="Einhander Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Einhander · Genre: shoot em up]]></content:encoded>
+    </item>
+    <item>
+      <title>Extreme G Recompilation</title>
+      <link>https://thegamingemporium.com/game/extreme-g-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/extreme-g-recompilation/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/extreme-g-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/extreme-g-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/extreme-g-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/extreme-g-recompilation.webp" alt="Extreme G Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Extreme G · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/extreme-g-recompilation.webp" alt="Extreme G Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Extreme G · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Mass Effect Legendary Edition Trilogy VR</title>
+      <link>https://thegamingemporium.com/game/mass-effect-legendary-edition-trilogy-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mass-effect-legendary-edition-trilogy-vr/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" alt="Mass Effect Legendary Edition Trilogy VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Mass Effect · Genre: rpg, third person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mass-effect-legendary-edition-trilogy-vr.webp" alt="Mass Effect Legendary Edition Trilogy VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Mass Effect · Genre: rpg, third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Bomberman Fantasy Race Recompilation</title>
+      <link>https://thegamingemporium.com/game/bomberman-fantasy-race-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bomberman-fantasy-race-recompilation/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bomberman-fantasy-race-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bomberman-fantasy-race-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bomberman-fantasy-race-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-fantasy-race-recompilation.webp" alt="Bomberman Fantasy Race Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bomberman-fantasy-race-recompilation.webp" alt="Bomberman Fantasy Race Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bomberman · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario World Remastered Plus for Android</title>
+      <link>https://thegamingemporium.com/game/super-mario-world-remastered-plus-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-world-remastered-plus-for-android/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-world-remastered-plus-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-world-remastered-plus-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-world-remastered-plus-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-world-remastered-plus-for-android.webp" alt="Super Mario World Remastered Plus for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-world-remastered-plus-for-android.webp" alt="Super Mario World Remastered Plus for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Metroid for Android</title>
+      <link>https://thegamingemporium.com/game/super-metroid-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-metroid-for-android/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-metroid-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-metroid-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-metroid-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-for-android.webp" alt="Super Metroid for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Metroid · Genre: metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-for-android.webp" alt="Super Metroid for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Metroid · Genre: metroidvania]]></content:encoded>
+    </item>
+    <item>
+      <title>Mystical Ninja Starring Goemon Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mystical-ninja-starring-goemon-recompilation-for-android/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" alt="Mystical Ninja Starring Goemon Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Mystical Ninja · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mystical-ninja-starring-goemon-recompilation-for-android.webp" alt="Mystical Ninja Starring Goemon Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Mystical Ninja · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario Sunshine for Android</title>
+      <link>https://thegamingemporium.com/game/super-mario-sunshine-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-sunshine-for-android/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-for-android.webp" alt="Super Mario Sunshine for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-for-android.webp" alt="Super Mario Sunshine for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Stratagus - Warcraft, Starcraft for Android</title>
+      <link>https://thegamingemporium.com/game/stratagus-warcraft-starcraft-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/stratagus-warcraft-starcraft-for-android/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/stratagus-warcraft-starcraft-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/stratagus-warcraft-starcraft-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/stratagus-warcraft-starcraft-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stratagus-warcraft-starcraft-for-android.webp" alt="Stratagus - Warcraft, Starcraft for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stratagus-warcraft-starcraft-for-android.webp" alt="Stratagus - Warcraft, Starcraft for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: strategy]]></content:encoded>
+    </item>
   </channel>
 </rss>
