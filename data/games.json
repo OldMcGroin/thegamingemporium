@@ -36782,6 +36782,97 @@
     "notes": "",
     "date_added": "2026-08-25",
     "image": ""
+  },
+    {
+    "id": 2818,
+    "title": "Freedom Planet 2 for Android",
+    "category": "android-ports",
+    "link": "https://apkvision.org/games/action/freedom-planet-2-134313/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Freedom Planet",
+    "video_link": "https://youtu.be/rfFNI4d9czs?si=E8FWMoGcyIE5gChH",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2819,
+    "title": "Gish for Android",
+    "category": "android-ports",
+    "link": "https://github.com/EXL/Gish",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Gish",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2820,
+    "title": "Gloom Collection for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Andiweli/ZGloom-Android",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Gloom",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2821,
+    "title": "Helltaker for Android",
+    "category": "android-ports",
+    "link": "https://apkvision.org/games/puzzle/helltaker-91016/",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Helltaker",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2822,
+    "title": "Fheroes 2 - Heroes of Might and Magic 2 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/ihhub/fheroes2",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Might & Magic",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2823,
+    "title": "Homeworld for Android",
+    "category": "android-ports",
+    "link": "http://beloko.com/hw.html",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Homeworld",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2824,
+    "title": "Inscryption for Android",
+    "category": "android-ports",
+    "link": "https://t.me/gleports/294",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Inscryption",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
   }
 
 
