@@ -36743,6 +36743,45 @@
     "notes": "",
     "date_added": "2026-08-25",
     "image": ""
+  },
+    {
+    "id": 2815,
+    "title": "Ms. Metaverse",
+    "category": "abandonware",
+    "link": "https://github.com/kandowontu/ms-metaverse-native",
+    "genre1": "FMV",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2816,
+    "title": "Tenchu: Stealth Assassins Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Heromachine/Tenchu-SA-Recomp",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Tenchu",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
+  },
+    {
+    "id": 2817,
+    "title": "Dragon Ball GT Final Bout Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/novapowers0/DB-Final-Bout-Recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-25",
+    "image": ""
   }
 
 

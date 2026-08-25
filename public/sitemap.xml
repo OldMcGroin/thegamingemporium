@@ -1520,6 +1520,8 @@
   </url><url>
     <loc>http://localhost:1313/series/dragon-ball-fighterz/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dragon-ball-gt-final-bout-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dragon-ball-z/</loc>
@@ -5727,6 +5729,8 @@
     <loc>http://localhost:1313/series/tenchu/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tenchu-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tenchu-stealth-assassins-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tengai-makyou-zero/</loc>
   </url><url>
