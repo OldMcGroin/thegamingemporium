@@ -140,6 +140,8 @@
   </url><url>
     <loc>http://localhost:1313/series/alien-legacy/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/alien-resurrection-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/aliens-vs-predator/</loc>
   </url><url>
     <loc>http://localhost:1313/all/</loc>
@@ -4571,6 +4573,8 @@
     <loc>http://localhost:1313/game/ridge-racer-collection/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ridge-racer-collection-with-online-play/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ridge-racer-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rigelengine-re-implementation-duke-nukem-ii/</loc>
   </url><url>
