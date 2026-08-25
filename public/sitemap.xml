@@ -4064,6 +4064,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemmo/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemmo-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/pokemon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-aether-white-2/</loc>
@@ -4173,6 +4175,8 @@
     <loc>http://localhost:1313/game/pokepark-wii-pikachu-s-adventure-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/poker-night-double-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokerogue-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/policenauts/</loc>
   </url><url>
@@ -4364,6 +4368,8 @@
   </url><url>
     <loc>http://localhost:1313/game/r-e-l-i-v-e-abe-s-odyssey-exodus-pc-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/r-e-p-o-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/racing/</loc>
   </url><url>
     <loc>http://localhost:1313/series/racing-battle/</loc>
@@ -4379,6 +4385,10 @@
     <loc>http://localhost:1313/genres/rail-shooter/</loc>
   </url><url>
     <loc>http://localhost:1313/series/rain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/rain-world/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rain-world-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/rainbow-cotton/</loc>
   </url><url>
@@ -4419,6 +4429,8 @@
     <loc>http://localhost:1313/game/razexr-duke-nukem-3d-blood-shadow-warrior-etc/</loc>
   </url><url>
     <loc>http://localhost:1313/series/re-volt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/re-volt-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/re-enhance/</loc>
   </url><url>
@@ -4497,6 +4509,8 @@
     <loc>http://localhost:1313/game/resident-evil-4-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-5-texture-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-gaiden-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-hd-remaster-4k-texture-pack/</loc>
   </url><url>
@@ -4603,6 +4617,14 @@
     <loc>http://localhost:1313/series/ripper/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rise-of-the-tomb-raider-hd-4k-8k-texture-collection/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/rise-of-the-triad/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rise-of-the-triad-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/risk-of-rain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/risk-of-rain-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/road-rash/</loc>
   </url><url>
@@ -6687,6 +6709,8 @@
     <loc>http://localhost:1313/series/wii-sports/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wii-sports-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wiicompiled-mario-kart-wii-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/will-rock/</loc>
   </url><url>
