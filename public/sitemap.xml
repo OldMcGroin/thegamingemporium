@@ -1686,6 +1686,8 @@
   </url><url>
     <loc>http://localhost:1313/game/ecwolf-wolfenstein-3d-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ecwolf-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/eddies-puzzletime/</loc>
   </url><url>
     <loc>http://localhost:1313/game/eddie-s-puzzletime-gameboy/</loc>
@@ -2051,6 +2053,8 @@
     <loc>http://localhost:1313/series/folklore/</loc>
   </url><url>
     <loc>http://localhost:1313/series/forza/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/forza-horizon-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fpc-atomic-atomic-bomberman-reimplimentation/</loc>
   </url><url>
@@ -3832,6 +3836,8 @@
   </url><url>
     <loc>http://localhost:1313/game/opentyrian-2000/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/opentyrian-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/openxcom/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openxcom-for-android/</loc>
@@ -4796,6 +4802,10 @@
   </url><url>
     <loc>http://localhost:1313/game/sensible-soccer-nes/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/serious-sam/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/serious-sam-the-first-encounter-and-serious-sam-the-second-encounter-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/seven-kingdoms-ancient-adversaries/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shadow-of-the-beast/</loc>
@@ -4973,6 +4983,8 @@
     <loc>http://localhost:1313/series/slay-the-spire/</loc>
   </url><url>
     <loc>http://localhost:1313/game/slay-the-spire-downfall/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/slay-the-spire-2-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/slippi-super-smash-brothers-melee-online-pvp-with-rollback-netcode/</loc>
   </url><url>
@@ -5222,6 +5234,10 @@
   </url><url>
     <loc>http://localhost:1313/series/spelunky/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/spelunky-classic-hd-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/spelunky-classic-hd-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/spelunkyclassichd/</loc>
   </url><url>
     <loc>http://localhost:1313/series/sphinx-and-the-cursed-mummy/</loc>
@@ -5330,6 +5346,10 @@
   </url><url>
     <loc>http://localhost:1313/game/star-wars-shadows-of-the-empire-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/starbound/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/starbound-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/starcraft/</loc>
   </url><url>
     <loc>http://localhost:1313/game/starcraft-64-campaign-co-op-mod/</loc>
@@ -5337,6 +5357,8 @@
     <loc>http://localhost:1313/series/stardew-valley/</loc>
   </url><url>
     <loc>http://localhost:1313/game/stardew-valley-a-voice-over-mod-for-all-love-interests/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/stardew-valley-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/starfield/</loc>
   </url><url>
@@ -5998,11 +6020,13 @@
   </url><url>
     <loc>http://localhost:1313/series/the-legend-of-korra/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/legend-of-sword-and-fairy/</loc>
-  </url><url>
     <loc>http://localhost:1313/series/the-legend-of-sword-and-fairy/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-sword-fairy-pc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/legend-of-sword-and-fairy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-sword-and-fairy-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/legend-of-zelda/</loc>
   </url><url>
@@ -6202,6 +6226,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-third-of-the-third-street-fighter-iii-3rd-strike-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-ur-quan-masters-star-control-2-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-ur-quan-masters-star-control-2-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-walking-dead/</loc>
@@ -6386,6 +6412,10 @@
   </url><url>
     <loc>http://localhost:1313/series/transports-tycoon/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/trap-adventure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/trap-adventure-2-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/tremulous/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tremulous/</loc>
@@ -6446,11 +6476,15 @@
   </url><url>
     <loc>http://localhost:1313/game/tyrian-opentyrian-in-browser/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ufo-50-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/ufo-alien-invasion/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ufo-alien-invasion/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ultima/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ultima-online-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ultima-v-warriors-of-destiny-decompilation/</loc>
   </url><url>
@@ -6504,6 +6538,8 @@
   </url><url>
     <loc>http://localhost:1313/game/unreal-redux/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/unreal-tournament-99-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/unreal-tournament-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/unreal-tournament-vr/</loc>
@@ -6525,6 +6561,10 @@
     <loc>http://localhost:1313/categories/utilities/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/utility/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/va-11-hall-a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/va-11-hall-a-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/vagrant-story/</loc>
   </url><url>
@@ -6738,6 +6778,8 @@
   </url><url>
     <loc>http://localhost:1313/game/wolfenstein-rpg/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/wolfenstein-enemy-territory-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/wolfpack/</loc>
   </url><url>
     <loc>http://localhost:1313/series/wonder-project-j2/</loc>
@@ -6835,6 +6877,10 @@
     <loc>http://localhost:1313/game/yoshi-s-story-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/you-are-empty/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/your-only-move-is-hustle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/your-only-move-is-hustle-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ys/</loc>
   </url><url>
@@ -6959,5 +7005,9 @@
     <loc>http://localhost:1313/game/zquest-classic-zelda-quest-lists/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zquest-classic-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/zuma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zuma-deluxe-for-android/</loc>
   </url>
 </urlset>
