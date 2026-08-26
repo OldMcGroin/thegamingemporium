@@ -28,34 +28,7 @@ python3 tools/generate_rss_feed.py || true
 # Build Hugo
 "$HUGO_CMD" --minify
 
-# Git deploy
-# Generated files can occasionally still be changing when Git first reads them.
-# Give them a moment to settle, then retry staging automatically if necessary.
-sleep 1
-
-GIT_STAGED=0
-
-for attempt in 1 2 3 4 5; do
-    if git add -A; then
-        GIT_STAGED=1
-        break
-    fi
-
-    echo
-    echo "Git staging failed — waiting 2 seconds and retrying ($attempt/5)..."
-    sleep 2
-done
-
-if [[ "$GIT_STAGED" -ne 1 ]]; then
-    echo "ERROR: Git could not stage the files after 5 attempts."
-    exit 1
-fi
-
-# Only commit when something actually changed
-if ! git diff --cached --quiet; then
-    git commit -m "Deploy $(date +"%Y-%m-%d %H:%M")"
-else
-    echo "No changes to commit."
-fi
-
+# Git deploy (safe if repo has .git)
+git add -A
+git commit -m "Deploy $(date +"%Y-%m-%d %H:%M")" || true
 git push

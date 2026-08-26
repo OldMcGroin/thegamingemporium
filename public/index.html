@@ -80,6 +80,9 @@
   <link rel="stylesheet" href="/css/main.min.ec676e11c46265f2469defc92b3c19fc7cc6c402c63a526be58f60243ad69fd2.css" integrity="sha256-7GduEcRiZfJGne/JKzwZ/HzGxALGOlJr5Y9gJDrWn9I=" crossorigin="anonymous" />
 
   <link rel="alternate" type="application/rss+xml" title="The Gaming Emporium — Recent Additions" href="/rss.xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <meta name="theme-color" content="#111111" />
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
 
   
   <link rel="preload" as="image" href="/Images/Background/background.jpg" fetchpriority="high" />
@@ -154,6 +157,7 @@
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
           </span>
+          <button class="nav__link nav__link--pill nav__link--install" type="button" data-install-app hidden>📲 Install App</button>
           <button class="nav__link nav__link--pill nav__link--suggestion" type="button" data-suggestion-open aria-haspopup="dialog" aria-controls="suggestionModal">💡 Have a Suggestion?</button>
         </nav>
       </div>
@@ -260,6 +264,16 @@
         </div>
         <div class="favourites-modal__list" data-favourites-list></div>
         <button class="favourites-modal__clear" type="button" data-favourites-clear hidden>Clear all favourites</button>
+      </section>
+    </div>
+
+    <div class="suggestion-modal" id="installHelpModal" data-install-help-modal hidden>
+      <div class="suggestion-modal__backdrop" data-install-help-close></div>
+      <section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-labelledby="installHelpTitle">
+        <button class="suggestion-modal__close" type="button" aria-label="Close install instructions" data-install-help-close>✕</button>
+        <h2 id="installHelpTitle">📲 Install The Gaming Emporium</h2>
+        <p>On iPhone or iPad, tap the browser Share button, then choose <strong>Add to Home Screen</strong>.</p>
+        <p class="suggestion-modal__note">It will then launch from your Home Screen like an app.</p>
       </section>
     </div>
 
@@ -640,8 +654,8 @@
   
   
   <script src="/js/home-random.min.f09c4f48e1808142d6976126198c0682cefede693987c6689c9c5aa112b3a54f.js" integrity="sha256-8JxPSOGAgULWl2EmGYwGgs7&#43;3mk5h8ZonJxaoRKzpU8=" crossorigin="anonymous" defer></script>
-  <script src="/games-slug-map.js?v=1787736973" defer></script>
-<script src="/search-index.js?v=1787736973" defer></script>
+  <script src="/games-slug-map.js?v=1787747452" defer></script>
+<script src="/search-index.js?v=1787747452" defer></script>
 
 <script src="/js/search.min.aa08452716e208abc9f3e7132dea9b184edb80c6970329976182f362a24ac055.js" integrity="sha256-qghFJxbiCKvJ8&#43;cTLeqbGE7bgMaXAymXYYLzYqJKwFU=" crossorigin="anonymous" defer></script>
 
@@ -677,6 +691,8 @@
   
   
   <script src="/js/admin-visibility.min.6e2209d96e5f1064d69c5a4233685a91f7f3e764c3a1393c961595b8c9aadba1.js" integrity="sha256-biIJ2W5fEGTWnFpCM2hakffz52TDoTk8lhWVuMmq26E=" crossorigin="anonymous" defer></script>
+  
+  <script src="/js/install-app.min.dc88b038dfc7553b31b3c525aebbaa5fe23ef6f4d77769d5b91a8e1f16faa838.js" integrity="sha256-3IiwON/HVTsxs8UlrruqX&#43;I&#43;9vTXd2nVuRqOHxb6qDg=" crossorigin="anonymous" defer></script>
 
 
 
