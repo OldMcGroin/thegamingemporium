@@ -37033,7 +37033,7 @@
     {
     "id": 2837,
     "title": "PSXRecomp - Sony PlayStation game static recompiler ecosystem",
-    "category": "utilities",
+    "category": "utility",
     "link": "https://github.com/mstan/psxrecomp/",
     "genre1": "utility",
     "genre2": "",
@@ -37532,6 +37532,19 @@
     "genre1": "puzzle",
     "genre2": "",
     "series": "Tetris",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2876,
+    "title": "Digimon World Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Ethan4love/Digimon-world-PSX-RECOMP",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Digimon",
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-26",

@@ -4,7 +4,7 @@ url: "/game/psxrecomp-sony-playstation-game-static-recompiler-ecosystem/"
 type: game
 params:
   external_link: "https://github.com/mstan/psxrecomp/"
-  category: "utilities"
+  category: "utility"
   genre1: "utility"
   genre2: ""
   series: ""

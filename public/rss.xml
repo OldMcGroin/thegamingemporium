@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 26 Aug 2026 15:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:24:25 +0000</lastBuildDate>
     <item>
       <title>Serious Sam: The First Encounter and Serious Sam: The Second Encounter for Android</title>
       <link>https://thegamingemporium.com/game/serious-sam-the-first-encounter-and-serious-sam-the-second-encounter-for-android/</link>
@@ -293,6 +293,17 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/kirpich-tetris-pc-port.webp" alt="Kirpich - Tetris PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Tetris · Genre: puzzle]]></content:encoded>
     </item>
     <item>
+      <title>Digimon World Recompilation</title>
+      <link>https://thegamingemporium.com/game/digimon-world-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/digimon-world-recompilation/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/digimon-world-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/digimon-world-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/digimon-world-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/digimon-world-recompilation.webp" alt="Digimon World Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Digimon · Genre: rpg, creature collector]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/digimon-world-recompilation.webp" alt="Digimon World Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Digimon · Genre: rpg, creature collector]]></content:encoded>
+    </item>
+    <item>
       <title>Soloman Darker in Browser</title>
       <link>https://thegamingemporium.com/game/soloman-darker-in-browser/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/soloman-darker-in-browser/</guid>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" alt="Night In The Woods for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Night In The Woods · Genre: adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/night-in-the-woods-for-android.webp" alt="Night In The Woods for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Night In The Woods · Genre: adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Nuclear Throne for Android</title>
-      <link>https://thegamingemporium.com/game/nuclear-throne-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nuclear-throne-for-android/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" alt="Nuclear Throne for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Nuclear Throne · Genre: roguelike]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nuclear-throne-for-android.webp" alt="Nuclear Throne for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Nuclear Throne · Genre: roguelike]]></content:encoded>
     </item>
   </channel>
 </rss>
