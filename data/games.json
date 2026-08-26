@@ -37445,6 +37445,97 @@
     "notes": "",
     "date_added": "2026-08-26",
     "image": ""
+  },
+    {
+    "id": 2869,
+    "title": "Moon Child Source Port",
+    "category": "open-source",
+    "link": "https://mors-games.itch.io/moon-child-fe",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Moon Child",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2870,
+    "title": "The Joy of Creation: Story Mode",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/tjocsm/139218",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Five Nights At Freddy's",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2871,
+    "title": "Five Nights at Freddy's: In Real Time",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/realtimefnaf/832545",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Five Nights At Freddy's",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2872,
+    "title": "OpenFusion",
+    "category": "open-source",
+    "link": "https://openfusion.dev/",
+    "genre1": "MMORPG",
+    "genre2": "",
+    "series": "FusionFall",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2873,
+    "title": "Super Mario Bros. X2",
+    "category": "fan-games",
+    "link": "https://codehaus.moe/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/TRo6j8Axwn4?si=Id7JKVeMhrV_6qaE",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2874,
+    "title": "Another Princess is in Our Castle",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/another-princess-is-in-our-castle/737688",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
+  },
+    {
+    "id": 2875,
+    "title": "Kirpich - Tetris PC Port",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/etroimcasso/Kirpich",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Tetris",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-26",
+    "image": ""
   }
 
 

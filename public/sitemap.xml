@@ -242,6 +242,8 @@
   </url><url>
     <loc>http://localhost:1313/game/animaniacs-hollywood-hypnotics-gameboy-advance/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/another-princess-is-in-our-castle/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/another-world/</loc>
   </url><url>
     <loc>http://localhost:1313/game/anteform/</loc>
@@ -2032,6 +2034,8 @@
   </url><url>
     <loc>http://localhost:1313/game/five-nights-at-freddy-s-3-wii-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/five-nights-at-freddy-s-in-real-time/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/five-nights-at-frickbear-s-3/</loc>
   </url><url>
     <loc>http://localhost:1313/game/flare/</loc>
@@ -2145,6 +2149,8 @@
     <loc>http://localhost:1313/series/fushigi-no-dungeon-fuurai-no-shiren-3-portable/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fushigi-no-dungeon-fuurai-no-shiren-3-portable-playstation-portabl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fusionfall/</loc>
   </url><url>
     <loc>http://localhost:1313/series/future-cop/</loc>
   </url><url>
@@ -2798,6 +2804,8 @@
   </url><url>
     <loc>http://localhost:1313/game/kirby-s-return-to-dream-land-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/kirpich-tetris-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/kiss/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kkrieger/</loc>
@@ -3450,7 +3458,11 @@
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-stories-3-twisted-reflection-hd-texture-pack/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/moon-child/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/moon-child-fe-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/moon-child-source-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/moonring/</loc>
   </url><url>
@@ -3777,6 +3789,8 @@
     <loc>http://localhost:1313/game/opendungeonsplus/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openenroth-open-reimplementation-of-might-and-magic-6-7-8-engine/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/openfusion/</loc>
   </url><url>
     <loc>http://localhost:1313/game/opengoal-jak-daxter-jak-2-and-jak-3-native-pc-ports/</loc>
   </url><url>
@@ -5548,6 +5562,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-mario-bros-wonder-demake/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-mario-bros-x2/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-mario-brothers-3-level-design-contest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-brothers-flashback/</loc>
@@ -5989,6 +6005,8 @@
     <loc>http://localhost:1313/series/incredible-hulk/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-incredible-hulk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-joy-of-creation-story-mode/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-labyrinth-of-time-s-edge/</loc>
   </url><url>
