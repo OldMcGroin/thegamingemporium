@@ -37549,6 +37549,32 @@
     "notes": "",
     "date_added": "2026-08-26",
     "image": ""
+  },
+    {
+    "id": 2877,
+    "title": "Strider 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/strider973/STRIDER-2-Recompiled",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Strider",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
+  },
+    {
+    "id": 2878,
+    "title": "Crash Team Racing PS Vita Port",
+    "category": "console-ports",
+    "link": "https://www.rinnegatamante.eu/vitadb/#/info/1488",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
   }
 
 
