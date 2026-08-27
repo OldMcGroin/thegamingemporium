@@ -37575,6 +37575,71 @@
     "notes": "",
     "date_added": "2026-08-27",
     "image": ""
+  },
+    {
+    "id": 2879,
+    "title": "OpenTS - Command & Conquer Tiberian Sun Rebuild",
+    "category": "open-source",
+    "link": "https://github.com/OpenTS-Developers/OpenTS",
+    "genre1": "strategy",
+    "genre2": "resource-management",
+    "series": "Command & Conquer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
+  },
+    {
+    "id": 2880,
+    "title": "The Simpsons: Hit & Run VR",
+    "category": "vr-ports",
+    "link": "https://github.com/kote2345/The-Simpsons-Hit-and-Run-VR",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "The Simpsons",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
+  },
+    {
+    "id": 2881,
+    "title": "Minecraft VS Zombies 2",
+    "category": "fan-games",
+    "link": "https://cuerzor.itch.io/mvz2",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "https://youtu.be/yooUUoySnho?si=ECheAw-PXESnnbXW",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
+  },
+    {
+    "id": 2882,
+    "title": "Rome: Total War and Medieval II: Total War Modernisation Patches",
+    "category": "mods",
+    "link": "https://github.com/Pannoniae/rex",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
+  },
+    {
+    "id": 2883,
+    "title": "Rise of the Argonauts PC Patched",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/ho9WvphFhBRD",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-27",
+    "image": ""
   }
 
 
