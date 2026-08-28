@@ -35626,7 +35626,7 @@
     "date_added": "2026-08-15",
     "image": ""
   },
-    {
+  {
     "id": 2729,
     "title": "Dusklight - The Legend of Zelda Twilight Princess VR",
     "category": "vr-ports",
@@ -35639,7 +35639,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2730,
     "title": "Rage Racer PC Port",
     "category": "decompilations-recompilations",
@@ -35652,7 +35652,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2731,
     "title": "Pokemon Dawn of Darkness MMORPG",
     "category": "fan-games",
@@ -35665,7 +35665,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2732,
     "title": "Metroid Prime Hunters Recompilation",
     "category": "decompilations-recompilations",
@@ -35678,7 +35678,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2733,
     "title": "Dragon Ball Z: Buu's Fury Recompilation",
     "category": "decompilations-recompilations",
@@ -35691,7 +35691,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2734,
     "title": "ChonkCraft - Warcraft 2 Rebuilt",
     "category": "open-source",
@@ -35704,7 +35704,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2735,
     "title": "Street Fighter 3: 3rd Strike Online Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -35717,7 +35717,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2736,
     "title": "Jackie Chan Stuntmaster PC Port",
     "category": "console-to-pc-port",
@@ -35730,7 +35730,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2737,
     "title": "Jackie Chan Stuntmaster PC Port - Steam Deck Fork",
     "category": "console-to-pc-port",
@@ -35743,7 +35743,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2738,
     "title": "Fallout New Vegas: Tale of Two Wastelands",
     "category": "mods",
@@ -35756,7 +35756,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2739,
     "title": "Sonic 4 Episode 1 in Browser",
     "category": "browser-based",
@@ -35769,7 +35769,7 @@
     "date_added": "2026-08-16",
     "image": ""
   },
-    {
+  {
     "id": 2740,
     "title": "Sonic the Hedgehog for Android",
     "category": "android-ports",
@@ -35782,7 +35782,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2741,
     "title": "Sonic the Hedgehog 2 for Android",
     "category": "android-ports",
@@ -35795,7 +35795,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2742,
     "title": "Lighthouse - Banjo Kazooie Port for Android",
     "category": "android-ports",
@@ -35808,7 +35808,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2743,
     "title": "Lighthouse - Banjo Kazooie PS Vita Port",
     "category": "console-ports",
@@ -35821,7 +35821,7 @@
     "date_added": "2026-08-17",
     "image": ""
   },
-    {
+  {
     "id": 2744,
     "title": "Tony Hawk's Project 8 Recompilation",
     "category": "decompilations-recompilations",
@@ -35834,7 +35834,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2745,
     "title": "Mega Man X Regenesis",
     "category": "fan-games",
@@ -35847,7 +35847,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2746,
     "title": "Grand Theft Auto Vice City VR",
     "category": "vr-ports",
@@ -35860,7 +35860,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2747,
     "title": "Minecraft: Story Mode PS Vita Port",
     "category": "console-ports",
@@ -35873,7 +35873,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2748,
     "title": "1 The Multiverse VR Hub",
     "category": "vr-ports",
@@ -35884,9 +35884,10 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-19",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
-    {
+  {
     "id": 2749,
     "title": "Zelda II: The Adventure of Link Co-op",
     "category": "rom-hacks",
@@ -35899,7 +35900,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2750,
     "title": "Resident Evil 4 VR",
     "category": "vr-ports",
@@ -35912,7 +35913,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2751,
     "title": "Jedi Knight: Dark Forces II Xbox Port",
     "category": "console-ports",
@@ -35925,7 +35926,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2752,
     "title": "Yu-Gi-Oh! Forbidden Memories Recompilation",
     "category": "decompilations-recompilations",
@@ -35938,7 +35939,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2753,
     "title": "DONTFORGET",
     "category": "fan-games",
@@ -35951,7 +35952,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2754,
     "title": "DONTFORGET",
     "category": "fan-games",
@@ -35964,7 +35965,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2755,
     "title": "RIBBIT - The Deltarune Mod",
     "category": "mods",
@@ -35977,7 +35978,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2756,
     "title": "Kirby Battle Blitz!",
     "category": "fan-games",
@@ -35990,7 +35991,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2757,
     "title": "Mega Man 8-Bit Deathmatch",
     "category": "fan-games",
@@ -36003,7 +36004,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2758,
     "title": "OFF",
     "category": "open-source",
@@ -36016,7 +36017,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2759,
     "title": "FreeCiv in Browser",
     "category": "browser-based",
@@ -36029,7 +36030,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2760,
     "title": "Dune 2 in Browser",
     "category": "browser-based",
@@ -36042,7 +36043,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2761,
     "title": "Kiki the Nano Bot in Browser",
     "category": "browser-based",
@@ -36055,7 +36056,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2762,
     "title": "Moon Child FE in Browser",
     "category": "browser-based",
@@ -36068,7 +36069,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2763,
     "title": "Undertale 2",
     "category": "fan-games",
@@ -36081,7 +36082,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2764,
     "title": "Deltatraveler - Deltarune Interdream",
     "category": "fan-games",
@@ -36094,7 +36095,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2765,
     "title": "Skate 3 Recompilation for Android",
     "category": "android-ports",
@@ -36107,7 +36108,7 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-    {
+  {
     "id": 2766,
     "title": "Castlevania MX",
     "category": "fan-games",
@@ -36120,7 +36121,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2767,
     "title": "Project Gotham Racing 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -36133,7 +36134,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2768,
     "title": "Dragon Quest VIII: Masterpiece Reborn PC Port",
     "category": "decompilations-recompilations",
@@ -36146,7 +36147,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2769,
     "title": "Dragon Quest VIII: Masterpiece Reborn for Android",
     "category": "android-ports",
@@ -36159,7 +36160,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2770,
     "title": "Amnesia: The Dark Descent for Android",
     "category": "android-ports",
@@ -36172,7 +36173,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2771,
     "title": "Penumbra: Black Plague for Android",
     "category": "android-ports",
@@ -36185,7 +36186,7 @@
     "date_added": "2026-08-20",
     "image": ""
   },
-    {
+  {
     "id": 2772,
     "title": "Grand Theft Auto Vice City in Browser",
     "category": "browser-based",
@@ -36198,7 +36199,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2773,
     "title": "Virtua Cop 2 VR",
     "category": "vr-ports",
@@ -36211,7 +36212,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2774,
     "title": "OpenXCOM Nintendo 3DS Port",
     "category": "console-ports",
@@ -36224,7 +36225,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2775,
     "title": "Command & Conquer 64 PC Port",
     "category": "console-to-pc-port",
@@ -36237,7 +36238,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2776,
     "title": "Star Wars: Masters of Teras Kasi Recompilation",
     "category": "decompilations-recompilations",
@@ -36250,7 +36251,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2777,
     "title": "Rampage Through Time Recompilation",
     "category": "decompilations-recompilations",
@@ -36263,7 +36264,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2778,
     "title": "System Shock for Android",
     "category": "android-ports",
@@ -36276,7 +36277,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2779,
     "title": "Red Faction VR",
     "category": "vr-ports",
@@ -36289,7 +36290,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2780,
     "title": "RPG Maker DS+ Create the New World - Nintendo DS",
     "category": "english-translation-patches",
@@ -36302,7 +36303,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2781,
     "title": "Hollow Knight: Silksong Dual-Screen Android Port",
     "category": "android-ports",
@@ -36315,7 +36316,7 @@
     "date_added": "2026-08-21",
     "image": ""
   },
-    {
+  {
     "id": 2782,
     "title": "Doom 64 Ray Tracing",
     "category": "mods",
@@ -36328,7 +36329,7 @@
     "date_added": "2026-08-22",
     "image": ""
   },
-    {
+  {
     "id": 2783,
     "title": "Bloody Roar 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -36341,7 +36342,7 @@
     "date_added": "2026-08-22",
     "image": ""
   },
-    {
+  {
     "id": 2784,
     "title": "Terraria in Browser",
     "category": "browser-based",
@@ -36354,7 +36355,7 @@
     "date_added": "2026-08-22",
     "image": ""
   },
-    {
+  {
     "id": 2785,
     "title": "Celeste in Browser",
     "category": "browser-based",
@@ -36367,7 +36368,7 @@
     "date_added": "2026-08-22",
     "image": ""
   },
-    {
+  {
     "id": 2786,
     "title": "Einhander Recompilation",
     "category": "decompilations-recompilations",
@@ -36380,7 +36381,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2787,
     "title": "Extreme G Recompilation",
     "category": "decompilations-recompilations",
@@ -36393,7 +36394,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2788,
     "title": "Mass Effect Legendary Edition Trilogy VR",
     "category": "vr-ports",
@@ -36406,7 +36407,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2789,
     "title": "Bomberman Fantasy Race Recompilation",
     "category": "decompilations-recompilations",
@@ -36419,7 +36420,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2790,
     "title": "Super Mario World Remastered Plus for Android",
     "category": "android-ports",
@@ -36432,7 +36433,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2791,
     "title": "Super Metroid for Android",
     "category": "android-ports",
@@ -36445,7 +36446,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2792,
     "title": "Mystical Ninja Starring Goemon Recompilation for Android",
     "category": "android-ports",
@@ -36458,7 +36459,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2793,
     "title": "Super Mario Sunshine for Android",
     "category": "android-ports",
@@ -36471,7 +36472,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2794,
     "title": "Stratagus - Warcraft, Starcraft for Android",
     "category": "android-ports",
@@ -36484,7 +36485,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2795,
     "title": "RotatingartLauncher - Celeste, Terraria, Stardew Valley for Android",
     "category": "android-ports",
@@ -36497,7 +36498,7 @@
     "date_added": "2026-08-23",
     "image": ""
   },
-    {
+  {
     "id": 2796,
     "title": "2 MRSURVIV0R'S VR HUB",
     "category": "vr-ports",
@@ -36510,7 +36511,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2797,
     "title": "The Sims Medieval PC Patched",
     "category": "abandonware",
@@ -36523,7 +36524,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2798,
     "title": "Antonblast for Android",
     "category": "android-ports",
@@ -36536,7 +36537,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2799,
     "title": "Cave Story for Android",
     "category": "android-ports",
@@ -36549,7 +36550,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2800,
     "title": "Civilization 5 for Android",
     "category": "android-ports",
@@ -36562,7 +36563,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2801,
     "title": "CrossCode for Android",
     "category": "android-ports",
@@ -36575,7 +36576,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2802,
     "title": "Deltarune for Android",
     "category": "android-ports",
@@ -36588,7 +36589,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2803,
     "title": "Descent for Android",
     "category": "android-ports",
@@ -36601,7 +36602,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2804,
     "title": "Descent 2 for Android",
     "category": "android-ports",
@@ -36614,7 +36615,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2805,
     "title": "Do NOT Take This Cat Home for Android",
     "category": "android-ports",
@@ -36627,7 +36628,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2806,
     "title": "Ex-Zodiac for Android",
     "category": "android-ports",
@@ -36640,7 +36641,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2807,
     "title": "Fear and Hunger for Android",
     "category": "android-ports",
@@ -36653,7 +36654,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2808,
     "title": "Fear and Hunger 2 Termina for Android",
     "category": "android-ports",
@@ -36666,7 +36667,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2809,
     "title": "Soul Calibur 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -36679,7 +36680,7 @@
     "date_added": "2026-08-24",
     "image": ""
   },
-    {
+  {
     "id": 2810,
     "title": "Soloman Darker in Browser",
     "category": "browser-based",
@@ -36692,7 +36693,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2811,
     "title": "Duke Nukem Advance TC",
     "category": "mods",
@@ -36705,7 +36706,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2812,
     "title": "Halo MCC VR",
     "category": "vr-ports",
@@ -36718,7 +36719,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2813,
     "title": "Cyber Troopers Virtual-On Modern PC Patch",
     "category": "mods",
@@ -36731,7 +36732,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2814,
     "title": "Alexbeav's Recomps Batch 1",
     "category": "decompilations-recompilations",
@@ -36744,7 +36745,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2815,
     "title": "Ms. Metaverse",
     "category": "abandonware",
@@ -36757,7 +36758,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2816,
     "title": "Tenchu: Stealth Assassins Recompilation",
     "category": "decompilations-recompilations",
@@ -36770,7 +36771,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2817,
     "title": "Dragon Ball GT Final Bout Recompilation",
     "category": "decompilations-recompilations",
@@ -36783,7 +36784,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2818,
     "title": "Freedom Planet 2 for Android",
     "category": "android-ports",
@@ -36796,7 +36797,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2819,
     "title": "Gish for Android",
     "category": "android-ports",
@@ -36809,7 +36810,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2820,
     "title": "Gloom Collection for Android",
     "category": "android-ports",
@@ -36822,7 +36823,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2821,
     "title": "Helltaker for Android",
     "category": "android-ports",
@@ -36835,7 +36836,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2822,
     "title": "Fheroes 2 - Heroes of Might and Magic 2 for Android",
     "category": "android-ports",
@@ -36848,7 +36849,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2823,
     "title": "Homeworld for Android",
     "category": "android-ports",
@@ -36861,7 +36862,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2824,
     "title": "Inscryption for Android",
     "category": "android-ports",
@@ -36874,7 +36875,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2825,
     "title": "Jazz Jackrabbit 2 for Android",
     "category": "android-ports",
@@ -36887,7 +36888,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2826,
     "title": "Kindergarten for Android",
     "category": "android-ports",
@@ -36900,7 +36901,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2827,
     "title": "Kindergarten 3 for Android",
     "category": "android-ports",
@@ -36913,7 +36914,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2828,
     "title": "Look Outside for Android",
     "category": "android-ports",
@@ -36926,7 +36927,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2829,
     "title": "Marble Blast Collection for Android",
     "category": "android-ports",
@@ -36939,7 +36940,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2830,
     "title": "Minecraft: Java Edition for Android",
     "category": "android-ports",
@@ -36952,7 +36953,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2831,
     "title": "Need For Speed 2 SE for Android",
     "category": "android-ports",
@@ -36965,7 +36966,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2832,
     "title": "NetHack Dual Screen for Android",
     "category": "android-ports",
@@ -36978,7 +36979,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2833,
     "title": "Night In The Woods for Android",
     "category": "android-ports",
@@ -36991,7 +36992,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2834,
     "title": "Nuclear Throne for Android",
     "category": "android-ports",
@@ -37004,7 +37005,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2835,
     "title": "Oneshot WME for Android",
     "category": "android-ports",
@@ -37017,7 +37018,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2836,
     "title": "Ori and the Blind Forest: Definitive Edition for Android",
     "category": "android-ports",
@@ -37030,7 +37031,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2837,
     "title": "PSXRecomp - Sony PlayStation game static recompiler ecosystem",
     "category": "utility",
@@ -37043,7 +37044,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2838,
     "title": "Tekken 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -37056,7 +37057,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2839,
     "title": "Ridge Racer Recompilation",
     "category": "decompilations-recompilations",
@@ -37069,7 +37070,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2840,
     "title": "Alien Resurrection Recompilation",
     "category": "decompilations-recompilations",
@@ -37082,7 +37083,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2841,
     "title": "PokeMMO for Android",
     "category": "android-ports",
@@ -37095,7 +37096,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2842,
     "title": "PokeRogue for Android",
     "category": "android-ports",
@@ -37108,7 +37109,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2843,
     "title": "Rain World for Android",
     "category": "android-ports",
@@ -37121,7 +37122,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2844,
     "title": "R.E.P.O. for Android",
     "category": "android-ports",
@@ -37134,7 +37135,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2845,
     "title": "Re-Volt for Android",
     "category": "android-ports",
@@ -37147,7 +37148,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2846,
     "title": "Rise of the Triad for Android",
     "category": "android-ports",
@@ -37160,7 +37161,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2847,
     "title": "Risk of Rain for Android",
     "category": "android-ports",
@@ -37173,7 +37174,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2848,
     "title": "Resident Evil Gaiden Recompilation",
     "category": "decompilations-recompilations",
@@ -37186,7 +37187,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2849,
     "title": "Wiicompiled - Mario Kart Wii Recompilation",
     "category": "decompilations-recompilations",
@@ -37199,7 +37200,7 @@
     "date_added": "2026-08-25",
     "image": ""
   },
-    {
+  {
     "id": 2850,
     "title": "Serious Sam: The First Encounter and Serious Sam: The Second Encounter for Android",
     "category": "android-ports",
@@ -37212,7 +37213,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2851,
     "title": "Slay the Spire 2 for Android",
     "category": "android-ports",
@@ -37225,7 +37226,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2852,
     "title": "Spelunky Classic HD for Android",
     "category": "android-ports",
@@ -37238,7 +37239,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2853,
     "title": "Spelunky Classic HD in Browser",
     "category": "browser-based",
@@ -37251,7 +37252,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2854,
     "title": "Starbound for Android",
     "category": "android-ports",
@@ -37264,7 +37265,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2855,
     "title": "The Ur-Quan Masters - Star Control 2 for Android",
     "category": "android-ports",
@@ -37277,7 +37278,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2856,
     "title": "Stardew Valley for Android",
     "category": "android-ports",
@@ -37290,7 +37291,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2857,
     "title": "The Legend Of Sword And Fairy for Android",
     "category": "android-ports",
@@ -37303,7 +37304,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2858,
     "title": "Trap Adventure 2 for Android",
     "category": "android-ports",
@@ -37316,7 +37317,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2859,
     "title": "OpenTyrian for Android",
     "category": "android-ports",
@@ -37329,7 +37330,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2860,
     "title": "UFO 50 for Android",
     "category": "android-ports",
@@ -37342,7 +37343,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2861,
     "title": "Unreal Tournament 99 for Android",
     "category": "android-ports",
@@ -37355,7 +37356,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2862,
     "title": "Ultima Online for Android",
     "category": "android-ports",
@@ -37368,7 +37369,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2863,
     "title": "VA-11 HALL-A for Android",
     "category": "android-ports",
@@ -37381,7 +37382,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2864,
     "title": "ECWolf for Android",
     "category": "android-ports",
@@ -37394,7 +37395,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2865,
     "title": "Wolfenstein: Enemy Territory for Android",
     "category": "android-ports",
@@ -37407,7 +37408,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2866,
     "title": "Your Only Move Is HUSTLE for Android",
     "category": "android-ports",
@@ -37420,7 +37421,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2867,
     "title": "Zuma Deluxe for Android",
     "category": "android-ports",
@@ -37433,7 +37434,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2868,
     "title": "Forza Horizon Recompilation",
     "category": "decompilations-recompilations",
@@ -37446,7 +37447,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2869,
     "title": "Moon Child Source Port",
     "category": "open-source",
@@ -37459,7 +37460,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2870,
     "title": "The Joy of Creation: Story Mode",
     "category": "fan-games",
@@ -37472,7 +37473,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2871,
     "title": "Five Nights at Freddy's: In Real Time",
     "category": "fan-games",
@@ -37485,7 +37486,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2872,
     "title": "OpenFusion",
     "category": "open-source",
@@ -37498,7 +37499,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2873,
     "title": "Super Mario Bros. X2",
     "category": "fan-games",
@@ -37511,7 +37512,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2874,
     "title": "Another Princess is in Our Castle",
     "category": "fan-games",
@@ -37524,7 +37525,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2875,
     "title": "Kirpich - Tetris PC Port",
     "category": "console-to-pc-port",
@@ -37537,7 +37538,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2876,
     "title": "Digimon World Recompilation",
     "category": "decompilations-recompilations",
@@ -37550,7 +37551,7 @@
     "date_added": "2026-08-26",
     "image": ""
   },
-    {
+  {
     "id": 2877,
     "title": "Strider 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -37563,7 +37564,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2878,
     "title": "Crash Team Racing PS Vita Port",
     "category": "console-ports",
@@ -37576,7 +37577,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2879,
     "title": "OpenTS - Command & Conquer Tiberian Sun Rebuild",
     "category": "open-source",
@@ -37589,7 +37590,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2880,
     "title": "The Simpsons: Hit & Run VR",
     "category": "vr-ports",
@@ -37602,7 +37603,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2881,
     "title": "Minecraft VS Zombies 2",
     "category": "fan-games",
@@ -37615,7 +37616,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2882,
     "title": "Rome: Total War and Medieval II: Total War Modernisation Patches",
     "category": "mods",
@@ -37628,7 +37629,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2883,
     "title": "Rise of the Argonauts PC Patched",
     "category": "abandonware",
@@ -37641,9 +37642,4 @@
     "date_added": "2026-08-27",
     "image": ""
   }
-
-
-
-
-
 ]
