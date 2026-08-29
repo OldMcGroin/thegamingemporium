@@ -1244,6 +1244,8 @@
   </url><url>
     <loc>http://localhost:1313/series/daughter-of-serpents/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dawn-of-the-tiberium-age-shadow-exodus/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/daytona/</loc>
   </url><url>
     <loc>http://localhost:1313/game/daytona-usa-recompilation/</loc>
@@ -1563,6 +1565,8 @@
     <loc>http://localhost:1313/game/dragon-quest-monsters-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-quest-monsters-caravan-heart/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dragon-quest-sega-master-system-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-quest-v-tenkuu-no-hanayome-playstation-2/</loc>
   </url><url>
@@ -2366,6 +2370,10 @@
   </url><url>
     <loc>http://localhost:1313/series/gundam/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/gundam-seed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gundam-seed-battle-assault-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/gunman-chronicles/</loc>
   </url><url>
     <loc>http://localhost:1313/series/gunners-heart/</loc>
@@ -2803,6 +2811,8 @@
     <loc>http://localhost:1313/game/kirby-s-dream-land-2-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kirby-s-dream-land-dx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/kirby-s-dream-land-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kirby-s-epic-yarn-decompilation/</loc>
   </url><url>
@@ -4772,7 +4782,11 @@
   </url><url>
     <loc>http://localhost:1313/game/scorched3d/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/scratches/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/scratches-directors-cut/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/scratches-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/screaming-mad-georges-paranoiascape/</loc>
   </url><url>
@@ -4949,6 +4963,8 @@
     <loc>http://localhost:1313/series/sim-ant/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sim-copter-reimplementation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sim-tower-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/simutrans/</loc>
   </url><url>
@@ -5177,6 +5193,10 @@
     <loc>http://localhost:1313/game/sonic-unleashed-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-utopia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/soul-blade/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/soul-blade-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/soul-blazer/</loc>
   </url><url>
@@ -6829,6 +6849,8 @@
     <loc>http://localhost:1313/game/world-of-padman/</loc>
   </url><url>
     <loc>http://localhost:1313/game/world-of-warcraft-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/world-of-warcraft-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/world-racing/</loc>
   </url><url>
