@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:08:02 +0000</lastBuildDate>
     <item>
       <title>Sim Tower Port</title>
       <link>https://thegamingemporium.com/game/sim-tower-port/</link>
@@ -104,6 +104,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" alt="Street Fighter EX Plus Alpha Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" alt="Street Fighter EX Plus Alpha Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Donkey Kong 64 Recompilation</title>
+      <link>https://thegamingemporium.com/game/donkey-kong-64-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/donkey-kong-64-recompilation/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/donkey-kong-64-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/donkey-kong-64-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/donkey-kong-64-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-64-recompilation.webp" alt="Donkey Kong 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-64-recompilation.webp" alt="Donkey Kong 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Star Fox Enhanced PC Port</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" alt="Cyber Troopers Virtual-On Modern PC Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyber Troopers Virtual-On · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cyber-troopers-virtual-on-modern-pc-patch.webp" alt="Cyber Troopers Virtual-On Modern PC Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Cyber Troopers Virtual-On · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Alexbeav's Recomps Batch 1</title>
-      <link>https://thegamingemporium.com/game/alexbeav-s-recomps-batch-1/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/alexbeav-s-recomps-batch-1/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></content:encoded>
     </item>
   </channel>
 </rss>
