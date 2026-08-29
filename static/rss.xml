@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:40:00 +0000</lastBuildDate>
     <item>
       <title>Sim Tower Port</title>
       <link>https://thegamingemporium.com/game/sim-tower-port/</link>
@@ -93,6 +93,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/scratches-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/scratches-for-android.webp" alt="Scratches for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Scratches · Genre: survival horror]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/scratches-for-android.webp" alt="Scratches for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Scratches · Genre: survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Street Fighter EX Plus Alpha Recompilation</title>
+      <link>https://thegamingemporium.com/game/street-fighter-ex-plus-alpha-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/street-fighter-ex-plus-alpha-recompilation/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" alt="Street Fighter EX Plus Alpha Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex-plus-alpha-recompilation.webp" alt="Street Fighter EX Plus Alpha Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></content:encoded>
     </item>
     <item>
       <title>Star Fox Enhanced PC Port</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/alexbeav-s-recomps-batch-1.webp" alt="Alexbeav's Recomps Batch 1" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Tenchu: Stealth Assassins Recompilation</title>
-      <link>https://thegamingemporium.com/game/tenchu-stealth-assassins-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/tenchu-stealth-assassins-recompilation/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" alt="Tenchu: Stealth Assassins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tenchu · Genre: stealth, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tenchu-stealth-assassins-recompilation.webp" alt="Tenchu: Stealth Assassins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tenchu · Genre: stealth, action]]></content:encoded>
     </item>
   </channel>
 </rss>
