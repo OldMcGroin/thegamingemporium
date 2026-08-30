@@ -7934,7 +7934,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 610,
@@ -25793,7 +25794,8 @@
     "video_link": "https://youtu.be/vS95LWl0R5A?si=0rBfvUkTUYJ9Gap5",
     "notes": "",
     "date_added": "2026-02-23",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 1979,
@@ -37642,7 +37644,7 @@
     "date_added": "2026-08-27",
     "image": ""
   },
-    {
+  {
     "id": 2884,
     "title": "Star Fox Enhanced PC Port",
     "category": "decompilations-recompilations",
@@ -37655,7 +37657,7 @@
     "date_added": "2026-08-28",
     "image": ""
   },
-    {
+  {
     "id": 2885,
     "title": "X-Men: Mutant Academy 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -37668,7 +37670,7 @@
     "date_added": "2026-08-28",
     "image": ""
   },
-    {
+  {
     "id": 2886,
     "title": "Blue Dragon Recompilation",
     "category": "decompilations-recompilations",
@@ -37681,7 +37683,7 @@
     "date_added": "2026-08-28",
     "image": ""
   },
-    {
+  {
     "id": 2887,
     "title": "Sim Tower Port",
     "category": "decompilations-recompilations",
@@ -37694,7 +37696,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2888,
     "title": "Kirby's Dream Land Recompilation",
     "category": "decompilations-recompilations",
@@ -37707,7 +37709,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2889,
     "title": "Gundam SEED: Battle Assault Recompilation",
     "category": "decompilations-recompilations",
@@ -37720,7 +37722,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2890,
     "title": "Dragon Quest Sega Master System Port",
     "category": "console-ports",
@@ -37733,7 +37735,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2891,
     "title": "Dawn of the Tiberium Age - Shadow Exodus",
     "category": "mods",
@@ -37746,7 +37748,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2892,
     "title": "World of Warcraft VR",
     "category": "vr-ports",
@@ -37759,7 +37761,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2893,
     "title": "Soul Blade Recompilation",
     "category": "decompilations-recompilations",
@@ -37772,7 +37774,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2894,
     "title": "Scratches for Android",
     "category": "android-ports",
@@ -37785,7 +37787,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2895,
     "title": "Street Fighter EX Plus Alpha Recompilation",
     "category": "decompilations-recompilations",
@@ -37798,7 +37800,7 @@
     "date_added": "2026-08-29",
     "image": ""
   },
-    {
+  {
     "id": 2896,
     "title": "Donkey Kong 64 Recompilation",
     "category": "decompilations-recompilations",
@@ -37811,8 +37813,4 @@
     "date_added": "2026-08-29",
     "image": ""
   }
-
-
-
-
 ]
