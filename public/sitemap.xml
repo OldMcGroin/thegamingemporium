@@ -974,6 +974,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/combat-flight-simulator/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/comix-zone/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/comix-zone-nintendo-64-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/command-and-conquer/</loc>
   </url><url>
     <loc>http://localhost:1313/series/command-conquer/</loc>
@@ -4016,6 +4020,8 @@
   </url><url>
     <loc>http://localhost:1313/game/perfect-dark-vr-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/perfect-dark-x-box-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/perihelion/</loc>
   </url><url>
     <loc>http://localhost:1313/series/persona/</loc>
@@ -6621,6 +6627,8 @@
     <loc>http://localhost:1313/categories/utilities/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/utility/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/uzdoom-5-0/</loc>
   </url><url>
     <loc>http://localhost:1313/series/va-11-hall-a/</loc>
   </url><url>
