@@ -142,6 +142,8 @@
   </url><url>
     <loc>http://localhost:1313/game/alien-resurrection-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/alien-isolation-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/aliens-vs-predator/</loc>
   </url><url>
     <loc>http://localhost:1313/all/</loc>
@@ -343,6 +345,8 @@
     <loc>http://localhost:1313/game/automobili-lamborghini-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/avatar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/away-journey-to-the-unexpected-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/awesome-steam-deck/</loc>
   </url><url>
@@ -992,6 +996,8 @@
   </url><url>
     <loc>http://localhost:1313/game/command-conquer-remastered-collection/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/command-conquer-generals-zero-hour-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/commander-blood/</loc>
   </url><url>
     <loc>http://localhost:1313/game/commander-genius/</loc>
@@ -1594,6 +1600,8 @@
   </url><url>
     <loc>http://localhost:1313/series/drakengard/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dramatic-shape-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dreamcast-image-builder-mods/</loc>
@@ -1726,6 +1734,8 @@
   </url><url>
     <loc>http://localhost:1313/game/elden-ring-seamless-co-op-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/elden-ring-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/elden-ring-morrowind-overhaul-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/elden-ring-the-convergence-overhaul-mod/</loc>
@@ -1777,6 +1787,10 @@
     <loc>http://localhost:1313/series/eternal-sonata/</loc>
   </url><url>
     <loc>http://localhost:1313/game/eternal-sonata-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/europa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/europa-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/evil-dead/</loc>
   </url><url>
@@ -2188,6 +2202,8 @@
   </url><url>
     <loc>http://localhost:1313/game/gardens-of-kadesh/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/garry-s-mod-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/gauntlet/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gauntlet-legends-decompilation/</loc>
@@ -2432,6 +2448,8 @@
   </url><url>
     <loc>http://localhost:1313/game/halo-zero/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/halo-campaign-evolved-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/harmonist/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harmonist-dayoriah-clan-infiltration/</loc>
@@ -2509,6 +2527,8 @@
     <loc>http://localhost:1313/game/hollow-knight-silksong-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hollow-knight-silksong-multiplayer-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/hollow-knight-silksong-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/holocure/</loc>
   </url><url>
@@ -3321,6 +3341,8 @@
     <loc>http://localhost:1313/game/metal-gear-solid-3-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/metal-gear-solid-delta-snake-eater-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-fan-remake/</loc>
   </url><url>
@@ -4242,6 +4264,10 @@
   </url><url>
     <loc>http://localhost:1313/game/poporogue-playstation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/poppy-playtime/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/poppy-playtime-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/populous/</loc>
   </url><url>
     <loc>http://localhost:1313/game/populous-nes/</loc>
@@ -4789,6 +4815,10 @@
     <loc>http://localhost:1313/series/scarface/</loc>
   </url><url>
     <loc>http://localhost:1313/game/scorched3d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/scrap-mechanic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/scrap-mechanic-survival-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/scratches/</loc>
   </url><url>
@@ -6330,6 +6360,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-witcher-3-kaer-morhen-extended-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-witcher-3-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-witcher-3-wild-hunt-immersion-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-world-ends-with-you/</loc>
@@ -6796,6 +6828,10 @@
   </url><url>
     <loc>http://localhost:1313/series/wcw-nwo-revenge/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/we-were-here/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/we-were-here-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/wega-the-lost-media/</loc>
   </url><url>
     <loc>http://localhost:1313/series/wega-and-the-lost-media/</loc>
@@ -6807,6 +6843,10 @@
     <loc>http://localhost:1313/series/wet/</loc>
   </url><url>
     <loc>http://localhost:1313/game/what-a-mario-world/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/white-knuckle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/white-knuckle-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/who-shot-johnny-rock/</loc>
   </url><url>
