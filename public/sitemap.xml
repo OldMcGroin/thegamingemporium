@@ -74,6 +74,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/action/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/actraiser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/actraiser-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/adidas-power-soccer/</loc>
   </url><url>
     <loc>http://localhost:1313/series/advance-wars/</loc>
