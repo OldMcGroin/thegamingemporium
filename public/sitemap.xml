@@ -30,6 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/series/2048/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/3-retcomm-launcher-static-recompilation-launcher/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/3d-maze/</loc>
   </url><url>
     <loc>http://localhost:1313/game/3d-pinball-space-cadet-in-browser/</loc>

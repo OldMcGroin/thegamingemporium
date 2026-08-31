@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 31 Aug 2026 20:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:14:13 +0000</lastBuildDate>
     <item>
       <title>ActRaiser Recompilation</title>
       <link>https://thegamingemporium.com/game/actraiser-recompilation/</link>
@@ -93,6 +93,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" alt="UFC Undisputed 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" alt="UFC Undisputed 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>3 RetComM Launcher - Static Recompilation Launcher</title>
+      <link>https://thegamingemporium.com/game/3-retcomm-launcher-static-recompilation-launcher/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/3-retcomm-launcher-static-recompilation-launcher/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" alt="3 RetComM Launcher - Static Recompilation Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" alt="3 RetComM Launcher - Static Recompilation Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></content:encoded>
     </item>
     <item>
       <title>Perfect Dark X-Box Port</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/spelunky-classic-hd-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spelunky-classic-hd-in-browser.webp" alt="Spelunky Classic HD in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Spelunky · Genre: roguelike, platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spelunky-classic-hd-in-browser.webp" alt="Spelunky Classic HD in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Spelunky · Genre: roguelike, platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Starbound for Android</title>
-      <link>https://thegamingemporium.com/game/starbound-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/starbound-for-android/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/starbound-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/starbound-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/starbound-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starbound-for-android.webp" alt="Starbound for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Starbound · Genre: sandbox, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starbound-for-android.webp" alt="Starbound for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Starbound · Genre: sandbox, adventure]]></content:encoded>
     </item>
   </channel>
 </rss>
