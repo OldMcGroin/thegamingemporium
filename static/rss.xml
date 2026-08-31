@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:31:52 +0000</lastBuildDate>
     <item>
       <title>ActRaiser Recompilation</title>
       <link>https://thegamingemporium.com/game/actraiser-recompilation/</link>
@@ -71,6 +71,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" alt="X-Men Destiny Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: beat em up, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" alt="X-Men Destiny Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: beat em up, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Gears of War Redux</title>
+      <link>https://thegamingemporium.com/game/gears-of-war-redux/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gears-of-war-redux/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" alt="Gears of War Redux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Gears of War · Genre: third person shooter, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" alt="Gears of War Redux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Gears of War · Genre: third person shooter, action]]></content:encoded>
     </item>
     <item>
       <title>Perfect Dark X-Box Port</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-ur-quan-masters-star-control-2-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-ur-quan-masters-star-control-2-for-android.webp" alt="The Ur-Quan Masters - Star Control 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Control · Genre: strategy]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-ur-quan-masters-star-control-2-for-android.webp" alt="The Ur-Quan Masters - Star Control 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Star Control · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Stardew Valley for Android</title>
-      <link>https://thegamingemporium.com/game/stardew-valley-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/stardew-valley-for-android/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/stardew-valley-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/stardew-valley-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/stardew-valley-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stardew-valley-for-android.webp" alt="Stardew Valley for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Stardew Valley · Genre: life simulator, farming simulator]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/stardew-valley-for-android.webp" alt="Stardew Valley for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Stardew Valley · Genre: life simulator, farming simulator]]></content:encoded>
     </item>
   </channel>
 </rss>
