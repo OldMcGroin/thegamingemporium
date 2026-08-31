@@ -638,6 +638,8 @@
   </url><url>
     <loc>http://localhost:1313/series/breath-of-fire/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/breath-of-fire-3-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/breath-of-fire-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/breath-of-fire-definitive-edition/</loc>
@@ -3163,6 +3165,8 @@
     <loc>http://localhost:1313/game/mario-kart-wii-deluxex/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-xxl-gameboy-advance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-kart-super-circuit-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-party-4-decompilation/</loc>
   </url><url>

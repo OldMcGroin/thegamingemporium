@@ -38072,6 +38072,32 @@
     "notes": "",
     "date_added": "2026-08-31",
     "image": ""
+  },
+   {
+    "id": 2917,
+    "title": "Mario Kart: Super Circuit Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/MarioKartSuperCircuitRecomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-31",
+    "image": ""
+  },
+   {
+    "id": 2918,
+    "title": "Breath of Fire 3 Recompilation",
+    "category": "in-the-works",
+    "link": "https://github.com/kerokline/BreathOfFire3Recomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Breath of Fire",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-08-31",
+    "image": ""
   }
 
 
