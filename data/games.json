@@ -38098,6 +38098,32 @@
     "notes": "",
     "date_added": "2026-08-31",
     "image": ""
+  },
+   {
+    "id": 2919,
+    "title": "The Legend of Zelda: Ocarina of Time PSP Port",
+    "category": "console-ports",
+    "link": "https://github.com/z2442/oot-PSP",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "https://youtu.be/yOvfO6S4yM8?si=8iaDHw6IOWTNtRze",
+    "notes": "",
+    "date_added": "2026-08-31",
+    "image": ""
+  },
+   {
+    "id": 2920,
+    "title": "Dishonored VR",
+    "category": "vr-ports",
+    "link": "https://github.com/GingasVRFO/Dishonored-VR",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Dishonored",
+    "video_link": "https://youtu.be/Y7rdk2zOTSk?si=fnZAEqFWZfmPYYF_",
+    "notes": "",
+    "date_added": "2026-08-31",
+    "image": ""
   }
 
 

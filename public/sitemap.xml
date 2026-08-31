@@ -1432,6 +1432,10 @@
   </url><url>
     <loc>http://localhost:1313/series/disgaea/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/dishonored/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dishonored-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/disney/</loc>
   </url><url>
     <loc>http://localhost:1313/game/disney-s-piglet-s-big-game-decompilation/</loc>
@@ -6193,6 +6197,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-ps-vita-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-psp-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-ultimate-trial/</loc>
   </url><url>
