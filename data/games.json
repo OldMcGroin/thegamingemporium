@@ -38280,6 +38280,58 @@
     "notes": "",
     "date_added": "2026-09-01",
     "image": ""
+  },
+   {
+    "id": 2933,
+    "title": "Initial D Arcade Stage 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2934,
+    "title": "Star Wars: Shadows of the Empire Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GTTeancum/SotE-Recomp",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "series": "Star Wars",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2935,
+    "title": "The Legend of Zelda Sega Master System Port",
+    "category": "console-ports",
+    "link": "https://github.com/haroldo-ok/zelda-js-sms",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2936,
+    "title": "Jungle Strike Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
   }
 
 
