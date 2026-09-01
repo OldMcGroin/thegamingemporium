@@ -38215,6 +38215,71 @@
     "notes": "",
     "date_added": "2026-09-01",
     "image": ""
+  },
+   {
+    "id": 2928,
+    "title": "Crash Twinsanity Evolution",
+    "category": "fan-games",
+    "link": "https://twinsanityevolution.itch.io/evolutiondemo1",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "https://youtu.be/AYdFpAznliA?si=tSJSwi15SMgIu8yL",
+    "notes": "",
+    "date_added": "2026-09-01",
+    "image": ""
+  },
+   {
+    "id": 2929,
+    "title": "Turning Point: Fall of Liberty PC Patched",
+    "category": "abandonware",
+    "link": "https://transfer.it/t/i7FVe8oRiJJR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Turning Point",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-01",
+    "image": ""
+  },
+   {
+    "id": 2930,
+    "title": "Sonic Colors Nintendo 3DS Port",
+    "category": "console-ports",
+    "link": "https://gamejolt.com/games/sonic-colors-3ds/1089624",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-01",
+    "image": ""
+  },
+   {
+    "id": 2931,
+    "title": "Sonic and the Secret Rings PC Port",
+    "category": "console-to-pc-port",
+    "link": "https://gamejolt.com/games/project_reignition/1082591",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "https://youtu.be/NtDVY4pIm9Y?si=L_qUZkD-Jhi8BxwK",
+    "notes": "",
+    "date_added": "2026-09-01",
+    "image": ""
+  },
+   {
+    "id": 2932,
+    "title": "Runescape Classic PS Vita Port",
+    "category": "console-ports",
+    "link": "https://github.com/Brendonm17/rsc-c-vita",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Runescape",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-01",
+    "image": ""
   }
 
 

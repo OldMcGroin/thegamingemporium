@@ -1110,6 +1110,8 @@
   </url><url>
     <loc>http://localhost:1313/series/crash-time/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/crash-twinsanity-evolution/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/crash-twinsanity-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/series/crazy-taxi/</loc>
@@ -4786,6 +4788,10 @@
   </url><url>
     <loc>http://localhost:1313/rss/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/runescape/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/runescape-classic-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/rushing-beat-shura/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rushing-beat-shura-the-eternal-conflict-snes/</loc>
@@ -5160,11 +5166,15 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-and-the-hedgehogs/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-and-the-secret-rings-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-and-the-secret-rings-pc-port-project-reignition/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-cd-restored-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-classic-heroes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-colors-nintendo-3ds-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-crackers-genesis-megadrive/</loc>
   </url><url>
