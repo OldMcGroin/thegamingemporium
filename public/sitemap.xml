@@ -266,6 +266,10 @@
   </url><url>
     <loc>http://localhost:1313/game/ao-no-6-go-saigetsufutai-hito-time-and-tide-dreamcast/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/ape-escape/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ape-escape-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/apocalypse-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/apocalypse-2-snes/</loc>
@@ -625,6 +629,10 @@
     <loc>http://localhost:1313/game/bomberman-hero-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bomberman-hero-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bomberman-party-edition-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bomberman-world-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/boneforge-battlegrounds/</loc>
   </url><url>
@@ -1828,6 +1836,10 @@
   </url><url>
     <loc>http://localhost:1313/series/exhumed/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/exit/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/exit-1-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/extreme-g/</loc>
   </url><url>
     <loc>http://localhost:1313/game/extreme-g-recompilation/</loc>
@@ -2358,6 +2370,8 @@
   </url><url>
     <loc>http://localhost:1313/game/gran-turismo-2-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/gran-turismo-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/grand-knights-history/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-knights-history-psp/</loc>
@@ -2421,6 +2435,8 @@
     <loc>http://localhost:1313/series/guitar-hero/</loc>
   </url><url>
     <loc>http://localhost:1313/game/guitar-hero-world-tour-definitive-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/guitar-hero-warriors-of-rock-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/gun/</loc>
   </url><url>
@@ -2892,6 +2908,8 @@
   </url><url>
     <loc>http://localhost:1313/series/klonoa/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/klonoa-door-to-phantomile-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/klonoa-2-lunatea-s-veil-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/klonoa-empire-of-dreams-decompilation/</loc>
@@ -2953,6 +2971,8 @@
     <loc>http://localhost:1313/series/legend-of-legaia/</loc>
   </url><url>
     <loc>http://localhost:1313/game/legend-of-legaia-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/legend-of-legaia-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/legend-of-mana-decompilation/</loc>
   </url><url>
@@ -3231,6 +3251,10 @@
     <loc>http://localhost:1313/game/marvel-infinity-war/</loc>
   </url><url>
     <loc>http://localhost:1313/game/marvel-vs-capcom-infinite-beyond-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/marvel-vs-capcom/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/marvel-vs-capcom-clash-of-super-heroes-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/marvel-s-spider-man-2-first-person-camera-mod/</loc>
   </url><url>
@@ -5460,6 +5484,8 @@
   </url><url>
     <loc>http://localhost:1313/series/star-wars/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/star-wars-episode-i-jedi-power-battles-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/star-wars-battlefront-2-remaster-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-battlefront-ii-private-server-and-mod-launcher/</loc>
@@ -5897,6 +5923,8 @@
     <loc>http://localhost:1313/game/syphon-filter-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/syphon-filter-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/syphon-filter-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/system-shock/</loc>
   </url><url>
@@ -6511,6 +6539,8 @@
     <loc>http://localhost:1313/game/tomb-raider-side-scroller-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tomba/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tomba-2-the-evil-swine-return-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomba-decompilation/</loc>
   </url><url>
