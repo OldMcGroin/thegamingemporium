@@ -38345,6 +38345,71 @@
     "notes": "",
     "date_added": "2026-09-02",
     "image": ""
+  },
+   {
+    "id": 2938,
+    "title": "Call of Duty Black Ops Zombies Aarch64",
+    "category": "preserved-games",
+    "link": "https://github.com/Producdevity/cod-boz-android-aarch64-releases/releases/tag/v0.1.0",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2939,
+    "title": "Danganmake",
+    "category": "fan-games",
+    "link": "https://gamejolt.com/games/Danganmake/1093651",
+    "genre1": "visual-novel",
+    "genre2": "adventure-creation-tool",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2940,
+    "title": "Mario Adventure 2",
+    "category": "rom-hacks",
+    "link": "https://romhacking.com/hack/mario-adventure-2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/gyIIOSuePJo?si=t7ozcxlaj5Z0FTGu",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2941,
+    "title": "Fate Unlimited Codes Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/elprogramadorloco-arch/fuc-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
+  },
+   {
+    "id": 2942,
+    "title": "Dragon Ball Z Budokai 3 HD Collection Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-02",
+    "image": ""
   }
 
 

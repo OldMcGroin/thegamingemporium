@@ -718,6 +718,8 @@
   </url><url>
     <loc>http://localhost:1313/game/call-of-duty-4-modern-warfare-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-aarch64/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/call-of-duty-black-ops-zombies-ps-vita-port/</loc>
@@ -1204,6 +1206,8 @@
   </url><url>
     <loc>http://localhost:1313/game/dancing-eyes-playstation-3/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/danganmake/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/dantes-inferno/</loc>
   </url><url>
     <loc>http://localhost:1313/series/daredevil/</loc>
@@ -1561,6 +1565,8 @@
     <loc>http://localhost:1313/game/dragon-ball-kai-ultimate-butouden-nintendo-ds/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dragon-ball-z/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dragon-ball-z-budokai-3-hd-collection-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-ball-z-budokai-hd-recompiled/</loc>
   </url><url>
@@ -1955,6 +1961,8 @@
     <loc>http://localhost:1313/game/fatal-frame-2-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fatal-frame-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fate-unlimited-codes-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/faust-seven-games-of-the-soul/</loc>
   </url><url>
@@ -3139,6 +3147,8 @@
     <loc>http://localhost:1313/game/mario-luigi-partners-in-time-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-luigi-superstar-saga-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-adventure-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-adventure3/</loc>
   </url><url>
