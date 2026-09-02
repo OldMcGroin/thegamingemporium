@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 01 Sep 2026 23:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:14:45 +0000</lastBuildDate>
     <item>
       <title>Initial D Arcade Stage 3 Recompilation</title>
       <link>https://thegamingemporium.com/game/initial-d-arcade-stage-3-recompilation/</link>
@@ -49,6 +49,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/jungle-strike-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jungle-strike-recompilation.webp" alt="Jungle Strike Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jungle-strike-recompilation.webp" alt="Jungle Strike Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>MyHouse.wad</title>
+      <link>https://thegamingemporium.com/game/myhouse-wad/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/myhouse-wad/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/myhouse-wad.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/myhouse-wad.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/myhouse-wad.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/myhouse-wad.webp" alt="MyHouse.wad" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Doom · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/myhouse-wad.webp" alt="MyHouse.wad" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Doom · Genre: first person shooter]]></content:encoded>
     </item>
     <item>
       <title>Dualscreen Launcher for Android</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/star-fox-enhanced-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-fox-enhanced-pc-port.webp" alt="Star Fox Enhanced PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Star Fox · Genre: rail shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-fox-enhanced-pc-port.webp" alt="Star Fox Enhanced PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Star Fox · Genre: rail shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>X-Men: Mutant Academy 2 Recompilation</title>
-      <link>https://thegamingemporium.com/game/x-men-mutant-academy-2-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/x-men-mutant-academy-2-recompilation/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/x-men-mutant-academy-2-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/x-men-mutant-academy-2-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/x-men-mutant-academy-2-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-mutant-academy-2-recompilation.webp" alt="X-Men: Mutant Academy 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-mutant-academy-2-recompilation.webp" alt="X-Men: Mutant Academy 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
