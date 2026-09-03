@@ -6978,7 +6978,7 @@
     "id": 535,
     "title": "Sonic Mania Decompilation",
     "category": "decompilations-recompilations",
-    "platform": "Multiple Platforms",
+    "platform": "Windows",
     "link": "https://github.com/RSDKModding/Sonic-Mania-Decompilation",
     "genre1": "platformer",
     "genre2": "",
@@ -38813,5 +38813,36 @@
     "notes": "",
     "date_added": "2026-09-03",
     "image": ""
+  },
+    {
+    "id": 2959,
+    "title": "Ridge Racer Type 4 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Playstation",
+    "link": "https://github.com/omegakatana92/RidgeRacer4Recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Ridge Racer",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-03",
+    "image": ""
+  },
+    {
+    "id": 2960,
+    "title": "Nelumbo - Lotus Trilogy PC Port",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://almost-there-games.itch.io/nelumbo",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Lotus",
+    "video_link": "https://youtu.be/EYZk2k6AOA8?si=40D0HpYxMI2_sbFI",
+    "notes": "",
+    "date_added": "2026-09-03",
+    "image": ""
   }
+
+
+
 ]
