@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:58:24 +0000</lastBuildDate>
     <item>
       <title>Gran Turismo 2 Recompilation</title>
       <link>https://thegamingemporium.com/game/gran-turismo-2-recompilation/</link>
@@ -170,6 +170,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" alt="Nelumbo - Lotus Trilogy PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Lotus · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" alt="Nelumbo - Lotus Trilogy PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Lotus · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Ace Attorney Online</title>
+      <link>https://thegamingemporium.com/game/ace-attorney-online/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ace-attorney-online/</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" alt="Ace Attorney Online" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Ace Attorney · Genre: visual novel]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" alt="Ace Attorney Online" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Ace Attorney · Genre: visual novel]]></content:encoded>
     </item>
     <item>
       <title>Initial D Arcade Stage 3 Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/elden-ring-vr.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/elden-ring-vr.webp" alt="Elden Ring VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Elden Ring · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/elden-ring-vr.webp" alt="Elden Ring VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Elden Ring · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>The Witcher 3 VR</title>
-      <link>https://thegamingemporium.com/game/the-witcher-3-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-witcher-3-vr/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-witcher-3-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-witcher-3-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-witcher-3-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-witcher-3-vr.webp" alt="The Witcher 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: The Witcher · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-witcher-3-vr.webp" alt="The Witcher 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: The Witcher · Genre: rpg, adventure]]></content:encoded>
     </item>
   </channel>
 </rss>
