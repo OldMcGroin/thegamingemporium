@@ -52,7 +52,16 @@ Image strategy (scales to thousands of items):
   </button>
 {{- end -}}
 
-{{- if eq $g.category "decompilations-recompilations" -}}
+{{/*
+  Platform belongs only on the Decompilations & Recompilations category page.
+  Do not show it when the same card is reused by Recent Additions, All, Series, Genres, etc.
+*/}}
+{{- $showPlatformCard := false -}}
+{{- if and (isset . "ctx") (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations") (eq $g.category "decompilations-recompilations") -}}
+  {{- $showPlatformCard = true -}}
+{{- end -}}
+
+{{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
     <div class="admin-platform-editor" data-platform-editor-wrap>
       <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Platform</label>
