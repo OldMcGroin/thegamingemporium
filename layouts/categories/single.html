@@ -76,6 +76,14 @@
   </div>
 </div>
     </div>
+    {{ if eq $slug "decompilations-recompilations" }}
+    <div class="control">
+      <label>Platform</label>
+      <select data-platform-filter>
+        <option value="">All Platforms</option>
+      </select>
+    </div>
+    {{ end }}
     <div class="control">
       <label>Added</label>
       <select data-added-filter>

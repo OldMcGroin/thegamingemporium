@@ -158,6 +158,7 @@ function initGameGrids(){
         var genreDropdownPanel  = wrapper.querySelector('[data-genre-dropdown-panel]');
         var sortSelect  = wrapper.querySelector('select[data-sort]');
         var addedFilter = wrapper.querySelector('select[data-added-filter]');
+        var platformFilter = wrapper.querySelector('select[data-platform-filter]');
         var filterSummary = wrapper.querySelector('[data-filter-summary]');
         var loadMoreBtn = wrapper.querySelector('[data-load-more]');
         var loadMoreWrap = wrapper.querySelector('[data-load-more-wrap]');
@@ -178,6 +179,22 @@ function initGameGrids(){
           genres = genres.concat(g);
         });
         genres = uniqSorted(genres);
+
+        // Collect platforms from cards (used by Decompilations & Recompilations)
+        var platforms = [];
+        cards.forEach(function(card){
+          var p = (card.getAttribute('data-platform') || '').trim();
+          if(p) platforms.push(p);
+        });
+        platforms = uniqSorted(platforms);
+        if(platformFilter){
+          platforms.forEach(function(p){
+            var opt = document.createElement('option');
+            opt.value = p;
+            opt.textContent = p;
+            platformFilter.appendChild(opt);
+          });
+        }
 
         // Collect categories from cards
         var categoryMap = new Map();
@@ -448,6 +465,7 @@ function initGameGrids(){
             var gAttr = (card.getAttribute('data-genres')||"");
             var cardGenres = gAttr.split('|').map(function(x){ return x.trim(); }).filter(Boolean);
             var cardCategory = (card.getAttribute('data-category')||'').trim();
+            var cardPlatform = (card.getAttribute('data-platform')||'').trim();
 
             var showGenre = true;
             if(genreChips){
@@ -463,7 +481,9 @@ function initGameGrids(){
               showCategory = cardCategory === selectedCategory;
             }
 
-            if(showGenre && showCategory && __passesAddedFilter(card)) matches.push(card);
+            var showPlatform = !platformFilter || !platformFilter.value || cardPlatform === platformFilter.value;
+
+            if(showGenre && showCategory && showPlatform && __passesAddedFilter(card)) matches.push(card);
           });
 
           var showCount = pageSize ? Math.min(visibleLimit, matches.length) : matches.length;
@@ -518,6 +538,7 @@ function initGameGrids(){
         if(genreSelect){ genreSelect.addEventListener('change', function(){ applyFilter(); }); }
         if(categorySelect){ categorySelect.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(addedFilter){ addedFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
+        if(platformFilter){ platformFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
         if(loadMoreBtn){ loadMoreBtn.addEventListener('click', function(){ visibleLimit += pageSize; applyFilter(); }); }
 

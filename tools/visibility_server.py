@@ -92,7 +92,7 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(b"Not found")
 
     def do_POST(self):
-        if self.path != "/toggle":
+        if self.path not in ("/toggle", "/platform"):
             self._headers(404)
             self.wfile.write(b"Not found")
             return
@@ -102,7 +102,10 @@ class Handler(BaseHTTPRequestHandler):
         try:
             payload = json.loads(raw)
             game_id = int(payload.get("id"))
-            hidden = bool(payload.get("hidden"))
+            hidden = bool(payload.get("hidden")) if self.path == "/toggle" else None
+            platform = str(payload.get("platform", "")).strip() if self.path == "/platform" else None
+            if self.path == "/platform" and not platform:
+                raise ValueError("platform is required")
         except Exception as e:
             self._headers(400)
             self.wfile.write(f"Bad JSON: {e}".encode("utf-8"))
@@ -121,7 +124,14 @@ class Handler(BaseHTTPRequestHandler):
             found = False
             for g in games:
                 if isinstance(g, dict) and int(g.get("id", -1)) == game_id:
-                    g["hidden"] = hidden
+                    if self.path == "/toggle":
+                        g["hidden"] = hidden
+                    else:
+                        if g.get("category") != "decompilations-recompilations":
+                            self._headers(400)
+                            self.wfile.write(b"Platform editing is limited to Decompilations & Recompilations")
+                            return
+                        g["platform"] = platform
                     found = True
                     break
 
@@ -139,7 +149,11 @@ class Handler(BaseHTTPRequestHandler):
             tmp_path.replace(GAMES_PATH)
 
             self._headers(200, "application/json; charset=utf-8")
-            self.wfile.write(json.dumps({"id": game_id, "hidden": hidden}).encode("utf-8"))
+            if self.path == "/toggle":
+                response = {"id": game_id, "hidden": hidden}
+            else:
+                response = {"id": game_id, "platform": platform}
+            self.wfile.write(json.dumps(response).encode("utf-8"))
         except Exception as e:
             self._headers(500)
             self.wfile.write(f"Failed: {e}".encode("utf-8"))

@@ -306,6 +306,10 @@
   {{ end }}
   {{ $adminVisibilityJS := resources.Get "js/admin-visibility.js" | minify | fingerprint }}
   <script src="{{ $adminVisibilityJS.RelPermalink }}" integrity="{{ $adminVisibilityJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ if hugo.IsServer }}
+    {{ $adminPlatformJS := resources.Get "js/admin-platform.js" | minify | fingerprint }}
+    <script src="{{ $adminPlatformJS.RelPermalink }}" integrity="{{ $adminPlatformJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ end }}
   {{ $installAppJS := resources.Get "js/install-app.js" | minify | fingerprint }}
   <script src="{{ $installAppJS.RelPermalink }}" integrity="{{ $installAppJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
