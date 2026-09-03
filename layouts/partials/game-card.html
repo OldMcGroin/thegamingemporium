@@ -52,18 +52,25 @@ Image strategy (scales to thousands of items):
   </button>
 {{- end -}}
 
-{{- if and hugo.IsServer (eq $g.category "decompilations-recompilations") -}}
-  <div class="admin-platform-editor" data-platform-editor-wrap>
-    <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Platform</label>
-    <select class="admin-platform-editor__select"
-            id="platform-{{ $g.id }}"
-            data-platform-editor
-            data-game-id="{{ $g.id }}"
-            data-current-platform="{{ default "" $g.platform }}"
-            aria-label="Set platform for {{ $title }}">
-    </select>
-    <span class="admin-platform-editor__status" data-platform-editor-status aria-live="polite"></span>
-  </div>
+{{- if eq $g.category "decompilations-recompilations" -}}
+  {{- if hugo.IsServer -}}
+    <div class="admin-platform-editor" data-platform-editor-wrap>
+      <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Platform</label>
+      <select class="admin-platform-editor__select"
+              id="platform-{{ $g.id }}"
+              data-platform-editor
+              data-game-id="{{ $g.id }}"
+              data-current-platform="{{ default "" $g.platform }}"
+              aria-label="Set platform for {{ $title }}">
+      </select>
+      <span class="admin-platform-editor__status" data-platform-editor-status aria-live="polite"></span>
+    </div>
+  {{- else if $g.platform -}}
+    <div class="game-card__platform" aria-label="Platform: {{ $g.platform }}">
+      <span class="game-card__platform-label">Platform</span>
+      <span class="game-card__platform-value">{{ $g.platform }}</span>
+    </div>
+  {{- end -}}
 {{- end -}}
 
   <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener" data-game-id="{{ $slug }}">
