@@ -58,6 +58,36 @@ export default {
 
         let rows = [];
 
+        // Global leaderboard modes are identical for every visitor, so do not
+        // re-scan D1 on every request. Keep a tiny shared cache inside D1.
+        // Category-specific requests (ids=...) are already selective and are
+        // intentionally left uncached here.
+        const cacheable = ids.length === 0 && ["all", "trending", "hidden", "rising"].includes(mode);
+        const cacheLimit = mode === "hidden"
+          ? clampInt(url.searchParams.get("limit"), 100, 1, 100)
+          : limit;
+        const cacheKey = cacheable
+          ? `top:${mode}:days=${mode === "trending" ? days : 0}:limit=${cacheLimit}`
+          : "";
+        const cacheTtl = mode === "trending" ? 900 : (mode === "all" ? 900 : 1800);
+        const now = Math.floor(Date.now() / 1000);
+
+        if (cacheable) {
+          try {
+            const hit = await env.DB.prepare(
+              `SELECT payload, updated_at FROM api_cache WHERE key = ?1 LIMIT 1`
+            ).bind(cacheKey).first();
+            if (hit && Number(hit.updated_at || 0) >= (now - cacheTtl)) {
+              const cachedRows = JSON.parse(String(hit.payload || "[]"));
+              if (Array.isArray(cachedRows)) {
+                return json({ ok: true, mode, top: cachedRows }, 200, corsHeaders);
+              }
+            }
+          } catch (cacheErr) {
+            // Safe fallback if the cache table has not been created yet.
+          }
+        }
+
         if (mode === "rising") {
           // Rising: compare the last 3 days with the preceding 14-day baseline.
           // We smooth the baseline slightly and weight by recent volume so that
@@ -107,10 +137,14 @@ export default {
           // Keep only projects that have at least one click; eligibility by age
           // is applied client-side using the generated site data.
           const hiddenLimit = clampInt(url.searchParams.get("limit"), 100, 1, 100);
+          // Avoid ORDER BY RANDOM(), which forces SQLite to inspect/sort a much
+          // larger part of the clicks table. Read a low-click pool using the
+          // count index, then shuffle the small result set in Worker memory.
+          const poolLimit = Math.min(300, Math.max(hiddenLimit * 3, hiddenLimit));
           const res = await env.DB.prepare(
-            `SELECT id, count FROM clicks WHERE count > 0 ORDER BY count ASC, RANDOM() LIMIT ?1`
-          ).bind(hiddenLimit).all();
-          rows = res.results || [];
+            `SELECT id, count FROM clicks WHERE count > 0 ORDER BY count ASC LIMIT ?1`
+          ).bind(poolLimit).all();
+          rows = shuffleRows(res.results || []).slice(0, hiddenLimit);
         } else if (mode === "trending") {
           // Last N days inclusive (e.g. days=7 => today + previous 6 days)
           const offset = -(days - 1);
@@ -154,6 +188,20 @@ export default {
           }
         }
 
+        if (cacheable) {
+          try {
+            await env.DB.prepare(
+              `INSERT INTO api_cache (key, payload, updated_at)
+               VALUES (?1, ?2, ?3)
+               ON CONFLICT(key) DO UPDATE SET
+                 payload = excluded.payload,
+                 updated_at = excluded.updated_at`
+            ).bind(cacheKey, JSON.stringify(rows), now).run();
+          } catch (cacheErr) {
+            // Safe fallback if the cache table has not been created yet.
+          }
+        }
+
         return json({ ok: true, mode, top: rows }, 200, corsHeaders);
       }
 
@@ -173,6 +221,17 @@ function json(obj, status = 200, extraHeaders = {}) {
       ...extraHeaders,
     },
   });
+}
+
+function shuffleRows(rows) {
+  const out = Array.isArray(rows) ? rows.slice() : [];
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const tmp = out[i];
+    out[i] = out[j];
+    out[j] = tmp;
+  }
+  return out;
 }
 
 function clampInt(v, fallback, min, max) {

@@ -1,0 +1,20 @@
+THE GAMING EMPORIUM - D1 POPULARITY OPTIMISATION
+
+This build reduces D1 rows-read usage in three ways:
+1. Global /api/top results are cached in a tiny D1 api_cache table.
+   - Trending / All-time: 15 minutes
+   - Rising / Hidden Gems: 30 minutes
+2. Hidden Gems no longer uses ORDER BY RANDOM() across the clicks table.
+3. Category Popular Picks sends up to 50 IDs per request instead of 10.
+
+CLOUDFLARE STEPS
+A) In D1 > gaming-emporium-popularity > Console, run the contents of:
+   cloudflare/d1_popularity_optimization.sql
+
+B) Replace the code in the gaming-emporium-popularity-api Worker with:
+   cloudflare/worker_popularity.js
+   Then deploy it.
+
+C) Deploy the website build normally so the updated assets/js/main.js goes live.
+
+The SQL is safe to run more than once. Existing click totals/history are not deleted or reset.
