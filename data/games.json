@@ -38869,6 +38869,34 @@
     "notes": "",
     "date_added": "2026-09-03",
     "image": ""
+  },
+    {
+    "id": 2963,
+    "title": "Donkey Kong Country 2: Diddy's Kong Quest Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/elliotttate/DKC2Recomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Donkey Kong",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-03",
+    "image": ""
+  },
+    {
+    "id": 2964,
+    "title": "iPod Classic Games Recompiled",
+    "category": "decompilations-recompilations",
+    "platform": "iPod",
+    "link": "https://github.com/DogParty/iPodClickWheelRecomps",
+    "genre1": "",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-03",
+    "image": ""
   }
 
 

@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Thu, 03 Sep 2026 17:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:08:45 +0000</lastBuildDate>
     <item>
       <title>Gran Turismo 2 Recompilation</title>
       <link>https://thegamingemporium.com/game/gran-turismo-2-recompilation/</link>
@@ -192,6 +192,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" alt="Spyro 1 - Co-Op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Spyro the Dragon · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" alt="Spyro 1 - Co-Op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Spyro the Dragon · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Donkey Kong Country 2: Diddy's Kong Quest Recompilation</title>
+      <link>https://thegamingemporium.com/game/donkey-kong-country-2-diddy-s-kong-quest-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/donkey-kong-country-2-diddy-s-kong-quest-recompilation/</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" alt="Donkey Kong Country 2: Diddy's Kong Quest Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" alt="Donkey Kong Country 2: Diddy's Kong Quest Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>iPod Classic Games Recompiled</title>
+      <link>https://thegamingemporium.com/game/ipod-classic-games-recompiled/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ipod-classic-games-recompiled/</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" alt="iPod Classic Games Recompiled" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" alt="iPod Classic Games Recompiled" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations]]></content:encoded>
     </item>
     <item>
       <title>Initial D Arcade Stage 3 Recompilation</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/comix-zone-nintendo-64-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/comix-zone-nintendo-64-port.webp" alt="Comix Zone Nintendo 64 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Comix Zone · Genre: beat em up]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/comix-zone-nintendo-64-port.webp" alt="Comix Zone Nintendo 64 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Comix Zone · Genre: beat em up]]></content:encoded>
-    </item>
-    <item>
-      <title>UZDoom 5.0</title>
-      <link>https://thegamingemporium.com/game/uzdoom-5-0/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/uzdoom-5-0/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/uzdoom-5-0.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/uzdoom-5-0.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/uzdoom-5-0.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/uzdoom-5-0.webp" alt="UZDoom 5.0" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Doom · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/uzdoom-5-0.webp" alt="UZDoom 5.0" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Doom · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Halo: Campaign Evolved VR</title>
-      <link>https://thegamingemporium.com/game/halo-campaign-evolved-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/halo-campaign-evolved-vr/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/halo-campaign-evolved-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/halo-campaign-evolved-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/halo-campaign-evolved-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-campaign-evolved-vr.webp" alt="Halo: Campaign Evolved VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Halo · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-campaign-evolved-vr.webp" alt="Halo: Campaign Evolved VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
     </item>
   </channel>
 </rss>
