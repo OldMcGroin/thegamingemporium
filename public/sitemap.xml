@@ -1410,6 +1410,8 @@
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/diddy-kong-racing-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-webgpu-android-port/</loc>
@@ -2343,6 +2345,8 @@
     <loc>http://localhost:1313/game/goldeneye-007-random-eye-zer-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-4k-textures/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/goldeneye-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-recompilation-for-android/</loc>
   </url><url>
@@ -5226,6 +5230,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-cd-restored-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-cd-sega-dreamcast-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-classic-heroes/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-colors-nintendo-3ds-port/</loc>
@@ -5598,6 +5604,8 @@
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-ex-plus-alpha-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/street-fighter-ex2-plus-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-3rd-strike-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-iii-third-strike-pc-port/</loc>
@@ -5863,6 +5871,8 @@
     <loc>http://localhost:1313/game/super-smash-brothers-brawl-pmex-remix/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-brothers-brawl-project/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-smash-brothers-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-flash-2/</loc>
   </url><url>
@@ -6800,6 +6810,8 @@
   </url><url>
     <loc>http://localhost:1313/game/vcmi-open-heroes-3-heroes-of-might-and-magic-3-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/vector/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/vega-strike/</loc>
   </url><url>
     <loc>http://localhost:1313/game/veloren/</loc>
@@ -6963,6 +6975,8 @@
     <loc>http://localhost:1313/game/wii-sports-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wiicompiled-mario-kart-wii-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wiidesk/</loc>
   </url><url>
     <loc>http://localhost:1313/series/will-rock/</loc>
   </url><url>

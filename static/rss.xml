@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:36:43 +0000</lastBuildDate>
     <item>
       <title>Mega Man X5 Recompilation</title>
       <link>https://thegamingemporium.com/game/mega-man-x5-recompilation/</link>
@@ -16,6 +16,83 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-x5-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x5-recompilation.webp" alt="Mega Man X5 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-x5-recompilation.webp" alt="Mega Man X5 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Diddy Kong Racing in Browser</title>
+      <link>https://thegamingemporium.com/game/diddy-kong-racing-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/diddy-kong-racing-in-browser/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/diddy-kong-racing-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/diddy-kong-racing-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/diddy-kong-racing-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diddy-kong-racing-in-browser.webp" alt="Diddy Kong Racing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Donkey Kong · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/diddy-kong-racing-in-browser.webp" alt="Diddy Kong Racing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Donkey Kong · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Goldeneye in Browser</title>
+      <link>https://thegamingemporium.com/game/goldeneye-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-in-browser/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-in-browser.webp" alt="Goldeneye in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: 007 · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-in-browser.webp" alt="Goldeneye in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: 007 · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Smash Brothers in Browser</title>
+      <link>https://thegamingemporium.com/game/super-smash-brothers-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-smash-brothers-in-browser/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp" alt="Super Smash Brothers in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Super Mario · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp" alt="Super Smash Brothers in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Super Mario · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Street Fighter EX2 Plus Recompilation</title>
+      <link>https://thegamingemporium.com/game/street-fighter-ex2-plus-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/street-fighter-ex2-plus-recompilation/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/street-fighter-ex2-plus-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/street-fighter-ex2-plus-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/street-fighter-ex2-plus-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex2-plus-recompilation.webp" alt="Street Fighter EX2 Plus Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/street-fighter-ex2-plus-recompilation.webp" alt="Street Fighter EX2 Plus Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Street Fighter · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Vector</title>
+      <link>https://thegamingemporium.com/game/vector/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/vector/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/vector.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/vector.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/vector.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vector.webp" alt="Vector" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Portal · Genre: platformer, puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vector.webp" alt="Vector" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Portal · Genre: platformer, puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Sonic CD Sega Dreamcast Port</title>
+      <link>https://thegamingemporium.com/game/sonic-cd-sega-dreamcast-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-cd-sega-dreamcast-port/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-cd-sega-dreamcast-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/sonic-cd-sega-dreamcast-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-cd-sega-dreamcast-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-cd-sega-dreamcast-port.webp" alt="Sonic CD Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-cd-sega-dreamcast-port.webp" alt="Sonic CD Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>WiiDesk</title>
+      <link>https://thegamingemporium.com/game/wiidesk/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/wiidesk/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wiidesk.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/wiidesk.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/wiidesk.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wiidesk.webp" alt="WiiDesk" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wiidesk.webp" alt="WiiDesk" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
     </item>
     <item>
       <title>Gran Turismo 2 Recompilation</title>
@@ -478,83 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-psp-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-psp-port.webp" alt="The Legend of Zelda: Ocarina of Time PSP Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-psp-port.webp" alt="The Legend of Zelda: Ocarina of Time PSP Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Dishonored VR</title>
-      <link>https://thegamingemporium.com/game/dishonored-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dishonored-vr/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dishonored-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dishonored-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dishonored-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dishonored-vr.webp" alt="Dishonored VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Dishonored · Genre: stealth, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dishonored-vr.webp" alt="Dishonored VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Dishonored · Genre: stealth, action]]></content:encoded>
-    </item>
-    <item>
-      <title>X-Men Destiny Recompilation</title>
-      <link>https://thegamingemporium.com/game/x-men-destiny-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/x-men-destiny-recompilation/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" alt="X-Men Destiny Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: beat em up, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/x-men-destiny-recompilation.webp" alt="X-Men Destiny Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: beat em up, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Gears of War Redux</title>
-      <link>https://thegamingemporium.com/game/gears-of-war-redux/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/gears-of-war-redux/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" alt="Gears of War Redux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Gears of War · Genre: third person shooter, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gears-of-war-redux.webp" alt="Gears of War Redux" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Gears of War · Genre: third person shooter, action]]></content:encoded>
-    </item>
-    <item>
-      <title>UFC Undisputed 3 Recompilation</title>
-      <link>https://thegamingemporium.com/game/ufc-undisputed-3-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ufc-undisputed-3-recompilation/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" alt="UFC Undisputed 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ufc-undisputed-3-recompilation.webp" alt="UFC Undisputed 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>3 RetComM Launcher - Static Recompilation Launcher</title>
-      <link>https://thegamingemporium.com/game/3-retcomm-launcher-static-recompilation-launcher/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/3-retcomm-launcher-static-recompilation-launcher/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" alt="3 RetComM Launcher - Static Recompilation Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/3-retcomm-launcher-static-recompilation-launcher.webp" alt="3 RetComM Launcher - Static Recompilation Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Grand Theft Auto: Vice City Gamecube Port</title>
-      <link>https://thegamingemporium.com/game/grand-theft-auto-vice-city-gamecube-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/grand-theft-auto-vice-city-gamecube-port/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/grand-theft-auto-vice-city-gamecube-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/grand-theft-auto-vice-city-gamecube-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-vice-city-gamecube-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-vice-city-gamecube-port.webp" alt="Grand Theft Auto: Vice City Gamecube Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-vice-city-gamecube-port.webp" alt="Grand Theft Auto: Vice City Gamecube Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Perfect Dark X-Box Port</title>
-      <link>https://thegamingemporium.com/game/perfect-dark-x-box-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/perfect-dark-x-box-port/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/perfect-dark-x-box-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/perfect-dark-x-box-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/perfect-dark-x-box-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-x-box-port.webp" alt="Perfect Dark X-Box Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Perfect Dark · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/perfect-dark-x-box-port.webp" alt="Perfect Dark X-Box Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Perfect Dark · Genre: first person shooter]]></content:encoded>
     </item>
   </channel>
 </rss>
