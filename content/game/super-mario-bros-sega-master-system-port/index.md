@@ -8,8 +8,8 @@ params:
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"
-  video_link: "https://youtu.be/CF_Gm9jJ0oU?si=BuLHcQbOdlTONMHz"
-  date_added: "2026-04-09"
+  video_link: "https://youtu.be/CF_Gm9jJ0oU?si=KGxCI7q34JNs2OUL"
+  date_added: "2026-09-05"
   image: ""
 ---
 

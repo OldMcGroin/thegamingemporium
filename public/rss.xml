@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:27:50 +0000</lastBuildDate>
     <item>
       <title>Silent Hill Amiga Port</title>
       <link>https://thegamingemporium.com/game/silent-hill-amiga-port/</link>
@@ -38,6 +38,50 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/wave-race-64-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wave-race-64-recompilation.webp" alt="Wave Race 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wave Race · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wave-race-64-recompilation.webp" alt="Wave Race 64 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wave Race · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Pokemon Snap Recompilation</title>
+      <link>https://thegamingemporium.com/game/pokemon-snap-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-snap-recompilation/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-snap-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-snap-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-snap-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-snap-recompilation.webp" alt="Pokemon Snap Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: photography, rail shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-snap-recompilation.webp" alt="Pokemon Snap Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Pokemon · Genre: photography, rail shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario Bros. Sega Master System Port</title>
+      <link>https://thegamingemporium.com/game/super-mario-bros-sega-master-system-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-bros-sega-master-system-port/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-bros-sega-master-system-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-bros-sega-master-system-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-bros-sega-master-system-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-bros-sega-master-system-port.webp" alt="Super Mario Bros. Sega Master System Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-bros-sega-master-system-port.webp" alt="Super Mario Bros. Sega Master System Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenPhantom</title>
+      <link>https://thegamingemporium.com/game/openphantom/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/openphantom/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openphantom.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openphantom.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openphantom.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openphantom.webp" alt="OpenPhantom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Star Wars · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openphantom.webp" alt="OpenPhantom" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Series: Star Wars · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>Outer Wilds VR</title>
+      <link>https://thegamingemporium.com/game/outer-wilds-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/outer-wilds-vr/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/outer-wilds-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/outer-wilds-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/outer-wilds-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/outer-wilds-vr.webp" alt="Outer Wilds VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Outer Wilds · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/outer-wilds-vr.webp" alt="Outer Wilds VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Outer Wilds · Genre: adventure]]></content:encoded>
     </item>
     <item>
       <title>Mega Man X5 Recompilation</title>
@@ -511,50 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/crash-twinsanity-evolution.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-twinsanity-evolution.webp" alt="Crash Twinsanity Evolution" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Crash Bandicoot · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-twinsanity-evolution.webp" alt="Crash Twinsanity Evolution" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Crash Bandicoot · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic Colors Nintendo 3DS Port</title>
-      <link>https://thegamingemporium.com/game/sonic-colors-nintendo-3ds-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-colors-nintendo-3ds-port/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-colors-nintendo-3ds-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-colors-nintendo-3ds-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-colors-nintendo-3ds-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-colors-nintendo-3ds-port.webp" alt="Sonic Colors Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-colors-nintendo-3ds-port.webp" alt="Sonic Colors Nintendo 3DS Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic and the Secret Rings PC Port</title>
-      <link>https://thegamingemporium.com/game/sonic-and-the-secret-rings-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-and-the-secret-rings-pc-port/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-and-the-secret-rings-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-and-the-secret-rings-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-and-the-secret-rings-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-and-the-secret-rings-pc-port.webp" alt="Sonic and the Secret Rings PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Sonic the Hedgehog · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-and-the-secret-rings-pc-port.webp" alt="Sonic and the Secret Rings PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Runescape Classic PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/runescape-classic-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/runescape-classic-ps-vita-port/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/runescape-classic-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/runescape-classic-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/runescape-classic-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/runescape-classic-ps-vita-port.webp" alt="Runescape Classic PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Runescape · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/runescape-classic-ps-vita-port.webp" alt="Runescape Classic PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Runescape · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>ActRaiser Recompilation</title>
-      <link>https://thegamingemporium.com/game/actraiser-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/actraiser-recompilation/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/actraiser-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/actraiser-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/actraiser-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/actraiser-recompilation.webp" alt="ActRaiser Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: ActRaiser · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/actraiser-recompilation.webp" alt="ActRaiser Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: ActRaiser · Genre: rpg, action]]></content:encoded>
     </item>
   </channel>
 </rss>

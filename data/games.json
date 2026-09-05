@@ -39051,6 +39051,62 @@
     "notes": "",
     "date_added": "2026-09-05",
     "image": ""
+  },
+    {
+    "id": 2976,
+    "title": "Pokemon Snap Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/JackandBeans/Snap64Recomp",
+    "genre1": "photography",
+    "genre2": "rail-shooter",
+    "series": "Pokemon",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-05",
+    "image": ""
+  },
+    {
+    "id": 2977,
+    "title": "Super Mario Bros. Sega Master System Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://www.smspower.org/Homebrew/SuperMarioBrosSmsPort-SMS",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/CF_Gm9jJ0oU?si=KGxCI7q34JNs2OUL",
+    "notes": "",
+    "date_added": "2026-09-05",
+    "image": ""
+  },
+    {
+    "id": 2978,
+    "title": "OpenPhantom",
+    "category": "open-source",
+    "platform": "",
+    "link": "https://github.com/OpenPhantom/OpenPhantom",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-05",
+    "image": ""
+  },
+    {
+    "id": 2979,
+    "title": "Outer Wilds VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://youtu.be/-oWSzwWdz4g?si=IOYTOC2_HERmhbuN",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Outer Wilds",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-05",
+    "image": ""
   }
 
 
