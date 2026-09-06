@@ -29522,8 +29522,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-06-05",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 2258,
@@ -38815,7 +38814,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2959,
     "title": "Ridge Racer Type 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -38829,7 +38828,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2960,
     "title": "Nelumbo - Lotus Trilogy PC Port",
     "category": "console-to-pc-port",
@@ -38843,7 +38842,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2961,
     "title": "Ace Attorney Online",
     "category": "browser-based",
@@ -38857,7 +38856,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2962,
     "title": "Spyro 1 - Co-Op Mod",
     "category": "rom-hacks",
@@ -38871,7 +38870,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2963,
     "title": "Donkey Kong Country 2: Diddy's Kong Quest Recompilation",
     "category": "decompilations-recompilations",
@@ -38885,7 +38884,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2964,
     "title": "iPod Classic Games Recompiled",
     "category": "decompilations-recompilations",
@@ -38899,7 +38898,7 @@
     "date_added": "2026-09-03",
     "image": ""
   },
-  {
+    {
     "id": 2965,
     "title": "Mega Man X5 Recompilation",
     "category": "decompilations-recompilations",
@@ -38913,7 +38912,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2966,
     "title": "Diddy Kong Racing in Browser",
     "category": "browser-based",
@@ -38927,7 +38926,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2967,
     "title": "Goldeneye in Browser",
     "category": "browser-based",
@@ -38941,7 +38940,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2968,
     "title": "Super Smash Brothers in Browser",
     "category": "browser-based",
@@ -38955,7 +38954,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2969,
     "title": "Street Fighter EX2 Plus Recompilation",
     "category": "decompilations-recompilations",
@@ -38969,7 +38968,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2970,
     "title": "Vector",
     "category": "fan-games",
@@ -38983,7 +38982,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2971,
     "title": "Sonic CD Sega Dreamcast Port",
     "category": "console-ports",
@@ -38997,7 +38996,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2972,
     "title": "WiiDesk",
     "category": "utility",
@@ -39011,7 +39010,7 @@
     "date_added": "2026-09-04",
     "image": ""
   },
-  {
+    {
     "id": 2973,
     "title": "Silent Hill Amiga Port",
     "category": "console-ports",
@@ -39025,7 +39024,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2974,
     "title": "Valkyrie Profile Recompilation",
     "category": "decompilations-recompilations",
@@ -39039,7 +39038,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2975,
     "title": "Wave Race 64 Recompilation",
     "category": "decompilations-recompilations",
@@ -39053,7 +39052,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2976,
     "title": "Pokemon Snap Recompilation",
     "category": "decompilations-recompilations",
@@ -39067,7 +39066,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2977,
     "title": "Super Mario Bros. Sega Master System Port",
     "category": "console-ports",
@@ -39081,7 +39080,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2978,
     "title": "OpenPhantom",
     "category": "open-source",
@@ -39095,7 +39094,7 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2979,
     "title": "Outer Wilds VR",
     "category": "vr-ports",
@@ -39109,12 +39108,12 @@
     "date_added": "2026-09-05",
     "image": ""
   },
-  {
+    {
     "id": 2979,
     "title": "Lost Odyssey Recompilation",
     "category": "decompilations-recompilations",
     "platform": "Xbox 360",
-    "link": "",
+    "link": "https://github.com/freefrank/LostOdysseyRecomp",
     "genre1": "rpg",
     "genre2": "",
     "series": "Lost Odyssey",
@@ -39122,5 +39121,22 @@
     "notes": "",
     "date_added": "2026-09-06",
     "image": ""
+  },
+    {
+    "id": 2980,
+    "title": "Pikmin Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Pikmin",
+    "video_link": "",
+    "notes": "",
+    "date_added": "2026-09-06",
+    "image": ""
   }
+
+
+
 ]
