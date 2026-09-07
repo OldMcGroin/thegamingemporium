@@ -39237,6 +39237,18 @@
     "series": "Infamous",
     "video_link": "",
     "date_added": "2026-09-07"
+  },
+    {
+    "id": 2989,
+    "title": "Mario Kart Wii and Retro Rewind for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/chrissotraidis/kartpad",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-07"
   }
 
 
