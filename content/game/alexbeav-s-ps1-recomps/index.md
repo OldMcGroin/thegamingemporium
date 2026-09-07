@@ -1,6 +1,6 @@
 ---
-title: "Alexbeav's Recomps Batch 1"
-url: "/game/alexbeav-s-recomps-batch-1/"
+title: "Alexbeav's PS1 Recomps"
+url: "/game/alexbeav-s-ps1-recomps/"
 type: game
 params:
   external_link: "https://github.com/Alexbeav/psxrecomp-ports"

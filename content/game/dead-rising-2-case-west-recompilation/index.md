@@ -6,7 +6,7 @@ params:
   external_link: "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp"
   category: "decompilations-recompilations"
   genre1: "action"
-  genre2: ""
+  genre2: "survival-horror"
   series: "Dead Rising"
   video_link: ""
   date_added: "2026-09-07"

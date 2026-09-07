@@ -36885,7 +36885,7 @@
   },
   {
     "id": 2814,
-    "title": "Alexbeav's Recomps Batch 1",
+    "title": "Alexbeav's PS1 Recomps",
     "category": "decompilations-recompilations",
     "platform": "PlayStation",
     "link": "https://github.com/Alexbeav/psxrecomp-ports",
@@ -39171,7 +39171,7 @@
     "platform": "Xbox 360",
     "link": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
     "genre1": "action",
-    "genre2": "",
+    "genre2": "survival-horror",
     "series": "Dead Rising",
     "video_link": "",
     "notes": "",
@@ -39247,6 +39247,30 @@
     "genre1": "racing",
     "genre2": "",
     "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2990,
+    "title": "Dead Rising 2: Case Zero Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+    "genre1": "action",
+    "genre2": "survival-horror",
+    "series": "Dead Rising",
+    "video_link": "",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2991,
+    "title": "Road Rash 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/linkssy2/RoadRash64Recompiled",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Road Rash",
     "video_link": "",
     "date_added": "2026-09-07"
   }

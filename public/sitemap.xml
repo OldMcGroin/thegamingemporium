@@ -136,7 +136,7 @@
   </url><url>
     <loc>http://localhost:1313/game/aleph-one-ps-vita-port/</loc>
   </url><url>
-    <loc>http://localhost:1313/game/alexbeav-s-recomps-batch-1/</loc>
+    <loc>http://localhost:1313/game/alexbeav-s-ps1-recomps/</loc>
   </url><url>
     <loc>http://localhost:1313/series/alice-in-wonderland/</loc>
   </url><url>
@@ -1319,6 +1319,8 @@
     <loc>http://localhost:1313/series/dead-rising/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dead-rising-2-case-west-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dead-rising-2-case-zero-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dead-rising-prototype/</loc>
   </url><url>
@@ -4797,6 +4799,8 @@
     <loc>http://localhost:1313/game/risk-of-rain-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/road-rash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/road-rash-64-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/roadfighter/</loc>
   </url><url>
