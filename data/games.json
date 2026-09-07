@@ -39189,6 +39189,54 @@
     "series": "Dante's Inferno",
     "video_link": "",
     "date_added": "2026-09-07"
+  },
+    {
+    "id": 2985,
+    "title": "The Simpsons Hit & Run in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://vheissu.github.io/hit-and-run-web/",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "The Simpsons",
+    "video_link": "",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2986,
+    "title": "Castlevania Grimoire Of Souls",
+    "category": "abandonware",
+    "platform": "",
+    "link": "https://archive.org/details/castlevania-grimoire-of-souls-v-1-4-2",
+    "genre1": "plarformer",
+    "genre2": "action",
+    "series": "Castlevania",
+    "video_link": "",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2987,
+    "title": "The Settlers PC Port",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://polytricity.itch.io/settlers-gm",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "The Settlers",
+    "video_link": "https://youtu.be/bh691Swsi9E?si=2OdHoSDy0_pjXw0s",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2988,
+    "title": "Infamous 2 PC Patched",
+    "category": "abandonware",
+    "platform": "",
+    "link": "https://archive.org/details/infamous-2-rpcs-3",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Infamous",
+    "video_link": "",
+    "date_added": "2026-09-07"
   }
 
 

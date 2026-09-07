@@ -6412,6 +6412,8 @@
   </url><url>
     <loc>http://localhost:1313/series/the-settlers/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-settlers-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/simpsons/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-simpsons/</loc>
@@ -6421,6 +6423,8 @@
     <loc>http://localhost:1313/game/the-simpsons-hit-run-futurama-overhaul-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-simpsons-hit-run-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-simpsons-hit-run-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-simpsons-hit-run-pc-port/</loc>
   </url><url>
