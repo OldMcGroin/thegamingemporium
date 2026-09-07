@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 07 Sep 2026 06:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:30:23 +0000</lastBuildDate>
     <item>
       <title>Puyo Puyo Box Recompilation</title>
       <link>https://thegamingemporium.com/game/puyo-puyo-box-recompilation/</link>
@@ -27,6 +27,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Dead Rising 2: Case West Recompilation</title>
+      <link>https://thegamingemporium.com/game/dead-rising-2-case-west-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dead-rising-2-case-west-recompilation/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dead-rising-2-case-west-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dead-rising-2-case-west-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dead-rising-2-case-west-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dead-rising-2-case-west-recompilation.webp" alt="Dead Rising 2: Case West Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dead Rising · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dead-rising-2-case-west-recompilation.webp" alt="Dead Rising 2: Case West Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dead Rising · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Lost Odyssey Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dante-s-inferno-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dante-s-inferno-recompilation.webp" alt="Dante's Inferno Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dante's Inferno · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dante-s-inferno-recompilation.webp" alt="Dante's Inferno Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dante's Inferno · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Wars Episode I: Racer VR</title>
-      <link>https://thegamingemporium.com/game/star-wars-episode-i-racer-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-wars-episode-i-racer-vr/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-wars-episode-i-racer-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-wars-episode-i-racer-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-wars-episode-i-racer-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-episode-i-racer-vr.webp" alt="Star Wars Episode I: Racer VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-episode-i-racer-vr.webp" alt="Star Wars Episode I: Racer VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Star Wars · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
