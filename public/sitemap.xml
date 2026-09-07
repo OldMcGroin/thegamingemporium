@@ -2800,6 +2800,10 @@
   </url><url>
     <loc>http://localhost:1313/game/jet-force-gemini-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/jet-moto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jet-moto-anthology-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/jet-set-radio/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jet-set-radio-dreamcast-prototype/</loc>
@@ -5277,6 +5281,8 @@
     <loc>http://localhost:1313/game/sonic-mania-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-mania-plus-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-mania-xbox-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-master-system-remake/</loc>
   </url><url>

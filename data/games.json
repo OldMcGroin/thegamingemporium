@@ -39273,6 +39273,30 @@
     "series": "Road Rash",
     "video_link": "",
     "date_added": "2026-09-07"
+  },
+    {
+    "id": 2992,
+    "title": "Jet Moto Anthology Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/GTTeancum/Jet-Moto-Anthology",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Jet Moto",
+    "video_link": "",
+    "date_added": "2026-09-07"
+  },
+    {
+    "id": 2993,
+    "title": "Sonic Mania Xbox Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/HealthyMinmo/Sonic-Mania-Xbox-ISO-Builder",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-07"
   }
 
 
