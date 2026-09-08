@@ -39297,7 +39297,20 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-07"
+  },
+    {
+    "id": 2994,
+    "title": "The Legend of Zelda: Ocarina of Time 3D Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 3DS",
+    "link": "https://github.com/coccofresco/TriAevum",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-09-08"
   }
+
 
 
 
