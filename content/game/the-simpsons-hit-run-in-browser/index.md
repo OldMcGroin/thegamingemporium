@@ -3,7 +3,7 @@ title: "The Simpsons Hit & Run in Browser"
 url: "/game/the-simpsons-hit-run-in-browser/"
 type: game
 params:
-  external_link: "https://vheissu.github.io/hit-and-run-web/"
+  external_link: "https://shar-wasm.cjoseph.workers.dev/?skipmovie"
   category: "browser-based"
   genre1: "sandbox"
   genre2: ""
