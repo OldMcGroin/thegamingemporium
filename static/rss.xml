@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 08 Sep 2026 08:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:32:51 +0000</lastBuildDate>
+    <item>
+      <title>Mario Tennis Recompilation</title>
+      <link>https://thegamingemporium.com/game/mario-tennis-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-tennis-recompilation/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" alt="Mario Tennis Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: sports]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" alt="Mario Tennis Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: sports]]></content:encoded>
+    </item>
     <item>
       <title>The Legend of Zelda: Ocarina of Time 3D Recompilation</title>
       <link>https://thegamingemporium.com/game/the-legend-of-zelda-ocarina-of-time-3d-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" alt="Initial D Arcade Stage 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" alt="Initial D Arcade Stage 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Wars: Shadows of the Empire Recompilation</title>
-      <link>https://thegamingemporium.com/game/star-wars-shadows-of-the-empire-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-wars-shadows-of-the-empire-recompilation/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-wars-shadows-of-the-empire-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-wars-shadows-of-the-empire-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-wars-shadows-of-the-empire-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-shadows-of-the-empire-recompilation.webp" alt="Star Wars: Shadows of the Empire Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Star Wars · Genre: third person shooter, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-shadows-of-the-empire-recompilation.webp" alt="Star Wars: Shadows of the Empire Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Star Wars · Genre: third person shooter, action]]></content:encoded>
     </item>
   </channel>
 </rss>
