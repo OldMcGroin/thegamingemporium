@@ -39321,6 +39321,42 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-09"
+  },
+    {
+    "id": 2996,
+    "title": "Silent Hill 3 VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://youtu.be/TqR4mNJ5AtQ?si=b1KuXnfHD-m9Pgyc",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "video_link": "",
+    "date_added": "2026-09-09"
+  },
+    {
+    "id": 2997,
+    "title": "Quake 2 PCVR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/GameOrDie007/Quake-II-PCVR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Quake",
+    "video_link": "",
+    "date_added": "2026-09-09"
+  },
+    {
+    "id": 2998,
+    "title": "Pokemon Homestead",
+    "category": "fan-games",
+    "platform": "",
+    "link": "https://www.hackdex.app/hack/pokemon-homestead",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-09"
   }
 
 

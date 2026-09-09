@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 09 Sep 2026 06:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:24:06 +0000</lastBuildDate>
     <item>
       <title>Mario Tennis Recompilation</title>
       <link>https://thegamingemporium.com/game/mario-tennis-recompilation/</link>
@@ -16,6 +16,39 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" alt="Mario Tennis Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: sports]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-tennis-recompilation.webp" alt="Mario Tennis Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: sports]]></content:encoded>
+    </item>
+    <item>
+      <title>Silent Hill 3 VR</title>
+      <link>https://thegamingemporium.com/game/silent-hill-3-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/silent-hill-3-vr/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/silent-hill-3-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/silent-hill-3-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-3-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-3-vr.webp" alt="Silent Hill 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Silent Hill · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-3-vr.webp" alt="Silent Hill 3 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Silent Hill · Genre: survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Quake 2 PCVR</title>
+      <link>https://thegamingemporium.com/game/quake-2-pcvr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/quake-2-pcvr/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" alt="Quake 2 PCVR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" alt="Quake 2 PCVR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Pokemon Homestead</title>
+      <link>https://thegamingemporium.com/game/pokemon-homestead/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-homestead/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" alt="Pokemon Homestead" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" alt="Pokemon Homestead" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: puzzle]]></content:encoded>
     </item>
     <item>
       <title>The Legend of Zelda: Ocarina of Time 3D Recompilation</title>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" alt="Spyro 1 - Co-Op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Spyro the Dragon · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spyro-1-co-op-mod.webp" alt="Spyro 1 - Co-Op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Spyro the Dragon · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Donkey Kong Country 2: Diddy's Kong Quest Recompilation</title>
-      <link>https://thegamingemporium.com/game/donkey-kong-country-2-diddy-s-kong-quest-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/donkey-kong-country-2-diddy-s-kong-quest-recompilation/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" alt="Donkey Kong Country 2: Diddy's Kong Quest Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-country-2-diddy-s-kong-quest-recompilation.webp" alt="Donkey Kong Country 2: Diddy's Kong Quest Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Donkey Kong · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>iPod Classic Games Recompiled</title>
-      <link>https://thegamingemporium.com/game/ipod-classic-games-recompiled/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ipod-classic-games-recompiled/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" alt="iPod Classic Games Recompiled" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ipod-classic-games-recompiled.webp" alt="iPod Classic Games Recompiled" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations]]></content:encoded>
-    </item>
-    <item>
-      <title>Initial D Arcade Stage 3 Recompilation</title>
-      <link>https://thegamingemporium.com/game/initial-d-arcade-stage-3-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/initial-d-arcade-stage-3-recompilation/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" alt="Initial D Arcade Stage 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/initial-d-arcade-stage-3-recompilation.webp" alt="Initial D Arcade Stage 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>

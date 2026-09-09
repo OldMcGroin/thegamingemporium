@@ -4274,6 +4274,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pokemon-heartgold-soulsilver-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pokemon-homestead/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pokemon-infinite-black-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-infinite-fusion/</loc>
@@ -4519,6 +4521,8 @@
     <loc>http://localhost:1313/game/quake-2-quake-wasm2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-2-on-the-oculus-quest/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quake-2-pcvr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-4-source-port/</loc>
   </url><url>
@@ -5099,6 +5103,8 @@
     <loc>http://localhost:1313/game/silent-hill-2-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silent-hill-3-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/silent-hill-3-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/silent-hill-amiga-port/</loc>
   </url><url>
