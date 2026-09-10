@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 09 Sep 2026 23:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:33:19 +0000</lastBuildDate>
     <item>
       <title>Project Dream - SNES</title>
       <link>https://thegamingemporium.com/game/project-dream-snes/</link>
@@ -16,6 +16,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/project-dream-snes.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-dream-snes.webp" alt="Project Dream - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-dream-snes.webp" alt="Project Dream - SNES" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Metroid Recompilation</title>
+      <link>https://thegamingemporium.com/game/super-metroid-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-metroid-recompilation/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-metroid-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-metroid-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-metroid-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-recompilation.webp" alt="Super Metroid Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metroid · Genre: metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-metroid-recompilation.webp" alt="Super Metroid Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metroid · Genre: metroidvania]]></content:encoded>
+    </item>
+    <item>
+      <title>Crash Bandicoot 2: Cortex Strikes Back Recompilation</title>
+      <link>https://thegamingemporium.com/game/crash-bandicoot-2-cortex-strikes-back-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-bandicoot-2-cortex-strikes-back-recompilation/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" alt="Crash Bandicoot 2: Cortex Strikes Back Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" alt="Crash Bandicoot 2: Cortex Strikes Back Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Mario Tennis Recompilation</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ridge-racer-type-4-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ridge-racer-type-4-recompilation.webp" alt="Ridge Racer Type 4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ridge Racer · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ridge-racer-type-4-recompilation.webp" alt="Ridge Racer Type 4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ridge Racer · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Nelumbo - Lotus Trilogy PC Port</title>
-      <link>https://thegamingemporium.com/game/nelumbo-lotus-trilogy-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nelumbo-lotus-trilogy-pc-port/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" alt="Nelumbo - Lotus Trilogy PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Lotus · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nelumbo-lotus-trilogy-pc-port.webp" alt="Nelumbo - Lotus Trilogy PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Lotus · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Ace Attorney Online</title>
-      <link>https://thegamingemporium.com/game/ace-attorney-online/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ace-attorney-online/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" alt="Ace Attorney Online" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Ace Attorney · Genre: visual novel]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ace-attorney-online.webp" alt="Ace Attorney Online" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Ace Attorney · Genre: visual novel]]></content:encoded>
     </item>
   </channel>
 </rss>

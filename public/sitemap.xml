@@ -1102,6 +1102,8 @@
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-2-cortex-strikes-back-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/crash-bandicoot-2-cortex-strikes-back-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-for-android/</loc>
@@ -5867,6 +5869,8 @@
     <loc>http://localhost:1313/game/super-metroid-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-metroid-project-base/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-metroid-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-metroid-subversion/</loc>
   </url><url>

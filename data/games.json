@@ -39369,6 +39369,30 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-09-10"
+  },
+    {
+    "id": 3000,
+    "title": "Super Metroid Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/mstan/SuperMetroidRecomp",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Metroid",
+    "video_link": "",
+    "date_added": "2026-09-10"
+  },
+    {
+    "id": 3001,
+    "title": "Crash Bandicoot 2: Cortex Strikes Back Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Zumbo06/Crash2Recomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-09-10"
   }
 
 
