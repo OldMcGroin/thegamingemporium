@@ -39501,9 +39501,55 @@
     "series": "Skate",
     "video_link": "",
     "date_added": "2026-09-10"
+  },
+    {
+    "id": 3011,
+    "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal",
+    "category": "decompilations - recompilations",
+    "platform": "Game Boy Colour",
+    "link": "https://github.com/UNDERdecoded/Gen2Recomped",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-11"
+  },
+    {
+    "id": 3012,
+    "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/UNDERdecoded/Gen2Recomped",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": ""
+  },
+  {
+    "id": 3013,
+    "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal DramaticShapes",
+    "category": "decompilations - recompilations",
+    "platform": "Game Boy Colour",
+    "link": "https://github.com/UNDERdecoded/Gen2Recomped-DramaticShapes",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-11"
+  },
+  {
+    "id": 3014,
+    "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal DramaticShapes",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/UNDERdecoded/Gen2Recomped-DramaticShapes",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": ""
   }
-
-
 
 
 
