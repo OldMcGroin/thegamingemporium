@@ -36,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/game/3d-pinball-space-cadet-in-browser/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/4-ports-launcher/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/40-winks-gameboy-colour/</loc>
   </url><url>
     <loc>http://localhost:1313/series/7th-dragon/</loc>
@@ -101,6 +103,10 @@
     <loc>http://localhost:1313/series/aero-gauge/</loc>
   </url><url>
     <loc>http://localhost:1313/game/aero-gauge-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/aerogauge/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/aerogauge-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/after-burner/</loc>
   </url><url>
@@ -1322,6 +1328,8 @@
   </url><url>
     <loc>http://localhost:1313/series/dead-or-alive/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dead-or-alive-xtreme-beach-volleyball-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/dead-rising/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dead-rising-2-case-west-recompilation/</loc>
@@ -1430,6 +1438,8 @@
   </url><url>
     <loc>http://localhost:1313/series/die-hard/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/die-hard-trilogy-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/digimon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/digimon-adventure-psp/</loc>
@@ -1504,7 +1514,11 @@
   </url><url>
     <loc>http://localhost:1313/game/donkey-kong-country-2-diddy-s-kong-quest-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/donkey-kong-country-3-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/donkey-kong-country-4-nes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/donkey-kong-country-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/donkey-kong-land-2-dx/</loc>
   </url><url>
@@ -1553,6 +1567,8 @@
     <loc>http://localhost:1313/game/doom-roguelike/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-rpg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doom-rpg-nintendo-64-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doomscroll-browse-preview-and-play-thousands-of-user-made-doom-wads/</loc>
   </url><url>
@@ -1873,6 +1889,8 @@
     <loc>http://localhost:1313/game/f-zero-beginnings/</loc>
   </url><url>
     <loc>http://localhost:1313/game/f-zero-deluxe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/f-zero-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/f-zero-x-climax/</loc>
   </url><url>
@@ -2397,6 +2415,8 @@
     <loc>http://localhost:1313/game/gran-turismo-2-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gran-turismo-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gran-turismo-2-with-multiplayer-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/grand-knights-history/</loc>
   </url><url>
@@ -3245,6 +3265,8 @@
     <loc>http://localhost:1313/game/mario-kart-wii-retro-rewind-wheel-wizard-launcher/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-wii-and-retro-rewind-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-kart-wii-and-retro-rewind-for-android-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-wii-decompilation/</loc>
   </url><url>
@@ -4702,6 +4724,8 @@
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-2-fps/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/resident-evil-2-sega-saturn-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-multiplayer-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-hd-project/</loc>
@@ -4977,6 +5001,8 @@
     <loc>http://localhost:1313/series/screaming-mad-georges-paranoiascape/</loc>
   </url><url>
     <loc>http://localhost:1313/game/screaming-mad-george-s-paranoiascape-playstation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sd-gundam-dimension-war-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sdl-asylum/</loc>
   </url><url>
@@ -5428,6 +5454,10 @@
   </url><url>
     <loc>http://localhost:1313/game/space-cadet-pinball-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/space-channel-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/space-channel-5-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/space-invaders/</loc>
   </url><url>
     <loc>http://localhost:1313/series/space-quest/</loc>
@@ -5600,6 +5630,8 @@
   </url><url>
     <loc>http://localhost:1313/game/star-wars-shadows-of-the-empire-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/star-wars-x-wing-vs-tie-fighter-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/starbound/</loc>
   </url><url>
     <loc>http://localhost:1313/game/starbound-for-android/</loc>
@@ -5712,6 +5744,10 @@
   </url><url>
     <loc>http://localhost:1313/series/stunt-rally/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/stunts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/stunts-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/substance-wars-64/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sugar-ghouls/</loc>
@@ -5721,6 +5757,8 @@
     <loc>http://localhost:1313/series/summoner-a-goddess-reborn/</loc>
   </url><url>
     <loc>http://localhost:1313/game/summoner-a-goddess-reborn-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-bomberman-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/super-dodgeball/</loc>
   </url><url>
@@ -5854,6 +5892,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-mario-strikers-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-mario-strikers-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-mario-sunburn/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-sunshine/</loc>
@@ -5937,6 +5977,8 @@
     <loc>http://localhost:1313/game/super-smash-bros-melee-akaneia-build/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-melee-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-smash-bros-melee-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/super-smash-brothers/</loc>
   </url><url>
@@ -6036,6 +6078,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/taiko-no-tatsujin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/taiko-no-tatsujin-nes-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/take-no-prisoners/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tales-of-maj-eyal/</loc>
@@ -6099,6 +6145,8 @@
     <loc>http://localhost:1313/series/tekken/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tekken-3-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tekken-3-with-jun-kazama-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/teknoparrot/</loc>
   </url><url>
@@ -6607,6 +6655,10 @@
     <loc>http://localhost:1313/game/tiny-toon-adventures-dx/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tiny-toons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/titanfall/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/titanfall-2-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tmnt-rescue-palooza/</loc>
   </url><url>
