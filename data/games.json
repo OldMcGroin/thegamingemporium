@@ -5542,17 +5542,17 @@
   },
   {
     "id": 426,
-    "title": "Duke Nukem Zero Hour Recompilation",
+    "title": "Duke Nukem Zero Hour Overclocked Recompilation",
     "category": "decompilations-recompilations",
     "platform": "Nintendo 64",
-    "link": "https://github.com/sonicdcer/DNZHRecomp/releases",
+    "link": "https://dnzh-overclocked.com/",
     "decompilation": true,
     "genre1": "third-person-shooter",
     "genre2": "",
     "series": "Duke Nukem",
     "video_link": "",
     "notes": "Static recompilation of the N64 title to PC.",
-    "date_added": "",
+    "date_added": "2026-09-13",
     "image": ""
   },
   {
@@ -39505,7 +39505,7 @@
     {
     "id": 3011,
     "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal",
-    "category": "decompilations - recompilations",
+    "category": "decompilations-recompilations",
     "platform": "Game Boy Colour",
     "link": "https://github.com/UNDERdecoded/Gen2Recomped",
     "genre1": "rpg",
@@ -39529,7 +39529,7 @@
   {
     "id": 3013,
     "title": "Gen2Recomp - Pokemon Gold, Silver and Crystal DramaticShapes",
-    "category": "decompilations - recompilations",
+    "category": "decompilations-recompilations",
     "platform": "Game Boy Colour",
     "link": "https://github.com/UNDERdecoded/Gen2Recomped-DramaticShapes",
     "genre1": "rpg",
