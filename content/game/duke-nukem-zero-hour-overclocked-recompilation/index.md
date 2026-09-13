@@ -8,7 +8,7 @@ params:
   genre1: "third-person-shooter"
   genre2: ""
   series: "Duke Nukem"
-  video_link: ""
+  video_link: "https://youtu.be/tZS5KNHYHgs?si=vDsA1aAeCPL9pyaF"
   date_added: "2026-09-13"
   image: ""
 ---
