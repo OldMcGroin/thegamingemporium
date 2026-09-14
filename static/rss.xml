@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:39:00 +0000</lastBuildDate>
     <item>
       <title>Armored Core Recompilation</title>
       <link>https://thegamingemporium.com/game/armored-core-recompilation/</link>
@@ -16,6 +16,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/armored-core-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/armored-core-recompilation.webp" alt="Armored Core Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Armored Core · Genre: third person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/armored-core-recompilation.webp" alt="Armored Core Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Armored Core · Genre: third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Spider Man and Spider Man 2: Enter Electro Recompilation</title>
+      <link>https://thegamingemporium.com/game/spider-man-and-spider-man-2-enter-electro-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/spider-man-and-spider-man-2-enter-electro-recompilation/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/spider-man-and-spider-man-2-enter-electro-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/spider-man-and-spider-man-2-enter-electro-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/spider-man-and-spider-man-2-enter-electro-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-and-spider-man-2-enter-electro-recompilation.webp" alt="Spider Man and Spider Man 2: Enter Electro Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: beat em up, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-and-spider-man-2-enter-electro-recompilation.webp" alt="Spider Man and Spider Man 2: Enter Electro Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: beat em up, action]]></content:encoded>
     </item>
     <item>
       <title>Duke Nukem Zero Hour Overclocked Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-settlers-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-settlers-pc-port.webp" alt="The Settlers PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: The Settlers · Genre: strategy]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-settlers-pc-port.webp" alt="The Settlers PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: The Settlers · Genre: strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Mario Kart Wii and Retro Rewind for Android</title>
-      <link>https://thegamingemporium.com/game/mario-kart-wii-and-retro-rewind-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-wii-and-retro-rewind-for-android/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-wii-and-retro-rewind-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-wii-and-retro-rewind-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-wii-and-retro-rewind-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-and-retro-rewind-for-android.webp" alt="Mario Kart Wii and Retro Rewind for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-and-retro-rewind-for-android.webp" alt="Mario Kart Wii and Retro Rewind for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>

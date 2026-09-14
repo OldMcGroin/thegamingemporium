@@ -39813,6 +39813,18 @@
     "series": "Armored Core",
     "video_link": "",
     "date_added": "2026-09-14"
+  },
+  {
+    "id": 3037,
+    "title": "Spider Man and Spider Man 2: Enter Electro Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/GTTeancum/OpenSpideyPS1",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-09-14"
   }
 
 
