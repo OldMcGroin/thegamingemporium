@@ -39825,6 +39825,30 @@
     "series": "Spiderman",
     "video_link": "",
     "date_added": "2026-09-14"
+  },
+  {
+    "id": 3038,
+    "title": "Spider Man: Edge of Time Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/GenryTheFox/Spider-Man-Edge-of-Time-PC-Edition",
+    "genre1": "adventure",
+    "genre2": "action",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-09-14"
+  },
+  {
+    "id": 3039,
+    "title": "Caesar 2 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://second-impressions.github.io/caesar2-port/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-14"
   }
 
 
