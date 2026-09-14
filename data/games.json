@@ -39801,6 +39801,18 @@
     "series": "Stunts",
     "video_link": "",
     "date_added": "2026-09-13"
+  },
+  {
+    "id": 3036,
+    "title": "Armored Core Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/omegakatana92/Armored-Core-Recomp",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Armored Core",
+    "video_link": "",
+    "date_added": "2026-09-14"
   }
 
 
