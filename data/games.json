@@ -39921,6 +39921,66 @@
     "series": "Wipeout",
     "video_link": "https://youtu.be/c8vjP2bmAZM?si=kNSOtVSAPvtDnHzK",
     "date_added": "2026-09-15"
+  },
+  {
+    "id": 3046,
+    "title": "5 CubeShelf – A launcher for Native GameCube PC Ports",
+    "category": "decompilations-recompilations",
+    "platform": "",
+    "link": "https://github.com/zeranemesis/CubeShelf-Launcher",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-15"
+  },
+  {
+    "id": 3047,
+    "title": "Goldeneye 007 PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/jkdansereau/goldeneye-pc-port",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "video_link": "",
+    "date_added": "2026-09-15"
+  },
+  {
+    "id": 3048,
+    "title": "Pilotwings 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/danielgomesvieira2000/pilotwings-64-recomp",
+    "genre1": "flight-simulator",
+    "genre2": "sports",
+    "series": "Pilotwings",
+    "video_link": "",
+    "date_added": "2026-09-15"
+  },
+  {
+    "id": 3049,
+    "title": "Colony Wars: Red Sun Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Alexbeav/colony-wars-red-sun-recomp",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Colony Wars",
+    "video_link": "",
+    "date_added": "2026-09-15"
+  },
+  {
+    "id": 3050,
+    "title": "Star Wars: Knights of the Old Republic PS Vita Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/ScoobyDouche/VitaKotor",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "date_added": "2026-09-15"
   }
 
 
