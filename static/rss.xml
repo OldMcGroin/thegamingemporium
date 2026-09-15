@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:18:53 +0000</lastBuildDate>
     <item>
       <title>Phantasy Star Online Episodes 1 and 2 in Browser</title>
       <link>https://thegamingemporium.com/game/phantasy-star-online-episodes-1-and-2-in-browser/</link>
@@ -27,6 +27,50 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ninja-gaiden-2-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ninja-gaiden-2-recompilation.webp" alt="Ninja Gaiden 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ninja Gaiden · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ninja-gaiden-2-recompilation.webp" alt="Ninja Gaiden 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ninja Gaiden · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>Mario Party 4 PC Port</title>
+      <link>https://thegamingemporium.com/game/mario-party-4-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-party-4-pc-port/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-party-4-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-party-4-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-party-4-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-party-4-pc-port.webp" alt="Mario Party 4 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: party game]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-party-4-pc-port.webp" alt="Mario Party 4 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: party game]]></content:encoded>
+    </item>
+    <item>
+      <title>Mario Kart 64 Xbox 360 Port with Online Multiplayer</title>
+      <link>https://thegamingemporium.com/game/mario-kart-64-xbox-360-port-with-online-multiplayer/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-64-xbox-360-port-with-online-multiplayer/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-64-xbox-360-port-with-online-multiplayer.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-64-xbox-360-port-with-online-multiplayer.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-64-xbox-360-port-with-online-multiplayer.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-xbox-360-port-with-online-multiplayer.webp" alt="Mario Kart 64 Xbox 360 Port with Online Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-64-xbox-360-port-with-online-multiplayer.webp" alt="Mario Kart 64 Xbox 360 Port with Online Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Portalgraph NES 3D Emulator</title>
+      <link>https://thegamingemporium.com/game/portalgraph-nes-3d-emulator/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/portalgraph-nes-3d-emulator/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/portalgraph-nes-3d-emulator.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/portalgraph-nes-3d-emulator.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/portalgraph-nes-3d-emulator.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portalgraph-nes-3d-emulator.webp" alt="Portalgraph NES 3D Emulator" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/portalgraph-nes-3d-emulator.webp" alt="Portalgraph NES 3D Emulator" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Wipeout 3 - Special Edition 100fps Patch</title>
+      <link>https://thegamingemporium.com/game/wipeout-3-special-edition-100fps-patch/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/wipeout-3-special-edition-100fps-patch/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wipeout-3-special-edition-100fps-patch.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/wipeout-3-special-edition-100fps-patch.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/wipeout-3-special-edition-100fps-patch.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wipeout-3-special-edition-100fps-patch.webp" alt="Wipeout 3 - Special Edition 100fps Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Wipeout · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wipeout-3-special-edition-100fps-patch.webp" alt="Wipeout 3 - Special Edition 100fps Patch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Wipeout · Genre: racing]]></content:encoded>
     </item>
     <item>
       <title>Armored Core Recompilation</title>
@@ -511,50 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" alt="Quake 2 PCVR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/quake-2-pcvr.webp" alt="Quake 2 PCVR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Quake · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokemon Homestead</title>
-      <link>https://thegamingemporium.com/game/pokemon-homestead/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-homestead/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" alt="Pokemon Homestead" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-homestead.webp" alt="Pokemon Homestead" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Fan Games · Series: Pokemon · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>The Legend of Zelda: Ocarina of Time 3D Recompilation</title>
-      <link>https://thegamingemporium.com/game/the-legend-of-zelda-ocarina-of-time-3d-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-ocarina-of-time-3d-recompilation/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-3d-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-3d-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-3d-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-3d-recompilation.webp" alt="The Legend of Zelda: Ocarina of Time 3D Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-ocarina-of-time-3d-recompilation.webp" alt="The Legend of Zelda: Ocarina of Time 3D Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Puyo Puyo Box Recompilation</title>
-      <link>https://thegamingemporium.com/game/puyo-puyo-box-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/puyo-puyo-box-recompilation/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/puyo-puyo-box-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/puyo-puyo-box-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/puyo-puyo-box-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/puyo-puyo-box-recompilation.webp" alt="Puyo Puyo Box Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Puyo Puyo · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/puyo-puyo-box-recompilation.webp" alt="Puyo Puyo Box Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Puyo Puyo · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>Crash Team Racing PC Port</title>
-      <link>https://thegamingemporium.com/game/crash-team-racing-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-team-racing-pc-port/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-pc-port.webp" alt="Crash Team Racing PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
