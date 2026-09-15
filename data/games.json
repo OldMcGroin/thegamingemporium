@@ -39981,6 +39981,30 @@
     "series": "Star Wars",
     "video_link": "",
     "date_added": "2026-09-15"
+  },
+  {
+    "id": 3051,
+    "title": "Pikmin for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Port/releases/tag/0.6",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Pikmin",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3052,
+    "title": "Super Smash Bros. Melee for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/999sian/melee-pc/releases/tag/v0.1.3-beta",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-16"
   }
 
 

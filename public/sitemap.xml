@@ -4238,6 +4238,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pikmin-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pikmin-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/pikmin-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/pillars-of-eternity/</loc>
@@ -6007,6 +6009,8 @@
     <loc>http://localhost:1313/game/super-smash-bros-melee-akaneia-build/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-melee-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-smash-bros-melee-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-smash-bros-melee-recompilation/</loc>
   </url><url>
