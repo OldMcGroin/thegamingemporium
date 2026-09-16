@@ -40065,6 +40065,54 @@
     "series": "Tiny Toon Adventures",
     "video_link": "",
     "date_added": "2026-09-16"
+  },
+  {
+    "id": 3058,
+    "title": "Silent Hill 1 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/SlickAmogus/silent-hill-decomp/releases/tag/crossplatform-beta",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3059,
+    "title": "6 Xbox 360 Native Ports List",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/CrownParkComputing/Xbox360-Native-Ports/releases#release-rez-v1",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3060,
+    "title": "International Superstar Soccer Deluxe Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/sergiomanzur/issd-native",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Pro Evolution Soccer",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3061,
+    "title": "Wave Race 64 with Ray Tracing Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/DomazinUS/RaceWave46",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Wave Race",
+    "video_link": "",
+    "date_added": "2026-09-16"
   }
 
 
