@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:12:04 +0000</lastBuildDate>
     <item>
       <title>Pikmin for Android</title>
       <link>https://thegamingemporium.com/game/pikmin-for-android/</link>
@@ -60,6 +60,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-vice-city-liberty-city-stories-new-nintendo-3ds-ports.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-vice-city-liberty-city-stories-new-nintendo-3ds-ports.webp" alt="Grand Theft Auto 3 - Vice City - Liberty City Stories - New Nintendo 3DS Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-vice-city-liberty-city-stories-new-nintendo-3ds-ports.webp" alt="Grand Theft Auto 3 - Vice City - Liberty City Stories - New Nintendo 3DS Ports" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Gameboy 3D Diorama Style Emulator in Browser</title>
+      <link>https://thegamingemporium.com/game/gameboy-3d-diorama-style-emulator-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gameboy-3d-diorama-style-emulator-in-browser/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gameboy-3d-diorama-style-emulator-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gameboy-3d-diorama-style-emulator-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gameboy-3d-diorama-style-emulator-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gameboy-3d-diorama-style-emulator-in-browser.webp" alt="Gameboy 3D Diorama Style Emulator in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gameboy-3d-diorama-style-emulator-in-browser.webp" alt="Gameboy 3D Diorama Style Emulator in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Tiny Toon Adventures: Buster's Hidden Treasure PC Port</title>
+      <link>https://thegamingemporium.com/game/tiny-toon-adventures-buster-s-hidden-treasure-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tiny-toon-adventures-buster-s-hidden-treasure-pc-port/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tiny-toon-adventures-buster-s-hidden-treasure-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tiny-toon-adventures-buster-s-hidden-treasure-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tiny-toon-adventures-buster-s-hidden-treasure-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tiny-toon-adventures-buster-s-hidden-treasure-pc-port.webp" alt="Tiny Toon Adventures: Buster's Hidden Treasure PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tiny Toon Adventures · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tiny-toon-adventures-buster-s-hidden-treasure-pc-port.webp" alt="Tiny Toon Adventures: Buster's Hidden Treasure PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tiny Toon Adventures · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Phantasy Star Online Episodes 1 and 2 in Browser</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" alt="Crash Bandicoot 2: Cortex Strikes Back Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-2-cortex-strikes-back-recompilation.webp" alt="Crash Bandicoot 2: Cortex Strikes Back Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Need for Speed 3: Hot Pursuit for Android</title>
-      <link>https://thegamingemporium.com/game/need-for-speed-3-hot-pursuit-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/need-for-speed-3-hot-pursuit-for-android/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/need-for-speed-3-hot-pursuit-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/need-for-speed-3-hot-pursuit-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/need-for-speed-3-hot-pursuit-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/need-for-speed-3-hot-pursuit-for-android.webp" alt="Need for Speed 3: Hot Pursuit for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Need for Speed · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/need-for-speed-3-hot-pursuit-for-android.webp" alt="Need for Speed 3: Hot Pursuit for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Need for Speed · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Samurai Shodown: Warriors Rage Recompilation</title>
-      <link>https://thegamingemporium.com/game/samurai-shodown-warriors-rage-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/samurai-shodown-warriors-rage-recompilation/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/samurai-shodown-warriors-rage-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/samurai-shodown-warriors-rage-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/samurai-shodown-warriors-rage-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/samurai-shodown-warriors-rage-recompilation.webp" alt="Samurai Shodown: Warriors Rage Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Samurai Shodown · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/samurai-shodown-warriors-rage-recompilation.webp" alt="Samurai Shodown: Warriors Rage Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Samurai Shodown · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>

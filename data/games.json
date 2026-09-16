@@ -40041,6 +40041,30 @@
     "series": "Grand Theft Auto",
     "video_link": "https://youtu.be/fBzzLx0BX5M?si=Q_opL4kWcSzSiv2z",
     "date_added": "2026-09-16"
+  },
+  {
+    "id": 3056,
+    "title": "Gameboy 3D Diorama Style Emulator in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://vrcade.uk/gameboy/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3057,
+    "title": "Tiny Toon Adventures: Buster's Hidden Treasure PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Sega Megadrive",
+    "link": "https://github.com/Darhkfox/busters-hidden-treasure-pc",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Tiny Toon Adventures",
+    "video_link": "",
+    "date_added": "2026-09-16"
   }
 
 
