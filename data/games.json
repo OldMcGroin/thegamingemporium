@@ -40005,6 +40005,42 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-16"
+  },
+  {
+    "id": 3053,
+    "title": "Silent Hill: United - Multiplayer Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://github.com/Depmify/Silent-Hill-United-Public",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3054,
+    "title": "Resident Evil: Shattered - Multiplayer Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://depmify.github.io/Resident-Evil-SHATTERED/",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Resident Evil",
+    "video_link": "",
+    "date_added": "2026-09-16"
+  },
+  {
+    "id": 3055,
+    "title": "Grand Theft Auto 3 - Vice City - Liberty City Stories - New Nintendo 3DS Ports",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/Epic0522/REGTA-3DSPort-Complete",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "https://youtu.be/fBzzLx0BX5M?si=Q_opL4kWcSzSiv2z",
+    "date_added": "2026-09-16"
   }
 
 
