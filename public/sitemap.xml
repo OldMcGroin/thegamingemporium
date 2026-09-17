@@ -514,6 +514,10 @@
   </url><url>
     <loc>http://localhost:1313/series/beep-8/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/beetle-adventure-racing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/beetle-adventure-racing-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/beginner-s-snes-hacking-guide/</loc>
   </url><url>
     <loc>http://localhost:1313/series/belzerion/</loc>
@@ -4139,6 +4143,8 @@
     <loc>http://localhost:1313/game/paper-mario-the-thousand-year-door-encore/</loc>
   </url><url>
     <loc>http://localhost:1313/game/paper-mario-tower-of-trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/paperboat-paper-mario-64-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/paperboy/</loc>
   </url><url>

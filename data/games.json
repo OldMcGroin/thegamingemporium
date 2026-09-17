@@ -40113,6 +40113,30 @@
     "series": "Wave Race",
     "video_link": "",
     "date_added": "2026-09-16"
+  },
+  {
+    "id": 3062,
+    "title": "Beetle Adventure Racing Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/danielgomesvieira2000/beetle-adventure-racing-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Beetle Adventure Racing",
+    "video_link": "",
+    "date_added": "2026-09-17"
+  },
+  {
+    "id": 3063,
+    "title": "PaperBoat - Paper Mario 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/HarbourMasters/PaperBoat",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-17"
   }
 
 
