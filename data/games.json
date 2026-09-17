@@ -40137,6 +40137,90 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-17"
+  },
+  {
+    "id": 3064,
+    "title": "Mega Man X2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/mstan/MegaManX2Recomp",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Mega Man",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3065,
+    "title": "Lufia 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/Cellenseres/Lufia2SNESRecomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Lufia",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3066,
+    "title": "Body Harvest Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/danielgomesvieira2000/body-harvest-recomp",
+    "genre1": "third-person-shooter",
+    "genre2": "adventure",
+    "series": "Body Harvest",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3067,
+    "title": "Metal Gear Solid VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/Baywilly/Metal-Gear-Solid-VR-Standalone",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Metal Gear",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3068,
+    "title": "Deus Ex: Human Revolution VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/farmerarmor/DeusExHRVR",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Deus Ex",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3069,
+    "title": "Need for Speed: Most Wanted Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/madelrandel-blip/NFSMW-Recompiled",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need for Speed",
+    "video_link": "",
+    "date_added": "2026-09-18"
+  },
+  {
+    "id": 3070,
+    "title": "Sonic R Dreamcast Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://colab.research.google.com/drive/1Ss1Dzn1lDjZirpeqZ1F9pikTpFTlNXHA?usp=sharing",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-18"
   }
 
 

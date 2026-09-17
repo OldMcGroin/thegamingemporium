@@ -638,6 +638,8 @@
   </url><url>
     <loc>http://localhost:1313/game/body-harvest-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/body-harvest-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/bomb-jack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bomb-jack-dx/</loc>
@@ -1419,6 +1421,8 @@
     <loc>http://localhost:1313/genres/destruction-derby/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dethrace-labs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/deus-ex-human-revolution-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/deus-ex-nihilum/</loc>
   </url><url>
@@ -3174,6 +3178,10 @@
   </url><url>
     <loc>http://localhost:1313/series/luanti/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/lufia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/lufia-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/luigi-s-mansion-louie-mansion-pikmin-overhaul-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/luigi-s-mansion-decompilation/</loc>
@@ -3452,6 +3460,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x-viral-nightmare/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mega-man-x2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mega-man-x4-knot-beret/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-x4-recompilation/</loc>
@@ -3503,6 +3513,8 @@
     <loc>http://localhost:1313/game/metal-gear-solid-fan-remake/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-v-the-phantom-pain-ground-zeroes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/metal-gear-solid-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-the-twin-snakes-decompilation/</loc>
   </url><url>
@@ -3805,6 +3817,8 @@
     <loc>http://localhost:1313/game/need-for-speed-high-stakes-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/need-for-speed-most-wanted-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/need-for-speed-most-wanted-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/need-for-speed-underground-decompilation/</loc>
   </url><url>
@@ -5407,6 +5421,8 @@
     <loc>http://localhost:1313/game/sonic-project-forestation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-r-r-r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-r-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-riders-decompilation/</loc>
   </url><url>
