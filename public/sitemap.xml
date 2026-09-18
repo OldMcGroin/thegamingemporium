@@ -12,11 +12,15 @@
   </url><url>
     <loc>http://localhost:1313/game/1-obtainium/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/1-romhack-patcher/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/1-the-multiverse-vr-hub/</loc>
   </url><url>
     <loc>http://localhost:1313/series/1080-snowboarding/</loc>
   </url><url>
     <loc>http://localhost:1313/game/1080-snowboarding-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/2-hackhash/</loc>
   </url><url>
     <loc>http://localhost:1313/game/2-mrsurviv0r-s-vr-hub/</loc>
   </url><url>
@@ -794,6 +798,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlemania-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevaania-simon-s-legaacy/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/castlevania/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-eternity-of-sorrow/</loc>
@@ -1446,6 +1452,8 @@
   </url><url>
     <loc>http://localhost:1313/series/diablo/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/diablo-2-ps-vita-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/diablo-3-xbox-360-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diablo-in-browser/</loc>
@@ -1875,6 +1883,8 @@
     <loc>http://localhost:1313/game/enigma/</loc>
   </url><url>
     <loc>http://localhost:1313/series/eternal-sonata/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/eternal-sonata-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/eternal-sonata-recompilation/</loc>
   </url><url>
@@ -2646,6 +2656,8 @@
   </url><url>
     <loc>http://localhost:1313/game/hollow-knight-android-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/hollow-knight-silksong-with-steam-achievements-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/hollow-knight-silksong-dual-screen-android-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hollow-knight-silksong-for-android/</loc>
@@ -2781,6 +2793,8 @@
     <loc>http://localhost:1313/series/inscryption/</loc>
   </url><url>
     <loc>http://localhost:1313/game/inscryption-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/international-superstar-soccer-deluxe-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/international-superstar-soccer-deluxe-recompilation/</loc>
   </url><url>
@@ -3775,6 +3789,8 @@
     <loc>http://localhost:1313/series/naruto/</loc>
   </url><url>
     <loc>http://localhost:1313/game/naruto-gekitou-ninja-taisen-4-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/naruto-storm-generations-v2/</loc>
   </url><url>
     <loc>http://localhost:1313/series/nascar-racing/</loc>
   </url><url>
@@ -5424,6 +5440,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-r-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-r-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-riders-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-riders-tournament-edition/</loc>
@@ -6253,6 +6271,8 @@
     <loc>http://localhost:1313/game/terraria-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/test-drive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/test-drive-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/test-drive-unlimited/</loc>
   </url><url>
