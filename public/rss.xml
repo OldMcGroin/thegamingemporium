@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 19 Sep 2026 22:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Super Mario Strikers for Android</title>
+      <link>https://thegamingemporium.com/game/super-mario-strikers-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-strikers-for-android/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-strikers-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-strikers-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-strikers-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-strikers-for-android.webp" alt="Super Mario Strikers for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: sports]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-strikers-for-android.webp" alt="Super Mario Strikers for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: sports]]></content:encoded>
+    </item>
     <item>
       <title>Ace Combat 5 Recompilation</title>
       <link>https://thegamingemporium.com/game/ace-combat-5-recompilation/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-united-multiplayer-mod.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-united-multiplayer-mod.webp" alt="Silent Hill: United - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Silent Hill · Genre: survival horror]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-united-multiplayer-mod.webp" alt="Silent Hill: United - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Silent Hill · Genre: survival horror]]></content:encoded>
-    </item>
-    <item>
-      <title>Resident Evil: Shattered - Multiplayer Mod</title>
-      <link>https://thegamingemporium.com/game/resident-evil-shattered-multiplayer-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/resident-evil-shattered-multiplayer-mod/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/resident-evil-shattered-multiplayer-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/resident-evil-shattered-multiplayer-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/resident-evil-shattered-multiplayer-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-shattered-multiplayer-mod.webp" alt="Resident Evil: Shattered - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/resident-evil-shattered-multiplayer-mod.webp" alt="Resident Evil: Shattered - Multiplayer Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Resident Evil · Genre: survival horror]]></content:encoded>
     </item>
   </channel>
 </rss>
