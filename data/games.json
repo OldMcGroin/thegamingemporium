@@ -40365,6 +40365,30 @@
     "series": "Perfect Dark",
     "video_link": "",
     "date_added": "2026-09-18"
+  },
+  {
+    "id": 3083,
+    "title": "Ace Combat 5 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/sal063/Ace-Combat-5-Static-recompilation",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "series": "Ace Combat",
+    "video_link": "",
+    "date_added": "2026-09-19"
+  },
+  {
+    "id": 3084,
+    "title": "Super Robot Wars 64 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/dyzz/srw64-recomp",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Super Robot Wars",
+    "video_link": "",
+    "date_added": "2026-09-19"
   }
 
 
