@@ -1026,6 +1026,8 @@
   </url><url>
     <loc>http://localhost:1313/game/colin-mcrae-rally-2-0-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/colin-mcrae-rally-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/colonization/</loc>
   </url><url>
     <loc>http://localhost:1313/series/colony-wars/</loc>
@@ -1155,6 +1157,8 @@
     <loc>http://localhost:1313/game/crash-bandicoot-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-the-wrath-of-cortex-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crash-bash-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-tag-team-racing-gamecube-decompilation/</loc>
   </url><url>
@@ -1944,6 +1948,8 @@
   </url><url>
     <loc>http://localhost:1313/game/f-zero-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/f-zero-recompilation-2/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/f-zero-x-climax/</loc>
   </url><url>
     <loc>http://localhost:1313/game/f-zero-x-decompilation/</loc>
@@ -2051,6 +2057,8 @@
     <loc>http://localhost:1313/series/far-cry/</loc>
   </url><url>
     <loc>http://localhost:1313/game/far-cry-3-hd-texture-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/far-cry-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/farland-symphony/</loc>
   </url><url>
@@ -3652,6 +3660,8 @@
   </url><url>
     <loc>http://localhost:1313/game/minecraft-arnis/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/minecraft-attack-on-titan-mod/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/minecraft-dungeons-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/minecraft-on-steam-deck/</loc>
@@ -4405,6 +4415,10 @@
     <loc>http://localhost:1313/game/pokemon-aether-white-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-battle-revolution-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-blaze-online/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokemon-blaze-online-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemon-blue-vr/</loc>
   </url><url>
@@ -7326,6 +7340,8 @@
   </url><url>
     <loc>http://localhost:1313/game/world-of-warcraft-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/world-of-warcraft-xbox-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/world-racing/</loc>
   </url><url>
     <loc>http://localhost:1313/series/worms/</loc>
@@ -7451,6 +7467,8 @@
     <loc>http://localhost:1313/game/zanma-chouougi-valhollian-sega-saturn/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-2-enhanced-pc-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zelda-2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zelda-64-recompiled-majora-s-mask-with-mod-support/</loc>
   </url><url>

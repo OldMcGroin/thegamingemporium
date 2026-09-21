@@ -40689,7 +40689,117 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-20"
+  },
+  {
+    "id": 3110,
+    "title": "Crash Bash in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://crashbash.app/",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3111,
+    "title": "Zelda 2 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://www.z2rs.com/",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3112,
+    "title": "F-Zero Recompilation 2",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/mstan/FZeroSNESRecomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "F-Zero",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3113,
+    "title": "Colin McRae Rally Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/WeAnitTommyBruh/Colin-McRae-Rally-Recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Colin McRae",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3114,
+    "title": "World of Warcraft Xbox Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/TommySanzCode/WoWx",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Warcraft",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3115,
+    "title": "Minecraft - Attack on Titan Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dannys-aot",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Minecraft",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3116,
+    "title": "Pokemon Blaze Online",
+    "category": "fan-games",
+    "platform": "",
+    "link": "https://www.pokemonblazeonline.com/?utm_source=reddit&utm_medium=organic_social&utm_campaign=theperfectpokemongame&utm_content=game_showcase",
+    "genre1": "MMORPG",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3117,
+    "title": "Pokemon Blaze Online in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://www.pokemonblazeonline.com/?utm_source=reddit&utm_medium=organic_social&utm_campaign=theperfectpokemongame&utm_content=game_showcase",
+    "genre1": "MMORPG",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-21"
+  },
+  {
+    "id": 3118,
+    "title": "Far Cry for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Player124413/NearChuckle-android-edition",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Far Cry",
+    "video_link": "",
+    "date_added": "2026-09-21"
   }
+
+
 
 
 
