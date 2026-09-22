@@ -8364,8 +8364,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 640,
@@ -39079,7 +39078,8 @@
     "video_link": "https://youtu.be/CF_Gm9jJ0oU?si=KGxCI7q34JNs2OUL",
     "notes": "",
     "date_added": "2026-09-05",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 2978,
@@ -40940,6 +40940,102 @@
     "genre1": "third-person-shooter",
     "genre2": "",
     "series": "Wet",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3131,
+    "title": "Hollowmark in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://hollowmark.mindblown.ai/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Doom",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3132,
+    "title": "Sponge Bob Square Pants: Battle for Bikini Bottom Deluxe",
+    "category": "mods",
+    "platform": "",
+    "link": "https://heavyironmodding.org/wiki/Battle_for_Bikini_Bottom_DELUXE",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3133,
+    "title": "Autorun - Play PC Games on Switch",
+    "category": "utility",
+    "platform": "",
+    "link": "https://github.com/danfromtico/autorun",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3134,
+    "title": "Wild Arms Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/wild-arms-recomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Wild Arms",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3135,
+    "title": "Paper Mario 64 PS Vita Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/kaziema/pmvita",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3136,
+    "title": "Super Smash Bros. Melee PS Vita Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/zm2283145/melee-Vita",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3137,
+    "title": "New 3DS Minecraft Patched To Run On the Old 3DS",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/s4ammy/3DSMinecraft",
+    "genre1": "sandbox",
+    "genre2": "adventure",
+    "series": "Minecraft",
+    "video_link": "",
+    "date_added": "2026-09-22"
+  },
+  {
+    "id": 3138,
+    "title": "Dark Souls 2 - Seamless Co-op",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.nexusmods.com/darksouls2/mods/1468",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Dark Souls",
     "video_link": "",
     "date_added": "2026-09-22"
   }
