@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 23 Sep 2026 10:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:14:31 +0000</lastBuildDate>
     <item>
       <title>Spider Man: Edge of Time Recompilation</title>
       <link>https://thegamingemporium.com/game/spider-man-edge-of-time-recompilation/</link>
@@ -62,15 +62,59 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-recompilation-tag-fighter.webp" alt="Super Smash Bros. Melee Recompilation - Tag Fighter" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: fighting]]></content:encoded>
     </item>
     <item>
-      <title>Jet Force Gemini PC Port</title>
-      <link>https://thegamingemporium.com/game/jet-force-gemini-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/jet-force-gemini-pc-port/</guid>
+      <title>GoldenEye 007 Plus</title>
+      <link>https://thegamingemporium.com/game/goldeneye-007-plus/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-007-plus/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/jet-force-gemini-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/jet-force-gemini-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/jet-force-gemini-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jet-force-gemini-pc-port.webp" alt="Jet Force Gemini PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jet Force Gemini · Genre: third person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/jet-force-gemini-pc-port.webp" alt="Jet Force Gemini PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Jet Force Gemini · Genre: third person shooter]]></content:encoded>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-007-plus.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-007-plus.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-007-plus.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-007-plus.webp" alt="GoldenEye 007 Plus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: third person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-007-plus.webp" alt="GoldenEye 007 Plus" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: 007 · Genre: third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Senko no Ronde SP Sega Dreamcast Port</title>
+      <link>https://thegamingemporium.com/game/senko-no-ronde-sp-sega-dreamcast-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/senko-no-ronde-sp-sega-dreamcast-port/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/senko-no-ronde-sp-sega-dreamcast-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/senko-no-ronde-sp-sega-dreamcast-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/senko-no-ronde-sp-sega-dreamcast-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/senko-no-ronde-sp-sega-dreamcast-port.webp" alt="Senko no Ronde SP Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Senko no Ronde SP · Genre: fighting, shoot em up]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/senko-no-ronde-sp-sega-dreamcast-port.webp" alt="Senko no Ronde SP Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Senko no Ronde SP · Genre: fighting, shoot em up]]></content:encoded>
+    </item>
+    <item>
+      <title>Bushido Blade 2 Recompilation</title>
+      <link>https://thegamingemporium.com/game/bushido-blade-2-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/bushido-blade-2-recompilation/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bushido-blade-2-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/bushido-blade-2-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/bushido-blade-2-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bushido-blade-2-recompilation.webp" alt="Bushido Blade 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bushido Blade · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bushido-blade-2-recompilation.webp" alt="Bushido Blade 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bushido Blade · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>Destruction Derby Raw Recompilation</title>
+      <link>https://thegamingemporium.com/game/destruction-derby-raw-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/destruction-derby-raw-recompilation/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/destruction-derby-raw-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/destruction-derby-raw-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/destruction-derby-raw-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destruction-derby-raw-recompilation.webp" alt="Destruction Derby Raw Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Destruction Derby · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/destruction-derby-raw-recompilation.webp" alt="Destruction Derby Raw Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Destruction Derby · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Dino Crisis Modern Controls Mod</title>
+      <link>https://thegamingemporium.com/game/dino-crisis-modern-controls-mod/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/dino-crisis-modern-controls-mod/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dino-crisis-modern-controls-mod.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/dino-crisis-modern-controls-mod.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/dino-crisis-modern-controls-mod.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dino-crisis-modern-controls-mod.webp" alt="Dino Crisis Modern Controls Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Dino Crisis · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dino-crisis-modern-controls-mod.webp" alt="Dino Crisis Modern Controls Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Dino Crisis · Genre: survival horror]]></content:encoded>
     </item>
     <item>
       <title>Monkey Ball Sega Dreamcast Port</title>
@@ -511,50 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/metroid-prime-hunters-recompilation-for-ayn-thor.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metroid-prime-hunters-recompilation-for-ayn-thor.webp" alt="Metroid Prime Hunters Recompilation for AYN Thor" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Metroid · Genre: metroidvania, first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metroid-prime-hunters-recompilation-for-ayn-thor.webp" alt="Metroid Prime Hunters Recompilation for AYN Thor" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Metroid · Genre: metroidvania, first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Bad Time Simulator in Browser</title>
-      <link>https://thegamingemporium.com/game/bad-time-simulator-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bad-time-simulator-in-browser/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bad-time-simulator-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bad-time-simulator-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bad-time-simulator-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bad-time-simulator-in-browser.webp" alt="Bad Time Simulator in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Bad Time Simulator · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bad-time-simulator-in-browser.webp" alt="Bad Time Simulator in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Bad Time Simulator · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario RPG Demake</title>
-      <link>https://thegamingemporium.com/game/super-mario-rpg-demake/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-rpg-demake/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-rpg-demake.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-rpg-demake.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-rpg-demake.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-rpg-demake.webp" alt="Super Mario RPG Demake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-rpg-demake.webp" alt="Super Mario RPG Demake" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Rom Hacks · Series: Super Mario · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Disruptor Recompilation</title>
-      <link>https://thegamingemporium.com/game/disruptor-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/disruptor-recompilation/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/disruptor-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/disruptor-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/disruptor-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/disruptor-recompilation.webp" alt="Disruptor Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Disruptor · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/disruptor-recompilation.webp" alt="Disruptor Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Disruptor · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Country Draw in Browser</title>
-      <link>https://thegamingemporium.com/game/country-draw-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/country-draw-in-browser/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/country-draw-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/country-draw-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/country-draw-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/country-draw-in-browser.webp" alt="Country Draw in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Country Draw · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/country-draw-in-browser.webp" alt="Country Draw in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Country Draw · Genre: puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>

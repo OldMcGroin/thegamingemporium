@@ -41088,15 +41088,66 @@
   },
   {
     "id": 3143,
-    "title": "Jet Force Gemini PC Port",
+    "title": "GoldenEye 007 Plus",
     "category": "decompilations-recompilations",
     "platform": "Nintendo 64",
-    "link": "https://github.com/djorgri/Project64JFG",
+    "link": "https://github.com/Joshua-1248/GoldenEye-007-Plus",
     "genre1": "third-person-shooter",
     "genre2": "",
-    "series": "Jet Force Gemini",
+    "series": "007",
     "video_link": "",
-    "date_added": "2026-09-23",
-    "hidden": true
-  }
+    "date_added": "2026-09-23"
+    },
+      {
+    "id": 3144,
+    "title": "Senko no Ronde SP Sega Dreamcast Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://dreamcast-talk.com/forum/viewtopic.php?p=204937#p204937",
+    "genre1": "fighting",
+    "genre2": "shoot-em-up",
+    "series": "Senko no Ronde SP",
+    "video_link": "https://youtu.be/Xbyh87nn97E?si=Q6xyOTlBhZ_fXyaF",
+    "date_added": "2026-09-23"
+    },
+      {
+    "id": 3145,
+    "title": "Bushido Blade 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/bushido-blade-2-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Bushido Blade",
+    "video_link": "",
+    "date_added": "2026-09-23"
+    },
+      {
+    "id": 3146,
+    "title": "Destruction Derby Raw Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/destruction-derby-raw-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Destruction Derby",
+    "video_link": "",
+    "date_added": "2026-09-23"
+    },
+      {
+    "id": 3147,
+    "title": "Dino Crisis Modern Controls Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://github.com/nahuelx32/dino-crisis-modern-controls",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Dino Crisis",
+    "video_link": "",
+    "date_added": "2026-09-23"
+    }
+
+
+
+
 ]
