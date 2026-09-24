@@ -2244,6 +2244,8 @@
   </url><url>
     <loc>http://localhost:1313/game/flashback-sega-saturn-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/flashback-sega-master-system-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/flight-simulator/</loc>
   </url><url>
     <loc>http://localhost:1313/game/flightgear/</loc>
@@ -6023,6 +6025,8 @@
     <loc>http://localhost:1313/game/super-mario-3d-land-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-3d-world-bowser-s-fury-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-3d-world-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-playstation-port/</loc>
   </url><url>
