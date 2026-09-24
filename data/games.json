@@ -41217,7 +41217,91 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-24"
-    }
+    },
+ {
+    "id": 3154,
+    "title": "Vigilante 8 and Vigilante 8: 2nd Offense Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/GTTeancum/Vigilante-8-recomp",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "Vigilante 8",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3155,
+    "title": "Mortal Kombat vs. DC Universe Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/KawaiiBunga/MKVDCU-Recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Mortal Kombat",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3156,
+    "title": "Werdle in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://bludle.com/werdle/",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Werdle",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3157,
+    "title": "LEGO Star Wars: The Complete Saga Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://opensaga.dev/",
+    "genre1": "action",
+    "genre2": "sandbox",
+    "series": "Lego",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3158,
+    "title": "Digimon World 2 Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/Wyrelade/Digimon-World-2-Decomp",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Digimon",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3159,
+    "title": "Sonic Adventure 2: Battle Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/roeming/SA2B",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-24"
+},
+ {
+    "id": 3160,
+    "title": "KytyPS5 - Open-Source PlayStation 5 Emulator",
+    "category": "utility",
+    "platform": "",
+    "link": "https://kytyps5.github.io/",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-24"
+}
 
 
 
