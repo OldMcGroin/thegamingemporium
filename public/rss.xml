@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 25 Sep 2026 13:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:45:28 +0000</lastBuildDate>
     <item>
       <title>GTA: Liberty City Stories Recompilation</title>
       <link>https://thegamingemporium.com/game/gta-liberty-city-stories-recompilation/</link>
@@ -60,6 +60,215 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-snap-vr.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-snap-vr.webp" alt="Pokemon Snap VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Pokemon · Genre: on rails shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-snap-vr.webp" alt="Pokemon Snap VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Pokemon · Genre: on rails shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>WarioWare: Twisted! Recompilation</title>
+      <link>https://thegamingemporium.com/game/warioware-twisted-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/warioware-twisted-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation.webp" alt="WarioWare: Twisted! Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation.webp" alt="WarioWare: Twisted! Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>WarioWare: Twisted! Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/warioware-twisted-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/warioware-twisted-recompilation-for-android/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation-for-android.webp" alt="WarioWare: Twisted! Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/warioware-twisted-recompilation-for-android.webp" alt="WarioWare: Twisted! Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Sonic the Hedgehog 2006 Recompilation</title>
+      <link>https://thegamingemporium.com/game/sonic-the-hedgehog-2006-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-the-hedgehog-2006-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2006-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2006-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2006-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2006-recompilation.webp" alt="Sonic the Hedgehog 2006 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-hedgehog-2006-recompilation.webp" alt="Sonic the Hedgehog 2006 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Duck Hunt Recompilation</title>
+      <link>https://thegamingemporium.com/game/duck-hunt-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/duck-hunt-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/duck-hunt-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/duck-hunt-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/duck-hunt-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duck-hunt-recompilation.webp" alt="Duck Hunt Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duck Hunt · Genre: light gun shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/duck-hunt-recompilation.webp" alt="Duck Hunt Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duck Hunt · Genre: light gun shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Faxanadu Recompilation</title>
+      <link>https://thegamingemporium.com/game/faxanadu-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/faxanadu-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/faxanadu-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/faxanadu-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/faxanadu-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/faxanadu-recompilation.webp" alt="Faxanadu Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Faxanadu · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/faxanadu-recompilation.webp" alt="Faxanadu Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Faxanadu · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Gumshoe Recompilation</title>
+      <link>https://thegamingemporium.com/game/gumshoe-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gumshoe-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gumshoe-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gumshoe-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gumshoe-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gumshoe-recompilation.webp" alt="Gumshoe Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Gumshoe · Genre: light gun shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gumshoe-recompilation.webp" alt="Gumshoe Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Gumshoe · Genre: light gun shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Knuckles' Chaotix Recompilation</title>
+      <link>https://thegamingemporium.com/game/knuckles-chaotix-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/knuckles-chaotix-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knuckles-chaotix-recompilation.webp" alt="Knuckles' Chaotix Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knuckles-chaotix-recompilation.webp" alt="Knuckles' Chaotix Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Mega Man 3 Recompilation</title>
+      <link>https://thegamingemporium.com/game/mega-man-3-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mega-man-3-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mega-man-3-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mega-man-3-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-3-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-3-recompilation.webp" alt="Mega Man 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-3-recompilation.webp" alt="Mega Man 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Mega Man Zero Recompilation</title>
+      <link>https://thegamingemporium.com/game/mega-man-zero-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/mega-man-zero-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mega-man-zero-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/mega-man-zero-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/mega-man-zero-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-zero-recompilation.webp" alt="Mega Man Zero Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mega-man-zero-recompilation.webp" alt="Mega Man Zero Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Mega Man · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Shrek Recompilation</title>
+      <link>https://thegamingemporium.com/game/shrek-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/shrek-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shrek-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/shrek-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/shrek-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shrek-recompilation.webp" alt="Shrek Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shrek · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shrek-recompilation.webp" alt="Shrek Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shrek · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario Advance 2: Super Mario World Recompilation</title>
+      <link>https://thegamingemporium.com/game/super-mario-advance-2-super-mario-world-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-advance-2-super-mario-world-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-advance-2-super-mario-world-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-advance-2-super-mario-world-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-advance-2-super-mario-world-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-advance-2-super-mario-world-recompilation.webp" alt="Super Mario Advance 2: Super Mario World Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-advance-2-super-mario-world-recompilation.webp" alt="Super Mario Advance 2: Super Mario World Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario Advance 4: Super Mario Bros. 3 Recompilation</title>
+      <link>https://thegamingemporium.com/game/super-mario-advance-4-super-mario-bros-3-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-advance-4-super-mario-bros-3-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-advance-4-super-mario-bros-3-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-advance-4-super-mario-bros-3-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-advance-4-super-mario-bros-3-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-advance-4-super-mario-bros-3-recompilation.webp" alt="Super Mario Advance 4: Super Mario Bros. 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-advance-4-super-mario-bros-3-recompilation.webp" alt="Super Mario Advance 4: Super Mario Bros. 3 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>The Legend of Zelda Recompilation</title>
+      <link>https://thegamingemporium.com/game/the-legend-of-zelda-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-recompilation.webp" alt="The Legend of Zelda Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-recompilation.webp" alt="The Legend of Zelda Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Yoshi Recompilation</title>
+      <link>https://thegamingemporium.com/game/yoshi-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/yoshi-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/yoshi-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/yoshi-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/yoshi-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-recompilation.webp" alt="Yoshi Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-recompilation.webp" alt="Yoshi Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Yoshi's Cookie Recompilation</title>
+      <link>https://thegamingemporium.com/game/yoshi-s-cookie-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/yoshi-s-cookie-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/yoshi-s-cookie-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/yoshi-s-cookie-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/yoshi-s-cookie-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-s-cookie-recompilation.webp" alt="Yoshi's Cookie Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-s-cookie-recompilation.webp" alt="Yoshi's Cookie Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Metroid Recompilation</title>
+      <link>https://thegamingemporium.com/game/metroid-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/metroid-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/metroid-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/metroid-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/metroid-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metroid-recompilation.webp" alt="Metroid Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metroid · Genre: metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metroid-recompilation.webp" alt="Metroid Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metroid · Genre: metroidvania]]></content:encoded>
+    </item>
+    <item>
+      <title>Toy Story 2 - Buzz Lightyear to the Rescue Recompilation</title>
+      <link>https://thegamingemporium.com/game/toy-story-2-buzz-lightyear-to-the-rescue-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/toy-story-2-buzz-lightyear-to-the-rescue-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-recompilation.webp" alt="Toy Story 2 - Buzz Lightyear to the Rescue Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Toy Story · Genre: platformer, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-recompilation.webp" alt="Toy Story 2 - Buzz Lightyear to the Rescue Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Toy Story · Genre: platformer, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Forza Motorsport 4 Recompilation</title>
+      <link>https://thegamingemporium.com/game/forza-motorsport-4-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/forza-motorsport-4-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/forza-motorsport-4-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/forza-motorsport-4-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/forza-motorsport-4-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/forza-motorsport-4-recompilation.webp" alt="Forza Motorsport 4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Forza · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/forza-motorsport-4-recompilation.webp" alt="Forza Motorsport 4 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Forza · Genre: racing]]></content:encoded>
+    </item>
+    <item>
+      <title>Rayman Origins Recompilation</title>
+      <link>https://thegamingemporium.com/game/rayman-origins-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/rayman-origins-recompilation/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" alt="Rayman Origins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Rayman · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" alt="Rayman Origins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Rayman · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>Star Wars Trilogy Arcade Sega Dreamcast Port</title>
@@ -346,215 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/cruel-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cruel-for-android.webp" alt="Cruel for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Cruel · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cruel-for-android.webp" alt="Cruel for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Cruel · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Fable 2 Recompilation</title>
-      <link>https://thegamingemporium.com/game/fable-2-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/fable-2-recompilation/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/fable-2-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/fable-2-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/fable-2-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fable-2-recompilation.webp" alt="Fable 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Fable · Genre: rpg, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/fable-2-recompilation.webp" alt="Fable 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Fable · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>The Tower of Zeldaga in Browser</title>
-      <link>https://thegamingemporium.com/game/the-tower-of-zeldaga-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/the-tower-of-zeldaga-in-browser/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-tower-of-zeldaga-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/the-tower-of-zeldaga-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/the-tower-of-zeldaga-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-tower-of-zeldaga-in-browser.webp" alt="The Tower of Zeldaga in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: The Legend of Zelda · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-tower-of-zeldaga-in-browser.webp" alt="The Tower of Zeldaga in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: The Legend of Zelda · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Mario Kart Wii PlayStation 5 Port</title>
-      <link>https://thegamingemporium.com/game/mario-kart-wii-playstation-5-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mario-kart-wii-playstation-5-port/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mario-kart-wii-playstation-5-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mario-kart-wii-playstation-5-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mario-kart-wii-playstation-5-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-playstation-5-port.webp" alt="Mario Kart Wii PlayStation 5 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mario-kart-wii-playstation-5-port.webp" alt="Mario Kart Wii PlayStation 5 Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Family Guy Xbox 360 Prototype</title>
-      <link>https://thegamingemporium.com/game/family-guy-xbox-360-prototype/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/family-guy-xbox-360-prototype/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/family-guy-xbox-360-prototype.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/family-guy-xbox-360-prototype.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/family-guy-xbox-360-prototype.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/family-guy-xbox-360-prototype.webp" alt="Family Guy Xbox 360 Prototype" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/family-guy-xbox-360-prototype.webp" alt="Family Guy Xbox 360 Prototype" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Preserved Games · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Hexen 2 - Hexenwail in Browser</title>
-      <link>https://thegamingemporium.com/game/hexen-2-hexenwail-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/hexen-2-hexenwail-in-browser/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hexen-2-hexenwail-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/hexen-2-hexenwail-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/hexen-2-hexenwail-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hexen-2-hexenwail-in-browser.webp" alt="Hexen 2 - Hexenwail in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Hexen · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hexen-2-hexenwail-in-browser.webp" alt="Hexen 2 - Hexenwail in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Hexen · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Gran Turismo 2 VR</title>
-      <link>https://thegamingemporium.com/game/gran-turismo-2-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/gran-turismo-2-vr/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gran-turismo-2-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/gran-turismo-2-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/gran-turismo-2-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gran-turismo-2-vr.webp" alt="Gran Turismo 2 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Gran Turismo · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gran-turismo-2-vr.webp" alt="Gran Turismo 2 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Gran Turismo · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Shadow Tower Recompilation</title>
-      <link>https://thegamingemporium.com/game/shadow-tower-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/shadow-tower-recompilation/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/shadow-tower-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/shadow-tower-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/shadow-tower-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-tower-recompilation.webp" alt="Shadow Tower Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shadow Tower · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shadow-tower-recompilation.webp" alt="Shadow Tower Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shadow Tower · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Sega Rally 2 PC Patcher</title>
-      <link>https://thegamingemporium.com/game/sega-rally-2-pc-patcher/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sega-rally-2-pc-patcher/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sega-rally-2-pc-patcher.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sega-rally-2-pc-patcher.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sega-rally-2-pc-patcher.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sega-rally-2-pc-patcher.webp" alt="Sega Rally 2 PC Patcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Sega Rally · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sega-rally-2-pc-patcher.webp" alt="Sega Rally 2 PC Patcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Sega Rally · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>WET Recompilation</title>
-      <link>https://thegamingemporium.com/game/wet-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wet-recompilation/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wet-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wet-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wet-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wet-recompilation.webp" alt="WET Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wet · Genre: third person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wet-recompilation.webp" alt="WET Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wet · Genre: third person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Hollowmark in Browser</title>
-      <link>https://thegamingemporium.com/game/hollowmark-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/hollowmark-in-browser/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hollowmark-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/hollowmark-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/hollowmark-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hollowmark-in-browser.webp" alt="Hollowmark in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Doom · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hollowmark-in-browser.webp" alt="Hollowmark in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Doom · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>Sponge Bob Square Pants: Battle for Bikini Bottom Deluxe</title>
-      <link>https://thegamingemporium.com/game/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe.webp" alt="Sponge Bob Square Pants: Battle for Bikini Bottom Deluxe" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe.webp" alt="Sponge Bob Square Pants: Battle for Bikini Bottom Deluxe" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Autorun - Play PC Games on Switch</title>
-      <link>https://thegamingemporium.com/game/autorun-play-pc-games-on-switch/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/autorun-play-pc-games-on-switch/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/autorun-play-pc-games-on-switch.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/autorun-play-pc-games-on-switch.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/autorun-play-pc-games-on-switch.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/autorun-play-pc-games-on-switch.webp" alt="Autorun - Play PC Games on Switch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/autorun-play-pc-games-on-switch.webp" alt="Autorun - Play PC Games on Switch" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Wild Arms Recompilation</title>
-      <link>https://thegamingemporium.com/game/wild-arms-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wild-arms-recompilation/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wild-arms-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wild-arms-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wild-arms-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wild-arms-recompilation.webp" alt="Wild Arms Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wild Arms · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wild-arms-recompilation.webp" alt="Wild Arms Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Wild Arms · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Paper Mario 64 PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/paper-mario-64-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/paper-mario-64-ps-vita-port/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/paper-mario-64-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/paper-mario-64-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/paper-mario-64-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-64-ps-vita-port.webp" alt="Paper Mario 64 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/paper-mario-64-ps-vita-port.webp" alt="Paper Mario 64 PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: rpg]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Smash Bros. Melee PS Vita Port</title>
-      <link>https://thegamingemporium.com/game/super-smash-bros-melee-ps-vita-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-smash-bros-melee-ps-vita-port/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-ps-vita-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-ps-vita-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-ps-vita-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-ps-vita-port.webp" alt="Super Smash Bros. Melee PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-smash-bros-melee-ps-vita-port.webp" alt="Super Smash Bros. Melee PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Super Mario · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>New 3DS Minecraft Patched To Run On the Old 3DS</title>
-      <link>https://thegamingemporium.com/game/new-3ds-minecraft-patched-to-run-on-the-old-3ds/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/new-3ds-minecraft-patched-to-run-on-the-old-3ds/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/new-3ds-minecraft-patched-to-run-on-the-old-3ds.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/new-3ds-minecraft-patched-to-run-on-the-old-3ds.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/new-3ds-minecraft-patched-to-run-on-the-old-3ds.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/new-3ds-minecraft-patched-to-run-on-the-old-3ds.webp" alt="New 3DS Minecraft Patched To Run On the Old 3DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Minecraft · Genre: sandbox, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/new-3ds-minecraft-patched-to-run-on-the-old-3ds.webp" alt="New 3DS Minecraft Patched To Run On the Old 3DS" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Minecraft · Genre: sandbox, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Dark Souls 2 - Seamless Co-op</title>
-      <link>https://thegamingemporium.com/game/dark-souls-2-seamless-co-op/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dark-souls-2-seamless-co-op/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dark-souls-2-seamless-co-op.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dark-souls-2-seamless-co-op.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dark-souls-2-seamless-co-op.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dark-souls-2-seamless-co-op.webp" alt="Dark Souls 2 - Seamless Co-op" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Dark Souls · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dark-souls-2-seamless-co-op.webp" alt="Dark Souls 2 - Seamless Co-op" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Dark Souls · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Crash Bash in Browser</title>
-      <link>https://thegamingemporium.com/game/crash-bash-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-bash-in-browser/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-bash-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-bash-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-bash-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bash-in-browser.webp" alt="Crash Bash in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Crash Bandicoot · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bash-in-browser.webp" alt="Crash Bash in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Crash Bandicoot · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Zelda 2 in Browser</title>
-      <link>https://thegamingemporium.com/game/zelda-2-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/zelda-2-in-browser/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/zelda-2-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/zelda-2-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/zelda-2-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-2-in-browser.webp" alt="Zelda 2 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: The Legend of Zelda · Genre: action, rpg]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/zelda-2-in-browser.webp" alt="Zelda 2 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: The Legend of Zelda · Genre: action, rpg]]></content:encoded>
     </item>
   </channel>
 </rss>
