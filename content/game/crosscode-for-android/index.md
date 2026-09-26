@@ -9,7 +9,7 @@ params:
   genre2: "action"
   series: "CrossCode"
   video_link: ""
-  date_added: "2026-08-24"
+  date_added: "2026-09-26"
   image: ""
 ---
 

@@ -29039,8 +29039,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-05-17",
-    "image": "",
-    "hidden": true
+    "image": ""
   },
   {
     "id": 2222,
@@ -36621,7 +36620,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-23",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 2794,
@@ -41684,6 +41684,139 @@
     "genre1": "racing",
     "genre2": "action",
     "series": "",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3193,
+    "title": "Sonic Free Riders Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/YuutaTsubasa/Free-Riders-Recompiled",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3194,
+    "title": "Sonic Time Twisted for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://overboundn.itch.io/sonic-time-twisted",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3195,
+    "title": "AeroGauge for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/alondero/aerogauge-recomp/releases/tag/v0.5.0",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "AeroGauge",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3196,
+    "title": "TurningWheel - Barony for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/DifferentNet/barony-android-port",
+    "genre1": "rpg",
+    "genre2": "roguelike",
+    "series": "Barony",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3197,
+    "title": "Buckshot Roulette! for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/officialmelon/Buckshot-Roulette-Mobile",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Buckshot Roulette!",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3198,
+    "title": "Celeste WASM for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://gamejolt.com/games/CelesteWASMAndroid/1043072",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Celeste",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3199,
+    "title": "CrossCode for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://gitlab.com/Namnodorel/crossandroid/blob/master/README.md",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "CrossCode",
+    "video_link": "",
+    "date_added": "2026-09-26",
+    "hidden": true
+  },
+  {
+    "id": 3200,
+    "title": "Crash Team Racing Dual Screen for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/igawa6/ctr-native-android",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3201,
+    "title": "Donkey Kong 64 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/deivid22srk/dk64-recomp-android",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Donkey Kong",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3202,
+    "title": "Dr. Mario Mania for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://toadfangames.itch.io/dr-mario-mania",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-26"
+  },
+  {
+    "id": 3203,
+    "title": "Freespace 2 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/lubomyr/freespace2",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Freespace",
     "video_link": "",
     "date_added": "2026-09-26"
   }
