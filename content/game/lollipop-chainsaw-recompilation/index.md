@@ -4,12 +4,12 @@ url: "/game/lollipop-chainsaw-recompilation/"
 type: game
 params:
   external_link: "https://github.com/MaxDeadBear/Re-Cherry"
-  category: "in-the-works"
+  category: "decompilations-recompilations"
   genre1: "beat-em-up"
-  genre2: "action"
+  genre2: ""
   series: "Lollipop Chainsaw"
   video_link: ""
-  date_added: "2026-05-17"
+  date_added: "2026-09-26"
   image: ""
 ---
 
