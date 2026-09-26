@@ -18863,7 +18863,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 1447,
@@ -41097,8 +41098,8 @@
     "series": "007",
     "video_link": "",
     "date_added": "2026-09-23"
-    },
-      {
+  },
+  {
     "id": 3144,
     "title": "Senko no Ronde SP Sega Dreamcast Port",
     "category": "console-ports",
@@ -41109,8 +41110,8 @@
     "series": "Senko no Ronde SP",
     "video_link": "https://youtu.be/Xbyh87nn97E?si=Q6xyOTlBhZ_fXyaF",
     "date_added": "2026-09-23"
-    },
-      {
+  },
+  {
     "id": 3145,
     "title": "Bushido Blade 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -41121,8 +41122,8 @@
     "series": "Bushido Blade",
     "video_link": "",
     "date_added": "2026-09-23"
-    },
-      {
+  },
+  {
     "id": 3146,
     "title": "Destruction Derby Raw Recompilation",
     "category": "decompilations-recompilations",
@@ -41133,8 +41134,8 @@
     "series": "Destruction Derby",
     "video_link": "",
     "date_added": "2026-09-23"
-    },
-      {
+  },
+  {
     "id": 3147,
     "title": "Dino Crisis Modern Controls Mod",
     "category": "mods",
@@ -41145,8 +41146,8 @@
     "series": "Dino Crisis",
     "video_link": "",
     "date_added": "2026-09-23"
-    },
-      {
+  },
+  {
     "id": 3148,
     "title": "Star Wars Trilogy Arcade Sega Dreamcast Port",
     "category": "console-ports",
@@ -41157,8 +41158,8 @@
     "series": "Star Wars",
     "video_link": "https://youtu.be/iHzZbIjWRhY?si=AryBUV4QS1mDpGwA",
     "date_added": "2026-09-24"
-    },
-      {
+  },
+  {
     "id": 3149,
     "title": "Monster Hunter Portable 3rd HD Ver. Recompilation",
     "category": "decompilations-recompilations",
@@ -41169,8 +41170,8 @@
     "series": "Monster Hunter",
     "video_link": "",
     "date_added": "2026-09-24"
-    },
-      {
+  },
+  {
     "id": 3150,
     "title": "Monster Hunter Portable 3rd HD Ver. Recompilation for Android",
     "category": "android-ports",
@@ -41181,8 +41182,8 @@
     "series": "Monster Hunter",
     "video_link": "",
     "date_added": "2026-09-24"
-    },
-      {
+  },
+  {
     "id": 3151,
     "title": "Sonic the Fighters Recompilation",
     "category": "decompilations-recompilations",
@@ -41193,8 +41194,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-24"
-    },
-      {
+  },
+  {
     "id": 3152,
     "title": "Flashback Sega Master System Port",
     "category": "console-ports",
@@ -41205,8 +41206,8 @@
     "series": "Flashback",
     "video_link": "",
     "date_added": "2026-09-24"
-    },
-      {
+  },
+  {
     "id": 3153,
     "title": "Super Mario 3D World VR",
     "category": "vr-ports",
@@ -41217,8 +41218,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-24"
-    },
- {
+  },
+  {
     "id": 3154,
     "title": "Vigilante 8 and Vigilante 8: 2nd Offense Recompilation",
     "category": "decompilations-recompilations",
@@ -41229,8 +41230,8 @@
     "series": "Vigilante 8",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3155,
     "title": "Mortal Kombat vs. DC Universe Recompilation",
     "category": "decompilations-recompilations",
@@ -41241,8 +41242,8 @@
     "series": "Mortal Kombat",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3156,
     "title": "Werdle in Browser",
     "category": "browser-based",
@@ -41253,8 +41254,8 @@
     "series": "Werdle",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3157,
     "title": "LEGO Star Wars: The Complete Saga Decompilation",
     "category": "in-the-works",
@@ -41265,8 +41266,8 @@
     "series": "Lego",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3158,
     "title": "Digimon World 2 Decompilation",
     "category": "in-the-works",
@@ -41277,8 +41278,8 @@
     "series": "Digimon",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3159,
     "title": "Sonic Adventure 2: Battle Decompilation",
     "category": "in-the-works",
@@ -41289,8 +41290,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3160,
     "title": "KytyPS5 - Open-Source PlayStation 5 Emulator",
     "category": "utility",
@@ -41301,8 +41302,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-09-24"
-},
- {
+  },
+  {
     "id": 3161,
     "title": "GTA: Liberty City Stories Recompilation",
     "category": "decompilations-recompilations",
@@ -41313,8 +41314,8 @@
     "series": "Grand Theft Auto",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3162,
     "title": "King's Field Recompilation",
     "category": "decompilations-recompilations",
@@ -41325,8 +41326,8 @@
     "series": "King's Field",
     "video_link": "https://youtu.be/fEU78x-Rhdo?si=weDq6Ds3sMUFQh1Z",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3163,
     "title": "Black Tiger Sega Megadrive Port",
     "category": "console-ports",
@@ -41337,8 +41338,8 @@
     "series": "Black Tiger",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3164,
     "title": "Mother 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -41349,8 +41350,8 @@
     "series": "Earthbound",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3165,
     "title": "Pokemon Snap VR",
     "category": "vr-ports",
@@ -41361,8 +41362,8 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3166,
     "title": "WarioWare: Twisted! Recompilation",
     "category": "decompilations-recompilations",
@@ -41373,8 +41374,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3167,
     "title": "WarioWare: Twisted! Recompilation for Android",
     "category": "android-ports",
@@ -41385,8 +41386,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3168,
     "title": "Sonic the Hedgehog 2006 Recompilation",
     "category": "decompilations-recompilations",
@@ -41397,8 +41398,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3169,
     "title": "Duck Hunt Recompilation",
     "category": "decompilations-recompilations",
@@ -41409,8 +41410,8 @@
     "series": "Duck Hunt",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3170,
     "title": "Faxanadu Recompilation",
     "category": "decompilations-recompilations",
@@ -41421,8 +41422,8 @@
     "series": "Faxanadu",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3171,
     "title": "Gumshoe Recompilation",
     "category": "decompilations-recompilations",
@@ -41433,8 +41434,8 @@
     "series": "Gumshoe",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3172,
     "title": "Knuckles' Chaotix Recompilation",
     "category": "decompilations-recompilations",
@@ -41445,8 +41446,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3173,
     "title": "Mega Man 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -41457,8 +41458,8 @@
     "series": "Mega Man",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3174,
     "title": "Mega Man Zero Recompilation",
     "category": "decompilations-recompilations",
@@ -41469,8 +41470,8 @@
     "series": "Mega Man",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3175,
     "title": "Shrek Recompilation",
     "category": "decompilations-recompilations",
@@ -41481,8 +41482,8 @@
     "series": "Shrek",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3176,
     "title": "Super Mario Advance 2: Super Mario World Recompilation",
     "category": "decompilations-recompilations",
@@ -41493,8 +41494,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3177,
     "title": "Super Mario Advance 4: Super Mario Bros. 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -41505,8 +41506,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3178,
     "title": "The Legend of Zelda Recompilation",
     "category": "decompilations-recompilations",
@@ -41517,8 +41518,8 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3179,
     "title": "Yoshi Recompilation",
     "category": "decompilations-recompilations",
@@ -41529,8 +41530,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3180,
     "title": "Yoshi's Cookie Recompilation",
     "category": "decompilations-recompilations",
@@ -41541,8 +41542,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3181,
     "title": "Metroid Recompilation",
     "category": "decompilations-recompilations",
@@ -41553,8 +41554,8 @@
     "series": "Metroid",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3182,
     "title": "Toy Story 2 - Buzz Lightyear to the Rescue Recompilation",
     "category": "decompilations-recompilations",
@@ -41565,8 +41566,8 @@
     "series": "Toy Story",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3183,
     "title": "Forza Motorsport 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -41577,8 +41578,8 @@
     "series": "Forza",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3184,
     "title": "Rayman Origins Recompilation",
     "category": "decompilations-recompilations",
@@ -41589,8 +41590,8 @@
     "series": "Rayman",
     "video_link": "",
     "date_added": "2026-09-25"
-},
- {
+  },
+  {
     "id": 3185,
     "title": "Jackie Chan Stuntmaster Recompilation",
     "category": "decompilations-recompilations",
@@ -41601,8 +41602,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3186,
     "title": "Lollipop Chainsaw Recompilation",
     "category": "decompilations-recompilations",
@@ -41613,8 +41614,8 @@
     "series": "Lollipop Chainsaw",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3187,
     "title": "Alone In The Dark Rehaunted Recompilation",
     "category": "decompilations-recompilations",
@@ -41625,8 +41626,8 @@
     "series": "Alone In The Dark",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3188,
     "title": "Conker's Bad Fur Day Recompilation",
     "category": "decompilations-recompilations",
@@ -41637,8 +41638,8 @@
     "series": "Conker",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3189,
     "title": "Inifinite Mario 64 Recompilation",
     "category": "decompilations-recompilations",
@@ -41649,8 +41650,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3190,
     "title": "Fatal Frame Recompilation",
     "category": "decompilations-recompilations",
@@ -41661,8 +41662,8 @@
     "series": "Fatal Frame",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3191,
     "title": "Sega Superstars Tennis Recompilation",
     "category": "decompilations-recompilations",
@@ -41673,8 +41674,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3192,
     "title": "Decompilation of Namco System 22 - Rave Racer, Prop Cycle, Tokyo Wars",
     "category": "decompilations-recompilations",
@@ -41685,8 +41686,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3193,
     "title": "Sonic Free Riders Recompilation",
     "category": "decompilations-recompilations",
@@ -41697,8 +41698,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3194,
     "title": "Sonic Time Twisted for Android",
     "category": "android-ports",
@@ -41709,8 +41710,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3195,
     "title": "AeroGauge for Android",
     "category": "android-ports",
@@ -41721,8 +41722,8 @@
     "series": "AeroGauge",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3196,
     "title": "TurningWheel - Barony for Android",
     "category": "android-ports",
@@ -41733,8 +41734,8 @@
     "series": "Barony",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3197,
     "title": "Buckshot Roulette! for Android",
     "category": "android-ports",
@@ -41745,8 +41746,8 @@
     "series": "Buckshot Roulette!",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3198,
     "title": "Celeste WASM for Android",
     "category": "android-ports",
@@ -41757,8 +41758,8 @@
     "series": "Celeste",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3199,
     "title": "CrossCode for Android",
     "category": "android-ports",
@@ -41769,8 +41770,8 @@
     "series": "CrossCode",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3200,
     "title": "Crash Team Racing Dual Screen for Android",
     "category": "android-ports",
@@ -41781,8 +41782,8 @@
     "series": "Crash Bandicoot",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3201,
     "title": "Donkey Kong 64 for Android",
     "category": "android-ports",
@@ -41793,8 +41794,8 @@
     "series": "Donkey Kong",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3202,
     "title": "Dr. Mario Mania for Android",
     "category": "android-ports",
@@ -41805,8 +41806,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3203,
     "title": "Freespace 2 for Android",
     "category": "android-ports",
@@ -41817,8 +41818,8 @@
     "series": "Freespace",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3204,
     "title": "Rayman Origins for Android",
     "category": "android-ports",
@@ -41829,8 +41830,8 @@
     "series": "Rayman",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3205,
     "title": "Plants vs Zombies Fusion for Android",
     "category": "android-ports",
@@ -41841,8 +41842,8 @@
     "series": "Plants vs Zombies",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3206,
     "title": "GnollHack for Android",
     "category": "android-ports",
@@ -41853,8 +41854,8 @@
     "series": "GnollHack",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3207,
     "title": "Goldeneye with Dual Screen for Android",
     "category": "android-ports",
@@ -41865,8 +41866,8 @@
     "series": "007",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3208,
     "title": "Knossos.NET - Launcher for Freespace 2 Open for Android",
     "category": "android-ports",
@@ -41877,8 +41878,8 @@
     "series": "Freespace",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3209,
     "title": "Knuckles' Chaotix for Android",
     "category": "android-ports",
@@ -41889,8 +41890,8 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-09-26"
-},
- {
+  },
+  {
     "id": 3210,
     "title": "Castlevania: Legacy of Darkness for Android",
     "category": "android-ports",
@@ -41901,7 +41902,42 @@
     "series": "Castlevania",
     "video_link": "",
     "date_added": "2026-09-26"
-}
-
-
+  },
+  {
+    "id": 3211,
+    "title": "Yu-Gi-Oh! Forbidden Memories Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
+    "genre1": "card-collector",
+    "genre2": "strategy",
+    "series": "Yu-Gi-Oh!",
+    "video_link": "",
+    "date_added": "2026-09-27",
+    "hidden": true
+  },
+  {
+    "id": 3212,
+    "title": "Nightmare Creatures 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/nightmare-creatures-ii-recomp",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Nightmare Creatures",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+  {
+    "id": 3213,
+    "title": "Test Drive 3: The Passion Port",
+    "category": "decompilations-recompilations",
+    "platform": "DOS",
+    "link": "https://github.com/kylofon/test-drive-3-sdl3",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Test Drive",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  }
 ]
