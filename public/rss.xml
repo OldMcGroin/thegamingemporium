@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Sat, 26 Sep 2026 13:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:33:34 +0000</lastBuildDate>
     <item>
       <title>Jackie Chan Stuntmaster Recompilation</title>
       <link>https://thegamingemporium.com/game/jackie-chan-stuntmaster-recompilation/</link>
@@ -214,6 +214,83 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/freespace-2-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freespace-2-for-android.webp" alt="Freespace 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freespace · Genre: space combat simulator]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/freespace-2-for-android.webp" alt="Freespace 2 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freespace · Genre: space combat simulator]]></content:encoded>
+    </item>
+    <item>
+      <title>Rayman Origins for Android</title>
+      <link>https://thegamingemporium.com/game/rayman-origins-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/rayman-origins-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rayman-origins-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/rayman-origins-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/rayman-origins-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-for-android.webp" alt="Rayman Origins for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rayman · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-for-android.webp" alt="Rayman Origins for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rayman · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Plants vs Zombies Fusion for Android</title>
+      <link>https://thegamingemporium.com/game/plants-vs-zombies-fusion-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/plants-vs-zombies-fusion-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/plants-vs-zombies-fusion-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/plants-vs-zombies-fusion-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/plants-vs-zombies-fusion-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/plants-vs-zombies-fusion-for-android.webp" alt="Plants vs Zombies Fusion for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Plants vs Zombies · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/plants-vs-zombies-fusion-for-android.webp" alt="Plants vs Zombies Fusion for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Plants vs Zombies · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>GnollHack for Android</title>
+      <link>https://thegamingemporium.com/game/gnollhack-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/gnollhack-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/gnollhack-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/gnollhack-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/gnollhack-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gnollhack-for-android.webp" alt="GnollHack for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: GnollHack · Genre: roguelike]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/gnollhack-for-android.webp" alt="GnollHack for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: GnollHack · Genre: roguelike]]></content:encoded>
+    </item>
+    <item>
+      <title>Goldeneye with Dual Screen for Android</title>
+      <link>https://thegamingemporium.com/game/goldeneye-with-dual-screen-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/goldeneye-with-dual-screen-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/goldeneye-with-dual-screen-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/goldeneye-with-dual-screen-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/goldeneye-with-dual-screen-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-with-dual-screen-for-android.webp" alt="Goldeneye with Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: 007 · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/goldeneye-with-dual-screen-for-android.webp" alt="Goldeneye with Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: 007 · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Knossos.NET - Launcher for Freespace 2 Open for Android</title>
+      <link>https://thegamingemporium.com/game/knossos-net-launcher-for-freespace-2-open-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/knossos-net-launcher-for-freespace-2-open-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/knossos-net-launcher-for-freespace-2-open-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/knossos-net-launcher-for-freespace-2-open-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/knossos-net-launcher-for-freespace-2-open-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knossos-net-launcher-for-freespace-2-open-for-android.webp" alt="Knossos.NET - Launcher for Freespace 2 Open for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freespace · Genre: space combat simulator]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knossos-net-launcher-for-freespace-2-open-for-android.webp" alt="Knossos.NET - Launcher for Freespace 2 Open for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Freespace · Genre: space combat simulator]]></content:encoded>
+    </item>
+    <item>
+      <title>Knuckles' Chaotix for Android</title>
+      <link>https://thegamingemporium.com/game/knuckles-chaotix-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/knuckles-chaotix-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/knuckles-chaotix-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knuckles-chaotix-for-android.webp" alt="Knuckles' Chaotix for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/knuckles-chaotix-for-android.webp" alt="Knuckles' Chaotix for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Castlevania: Legacy of Darkness for Android</title>
+      <link>https://thegamingemporium.com/game/castlevania-legacy-of-darkness-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-legacy-of-darkness-for-android/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-for-android.webp" alt="Castlevania: Legacy of Darkness for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Castlevania · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-legacy-of-darkness-for-android.webp" alt="Castlevania: Legacy of Darkness for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Castlevania · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>GTA: Liberty City Stories Recompilation</title>
@@ -478,83 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" alt="Rayman Origins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Rayman · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-origins-recompilation.webp" alt="Rayman Origins Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Rayman · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Wars Trilogy Arcade Sega Dreamcast Port</title>
-      <link>https://thegamingemporium.com/game/star-wars-trilogy-arcade-sega-dreamcast-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/star-wars-trilogy-arcade-sega-dreamcast-port/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/star-wars-trilogy-arcade-sega-dreamcast-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/star-wars-trilogy-arcade-sega-dreamcast-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/star-wars-trilogy-arcade-sega-dreamcast-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-trilogy-arcade-sega-dreamcast-port.webp" alt="Star Wars Trilogy Arcade Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Star Wars · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/star-wars-trilogy-arcade-sega-dreamcast-port.webp" alt="Star Wars Trilogy Arcade Sega Dreamcast Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Star Wars · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Monster Hunter Portable 3rd HD Ver. Recompilation</title>
-      <link>https://thegamingemporium.com/game/monster-hunter-portable-3rd-hd-ver-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/monster-hunter-portable-3rd-hd-ver-recompilation/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation.webp" alt="Monster Hunter Portable 3rd HD Ver. Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Monster Hunter · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation.webp" alt="Monster Hunter Portable 3rd HD Ver. Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Monster Hunter · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Monster Hunter Portable 3rd HD Ver. Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/monster-hunter-portable-3rd-hd-ver-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/monster-hunter-portable-3rd-hd-ver-recompilation-for-android/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation-for-android.webp" alt="Monster Hunter Portable 3rd HD Ver. Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Monster Hunter · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-portable-3rd-hd-ver-recompilation-for-android.webp" alt="Monster Hunter Portable 3rd HD Ver. Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Monster Hunter · Genre: rpg, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonic the Fighters Recompilation</title>
-      <link>https://thegamingemporium.com/game/sonic-the-fighters-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/sonic-the-fighters-recompilation/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/sonic-the-fighters-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/sonic-the-fighters-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/sonic-the-fighters-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-fighters-recompilation.webp" alt="Sonic the Fighters Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/sonic-the-fighters-recompilation.webp" alt="Sonic the Fighters Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Sonic the Hedgehog · Genre: fighting]]></content:encoded>
-    </item>
-    <item>
-      <title>Flashback Sega Master System Port</title>
-      <link>https://thegamingemporium.com/game/flashback-sega-master-system-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/flashback-sega-master-system-port/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/flashback-sega-master-system-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/flashback-sega-master-system-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/flashback-sega-master-system-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/flashback-sega-master-system-port.webp" alt="Flashback Sega Master System Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Flashback · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/flashback-sega-master-system-port.webp" alt="Flashback Sega Master System Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Flashback · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario 3D World VR</title>
-      <link>https://thegamingemporium.com/game/super-mario-3d-world-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-3d-world-vr/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-3d-world-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-3d-world-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-3d-world-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-3d-world-vr.webp" alt="Super Mario 3D World VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-3d-world-vr.webp" alt="Super Mario 3D World VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Vigilante 8 and Vigilante 8: 2nd Offense Recompilation</title>
-      <link>https://thegamingemporium.com/game/vigilante-8-and-vigilante-8-2nd-offense-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/vigilante-8-and-vigilante-8-2nd-offense-recompilation/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/vigilante-8-and-vigilante-8-2nd-offense-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/vigilante-8-and-vigilante-8-2nd-offense-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/vigilante-8-and-vigilante-8-2nd-offense-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vigilante-8-and-vigilante-8-2nd-offense-recompilation.webp" alt="Vigilante 8 and Vigilante 8: 2nd Offense Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Vigilante 8 · Genre: vehicular combat]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/vigilante-8-and-vigilante-8-2nd-offense-recompilation.webp" alt="Vigilante 8 and Vigilante 8: 2nd Offense Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Vigilante 8 · Genre: vehicular combat]]></content:encoded>
     </item>
   </channel>
 </rss>
