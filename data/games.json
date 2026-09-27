@@ -42095,6 +42095,66 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-09-27"
+  },
+    {
+    "id": 3226,
+    "title": "Project Zomboid 3D Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807334881",
+    "genre1": "survival-horror",
+    "genre2": "rpg",
+    "series": "Project Zomboid",
+    "video_link": "https://youtu.be/FBqsMaH4B44?si=qK-CjiPPX1TuyJ1-",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3227,
+    "title": "Monster Hunter: World Seamless Co-op",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.nexusmods.com/monsterhunterworld/mods/8805",
+    "genre1": "rpg",
+    "genre2": "resource-management",
+    "series": "Monster Hunter",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3228,
+    "title": "Need for Speed: Most Wanted Nintendo Switch Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/StevensND/nfsmw-nx",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need for Speed",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3229,
+    "title": "The Darkness Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/portingpete/The-Darkness-Recomp",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "The Darkness",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3230,
+    "title": "Valheim for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/udarmolota/ValDroid",
+    "genre1": "sandbox",
+    "genre2": "adventure",
+    "series": "Valheim",
+    "video_link": "",
+    "date_added": "2026-09-27"
   }
 
 
