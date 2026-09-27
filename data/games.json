@@ -41939,5 +41939,167 @@
     "series": "Test Drive",
     "video_link": "",
     "date_added": "2026-09-27"
+  },
+    {
+    "id": 3214,
+    "title": "Ultimate Flash Sonic in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pivotzone.itch.io/sonic-flash",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3215,
+    "title": "195-0 World Draft in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://195-0worlddraft.com/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3216,
+    "title": "CPS Test in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://cps-test.co/",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3217,
+    "title": "Castle Crashers Refracted",
+    "category": "mods",
+    "platform": "",
+    "link": "https://gamebanana.com/mods/715052",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Castle Crashers",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3218,
+    "title": "Jelly Mario in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://jellymar.io/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3218,
+    "title": "Lego Dimensions Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/NeverCookFirst/DimensionsRecomp",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Lego",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3219,
+    "title": "Quake 2 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://quake-2.en.uptodown.com/android",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Quake",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3220,
+    "title": "Wii Party Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Wii",
+    "link": "https://github.com/arelkair/wiiparty-recomp",
+    "genre1": "party-game",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3221,
+    "title": "Rabbids Go Home PC Port",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://github.com/Eggscantfly/Rabbids-Go-Home-WiiConverted",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3222,
+    "title": "Rayman for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://archive.org/details/rayman-classic",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Rayman",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3223,
+    "title": "Katawa Shoujo: Re-Engineered",
+    "category": "open-source",
+    "platform": "",
+    "link": "https://github.com/fleetingheart/ksre#",
+    "genre1": "visual-novel",
+    "genre2": "",
+    "series": "Katawa Shoujo",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3224,
+    "title": "Taisei Project",
+    "category": "open-source",
+    "platform": "",
+    "link": "https://github.com/taisei-project/taisei",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "Taisei Project",
+    "video_link": "",
+    "date_added": "2026-09-27"
+  },
+    {
+    "id": 3225,
+    "title": "Pokemon Mystery Dungeon: Red Rescue Team Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Game Boy Advance",
+    "link": "https://github.com/Asphaltian/pmd-green",
+    "genre1": "roguelike",
+    "genre2": "rpg",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-09-27"
   }
+
+
+
+
+
+
 ]
