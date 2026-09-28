@@ -746,6 +746,10 @@
   </url><url>
     <loc>http://localhost:1313/series/budokai/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/buffy-the-vampire-slayer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/buffy-the-vampire-slayer-chaos-bleeds-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/bugdom/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bugdom/</loc>
@@ -1408,6 +1412,10 @@
   </url><url>
     <loc>http://localhost:1313/series/dead-ascend/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/dead-cells/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dead-cells-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/dead-mans-hand/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dead-of-the-brain/</loc>
@@ -1687,6 +1695,10 @@
     <loc>http://localhost:1313/series/doraemon/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doraemon-nobita-to-mittsu-no-seireiseki-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doraemon-nobita-to-mittsu-no-seireiseki-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/doraemon-nobita-to-mittsu-no-seireiseki-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/doshin-the-giant/</loc>
   </url><url>
@@ -2854,6 +2866,10 @@
   </url><url>
     <loc>http://localhost:1313/series/hydra-castle-labyrinth/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/hydro-thunder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/hydro-thunder-online-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/hyper-dragon-ball-z/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hyper-metroid/</loc>
@@ -3680,6 +3696,8 @@
   </url><url>
     <loc>http://localhost:1313/series/mercenaries/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mercenaries-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/meritous/</loc>
   </url><url>
     <loc>http://localhost:1313/series/meritous/</loc>
@@ -4017,6 +4035,10 @@
     <loc>http://localhost:1313/game/nba-jam-50/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nba-jam-legends-on-fire-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/nba-jam-on-fire-edition-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/nba-jam-on-fire-edition-recompilation-mods/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nblood-blood-exhumed-port/</loc>
   </url><url>
@@ -5374,7 +5396,13 @@
   </url><url>
     <loc>http://localhost:1313/game/sensible-soccer-nes/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/serial-experiments-lain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/serial-experiments-lain-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/serious-sam/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/serious-sam-next-encounter-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/serious-sam-the-first-encounter-and-serious-sam-the-second-encounter-for-android/</loc>
   </url><url>
@@ -5419,6 +5447,10 @@
     <loc>http://localhost:1313/series/shaun-white-snowboarding/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sheep-wolf-n-dog-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/sheep-dog-n-wolf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sheep-dog-n-wolf-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/shenmue/</loc>
   </url><url>

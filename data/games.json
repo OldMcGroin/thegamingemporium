@@ -42155,6 +42155,138 @@
     "series": "Valheim",
     "video_link": "",
     "date_added": "2026-09-27"
+  },
+    {
+    "id": 3231,
+    "title": "Mercenaries Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://drive.google.com/file/d/1OBF-HPU663GljL1qYjF4HCfoey__x7Jx/view",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "series": "Mercenaries",
+    "video_link": "https://youtu.be/HWys7Itl6pA?si=qsP7PVs-Nq5bSSu9",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3232,
+    "title": "Dead Cells PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 5",
+    "link": "https://github.com/OverkillLabs/DeadCells-PS5-Native",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Dead Cells",
+    "video_link": "https://youtu.be/anOHF5aPzwk?si=2Oj36TsuCfS4vkV2",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3233,
+    "title": "Hydro Thunder Online PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Arcade",
+    "link": "https://github.com/LANCommander/HydroThunderOnline/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Hydro Thunder",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3234,
+    "title": "Doraemon: Nobita to Mittsu no Seireiseki Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/citrongames/Dora64",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Doraemon",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3235,
+    "title": "Doraemon: Nobita to Mittsu no Seireiseki Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/citrongames/Dora64",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Doraemon",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3236,
+    "title": "Buffy the Vampire Slayer: Chaos Bleeds Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Buffy the Vampire Slayer",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3237,
+    "title": "NBA JAM: On Fire Edition Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/GTTeancum/OpenJam",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "NBA Jam",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3238,
+    "title": "NBA JAM: On Fire Edition Recompilation Mods",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://nba-jam.com/",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "NBA Jam",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3239,
+    "title": "Serial Experiments Lain Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Y0oshi/lain-psx-decompiled",
+    "genre1": "visual-novel",
+    "genre2": "",
+    "series": "Serial Experiments Lain",
+    "video_link": "https://youtu.be/K-OKUkhJ7Uc?si=FTqCJJIKQNCbeSGn",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3240,
+    "title": "Sheep, Dog 'n' Wolf Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/SheepStealer2001/sdw-decomp",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Sheep, Dog 'n' Wolf",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3241,
+    "title": "Serious Sam: Next Encounter Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://github.com/takoshero96/Silly-ReEncounter",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Serious Sam",
+    "video_link": "",
+    "date_added": "2026-09-28"
   }
 
 
