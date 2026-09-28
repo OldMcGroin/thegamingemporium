@@ -42311,6 +42311,18 @@
     "series": "Halo",
     "video_link": "",
     "date_added": "2026-09-28"
+  },
+    {
+    "id": 3244,
+    "title": "Saints Row Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/whompay/SaintsReborn",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Saints Row",
+    "video_link": "",
+    "date_added": "2026-09-28"
   }
 
 
