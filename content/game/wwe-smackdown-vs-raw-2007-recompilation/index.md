@@ -7,7 +7,7 @@ params:
   category: "decompilations-recompilations"
   genre1: "fighting"
   genre2: ""
-  series: ""
+  series: "WWE"
   video_link: ""
   date_added: "2026-05-26"
   image: ""
