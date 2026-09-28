@@ -8,7 +8,7 @@ params:
   genre1: "sports"
   genre2: "fighting"
   series: "WWE"
-  video_link: ""
+  video_link: "https://youtu.be/jbffxypoUNQ?si=BaCKsHQH2Ir6aut7"
   date_added: "2026-09-28"
   image: ""
 ---

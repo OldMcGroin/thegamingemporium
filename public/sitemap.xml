@@ -80,6 +80,8 @@
   </url><url>
     <loc>http://localhost:1313/series/ace-combat/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/ace-combat-3-electrosphere-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/ace-combat-5-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ace-combat-6-recompilation/</loc>
@@ -198,6 +200,8 @@
   </url><url>
     <loc>http://localhost:1313/game/alone-in-the-dark-rehaunted-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/alone-in-the-dark-the-new-nightmare-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/alpha-touch-90-s-classic-fps-shooters-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/altered-beast/</loc>
@@ -209,6 +213,8 @@
     <loc>http://localhost:1313/series/alundra/</loc>
   </url><url>
     <loc>http://localhost:1313/game/alundra-definitive-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/alundra-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/am2r/</loc>
   </url><url>
@@ -298,9 +304,13 @@
   </url><url>
     <loc>http://localhost:1313/game/ape-escape-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/apocalypse/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/apocalypse-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/apocalypse-2-snes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/apocalypse-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/apotris/</loc>
   </url><url>
@@ -327,6 +337,10 @@
     <loc>http://localhost:1313/series/armored-core/</loc>
   </url><url>
     <loc>http://localhost:1313/game/armored-core-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/armored-core-master-of-arena-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/armored-core-project-phantasma-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/armored-trooper-votoms/</loc>
   </url><url>
@@ -395,6 +409,10 @@
     <loc>http://localhost:1313/game/awesome-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/awful-emblem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/azure-dreams/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/azure-dreams-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/back-to-the-future-the-game/</loc>
   </url><url>
@@ -629,6 +647,8 @@
     <loc>http://localhost:1313/series/blood/</loc>
   </url><url>
     <loc>http://localhost:1313/game/blood-2-upscale-texture-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/blood-omen-legacy-of-kain-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bloodborne/</loc>
   </url><url>
