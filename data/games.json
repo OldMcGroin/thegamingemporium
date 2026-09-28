@@ -42287,6 +42287,30 @@
     "series": "Serious Sam",
     "video_link": "",
     "date_added": "2026-09-28"
+  },
+    {
+    "id": 3242,
+    "title": "Halo: Combat Evolved Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://github.com/cybersecurity/halo-ce-universal",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3243,
+    "title": "Halo: Combat Evolved Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/cybersecurity/halo-ce-universal",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "date_added": "2026-09-28"
   }
 
 

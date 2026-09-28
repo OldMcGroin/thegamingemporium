@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 28 Sep 2026 11:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:16:59 +0000</lastBuildDate>
     <item>
       <title>Mercenaries Recompilation</title>
       <link>https://thegamingemporium.com/game/mercenaries-recompilation/</link>
@@ -126,6 +126,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/serious-sam-next-encounter-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/serious-sam-next-encounter-recompilation.webp" alt="Serious Sam: Next Encounter Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Serious Sam · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/serious-sam-next-encounter-recompilation.webp" alt="Serious Sam: Next Encounter Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Serious Sam · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Halo: Combat Evolved Recompilation</title>
+      <link>https://thegamingemporium.com/game/halo-combat-evolved-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/halo-combat-evolved-recompilation/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation.webp" alt="Halo: Combat Evolved Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Halo · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation.webp" alt="Halo: Combat Evolved Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Halo · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Halo: Combat Evolved Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/halo-combat-evolved-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/halo-combat-evolved-recompilation-for-android/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation-for-android.webp" alt="Halo: Combat Evolved Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-recompilation-for-android.webp" alt="Halo: Combat Evolved Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
     </item>
     <item>
       <title>Yu-Gi-Oh! Forbidden Memories Recompilation</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-dual-screen-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-dual-screen-for-android.webp" alt="Crash Team Racing Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-dual-screen-for-android.webp" alt="Crash Team Racing Dual Screen for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Donkey Kong 64 for Android</title>
-      <link>https://thegamingemporium.com/game/donkey-kong-64-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/donkey-kong-64-for-android/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/donkey-kong-64-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/donkey-kong-64-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/donkey-kong-64-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-64-for-android.webp" alt="Donkey Kong 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Donkey Kong · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/donkey-kong-64-for-android.webp" alt="Donkey Kong 64 for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Donkey Kong · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Dr. Mario Mania for Android</title>
-      <link>https://thegamingemporium.com/game/dr-mario-mania-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/dr-mario-mania-for-android/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/dr-mario-mania-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/dr-mario-mania-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/dr-mario-mania-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dr-mario-mania-for-android.webp" alt="Dr. Mario Mania for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dr-mario-mania-for-android.webp" alt="Dr. Mario Mania for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>
