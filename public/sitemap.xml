@@ -716,6 +716,10 @@
   </url><url>
     <loc>http://localhost:1313/game/bound-to-the-dark-world/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/brave-fencer-musashi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/brave-fencer-musashi-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/breath-of-fire/</loc>
   </url><url>
     <loc>http://localhost:1313/game/breath-of-fire-3-recompilation/</loc>
@@ -1084,11 +1088,15 @@
   </url><url>
     <loc>http://localhost:1313/game/colin-mcrae-rally-2-0-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/colin-mcrae-rally-2-0-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/colin-mcrae-rally-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/colonization/</loc>
   </url><url>
     <loc>http://localhost:1313/series/colony-wars/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/colony-wars-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/colony-wars-red-sun-recompilation/</loc>
   </url><url>
@@ -1211,6 +1219,8 @@
     <loc>http://localhost:1313/game/crash-bandicoot-2-cortex-strikes-back-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-2-cortex-strikes-back-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crash-bandicoot-3-warped-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/crash-bandicoot-decompilation/</loc>
   </url><url>
@@ -1521,6 +1531,8 @@
     <loc>http://localhost:1313/game/destroy-all-humans-path-of-the-furon-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/destruction-derby/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/destruction-derby-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/destruction-derby-raw-recompilation/</loc>
   </url><url>

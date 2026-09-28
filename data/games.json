@@ -42479,8 +42479,68 @@
     "series": "Cut the Rope",
     "video_link": "",
     "date_added": "2026-09-28"
-  }
+  },
 
+    {
+    "id": 3258,
+    "title": "Brave Fencer Musashi Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/brave-fencer-musashi-recomp",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Brave Fencer Musashi",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3259,
+    "title": "Colin McRae Rally 2.0 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Colin McRae",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3260,
+    "title": "Colony Wars Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/colony-wars-recomp",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Colony Wars",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3261,
+    "title": "Crash Bandicoot 3: Warped Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3262,
+    "title": "Destruction Derby 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/destruction-derby-2-recomp",
+    "genre1": "racing",
+    "genre2": "destruction-derby",
+    "series": "Destruction Derby",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  }
 
 
 
