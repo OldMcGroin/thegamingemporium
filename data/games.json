@@ -42431,6 +42431,54 @@
     "series": "Legacy of Kain",
     "video_link": "",
     "date_added": "2026-09-28"
+  },
+    {
+    "id": 3254,
+    "title": "Star Wars: X-Wing Reimplementation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/elyosh/OpenXW",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3255,
+    "title": "Tiny Toon Adventures: Buster Busts Loose! Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/Darhkfox/BusterBustsLoose",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Tiny Toon Adventures",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3256,
+    "title": "Kingdom Come: Deliverance 2 Multiplayer Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://kcd-mp.com/",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "Kingdom Come",
+    "video_link": "",
+    "date_added": "2026-09-28"
+  },
+    {
+    "id": 3257,
+    "title": "Cut the Rope in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://yell0wsuit.github.io/cuttherope-h5dx/index.html",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Cut the Rope",
+    "video_link": "",
+    "date_added": "2026-09-28"
   }
 
 

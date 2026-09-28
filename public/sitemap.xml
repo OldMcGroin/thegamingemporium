@@ -1296,6 +1296,10 @@
   </url><url>
     <loc>http://localhost:1313/game/cuphead-wii-u-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/cut-the-rope/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/cut-the-rope-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/cyber-troopers-virtual-on/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cyber-troopers-virtual-on-playstation-3/</loc>
@@ -3155,6 +3159,10 @@
     <loc>http://localhost:1313/game/king-s-field-playstation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/king-s-field-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/kingdom-come/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/kingdom-come-deliverance-2-multiplayer-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/series/kingdom-hearts/</loc>
   </url><url>
@@ -6050,6 +6058,8 @@
   </url><url>
     <loc>http://localhost:1313/game/star-wars-shadows-of-the-empire-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/star-wars-x-wing-reimplementation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/star-wars-x-wing-vs-tie-fighter-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/starbound/</loc>
@@ -7113,6 +7123,8 @@
     <loc>http://localhost:1313/series/tiny-toon-adventures/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tiny-toon-adventures-dx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tiny-toon-adventures-buster-busts-loose-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tiny-toon-adventures-buster-s-hidden-treasure-pc-port/</loc>
   </url><url>
