@@ -4068,9 +4068,13 @@
   </url><url>
     <loc>http://localhost:1313/game/mortal-kombat-3d-era/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mortal-kombat-4-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mortal-kombat-defenders-of-the-earth/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mortal-kombat-ii-arkade-edition-nes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mortal-kombat-trilogy-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mortal-kombat-vs-dc-universe-recompilation/</loc>
   </url><url>
@@ -4284,6 +4288,8 @@
   </url><url>
     <loc>http://localhost:1313/game/nightmare-creatures-2-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/nightmare-creatures-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/nightmare-kart/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nightvein/</loc>
@@ -4333,6 +4339,10 @@
     <loc>http://localhost:1313/game/oblivion-remastered-citylord-series-the-fight-club/</loc>
   </url><url>
     <loc>http://localhost:1313/series/obsidian/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/oddworld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/oddworld-abe-s-oddysee-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/of-mice-and-mechs/</loc>
   </url><url>
@@ -4579,6 +4589,8 @@
     <loc>http://localhost:1313/series/parasite-eve/</loc>
   </url><url>
     <loc>http://localhost:1313/game/parasite-eve-2-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/parasite-eve-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/paratopic/</loc>
   </url><url>
@@ -4958,6 +4970,8 @@
   </url><url>
     <loc>http://localhost:1313/series/pro-evolution-soccer/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pro-pinball-timeshock-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/progenitor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/progenitor-pc98/</loc>
@@ -5046,6 +5060,8 @@
   </url><url>
     <loc>http://localhost:1313/game/quake-2-pcvr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/quake-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/quake-4-source-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-brutalist-jam-3-standalone-mod/</loc>
@@ -5065,6 +5081,10 @@
     <loc>http://localhost:1313/series/quick-dungeon-crawler/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/quiz/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/r-type/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/r-type-delta-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/r-c-pro-am-snes-port/</loc>
   </url><url>
@@ -5210,6 +5230,8 @@
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-2-sega-saturn-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/resident-evil-3-nemesis-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-multiplayer-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-4-hd-project/</loc>
@@ -5247,6 +5269,8 @@
     <loc>http://localhost:1313/game/resident-evil-revelations-hd-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-shattered-multiplayer-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-survive/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-the-mercenaries-3d-hd-project/</loc>
   </url><url>
@@ -5344,6 +5368,12 @@
   </url><url>
     <loc>http://localhost:1313/game/risk-of-rain-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/rival-schools/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rival-schools-evolution-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rival-schools-united-by-fate-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/road-rash/</loc>
   </url><url>
     <loc>http://localhost:1313/game/road-rash-64-recompilation/</loc>
@@ -5385,6 +5415,10 @@
     <loc>http://localhost:1313/game/rogue-hearts-dungeon-playstation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/roguelike/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/rollcage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rollcage-stage-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/roller-coaster-tycoon/</loc>
   </url><url>
@@ -5663,6 +5697,10 @@
     <loc>http://localhost:1313/game/sil-q/</loc>
   </url><url>
     <loc>http://localhost:1313/series/sil-q/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/silent-bomber/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/silent-bomber-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/silent-hill/</loc>
   </url><url>
@@ -6158,6 +6196,8 @@
   </url><url>
     <loc>http://localhost:1313/game/star-wars-episode-i-racer-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/star-wars-episode-i-the-phantom-menace-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/star-wars-jedi-survivor-camera-and-animation-stutter-fix/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-trilogy-arcade-sega-dreamcast-port/</loc>
@@ -6303,6 +6343,12 @@
     <loc>http://localhost:1313/game/sugar-ghouls/</loc>
   </url><url>
     <loc>http://localhost:1313/series/sugar-ghouls/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/suikoden/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/suikoden-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/suikoden-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/summoner-a-goddess-reborn/</loc>
   </url><url>
@@ -6632,6 +6678,8 @@
   </url><url>
     <loc>http://localhost:1313/game/syphon-filter-2-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/syphon-filter-3-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/syphon-filter-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/syphon-filter-recompilation/</loc>
@@ -6651,6 +6699,10 @@
     <loc>http://localhost:1313/series/taiko-no-tatsujin/</loc>
   </url><url>
     <loc>http://localhost:1313/game/taiko-no-tatsujin-nes-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tail-concerto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tail-concerto-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/taisei-project/</loc>
   </url><url>
@@ -6683,6 +6735,10 @@
     <loc>http://localhost:1313/series/tanks-rebirth/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tarzan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/team-buddies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/team-buddies-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/team-fortress/</loc>
   </url><url>
@@ -6853,6 +6909,10 @@
     <loc>http://localhost:1313/game/the-elder-scrolls-iii-morrowind-openmw-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-elder-scrolls-travels-oblivion-psp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fifth-element/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-fifth-element-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-force-engine-dark-forces-reimplementation/</loc>
   </url><url>
@@ -7048,6 +7108,8 @@
   </url><url>
     <loc>http://localhost:1313/game/the-lost-vikings-ragnarok-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-lost-world-jurassic-park-special-edition-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-mana-world/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mana-world/</loc>
@@ -7058,9 +7120,15 @@
   </url><url>
     <loc>http://localhost:1313/series/the-matrix/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-misadventures-of-tron-bonne-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/movies/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-movies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/mummy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-mummy-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/neverhood/</loc>
   </url><url>
@@ -7210,6 +7278,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/third-person-shooter/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/threads-of-fate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/threads-of-fate-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/thrill-kill/</loc>
   </url><url>
     <loc>http://localhost:1313/game/thrill-kill-psone/</loc>
@@ -7266,6 +7338,10 @@
   </url><url>
     <loc>http://localhost:1313/game/tokyo-bus-guide-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/tokyo-highway-battle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tokyo-highway-battle-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/tokyo-jungle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tom-clancys-ghost-recon-advanced-warfighter/</loc>
@@ -7305,6 +7381,14 @@
     <loc>http://localhost:1313/series/tony-hawk/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-american-wasteland-rethawed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-pro-skater-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-pro-skater-3-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-pro-skater-4-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tony-hawk-s-pro-skater-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tony-hawk-s-project-8-recompilation/</loc>
   </url><url>
@@ -7367,6 +7451,8 @@
     <loc>http://localhost:1313/series/triplea/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tron/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tron-bonne/</loc>
   </url><url>
     <loc>http://localhost:1313/series/true-crime/</loc>
   </url><url>
@@ -7530,6 +7616,10 @@
   </url><url>
     <loc>http://localhost:1313/game/valyria-tear/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/vampire-hunter-d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/vampire-hunter-d-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/vampire-panic/</loc>
   </url><url>
     <loc>http://localhost:1313/game/vampire-panic-playstation-2/</loc>
@@ -7557,6 +7647,10 @@
     <loc>http://localhost:1313/series/veloren/</loc>
   </url><url>
     <loc>http://localhost:1313/series/vengeance-of-excalibur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/vib-ribbon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/vib-ribbon-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/victoria/</loc>
   </url><url>
@@ -7754,7 +7848,11 @@
   </url><url>
     <loc>http://localhost:1313/game/wipeout-phantom-edition-pc-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/wipeout-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/wipeout-xl-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wipeout-xl-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/wizardry/</loc>
   </url><url>
@@ -7829,6 +7927,10 @@
     <loc>http://localhost:1313/game/xash3d-fwgs-engine-for-half-life-blue-shift-opposing-force/</loc>
   </url><url>
     <loc>http://localhost:1313/game/xcom-enemy-unknown-long-war/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/xena/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/xena-warrior-princess-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/xenoblade/</loc>
   </url><url>
