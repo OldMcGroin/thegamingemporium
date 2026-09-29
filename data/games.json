@@ -43440,6 +43440,54 @@
     "series": "Star Fox",
     "video_link": "",
     "date_added": "2026-09-29"
+  },
+    {
+    "id": 3339,
+    "title": "Viva Pinata Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/crabinacrabic/VivaPinataRecomp",
+    "genre1": "life-simulator",
+    "genre2": "",
+    "series": "Viva Pinata",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3340,
+    "title": "Tekken 3 Recompilation - 18 Tekken Tag Tournament Characters Expansion",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/omarma/tekken3-expanded?utm_source=gemini",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Tekken",
+    "video_link": "https://youtu.be/Th9PMY7SybA?si=Y7_LLOprQ8s_ptfq",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3341,
+    "title": "Crash of the Titans Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/OAleex/MojoRecomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3342,
+    "title": "Call of Duty: Modern Warfare 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/PaulCombal/mw2-recompiled",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
+    "video_link": "",
+    "date_added": "2026-09-29"
   }
 
 
