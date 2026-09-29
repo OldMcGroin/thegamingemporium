@@ -5,7 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/xena-warrior-princess-recomp"
   category: "decompilations-recompilations"
-  genre1: "acti0n"
+  genre1: "action"
   genre2: ""
   series: "Xena"
   video_link: ""

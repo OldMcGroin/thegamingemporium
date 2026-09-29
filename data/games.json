@@ -43423,9 +43423,21 @@
     "category": "decompilations-recompilations",
     "platform": "PlayStation",
     "link": "https://github.com/alexbeavs-ps1-ports/xena-warrior-princess-recomp",
-    "genre1": "acti0n",
+    "genre1": "action",
     "genre2": "",
     "series": "Xena",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3337,
+    "title": "Star Fox Adventures PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://foxhollow.dev/",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "Star Fox",
     "video_link": "",
     "date_added": "2026-09-29"
   }
