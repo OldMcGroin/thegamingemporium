@@ -1154,6 +1154,8 @@
   </url><url>
     <loc>http://localhost:1313/game/conker-s-bad-fur-day-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/conker-s-bad-fur-day-recompilation-2/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/console-ports/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/console-to-pc-port/</loc>
@@ -1890,6 +1892,8 @@
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-zero-hour-recompilation-first-person-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/duke-nukem-land-of-the-babes-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/duke-nukem-time-to-kill-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dune/</loc>
@@ -2232,6 +2236,12 @@
   </url><url>
     <loc>http://localhost:1313/game/fear-and-hunger-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/fear-effect/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fear-effect-2-retro-helix-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fear-effect-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fheroes2-heroes-of-might-magic-2-recreation/</loc>
@@ -2245,6 +2255,10 @@
     <loc>http://localhost:1313/game/fightcade-a-matchmaking-application-for-playing-retro-games-online/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/fighting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/fighting-force/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fighting-force-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/final-fantasy/</loc>
   </url><url>
@@ -2268,6 +2282,8 @@
   </url><url>
     <loc>http://localhost:1313/game/final-fantasy-crystal-chronicles-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/final-fantasy-ix-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/final-fantasy-mystic-quest-megadrive-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/final-fantasy-renaissance/</loc>
@@ -2283,6 +2299,8 @@
     <loc>http://localhost:1313/game/final-fantasy-vii-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/final-fantasy-viii-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/final-fantasy-viii-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/final-fantasy-x-2-last-mission-ps2/</loc>
   </url><url>
@@ -2472,6 +2490,14 @@
   </url><url>
     <loc>http://localhost:1313/series/future-cop/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/future-cop-l-a-p-d-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/g-police/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/g-police-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/g-police-weapons-of-justice-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/g-zero/</loc>
   </url><url>
     <loc>http://localhost:1313/series/g-zero/</loc>
@@ -2481,6 +2507,10 @@
     <loc>http://localhost:1313/series/galaga/</loc>
   </url><url>
     <loc>http://localhost:1313/game/galaga-galaxian-dx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/galerians/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/galerians-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/game-collection-portal-beta-cuphead-buckshot-roulette-and-smm-we-for-android/</loc>
   </url><url>
@@ -2523,6 +2553,10 @@
     <loc>http://localhost:1313/series/gex/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gex-64-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/ghost-in-the-shell/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ghost-in-the-shell-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ghost-recon/</loc>
   </url><url>
@@ -2976,11 +3010,19 @@
   </url><url>
     <loc>http://localhost:1313/series/imperium-galactica/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/in-cold-blood/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/in-cold-blood-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/in-the-works/</loc>
   </url><url>
     <loc>http://localhost:1313/series/inazuma-eleven-strikers/</loc>
   </url><url>
     <loc>http://localhost:1313/game/inazuma-eleven-strikers-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/incredible-crisis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/incredible-crisis-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/indycar-racing/</loc>
   </url><url>
@@ -3059,6 +3101,10 @@
     <loc>http://localhost:1313/game/jackie-chan-stuntmaster-pc-port-steam-deck-fork/</loc>
   </url><url>
     <loc>http://localhost:1313/game/jackie-chan-stuntmaster-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/jade-cocoon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/jade-cocoon-story-of-the-tamamayu-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/jagged-alliance/</loc>
   </url><url>
@@ -3155,6 +3201,10 @@
     <loc>http://localhost:1313/series/kameo/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kameo-elements-of-power-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/kartia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/kartia-the-word-of-fate-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/katawa-shoujo/</loc>
   </url><url>
@@ -3262,6 +3312,10 @@
   </url><url>
     <loc>http://localhost:1313/game/konjiki-no-gash-bell-go-go-mamono-fight-nintendo-gamecube/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/koudelka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/koudelka-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/kowloons-gate/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kowloon-s-gate-playstation/</loc>
@@ -3269,6 +3323,8 @@
     <loc>http://localhost:1313/series/kula-world/</loc>
   </url><url>
     <loc>http://localhost:1313/game/kula-world-32x-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/kula-world-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/kung-fu-panda/</loc>
   </url><url>
@@ -3303,6 +3359,8 @@
     <loc>http://localhost:1313/game/left-4-dead-2-beta-restoration-project/</loc>
   </url><url>
     <loc>http://localhost:1313/game/legacy-of-kain-soul-reaver-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/legacy-of-kain-soul-reaver-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/legend-of-dragoon/</loc>
   </url><url>
@@ -3604,6 +3662,10 @@
   </url><url>
     <loc>http://localhost:1313/game/mario-s-modules-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/martian-gothic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/martian-gothic-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/martian-gothic-unification/</loc>
   </url><url>
     <loc>http://localhost:1313/series/marvel/</loc>
@@ -3642,6 +3704,10 @@
   </url><url>
     <loc>http://localhost:1313/game/mbhaxe-marble-blast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/mdk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mdk-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/mech/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/mech-fighting/</loc>
@@ -3667,6 +3733,8 @@
     <loc>http://localhost:1313/game/medievel-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/medievil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/medievil-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-castlevania-iv/</loc>
   </url><url>
@@ -3702,7 +3770,11 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-legends-rockman-dash-great-adventureon-5-islands/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mega-man-legends-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mega-man-legends-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mega-man-legends-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-maker/</loc>
   </url><url>
@@ -3758,6 +3830,10 @@
   </url><url>
     <loc>http://localhost:1313/game/memoria-tools-for-final-fantasy-ix/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/men-in-black/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/men-in-black-the-game-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/mercenaries/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mercenaries-recompilation/</loc>
@@ -3786,6 +3862,8 @@
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-fan-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/metal-gear-solid-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-v-the-phantom-pain-ground-zeroes/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-gear-solid-vr/</loc>
@@ -3795,6 +3873,8 @@
     <loc>http://localhost:1313/series/metal-slug/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-slug-counter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/metal-slug-x-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metal-slug-xx-recompilation/</loc>
   </url><url>
@@ -3963,6 +4043,12 @@
     <loc>http://localhost:1313/game/monster-hunter-stories-3-twisted-reflection-hd-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/monster-hunter-world-seamless-co-op/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/monster-rancher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/monster-rancher-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/monster-rancher-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/moon-child/</loc>
   </url><url>
