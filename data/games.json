@@ -42540,6 +42540,126 @@
     "series": "Destruction Derby",
     "video_link": "",
     "date_added": "2026-09-28"
+  },
+    {
+    "id": 3263,
+    "title": "Rocket: Robot on Wheels Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/ThatGuyMcd/Rocket-R",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Rocket: Robot on Wheels",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3264,
+    "title": "Devil Dice Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/devil-dice-recomp",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Devil Dice",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3265,
+    "title": "Diablo Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/diablo-recomp",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Diablo",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3266,
+    "title": "Digimon World 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/digimon-world-2-recomp",
+    "genre1": "creature-collector",
+    "genre2": "rpg",
+    "series": "Digimon",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3267,
+    "title": "Dino Crisis Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/dino-crisis-recomp",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Dino Crisis",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3268,
+    "title": "Dino Crisis 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/dino-crisis-2-recomp",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "series": "Dino Crisis",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3269,
+    "title": "Dragon Ball Z: Ultimate Battle 22 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/dragon-ball-z-ultimate-battle-22-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3270,
+    "title": "Driver Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/driver-recomp",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Driver",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3271,
+    "title": "Duke Nukem: Time to Kill Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/duke-nukem-time-to-kill-recomp",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Duke Nukem",
+    "video_link": "",
+    "date_added": "2026-09-29"
+  },
+    {
+    "id": 3272,
+    "title": "Fade to Black Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/alexbeavs-ps1-ports/fade-to-black-recomp",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Flashback",
+    "video_link": "",
+    "date_added": "2026-09-29"
   }
 
 

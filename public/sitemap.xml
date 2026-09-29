@@ -1548,6 +1548,10 @@
   </url><url>
     <loc>http://localhost:1313/game/deus-ex-human-revolution-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/devil-dice/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/devil-dice-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/devil-may-cry/</loc>
   </url><url>
     <loc>http://localhost:1313/game/devil-may-cry-4-refrain-vita/</loc>
@@ -1569,6 +1573,8 @@
     <loc>http://localhost:1313/game/diablo-3-xbox-360-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diablo-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/diablo-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/diddy-kong-racing-decompilation/</loc>
   </url><url>
@@ -1592,6 +1598,8 @@
   </url><url>
     <loc>http://localhost:1313/game/digimon-world-2-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/digimon-world-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/digimon-world-4-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/digimon-world-decompilation/</loc>
@@ -1608,7 +1616,11 @@
   </url><url>
     <loc>http://localhost:1313/series/dino-crisis/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dino-crisis-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dino-crisis-modern-controls-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dino-crisis-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dinosaur-planet/</loc>
   </url><url>
@@ -1784,6 +1796,8 @@
   </url><url>
     <loc>http://localhost:1313/game/dragon-ball-z-the-legend-sega-saturn/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dragon-ball-z-ultimate-battle-22-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dragon-ballz-dio-moveset/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-ballz-yamiyugi-moveset/</loc>
@@ -1840,6 +1854,8 @@
   </url><url>
     <loc>http://localhost:1313/series/driver/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/driver-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/driving/</loc>
   </url><url>
     <loc>http://localhost:1313/series/driving-strikers/</loc>
@@ -1873,6 +1889,8 @@
     <loc>http://localhost:1313/game/duke-nukem-zero-hour-overclocked-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-zero-hour-recompilation-first-person-mod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/duke-nukem-time-to-kill-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dune/</loc>
   </url><url>
@@ -2091,6 +2109,8 @@
     <loc>http://localhost:1313/game/factorio-space-exploration/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/factory-simulator/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fade-to-black-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/fallout/</loc>
   </url><url>
@@ -5263,6 +5283,8 @@
     <loc>http://localhost:1313/series/rocket-robot-on-wheels/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rocket-robot-on-wheels-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rocket-robot-on-wheels-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rockman-forte-snes/</loc>
   </url><url>
