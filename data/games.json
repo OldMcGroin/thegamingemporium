@@ -43488,6 +43488,18 @@
     "series": "Call of Duty",
     "video_link": "",
     "date_added": "2026-09-29"
+  },
+    {
+    "id": 3343,
+    "title": "Halo CE in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://halo-web.otherness-bugs.workers.dev/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "date_added": "2026-09-29"
   }
 
 
