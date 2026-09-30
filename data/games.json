@@ -43836,6 +43836,30 @@
     "series": "Shin Megami Tensei",
     "video_link": "",
     "date_added": "2026-09-30"
+  },
+    {
+    "id": 3372,
+    "title": "Galaxy on Fire 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Android",
+    "link": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+    "genre1": "space-combat-simulator",
+    "genre2": "trading",
+    "series": "Galaxy on Fire",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3373,
+    "title": "Galaxy on Fire 2 Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+    "genre1": "space-combat-simulator",
+    "genre2": "trading",
+    "series": "Galaxy on Fire",
+    "video_link": "",
+    "date_added": "2026-09-30"
   }
 
 
