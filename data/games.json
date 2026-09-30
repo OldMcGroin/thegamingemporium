@@ -43704,6 +43704,138 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-09-30"
+  },
+    {
+    "id": 3361,
+    "title": "EarthBound PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/TheRunaway5/Phase-Distorter",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "EarthBound",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3362,
+    "title": "CafeRecomp - Static Wii U Recompiler",
+    "category": "utility",
+    "platform": "",
+    "link": "https://github.com/hardkiller2565123123/CafeRecomp",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3363,
+    "title": "Super Smash Bros. Melee Recompilation - GD's Melee with Rollback Netplay",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://github.com/GurekamDhillon/gd-melee-workspace",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3364,
+    "title": "Digimon World 3 Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/juandav/dw3_decomp",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Digimon",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3365,
+    "title": "Sonic 3D Blast for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://gamejolt.com/games/sonic3DB/592933",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3366,
+    "title": "Garry's Mod for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://www.moddb.com/mods/garrys-mod-13-xash-new-beta-09-gmod-on-android-unofficial",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3367,
+    "title": "Sonic 3 Angel Island Revisited for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://gamejolt.com/games/Sonic3air/849542",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3368,
+    "title": "Magic Carpet 2",
+    "category": "open-source",
+    "platform": "",
+    "link": "https://github.com/thobbsinteractive/magic-carpet-2-hd",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Magic Carpet",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3369,
+    "title": "Shin Megami Tensei: Digital Devil Saga 1 and 2 Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/Megami-Decomps/dds-decomp",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Shin Megami Tensei",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3370,
+    "title": "Crimsonland Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/banteg/crimson",
+    "genre1": "rpg",
+    "genre2": "shoot-em-up",
+    "series": "Crimsonland",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+    {
+    "id": 3371,
+    "title": "Shin Megami Tensei: Persona 4 Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/Raikaru/Persona4-Decompilation",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Shin Megami Tensei",
+    "video_link": "",
+    "date_added": "2026-09-30"
   }
 
 
