@@ -244,6 +244,10 @@
   </url><url>
     <loc>http://localhost:1313/game/amnesia-the-dark-descent-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/amplitude/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/amplitude-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/an-idiots-guide-to-setting-up-minecraft-on-steam-deck-steamos-with-controller-support/</loc>
   </url><url>
     <loc>http://localhost:1313/game/an-introduction-to-understanding-hacking-8-bit-graphics-a-tutorial/</loc>
@@ -1736,6 +1740,8 @@
   </url><url>
     <loc>http://localhost:1313/game/doom-64-switch-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/doom-eternal-vr/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/doom-infinite-doom-2-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/doom-roguelike/</loc>
@@ -2814,6 +2820,8 @@
   </url><url>
     <loc>http://localhost:1313/game/halo-3-permafrost/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/halo-3-project-reclaimer/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/halo-campaign-evolved-split-screen-co-op-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/halo-ce-in-browser/</loc>
@@ -3393,6 +3401,10 @@
     <loc>http://localhost:1313/game/lego-island-web-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lego-racers-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/lego-racers-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/lego-racers-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lego-star-wars-iii-the-clone-wars-decompilation/</loc>
   </url><url>
@@ -3991,6 +4003,8 @@
     <loc>http://localhost:1313/game/mischief-makers-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mischief-makers-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/mistover/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mizzurna-falls/</loc>
   </url><url>
@@ -5802,6 +5816,8 @@
   </url><url>
     <loc>http://localhost:1313/game/skywind/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/slave-zero-x-episode-enyo/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/slay-the-spire/</loc>
   </url><url>
     <loc>http://localhost:1313/game/slay-the-spire-downfall/</loc>
@@ -6118,6 +6134,8 @@
   </url><url>
     <loc>http://localhost:1313/series/splatterhouse/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/splatterhouse-3-co-op/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/splinter-cell/</loc>
   </url><url>
     <loc>http://localhost:1313/game/splinter-cell-enhanced/</loc>
@@ -6213,6 +6231,8 @@
     <loc>http://localhost:1313/game/star-wars-trilogy-arcade-sega-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-x-wing-special-edition-xwvm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/star-wars-dark-forces-nintendo-64-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/star-wars-empire-at-war-forces-of-corruption-republic-at-war/</loc>
   </url><url>
@@ -7831,6 +7851,8 @@
     <loc>http://localhost:1313/game/widelands/</loc>
   </url><url>
     <loc>http://localhost:1313/series/widelands/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/wii-party/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wii-party-recompilation/</loc>
   </url><url>

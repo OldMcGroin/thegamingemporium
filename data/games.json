@@ -41940,7 +41940,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3214,
     "title": "Ultimate Flash Sonic in Browser",
     "category": "browser-based",
@@ -41952,7 +41952,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3215,
     "title": "195-0 World Draft in Browser",
     "category": "browser-based",
@@ -41964,7 +41964,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3216,
     "title": "CPS Test in Browser",
     "category": "browser-based",
@@ -41976,7 +41976,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3217,
     "title": "Castle Crashers Refracted",
     "category": "mods",
@@ -41988,7 +41988,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3218,
     "title": "Jelly Mario in Browser",
     "category": "browser-based",
@@ -42000,7 +42000,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3218,
     "title": "Lego Dimensions Recompilation",
     "category": "decompilations-recompilations",
@@ -42012,7 +42012,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3219,
     "title": "Quake 2 for Android",
     "category": "android-ports",
@@ -42024,7 +42024,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3220,
     "title": "Wii Party Recompilation",
     "category": "decompilations-recompilations",
@@ -42034,9 +42034,10 @@
     "genre2": "",
     "series": "",
     "video_link": "",
-    "date_added": "2026-09-27"
+    "date_added": "2026-09-27",
+    "hidden": true
   },
-    {
+  {
     "id": 3221,
     "title": "Rabbids Go Home PC Port",
     "category": "console-to-pc-port",
@@ -42048,7 +42049,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3222,
     "title": "Rayman for Android",
     "category": "android-ports",
@@ -42060,7 +42061,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3223,
     "title": "Katawa Shoujo: Re-Engineered",
     "category": "open-source",
@@ -42072,7 +42073,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3224,
     "title": "Taisei Project",
     "category": "open-source",
@@ -42084,7 +42085,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3225,
     "title": "Pokemon Mystery Dungeon: Red Rescue Team Recompilation",
     "category": "decompilations-recompilations",
@@ -42096,7 +42097,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3226,
     "title": "Project Zomboid 3D Mod",
     "category": "mods",
@@ -42108,7 +42109,7 @@
     "video_link": "https://youtu.be/FBqsMaH4B44?si=qK-CjiPPX1TuyJ1-",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3227,
     "title": "Monster Hunter: World Seamless Co-op",
     "category": "mods",
@@ -42120,7 +42121,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3228,
     "title": "Need for Speed: Most Wanted Nintendo Switch Port",
     "category": "console-ports",
@@ -42132,7 +42133,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3229,
     "title": "The Darkness Recompilation",
     "category": "decompilations-recompilations",
@@ -42144,7 +42145,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3230,
     "title": "Valheim for Android",
     "category": "android-ports",
@@ -42156,7 +42157,7 @@
     "video_link": "",
     "date_added": "2026-09-27"
   },
-    {
+  {
     "id": 3231,
     "title": "Mercenaries Recompilation",
     "category": "decompilations-recompilations",
@@ -42168,7 +42169,7 @@
     "video_link": "https://youtu.be/HWys7Itl6pA?si=qsP7PVs-Nq5bSSu9",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3232,
     "title": "Dead Cells PC Port",
     "category": "decompilations-recompilations",
@@ -42180,7 +42181,7 @@
     "video_link": "https://youtu.be/anOHF5aPzwk?si=2Oj36TsuCfS4vkV2",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3233,
     "title": "Hydro Thunder Online PC Port",
     "category": "decompilations-recompilations",
@@ -42192,7 +42193,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3234,
     "title": "Doraemon: Nobita to Mittsu no Seireiseki Recompilation",
     "category": "decompilations-recompilations",
@@ -42204,7 +42205,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3235,
     "title": "Doraemon: Nobita to Mittsu no Seireiseki Recompilation for Android",
     "category": "android-ports",
@@ -42216,7 +42217,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3236,
     "title": "Buffy the Vampire Slayer: Chaos Bleeds Recompilation",
     "category": "decompilations-recompilations",
@@ -42228,7 +42229,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3237,
     "title": "NBA JAM: On Fire Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -42240,7 +42241,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3238,
     "title": "NBA JAM: On Fire Edition Recompilation Mods",
     "category": "decompilations-recompilations",
@@ -42252,7 +42253,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3239,
     "title": "Serial Experiments Lain Recompilation",
     "category": "decompilations-recompilations",
@@ -42264,7 +42265,7 @@
     "video_link": "https://youtu.be/K-OKUkhJ7Uc?si=FTqCJJIKQNCbeSGn",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3240,
     "title": "Sheep, Dog 'n' Wolf Recompilation",
     "category": "decompilations-recompilations",
@@ -42276,7 +42277,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3241,
     "title": "Serious Sam: Next Encounter Recompilation",
     "category": "decompilations-recompilations",
@@ -42288,7 +42289,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3242,
     "title": "Halo: Combat Evolved Recompilation",
     "category": "decompilations-recompilations",
@@ -42300,7 +42301,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3243,
     "title": "Halo: Combat Evolved Recompilation for Android",
     "category": "android-ports",
@@ -42312,7 +42313,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3244,
     "title": "Saints Row Recompilation",
     "category": "decompilations-recompilations",
@@ -42324,7 +42325,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3245,
     "title": "WWE SmackDown vs. Raw 2011 Recompilation",
     "category": "decompilations-recompilations",
@@ -42336,7 +42337,7 @@
     "video_link": "https://youtu.be/jbffxypoUNQ?si=BaCKsHQH2Ir6aut7",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3246,
     "title": "Ace Combat 3 Electrosphere Recompilation",
     "category": "decompilations-recompilations",
@@ -42348,7 +42349,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3247,
     "title": "Alone in the Dark: The New Nightmare Recompilation",
     "category": "decompilations-recompilations",
@@ -42360,7 +42361,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3248,
     "title": "Alundra Recompilation",
     "category": "decompilations-recompilations",
@@ -42372,7 +42373,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3249,
     "title": "Apocalypse Recompilation",
     "category": "decompilations-recompilations",
@@ -42384,7 +42385,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3250,
     "title": "Armored Core: Master of Arena Recompilation",
     "category": "decompilations-recompilations",
@@ -42396,7 +42397,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3251,
     "title": "Armored Core: Project Phantasma Recompilation",
     "category": "decompilations-recompilations",
@@ -42408,7 +42409,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3252,
     "title": "Azure Dreams Recompilation",
     "category": "decompilations-recompilations",
@@ -42420,7 +42421,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3253,
     "title": "Blood Omen: Legacy of Kain Recompilation",
     "category": "decompilations-recompilations",
@@ -42432,7 +42433,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3254,
     "title": "Star Wars: X-Wing Reimplementation",
     "category": "decompilations-recompilations",
@@ -42444,7 +42445,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3255,
     "title": "Tiny Toon Adventures: Buster Busts Loose! Recompilation",
     "category": "decompilations-recompilations",
@@ -42456,7 +42457,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3256,
     "title": "Kingdom Come: Deliverance 2 Multiplayer Mod",
     "category": "mods",
@@ -42468,7 +42469,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3257,
     "title": "Cut the Rope in Browser",
     "category": "browser-based",
@@ -42480,8 +42481,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-
-    {
+  {
     "id": 3258,
     "title": "Brave Fencer Musashi Recompilation",
     "category": "decompilations-recompilations",
@@ -42493,7 +42493,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3259,
     "title": "Colin McRae Rally 2.0 Recompilation",
     "category": "decompilations-recompilations",
@@ -42505,7 +42505,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3260,
     "title": "Colony Wars Recompilation",
     "category": "decompilations-recompilations",
@@ -42517,7 +42517,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3261,
     "title": "Crash Bandicoot 3: Warped Recompilation",
     "category": "decompilations-recompilations",
@@ -42529,7 +42529,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3262,
     "title": "Destruction Derby 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -42541,7 +42541,7 @@
     "video_link": "",
     "date_added": "2026-09-28"
   },
-    {
+  {
     "id": 3263,
     "title": "Rocket: Robot on Wheels Recompilation",
     "category": "decompilations-recompilations",
@@ -42553,7 +42553,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3264,
     "title": "Devil Dice Recompilation",
     "category": "decompilations-recompilations",
@@ -42565,7 +42565,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3265,
     "title": "Diablo Recompilation",
     "category": "decompilations-recompilations",
@@ -42577,7 +42577,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3266,
     "title": "Digimon World 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -42589,7 +42589,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3267,
     "title": "Dino Crisis Recompilation",
     "category": "decompilations-recompilations",
@@ -42601,7 +42601,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3268,
     "title": "Dino Crisis 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -42613,7 +42613,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3269,
     "title": "Dragon Ball Z: Ultimate Battle 22 Recompilation",
     "category": "decompilations-recompilations",
@@ -42625,7 +42625,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3270,
     "title": "Driver Recompilation",
     "category": "decompilations-recompilations",
@@ -42637,7 +42637,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3271,
     "title": "Duke Nukem: Time to Kill Recompilation",
     "category": "decompilations-recompilations",
@@ -42649,7 +42649,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3272,
     "title": "Fade to Black Recompilation",
     "category": "decompilations-recompilations",
@@ -42661,7 +42661,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3273,
     "title": "Conker's Bad Fur Day Recompilation 2",
     "category": "decompilations-recompilations",
@@ -42673,7 +42673,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3273,
     "title": "Duke Nukem: Land of the Babes Recompilation",
     "category": "decompilations-recompilations",
@@ -42685,7 +42685,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3274,
     "title": "Fear Effect Recompilation",
     "category": "decompilations-recompilations",
@@ -42697,7 +42697,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3275,
     "title": "Fighting Force Recompilation",
     "category": "decompilations-recompilations",
@@ -42709,7 +42709,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3276,
     "title": "Final Fantasy IX Recompilation",
     "category": "decompilations-recompilations",
@@ -42721,7 +42721,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3277,
     "title": "Final Fantasy VIII Recompilation",
     "category": "decompilations-recompilations",
@@ -42733,7 +42733,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3278,
     "title": "Future Cop: L.A.P.D. Recompilation",
     "category": "decompilations-recompilations",
@@ -42745,7 +42745,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3279,
     "title": "G-Police Recompilation",
     "category": "decompilations-recompilations",
@@ -42757,7 +42757,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3280,
     "title": "G-Police: Weapons of Justice Recompilation",
     "category": "decompilations-recompilations",
@@ -42769,7 +42769,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3281,
     "title": "Galerians Recompilation",
     "category": "decompilations-recompilations",
@@ -42781,7 +42781,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3282,
     "title": "Ghost in the Shell Recompilation",
     "category": "decompilations-recompilations",
@@ -42793,7 +42793,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3283,
     "title": "In Cold Blood Recompilation",
     "category": "decompilations-recompilations",
@@ -42805,7 +42805,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3284,
     "title": "Incredible Crisis Recompilation",
     "category": "decompilations-recompilations",
@@ -42817,7 +42817,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3285,
     "title": "Jade Cocoon: Story of the Tamamayu Recompilation",
     "category": "decompilations-recompilations",
@@ -42829,7 +42829,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3286,
     "title": "Kartia: The Word of Fate Recompilation",
     "category": "decompilations-recompilations",
@@ -42841,7 +42841,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3287,
     "title": "Koudelka Recompilation",
     "category": "decompilations-recompilations",
@@ -42853,7 +42853,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3288,
     "title": "Kula World Recompilation",
     "category": "decompilations-recompilations",
@@ -42865,7 +42865,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3289,
     "title": "Legacy of Kain: Soul Reaver Recompilation",
     "category": "decompilations-recompilations",
@@ -42877,7 +42877,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3290,
     "title": "Martian Gothic Recompilation",
     "category": "decompilations-recompilations",
@@ -42889,7 +42889,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3291,
     "title": "MDK Recompilation",
     "category": "decompilations-recompilations",
@@ -42901,7 +42901,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3292,
     "title": "MediEvil Recompilation",
     "category": "decompilations-recompilations",
@@ -42913,7 +42913,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3294,
     "title": "Mega Man Legends Recompilation",
     "category": "decompilations-recompilations",
@@ -42925,7 +42925,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3295,
     "title": "Mega Man Legends 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -42937,7 +42937,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3296,
     "title": "Men in Black: The Game Recompilation",
     "category": "decompilations-recompilations",
@@ -42949,7 +42949,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3297,
     "title": "Metal Gear Solid Recompilation",
     "category": "decompilations-recompilations",
@@ -42961,7 +42961,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3298,
     "title": "Metal Slug X Recompilation",
     "category": "decompilations-recompilations",
@@ -42973,7 +42973,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3299,
     "title": "Monster Rancher Recompilation",
     "category": "decompilations-recompilations",
@@ -42985,7 +42985,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3300,
     "title": "Monster Rancher 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -42997,7 +42997,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3301,
     "title": "Fear Effect 2: Retro Helix Recompilation",
     "category": "decompilations-recompilations",
@@ -43009,7 +43009,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3302,
     "title": "Resident Evil: Survive",
     "category": "fan-games",
@@ -43021,7 +43021,7 @@
     "video_link": "https://youtu.be/f_YaQS54DL4?si=AO3Mt4euhxtkYfVz",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3303,
     "title": "Mortal Kombat 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -43033,7 +43033,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3304,
     "title": "Mortal Kombat Trilogy Recompilation",
     "category": "decompilations-recompilations",
@@ -43045,7 +43045,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3305,
     "title": "Nightmare Creatures Recompilation",
     "category": "decompilations-recompilations",
@@ -43057,7 +43057,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3306,
     "title": "Oddworld: Abe's Oddysee Recompilation",
     "category": "decompilations-recompilations",
@@ -43069,7 +43069,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3307,
     "title": "Parasite Eve Recompilation",
     "category": "decompilations-recompilations",
@@ -43081,7 +43081,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3308,
     "title": "Pro Pinball: Timeshock! Recompilation",
     "category": "decompilations-recompilations",
@@ -43093,7 +43093,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3309,
     "title": "Quake 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43105,7 +43105,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3310,
     "title": "R-Type Delta Recompilation",
     "category": "decompilations-recompilations",
@@ -43117,7 +43117,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3311,
     "title": "Resident Evil 3: Nemesis Recompilation",
     "category": "decompilations-recompilations",
@@ -43129,7 +43129,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3312,
     "title": "Rival Schools: Evolution Recompilation",
     "category": "decompilations-recompilations",
@@ -43141,7 +43141,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3313,
     "title": "Rival Schools: United by Fate Recompilation",
     "category": "decompilations-recompilations",
@@ -43153,7 +43153,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3314,
     "title": "Rollcage Stage 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43165,7 +43165,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3315,
     "title": "Silent Bomber Recompilation",
     "category": "decompilations-recompilations",
@@ -43177,7 +43177,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3316,
     "title": "Star Wars Episode I: The Phantom Menace Recompilation",
     "category": "decompilations-recompilations",
@@ -43189,7 +43189,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3317,
     "title": "Suikoden Recompilation",
     "category": "decompilations-recompilations",
@@ -43201,7 +43201,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3318,
     "title": "Suikoden 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43213,7 +43213,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3319,
     "title": "Syphon Filter 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -43225,7 +43225,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3320,
     "title": "Tail Concerto Recompilation",
     "category": "decompilations-recompilations",
@@ -43237,7 +43237,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3321,
     "title": "Team Buddies Recompilation",
     "category": "decompilations-recompilations",
@@ -43249,7 +43249,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3322,
     "title": "The Fifth Element Recompilation",
     "category": "decompilations-recompilations",
@@ -43261,7 +43261,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3323,
     "title": "The Lost World: Jurassic Park Special Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -43273,7 +43273,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3324,
     "title": "The Misadventures of Tron Bonne Recompilation",
     "category": "decompilations-recompilations",
@@ -43285,7 +43285,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3325,
     "title": "The Mummy Recompilation",
     "category": "decompilations-recompilations",
@@ -43297,7 +43297,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3326,
     "title": "Threads of Fate Recompilation",
     "category": "decompilations-recompilations",
@@ -43309,7 +43309,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3327,
     "title": "Tokyo Highway Battle Recompilation",
     "category": "decompilations-recompilations",
@@ -43321,7 +43321,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3328,
     "title": "Tony Hawk's Pro Skater Recompilation",
     "category": "decompilations-recompilations",
@@ -43333,7 +43333,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3329,
     "title": "Tony Hawk's Pro Skater 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43345,7 +43345,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3330,
     "title": "Tony Hawk's Pro Skater 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -43357,7 +43357,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3331,
     "title": "Tony Hawk's Pro Skater 4 Recompilation",
     "category": "decompilations-recompilations",
@@ -43369,7 +43369,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3332,
     "title": "Vampire Hunter D Recompilation",
     "category": "decompilations-recompilations",
@@ -43381,7 +43381,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3333,
     "title": "Vib Ribbon Recompilation",
     "category": "decompilations-recompilations",
@@ -43393,7 +43393,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3334,
     "title": "Wipeout Recompilation",
     "category": "decompilations-recompilations",
@@ -43405,7 +43405,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3335,
     "title": "Wipeout XL Recompilation",
     "category": "decompilations-recompilations",
@@ -43417,7 +43417,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3336,
     "title": "Xena: Warrior Princess Recompilation",
     "category": "decompilations-recompilations",
@@ -43429,7 +43429,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3337,
     "title": "Star Fox Adventures PC Port",
     "category": "decompilations-recompilations",
@@ -43441,7 +43441,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3339,
     "title": "Viva Pinata Recompilation",
     "category": "decompilations-recompilations",
@@ -43453,7 +43453,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3340,
     "title": "Tekken 3 Recompilation - 18 Tekken Tag Tournament Characters Expansion",
     "category": "decompilations-recompilations",
@@ -43465,7 +43465,7 @@
     "video_link": "https://youtu.be/Th9PMY7SybA?si=Y7_LLOprQ8s_ptfq",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3341,
     "title": "Crash of the Titans Recompilation",
     "category": "decompilations-recompilations",
@@ -43477,7 +43477,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3342,
     "title": "Call of Duty: Modern Warfare 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43489,7 +43489,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3343,
     "title": "Halo CE in Browser",
     "category": "browser-based",
@@ -43501,7 +43501,7 @@
     "video_link": "",
     "date_added": "2026-09-29"
   },
-    {
+  {
     "id": 3344,
     "title": "Resident Evil Recompilation",
     "category": "decompilations-recompilations",
@@ -43512,10 +43512,125 @@
     "series": "Resident Evil",
     "video_link": "",
     "date_added": "2026-09-29"
+  },
+  {
+    "id": 3345,
+    "title": "Slave Zero X: Episode Enyo",
+    "category": "mods",
+    "platform": "",
+    "link": "https://poppyworks.itch.io/episode-enyo",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Quake",
+    "video_link": "https://youtu.be/GaeiYsu7WfU?si=4hELwa-NZfxL7ZEG",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3346,
+    "title": "Doom Eternal VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/CactusVRStudios/KHARVOX-ARGENT",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Doom",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3347,
+    "title": "Splatterhouse 3 Co-op",
+    "category": "fan-games",
+    "platform": "",
+    "link": "https://github.com/Linn1024/splatterhouse3-coop",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "series": "Splatterhouse",
+    "video_link": "https://youtu.be/fycVlL3fBNg?si=TK-wEXT0LqYTVi9z",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3348,
+    "title": "LEGO Racers Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://navigatorsharp.itch.io/steponit",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Lego",
+    "video_link": "https://youtu.be/Hl6ZT8p-fG4?si=4Meiyf28u2ZyCZns",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3349,
+    "title": "LEGO Racers in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://steponit.online/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Lego",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3350,
+    "title": "Halo 3: Project Reclaimer",
+    "category": "mods",
+    "platform": "",
+    "link": "https://projectreclaimer.dev/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3351,
+    "title": "Mistover PC Patched",
+    "category": "abandonware",
+    "platform": "",
+    "link": "https://transfer.it/t/KoIDHkpXyR6D",
+    "genre1": "rpg",
+    "genre2": "roguelike",
+    "series": "Mistover",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3352,
+    "title": "Star Wars: Dark Forces Nintendo 64 Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/BigChat88/N64DarkForcesPort",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Star Wars",
+    "video_link": "",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3353,
+    "title": "Amplitude Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://gitlab.com/ztpeditor/project-amp/-/releases",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Amplitude",
+    "video_link": "https://youtu.be/1FB01Mi484Q?si=EnA5M32HIkoca0RL",
+    "date_added": "2026-09-30"
+  },
+  {
+    "id": 3354,
+    "title": "Wii Party Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Wii",
+    "link": "https://arelkair.dev/work/wii-party-recomp",
+    "genre1": "party-game",
+    "genre2": "",
+    "series": "Wii Party",
+    "video_link": "",
+    "date_added": "2026-09-30"
   }
-
-
-
-
-
 ]
