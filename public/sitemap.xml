@@ -288,6 +288,10 @@
   </url><url>
     <loc>http://localhost:1313/game/animaniacs-hollywood-hypnotics-gameboy-advance/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/another-mind/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/another-mind-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/another-princess-is-in-our-castle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/another-world/</loc>
@@ -487,6 +491,8 @@
     <loc>http://localhost:1313/game/banjo-kazooie-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/banjo-tooie-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/banjo-tooie-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/barbarian/</loc>
   </url><url>
@@ -1476,6 +1482,8 @@
   </url><url>
     <loc>http://localhost:1313/series/dead-or-alive/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dead-or-alive-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dead-or-alive-xtreme-beach-volleyball-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dead-rising/</loc>
@@ -2413,6 +2421,8 @@
     <loc>http://localhost:1313/series/forza/</loc>
   </url><url>
     <loc>http://localhost:1313/game/forza-horizon-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/forza-horizon-recompilation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/forza-motorsport-4-recompilation/</loc>
   </url><url>
@@ -3693,6 +3703,8 @@
     <loc>http://localhost:1313/game/mario-party-5-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-party-netplay/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-strikers-charged-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-superstar-baseball-decompilation/</loc>
   </url><url>
