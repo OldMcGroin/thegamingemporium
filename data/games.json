@@ -44459,7 +44459,8 @@
     "genre2": "adventure",
     "series": "Minecraft",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3424,
