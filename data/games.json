@@ -44519,7 +44519,8 @@
     "genre2": "",
     "series": "Super Mario",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3429,
@@ -44531,7 +44532,8 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3430,
@@ -44543,7 +44545,8 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3431,
@@ -44555,7 +44558,8 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3432,
