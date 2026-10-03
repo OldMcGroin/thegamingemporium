@@ -252,6 +252,10 @@
   </url><url>
     <loc>http://localhost:1313/game/amnesia-the-dark-descent-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/among-us/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/among-us-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/amplitude/</loc>
   </url><url>
     <loc>http://localhost:1313/game/amplitude-recompilation/</loc>
@@ -588,6 +592,10 @@
   </url><url>
     <loc>http://localhost:1313/game/belzerion-3do/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/bendy-and-the-ink-machine/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/bendy-and-the-ink-machine-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/beyond-all-reason/</loc>
   </url><url>
     <loc>http://localhost:1313/series/beyond-all-reason/</loc>
@@ -763,6 +771,8 @@
     <loc>http://localhost:1313/series/brotato/</loc>
   </url><url>
     <loc>http://localhost:1313/game/brotato-android-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/brotato-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/</loc>
   </url><url>
@@ -1106,6 +1116,10 @@
   </url><url>
     <loc>http://localhost:1313/series/club-penguin-journey/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/clustertruck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/clustertruck-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cod-community-launcher-horizonmw/</loc>
   </url><url>
     <loc>http://localhost:1313/game/cod-community-launcher-plutonium/</loc>
@@ -1237,6 +1251,8 @@
     <loc>http://localhost:1313/series/counter-strike/</loc>
   </url><url>
     <loc>http://localhost:1313/game/counter-strike-1-6-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/counter-strike-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/counter-strike-football/</loc>
   </url><url>
@@ -1381,6 +1397,8 @@
     <loc>http://localhost:1313/series/daggerfall/</loc>
   </url><url>
     <loc>http://localhost:1313/game/daggerfall-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/daggerfall-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/daggerfall-unity/</loc>
   </url><url>
@@ -2300,6 +2318,10 @@
   </url><url>
     <loc>http://localhost:1313/game/fear-effect-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/fez/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fez-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fheroes-2-heroes-of-might-and-magic-2-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fheroes2-heroes-of-might-magic-2-recreation/</loc>
@@ -2774,6 +2796,8 @@
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-3-dreamcast-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/grand-theft-auto-3-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-5-squid-games/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-5-enhanced-edition-4k-texture-pack/</loc>
@@ -3019,6 +3043,8 @@
     <loc>http://localhost:1313/series/how-to-fish/</loc>
   </url><url>
     <loc>http://localhost:1313/game/how-to-fish-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/how-to-fish-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/how-to-get-battlefield-3-and-battlefield-4-online-working-on-linux-steamos-steam-deck/</loc>
   </url><url>
@@ -3506,6 +3532,10 @@
   </url><url>
     <loc>http://localhost:1313/game/lemmini-lemmings-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/lethal-company/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/lethal-company-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/lethalmon/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/level-builder/</loc>
@@ -3705,6 +3735,8 @@
     <loc>http://localhost:1313/game/mario-golf-64-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-golf-n64-pro-edition-1-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64/</loc>
   </url><url>
@@ -4075,6 +4107,8 @@
     <loc>http://localhost:1313/game/minecraft-attack-on-titan-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/minecraft-dungeons-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/minecraft-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/minecraft-on-steam-deck/</loc>
   </url><url>
@@ -4686,6 +4720,8 @@
   </url><url>
     <loc>http://localhost:1313/game/paper-mario-down-bad-edition/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/paper-mario-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/paper-mario-star-nova/</loc>
   </url><url>
     <loc>http://localhost:1313/game/paper-mario-sticker-star-decompilation/</loc>
@@ -4737,6 +4773,10 @@
     <loc>http://localhost:1313/game/patlabor-mega-drive-genesis/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pcexhumed-exhumed-powerslave-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/peak/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/peak-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/peaky-blinders/</loc>
   </url><url>
@@ -5356,7 +5396,11 @@
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-2-fps/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/resident-evil-2-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/resident-evil-2-sega-saturn-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-3-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-3-nemesis-recompilation/</loc>
   </url><url>
@@ -5377,6 +5421,8 @@
     <loc>http://localhost:1313/game/resident-evil-gaiden-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-hd-remaster-4k-texture-pack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/resident-evil-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/resident-evil-recompilation/</loc>
   </url><url>
@@ -5483,6 +5529,8 @@
     <loc>http://localhost:1313/game/rimworld-vanilla-expanded/</loc>
   </url><url>
     <loc>http://localhost:1313/game/rimworld-zombieland/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/rimworld-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ringworld/</loc>
   </url><url>
@@ -6086,6 +6134,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-generations-mod/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-robo-blast-2-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-kart/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-vr/</loc>
@@ -6119,6 +6169,8 @@
     <loc>http://localhost:1313/game/sonic-the-hedgehog-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-the-hedgehog-forever-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-the-hedgehog-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-the-hedgehog-rpg/</loc>
   </url><url>
@@ -6394,6 +6446,8 @@
   </url><url>
     <loc>http://localhost:1313/game/stardew-valley-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/stardew-valley-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/starfield/</loc>
   </url><url>
     <loc>http://localhost:1313/game/starfield-lakin-ik/</loc>
@@ -6568,6 +6622,8 @@
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-ds-pc-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/super-mario-64-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/super-mario-64-nintendo-ds-port-with-multiplayer/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-nintendo-dsi-port/</loc>
@@ -6635,6 +6691,8 @@
     <loc>http://localhost:1313/game/super-mario-galaxy-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-kart-horizons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-kart-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-kart-zx/</loc>
   </url><url>
@@ -6861,6 +6919,8 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/series/taiko-no-tatsujin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/taiko-no-tatsujin-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/taiko-no-tatsujin-nes-port/</loc>
   </url><url>
