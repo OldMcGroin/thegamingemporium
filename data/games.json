@@ -39189,8 +39189,7 @@
     "genre2": "",
     "series": "Dante's Inferno",
     "video_link": "",
-    "date_added": "2026-09-07",
-    "hidden": true
+    "date_added": "2026-09-07"
   },
   {
     "id": 2985,
@@ -44520,8 +44519,7 @@
     "genre2": "",
     "series": "Super Mario",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": false
+    "date_added": "2026-10-03"
   },
   {
     "id": 3429,
@@ -44533,8 +44531,7 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": false
+    "date_added": "2026-10-03"
   },
   {
     "id": 3430,
@@ -44546,8 +44543,7 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": false
+    "date_added": "2026-10-03"
   },
   {
     "id": 3431,
@@ -44559,8 +44555,7 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": false
+    "date_added": "2026-10-03"
   },
   {
     "id": 3432,
@@ -44657,5 +44652,30 @@
     "series": "FEZ",
     "video_link": "",
     "date_added": "2026-10-03"
+  },
+  {
+    "id": 3440,
+    "title": "LEGO Dimensions Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/NeverCookFirst/DimensionsRecomp",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Lego",
+    "video_link": "https://youtu.be/gvy_MY8fHvA?si=o1wi0V91xlj_Ci0u",
+    "date_added": "2026-10-04",
+    "hidden": true
+  },
+  {
+    "id": 3441,
+    "title": "Sly Cooper and the Thievius Raccoonus Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/theclub654/ProjectCane",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sly Cooper",
+    "video_link": "",
+    "date_added": "2026-10-04"
   }
 ]
