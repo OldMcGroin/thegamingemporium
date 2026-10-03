@@ -40252,7 +40252,7 @@
     "title": "Test Drive PC Port",
     "category": "decompilations-recompilations",
     "platform": "Windows",
-    "link": "https://github.com/kylofon/test-drive-sdl3",
+    "link": "https://github.com/kylofon/testdrive-enhanced",
     "genre1": "racing",
     "genre2": "",
     "series": "Test Drive",
@@ -41933,7 +41933,7 @@
     "title": "Test Drive 3: The Passion Port",
     "category": "decompilations-recompilations",
     "platform": "DOS",
-    "link": "https://github.com/kylofon/test-drive-3-sdl3",
+    "link": "https://github.com/kylofon/testdrive3-enhanced",
     "genre1": "racing",
     "genre2": "",
     "series": "Test Drive",
@@ -43633,7 +43633,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3355,
     "title": "Infinity Blade 3 PC Port",
     "category": "console-to-pc-port",
@@ -43645,7 +43645,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3356,
     "title": "Splatterhouse 2010 Recompilation",
     "category": "decompilations-recompilations",
@@ -43657,7 +43657,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3357,
     "title": "Kasumi - GeForce NOW on the New Nintendo 3DS",
     "category": "utility",
@@ -43669,7 +43669,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3358,
     "title": "SkyCraft - Play Skyrim as a Minecraft Player",
     "category": "mods",
@@ -43681,7 +43681,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3359,
     "title": "Fallout: New York in Browser",
     "category": "browser-based",
@@ -43693,7 +43693,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3360,
     "title": "The Legend of Zelda The Wind Waker Recompilation",
     "category": "decompilations-recompilations",
@@ -43705,7 +43705,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3361,
     "title": "EarthBound PC Port",
     "category": "decompilations-recompilations",
@@ -43717,7 +43717,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3362,
     "title": "CafeRecomp - Static Wii U Recompiler",
     "category": "utility",
@@ -43729,7 +43729,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3363,
     "title": "Super Smash Bros. Melee Recompilation - GD's Melee with Rollback Netplay",
     "category": "decompilations-recompilations",
@@ -43741,7 +43741,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3364,
     "title": "Digimon World 3 Decompilation",
     "category": "in-the-works",
@@ -43753,7 +43753,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3365,
     "title": "Sonic 3D Blast for Android",
     "category": "android-ports",
@@ -43765,7 +43765,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3366,
     "title": "Garry's Mod for Android",
     "category": "android-ports",
@@ -43777,7 +43777,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3367,
     "title": "Sonic 3 Angel Island Revisited for Android",
     "category": "android-ports",
@@ -43789,7 +43789,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3368,
     "title": "Magic Carpet 2",
     "category": "open-source",
@@ -43801,7 +43801,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3369,
     "title": "Shin Megami Tensei: Digital Devil Saga 1 and 2 Decompilation",
     "category": "in-the-works",
@@ -43813,7 +43813,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3370,
     "title": "Crimsonland Recompilation",
     "category": "decompilations-recompilations",
@@ -43825,7 +43825,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3371,
     "title": "Shin Megami Tensei: Persona 4 Decompilation",
     "category": "in-the-works",
@@ -43837,7 +43837,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3372,
     "title": "Galaxy on Fire 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -43849,7 +43849,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3373,
     "title": "Galaxy on Fire 2 Recompilation for Android",
     "category": "android-ports",
@@ -43861,7 +43861,7 @@
     "video_link": "",
     "date_added": "2026-09-30"
   },
-    {
+  {
     "id": 3374,
     "title": "Mario Strikers Charged Recompilation",
     "category": "decompilations-recompilations",
@@ -43873,7 +43873,7 @@
     "video_link": "",
     "date_added": "2026-10-01"
   },
-    {
+  {
     "id": 3375,
     "title": "Another Mind Recompilation",
     "category": "decompilations-recompilations",
@@ -43885,7 +43885,7 @@
     "video_link": "",
     "date_added": "2026-10-01"
   },
-    {
+  {
     "id": 3376,
     "title": "Dead or Alive Recompilation",
     "category": "decompilations-recompilations",
@@ -43897,7 +43897,7 @@
     "video_link": "",
     "date_added": "2026-10-01"
   },
-    {
+  {
     "id": 3377,
     "title": "Banjo-Tooie Recompilation",
     "category": "decompilations-recompilations",
@@ -43909,7 +43909,7 @@
     "video_link": "",
     "date_added": "2026-10-01"
   },
-    {
+  {
     "id": 3378,
     "title": "Forza Horizon Recompilation 2",
     "category": "decompilations-recompilations",
@@ -43920,8 +43920,318 @@
     "series": "Forza",
     "video_link": "",
     "date_added": "2026-10-01"
+  },
+  {
+    "id": 3379,
+    "title": "MediEvil Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/BlackLabelHQ/MediEvilRecomp",
+    "genre1": "action",
+    "genre2": "",
+    "series": "MediEvil",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3380,
+    "title": "FIFA Street Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://gitlab.com/samuelitodavila-group/fifa-street-pc/-/releases/v0.4.0-experimental",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "FIFA Street",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3381,
+    "title": "The Legend of Zelda The Wind Waker Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/elliotttate/Wind-Waker-Recomp/pull/13",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3382,
+    "title": "Asuka 120% Final - Burning Fest. Final Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/elprogramadorloco-arch/asuka100-recomp/",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3383,
+    "title": "KoroKoro Post nin Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/elprogramadorloco-arch/korokoro-recomp",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "KoroKoro",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3384,
+    "title": "Earthworm Jim 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/elprogramadorloco-arch/jim2-recomp",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Earthworm Jim",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3385,
+    "title": "Advanced V.G. 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/elprogramadorloco-arch/agvg2-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Advanced V.G.",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3386,
+    "title": "Infinite Undiscovery Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/doc-haz/infinite-undiscovery-recomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Infinite Undiscovery",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3387,
+    "title": "Pac-Man Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "NES",
+    "link": "https://github.com/Mr-Shizzy/PacManRecomp",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Pac-Man",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3388,
+    "title": "Splosion Man Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/thefixinhixon/SplosionManRecomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Splosion Man",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3389,
+    "title": "KoroKoro Post nin Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/elprogramadorloco-arch/korokoro-recomp",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "KoroKoro",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3390,
+    "title": "Lost Odyssey for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/freefrank/LostOdysseyRecomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Lost Odyssey",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3391,
+    "title": "God of War: Sons of Sparta Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 5",
+    "link": "https://github.com/OverkillLabs2/SoS-PS5",
+    "genre1": "action",
+    "genre2": "",
+    "series": "God of War",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3392,
+    "title": "Forza Horizon Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/arcanite24/pinyon-shift",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza Horizon",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3393,
+    "title": "Zombies Ate My Neighbors PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Zombies Ate My Neighbors",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3394,
+    "title": "Serial Experiments Lain Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Y0oshi/lain-psx-decompiled/",
+    "genre1": "visual-novel",
+    "genre2": "",
+    "series": "Serial Experiments Lain",
+    "video_link": "",
+    "date_added": "2026-10-03",
+    "hidden": true
+  },
+  {
+    "id": 3395,
+    "title": "Mario Kart Wii Nintendo Switch Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/dorPXP/driftdroid/releases/tag/switch-beta1",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3396,
+    "title": "Conker's Bad Fur Day Reloaded Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Conker",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3397,
+    "title": "Test Drive 2: The Duel Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "DOS",
+    "link": "https://github.com/kylofon/testdrive2-enhanced",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Test Drive",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3398,
+    "title": "Street Rod Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "DOS",
+    "link": "https://github.com/kylofon/streetrod-enhanced",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Street Rod",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3399,
+    "title": "Aces of the Pacific Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "DOS",
+    "link": "https://github.com/kylofon/acesofthepacific-enhanced",
+    "genre1": "flight-simulator",
+    "genre2": "action",
+    "series": "Aces of the Pacific",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3400,
+    "title": "Turok: Rage Wars Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/ArtfulRascal8/rage-wars-recompiled",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Turok",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3401,
+    "title": "Dragon Ball Z: Burst Limit Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3402,
+    "title": "WWE '13 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/PromethenDev/wwe13-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "WWE",
+    "video_link": "https://youtu.be/o1QnEMVrD_Q?si=cJAARW0nQn182TM1",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3403,
+    "title": "BattleTanx: Global Assault PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/wootbeer/btgarecomp",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "BattleTanx",
+    "video_link": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "id": 3404,
+    "title": "Pilotwings 64 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/NoahVl/Birdman64",
+    "genre1": "flight-simulator",
+    "genre2": "sports",
+    "series": "Pilotwings",
+    "video_link": "",
+    "date_added": "2026-10-03"
   }
-
-
-
 ]

@@ -94,6 +94,10 @@
   </url><url>
     <loc>http://localhost:1313/game/acemulator-asheron-s-call-server-emulator/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/aces-of-the-pacific/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/aces-of-the-pacific-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/action/</loc>
   </url><url>
     <loc>http://localhost:1313/series/actraiser/</loc>
@@ -109,6 +113,10 @@
     <loc>http://localhost:1313/game/advance-wars-returns/</loc>
   </url><url>
     <loc>http://localhost:1313/game/advanced-strategic-command/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/advanced-v-g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/advanced-v-g-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/adventure/</loc>
   </url><url>
@@ -388,6 +396,8 @@
   </url><url>
     <loc>http://localhost:1313/game/astromenace/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/asuka-120-final-burning-fest-final-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/asuras-wrath/</loc>
   </url><url>
     <loc>http://localhost:1313/series/atlantis-the-lost-empire-trial-by-fire/</loc>
@@ -547,6 +557,10 @@
     <loc>http://localhost:1313/game/battleship-smash-brothers-64-pc-port-netplay/</loc>
   </url><url>
     <loc>http://localhost:1313/game/battleship-super-smash-brothers-64-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/battletanx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/battletanx-global-assault-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/beat-hazard/</loc>
   </url><url>
@@ -1169,6 +1183,8 @@
     <loc>http://localhost:1313/game/conker-s-bad-fur-day-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/conker-s-bad-fur-day-recompilation-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/conker-s-bad-fur-day-reloaded-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/console-ports/</loc>
   </url><url>
@@ -1818,6 +1834,8 @@
   </url><url>
     <loc>http://localhost:1313/game/dragon-ball-z-budokai-hd-recompiled/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dragon-ball-z-burst-limit-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dragon-ball-z-buu-s-fury-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-ball-z-super-saiya-densetsu-super-nintendo/</loc>
@@ -1985,6 +2003,10 @@
     <loc>http://localhost:1313/game/earthbound-halloween-hack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/earthbound-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/earthworm-jim/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/earthworm-jim-2-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/easyrpg-player-for-android/</loc>
   </url><url>
@@ -2280,6 +2302,10 @@
   </url><url>
     <loc>http://localhost:1313/game/fifa-14-and-16-classic-patch/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/fifa-street/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fifa-street-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/fight-night/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fightcade-a-matchmaking-application-for-playing-retro-games-online/</loc>
@@ -2420,9 +2446,13 @@
   </url><url>
     <loc>http://localhost:1313/series/forza/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/forza-horizon/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/forza-horizon-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/forza-horizon-recompilation-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/forza-horizon-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/forza-motorsport-4-recompilation/</loc>
   </url><url>
@@ -2657,6 +2687,8 @@
     <loc>http://localhost:1313/series/god-of-war/</loc>
   </url><url>
     <loc>http://localhost:1313/game/god-of-war-decked-edition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/god-of-war-sons-of-sparta-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/god-simulator/</loc>
   </url><url>
@@ -3078,6 +3110,10 @@
   </url><url>
     <loc>http://localhost:1313/series/infested-island/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/infinite-undiscovery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/infinite-undiscovery-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/infinity-blade/</loc>
   </url><url>
     <loc>http://localhost:1313/series/infinity-blade/</loc>
@@ -3360,6 +3396,12 @@
   </url><url>
     <loc>http://localhost:1313/game/konjiki-no-gash-bell-go-go-mamono-fight-nintendo-gamecube/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/korokoro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/korokoro-post-nin-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/korokoro-post-nin-recompilation-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/koudelka/</loc>
   </url><url>
     <loc>http://localhost:1313/game/koudelka-recompilation/</loc>
@@ -3530,6 +3572,8 @@
   </url><url>
     <loc>http://localhost:1313/series/lost-odyssey/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/lost-odyssey-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/lost-odyssey-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/lost-planet/</loc>
@@ -3687,6 +3731,8 @@
     <loc>http://localhost:1313/game/mario-kart-wii-deluxe/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-wii-deluxex/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-kart-wii-nintendo-switch-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-wii-playstation-5-port/</loc>
   </url><url>
@@ -4600,6 +4646,8 @@
   </url><url>
     <loc>http://localhost:1313/game/pac-man-championship-edition-dx-ps-vita-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/pac-man-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/pacific-strike/</loc>
   </url><url>
     <loc>http://localhost:1313/series/palworld/</loc>
@@ -4755,6 +4803,8 @@
     <loc>http://localhost:1313/game/pilotwings-64-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pilotwings-64-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pilotwings-64-recompilation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/pinball/</loc>
   </url><url>
@@ -6192,6 +6242,10 @@
   </url><url>
     <loc>http://localhost:1313/game/splinter-cell-enhanced/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/splosion-man/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/splosion-man-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sponge-bob-square-pants-battle-for-bikini-bottom-deluxe/</loc>
   </url><url>
     <loc>http://localhost:1313/series/spongebob-squarepants/</loc>
@@ -6391,6 +6445,10 @@
     <loc>http://localhost:1313/game/street-fighter-x-mega-man/</loc>
   </url><url>
     <loc>http://localhost:1313/game/street-fighter-z/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/street-rod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/street-rod-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/streets-of-rage/</loc>
   </url><url>
@@ -6902,6 +6960,8 @@
   </url><url>
     <loc>http://localhost:1313/series/test-drive/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/test-drive-2-the-duel-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/test-drive-3-the-passion-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/test-drive-pc-port/</loc>
@@ -7117,6 +7177,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-minish-cap-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-a-link-to-the-past-ps-vita-port/</loc>
   </url><url>
@@ -7560,6 +7622,8 @@
   </url><url>
     <loc>http://localhost:1313/series/turok/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/turok-rage-wars-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/turrican/</loc>
   </url><url>
     <loc>http://localhost:1313/game/turrican-128k-remaster/</loc>
@@ -7992,6 +8056,8 @@
   </url><url>
     <loc>http://localhost:1313/series/wwe/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/wwe-13-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/wwe-smackdown-vs-raw-2007-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wwe-smackdown-vs-raw-2011-recompilation/</loc>
@@ -8175,6 +8241,10 @@
     <loc>http://localhost:1313/series/zombieland/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zombieland-mmo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/zombies-ate-my-neighbors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/zombies-ate-my-neighbors-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/zombies-ate-my-neighbours-escape-the-house/</loc>
   </url><url>

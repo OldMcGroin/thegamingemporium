@@ -3,7 +3,7 @@ title: "Test Drive PC Port"
 url: "/game/test-drive-pc-port/"
 type: game
 params:
-  external_link: "https://github.com/kylofon/test-drive-sdl3"
+  external_link: "https://github.com/kylofon/testdrive-enhanced"
   category: "decompilations-recompilations"
   genre1: "racing"
   genre2: ""
