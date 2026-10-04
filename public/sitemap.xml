@@ -1498,6 +1498,8 @@
   </url><url>
     <loc>http://localhost:1313/series/daytona/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/daytona-usa-arcade-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/daytona-usa-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dbz-budokai-4-dragonball-z-infinite-world-ps2-mod/</loc>
@@ -1944,6 +1946,8 @@
   </url><url>
     <loc>http://localhost:1313/genres/driving-simulator/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/droiddeck-steamos-experience-on-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/drowned-god/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dualscreen-launcher-for-android/</loc>
@@ -2013,6 +2017,8 @@
     <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-recompilation-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dusklight-the-legend-of-zelda-twilight-princess-vr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dusklight-hd-full-release-twilight-princess-hd-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dust-racing-2d/</loc>
   </url><url>
@@ -2821,6 +2827,8 @@
     <loc>http://localhost:1313/game/grand-knights-history-psp/</loc>
   </url><url>
     <loc>http://localhost:1313/series/grand-theft-auto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/grand-theft-auto-3-co-op-mod/</loc>
   </url><url>
     <loc>http://localhost:1313/game/grand-theft-auto-3-liberty-extended/</loc>
   </url><url>
@@ -4524,6 +4532,8 @@
   </url><url>
     <loc>http://localhost:1313/game/not-tetris-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/nothalo-matchmaking-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/nox/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nsmb-mario-vs-luigi-online-in-browser/</loc>
@@ -5203,6 +5213,8 @@
     <loc>http://localhost:1313/game/prize-fighter-heavyweight-edition/</loc>
   </url><url>
     <loc>http://localhost:1313/series/pro-evolution-soccer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pro-evolution-soccer-6-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pro-pinball-timeshock-recompilation/</loc>
   </url><url>
@@ -6104,6 +6116,8 @@
   </url><url>
     <loc>http://localhost:1313/game/snowboard-kids-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/snowboard-kids-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/sol-survivor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/solaris/</loc>
@@ -6425,6 +6439,10 @@
     <loc>http://localhost:1313/series/ssx/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ssx-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/ssx-tricky/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ssx-tricky-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/star-control/</loc>
   </url><url>

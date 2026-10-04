@@ -45109,6 +45109,102 @@
     "series": "Halo",
     "video_link": "https://youtu.be/dicfGnpOP-Q?si=Vo0B9tK2iT9zeKgy",
     "date_added": "2026-10-04"
+  },
+    {
+    "id": 3478,
+    "title": "Grand Theft Auto 3 - Co-op Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://coopiii.com/",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3479,
+    "title": "NotHalo Matchmaking in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://nothalo.lol/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3480,
+    "title": "DroidDeck - SteamOS experience on Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Droid-Deck/DroidDeck",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3481,
+    "title": "Pro Evolution Soccer 6 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pes6.optijuegos.net/",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Pro Evolution Soccer",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3483,
+    "title": "Daytona USA Arcade Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Arcade",
+    "link": "https://github.com/alphanu1/daytona-arcade-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Daytona",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3484,
+    "title": "Dusklight HD FULL RELEASE + Twilight Princess HD Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://gamebanana.com/updates/460953",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3485,
+    "title": "Snowboard Kids Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/cdlewis/snowboardkids-recomp",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Snowboard Kids",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3486,
+    "title": "SSX Tricky Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://github.com/GiZcesi/OpenTricky",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "SSX Tricky",
+    "video_link": "",
+    "date_added": "2026-10-04"
   }
 
 
