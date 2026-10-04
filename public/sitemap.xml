@@ -438,6 +438,8 @@
   </url><url>
     <loc>http://localhost:1313/series/back-to-the-future-the-game/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/bad-monday-simulator-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/bad-time-simulator/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bad-time-simulator-in-browser/</loc>
@@ -1043,6 +1045,10 @@
     <loc>http://localhost:1313/game/chaos-field-dreamcast/</loc>
   </url><url>
     <loc>http://localhost:1313/series/chasm-the-rift/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/cheese-rolling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/cheese-rolling-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/chiaki-ng/</loc>
   </url><url>
@@ -1848,6 +1854,8 @@
   </url><url>
     <loc>http://localhost:1313/game/dracula-hunter-arcade/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/dragon-ball-devolution-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/dragon-ball-fighterz/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dragon-ball-gt-final-bout-recompilation/</loc>
@@ -2402,13 +2410,23 @@
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-sacred-stones-reforged/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-7-siblings-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-dark-lord-the-maiden-of-light-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fire-emblem-fuuin-no-tsurugi-game-boy-advance/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-justice-pride-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fire-emblem-monshou-no-nazo-super-nintendo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-order-of-the-crimson-arm-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-path-of-radiance-nintendo-gamecube/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-path-of-radiance-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-requiem-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-seima-no-kouseki-decompilation/</loc>
   </url><url>
@@ -2420,13 +2438,23 @@
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-the-blazing-blade-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-the-dark-amulet-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fire-emblem-the-four-kings/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-the-last-promise/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-the-last-promise-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-the-morrow-s-golden-country-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-the-sun-god-s-wrath-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/fire-emblem-thracia-776-super-nintendo/</loc>
   </url><url>
     <loc>http://localhost:1313/game/fire-emblem-vision-quest/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/fire-emblem-vision-quest-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/genres/first-person-pinball/</loc>
   </url><url>
@@ -3182,6 +3210,8 @@
   </url><url>
     <loc>http://localhost:1313/game/inscryption-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/inscryption-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/international-superstar-soccer-deluxe-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/international-superstar-soccer-deluxe-recompilation/</loc>
@@ -3598,6 +3628,10 @@
   </url><url>
     <loc>http://localhost:1313/game/live-a-live-super-nintendo/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/lobotomy-corporation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/lobotomy-corporation-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/lode-runner/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lode-runner-nintendo-ds/</loc>
@@ -3936,6 +3970,8 @@
   </url><url>
     <loc>http://localhost:1313/game/mega-man-rock-n-roll/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/mega-man-rpg-prototype-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/mega-man-snes-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mega-man-unlimited/</loc>
@@ -4143,6 +4179,10 @@
     <loc>http://localhost:1313/game/mischief-makers-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mischief-makers-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/miside/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/miside-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mistover/</loc>
   </url><url>
@@ -4484,6 +4524,8 @@
   </url><url>
     <loc>http://localhost:1313/series/nox/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/nsmb-mario-vs-luigi-online-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/nuclear-throne/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nuclear-throne-for-android/</loc>
@@ -4533,6 +4575,8 @@
     <loc>http://localhost:1313/series/oneshot/</loc>
   </url><url>
     <loc>http://localhost:1313/game/oneshot-wme-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/oneshot-world-machine-edition-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/oni/</loc>
   </url><url>
@@ -4900,6 +4944,10 @@
   </url><url>
     <loc>http://localhost:1313/series/pizza-tycoon/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/plague-inc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/plague-inc-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/plan-9-from-outer-space/</loc>
   </url><url>
     <loc>http://localhost:1313/game/planeshift/</loc>
@@ -4923,6 +4971,8 @@
     <loc>http://localhost:1313/game/pocket-monsters-green-version-game-boy/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pocket-palm-heroes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokeclicker-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokemmo/</loc>
   </url><url>
@@ -5051,6 +5101,8 @@
     <loc>http://localhost:1313/series/poker-night-double-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokerogue-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokerogue-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/policenauts/</loc>
   </url><url>
@@ -5476,6 +5528,8 @@
   </url><url>
     <loc>http://localhost:1313/game/return-to-castle-wolfenstein-for-the-oculus-quest/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/return-to-castle-wolfenstein-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/return-to-castle-wolfenstein-ps-vita-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/return-to-the-roots-settlers-ii-remake/</loc>
@@ -5783,6 +5837,8 @@
     <loc>http://localhost:1313/game/sensible-soccer-nes/</loc>
   </url><url>
     <loc>http://localhost:1313/series/serial-experiments-lain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/serial-experiments-lain-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/serial-experiments-lain-recompilation/</loc>
   </url><url>
@@ -6095,6 +6151,8 @@
     <loc>http://localhost:1313/game/sonic-and-the-secret-rings-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-and-the-secret-rings-pc-port-project-reignition/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-cd-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-cd-restored-for-android/</loc>
   </url><url>
@@ -7807,6 +7865,8 @@
     <loc>http://localhost:1313/game/undertale-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/undertale-yellow-an-undertale-prequel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/undertale-yellow-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/universal-dreamcast-patcher/</loc>
   </url><url>
