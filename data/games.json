@@ -45829,8 +45829,43 @@
     "series": "Helltaker",
     "video_link": "",
     "date_added": "2026-10-04"
+  },
+    {
+    "id": 3539,
+    "title": "Helltaker in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://wasm.rip/files/Helltaker/helltaker.html",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Helltaker",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3540,
+    "title": "Spider-Man: Edge of Time Recompilation 2",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/goliathret/EdgeOfTimeRecomp",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3541,
+    "title": "Hybrid Heaven Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Hybrid Heaven",
+    "video_link": "",
+    "date_added": "2026-10-05"
   }
-
 
 
 
