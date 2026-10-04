@@ -44531,8 +44531,7 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": true
+    "date_added": "2026-10-03"
   },
   {
     "id": 3430,
@@ -44557,8 +44556,7 @@
     "genre2": "",
     "series": "Resident Evil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": true
+    "date_added": "2026-10-03"
   },
   {
     "id": 3432,
@@ -44739,5 +44737,59 @@
     "series": "Quest 64",
     "video_link": "",
     "date_added": "2026-10-04"
+  },
+    {
+    "id": 3447,
+    "title": "Pokemon Red - Blue MMO in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://redblue.benjamincrozat.com/",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3448,
+    "title": "Metroid Fusion in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://romhaven.com/play.html?system=gba&rom=Metroid%20Fusion.gba",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Metroid",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3449,
+    "title": "Super Mario Bros. in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://supermarioplay.com/",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3450,
+    "title": "The Legend of Zelda The Minish Cap in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://romhaven.com/play.html?system=gba&rom=The%20Legend%20of%20Zelda%20The%20Minish%20Cap.gba",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-04"
   }
+
+
+
+
+
+
 ]
