@@ -45205,6 +45205,66 @@
     "series": "SSX Tricky",
     "video_link": "",
     "date_added": "2026-10-04"
+  },
+    {
+    "id": 3487,
+    "title": "Ridge Racer V Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/danisandoval/fukami",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Ridge Racer",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3488,
+    "title": "Hybrid Heaven Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Hybrid Heaven",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3489,
+    "title": "Castlevania: Symphony of the Night Castle Editor in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pddmergilla.github.io/sotn-editor/?ref=pantspantsrevolution.com",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "Castlevania",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3490,
+    "title": "P.T Silent Hills PC Port",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://transfer.it/t/fViYTF8BDDxC",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "P.T.",
+    "video_link": "",
+    "date_added": "2026-10-04"
+  },
+    {
+    "id": 3491,
+    "title": "P.T Silent Hills PC Port 2",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://transfer.it/t/oIzdHRtBTJSJ",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "P.T.",
+    "video_link": "",
+    "date_added": "2026-10-04"
   }
 
 
