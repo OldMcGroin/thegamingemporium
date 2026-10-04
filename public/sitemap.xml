@@ -692,6 +692,8 @@
   </url><url>
     <loc>http://localhost:1313/game/bloodborne-on-pc-a-guide/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/bloodborne-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/bloodborne-psx-demake/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bloodwings/</loc>
@@ -2637,6 +2639,8 @@
     <loc>http://localhost:1313/game/gears-of-war-2-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gears-of-war-redux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gears-of-war-judgment-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gemrb-implementation-of-infinity-engine-baldur-s-gate-icewind-dale-planescape-torment/</loc>
   </url><url>
@@ -4688,6 +4692,10 @@
   </url><url>
     <loc>http://localhost:1313/game/outlast-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/outpost-kaloki-x/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/outpost-kaloki-x-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/outrun/</loc>
   </url><url>
     <loc>http://localhost:1313/game/outrun-cannonball/</loc>
@@ -5239,6 +5247,10 @@
     <loc>http://localhost:1313/series/quest-64/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quest-64-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quest-64-recompilation-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quest-64-recompilation-2-mods/</loc>
   </url><url>
     <loc>http://localhost:1313/game/questzdoom-doom-heretic-hexen-strife-etc/</loc>
   </url><url>
