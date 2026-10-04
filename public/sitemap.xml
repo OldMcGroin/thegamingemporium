@@ -72,6 +72,10 @@
   </url><url>
     <loc>http://localhost:1313/series/abes-odyssey/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/abobos-big-adventure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/abobo-s-big-adventure-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/abomination/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ace-attorney/</loc>
@@ -143,6 +147,10 @@
     <loc>http://localhost:1313/series/age-of-empires/</loc>
   </url><url>
     <loc>http://localhost:1313/game/age-of-the-ring/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/ages-of-conflict/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ages-of-conflict-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/aidyn-chronicles-the-first-mage/</loc>
   </url><url>
@@ -316,6 +324,8 @@
   </url><url>
     <loc>http://localhost:1313/game/antonblast-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/anzu-castle-gracula-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/ao-no-6-go-saigetsufutai-hito-time-and-tide/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ao-no-6-go-saigetsufutai-hito-time-and-tide-dreamcast/</loc>
@@ -398,6 +408,8 @@
   </url><url>
     <loc>http://localhost:1313/series/assaultcube/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/asslevania-symphony-of-the-butt-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/astromenace/</loc>
   </url><url>
     <loc>http://localhost:1313/game/asuka-120-final-burning-fest-final-recompilation/</loc>
@@ -449,6 +461,10 @@
     <loc>http://localhost:1313/series/balatro/</loc>
   </url><url>
     <loc>http://localhost:1313/game/balatro-gba-demake/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/baldis-basics-birthday-bash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/baldi-s-basics-birthday-bash-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/baldur-s-gate/</loc>
   </url><url>
@@ -574,6 +590,10 @@
   </url><url>
     <loc>http://localhost:1313/genres/beat-em-up/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/beatblock/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/beatblock-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/beavis-and-butt-head/</loc>
   </url><url>
     <loc>http://localhost:1313/game/beavis-and-butt-head-do-hollywood-playstation/</loc>
@@ -682,6 +702,8 @@
   </url><url>
     <loc>http://localhost:1313/game/blood-2-upscale-texture-pack/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/blood-gauntlet-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/blood-omen-legacy-of-kain-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bloodborne/</loc>
@@ -721,6 +743,10 @@
     <loc>http://localhost:1313/game/body-harvest-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/body-harvest-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/boil-noodles-at-night/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/boil-noodles-at-night-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/bomb-jack/</loc>
   </url><url>
@@ -906,6 +932,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlemania-2/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlemania-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevaania-simon-s-legaacy/</loc>
   </url><url>
     <loc>http://localhost:1313/series/castlevania/</loc>
@@ -918,6 +946,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-1-fortified-army/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-3-dracula-s-curse-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-64-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-aga/</loc>
@@ -926,15 +956,23 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-aria-of-sorrow-reprise/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-bloodlines-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-chronicles-ii-simon-s-quest/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-chronicles-iii-dracula-s-curse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/castlevania-harmony-of-dissonance-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-haunted-castle-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-haunted-castle-3-trevor-s-quest/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-hod-revenge-of-the-findesiecle-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-ii-simon-s-quest-snes-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/castlevania-ii-simon-s-quest-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-legacy-of-darkness-recompilation/</loc>
   </url><url>
@@ -972,6 +1010,12 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-alternate-scarlet-symphony/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-aria-of-sorrow-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/castlevania-circle-of-the-moon-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/castlevania-dracula-x-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-legacy-of-darkness-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-resurrection-dreamcast/</loc>
@@ -984,9 +1028,17 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-symphony-of-the-night-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-the-holy-relics-in-browser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/castlevania-the-red-wizard-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cataclysm-dark-days-ahead/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cataclysm-dark-days-ahead/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/catan-universe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/catan-universe-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -1318,6 +1370,10 @@
   </url><url>
     <loc>http://localhost:1313/game/crash-twinsanity-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/crashout-crew/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/crashout-crew-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/crazy-taxi/</loc>
   </url><url>
     <loc>http://localhost:1313/series/crimson-desert/</loc>
@@ -1582,7 +1638,11 @@
   </url><url>
     <loc>http://localhost:1313/game/deltarune-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/deltarune-lightners-live-plus-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/deltatraveler-deltarune-interdream/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/demon-castle-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/demons-crest/</loc>
   </url><url>
@@ -1928,6 +1988,10 @@
   </url><url>
     <loc>http://localhost:1313/game/dramatic-shape-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/drascula/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/drascula-the-vampire-strikes-back-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/dreamcast-image-builder-for-modding-patching-dreamcast-games/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dreamcast-image-builder-mods/</loc>
@@ -2157,6 +2221,10 @@
     <loc>http://localhost:1313/series/exit/</loc>
   </url><url>
     <loc>http://localhost:1313/game/exit-1-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/exit-fate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/exit-fate-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/extreme-g/</loc>
   </url><url>
@@ -2502,6 +2570,10 @@
   </url><url>
     <loc>http://localhost:1313/game/flashback-sega-master-system-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/flight-of-the-amazon-queen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/flight-of-the-amazon-queen-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/genres/flight-simulator/</loc>
   </url><url>
     <loc>http://localhost:1313/game/flightgear/</loc>
@@ -2723,6 +2795,10 @@
     <loc>http://localhost:1313/series/gish/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gish-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/gizmoduck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gizmoduck-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/global-operations/</loc>
   </url><url>
@@ -2976,6 +3052,10 @@
   </url><url>
     <loc>http://localhost:1313/game/halo-combat-evolved-recompilation-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/happy-room/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/happy-room-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/harmonist/</loc>
   </url><url>
     <loc>http://localhost:1313/game/harmonist-dayoriah-clan-infiltration/</loc>
@@ -3023,6 +3103,8 @@
     <loc>http://localhost:1313/series/helltaker/</loc>
   </url><url>
     <loc>http://localhost:1313/game/helltaker-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/helltaker-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/heretic/</loc>
   </url><url>
@@ -3562,6 +3644,8 @@
   </url><url>
     <loc>http://localhost:1313/game/lego-dimensions-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/lego-island-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/lego-island-pc-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/lego-island-web-port/</loc>
@@ -3731,6 +3815,10 @@
     <loc>http://localhost:1313/game/magic-castle/</loc>
   </url><url>
     <loc>http://localhost:1313/series/magic-castle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/magic-the-gathering/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/magic-the-gathering-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/magical-broom-extreme/</loc>
   </url><url>
@@ -4504,6 +4592,8 @@
   </url><url>
     <loc>http://localhost:1313/series/nightlong/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/nightmare-breaker-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/nightmare-creatures/</loc>
   </url><url>
     <loc>http://localhost:1313/game/nightmare-creatures-2-recompilation/</loc>
@@ -5121,6 +5211,8 @@
     <loc>http://localhost:1313/game/pokemon-xd-gale-of-darkness-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pokepark-wii-pikachu-s-adventure-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/pokepath-td-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/poker-night-double-pack/</loc>
   </url><url>
@@ -5792,6 +5884,10 @@
   </url><url>
     <loc>http://localhost:1313/game/scott-pilgrim-ex-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/scp-containment-breach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/scp-containment-breach-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/scrap-mechanic/</loc>
   </url><url>
     <loc>http://localhost:1313/game/scrap-mechanic-survival-vr/</loc>
@@ -6156,11 +6252,17 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-2-hd/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-2-xl-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-3-angel-island-revisited/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-3-angel-island-revisited-for-android/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-3-complete-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-3d-blast-for-android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-3d-blast-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-4-episode-1-in-browser/</loc>
   </url><url>
@@ -6190,6 +6292,8 @@
   </url><url>
     <loc>http://localhost:1313/game/sonic-classic-heroes/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/sonic-classic-heroes-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/sonic-colors-nintendo-3ds-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-crackers-genesis-megadrive/</loc>
@@ -6215,6 +6319,8 @@
     <loc>http://localhost:1313/game/sonic-mania-xbox-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-master-system-remake/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-megamix-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-megamix-mania/</loc>
   </url><url>
@@ -6243,6 +6349,8 @@
     <loc>http://localhost:1313/game/sonic-robo-blast-2-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-kart/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-robo-blast-2-kart-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-robo-blast-2-vr/</loc>
   </url><url>
@@ -6721,6 +6829,8 @@
     <loc>http://localhost:1313/game/super-mario-3d-world-bowser-s-fury-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-3d-world-vr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/super-mario-63-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/super-mario-64-playstation-port/</loc>
   </url><url>
@@ -7456,6 +7566,10 @@
   </url><url>
     <loc>http://localhost:1313/game/the-lost-world-jurassic-park-special-edition-recompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/man-from-the-window/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-man-from-the-window-2-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-mana-world/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mana-world/</loc>
@@ -7796,6 +7910,10 @@
   </url><url>
     <loc>http://localhost:1313/series/triplea/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/trombone-champ/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/trombone-champ-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/tron/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tron-bonne/</loc>
@@ -7807,6 +7925,8 @@
     <loc>http://localhost:1313/series/tsukihime/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tsukihime-pc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tsukihime-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tuned-heart/</loc>
   </url><url>
@@ -8168,6 +8288,8 @@
   </url><url>
     <loc>http://localhost:1313/series/who-shot-johnny-rock/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/wickebine-kigyouden-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/widelands/</loc>
   </url><url>
     <loc>http://localhost:1313/series/widelands/</loc>
@@ -8306,6 +8428,8 @@
   </url><url>
     <loc>http://localhost:1313/game/xenosaga-pied-piper-fan-recreation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/xenosaga-pied-piper-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/xonotic/</loc>
   </url><url>
     <loc>http://localhost:1313/series/xonotic/</loc>
@@ -8327,6 +8451,10 @@
     <loc>http://localhost:1313/game/yknytt/</loc>
   </url><url>
     <loc>http://localhost:1313/series/yknytt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/ynoproject/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ynoproject-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/yorg/</loc>
   </url><url>
