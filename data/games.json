@@ -43931,7 +43931,8 @@
     "genre2": "",
     "series": "MediEvil",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "hidden": true
   },
   {
     "id": 3380,
@@ -45984,8 +45985,7 @@
     "genre2": "",
     "series": "Human Killing",
     "video_link": "",
-    "date_added": "2026-10-05",
-    "hidden": true
+    "date_added": "2026-10-05"
   },
   {
     "id": 3552,
@@ -46152,6 +46152,114 @@
     "genre1": "racing",
     "genre2": "",
     "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3566,
+    "title": "Airborne BMX in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://airbornebmx.org/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Airborne BMX",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3567,
+    "title": "Sonic Spinball for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://gamejolt.com/games/sonicspinball/597711",
+    "genre1": "pinball",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3568,
+    "title": "GTI Club 2 - Thrill Drive 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Arcade",
+    "link": "https://github.com/spita90/konami-viper-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "GTI Club",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3569,
+    "title": "Gran Turismo 2 for Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3570,
+    "title": "Gran Turismo 2 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://ydubr-gt2.surge.sh/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3571,
+    "title": "NBA Street Vol. 2 - Legendary Edition",
+    "category": "mods",
+    "platform": "",
+    "link": "https://forums.nba-live.com/viewtopic.php?f=72&t=110353",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "NBA",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3572,
+    "title": "U1 - The Unbroken One in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://u1.gg/",
+    "genre1": "rpg",
+    "genre2": "roguelike",
+    "series": "U1",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3573,
+    "title": "Crownglade in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://qqq.gg/",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Crownglade",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3574,
+    "title": "Whiskerdoku in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://whiskerdoku.com/",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Whiskerdoku",
     "video_link": "",
     "date_added": "2026-10-05"
   }
