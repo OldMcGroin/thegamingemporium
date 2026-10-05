@@ -45865,6 +45865,78 @@
     "series": "Hybrid Heaven",
     "video_link": "",
     "date_added": "2026-10-05"
+  },
+  {
+    "id": 3542,
+    "title": "Cut the Rope DX in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://yell0wsuit.github.io/cuttherope-dx/",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Cut the Rope",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3543,
+    "title": "MotorStorm Arctic Edge Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PSP",
+    "link": "https://github.com/coole42-pixel/PSPRecomp-MSAE",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "MotorStorm",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3544,
+    "title": "The World Is Not Enough Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/riseio/TWIPE_00Sheven",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3545,
+    "title": "Wario Land: Super Mario Land 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Game Boy",
+    "link": "https://github.com/GABRIELNNK/Bigodao",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3546,
+    "title": "Peter Jackson's King Kong Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/TekRantGaming/king-kong-recompiled",
+    "genre1": "action",
+    "genre2": "",
+    "series": "King Kong",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3547,
+    "title": "Dreams to Reality Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/jlagedo/dreams-to-reality-re",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Dreams to Reality",
+    "video_link": "",
+    "date_added": "2026-10-05"
   }
 
 
