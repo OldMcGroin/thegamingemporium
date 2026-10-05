@@ -45937,6 +45937,42 @@
     "series": "Dreams to Reality",
     "video_link": "",
     "date_added": "2026-10-05"
+  },
+  {
+    "id": 3548,
+    "title": "Yoshi’s Island: Super Mario Advance 3 Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Edwin2929/sma3-recomp-android.",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3549,
+    "title": "Beneath a Steel Sky in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://scummweb.tsilva.eu/beneath-a-steel-sky/play",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Beneath a Steel",
+    "video_link": "",
+    "date_added": "2026-10-05"
+  },
+  {
+    "id": 3550,
+    "title": "Human Killing in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://toen184.itch.io/human-killing-en",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "Human Killing",
+    "video_link": "",
+    "date_added": "2026-10-05"
   }
 
 

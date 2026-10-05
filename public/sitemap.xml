@@ -618,6 +618,10 @@
   </url><url>
     <loc>http://localhost:1313/game/bendy-and-the-ink-machine-in-browser/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/beneath-a-steel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/beneath-a-steel-sky-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/beyond-all-reason/</loc>
   </url><url>
     <loc>http://localhost:1313/series/beyond-all-reason/</loc>
@@ -3193,6 +3197,10 @@
     <loc>http://localhost:1313/game/how-to-play-games-from-gog-and-epic-games-on-linux-steamos-and-steam-deck/</loc>
   </url><url>
     <loc>http://localhost:1313/game/how-to-setup-openmw-for-modern-morrowind-on-linux-steamos-and-steam-deck/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/human-killing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/human-killing-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/hurrican/</loc>
   </url><url>
@@ -8485,6 +8493,8 @@
     <loc>http://localhost:1313/game/yoshi-s-island-no-crying-improved-sfx-and-red-coins/</loc>
   </url><url>
     <loc>http://localhost:1313/game/yoshi-s-story-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/yoshi-s-island-super-mario-advance-3-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/series/you-are-empty/</loc>
   </url><url>

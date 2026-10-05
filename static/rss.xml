@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 05 Oct 2026 08:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:35:30 +0000</lastBuildDate>
     <item>
       <title>Spider-Man: Edge of Time Recompilation 2</title>
       <link>https://thegamingemporium.com/game/spider-man-edge-of-time-recompilation-2/</link>
@@ -93,6 +93,39 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dreams-to-reality-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreams-to-reality-recompilation.webp" alt="Dreams to Reality Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dreams to Reality · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dreams-to-reality-recompilation.webp" alt="Dreams to Reality Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dreams to Reality · Genre: action, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Yoshi’s Island: Super Mario Advance 3 Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/yoshi-s-island-super-mario-advance-3-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/yoshi-s-island-super-mario-advance-3-recompilation-for-android/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/yoshi-s-island-super-mario-advance-3-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/yoshi-s-island-super-mario-advance-3-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/yoshi-s-island-super-mario-advance-3-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-s-island-super-mario-advance-3-recompilation-for-android.webp" alt="Yoshi’s Island: Super Mario Advance 3 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/yoshi-s-island-super-mario-advance-3-recompilation-for-android.webp" alt="Yoshi’s Island: Super Mario Advance 3 Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Super Mario · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Beneath a Steel Sky in Browser</title>
+      <link>https://thegamingemporium.com/game/beneath-a-steel-sky-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/beneath-a-steel-sky-in-browser/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/beneath-a-steel-sky-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/beneath-a-steel-sky-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/beneath-a-steel-sky-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/beneath-a-steel-sky-in-browser.webp" alt="Beneath a Steel Sky in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Beneath a Steel · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/beneath-a-steel-sky-in-browser.webp" alt="Beneath a Steel Sky in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Beneath a Steel · Genre: adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Human Killing in Browser</title>
+      <link>https://thegamingemporium.com/game/human-killing-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/human-killing-in-browser/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/human-killing-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/human-killing-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/human-killing-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/human-killing-in-browser.webp" alt="Human Killing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Human Killing · Genre: adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/human-killing-in-browser.webp" alt="Human Killing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Human Killing · Genre: adventure]]></content:encoded>
     </item>
     <item>
       <title>LEGO Dimensions Recompilation</title>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-co-op-mod.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-co-op-mod.webp" alt="Grand Theft Auto 3 - Co-op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Grand Theft Auto · Genre: sandbox, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-3-co-op-mod.webp" alt="Grand Theft Auto 3 - Co-op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
-    </item>
-    <item>
-      <title>NotHalo Matchmaking in Browser</title>
-      <link>https://thegamingemporium.com/game/nothalo-matchmaking-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/nothalo-matchmaking-in-browser/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp" alt="NotHalo Matchmaking in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Halo · Genre: first person shooter]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp" alt="NotHalo Matchmaking in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Halo · Genre: first person shooter]]></content:encoded>
-    </item>
-    <item>
-      <title>DroidDeck - SteamOS experience on Android</title>
-      <link>https://thegamingemporium.com/game/droiddeck-steamos-experience-on-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/droiddeck-steamos-experience-on-android/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/droiddeck-steamos-experience-on-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/droiddeck-steamos-experience-on-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/droiddeck-steamos-experience-on-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/droiddeck-steamos-experience-on-android.webp" alt="DroidDeck - SteamOS experience on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/droiddeck-steamos-experience-on-android.webp" alt="DroidDeck - SteamOS experience on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Pro Evolution Soccer 6 in Browser</title>
-      <link>https://thegamingemporium.com/game/pro-evolution-soccer-6-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pro-evolution-soccer-6-in-browser/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pro-evolution-soccer-6-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pro-evolution-soccer-6-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pro-evolution-soccer-6-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pro-evolution-soccer-6-in-browser.webp" alt="Pro Evolution Soccer 6 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Pro Evolution Soccer · Genre: sports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pro-evolution-soccer-6-in-browser.webp" alt="Pro Evolution Soccer 6 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Pro Evolution Soccer · Genre: sports]]></content:encoded>
     </item>
   </channel>
 </rss>
