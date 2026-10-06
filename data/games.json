@@ -46309,6 +46309,30 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-10-06"
+  },
+  {
+    "id": 3578,
+    "title": "Animal Crossing GameCube Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/zwaetschge/ACGC-Android-Port",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "series": "Animal Crossing",
+    "video_link": "",
+    "date_added": "2026-10-06"
+  },
+  {
+    "id": 3579,
+    "title": "The Dishwasher: Dead Samurai for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Hdmaniak/DishSoap",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "The Dishwasher: Dead Samurai",
+    "video_link": "",
+    "date_added": "2026-10-06"
   }
 
 

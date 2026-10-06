@@ -296,6 +296,8 @@
   </url><url>
     <loc>http://localhost:1313/game/animal-crossing-deluxe/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/animal-crossing-gamecube-recompilation-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/animal-crossing-gamecube-web-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/animal-crossing-gbc/</loc>
@@ -7419,6 +7421,10 @@
     <loc>http://localhost:1313/series/day-the-world-broke/</loc>
   </url><url>
     <loc>http://localhost:1313/series/the-day-the-world-broke/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/dishwasher-dead-samurai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-dishwasher-dead-samurai-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-driver-syndicate/</loc>
   </url><url>
