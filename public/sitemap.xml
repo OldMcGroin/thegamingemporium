@@ -2780,6 +2780,10 @@
   </url><url>
     <loc>http://localhost:1313/game/gears-of-war-2-pc-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/gears-of-war-3-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gears-of-war-3-pc-port-multipatch/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/gears-of-war-redux/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gears-of-war-judgment-recompilation/</loc>
@@ -2883,6 +2887,8 @@
     <loc>http://localhost:1313/game/golden-sun-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/golden-sun-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/golden-sun-recompilation-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/goldeneye-007-decompilation/</loc>
   </url><url>
@@ -4241,6 +4247,8 @@
     <loc>http://localhost:1313/game/metroid-prime-2-echoes-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metroid-prime-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/metroid-prime-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/metroid-prime-hunters-recompilation/</loc>
   </url><url>
@@ -5761,6 +5769,8 @@
     <loc>http://localhost:1313/game/rick-dangerous-dx-megadrive-genesis-port/</loc>
   </url><url>
     <loc>http://localhost:1313/series/ridge-racer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/ridge-racer-6-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/ridge-racer-collection/</loc>
   </url><url>
