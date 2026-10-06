@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 06 Oct 2026 13:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:53:38 +0000</lastBuildDate>
     <item>
       <title>Naruto: Rise of a Ninja Recompilation</title>
       <link>https://thegamingemporium.com/game/naruto-rise-of-a-ninja-recompilation/</link>
@@ -115,6 +115,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/counter-strike-surfing-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/counter-strike-surfing-in-browser.webp" alt="Counter Strike Surfing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: sports]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/counter-strike-surfing-in-browser.webp" alt="Counter Strike Surfing in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: sports]]></content:encoded>
+    </item>
+    <item>
+      <title>Crash Team Racing Turbocharged</title>
+      <link>https://thegamingemporium.com/game/crash-team-racing-turbocharged/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-team-racing-turbocharged/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-team-racing-turbocharged.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crash-team-racing-turbocharged.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-turbocharged.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-turbocharged.webp" alt="Crash Team Racing Turbocharged" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-turbocharged.webp" alt="Crash Team Racing Turbocharged" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
     </item>
     <item>
       <title>Spider-Man: Edge of Time Recompilation 2</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/outpost-kaloki-x-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/outpost-kaloki-x-recompilation.webp" alt="Outpost Kaloki X Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Outpost Kaloki X · Genre: city builder, strategy]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/outpost-kaloki-x-recompilation.webp" alt="Outpost Kaloki X Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Outpost Kaloki X · Genre: city builder, strategy]]></content:encoded>
-    </item>
-    <item>
-      <title>Bloodborne Port</title>
-      <link>https://thegamingemporium.com/game/bloodborne-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bloodborne-port/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bloodborne-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bloodborne-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bloodborne-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bloodborne-port.webp" alt="Bloodborne Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bloodborne · Genre: rpg, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bloodborne-port.webp" alt="Bloodborne Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Bloodborne · Genre: rpg, action]]></content:encoded>
     </item>
   </channel>
 </rss>
