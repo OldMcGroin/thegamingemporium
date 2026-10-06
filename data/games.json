@@ -43931,8 +43931,7 @@
     "genre2": "",
     "series": "MediEvil",
     "video_link": "",
-    "date_added": "2026-10-03",
-    "hidden": true
+    "date_added": "2026-10-03"
   },
   {
     "id": 3380,
@@ -44739,7 +44738,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3447,
     "title": "Pokemon Red - Blue MMO in Browser",
     "category": "browser-based",
@@ -44751,7 +44750,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3448,
     "title": "Metroid Fusion in Browser",
     "category": "browser-based",
@@ -44763,7 +44762,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3449,
     "title": "Super Mario Bros. in Browser",
     "category": "browser-based",
@@ -44775,7 +44774,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3450,
     "title": "The Legend of Zelda The Minish Cap in Browser",
     "category": "browser-based",
@@ -44787,7 +44786,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3451,
     "title": "Return to Castle Wolfenstein in Browser",
     "category": "browser-based",
@@ -44799,7 +44798,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3452,
     "title": "MiSide in Browser",
     "category": "browser-based",
@@ -44811,7 +44810,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3453,
     "title": "Plague Inc. in Browser",
     "category": "browser-based",
@@ -44823,7 +44822,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3454,
     "title": "Sonic CD in Browser",
     "category": "browser-based",
@@ -44835,7 +44834,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3455,
     "title": "Inscryption in Browser",
     "category": "browser-based",
@@ -44847,7 +44846,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3456,
     "title": "OneShot: World Machine Edition in Browser",
     "category": "browser-based",
@@ -44859,7 +44858,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3457,
     "title": "Cheese Rolling in Browser",
     "category": "browser-based",
@@ -44871,7 +44870,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3458,
     "title": "PokeRogue in Browser",
     "category": "browser-based",
@@ -44883,7 +44882,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3459,
     "title": "Undertale Yellow in Browser",
     "category": "browser-based",
@@ -44895,7 +44894,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3460,
     "title": "NSMB – Mario Vs Luigi Online in Browser",
     "category": "browser-based",
@@ -44907,7 +44906,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3461,
     "title": "Mega Man RPG Prototype in Browser",
     "category": "browser-based",
@@ -44919,7 +44918,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3462,
     "title": "PokeClicker in Browser",
     "category": "browser-based",
@@ -44931,7 +44930,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3463,
     "title": "Bad Monday Simulator in Browser",
     "category": "browser-based",
@@ -44943,7 +44942,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3464,
     "title": "Lobotomy Corporation in Browser",
     "category": "browser-based",
@@ -44955,7 +44954,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3465,
     "title": "Serial Experiments Lain in Browser",
     "category": "browser-based",
@@ -44967,7 +44966,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3466,
     "title": "Fire Emblem: Requiem in Browser",
     "category": "browser-based",
@@ -44979,7 +44978,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3467,
     "title": "Fire Emblem: Vision Quest in Browser",
     "category": "browser-based",
@@ -44991,7 +44990,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3468,
     "title": "Fire Emblem: The Dark Amulet in Browser",
     "category": "browser-based",
@@ -45003,7 +45002,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3469,
     "title": "Fire Emblem: 7 Siblings in Browser",
     "category": "browser-based",
@@ -45015,7 +45014,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3470,
     "title": "Fire Emblem: Order of the Crimson Arm in Browser",
     "category": "browser-based",
@@ -45027,7 +45026,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3471,
     "title": "Fire Emblem: The Morrow’s Golden Country in Browser",
     "category": "browser-based",
@@ -45039,7 +45038,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3472,
     "title": "Fire Emblem: The Last Promise in Browser",
     "category": "browser-based",
@@ -45051,7 +45050,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3473,
     "title": "Fire Emblem: Justice & Pride in Browser",
     "category": "browser-based",
@@ -45063,7 +45062,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3474,
     "title": "Fire Emblem: The Sun God’s Wrath in Browser",
     "category": "browser-based",
@@ -45075,7 +45074,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3475,
     "title": "Fire Emblem: Dark Lord & The Maiden of Light in Browser",
     "category": "browser-based",
@@ -45087,7 +45086,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3476,
     "title": "Dragon Ball Devolution in Browser",
     "category": "browser-based",
@@ -45099,7 +45098,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3477,
     "title": "Halo 3 - Project Reclaimer - 64 Player Online",
     "category": "decompilations-recompilations",
@@ -45111,7 +45110,7 @@
     "video_link": "https://youtu.be/dicfGnpOP-Q?si=Vo0B9tK2iT9zeKgy",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3478,
     "title": "Grand Theft Auto 3 - Co-op Mod",
     "category": "mods",
@@ -45123,7 +45122,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3479,
     "title": "NotHalo Matchmaking in Browser",
     "category": "browser-based",
@@ -45135,7 +45134,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3480,
     "title": "DroidDeck - SteamOS experience on Android",
     "category": "android-ports",
@@ -45147,7 +45146,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3481,
     "title": "Pro Evolution Soccer 6 in Browser",
     "category": "browser-based",
@@ -45159,7 +45158,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3483,
     "title": "Daytona USA Arcade Recompilation",
     "category": "decompilations-recompilations",
@@ -45171,7 +45170,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3484,
     "title": "Dusklight HD FULL RELEASE + Twilight Princess HD Recompilation",
     "category": "decompilations-recompilations",
@@ -45183,7 +45182,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3485,
     "title": "Snowboard Kids Recompilation",
     "category": "decompilations-recompilations",
@@ -45195,7 +45194,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3486,
     "title": "SSX Tricky Recompilation",
     "category": "decompilations-recompilations",
@@ -45207,7 +45206,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3487,
     "title": "Ridge Racer V Recompilation",
     "category": "decompilations-recompilations",
@@ -45219,7 +45218,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3488,
     "title": "Hybrid Heaven Recompilation",
     "category": "decompilations-recompilations",
@@ -45231,7 +45230,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3489,
     "title": "Castlevania: Symphony of the Night Castle Editor in Browser",
     "category": "browser-based",
@@ -45243,7 +45242,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3490,
     "title": "P.T Silent Hills PC Port",
     "category": "console-to-pc-port",
@@ -45255,7 +45254,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3491,
     "title": "P.T Silent Hills PC Port 2",
     "category": "console-to-pc-port",
@@ -45267,7 +45266,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3492,
     "title": "Tsukihime in Browser",
     "category": "browser-based",
@@ -45279,7 +45278,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3493,
     "title": "SCP: Containment Breach in Browser",
     "category": "browser-based",
@@ -45291,7 +45290,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3494,
     "title": "Trombone Champ in Browser",
     "category": "browser-based",
@@ -45303,7 +45302,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3495,
     "title": "Castlevania: Aria of Sorrow in Browser",
     "category": "browser-based",
@@ -45315,7 +45314,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3496,
     "title": "Castlevania 3: Dracula’s Curse in Browser",
     "category": "browser-based",
@@ -45327,7 +45326,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3497,
     "title": "Castlemania in Browser",
     "category": "browser-based",
@@ -45339,7 +45338,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3498,
     "title": "Castlevania: Circle of the Moon in Browser",
     "category": "browser-based",
@@ -45351,7 +45350,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3499,
     "title": "Castlevania HOD: Revenge of the Findesiecle in Browser",
     "category": "browser-based",
@@ -45363,7 +45362,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3500,
     "title": "Castlevania: Dracula X in Browser",
     "category": "browser-based",
@@ -45375,7 +45374,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3501,
     "title": "Castlevania Harmony of Dissonance in Browser",
     "category": "browser-based",
@@ -45387,7 +45386,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3502,
     "title": "Wickebine Kigyouden in Browser",
     "category": "browser-based",
@@ -45399,7 +45398,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3503,
     "title": "Asslevania: Symphony of the Butt in Browser",
     "category": "browser-based",
@@ -45411,7 +45410,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3504,
     "title": "Castlevania Bloodlines in Browser",
     "category": "browser-based",
@@ -45423,7 +45422,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3505,
     "title": "Castlevania: The Holy Relics in Browser",
     "category": "browser-based",
@@ -45435,7 +45434,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3506,
     "title": "Castlevania: The Red Wizard in Browser",
     "category": "browser-based",
@@ -45447,7 +45446,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3507,
     "title": "Nightmare Breaker in Browser",
     "category": "browser-based",
@@ -45459,7 +45458,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3508,
     "title": "Demon Castle in Browser",
     "category": "browser-based",
@@ -45471,7 +45470,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3509,
     "title": "Castlevania II: Simon’s Quest in Browser",
     "category": "browser-based",
@@ -45483,7 +45482,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3510,
     "title": "Blood Gauntlet in Browser",
     "category": "browser-based",
@@ -45495,7 +45494,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3511,
     "title": "Anzu Castle Gracula in Browser",
     "category": "browser-based",
@@ -45507,7 +45506,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3512,
     "title": "Deltarune: Lightners Live Plus in Browser",
     "category": "browser-based",
@@ -45519,7 +45518,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3513,
     "title": "Drascula: The Vampire Strikes Back in Browser",
     "category": "browser-based",
@@ -45531,7 +45530,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3514,
     "title": "LEGO Island in Browser",
     "category": "browser-based",
@@ -45543,7 +45542,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3515,
     "title": "Sonic 3 Complete in Browser",
     "category": "browser-based",
@@ -45555,7 +45554,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3516,
     "title": "Sonic Classic Heroes in Browser",
     "category": "browser-based",
@@ -45567,7 +45566,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3517,
     "title": "Sonic Megamix in Browser",
     "category": "browser-based",
@@ -45579,7 +45578,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3518,
     "title": "Sonic 3D Blast in Browser",
     "category": "browser-based",
@@ -45591,7 +45590,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3519,
     "title": "Sonic 2 XL in Browser",
     "category": "browser-based",
@@ -45603,7 +45602,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3520,
     "title": "Super Mario 63 in Browser",
     "category": "browser-based",
@@ -45615,7 +45614,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3521,
     "title": "PokePath TD in Browser",
     "category": "browser-based",
@@ -45627,7 +45626,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3522,
     "title": "Sonic Robo Blast 2 Kart in Browser",
     "category": "browser-based",
@@ -45639,7 +45638,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3523,
     "title": "The Man From The Window 2 in Browser",
     "category": "browser-based",
@@ -45651,7 +45650,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3524,
     "title": "Abobo's Big Adventure in Browser",
     "category": "browser-based",
@@ -45663,7 +45662,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3525,
     "title": "Beatblock in Browser",
     "category": "browser-based",
@@ -45675,7 +45674,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3526,
     "title": "Boil Noodles at Night in Browser",
     "category": "browser-based",
@@ -45687,7 +45686,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3527,
     "title": "Baldi's Basics Birthday Bash in Browser",
     "category": "browser-based",
@@ -45699,7 +45698,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3528,
     "title": "Catan Universe in Browser",
     "category": "browser-based",
@@ -45711,7 +45710,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3529,
     "title": "Gizmoduck in Browser",
     "category": "browser-based",
@@ -45723,7 +45722,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3530,
     "title": "Xenosaga Pied Piper in Browser",
     "category": "browser-based",
@@ -45735,7 +45734,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3531,
     "title": "Magic: The Gathering in Browser",
     "category": "browser-based",
@@ -45747,7 +45746,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3532,
     "title": "YNOproject in Browser",
     "category": "browser-based",
@@ -45759,7 +45758,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3533,
     "title": "Flight of the Amazon Queen in Browser",
     "category": "browser-based",
@@ -45771,7 +45770,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3534,
     "title": "Exit Fate in Browser",
     "category": "browser-based",
@@ -45783,7 +45782,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3535,
     "title": "Crashout Crew in Browser",
     "category": "browser-based",
@@ -45795,7 +45794,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3536,
     "title": "Ages of Conflict in Browser",
     "category": "browser-based",
@@ -45807,7 +45806,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3537,
     "title": "Happy Room in Browser",
     "category": "browser-based",
@@ -45819,7 +45818,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3538,
     "title": "Helltaker in Browser",
     "category": "browser-based",
@@ -45831,7 +45830,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3539,
     "title": "Helltaker in Browser",
     "category": "browser-based",
@@ -45843,7 +45842,7 @@
     "video_link": "",
     "date_added": "2026-10-04"
   },
-  {
+    {
     "id": 3540,
     "title": "Spider-Man: Edge of Time Recompilation 2",
     "category": "decompilations-recompilations",
@@ -46262,5 +46261,46 @@
     "series": "Whiskerdoku",
     "video_link": "",
     "date_added": "2026-10-05"
+  },
+  {
+    "id": 3575,
+    "title": "Naruto: Rise of a Ninja Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/jorjbarbosa/naruto-rise-recomp",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Naruto",
+    "video_link": "",
+    "date_added": "2026-10-06"
+  },
+  {
+    "id": 3576,
+    "title": "Silent Hill 2 Recompilation Nintendo Switch Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/cutarev/sh2-nx",
+    "genre1": "survival-horror",
+    "genre2": "adventure",
+    "series": "Silent Hill",
+    "video_link": "",
+    "date_added": "2026-10-06"
+  },
+  {
+    "id": 3577,
+    "title": "The Legend of Zelda The Wind Waker HD Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Wii U",
+    "link": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-06"
   }
+
+
+
+
+
 ]
