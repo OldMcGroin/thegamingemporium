@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:32:12 +0000</lastBuildDate>
     <item>
       <title>ICO Recompilation</title>
       <link>https://thegamingemporium.com/game/ico-recompilation/</link>
@@ -170,6 +170,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/cod-world-at-war-zombies-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cod-world-at-war-zombies-in-browser.webp" alt="COD World at War Zombies in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Call of Duty · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cod-world-at-war-zombies-in-browser.webp" alt="COD World at War Zombies in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Call of Duty · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>1 Retro Games Online in Browser</title>
+      <link>https://thegamingemporium.com/game/1-retro-games-online-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/1-retro-games-online-in-browser/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" alt="1 Retro Games Online in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" alt="1 Retro Games Online in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></content:encoded>
     </item>
     <item>
       <title>Naruto: Rise of a Ninja Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" alt="Super Mario Sunshine PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" alt="Super Mario Sunshine PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Real Steel Recompilation</title>
-      <link>https://thegamingemporium.com/game/real-steel-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/real-steel-recompilation/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/real-steel-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/real-steel-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/real-steel-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/real-steel-recompilation.webp" alt="Real Steel Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Real Steel · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/real-steel-recompilation.webp" alt="Real Steel Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Real Steel · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
