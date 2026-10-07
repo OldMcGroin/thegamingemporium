@@ -1198,6 +1198,8 @@
   </url><url>
     <loc>http://localhost:1313/game/cod-community-launcher-plutonium/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/cod-world-at-war-zombies-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/cold-case/</loc>
   </url><url>
     <loc>http://localhost:1313/series/cold-case/</loc>
@@ -1331,6 +1333,8 @@
     <loc>http://localhost:1313/game/counter-strike-surfing-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/counter-strike-football/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/counter-strike-source-bunnyhop-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/country-draw/</loc>
   </url><url>
@@ -1813,8 +1817,6 @@
     <loc>http://localhost:1313/game/disney-s-piglet-s-big-game-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/dispatch/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/dispatch-gameboy-advance-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/dispatch-gameboy-advance-port-in-browser/</loc>
   </url><url>

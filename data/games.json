@@ -46623,14 +46623,26 @@
     "date_added": "2026-10-07"
   },
   {
-    "id": 3601,
-    "title": "Dispatch Gameboy Advance Port",
-    "category": "console-ports",
+    "id": 3602,
+    "title": "Counter-Strike: Source Bunnyhop in Browser",
+    "category": "browser-based",
     "platform": "",
-    "link": "https://luckyliefe.itch.io/dispatch-gba",
-    "genre1": "visual-novel",
+    "link": "https://bunnyhop.lol/",
+    "genre1": "action",
     "genre2": "strategy",
-    "series": "Dispatch",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3603,
+    "title": "COD World at War Zombies in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://zombies.bitcoinsapi.com/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
     "video_link": "",
     "date_added": "2026-10-07"
   }
