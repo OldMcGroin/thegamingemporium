@@ -1812,6 +1812,12 @@
   </url><url>
     <loc>http://localhost:1313/game/disney-s-piglet-s-big-game-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/dispatch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dispatch-gameboy-advance-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/dispatch-gameboy-advance-port-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/disruptor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/disruptor-recompilation/</loc>
@@ -4942,6 +4948,8 @@
   </url><url>
     <loc>http://localhost:1313/series/p-t/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/p-t-native-pc-port/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/pac-man/</loc>
   </url><url>
     <loc>http://localhost:1313/game/pac-man-championship-edition-dx-ps-vita-port/</loc>
@@ -5411,6 +5419,8 @@
     <loc>http://localhost:1313/series/progenitor/</loc>
   </url><url>
     <loc>http://localhost:1313/game/progenitor-pc98/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/project-0-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/project-alice-victoria-2-port/</loc>
   </url><url>
@@ -6369,6 +6379,8 @@
     <loc>http://localhost:1313/game/sonic-advance-trilogy-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-adventure-2-battle-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/sonic-adventure-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/sonic-after-the-sequel-dx/</loc>
   </url><url>
@@ -7580,6 +7592,10 @@
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-ocarina-of-time-vr/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-oracle-of-ages-and-oracle-of-seasons-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-oracle-of-ages-and-oracle-of-seasons-recompilation-for-android/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-phantom-hourglass-d-pad-patch/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-recompilation/</loc>
@@ -8271,6 +8287,8 @@
     <loc>http://localhost:1313/game/virtua-cop-2-vr/</loc>
   </url><url>
     <loc>http://localhost:1313/series/virtua-fighter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/virtua-fighter-arcade-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/virtua-fighter-pc-emulation/</loc>
   </url><url>

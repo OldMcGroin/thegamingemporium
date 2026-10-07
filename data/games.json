@@ -46537,6 +46537,102 @@
     "series": "Earthworm Jim",
     "video_link": "",
     "date_added": "2026-10-07"
+  },
+  {
+    "id": 3594,
+    "title": "Virtua Fighter Arcade Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Arcade",
+    "link": "https://vf1-recomp.pages.dev/",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Virtua Fighter",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3595,
+    "title": "Sonic Adventure Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Sega Dreamcast",
+    "link": "https://github.com/sonicfreak1337/SARecomp",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Sonic the Hedgehog",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3596,
+    "title": "The Legend of Zelda Oracle of Ages and Oracle of Seasons Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/kirby-letsgo/oracles-decomp",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3597,
+    "title": "The Legend of Zelda Oracle of Ages and Oracle of Seasons Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Game Boy Colour",
+    "link": "https://github.com/kirby-letsgo/oracles-decomp",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3598,
+    "title": "P.T. Native PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 4",
+    "link": "https://github.com/LoreanXavier/pt-pc",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "P.T.",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3599,
+    "title": "Project 0 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://project0.city/#383",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "F-Zero",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3600,
+    "title": "Dispatch Gameboy Advance Port in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://luckyliefe.itch.io/dispatch-gba",
+    "genre1": "visual-novel",
+    "genre2": "strategy",
+    "series": "Dispatch",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3601,
+    "title": "Dispatch Gameboy Advance Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://luckyliefe.itch.io/dispatch-gba",
+    "genre1": "visual-novel",
+    "genre2": "strategy",
+    "series": "Dispatch",
+    "video_link": "",
+    "date_added": "2026-10-07"
   }
 
 
