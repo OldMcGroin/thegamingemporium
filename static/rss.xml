@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 07 Oct 2026 20:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:55:52 +0000</lastBuildDate>
     <item>
       <title>ICO Recompilation</title>
       <link>https://thegamingemporium.com/game/ico-recompilation/</link>
@@ -214,6 +214,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>Skate 3 in Browser</title>
+      <link>https://thegamingemporium.com/game/skate-3-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/skate-3-in-browser/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" alt="Skate 3 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Skate · Genre: sports]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" alt="Skate 3 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Skate · Genre: sports]]></content:encoded>
     </item>
     <item>
       <title>Naruto: Rise of a Ninja Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Woody Woodpecker · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Woody Woodpecker · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation for Android</title>
-      <link>https://thegamingemporium.com/game/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Woody Woodpecker · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Woody Woodpecker · Genre: platformer, action]]></content:encoded>
     </item>
   </channel>
 </rss>
