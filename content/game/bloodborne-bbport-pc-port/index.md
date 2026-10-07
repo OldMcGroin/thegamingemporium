@@ -1,6 +1,6 @@
 ---
-title: "Bloodborne Port"
-url: "/game/bloodborne-port/"
+title: "Bloodborne - BBPort - PC Port"
+url: "/game/bloodborne-bbport-pc-port/"
 type: game
 params:
   external_link: "https://github.com/deadinside28/bloodborne_pc"
