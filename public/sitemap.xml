@@ -2154,6 +2154,10 @@
   </url><url>
     <loc>http://localhost:1313/game/earthbound-pc-port/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/earthsiege/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/earthsiege-2-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/earthworm-jim/</loc>
   </url><url>
     <loc>http://localhost:1313/game/earthworm-jim-2-recompilation/</loc>
@@ -7689,6 +7693,8 @@
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-4k-texture-pack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-decompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-legend-of-zelda-twilight-princess-decompilation/</loc>
   </url><url>

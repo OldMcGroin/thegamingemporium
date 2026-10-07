@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:46:26 +0000</lastBuildDate>
     <item>
       <title>ICO Recompilation</title>
       <link>https://thegamingemporium.com/game/ico-recompilation/</link>
@@ -192,6 +192,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" alt="Halo CE Mobile" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" alt="Halo CE Mobile" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>The Legend of Zelda: The Wind Waker HD Nintendo Switch Port</title>
+      <link>https://thegamingemporium.com/game/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" alt="The Legend of Zelda: The Wind Waker HD Nintendo Switch Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" alt="The Legend of Zelda: The Wind Waker HD Nintendo Switch Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Earthsiege 2 Recompilation</title>
+      <link>https://thegamingemporium.com/game/earthsiege-2-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/earthsiege-2-recompilation/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Naruto: Rise of a Ninja Recompilation</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Woody Woodpecker · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/woody-woodpecker-escape-from-buzz-buzzard-park-recompilation-for-android.webp" alt="Woody Woodpecker: Escape from Buzz Buzzard Park Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Woody Woodpecker · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Ratchet &amp; Clank PC Port</title>
-      <link>https://thegamingemporium.com/game/ratchet-clank-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ratchet-clank-pc-port/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ratchet-clank-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ratchet-clank-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ratchet-clank-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ratchet-clank-pc-port.webp" alt="Ratchet &amp; Clank PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ratchet &amp; Clank · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ratchet-clank-pc-port.webp" alt="Ratchet &amp; Clank PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Ratchet &amp; Clank · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Spider-Man 2 Recompilation</title>
-      <link>https://thegamingemporium.com/game/spider-man-2-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/spider-man-2-recompilation/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" alt="Spider-Man 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" alt="Spider-Man 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: platformer, action]]></content:encoded>
     </item>
   </channel>
 </rss>

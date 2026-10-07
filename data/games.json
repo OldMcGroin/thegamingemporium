@@ -46669,6 +46669,30 @@
     "series": "Halo",
     "video_link": "",
     "date_added": "2026-10-07"
+  },
+  {
+    "id": 3606,
+    "title": "The Legend of Zelda: The Wind Waker HD Nintendo Switch Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/NotARanger97/WindWakerHDNX/releases/tag/nx-v0.1.0",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3607,
+    "title": "Earthsiege 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/kevinfoley/Herculan",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Earthsiege",
+    "video_link": "",
+    "date_added": "2026-10-07"
   }
 
 
