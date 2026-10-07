@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 07 Oct 2026 15:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:24:00 +0000</lastBuildDate>
     <item>
       <title>ICO Recompilation</title>
       <link>https://thegamingemporium.com/game/ico-recompilation/</link>
@@ -181,6 +181,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" alt="1 Retro Games Online in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-retro-games-online-in-browser.webp" alt="1 Retro Games Online in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: utility]]></content:encoded>
+    </item>
+    <item>
+      <title>Halo CE Mobile</title>
+      <link>https://thegamingemporium.com/game/halo-ce-mobile/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/halo-ce-mobile/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" alt="Halo CE Mobile" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-ce-mobile.webp" alt="Halo CE Mobile" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
     </item>
     <item>
       <title>Naruto: Rise of a Ninja Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" alt="Spider-Man 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/spider-man-2-recompilation.webp" alt="Spider-Man 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Spiderman · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Mario Sunshine PC Port</title>
-      <link>https://thegamingemporium.com/game/super-mario-sunshine-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-sunshine-pc-port/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" alt="Super Mario Sunshine PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-sunshine-pc-port.webp" alt="Super Mario Sunshine PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Super Mario · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>

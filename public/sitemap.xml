@@ -3104,6 +3104,8 @@
   </url><url>
     <loc>http://localhost:1313/game/halo-ce-in-browser/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/halo-ce-mobile/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/halo-decompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/halo-mcc-vr/</loc>
