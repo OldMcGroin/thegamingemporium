@@ -46513,6 +46513,30 @@
     "series": "Mana",
     "video_link": "",
     "date_added": "2026-10-07"
+  },
+  {
+    "id": 3593,
+    "title": "Fight Night Champion Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/whompay/FNCReborn",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "Fight Night",
+    "video_link": "https://youtu.be/N4b-rM9g4Ro?si=MR-XYN_Ph6lLfGTX",
+    "date_added": "2026-10-07"
+  },
+  {
+    "id": 3593,
+    "title": "Earthworm Jim HD Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/TekRantGaming/earthworm-jim-hd-recompiled",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Earthworm Jim",
+    "video_link": "",
+    "date_added": "2026-10-07"
   }
 
 
