@@ -47017,6 +47017,30 @@
     "series": "Grand Theft Auto",
     "video_link": "",
     "date_added": "2026-10-08"
+  },
+  {
+    "id": 3634,
+    "title": "Super Smash Bros. Sega Dreamcast Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/beigeceleron/ssb64-dc",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "https://youtu.be/62vHxh6RL3E?si=VtOi07O_vHUquR3U",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3635,
+    "title": "Need for Speed: Most Wanted SpeedBreaker Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://projectugarte.com/speedbreaker/",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need for Speed",
+    "video_link": "",
+    "date_added": "2026-10-09"
   }
 
 
