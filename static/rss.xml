@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:27:14 +0000</lastBuildDate>
     <item>
       <title>Bloodborne - The Hunter's Dream - PC Port</title>
       <link>https://thegamingemporium.com/game/bloodborne-the-hunter-s-dream-pc-port/</link>
@@ -104,6 +104,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/descent-2-for-android-2.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-2-for-android-2.webp" alt="Descent 2 for Android 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/descent-2-for-android-2.webp" alt="Descent 2 for Android 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Descent · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Mario 64 with Multiplayer in Browser</title>
+      <link>https://thegamingemporium.com/game/super-mario-64-with-multiplayer-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/super-mario-64-with-multiplayer-in-browser/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/super-mario-64-with-multiplayer-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/super-mario-64-with-multiplayer-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-64-with-multiplayer-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-with-multiplayer-in-browser.webp" alt="Super Mario 64 with Multiplayer in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Super Mario · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-64-with-multiplayer-in-browser.webp" alt="Super Mario 64 with Multiplayer in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Super Mario · Genre: platformer]]></content:encoded>
     </item>
     <item>
       <title>ICO Recompilation</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/cut-the-rope-dx-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cut-the-rope-dx-in-browser.webp" alt="Cut the Rope DX in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Cut the Rope · Genre: puzzle]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/cut-the-rope-dx-in-browser.webp" alt="Cut the Rope DX in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Cut the Rope · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>MotorStorm Arctic Edge Recompilation</title>
-      <link>https://thegamingemporium.com/game/motorstorm-arctic-edge-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/motorstorm-arctic-edge-recompilation/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/motorstorm-arctic-edge-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/motorstorm-arctic-edge-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/motorstorm-arctic-edge-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/motorstorm-arctic-edge-recompilation.webp" alt="MotorStorm Arctic Edge Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: MotorStorm · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/motorstorm-arctic-edge-recompilation.webp" alt="MotorStorm Arctic Edge Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: MotorStorm · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
