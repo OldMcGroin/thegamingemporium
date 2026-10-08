@@ -46849,6 +46849,54 @@
     "series": "Mutant League Hockey",
     "video_link": "https://youtu.be/3qfBxg1CloQ?si=yziCg7D4L0Vszcz4",
     "date_added": "2026-10-08"
+  },
+  {
+    "id": 3620,
+    "title": "Dragon Quest 8 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/Sinan-Karakaya/DQ8-Recompiled",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Dragon Quest",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3621,
+    "title": "Fire Emblem: The Sacred Stones Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Game Boy Advance",
+    "link": "https://github.com/Lordingard/SacredStonesRecomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Fire Emblem",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3622,
+    "title": "Fire Emblem: The Sacred Stones Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Lordingard/SacredStonesRecomp",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Fire Emblem",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3623,
+    "title": "Metroid Prime Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "GameCube",
+    "link": "https://github.com/Odrannnn/MetroidPrimePort",
+    "genre1": "first-person-shooter",
+    "genre2": "metroidvania",
+    "series": "Metroid",
+    "video_link": "",
+    "date_added": "2026-10-08"
   }
 
 
