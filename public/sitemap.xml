@@ -680,6 +680,8 @@
   </url><url>
     <loc>http://localhost:1313/game/black-mesa-military/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/black-ops-1-zombies-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/black-ops-moon-zombies-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/black-reliquary-total-conversion-mod-for-darkest-dungeon/</loc>
@@ -2866,6 +2868,10 @@
   </url><url>
     <loc>http://localhost:1313/series/ghouls-n-ghosts/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/gigacity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/gigacity-in-browser/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/gish/</loc>
   </url><url>
     <loc>http://localhost:1313/game/gish-for-android/</loc>
@@ -3103,6 +3109,8 @@
     <loc>http://localhost:1313/game/half-life-black-mesa-blue-shift-caretaking-update/</loc>
   </url><url>
     <loc>http://localhost:1313/game/half-life-diffusion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/half-life-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/half-life-legacy/</loc>
   </url><url>
@@ -3985,6 +3993,8 @@
     <loc>http://localhost:1313/game/mario-kart-64-dreamcast-port/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-3ds-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/mario-kart-64-3ds-port-complete/</loc>
   </url><url>
     <loc>http://localhost:1313/game/mario-kart-64-ps-vita-port/</loc>
   </url><url>
@@ -5541,6 +5551,8 @@
     <loc>http://localhost:1313/game/quake-2-pcvr/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-2-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/quake-3-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/quake-4-source-port/</loc>
   </url><url>
@@ -7825,6 +7837,8 @@
     <loc>http://localhost:1313/game/the-simpsons-hit-run-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-simpsons-hit-run-pc-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/the-simpsons-hit-run-with-mod-support-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/the-simpsons-wrestling-recompilation/</loc>
   </url><url>

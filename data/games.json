@@ -46909,6 +46909,78 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-08"
+  },
+  {
+    "id": 3625,
+    "title": "The Simpsons Hit & Run with Mod Support in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://shar.harshvirdhaliwal.com/",
+    "genre1": "sandbox",
+    "genre2": "racing",
+    "series": "The Simpsons",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3626,
+    "title": "Gigacity in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://sael.net/gigacity/#seed=4417&sky=day&view=chase&at=674.3,126.3,30.3&look=17,-5",
+    "genre1": "driving",
+    "genre2": "",
+    "series": "Gigacity",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3627,
+    "title": "Black Ops 1 Zombies in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://vel.gg/bo1z",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3628,
+    "title": "Mario Kart 64 3DS Port Complete",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/Epic0522/MarioKart64-3DSPort-Complete",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3629,
+    "title": "Quake 3 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://q3.pieter.com/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Quake",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3630,
+    "title": "Half-Life in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pixelsuft.github.io/hl/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Half-Life",
+    "video_link": "",
+    "date_added": "2026-10-08"
   }
 
 
