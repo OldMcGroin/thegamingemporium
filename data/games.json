@@ -46981,6 +46981,30 @@
     "series": "Half-Life",
     "video_link": "",
     "date_added": "2026-10-08"
+  },
+  {
+    "id": 3631,
+    "title": "Road Trip Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/silentsudin/RoadTripAdventure-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3632,
+    "title": "Need for Speed Carbon Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need for Speed",
+    "video_link": "",
+    "date_added": "2026-10-08"
   }
 
 
