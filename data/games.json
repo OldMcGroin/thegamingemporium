@@ -46825,6 +46825,30 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-08"
+  },
+  {
+    "id": 3618,
+    "title": "Perfect Dark in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://perfectdark.royal-cake-5abc.workers.dev/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Perfect Dark",
+    "video_link": "",
+    "date_added": "2026-10-08"
+  },
+  {
+    "id": 3619,
+    "title": "Mutant League Hockey Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Sega Megadrive",
+    "link": "https://github.com/scheeseman486/mightyweenie",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Mutant League Hockey",
+    "video_link": "https://youtu.be/3qfBxg1CloQ?si=yziCg7D4L0Vszcz4",
+    "date_added": "2026-10-08"
   }
 
 
