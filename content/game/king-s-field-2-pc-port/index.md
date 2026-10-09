@@ -8,7 +8,7 @@ params:
   genre1: "rpg"
   genre2: ""
   series: "King's Field"
-  video_link: ""
+  video_link: "https://youtu.be/Fm1Fm99B3Vs?si=gUf8Tya3m6I3Grth"
   date_added: "2026-10-09"
   image: ""
 ---
