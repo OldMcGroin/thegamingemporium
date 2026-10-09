@@ -2164,6 +2164,8 @@
   </url><url>
     <loc>http://localhost:1313/game/earthbound-beginnings-remake/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/earthbound-companion-maternalbound-redux/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/earthbound-halloween-hack/</loc>
   </url><url>
     <loc>http://localhost:1313/game/earthbound-pc-port/</loc>
@@ -8047,6 +8049,10 @@
     <loc>http://localhost:1313/series/tomodachi/</loc>
   </url><url>
     <loc>http://localhost:1313/game/tomodachi-collection-nintendo-ds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/tomodachi-life/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/tomodachi-life-living-the-dream-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/tonic-trouble/</loc>
   </url><url>

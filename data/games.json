@@ -47041,6 +47041,30 @@
     "series": "Need for Speed",
     "video_link": "",
     "date_added": "2026-10-09"
+  },
+  {
+    "id": 3636,
+    "title": "EarthBound Companion + MaternalBound Redux",
+    "category": "decompilations-recompilations",
+    "platform": "SNES",
+    "link": "https://github.com/rages4calm/earthbound-companion",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "EarthBound",
+    "video_link": "https://youtu.be/RZ5UdAxyqdY?si=gEq6JEcgIBTaDK3V",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3637,
+    "title": "Tomodachi Life: Living the Dream Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo Switch",
+    "link": "https://github.com/RussoPhone/tomodachi-ltd-recomp",
+    "genre1": "sandbox",
+    "genre2": "life-simulator",
+    "series": "Tomodachi Life",
+    "video_link": "",
+    "date_added": "2026-10-09"
   }
 
 
