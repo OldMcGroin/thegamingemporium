@@ -3072,6 +3072,10 @@
   </url><url>
     <loc>http://localhost:1313/game/guilty-gear-x-series-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/series/guimo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/guimo-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/guitar-hero/</loc>
   </url><url>
     <loc>http://localhost:1313/game/guitar-hero-world-tour-definitive-edition/</loc>
@@ -4553,6 +4557,10 @@
     <loc>http://localhost:1313/game/multiplayer-mods-mega-list/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mummy-tomb-of-the-pharaoh/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/muscle-march/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/muscle-march-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/series/mushishi/</loc>
   </url><url>
@@ -8645,6 +8653,8 @@
     <loc>http://localhost:1313/game/wwe-smackdown-vs-raw-2011-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wwf-no-mercy-recompilation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/wwf-no-mercy-recompilation-2/</loc>
   </url><url>
     <loc>http://localhost:1313/game/wwf-wrestlemania-2000-recompilation/</loc>
   </url><url>
