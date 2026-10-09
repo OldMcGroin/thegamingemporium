@@ -1,5 +1,5 @@
 ---
-title: "Bloodborne - The Hunters Dream - PC Port"
+title: "Bloodborne The Hunters Dream PC Port"
 url: "/game/bloodborne-the-hunters-dream-pc-port/"
 type: game
 params:

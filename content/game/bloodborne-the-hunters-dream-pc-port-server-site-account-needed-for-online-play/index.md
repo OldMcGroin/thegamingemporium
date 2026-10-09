@@ -1,5 +1,5 @@
 ---
-title: "Bloodborne - The Hunters Dream - PC Port Server Site - Account Needed for Online Play"
+title: "Bloodborne The Hunters Dream PC Port Server Site Account Needed for Online Play"
 url: "/game/bloodborne-the-hunters-dream-pc-port-server-site-account-needed-for-online-play/"
 type: game
 params:
