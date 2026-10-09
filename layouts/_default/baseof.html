@@ -93,6 +93,9 @@
             <span class="rss-copied" aria-hidden="true">Copied!</span>
           </span>
           <button class="nav__link nav__link--pill nav__link--install" type="button" data-install-app hidden>📲 Install App</button>
+          {{ if .IsHome }}
+          <a class="nav__link nav__link--pill" href="https://x.com/McGroin83" target="_blank" rel="noopener noreferrer" aria-label="Follow The Gaming Emporium on X">𝕏 Follow Us</a>
+          {{ end }}
           <button class="nav__link nav__link--pill nav__link--suggestion" type="button" data-suggestion-open aria-haspopup="dialog" aria-controls="suggestionModal">💡 Have a Suggestion?</button>
         </nav>
       </div>
