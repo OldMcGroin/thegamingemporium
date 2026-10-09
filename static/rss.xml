@@ -5,7 +5,18 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:03:48 +0000</lastBuildDate>
+    <item>
+      <title>SimGolf in Browser</title>
+      <link>https://thegamingemporium.com/game/simgolf-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/simgolf-in-browser/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/simgolf-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/simgolf-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/simgolf-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/simgolf-in-browser.webp" alt="SimGolf in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: sports]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/simgolf-in-browser.webp" alt="SimGolf in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: sports]]></content:encoded>
+    </item>
     <item>
       <title>Super Smash Bros. Sega Dreamcast Port</title>
       <link>https://thegamingemporium.com/game/super-smash-bros-sega-dreamcast-port/</link>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-oracle-of-ages-and-oracle-of-seasons-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-oracle-of-ages-and-oracle-of-seasons-recompilation.webp" alt="The Legend of Zelda Oracle of Ages and Oracle of Seasons Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-oracle-of-ages-and-oracle-of-seasons-recompilation.webp" alt="The Legend of Zelda Oracle of Ages and Oracle of Seasons Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>P.T. Native PC Port</title>
-      <link>https://thegamingemporium.com/game/p-t-native-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/p-t-native-pc-port/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/p-t-native-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/p-t-native-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/p-t-native-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/p-t-native-pc-port.webp" alt="P.T. Native PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: P.T. · Genre: survival horror]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/p-t-native-pc-port.webp" alt="P.T. Native PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: P.T. · Genre: survival horror]]></content:encoded>
     </item>
   </channel>
 </rss>
