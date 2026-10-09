@@ -47065,6 +47065,30 @@
     "series": "Tomodachi Life",
     "video_link": "",
     "date_added": "2026-10-09"
+  },
+  {
+    "id": 3638,
+    "title": "Tekken 3 Remake Built on the Godot Engine",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/n0madic/Tekken3Remake",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Tekken",
+    "video_link": "",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3639,
+    "title": "King's Field 2 PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/Voicedrew11/verdite3",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "King's Field",
+    "video_link": "",
+    "date_added": "2026-10-09"
   }
 
 

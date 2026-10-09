@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:00:53 +0000</lastBuildDate>
     <item>
       <title>Super Smash Bros. Sega Dreamcast Port</title>
       <link>https://thegamingemporium.com/game/super-smash-bros-sega-dreamcast-port/</link>
@@ -49,6 +49,28 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/tomodachi-life-living-the-dream-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tomodachi-life-living-the-dream-recompilation.webp" alt="Tomodachi Life: Living the Dream Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tomodachi Life · Genre: sandbox, life simulator]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tomodachi-life-living-the-dream-recompilation.webp" alt="Tomodachi Life: Living the Dream Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tomodachi Life · Genre: sandbox, life simulator]]></content:encoded>
+    </item>
+    <item>
+      <title>Tekken 3 Remake Built on the Godot Engine</title>
+      <link>https://thegamingemporium.com/game/tekken-3-remake-built-on-the-godot-engine/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tekken-3-remake-built-on-the-godot-engine/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tekken-3-remake-built-on-the-godot-engine.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tekken-3-remake-built-on-the-godot-engine.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tekken-3-remake-built-on-the-godot-engine.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tekken-3-remake-built-on-the-godot-engine.webp" alt="Tekken 3 Remake Built on the Godot Engine" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tekken · Genre: fighting]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tekken-3-remake-built-on-the-godot-engine.webp" alt="Tekken 3 Remake Built on the Godot Engine" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Tekken · Genre: fighting]]></content:encoded>
+    </item>
+    <item>
+      <title>King's Field 2 PC Port</title>
+      <link>https://thegamingemporium.com/game/king-s-field-2-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/king-s-field-2-pc-port/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/king-s-field-2-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/king-s-field-2-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/king-s-field-2-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/king-s-field-2-pc-port.webp" alt="King's Field 2 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: King's Field · Genre: rpg]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/king-s-field-2-pc-port.webp" alt="King's Field 2 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: King's Field · Genre: rpg]]></content:encoded>
     </item>
     <item>
       <title>Bloodborne - The Hunter's Dream - PC Port</title>
@@ -533,28 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" alt="The Legend of Zelda: The Wind Waker HD Nintendo Switch Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/the-legend-of-zelda-the-wind-waker-hd-nintendo-switch-port.webp" alt="The Legend of Zelda: The Wind Waker HD Nintendo Switch Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: The Legend of Zelda · Genre: rpg, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Earthsiege 2 Recompilation</title>
-      <link>https://thegamingemporium.com/game/earthsiege-2-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/earthsiege-2-recompilation/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earthsiege-2-recompilation.webp" alt="Earthsiege 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Earthsiege · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Skate 3 in Browser</title>
-      <link>https://thegamingemporium.com/game/skate-3-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/skate-3-in-browser/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" alt="Skate 3 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Skate · Genre: sports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/skate-3-in-browser.webp" alt="Skate 3 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Skate · Genre: sports]]></content:encoded>
     </item>
   </channel>
 </rss>
