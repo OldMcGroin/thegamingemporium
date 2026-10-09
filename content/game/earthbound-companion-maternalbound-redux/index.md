@@ -1,5 +1,5 @@
 ---
-title: "EarthBound Companion + MaternalBound Redux"
+title: "EarthBound Companion - MaternalBound Redux"
 url: "/game/earthbound-companion-maternalbound-redux/"
 type: game
 params:
