@@ -878,6 +878,8 @@
   </url><url>
     <loc>http://localhost:1313/game/burnout-3-takedown-decompilation/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/burnout-crash-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/series/bushido-blade/</loc>
   </url><url>
     <loc>http://localhost:1313/game/bushido-blade-2-recompilation/</loc>
@@ -4951,6 +4953,8 @@
     <loc>http://localhost:1313/game/openxcom-for-android/</loc>
   </url><url>
     <loc>http://localhost:1313/game/openxcom-nintendo-3ds-port/</loc>
+  </url><url>
+    <loc>http://localhost:1313/game/operation-europe-path-to-victory-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/series/operation-flashpoint/</loc>
   </url><url>
