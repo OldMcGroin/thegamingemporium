@@ -1,6 +1,6 @@
 ---
-title: "Bloodborne - The Hunter's Dream - PC Port"
-url: "/game/bloodborne-the-hunter-s-dream-pc-port/"
+title: "Bloodborne - The Hunters Dream - PC Port"
+url: "/game/bloodborne-the-hunters-dream-pc-port/"
 type: game
 params:
   external_link: "https://github.com/droogie/bbhost"
