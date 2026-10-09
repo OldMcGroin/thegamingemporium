@@ -47125,6 +47125,54 @@
     "series": "Burnout",
     "video_link": "",
     "date_added": "2026-10-09"
+  },
+  {
+    "id": 3642,
+    "title": "Spider-Man Remastered VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/IlyaMez/SpidyVR",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3643,
+    "title": "Red Dead Redemption VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/Disonomouss/RDRVR",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Red Dead Redemption",
+    "video_link": "",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3644,
+    "title": "Max Payne 2 VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/evilSheep/max-payne-2-vr",
+    "genre1": "action",
+    "genre2": "third-person-shooter",
+    "series": "Max Payne",
+    "video_link": "",
+    "date_added": "2026-10-09"
+  },
+  {
+    "id": 3645,
+    "title": "Astro Bot Rescue Mission VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/bigmak94/AstroQuest",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Astro Bot",
+    "video_link": "",
+    "date_added": "2026-10-09"
   }
 
 
