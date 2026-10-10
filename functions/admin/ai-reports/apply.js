@@ -58,7 +58,16 @@ export async function onRequestPost({request, env}) {
     if (report.status !== 'new') return respond({ok:false,message:'Only new reports can be applied.'},409);
     if (!allowed.has(report.classification)) return respond({ok:false,message:'Invalid classification.'},400);
     const file = await github(env, FILE+'?ref='+encodeURIComponent(BRANCH));
-    const raw = new TextDecoder().decode(bytes(file.content.replace(/\s/g,'')));
+    // GitHub's Contents API omits `content` for files larger than 1 MB.
+    // Retrieve the blob separately in that case (the Git Blobs API supports larger files).
+    let content = file.content;
+    if (!content || file.encoding !== 'base64') {
+      if (!file.sha || !/^[0-9a-f]{40}$/i.test(file.sha)) throw Error('GitHub did not return a valid file SHA');
+      const blob = await github(env, `git/blobs/${file.sha}`);
+      if (blob.encoding !== 'base64' || !blob.content) throw Error('GitHub blob content unavailable');
+      content = blob.content;
+    }
+    const raw = new TextDecoder().decode(bytes(content.replace(/\s/g,'')));
     const games = JSON.parse(raw);
     if (!Array.isArray(games)) throw Error('Unexpected games.json format');
     const link = normalize(report.game_link);
