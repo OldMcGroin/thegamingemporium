@@ -38,7 +38,7 @@ function normalize(url) {
   catch { return ''; }
 }
 async function github(env, path, options = {}) {
-  const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+  const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/${path.startsWith("git/blobs/") ? path : "contents/" + path}`, {
     ...options, headers: {'Accept':'application/vnd.github+json','Authorization':`Bearer ${env.GITHUB_TOKEN}`,
       'X-GitHub-Api-Version':'2022-11-28','User-Agent':'thegamingemporium-ai-reports', ...(options.headers || {})}
   });
