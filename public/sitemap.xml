@@ -992,6 +992,8 @@
   </url><url>
     <loc>http://localhost:1313/game/castlevania-chronicles-iii-dracula-s-curse/</loc>
   </url><url>
+    <loc>http://localhost:1313/game/castlevania-chronicles-recompilation/</loc>
+  </url><url>
     <loc>http://localhost:1313/game/castlevania-harmony-of-dissonance-in-browser/</loc>
   </url><url>
     <loc>http://localhost:1313/game/castlevania-haunted-castle-2/</loc>
@@ -2099,8 +2101,6 @@
     <loc>http://localhost:1313/game/duke-nukem-advance-tc/</loc>
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-d-day-ps2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/game/duke-nukem-zero-hour-overclocked-recompilation/</loc>
   </url><url>
     <loc>http://localhost:1313/game/duke-nukem-zero-hour-recompilation-first-person-mod/</loc>
   </url><url>
