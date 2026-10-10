@@ -38244,7 +38244,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-31",
-    "image": ""
+    "image": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 2917,
@@ -47299,7 +47300,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3657,
     "title": "Ultimate Mortal Kombat 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -47311,7 +47312,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3658,
     "title": "FIFA Street PC Port",
     "category": "decompilations-recompilations",
@@ -47323,7 +47324,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3659,
     "title": "Rush 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -47335,7 +47336,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3660,
     "title": "Urban Chaos: Riot Response — Burner Edition Recompilation",
     "category": "decompilations-recompilations",
@@ -47347,7 +47348,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3661,
     "title": "Def Jam: Fight for NY Recompilation",
     "category": "decompilations-recompilations",
@@ -47359,7 +47360,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3662,
     "title": "The Legend of Zelda Links Awakening Switch Recompilation",
     "category": "decompilations-recompilations",
@@ -47371,7 +47372,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3662,
     "title": "2 Quiver Launcher Big Picture",
     "category": "decompilations-recompilations",
@@ -47383,7 +47384,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3663,
     "title": "Namco System 22",
     "category": "decompilations-recompilations",
@@ -47395,7 +47396,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3664,
     "title": "Midnight Ghost Stone: A Native Metal Gear Solid Recompilation",
     "category": "decompilations-recompilations",
@@ -47407,7 +47408,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3665,
     "title": "Miki's World 1 & 2 Recompilations",
     "category": "decompilations-recompilations",
@@ -47419,7 +47420,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3666,
     "title": "WWE All Stars Recompilations",
     "category": "decompilations-recompilations",
@@ -47431,7 +47432,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-    {
+  {
     "id": 3667,
     "title": "Final Fantasy Crystal Chronicles Echoes of Time PC Port",
     "category": "decompilations-recompilations",
@@ -47443,7 +47444,7 @@
     "video_link": "",
     "date_added": "2026-10-10"
   },
-      {
+  {
     "id": 3668,
     "title": "Resident Evil 2 2019 - Local Co-op Mod",
     "category": "mods",
@@ -47455,7 +47456,4 @@
     "video_link": "",
     "date_added": "2026-10-10"
   }
-
-
-
 ]
