@@ -77,6 +77,11 @@
 </div>
     </div>
     {{ if eq $slug "decompilations-recompilations" }}
+    <div class="control"><label>AI Usage</label><select data-ai-filter>
+      <option value="">All Projects</option><option value="hide-heavy">Hide Heavy AI Usage</option>
+      <option value="unknown">Unknown</option><option value="none">No AI Usage</option>
+      <option value="light">Light AI Usage</option><option value="heavy">Heavy AI Usage</option>
+    </select></div>
     <div class="control">
       <label>Platform</label>
       <select data-platform-filter>

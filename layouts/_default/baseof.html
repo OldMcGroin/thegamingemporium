@@ -76,13 +76,6 @@
           <a class="nav__link" href="{{ partial "section-link.html" "series" }}">Browse By Series</a>
           <a class="nav__link" href="{{ partial "section-link.html" "genres" }}">Browse By Genre</a>
           <a class="nav__link" href="{{ partial "section-link.html" "all" }}">All</a>
-          {{ if or .IsHome (eq .Section "all") }}
-          <div class="nav-popular-wrap">
-            <button class="nav__link nav__link--pill" type="button" id="popularBtn" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
-              Most Popular
-            </button>
-          </div>
-          {{ end }}
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
           <button class="nav__link nav__link--pill nav__link--hidden-gems" type="button" data-hidden-gems-open aria-haspopup="dialog" aria-controls="hiddenGemsModal">💎 Hidden Gems</button>
           <button class="nav__link nav__link--pill nav__link--rising" type="button" data-rising-open aria-haspopup="dialog" aria-controls="risingModal">📈 Rising</button>
@@ -92,6 +85,13 @@
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
           </span>
+          {{ if or .IsHome (eq .Section "all") }}
+          <div class="nav-popular-wrap">
+            <button class="nav__link nav__link--pill" type="button" id="popularBtn" data-popular-toggle aria-haspopup="dialog" aria-expanded="false">
+              Most Popular
+            </button>
+          </div>
+          {{ end }}
           <button class="nav__link nav__link--pill nav__link--install" type="button" data-install-app hidden>📲 Install App</button>
           {{ if .IsHome }}
           <a class="nav__link nav__link--pill" href="https://x.com/McGroin83" target="_blank" rel="noopener noreferrer" aria-label="Follow The Gaming Emporium on X">𝕏 Follow Us</a>
@@ -215,6 +215,19 @@
       </section>
     </div>
 
+<div class="suggestion-modal" data-ai-modal hidden>
+<div class="suggestion-modal__backdrop" data-ai-close></div>
+<section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-label="Report AI Usage">
+<button class="suggestion-modal__close" type="button" data-ai-close aria-label="Close">✕</button>
+<h2>Report AI Usage</h2><p class="suggestion-modal__note">Help us classify a project. Reports are reviewed before any tag is changed.</p>
+<form class="suggestion-form" data-ai-form>
+<label>Project name</label><input name="game_title" maxlength="120" required>
+<label>Project URL</label><input name="game_link" type="url" maxlength="500" required>
+<label>Suggested classification</label><select name="classification" required><option value="">Choose…</option><option value="none">No AI Usage</option><option value="light">Light AI Usage</option><option value="heavy">Heavy AI Usage</option></select>
+<label>Additional Details/Evidence (Optional)</label><textarea name="details" maxlength="2000" rows="3"></textarea>
+<div class="suggestion-hp" aria-hidden="true"><label>Website<input name="website" tabindex="-1" autocomplete="off"></label></div>
+<button class="suggestion-form__submit" type="submit">Submit AI Report</button><p class="suggestion-form__message" data-ai-message aria-live="polite"></p>
+</form></section></div>
     <div class="suggestion-modal" id="suggestionModal" data-suggestion-modal hidden>
       <div class="suggestion-modal__backdrop" data-suggestion-close></div>
       <section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-labelledby="suggestionTitle">
@@ -289,6 +302,8 @@
   {{/* Copy RSS URL buttons (desktop + mobile) */}}
   {{ $rssCopyJS := resources.Get "js/rss-copy.js" | minify | fingerprint }}
   <script src="{{ $rssCopyJS.RelPermalink }}" integrity="{{ $rssCopyJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ $aiJS := resources.Get "js/ai-usage.js" | minify | fingerprint }}
+  <script src="{{ $aiJS.RelPermalink }}" integrity="{{ $aiJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $suggestionsJS := resources.Get "js/suggestions.js" | minify | fingerprint }}
   <script src="{{ $suggestionsJS.RelPermalink }}" integrity="{{ $suggestionsJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ $surpriseJS := resources.Get "js/surprise-me.js" | minify | fingerprint }}

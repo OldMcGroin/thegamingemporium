@@ -92,7 +92,7 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(b"Not found")
 
     def do_POST(self):
-        if self.path not in ("/toggle", "/platform"):
+        if self.path not in ("/toggle", "/platform", "/ai-usage"):
             self._headers(404)
             self.wfile.write(b"Not found")
             return
@@ -104,6 +104,9 @@ class Handler(BaseHTTPRequestHandler):
             game_id = int(payload.get("id"))
             hidden = bool(payload.get("hidden")) if self.path == "/toggle" else None
             platform = str(payload.get("platform", "")).strip() if self.path == "/platform" else None
+            ai_usage = str(payload.get("ai_usage", "")).strip() if self.path == "/ai-usage" else None
+            if self.path == "/ai-usage" and ai_usage not in ("unknown", "none", "light", "heavy"):
+                raise ValueError("Invalid AI usage")
             if self.path == "/platform" and not platform:
                 raise ValueError("platform is required")
         except Exception as e:
@@ -126,6 +129,15 @@ class Handler(BaseHTTPRequestHandler):
                 if isinstance(g, dict) and int(g.get("id", -1)) == game_id:
                     if self.path == "/toggle":
                         g["hidden"] = hidden
+                    elif self.path == "/ai-usage":
+                        if g.get("category") != "decompilations-recompilations":
+                            self._headers(400)
+                            self.wfile.write(b"AI classification is limited to Decompilations & Recompilations")
+                            return
+                        if ai_usage == "unknown":
+                            g.pop("ai_usage", None)
+                        else:
+                            g["ai_usage"] = ai_usage
                     else:
                         if g.get("category") != "decompilations-recompilations":
                             self._headers(400)
@@ -151,6 +163,8 @@ class Handler(BaseHTTPRequestHandler):
             self._headers(200, "application/json; charset=utf-8")
             if self.path == "/toggle":
                 response = {"id": game_id, "hidden": hidden}
+            elif self.path == "/ai-usage":
+                response = {"id": game_id, "ai_usage": ai_usage}
             else:
                 response = {"id": game_id, "platform": platform}
             self.wfile.write(json.dumps(response).encode("utf-8"))

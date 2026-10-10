@@ -104,7 +104,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/main.min.56425bf53478c5e713690e5a4e941dba350aa4cf3fd79fc557fac1ee9426b7c0.css" integrity="sha256-VkJb9TR4xecTaQ5aTpQdujUKpM8/15/FV/rB7pQmt8A=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/css/main.min.b1bbc7d6c7789f3f6938a6bab71cc5f074dcf581885da233e9ec270807683e8e.css" integrity="sha256-sbvH1sd4nz9pOKa6txzF8HTc9YGIXaIz6ewnCAdoPo4=" crossorigin="anonymous" />
 
   <link rel="alternate" type="application/rss+xml" title="The Gaming Emporium — Recent Additions" href="/rss.xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
@@ -154,7 +154,6 @@
           <a class="nav__link" href="/series/">Browse By Series</a>
           <a class="nav__link" href="/genres/">Browse By Genre</a>
           <a class="nav__link" href="/all/">All</a>
-          
           <button class="nav__link nav__link--pill nav__link--surprise" type="button" data-surprise-open aria-haspopup="dialog" aria-controls="surpriseModal">🎲 Surprise Me</button>
           <button class="nav__link nav__link--pill nav__link--hidden-gems" type="button" data-hidden-gems-open aria-haspopup="dialog" aria-controls="hiddenGemsModal">💎 Hidden Gems</button>
           <button class="nav__link nav__link--pill nav__link--rising" type="button" data-rising-open aria-haspopup="dialog" aria-controls="risingModal">📈 Rising</button>
@@ -164,6 +163,7 @@
             <button class="nav__link nav__link--pill nav__link--rss" type="button" data-copy-rss aria-label="Copy RSS feed URL" title="Copy RSS feed URL">RSS</button>
             <span class="rss-copied" aria-hidden="true">Copied!</span>
           </span>
+          
           <button class="nav__link nav__link--pill nav__link--install" type="button" data-install-app hidden>📲 Install App</button>
           
           <button class="nav__link nav__link--pill nav__link--suggestion" type="button" data-suggestion-open aria-haspopup="dialog" aria-controls="suggestionModal">💡 Have a Suggestion?</button>
@@ -266,6 +266,19 @@
       </section>
     </div>
 
+<div class="suggestion-modal" data-ai-modal hidden>
+<div class="suggestion-modal__backdrop" data-ai-close></div>
+<section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-label="Report AI Usage">
+<button class="suggestion-modal__close" type="button" data-ai-close aria-label="Close">✕</button>
+<h2>Report AI Usage</h2><p class="suggestion-modal__note">Help us classify a project. Reports are reviewed before any tag is changed.</p>
+<form class="suggestion-form" data-ai-form>
+<label>Project name</label><input name="game_title" maxlength="120" required>
+<label>Project URL</label><input name="game_link" type="url" maxlength="500" required>
+<label>Suggested classification</label><select name="classification" required><option value="">Choose…</option><option value="none">No AI Usage</option><option value="light">Light AI Usage</option><option value="heavy">Heavy AI Usage</option></select>
+<label>Additional Details/Evidence (Optional)</label><textarea name="details" maxlength="2000" rows="3"></textarea>
+<div class="suggestion-hp" aria-hidden="true"><label>Website<input name="website" tabindex="-1" autocomplete="off"></label></div>
+<button class="suggestion-form__submit" type="submit">Submit AI Report</button><p class="suggestion-form__message" data-ai-message aria-live="polite"></p>
+</form></section></div>
     <div class="suggestion-modal" id="suggestionModal" data-suggestion-modal hidden>
       <div class="suggestion-modal__backdrop" data-suggestion-close></div>
       <section class="suggestion-modal__panel" role="dialog" aria-modal="true" aria-labelledby="suggestionTitle">
@@ -360,14 +373,14 @@
 
   
   
-  <script src="/js/main.min.115b4bd9450ca5e8731b0b85027260d81719349c3b1bb591c837cd7fefce37eb.js" integrity="sha256-EVtL2UUMpehzGwuFAnJg2BcZNJw7G7WRyDfNf&#43;/ON&#43;s=" crossorigin="anonymous" defer></script>
+  <script src="/js/main.min.64a1a790423f015ffcdca7e6fec156458d153a43239f52b67eccc6eeefb1f38a.js" integrity="sha256-ZKGnkEI/AV/83Kfm/sFWRY0VOkMjn1K2fszG7u&#43;x84o=" crossorigin="anonymous" defer></script>
   
   <script src="/js/theme.min.ab17e0a089ae15a146498572f6943e7e1b1861004283ebecaf35984f932e35a0.js" integrity="sha256-qxfgoImuFaFGSYVy9pQ&#43;fhsYYQBCg&#43;vsrzWYT5MuNaA=" crossorigin="anonymous" defer></script>
   
   
   <script src="/js/home-random.min.f09c4f48e1808142d6976126198c0682cefede693987c6689c9c5aa112b3a54f.js" integrity="sha256-8JxPSOGAgULWl2EmGYwGgs7&#43;3mk5h8ZonJxaoRKzpU8=" crossorigin="anonymous" defer></script>
-  <script src="/games-slug-map.js?v=1791532339" defer></script>
-<script src="/search-index.js?v=1791532339" defer></script>
+  <script src="/games-slug-map.js?v=1791634209" defer></script>
+<script src="/search-index.js?v=1791634209" defer></script>
 
 <script src="/js/search.min.aa08452716e208abc9f3e7132dea9b184edb80c6970329976182f362a24ac055.js" integrity="sha256-qghFJxbiCKvJ8&#43;cTLeqbGE7bgMaXAymXYYLzYqJKwFU=" crossorigin="anonymous" defer></script>
 
@@ -383,6 +396,8 @@
   
   
   <script src="/js/rss-copy.min.b7178cb88cc91424892ad45af27ac69b97f8411eef5197e153c1269401453fde.js" integrity="sha256-txeMuIzJFCSJKtRa8nrGm5f4QR7vUZfhU8EmlAFFP94=" crossorigin="anonymous" defer></script>
+  
+  <script src="/js/ai-usage.min.8cd528897f736d27f7753cdfab5fc0ef2cbf8e8f29b3ff3b92989e2e2eb39af0.js" integrity="sha256-jNUoiX9zbSf3dTzfq1/A7yy/jo8ps/87kpieLi6zmvA=" crossorigin="anonymous" defer></script>
   
   <script src="/js/suggestions.min.e6658a14d7454ab4676e1a756766a464d8f7c13e1b065e31509e80a430a7ef5a.js" integrity="sha256-5mWKFNdFSrRnbhp1Z2akZNj3wT4bBl4xUJ6ApDCn71o=" crossorigin="anonymous" defer></script>
   

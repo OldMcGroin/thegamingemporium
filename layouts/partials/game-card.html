@@ -32,7 +32,7 @@ Image strategy (scales to thousands of items):
 {{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
 {{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
 {{- $genreDisp := delimit $genres ", " -}}
-<div class="game-card" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
+<div class="game-card" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
   {{/* Only show the helper button while running `hugo server` (local dev) */}}
   {{- if and (isset . "ctx") hugo.IsServer -}}
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
@@ -59,6 +59,15 @@ Image strategy (scales to thousands of items):
 {{- $showPlatformCard := false -}}
 {{- if and (isset . "ctx") (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations") (eq $g.category "decompilations-recompilations") -}}
   {{- $showPlatformCard = true -}}
+{{- end -}}
+
+{{- if $showPlatformCard -}}
+  {{- $ai := default "unknown" $g.ai_usage -}}
+  <div class="ai-card-controls">
+    <span class="ai-badge ai-badge--{{ $ai }}" data-ai-badge>{{ if eq $ai "none" }}No AI Usage{{ else if eq $ai "light" }}Light AI Usage{{ else if eq $ai "heavy" }}Heavy AI Usage{{ else }}Unknown{{ end }}</span>
+    {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
+    <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
+  </div>
 {{- end -}}
 
 {{- if $showPlatformCard -}}

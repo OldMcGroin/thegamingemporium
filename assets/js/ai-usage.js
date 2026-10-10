@@ -1,0 +1,11 @@
+(function(){'use strict';
+var modal=document.querySelector('[data-ai-modal]'),form=document.querySelector('[data-ai-form]');
+if(modal&&form){var msg=form.querySelector('[data-ai-message]'),submit=form.querySelector('[type=submit]'),prior;
+function open(b){prior=document.activeElement;form.reset();msg.textContent='';form.elements.game_title.value=b.dataset.gameTitle||'';form.elements.game_link.value=b.dataset.gameLink||'';modal.hidden=false;form.elements.classification.focus();}
+function close(){modal.hidden=true;if(prior&&prior.focus)prior.focus();}
+document.addEventListener('click',function(e){var b=e.target.closest('[data-ai-report-open]');if(b){e.preventDefault();open(b);}if(e.target.closest('[data-ai-close]'))close();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!modal.hidden)close();});
+form.addEventListener('submit',async function(e){e.preventDefault();submit.disabled=true;msg.textContent='Submitting…';try{var r=await fetch('/submit-ai-report',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(form).entries()))});var d=await r.json();if(!r.ok)throw Error(d.message||'Submission failed');msg.textContent='Thank you! Your report has been submitted for review.';form.reset();}catch(err){msg.textContent=err.message;}finally{submit.disabled=false;}});}
+var values=['unknown','none','light','heavy'],labels={unknown:'Unknown',none:'No AI Usage',light:'Light AI Usage',heavy:'Heavy AI Usage'};
+document.querySelectorAll('[data-ai-preview]').forEach(function(b){b.addEventListener('click',async function(){var card=b.closest('.game-card'),old=card.dataset.aiUsage||'unknown',next=values[(values.indexOf(old)+1)%values.length];b.disabled=true;try{var r=await fetch('http://127.0.0.1:7331/ai-usage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:Number(b.dataset.gameId),ai_usage:next})});if(!r.ok)throw Error(await r.text());card.dataset.aiUsage=next;var badge=card.querySelector('[data-ai-badge]');badge.className='ai-badge ai-badge--'+next;badge.textContent=labels[next];b.textContent='Set AI: '+next;}catch(err){alert('Could not save AI classification: '+err.message);}finally{b.disabled=false;}});});
+})();

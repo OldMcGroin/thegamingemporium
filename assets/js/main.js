@@ -159,6 +159,8 @@ function initGameGrids(){
         var sortSelect  = wrapper.querySelector('select[data-sort]');
         var addedFilter = wrapper.querySelector('select[data-added-filter]');
         var platformFilter = wrapper.querySelector('select[data-platform-filter]');
+        var aiFilter = wrapper.querySelector('select[data-ai-filter]');
+        if(aiFilter){try{aiFilter.value=localStorage.getItem('tge_ai_filter')||'';}catch(e){}}
         var filterSummary = wrapper.querySelector('[data-filter-summary]');
         var loadMoreBtn = wrapper.querySelector('[data-load-more]');
         var loadMoreWrap = wrapper.querySelector('[data-load-more-wrap]');
@@ -483,7 +485,10 @@ function initGameGrids(){
 
             var showPlatform = !platformFilter || !platformFilter.value || cardPlatform === platformFilter.value;
 
-            if(showGenre && showCategory && showPlatform && __passesAddedFilter(card)) matches.push(card);
+            var ai = card.getAttribute('data-ai-usage') || 'unknown';
+            var aiChoice = aiFilter ? aiFilter.value : '';
+            var showAI = !aiChoice || (aiChoice === 'hide-heavy' ? ai !== 'heavy' : ai === aiChoice);
+            if(showGenre && showCategory && showPlatform && showAI && __passesAddedFilter(card)) matches.push(card);
           });
 
           var showCount = pageSize ? Math.min(visibleLimit, matches.length) : matches.length;
@@ -539,6 +544,7 @@ function initGameGrids(){
         if(categorySelect){ categorySelect.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(addedFilter){ addedFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(platformFilter){ platformFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
+        if(aiFilter){aiFilter.addEventListener('change',function(){try{localStorage.setItem('tge_ai_filter',aiFilter.value);}catch(e){} visibleLimit=pageSize;applyFilter();});}
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
         if(loadMoreBtn){ loadMoreBtn.addEventListener('click', function(){ visibleLimit += pageSize; applyFilter(); }); }
 
