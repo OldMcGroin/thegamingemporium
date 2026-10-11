@@ -68,7 +68,60 @@ python3 tools/generate_rss_feed.py || true
 # Build Hugo
 "$HUGO_CMD" --minify
 
-# Git deploy (safe if repo has .git)
+# Git deploy with automatic retry
 git add -A
-git commit -m "Deploy $(date +"%Y-%m-%d %H:%M")" || true
-git push
+
+if ! git diff --cached --quiet; then
+  git commit -m "Deploy $(date +'%Y-%m-%d %H:%M')"
+fi
+
+for attempt in 1 2 3; do
+  echo "Pushing to GitHub (attempt $attempt/3)..."
+
+  if git push origin main; then
+    echo "SUCCESS: GitHub deployment pushed!"
+    exit 0
+  fi
+
+  if [[ "$attempt" -eq 3 ]]; then
+    echo "ERROR: Push failed after 3 attempts."
+    exit 1
+  fi
+
+  echo "Checking for newer GitHub changes..."
+  git fetch origin main
+
+  if git merge-base --is-ancestor origin/main HEAD; then
+    echo "ERROR: Push failed, but GitHub is not ahead."
+    echo "Check network access or GitHub permissions."
+    exit 1
+  fi
+
+  echo "New GitHub updates detected. Synchronising..."
+
+  if ! git rebase origin/main; then
+    echo "ERROR: Git conflict detected."
+    echo "Your commits are preserved."
+    echo "Resolve the conflict before deploying again."
+    exit 1
+  fi
+
+  echo "Regenerating content with latest AI Usage data..."
+
+  python3 tools/generate_game_pages.py
+  python3 tools/generate_series_pages.py
+  python3 tools/generate_browse_indexes.py
+  python3 tools/generate_feature_data.py --include-hidden 0
+  INCLUDE_HIDDEN=1 python3 tools/generate_search_index.py
+  python3 tools/generate_rss_feed.py || true
+
+  ./check-social
+  "$HUGO_CMD" --minify
+
+  git add -A
+
+  if ! git diff --cached --quiet; then
+    git commit -m "Refresh generated content after GitHub sync"
+  fi
+
+done
