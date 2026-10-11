@@ -47473,5 +47473,94 @@
     "series": "Need For Speed",
     "video_link": "",
     "date_added": "2026-10-11"
+  },
+    {
+    "id": 3670,
+    "title": "Hard Corps: Uprising Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/saulob/hard-corps-uprising-recompiled",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Hard Corps",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3671,
+    "title": "P.T. for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/LoreanXavier/pt-pc",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "P.T.",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3672,
+    "title": "American McGees Alice for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Player124413/Looking-Glass-android-edition",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3673,
+    "title": "Mina The Hollower for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://apkvision.org/games/action/mina-the-hollower-134883/",
+    "genre1": "adventure",
+    "genre2": "action",
+    "series": "Mina The Hollower",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3674,
+    "title": "Grand Theft Auto IV for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/vaduur/LibertyRecompAndroid",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3675,
+    "title": "Bannerlator — Run Windows PC Games and Apps on Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/The412Banner/Bannerlator",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-11"
+  },
+    {
+    "id": 3676,
+    "title": "Generals Zero Hour for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://youtu.be/ZrQS-bu1Ttc?si=Yh6uMopWS02YbT4T",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-11"
   }
+
+
+
+
+
 ]
