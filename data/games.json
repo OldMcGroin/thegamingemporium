@@ -47156,7 +47156,8 @@
     "genre2": "",
     "series": "Burnout",
     "video_link": "",
-    "date_added": "2026-10-09"
+    "date_added": "2026-10-09",
+    "ai_usage": "heavy"
   },
   {
     "id": 3642,
@@ -47580,7 +47581,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3679,
     "title": "PokeDaisy",
     "category": "utility",
@@ -47592,7 +47593,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3680,
     "title": "Big Red Racing Recompilation",
     "category": "decompilations-recompilations",
@@ -47604,7 +47605,7 @@
     "video_link": "https://youtu.be/F3lDTNSMZzE?si=Zp5GFgsqCB35jJlN",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3681,
     "title": "Pharaoh and Cleopatra: Queen of the Nile",
     "category": "open-source",
@@ -47616,7 +47617,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3682,
     "title": "War of the Monsters Decompilation",
     "category": "in-the-works",
@@ -47628,7 +47629,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3683,
     "title": "BattleTanx - Global Assault Decompilation",
     "category": "in-the-works",
@@ -47640,7 +47641,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3684,
     "title": "hack - infection, Mutation, Outbreak and Quarantine - Decompilation",
     "category": "in-the-works",
@@ -47652,7 +47653,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3685,
     "title": "Amazing Alex in Browser",
     "category": "browser-based",
@@ -47664,7 +47665,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3686,
     "title": "Master of Defence in Browser",
     "category": "browser-based",
@@ -47676,7 +47677,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3687,
     "title": "Createrria in Browser",
     "category": "browser-based",
@@ -47688,7 +47689,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3688,
     "title": "Castlevania 64 Recompilation",
     "category": "decompilations-recompilations",
@@ -47700,7 +47701,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3689,
     "title": "Castlevania 64 Recompilation 2",
     "category": "decompilations-recompilations",
@@ -47712,7 +47713,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3690,
     "title": "Call of Duty: Modern Warfare 2 for Android",
     "category": "android-ports",
@@ -47724,7 +47725,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3691,
     "title": "You Don't Know Jack in Browser",
     "category": "browser-based",
@@ -47736,7 +47737,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3692,
     "title": "Mortal Kombat Trilogy HD Remake",
     "category": "fan-games",
@@ -47748,7 +47749,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3693,
     "title": "Bloodborne - bbport Fork PC Port",
     "category": "decompilations-recompilations",
@@ -47760,7 +47761,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3694,
     "title": "Bloodborne for Android",
     "category": "android-ports",
@@ -47772,7 +47773,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3696,
     "title": "Boss Rally - Top Gear Rally Recompilation",
     "category": "decompilations-recompilations",
@@ -47784,7 +47785,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3697,
     "title": "Digimon World DS Decompilation",
     "category": "in-the-works",
@@ -47796,7 +47797,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3698,
     "title": "Pokemon Black 2 and White 2 Decompilation",
     "category": "in-the-works",
@@ -47808,7 +47809,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3699,
     "title": "Clive Barkers Undying",
     "category": "abandonware",
@@ -47820,7 +47821,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3700,
     "title": "Athar Play in Browser",
     "category": "browser-based",
@@ -47832,7 +47833,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3701,
     "title": "Burnout Revenge for Android",
     "category": "android-ports",
@@ -47844,7 +47845,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3702,
     "title": "Rayman Mini for Android",
     "category": "android-ports",
@@ -47856,7 +47857,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3703,
     "title": "Ben 10 Power Trip Android",
     "category": "android-ports",
@@ -47868,7 +47869,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3704,
     "title": "Daytona USA in Browser",
     "category": "browser-based",
@@ -47880,7 +47881,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3705,
     "title": "Metal Gear Solid Re:Integral PC Port",
     "category": "decompilations-recompilations",
@@ -47892,7 +47893,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3706,
     "title": "SSX Tricky Recompilation 2",
     "category": "decompilations-recompilations",
@@ -47904,7 +47905,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3707,
     "title": "Crash Team Racing: Nitro-Fueled Recompilation",
     "category": "decompilations-recompilations",
