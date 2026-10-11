@@ -47916,5 +47916,152 @@
     "series": "Crash Bandicoot",
     "video_link": "",
     "date_added": "2026-10-11"
+  },
+      {
+    "id": 3708,
+    "title": "Bully: Anniversary Edition PS Vita Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/delon5/bully_vita",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Bully",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3709,
+    "title": "Bioshock Together - Co-op Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.nexusmods.com/bioshock/mods/178",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Bioshock",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3710,
+    "title": "Forza Horizon 2 PC Launcher",
+    "category": "console-to-pc-port",
+    "platform": "",
+    "link": "https://almost-there-games.itch.io/azimuth",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza",
+    "video_link": "https://youtu.be/ZcpGvmbR8jY?si=VsQELv3w8Fq83MM0",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3711,
+    "title": "Championship Manager 26-27 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://www.champman2627.co.uk/play",
+    "genre1": "strategy",
+    "genre2": "sports",
+    "series": "Championship Manager",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3712,
+    "title": "Marvel's Spider-Man 2 Co-op Mod",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.nexusmods.com/marvelsspiderman2/mods/2856",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3713,
+    "title": "Splinter Cell: Double Agent Recompilation",
+    "category": "decompilation-recompilations",
+    "platform": "Xbox",
+    "link": "https://github.com/TGP482/SCDA-XBERecomp",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Splinter Cell",
+    "video_link": "https://youtu.be/Zl_TX5KSTTs?si=DvMhZ4-PmGZ8FzX_",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3714,
+    "title": "Blue Prince VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/segadreamcat/blueprincevr",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Blue Prince",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3715,
+    "title": "50 Cent: Blood on the Sand Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://skullburglar.stz.sh/",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "50 Cent",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3716,
+    "title": "Final Fantasy Tactics Advance Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Game Boy Advance",
+    "link": "https://github.com/Jorge262007/FFTARecomp",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Final Fantasy",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3717,
+    "title": "Geometry Wars: Retro Evolved 2 PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "Geometry Wars",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3718,
+    "title": "Call of Mini: Dino Hunter Revival in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://comdh.krig.games/",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+      {
+    "id": 3719,
+    "title": "Yoshi's Story Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/wootbeer/dinotale",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-12"
   }
+
+
+
 ]
