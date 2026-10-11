@@ -33115,7 +33115,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-07-31",
-    "image": ""
+    "image": "",
+    "ai_usage": "light"
   },
   {
     "id": 2529,
@@ -47474,7 +47475,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3670,
     "title": "Hard Corps: Uprising Recompilation",
     "category": "decompilations-recompilations",
@@ -47486,7 +47487,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3671,
     "title": "P.T. for Android",
     "category": "android-ports",
@@ -47498,7 +47499,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3672,
     "title": "American McGees Alice for Android",
     "category": "android-ports",
@@ -47510,7 +47511,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3673,
     "title": "Mina The Hollower for Android",
     "category": "android-ports",
@@ -47522,7 +47523,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3674,
     "title": "Grand Theft Auto IV for Android",
     "category": "android-ports",
@@ -47534,7 +47535,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3675,
     "title": "Bannerlator — Run Windows PC Games and Apps on Android",
     "category": "android-ports",
@@ -47546,7 +47547,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-    {
+  {
     "id": 3676,
     "title": "Generals Zero Hour for Android",
     "category": "android-ports",
@@ -47558,9 +47559,4 @@
     "video_link": "",
     "date_added": "2026-10-11"
   }
-
-
-
-
-
 ]
