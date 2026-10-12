@@ -333,6 +333,32 @@
   <script src="{{ $installAppJS.RelPermalink }}" integrity="{{ $installAppJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
 
+<!-- Android installed PWA only: shrink the header when browsing down the page. -->
+<script>
+(function () {
+  var android = /Android/i.test(navigator.userAgent);
+  var installed = window.matchMedia && window.matchMedia('(display-mode: standalone)').matches;
+  if (!android || !installed) return;
+  var root = document.documentElement;
+  root.classList.add('tge-android-pwa');
+  var nav = document.querySelector('[data-nav]');
+  var input = document.getElementById('siteSearchInput');
+  var ticking = false;
+  function update() {
+    ticking = false;
+    var menuOpen = nav && nav.classList.contains('is-open');
+    var searchFocused = input && document.activeElement === input;
+    root.classList.toggle('tge-header-compact', window.scrollY > 90 && !menuOpen && !searchFocused);
+  }
+  window.addEventListener('scroll', function () {
+    if (!ticking) { ticking = true; requestAnimationFrame(update); }
+  }, { passive: true });
+  document.addEventListener('click', function () { requestAnimationFrame(update); });
+  window.addEventListener('resize', update);
+  update();
+})();
+</script>
+
 <!-- Mastodon verification -->
 <div class="mastodon-verification" style="display:none">
   <a rel="me" href="https://mastodon.social/@OldMcGroin">Mastodon</a>

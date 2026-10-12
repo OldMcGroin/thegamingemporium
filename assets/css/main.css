@@ -2354,3 +2354,18 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 .search-all-inline[hidden]{display:none!important;}
 .search-all-inline:hover,.search-all-inline:focus-visible{filter:brightness(1.08);outline-offset:2px;}
 @media(max-width:430px){.topbar__search .search-input{padding-right:93px;}.search-all-inline{font-size:11px;padding:6px;}}
+
+/* Installed Android PWA only: compact browsing header after scrolling. */
+@media (max-width: 860px) {
+  html.tge-android-pwa .topbar { transition: background-color .18s ease; }
+  html.tge-android-pwa.tge-header-compact .topbar__inner {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    gap: 8px;
+  }
+  html.tge-android-pwa.tge-header-compact .topbar__search { display: none !important; }
+  html.tge-android-pwa.tge-header-compact .brand__link { font-size: clamp(15px, 4vw, 18px); white-space: nowrap; }
+  html.tge-android-pwa.tge-header-compact .nav-toggle { height: 36px; width: 40px; }
+  html.tge-android-pwa.tge-header-compact .topbar { background: rgba(15,15,19,.75); }
+  html.tge-android-pwa.tge-header-compact .nav.is-open { margin-top: 6px; }
+}
