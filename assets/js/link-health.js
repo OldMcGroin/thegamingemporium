@@ -1,13 +1,13 @@
 (()=>{
  const root=document.querySelector('[data-link-health]');if(!root)return;
  const output=root.querySelector('[data-link-health-results]'), summary=root.querySelector('[data-link-health-summary]');
- const search=root.querySelector('[data-link-health-search]');let entries=[],reviews={},filter='flagged';
+ const search=root.querySelector('[data-link-health-search]');let entries=[],reviews={},filter='flagged',lastScan='';
  const storageKey='tge-link-health-verified-v1';
  function loadReviews(){try{return JSON.parse(localStorage.getItem(storageKey)||'{}')||{};}catch{return {};}}
  function saveReviews(){try{localStorage.setItem(storageKey,JSON.stringify(reviews));return true;}catch{return false;}}
  function node(tag,text){const el=document.createElement(tag);el.textContent=text;return el;}
- function render(){output.replaceChildren();const q=search.value.toLowerCase();const list=entries.filter(x=>(filter==='all'||(filter==='hidden'?x.hidden:filter==='reviewed'?!!reviews[String(x.id)]:x.status!=='working'&&!reviews[String(x.id)]))&&((x.title||'').toLowerCase().includes(q)||(x.url||'').toLowerCase().includes(q)));
-  summary.textContent=`${entries.length} links checked · ${entries.filter(x=>x.status==='broken').length} repeatedly failed · ${entries.filter(x=>x.status==='suspect').length} need review · ${entries.filter(x=>x.hidden).length} hidden · ${Object.keys(reviews).length} checked & OK`;
+ function render(){output.replaceChildren();const q=search.value.toLowerCase();const list=entries.filter(x=>(filter==='all'||(filter==='hidden'?x.hidden:filter==='reviewed'?!!reviews[String(x.id)]:!x.hidden&&x.status!=='working'&&!reviews[String(x.id)]))&&((x.title||'').toLowerCase().includes(q)||(x.url||'').toLowerCase().includes(q)));
+  summary.textContent=`${entries.length} links checked · ${entries.filter(x=>x.status==='broken').length} repeatedly failed · ${entries.filter(x=>x.status==='suspect').length} need review · ${entries.filter(x=>x.hidden).length} hidden · ${Object.keys(reviews).length} checked & OK${lastScan?' · Last scan: '+lastScan:''}`;
   if(!list.length){output.append(node('p','No matching games.'));return;}
   for(const item of list.slice(0,1000)){
    const card=node('div','');card.style.cssText='border:1px solid #8886;border-radius:8px;padding:12px;margin:10px 0';
@@ -31,6 +31,6 @@
  fetch('/link-health-report.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No scan report yet. Run the GitHub Actions workflow first.');return r.json();}).then(d=>{
   entries=d.results||[];reviews=loadReviews();
   for(const item of entries){const review=reviews[String(item.id)];if(review&&(review.url!==item.url||review.detail!==item.detail))delete reviews[String(item.id)];}
-  saveReviews();render();summary.textContent+=` · Last scan: ${new Date(d.checked_at).toLocaleString()}`;
+  saveReviews();lastScan=d.checked_at?new Date(d.checked_at).toLocaleString():'';render();
  }).catch(e=>summary.textContent=e.message);
 })();
