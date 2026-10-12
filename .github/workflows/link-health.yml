@@ -1,0 +1,35 @@
+name: Check external game links
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: link-health
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check links and notify
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
+          LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
+        run: python scripts/check_links.py
+      - name: Save report for website
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add static/link-health-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update external link health report [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

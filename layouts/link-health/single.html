@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="suggestions-admin" data-link-health>
+ <h1>Link Health Monitor</h1>
+ <p>Daily checks of external game links. A failed automated check does not always mean a link is broken. Games are never hidden automatically.</p>
+ <p><a href="/admin/">Suggestion Inbox</a> · <a href="/admin/ai-reports/">AI Usage Reports</a></p>
+ <p data-link-health-summary aria-live="polite">Loading latest report…</p>
+ <div class="suggestions-tabs"><button type="button" data-filter="flagged">Flagged</button><button type="button" data-filter="hidden">Hidden games</button><button type="button" data-filter="all">All</button></div>
+ <p><input type="search" data-link-health-search placeholder="Search game titles or URLs" aria-label="Search games" style="max-width:100%;width:25rem;padding:.7rem"></p>
+ <div data-link-health-results></div>
+</section>
+{{ $js := resources.Get "js/link-health.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ end }}

@@ -1,0 +1,82 @@
+#!/usr/bin/env python3
+"""Scheduled external link monitor. Writes a static report; never edits games.json."""
+import concurrent.futures, datetime, json, os, pathlib, time, urllib.error, urllib.request
+from urllib.parse import urlparse
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+OUT = ROOT / 'static' / 'link-health-report.json'
+TIMEOUT = 14
+
+def check(item):
+    url = str(item.get('link') or '').strip()
+    result = {'id': item.get('id'), 'title': item.get('title'), 'url': url, 'hidden': item.get('hidden') is True}
+    if urlparse(url).scheme not in ('https', 'http'):
+        return dict(result, status='invalid', detail='Invalid or missing HTTP URL')
+    for attempt in range(2):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (compatible; TheGamingEmporiumLinkMonitor/1.0)', 'Accept':'text/html,*/*'})
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                code = r.status
+                final = r.url
+            status = 'working' if code < 400 else 'suspect'
+            return dict(result, status=status, detail=f'HTTP {code}', final_url=final)
+        except urllib.error.HTTPError as e:
+            code = e.code
+            if code in (401, 403, 429, 500, 502, 503, 504):
+                status = 'suspect'
+            elif code in (404, 410):
+                status = 'broken' # Still requires human review before hiding
+            else:
+                status = 'suspect'
+            if attempt == 0 and status != 'broken':
+                time.sleep(2)
+                continue
+            return dict(result, status=status, detail=f'HTTP {code}')
+        except Exception as e:
+            if attempt == 0:
+                time.sleep(2)
+                continue
+            return dict(result, status='suspect', detail=type(e).__name__)
+
+def email_report(new_items, date):
+    key, recipient, sender = (os.environ.get(k, '') for k in ('RESEND_API_KEY', 'LINK_HEALTH_EMAIL_TO', 'LINK_HEALTH_EMAIL_FROM'))
+    if not (key and recipient and sender and new_items):
+        return
+    lines = [f'{x["title"]} — {x["detail"]}\n{x["url"]}' for x in new_items[:60]]
+    body = f'Link Health Monitor — {date}\n\n{len(new_items)} newly flagged link(s):\n\n' + '\n\n'.join(lines) + '\n\nReview: https://thegamingemporium.com/admin/link-health/'
+    data = json.dumps({'from': sender, 'to': [recipient], 'subject': f'The Gaming Emporium: {len(new_items)} newly flagged links', 'text': body}).encode()
+    req = urllib.request.Request('https://api.resend.com/emails', data=data, headers={'Authorization': 'Bearer '+key, 'Content-Type':'application/json'}, method='POST')
+    with urllib.request.urlopen(req, timeout=20) as r:
+        print('Email status:', r.status)
+
+def main():
+    games = json.loads((ROOT / 'data/games.json').read_text())
+    previous = json.loads(OUT.read_text()) if OUT.exists() else {}
+    previous_by_id = {str(x['id']): x for x in previous.get('results', [])}
+    # Avoid repeated checks for duplicate URLs while preserving every game entry.
+    by_url = {}
+    for game in games:
+        by_url.setdefault(str(game.get('link') or ''), []).append(game)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+        checked = list(pool.map(check, [group[0] for group in by_url.values()]))
+    results = []
+    for result, group in zip(checked, by_url.values()):
+        for game in group:
+            old = previous_by_id.get(str(game.get('id')), {})
+            item = dict(result, id=game.get('id'), title=game.get('title'), hidden=game.get('hidden') is True)
+            item['consecutive_failures'] = (int(old.get('consecutive_failures') or 0) + 1) if item['status'] == 'broken' else 0
+            # Only confirm repeated 404/410 failures on different scheduled runs.
+            if item['status'] == 'broken' and item['consecutive_failures'] < 2:
+                item['status'] = 'suspect'
+                item['detail'] += ' (awaiting next daily check)'
+            results.append(item)
+    date = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') in ('broken', 'suspect')}
+    new_items = [x for x in results if x['status'] in ('broken', 'suspect') and str(x['id']) not in old_flagged]
+    report = {'checked_at': date, 'total':len(results), 'results':results}
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
+    print(f'Checked {len(results)} entries; newly flagged {len(new_items)}')
+    try: email_report(new_items, date)
+    except Exception as e: print('Email delivery failed:', e)
+
+if __name__ == '__main__': main()
