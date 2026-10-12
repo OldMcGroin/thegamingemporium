@@ -8,6 +8,13 @@
     const input = document.getElementById('siteSearchInput');
     const dropdown = document.getElementById('siteSearchDropdown');
     if(!input || !dropdown) return;
+    const allLink = document.getElementById('siteSearchAllLink');
+    function updateAllLink(q){
+      if(!allLink) return;
+      const term = (q || '').trim();
+      allLink.hidden = !term;
+      if(term){ allLink.href = resultsUrl(term); allLink.title = 'View all results for ' + term; }
+    }
 
     let index = (window.__GAME_INDEX__ || []);
     if(!Array.isArray(index)) index = [];
@@ -17,7 +24,7 @@
       dropdown.style.display = 'none';
     }
 
-    function render(results){
+    function render(results, query){
       dropdown.innerHTML = '';
       if(!results.length){
         const div = document.createElement('div');
@@ -38,6 +45,25 @@
         dropdown.appendChild(a);
       }
       dropdown.style.display = 'block';
+    }
+
+    function resultsUrl(query){
+      return '/search/?q=' + encodeURIComponent(query.trim());
+    }
+
+    function addAllResults(query){
+      if(!query || !query.trim()) return;
+      const a = document.createElement('a');
+      a.className = 'search-item search-view-all';
+      a.href = resultsUrl(query);
+      const label = document.createElement('span');
+      label.textContent = '🔎 View all results for "' + query.trim() + '"';
+      a.appendChild(label);
+      const key = document.createElement('span');
+      key.className = 'search-enter-hint';
+      key.textContent = '↵ Enter';
+      a.appendChild(key);
+      dropdown.appendChild(a);
     }
 
     // Normalize for friendlier matching:
@@ -86,6 +112,7 @@
 
     function search(q){
       q = (q || '').trim();
+      updateAllLink(q);
       if(!q){ clear(); return; }
 
       const results = [];
@@ -103,9 +130,10 @@
       });
 
       // Strip internal score before rendering
-      render(results.slice(0, 10).map(r => ({ title: r.title, url: r.url })));
+      render(results.slice(0, 10).map(r => ({ title: r.title, url: r.url })), q);
     }
 
+    updateAllLink(input.value);
     input.addEventListener('input', function(e){
       search(e.target.value);
     });
@@ -116,6 +144,10 @@
 
     input.addEventListener('keydown', function(e){
       if(e.key === 'Escape') clear();
+      if(e.key === 'Enter' && input.value.trim()){
+        e.preventDefault();
+        window.location.href = resultsUrl(input.value);
+      }
     });
   });
 })();

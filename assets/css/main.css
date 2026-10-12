@@ -2341,3 +2341,16 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
   margin:8px 10px 10px;
   flex-shrink:0;
 }
+
+/* Full-search action at the bottom of existing suggestions */
+.search-view-all { display:flex; align-items:center; justify-content:space-between; gap:12px; border-top:1px solid var(--border); font-weight:600; }
+.search-enter-hint { flex-shrink:0; font-size:12px; color:var(--muted); border:1px solid var(--border); border-radius:6px; padding:3px 6px; }
+.search-results .game-card[hidden] { display:none !important; }
+@media(max-width:600px){ .search-enter-hint{display:none;} }
+
+/* Full-search action next to the search text, always visible when typing. */
+.topbar__search .search-input{padding-right:112px;}
+.search-all-inline{position:absolute;right:9px;top:50%;transform:translateY(-50%);z-index:2;display:inline-flex;align-items:center;gap:5px;padding:6px 8px;border-radius:9px;background:var(--accent, #ffcc00);color:#151515;font-size:12px;font-weight:700;text-decoration:none;white-space:nowrap;}
+.search-all-inline[hidden]{display:none!important;}
+.search-all-inline:hover,.search-all-inline:focus-visible{filter:brightness(1.08);outline-offset:2px;}
+@media(max-width:430px){.topbar__search .search-input{padding-right:93px;}.search-all-inline{font-size:11px;padding:6px;}}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<h1 class="page-title" id="search-results-title">Search Results</h1>
+<div class="game-controls search-results" id="full-search-results">
+  <div class="controls">
+    <div class="control">
+      <label for="search-category-filter">Category</label>
+      <select id="search-category-filter"><option value="">All categories</option></select>
+    </div>
+    <div class="control">
+      <label for="search-sort">Sort</label>
+      <select id="search-sort"><option value="az">Title (A to Z)</option><option value="za">Title (Z to A)</option></select>
+    </div>
+  </div>
+  <div class="filter-summary" id="search-result-count" role="status" aria-live="polite"></div>
+  <div class="game-grid" id="search-results-grid">
+    {{ range where site.Data.games "hidden" "ne" true }}
+      {{ partial "game-card.html" (dict "game" . "ctx" $) }}
+    {{ end }}
+  </div>
+  <p id="search-no-results" hidden>No matching projects found. Try another search term.</p>
+  <p><a href="{{ site.Home.RelPermalink }}">← Return to homepage</a></p>
+</div>
+<script src="{{ "/js/search-results.js" | relURL }}" defer></script>
+{{ end }}
