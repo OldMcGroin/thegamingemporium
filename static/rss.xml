@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:09:53 +0000</lastBuildDate>
     <item>
       <title>Bully: Anniversary Edition PS Vita Port</title>
       <link>https://thegamingemporium.com/game/bully-anniversary-edition-ps-vita-port/</link>
@@ -159,6 +159,61 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/monster-hunter-tri-ps-vita-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-tri-ps-vita-port.webp" alt="Monster Hunter Tri PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Monster Hunter · Genre: rpg, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/monster-hunter-tri-ps-vita-port.webp" alt="Monster Hunter Tri PS Vita Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Monster Hunter · Genre: rpg, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Scooby-Doo! Mystery Mayhem Decompilation</title>
+      <link>https://thegamingemporium.com/game/scooby-doo-mystery-mayhem-decompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/scooby-doo-mystery-mayhem-decompilation/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/scooby-doo-mystery-mayhem-decompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/scooby-doo-mystery-mayhem-decompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/scooby-doo-mystery-mayhem-decompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/scooby-doo-mystery-mayhem-decompilation.webp" alt="Scooby-Doo! Mystery Mayhem Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Scooby-Doo! · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/scooby-doo-mystery-mayhem-decompilation.webp" alt="Scooby-Doo! Mystery Mayhem Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Scooby-Doo! · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>StarCraft 64 Decompilation</title>
+      <link>https://thegamingemporium.com/game/starcraft-64-decompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/starcraft-64-decompilation/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/starcraft-64-decompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/starcraft-64-decompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/starcraft-64-decompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starcraft-64-decompilation.webp" alt="StarCraft 64 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: StarCraft · Genre: strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/starcraft-64-decompilation.webp" alt="StarCraft 64 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: StarCraft · Genre: strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>BattleTanx: Global Assault PC Port 2</title>
+      <link>https://thegamingemporium.com/game/battletanx-global-assault-pc-port-2/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/battletanx-global-assault-pc-port-2/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/battletanx-global-assault-pc-port-2.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/battletanx-global-assault-pc-port-2.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/battletanx-global-assault-pc-port-2.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battletanx-global-assault-pc-port-2.webp" alt="BattleTanx: Global Assault PC Port 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: BattleTanx · Genre: vehicular combat]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/battletanx-global-assault-pc-port-2.webp" alt="BattleTanx: Global Assault PC Port 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: BattleTanx · Genre: vehicular combat]]></content:encoded>
+    </item>
+    <item>
+      <title>openSEEK</title>
+      <link>https://thegamingemporium.com/game/openseek/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/openseek/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openseek.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openseek.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openseek.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openseek.webp" alt="openSEEK" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openseek.webp" alt="openSEEK" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Open Source · Genre: action]]></content:encoded>
+    </item>
+    <item>
+      <title>openSEEK in Browser</title>
+      <link>https://thegamingemporium.com/game/openseek-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/openseek-in-browser/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/openseek-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/openseek-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/openseek-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openseek-in-browser.webp" alt="openSEEK in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/openseek-in-browser.webp" alt="openSEEK in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: action]]></content:encoded>
     </item>
     <item>
       <title>Need For Speed Hot Pursuit Remastered VR</title>
@@ -500,61 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/ben-10-power-trip-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ben-10-power-trip-android.webp" alt="Ben 10 Power Trip Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ben 10 · Genre: action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ben-10-power-trip-android.webp" alt="Ben 10 Power Trip Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Ben 10 · Genre: action]]></content:encoded>
-    </item>
-    <item>
-      <title>Daytona USA in Browser</title>
-      <link>https://thegamingemporium.com/game/daytona-usa-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/daytona-usa-in-browser/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/daytona-usa-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/daytona-usa-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/daytona-usa-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/daytona-usa-in-browser.webp" alt="Daytona USA in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Daytona · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/daytona-usa-in-browser.webp" alt="Daytona USA in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Daytona · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Metal Gear Solid Re:Integral PC Port</title>
-      <link>https://thegamingemporium.com/game/metal-gear-solid-re-integral-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/metal-gear-solid-re-integral-pc-port/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/metal-gear-solid-re-integral-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/metal-gear-solid-re-integral-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/metal-gear-solid-re-integral-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metal-gear-solid-re-integral-pc-port.webp" alt="Metal Gear Solid Re:Integral PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metal Gear · Genre: stealth, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/metal-gear-solid-re-integral-pc-port.webp" alt="Metal Gear Solid Re:Integral PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Metal Gear · Genre: stealth, action]]></content:encoded>
-    </item>
-    <item>
-      <title>SSX Tricky Recompilation 2</title>
-      <link>https://thegamingemporium.com/game/ssx-tricky-recompilation-2/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ssx-tricky-recompilation-2/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ssx-tricky-recompilation-2.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ssx-tricky-recompilation-2.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ssx-tricky-recompilation-2.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ssx-tricky-recompilation-2.webp" alt="SSX Tricky Recompilation 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: SSX Tricky · Genre: racing, sports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ssx-tricky-recompilation-2.webp" alt="SSX Tricky Recompilation 2" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: SSX Tricky · Genre: racing, sports]]></content:encoded>
-    </item>
-    <item>
-      <title>Crash Team Racing: Nitro-Fueled Recompilation</title>
-      <link>https://thegamingemporium.com/game/crash-team-racing-nitro-fueled-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-team-racing-nitro-fueled-recompilation/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-team-racing-nitro-fueled-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/crash-team-racing-nitro-fueled-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/crash-team-racing-nitro-fueled-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-nitro-fueled-recompilation.webp" alt="Crash Team Racing: Nitro-Fueled Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-team-racing-nitro-fueled-recompilation.webp" alt="Crash Team Racing: Nitro-Fueled Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Crash Bandicoot · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Castlevania Chronicles Recompilation</title>
-      <link>https://thegamingemporium.com/game/castlevania-chronicles-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/castlevania-chronicles-recompilation/</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/castlevania-chronicles-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/castlevania-chronicles-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/castlevania-chronicles-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-chronicles-recompilation.webp" alt="Castlevania Chronicles Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duke Nukem · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/castlevania-chronicles-recompilation.webp" alt="Castlevania Chronicles Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Duke Nukem · Genre: platformer, action]]></content:encoded>
     </item>
   </channel>
 </rss>

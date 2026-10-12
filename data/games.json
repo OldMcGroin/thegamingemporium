@@ -48095,5 +48095,69 @@
     "series": "Monster Hunter",
     "video_link": "",
     "date_added": "2026-10-12"
+  },
+        {
+    "id": 3722,
+    "title": "Scooby-Doo! Mystery Mayhem Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Scooby-Doo!",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+        {
+    "id": 3723,
+    "title": "StarCraft 64 Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/n0madic/StarCraft64-recomp",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "StarCraft",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+        {
+    "id": 3724,
+    "title": "BattleTanx: Global Assault PC Port 2",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "BattleTanx",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+        {
+    "id": 3725,
+    "title": "openSEEK",
+    "category": "open-source",
+    "platform": "",
+    "link": "https://rcwnd.itch.io/openseek",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "https://youtu.be/QzNFkE98fzE?si=vvY6bXiyALKZ-Z46",
+    "date_added": "2026-10-12"
+  },
+        {
+    "id": 3725,
+    "title": "openSEEK in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://genserek.net/play/seek/?source=itch",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-12"
   }
+
+
+
+
 ]
