@@ -10,7 +10,14 @@
 
 
 
-{{ partial "share.html" . }}
+{{ if eq $slug "decompilations-recompilations" }}
+  <div class="category-share-ai-notice">
+    {{ partial "share.html" . }}
+    <p class="category-share-ai-notice__text">If you would like to report AI Usage, please use the <strong>Report AI Usage</strong> button found on each game card</p>
+  </div>
+{{ else }}
+  {{ partial "share.html" . }}
+{{ end }}
 {{/*
   IMPORTANT:
   `$visibleGames` (from data/games.json) is a slice of maps.

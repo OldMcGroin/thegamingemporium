@@ -4,7 +4,7 @@ url: "/game/splinter-cell-double-agent-recompilation/"
 type: game
 params:
   external_link: "https://github.com/TGP482/SCDA-XBERecomp"
-  category: "decompilation-recompilations"
+  category: "decompilations-recompilations"
   genre1: "stealth"
   genre2: "action"
   series: "Splinter Cell"
