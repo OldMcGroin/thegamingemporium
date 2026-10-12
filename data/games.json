@@ -48232,5 +48232,53 @@
     "series": "Sonic the Hedgehog",
     "video_link": "",
     "date_added": "2026-10-12"
+  },
+  {
+    "id": 3732,
+    "title": "Skate 2 PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/christianortel/skate2-recompile-pc",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Skate",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+  {
+    "id": 3733,
+    "title": "NBA Street V3 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/recomp-code/street-recomp-v3",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "NBA Street",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+  {
+    "id": 3734,
+    "title": "Def Jam Vendetta Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/jcsix694/def-jam-vendetta-recomp",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Def Jam",
+    "video_link": "",
+    "date_added": "2026-10-12"
+  },
+  {
+    "id": 3735,
+    "title": "Wild 9 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/plinkr/Wild9Recomp",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Wild 9",
+    "video_link": "",
+    "date_added": "2026-10-12"
   }
 ]
