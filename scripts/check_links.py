@@ -45,8 +45,13 @@ def email_report(new_items, date):
     body = f'Link Health Monitor — {date}\n\n{len(new_items)} newly flagged link(s):\n\n' + '\n\n'.join(lines) + '\n\nReview: https://thegamingemporium.com/admin/link-health/'
     data = json.dumps({'from': sender, 'to': [recipient], 'subject': f'The Gaming Emporium: {len(new_items)} newly flagged links', 'text': body}).encode()
     req = urllib.request.Request('https://api.resend.com/emails', data=data, headers={'Authorization': 'Bearer '+key, 'Content-Type':'application/json'}, method='POST')
-    with urllib.request.urlopen(req, timeout=20) as r:
-        print('Email status:', r.status)
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            print('Email status:', r.status)
+    except urllib.error.HTTPError as e:
+        print('Resend HTTP status:', e.code)
+        print('Resend error:', e.read().decode('utf-8', errors='replace')[:2000])
+        raise
 
 def main():
     games = json.loads((ROOT / 'data/games.json').read_text())
