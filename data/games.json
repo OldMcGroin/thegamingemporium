@@ -39955,7 +39955,8 @@
     "genre2": "",
     "series": "",
     "video_link": "",
-    "date_added": "2026-09-15"
+    "date_added": "2026-09-15",
+    "ai_usage": "light"
   },
   {
     "id": 3047,
@@ -48084,7 +48085,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-      {
+  {
     "id": 3721,
     "title": "Monster Hunter Tri PS Vita Port",
     "category": "console-ports",
@@ -48096,7 +48097,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3722,
     "title": "Scooby-Doo! Mystery Mayhem Decompilation",
     "category": "in-the-works",
@@ -48108,7 +48109,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3723,
     "title": "StarCraft 64 Decompilation",
     "category": "in-the-works",
@@ -48120,7 +48121,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3724,
     "title": "BattleTanx: Global Assault PC Port 2",
     "category": "decompilations-recompilations",
@@ -48132,7 +48133,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3725,
     "title": "openSEEK",
     "category": "open-source",
@@ -48144,7 +48145,7 @@
     "video_link": "https://youtu.be/QzNFkE98fzE?si=vvY6bXiyALKZ-Z46",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3725,
     "title": "openSEEK in Browser",
     "category": "browser-based",
@@ -48156,7 +48157,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-        {
+  {
     "id": 3726,
     "title": "Shining Soul 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -48228,8 +48229,4 @@
     "video_link": "",
     "date_added": "2026-10-12"
   }
-
-
-
-
 ]
