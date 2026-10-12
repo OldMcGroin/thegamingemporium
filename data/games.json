@@ -43911,7 +43911,8 @@
     "genre2": "creature-collector",
     "series": "Digimon",
     "video_link": "",
-    "date_added": "2026-09-30"
+    "date_added": "2026-09-30",
+    "hidden": true
   },
   {
     "id": 3365,
