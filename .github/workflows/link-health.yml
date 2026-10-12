@@ -29,9 +29,9 @@ jobs:
           LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
         run: |
         if [ "${{ inputs.test_email }}" = "true" ]; then
-          python -c 'import datetime, scripts.check_links as c; c.email_report([{"title":"Email delivery test","detail":"This is a test, not a broken game link","url":"https://www.thegamingemporium.com/"}], datetime.datetime.now(datetime.timezone.utc).isoformat())'
+        python -c 'import datetime, scripts.check_links as c; c.email_report([{"title":"Email delivery test","detail":"This is a test, not a broken game link","url":"https://www.thegamingemporium.com/"}], datetime.datetime.now(datetime.timezone.utc).isoformat())'
         else
-          python scripts/check_links.py
+        python scripts/check_links.py
         fi
       - name: Save report for website
         run: |
