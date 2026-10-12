@@ -47923,7 +47923,7 @@
     "video_link": "",
     "date_added": "2026-10-11"
   },
-  {
+      {
     "id": 3708,
     "title": "Bully: Anniversary Edition PS Vita Port",
     "category": "console-ports",
@@ -47935,7 +47935,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3709,
     "title": "Bioshock Together - Co-op Mod",
     "category": "mods",
@@ -47947,7 +47947,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3710,
     "title": "Forza Horizon 2 PC Launcher",
     "category": "console-to-pc-port",
@@ -47959,7 +47959,7 @@
     "video_link": "https://youtu.be/ZcpGvmbR8jY?si=VsQELv3w8Fq83MM0",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3711,
     "title": "Championship Manager 26-27 in Browser",
     "category": "browser-based",
@@ -47971,7 +47971,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3712,
     "title": "Marvel's Spider-Man 2 Co-op Mod",
     "category": "mods",
@@ -47983,7 +47983,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3713,
     "title": "Splinter Cell: Double Agent Recompilation",
     "category": "decompilations-recompilations",
@@ -47995,7 +47995,7 @@
     "video_link": "https://youtu.be/Zl_TX5KSTTs?si=DvMhZ4-PmGZ8FzX_",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3714,
     "title": "Blue Prince VR",
     "category": "vr-ports",
@@ -48007,7 +48007,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3715,
     "title": "50 Cent: Blood on the Sand Recompilation",
     "category": "decompilations-recompilations",
@@ -48017,10 +48017,9 @@
     "genre2": "",
     "series": "50 Cent",
     "video_link": "",
-    "date_added": "2026-10-12",
-    "ai_usage": "heavy"
+    "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3716,
     "title": "Final Fantasy Tactics Advance Recompilation",
     "category": "decompilations-recompilations",
@@ -48032,7 +48031,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3717,
     "title": "Geometry Wars: Retro Evolved 2 PC Port",
     "category": "decompilations-recompilations",
@@ -48044,7 +48043,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3718,
     "title": "Call of Mini: Dino Hunter Revival in Browser",
     "category": "browser-based",
@@ -48056,7 +48055,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-  {
+      {
     "id": 3719,
     "title": "Yoshi's Story Recompilation",
     "category": "decompilations-recompilations",
@@ -48067,5 +48066,18 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-12"
+  },
+      {
+    "id": 3720,
+    "title": "God of War 3 Remastered PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 4",
+    "link": "https://github.com/FelipePrado0/gow3_pc",
+    "genre1": "action",
+    "genre2": "advrnture",
+    "series": "God of War",
+    "video_link": "",
+    "date_added": "2026-10-12"
   }
+
 ]
