@@ -6,7 +6,7 @@ params:
   external_link: "https://github.com/FelipePrado0/gow3_pc"
   category: "decompilations-recompilations"
   genre1: "action"
-  genre2: "advrnture"
+  genre2: "adventure"
   series: "God of War"
   video_link: ""
   date_added: "2026-10-12"

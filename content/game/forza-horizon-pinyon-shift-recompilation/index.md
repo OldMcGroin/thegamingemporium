@@ -1,6 +1,6 @@
 ---
-title: "Forza Horizon Recompilation 2"
-url: "/game/forza-horizon-recompilation-2/"
+title: "Forza Horizon - Pinyon Shift - Recompilation"
+url: "/game/forza-horizon-pinyon-shift-recompilation/"
 type: game
 params:
   external_link: "https://github.com/arcanite24/pinyon-shift"
