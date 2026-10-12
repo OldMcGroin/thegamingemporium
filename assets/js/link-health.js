@@ -17,7 +17,7 @@
    action('Open / Check Link',()=>window.open(item.url,'_blank','noopener,noreferrer'));
    action('Change Link',async()=>{const url=prompt('Enter the replacement HTTP(S) URL:',item.url);if(url===null||url===item.url)return;await change(item,'link',url);});
    action(item.hidden?'Unhide Game':'Hide Game',async()=>{if(!confirm(`${item.hidden?'Restore':'Hide'} ${item.title}? This changes games.json and triggers a deployment.`))return;await change(item,'hidden',!item.hidden);});
-   action(reviews[String(item.id)]?'Reopen Review':'✓ Checked & OK',()=>{
+   if(!item.hidden)action(reviews[String(item.id)]?'Reopen Review':'✓ Checked & OK',()=>{
     if(reviews[String(item.id)])delete reviews[String(item.id)];
     else reviews[String(item.id)]={url:item.url,detail:item.detail,checked_at:new Date().toISOString()};
     if(!saveReviews()){alert('Your browser could not save this review. Check browser storage settings.');return;}
