@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: 'Send a test email instead of scanning links'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -22,7 +27,12 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
           LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
-        run: python scripts/check_links.py
+        run: |
+        if [ "${{ inputs.test_email }}" = "true" ]; then
+          python -c 'import datetime, scripts.check_links as c; c.email_report([{"title":"Email delivery test","detail":"This is a test, not a broken game link","url":"https://www.thegamingemporium.com/"}], datetime.datetime.now(datetime.timezone.utc).isoformat())'
+        else
+          python scripts/check_links.py
+        fi
       - name: Save report for website
         run: |
           git config user.name 'github-actions[bot]'
