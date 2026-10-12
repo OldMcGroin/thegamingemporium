@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Mon, 12 Oct 2026 13:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:34:10 +0000</lastBuildDate>
     <item>
       <title>Bully: Anniversary Edition PS Vita Port</title>
       <link>https://thegamingemporium.com/game/bully-anniversary-edition-ps-vita-port/</link>
@@ -225,6 +225,61 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/shining-soul-2-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shining-soul-2-recompilation.webp" alt="Shining Soul 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shining Soul · Genre: action, rpg]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/shining-soul-2-recompilation.webp" alt="Shining Soul 2 Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Shining Soul · Genre: action, rpg]]></content:encoded>
+    </item>
+    <item>
+      <title>Solomon's Key 2 Reimplementation</title>
+      <link>https://thegamingemporium.com/game/solomon-s-key-2-reimplementation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/solomon-s-key-2-reimplementation/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/solomon-s-key-2-reimplementation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/solomon-s-key-2-reimplementation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/solomon-s-key-2-reimplementation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/solomon-s-key-2-reimplementation.webp" alt="Solomon's Key 2 Reimplementation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Solomon's Key · Genre: puzzle]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/solomon-s-key-2-reimplementation.webp" alt="Solomon's Key 2 Reimplementation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Solomon's Key · Genre: puzzle]]></content:encoded>
+    </item>
+    <item>
+      <title>Final Fantasy Tactics Advance for Android</title>
+      <link>https://thegamingemporium.com/game/final-fantasy-tactics-advance-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/final-fantasy-tactics-advance-for-android/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/final-fantasy-tactics-advance-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/final-fantasy-tactics-advance-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/final-fantasy-tactics-advance-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fantasy-tactics-advance-for-android.webp" alt="Final Fantasy Tactics Advance for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Final Fantasy · Genre: rpg, strategy]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/final-fantasy-tactics-advance-for-android.webp" alt="Final Fantasy Tactics Advance for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Final Fantasy · Genre: rpg, strategy]]></content:encoded>
+    </item>
+    <item>
+      <title>Asuras Wrath Recompilation for Android</title>
+      <link>https://thegamingemporium.com/game/asuras-wrath-recompilation-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/asuras-wrath-recompilation-for-android/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/asuras-wrath-recompilation-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/asuras-wrath-recompilation-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/asuras-wrath-recompilation-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/asuras-wrath-recompilation-for-android.webp" alt="Asuras Wrath Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Asuras Wrath · Genre: beat em up, action]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/asuras-wrath-recompilation-for-android.webp" alt="Asuras Wrath Recompilation for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Asuras Wrath · Genre: beat em up, action]]></content:encoded>
+    </item>
+    <item>
+      <title>Tails Adventure for Android</title>
+      <link>https://thegamingemporium.com/game/tails-adventure-for-android/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tails-adventure-for-android/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tails-adventure-for-android.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tails-adventure-for-android.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tails-adventure-for-android.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tails-adventure-for-android.webp" alt="Tails Adventure for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer, metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tails-adventure-for-android.webp" alt="Tails Adventure for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Sonic the Hedgehog · Genre: platformer, metroidvania]]></content:encoded>
+    </item>
+    <item>
+      <title>Tails Adventure PC Port</title>
+      <link>https://thegamingemporium.com/game/tails-adventure-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/tails-adventure-pc-port/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/tails-adventure-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/tails-adventure-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/tails-adventure-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tails-adventure-pc-port.webp" alt="Tails Adventure PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Sonic the Hedgehog · Genre: platformer, metroidvania]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/tails-adventure-pc-port.webp" alt="Tails Adventure PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console To Pc Port · Series: Sonic the Hedgehog · Genre: platformer, metroidvania]]></content:encoded>
     </item>
     <item>
       <title>Need For Speed Hot Pursuit Remastered VR</title>
@@ -500,61 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/boss-rally-top-gear-rally-recompilation.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/boss-rally-top-gear-rally-recompilation.webp" alt="Boss Rally - Top Gear Rally Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Boss Rally · Genre: racing]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/boss-rally-top-gear-rally-recompilation.webp" alt="Boss Rally - Top Gear Rally Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Boss Rally · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Digimon World DS Decompilation</title>
-      <link>https://thegamingemporium.com/game/digimon-world-ds-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/digimon-world-ds-decompilation/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/digimon-world-ds-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/digimon-world-ds-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/digimon-world-ds-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/digimon-world-ds-decompilation.webp" alt="Digimon World DS Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Digimon · Genre: rpg, creature collector]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/digimon-world-ds-decompilation.webp" alt="Digimon World DS Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Digimon · Genre: rpg, creature collector]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokemon Black 2 and White 2 Decompilation</title>
-      <link>https://thegamingemporium.com/game/pokemon-black-2-and-white-2-decompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/pokemon-black-2-and-white-2-decompilation/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/pokemon-black-2-and-white-2-decompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/pokemon-black-2-and-white-2-decompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/pokemon-black-2-and-white-2-decompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-black-2-and-white-2-decompilation.webp" alt="Pokemon Black 2 and White 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Pokemon · Genre: rpg, creature collector]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokemon-black-2-and-white-2-decompilation.webp" alt="Pokemon Black 2 and White 2 Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Pokemon · Genre: rpg, creature collector]]></content:encoded>
-    </item>
-    <item>
-      <title>Athar Play in Browser</title>
-      <link>https://thegamingemporium.com/game/athar-play-in-browser/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/athar-play-in-browser/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/athar-play-in-browser.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/athar-play-in-browser.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/athar-play-in-browser.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/athar-play-in-browser.webp" alt="Athar Play in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/athar-play-in-browser.webp" alt="Athar Play in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Genre: puzzle]]></content:encoded>
-    </item>
-    <item>
-      <title>Burnout Revenge for Android</title>
-      <link>https://thegamingemporium.com/game/burnout-revenge-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/burnout-revenge-for-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/burnout-revenge-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/burnout-revenge-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/burnout-revenge-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/burnout-revenge-for-android.webp" alt="Burnout Revenge for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Burnout · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/burnout-revenge-for-android.webp" alt="Burnout Revenge for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Burnout · Genre: racing]]></content:encoded>
-    </item>
-    <item>
-      <title>Rayman Mini for Android</title>
-      <link>https://thegamingemporium.com/game/rayman-mini-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/rayman-mini-for-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rayman-mini-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/rayman-mini-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/rayman-mini-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-mini-for-android.webp" alt="Rayman Mini for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rayman · Genre: platformer]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rayman-mini-for-android.webp" alt="Rayman Mini for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Rayman · Genre: platformer]]></content:encoded>
     </item>
   </channel>
 </rss>
