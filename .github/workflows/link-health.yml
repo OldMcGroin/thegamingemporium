@@ -3,11 +3,6 @@ on:
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
-    inputs:
-      test_email:
-        description: 'Send a test email instead of scanning links'
-        type: boolean
-        default: false
 permissions:
   contents: write
 concurrency:
@@ -23,39 +18,18 @@ jobs:
         with:
           python-version: '3.12'
       - name: Check links and notify
-        if: ${{ !inputs.test_email }}
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
           LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
         run: python scripts/check_links.py
-
-      - name: Send test email
-        if: ${{ inputs.test_email }}
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
-          LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
-        run: |
-          python - <<'EMAILTEST'
-          import datetime
-          from scripts.check_links import email_report
-          email_report(
-              [{"title": "Email delivery test",
-                "detail": "This is a test, not a broken game link",
-                "url": "https://www.thegamingemporium.com/"}],
-              datetime.datetime.now(datetime.timezone.utc).isoformat()
-          )
-          EMAILTEST
-
       - name: Save report for website
-        if: ${{ !inputs.test_email }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add static/link-health-report.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Update external link health report'
+            git commit -m 'Update external link health report [skip ci]'
             git pull --rebase origin main
             git push origin HEAD:main
           fi

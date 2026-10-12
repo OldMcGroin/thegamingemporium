@@ -41,6 +41,23 @@ export async function onRequestPost({request,env}) {
  if(!env.GITHUB_TOKEN)return respond({message:'GITHUB_TOKEN not configured.'},503);
  let body;try{body=await request.json();}catch{return respond({message:'Invalid JSON.'},400);}
  const {id,expected_link,field,value}=body||{};
+ if(field==='review'){
+  if(typeof expected_link!=='string'||!['ok','clear'].includes(value))return respond({message:'Invalid review.'},400);
+  try{
+   const gamefile=await github(env,FILE+'?ref='+BRANCH);
+   let raw=gamefile.content;
+   if(!raw||gamefile.encoding!=='base64')raw=(await github(env,'git/blobs/'+gamefile.sha)).content;
+   const games=JSON.parse(new TextDecoder().decode(bytes(raw.replace(/\s/g,''))));
+   if(!games.some(g=>String(g.id)===String(id)&&g.link===expected_link))return respond({message:'Game link has changed. Refresh first.'},409);
+   const path='static/link-health-reviews.json';let existing=null,reviews={};
+   try{existing=await github(env,path+'?ref='+BRANCH);let content=existing.content;if(!content||existing.encoding!=='base64')content=(await github(env,'git/blobs/'+existing.sha)).content;reviews=JSON.parse(new TextDecoder().decode(bytes(content.replace(/\s/g,''))));}catch(e){if(!String(e).includes('GitHub 404'))throw e;}
+   if(value==='ok')reviews[String(id)]={url:expected_link,detail:String(body.detail||'').slice(0,200),checked_at:new Date().toISOString()};else delete reviews[String(id)];
+   const encoded=btoa(Array.from(new TextEncoder().encode(JSON.stringify(reviews,null,2)+'\n'),c=>String.fromCharCode(c)).join(''));
+   await github(env,path,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Link health: review ${value} game ${id}`,content:encoded,...(existing?{sha:existing.sha}:{}),branch:BRANCH})});
+   return respond({ok:true,review:reviews[String(id)]||null});
+  }catch(e){console.error('Link health review:',e);return respond({message:'Unable to save review to GitHub. Check permissions.'},502);}
+ }
+
  if(!Number.isSafeInteger(Number(id))||!['hidden','link'].includes(field))return respond({message:'Invalid game or field.'},400);
  if(field==='hidden'&&typeof value!=='boolean')return respond({message:'Invalid visibility value.'},400);
  if(field==='link'){

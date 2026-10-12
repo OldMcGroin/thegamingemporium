@@ -44,41 +44,16 @@ def email_report(new_items, date):
     lines = [f'{x["title"]} — {x["detail"]}\n{x["url"]}' for x in new_items[:60]]
     body = f'Link Health Monitor — {date}\n\n{len(new_items)} newly flagged link(s):\n\n' + '\n\n'.join(lines) + '\n\nReview: https://thegamingemporium.com/admin/link-health/'
     data = json.dumps({'from': sender, 'to': [recipient], 'subject': f'The Gaming Emporium: {len(new_items)} newly flagged links', 'text': body}).encode()
-    import subprocess
-
-    result = subprocess.run(
-        [
-            'curl', '--silent', '--show-error',
-            '--max-time', '25',
-            '--request', 'POST',
-            'https://api.resend.com/emails',
-            '--header', 'Authorization: Bearer ' + key,
-            '--header', 'Content-Type: application/json',
-            '--data-binary', '@-',
-            '--write-out', '\nHTTP_STATUS:%{http_code}'
-        ],
-        input=data,
-        capture_output=True,
-        timeout=35
-    )
-
-    output = result.stdout.decode('utf-8', errors='replace')
-    response, _, status = output.rpartition('HTTP_STATUS:')
-
-    print('Resend HTTP status:', status.strip())
-    print('Resend response:', response[:1000])
-
-    if result.returncode != 0 or not status.strip().startswith('2'):
-        raise RuntimeError(
-            'Resend email failed: ' +
-            result.stderr.decode('utf-8', errors='replace')[:500]
-        )
-
+    req = urllib.request.Request('https://api.resend.com/emails', data=data, headers={'Authorization': 'Bearer '+key, 'Content-Type':'application/json'}, method='POST')
+    with urllib.request.urlopen(req, timeout=20) as r:
+        print('Email status:', r.status)
 
 def main():
     games = json.loads((ROOT / 'data/games.json').read_text())
     previous = json.loads(OUT.read_text()) if OUT.exists() else {}
     previous_by_id = {str(x['id']): x for x in previous.get('results', [])}
+    reviews_path = ROOT / 'static/link-health-reviews.json'
+    reviews = json.loads(reviews_path.read_text()) if reviews_path.exists() else {}
     # Avoid repeated checks for duplicate URLs while preserving every game entry.
     by_url = {}
     for game in games:
@@ -95,10 +70,13 @@ def main():
             if item['status'] == 'broken' and item['consecutive_failures'] < 2:
                 item['status'] = 'suspect'
                 item['detail'] += ' (awaiting next daily check)'
+            review = reviews.get(str(item['id']), {})
+            if review.get('url') == item['url'] and review.get('detail') == item['detail']:
+                item['reviewed_ok_at'] = review.get('checked_at')
             results.append(item)
     date = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') in ('broken', 'suspect')}
-    new_items = [x for x in results if x['status'] in ('broken', 'suspect') and str(x['id']) not in old_flagged]
+    old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') in ('broken', 'suspect') and not x.get('reviewed_ok_at')}
+    new_items = [x for x in results if x['status'] in ('broken', 'suspect') and str(x['id']) not in old_flagged and not x.get('reviewed_ok_at')]
     report = {'checked_at': date, 'total':len(results), 'results':results}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
