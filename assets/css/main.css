@@ -2349,7 +2349,11 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 @media(max-width:600px){ .search-enter-hint{display:none;} }
 
 /* Full-search action next to the search text, always visible when typing. */
-.topbar__search .search-input{padding-right:112px;}
+/* Keep Search games... fully visible when no query is entered. */
+.topbar__search .search-input{padding-right:12px;}
+/* Reserve space only when the View all search action is visible. */
+.topbar__search.has-search-link .search-input{padding-right:102px;}
+.search-all-inline[hidden]{display:none !important;}
 .search-all-inline{position:absolute;right:9px;top:50%;transform:translateY(-50%);z-index:2;display:inline-flex;align-items:center;gap:5px;padding:6px 8px;border-radius:9px;background:var(--accent, #ffcc00);color:#151515;font-size:12px;font-weight:700;text-decoration:none;white-space:nowrap;}
 .search-all-inline[hidden]{display:none!important;}
 .search-all-inline:hover,.search-all-inline:focus-visible{filter:brightness(1.08);outline-offset:2px;}

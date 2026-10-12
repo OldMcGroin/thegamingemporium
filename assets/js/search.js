@@ -13,6 +13,7 @@
       if(!allLink) return;
       const term = (q || '').trim();
       allLink.hidden = !term;
+      input.closest('.topbar__search')?.classList.toggle('has-search-link', !!term);
       if(term){ allLink.href = resultsUrl(term); allLink.title = 'View all results for ' + term; }
     }
 
