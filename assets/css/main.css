@@ -2355,7 +2355,7 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 .search-all-inline:hover,.search-all-inline:focus-visible{filter:brightness(1.08);outline-offset:2px;}
 @media(max-width:430px){.topbar__search .search-input{padding-right:93px;}.search-all-inline{font-size:11px;padding:6px;}}
 
-/* Installed Android PWA only: compact browsing header after scrolling. */
+/* Mobile website and installed PWA: compact browsing header after scrolling. */
 @media (max-width: 860px) {
   html.tge-android-pwa .topbar { transition: background-color .18s ease; }
   html.tge-android-pwa.tge-header-compact .topbar__inner {

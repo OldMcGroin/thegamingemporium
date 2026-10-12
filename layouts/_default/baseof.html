@@ -333,12 +333,11 @@
   <script src="{{ $installAppJS.RelPermalink }}" integrity="{{ $installAppJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
 
-<!-- Android installed PWA only: shrink the header when browsing down the page. -->
+<!-- Mobile browsers and installed PWAs: shrink the header when browsing down the page. -->
 <script>
 (function () {
   var android = /Android/i.test(navigator.userAgent);
-  var installed = window.matchMedia && window.matchMedia('(display-mode: standalone)').matches;
-  if (!android || !installed) return;
+  if (!window.matchMedia || !window.matchMedia('(max-width: 860px)').matches) return;
   var root = document.documentElement;
   root.classList.add('tge-android-pwa');
   var nav = document.querySelector('[data-nav]');
