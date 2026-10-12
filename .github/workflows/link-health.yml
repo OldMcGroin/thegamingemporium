@@ -29,7 +29,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add static/link-health-report.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Update external link health report [skip ci]'
+            git commit -m 'Update external link health report'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
