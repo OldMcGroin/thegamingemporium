@@ -8,3 +8,6 @@
 6. Hiding/unhiding or changing links writes only the matched `games.json` entry and triggers a normal GitHub/Cloudflare deployment. The report will reflect the new URL or visibility after the next scan.
 
 **Note:** Daily scans of thousands of sites may take time, some sites block bots, and GitHub-hosted runners have limits. This version does not automatically recheck a single URL server-side. No automatic hiding/deletion occurs.
+
+## One-click manual reviews
+Checked & OK and Reopen Review are saved to browser localStorage without authentication. They are specific to that browser/device, not synchronized through GitHub. Clearing browser storage clears reviews. A changed URL or scan error detail invalidates the review. Hide Game and Change Link still require authenticated Cloudflare Access.
