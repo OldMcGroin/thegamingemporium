@@ -5526,7 +5526,8 @@
     "video_link": "",
     "notes": "Homebrew port of Doom 64 to the Sega Dreamcast.",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "hidden": true
   },
   {
     "id": 424,
