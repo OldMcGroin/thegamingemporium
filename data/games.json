@@ -48884,6 +48884,30 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-13"
+  },
+    {
+    "id": 3772,
+    "title": "Hercules Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/obaidr1/hercules-recompiled",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Hercules",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3773,
+    "title": "AM2R Nintendo 3DS Port",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://codeberg.org/NattensMadrigal/AM2R_3DS.git",
+    "genre1": "platformer",
+    "genre2": "metroidvania",
+    "series": "Metroid",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
 
 
