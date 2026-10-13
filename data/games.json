@@ -48675,5 +48675,17 @@
     "video_link": "",
     "date_added": "2026-10-13",
     "ai_usage": "light"
+  },
+  {
+    "id": 3756,
+    "title": "WWE '12 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/iMrBurn/wwe12-pc",
+    "genre1": "fighting",
+    "genre2": "sports",
+    "series": "WWE",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
 ]
