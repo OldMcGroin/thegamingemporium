@@ -1,0 +1,15 @@
+---
+title: "Crash Bandicoot: The Huge Adventure Decompilation"
+url: "/game/crash-bandicoot-the-huge-adventure-decompilation/"
+type: game
+params:
+  external_link: "https://github.com/Almamu/CrashBandicootXS-decomp"
+  category: "in-the-works"
+  genre1: "platformer"
+  genre2: ""
+  series: "Crash Bandicoot"
+  video_link: ""
+  date_added: "2026-10-13"
+  image: ""
+---
+

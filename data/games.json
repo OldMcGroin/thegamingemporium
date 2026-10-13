@@ -48589,6 +48589,66 @@
     "series": "Resident Evil",
     "video_link": "",
     "date_added": "2026-10-13"
+  },
+  {
+    "id": 3749,
+    "title": "Crash Bandicoot: The Huge Adventure Decompilation",
+    "category": "in-the-works",
+    "platform": "",
+    "link": "https://github.com/Almamu/CrashBandicootXS-decomp",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3750,
+    "title": "Silent Hill Origins in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://silenthillorigins.zeliaopen.space/",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3751,
+    "title": "Ruinarch Mod Launcher",
+    "category": "mods",
+    "platform": "",
+    "link": "https://github.com/Xm0x/RuinarchModLoader",
+    "genre1": "strategy",
+    "genre2": "god-simulator",
+    "series": "Ruinarch",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3752,
+    "title": "Ruinarch Restoration",
+    "category": "abandonware",
+    "platform": "",
+    "link": "https://github.com/Xm0x/RuinarchRE",
+    "genre1": "strategy",
+    "genre2": "god-simulator",
+    "series": "Ruinarch",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3753,
+    "title": "Ruinarch Gameplay Mods",
+    "category": "mods",
+    "platform": "",
+    "link": "https://github.com/Xm0x/RuinarchMods",
+    "genre1": "strategy",
+    "genre2": "god-simulator",
+    "series": "Ruinarch",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
 
 
