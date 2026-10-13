@@ -73,6 +73,10 @@ Image strategy (scales to thousands of items):
   </div>
 {{- end -}}
 
+{{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) (not $showPlatformCard) -}}
+  <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+{{- end -}}
+
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
     <div class="admin-platform-editor" data-platform-editor-wrap>
@@ -110,7 +114,10 @@ Image strategy (scales to thousands of items):
        {{ if and hugo.IsServer $g.hidden }}<div class="game-card__hiddenBadge">Hidden (Live)</div>{{ end }}
 
       <div class="game-card__meta">
-        <span class="pill">{{ $catDisp }}</span>
+        {{/* Category badges only on the Recent Additions page; retain data-category attributes for filtering. */}}
+        {{- if and (isset . "ctx") (eq .ctx.Page.Section "recent") -}}
+          <span class="pill">{{ $catDisp }}</span>
+        {{- end -}}
         {{/* Extra, more visible badge for the Utilities category */}}
         {{ if eq $g.category "utilities" }}<span class="pill pill--utilities">🛠 UTILITIES</span>{{ end }}
         {{ if eq $g.category "browser-based" }}<span class="pill pill--play-browser">▶ PLAY IN BROWSER</span>{{ end }}
@@ -133,7 +140,4 @@ Image strategy (scales to thousands of items):
 {{ end }}
     </div>
   </a>
-  {{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) (not $showPlatformCard) -}}
-    <div class="tge-rating" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
-  {{- end -}}
 </div>
