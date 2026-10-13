@@ -1,6 +1,6 @@
 ---
-title: "Wolfenstein: Enemy Territory Arcade Editi0n"
-url: "/game/wolfenstein-enemy-territory-arcade-editi0n/"
+title: "Wolfenstein: Enemy Territory Arcade Edition"
+url: "/game/wolfenstein-enemy-territory-arcade-edition/"
 type: game
 params:
   external_link: "https://lodilorenzo.github.io/et-arcade-edition/"

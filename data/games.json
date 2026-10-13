@@ -48562,13 +48562,25 @@
   },
   {
     "id": 3747,
-    "title": "Wolfenstein: Enemy Territory Arcade Editi0n",
+    "title": "Wolfenstein: Enemy Territory Arcade Edition",
     "category": "mods",
     "platform": "",
     "link": "https://lodilorenzo.github.io/et-arcade-edition/",
     "genre1": "first-person-shooter",
     "genre2": "",
     "series": "Wolfenstein",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3748,
+    "title": "Project RE: Visited - Resident Evil 3 PC Port",
+    "category": "decompilstions-recompilations",
+    "platform": "PlayStation",
+    "link": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Resident Evil",
     "video_link": "",
     "date_added": "2026-10-13"
   }
