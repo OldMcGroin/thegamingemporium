@@ -39532,7 +39532,8 @@
     "genre2": "",
     "series": "Crash Bandicoot",
     "video_link": "",
-    "date_added": "2026-09-10"
+    "date_added": "2026-09-10",
+    "ai_usage": "heavy"
   },
   {
     "id": 3002,
@@ -48693,7 +48694,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3757,
     "title": "Atomic Bomberman Recompilation",
     "category": "decompilations-recompilations",
@@ -48705,7 +48706,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3758,
     "title": "Mechcommander Online",
     "category": "fan-games",
@@ -48717,7 +48718,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3759,
     "title": "Tony Hawk's Pro Skater Recompilation 2",
     "category": "decompilations-recompilations",
@@ -48729,7 +48730,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3760,
     "title": "Point Blank Beyond Limits",
     "category": "open-source",
@@ -48741,7 +48742,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3761,
     "title": "Snowline Rivals in Browser - Desktop Recommended",
     "category": "browser-based",
@@ -48753,7 +48754,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3762,
     "title": "Orbital Scrapper in Browser - Desktop Recommended",
     "category": "browser-based",
@@ -48765,7 +48766,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3763,
     "title": "Tidebreak in Browser - Desktop Recommended",
     "category": "browser-based",
@@ -48777,7 +48778,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3764,
     "title": "RiftWii - Clean-room Wii Disc Mod Loader",
     "category": "utility",
@@ -48789,7 +48790,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3765,
     "title": "X-Zero in Browser",
     "category": "browser-based",
@@ -48801,7 +48802,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3766,
     "title": "Spartan 64 in Browser",
     "category": "browser-based",
@@ -48813,7 +48814,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3767,
     "title": "NHL '94 in Browser",
     "category": "browser-based",
@@ -48825,7 +48826,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3768,
     "title": "Dragon Ball Budokai Tenkaichi 3 in Browser",
     "category": "browser-based",
@@ -48837,7 +48838,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3769,
     "title": "Daily Red in Browser",
     "category": "browser-based",
@@ -48849,7 +48850,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3769,
     "title": "Kingdom Hearts 2 Co-op Multiplayer",
     "category": "mods",
@@ -48861,7 +48862,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3770,
     "title": "Star Wars: Episode 3 - Revenge of the Sith with Multiplayer PC Port",
     "category": "console-to-pc-port",
@@ -48873,7 +48874,7 @@
     "video_link": "https://youtu.be/EE6B440JLQw?si=F4m72Ta1mCkZydoz",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3771,
     "title": "Super Mario Galaxy Multiplayer",
     "category": "mods",
@@ -48885,7 +48886,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3772,
     "title": "Hercules Recompilation",
     "category": "decompilations-recompilations",
@@ -48897,7 +48898,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3773,
     "title": "AM2R Nintendo 3DS Port",
     "category": "console-ports",
@@ -48909,7 +48910,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3774,
     "title": "Super Mario Galaxy Recompilation",
     "category": "decompilations-recompilations",
@@ -48921,7 +48922,4 @@
     "video_link": "",
     "date_added": "2026-10-13"
   }
-
-
-
 ]
