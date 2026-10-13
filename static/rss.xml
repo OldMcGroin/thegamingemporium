@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:05:39 +0000</lastBuildDate>
     <item>
       <title>Pilotwings 64 Recompilation with Multiplayer</title>
       <link>https://thegamingemporium.com/game/pilotwings-64-recompilation-with-multiplayer/</link>
@@ -480,6 +480,39 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokesurvivor.webp" alt="PokeSurvivor" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Pokemon · Genre: shoot em up]]></content:encoded>
     </item>
     <item>
+      <title>Apocalypse - Repocalypse - Recompilation</title>
+      <link>https://thegamingemporium.com/game/apocalypse-repocalypse-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/apocalypse-repocalypse-recompilation/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/apocalypse-repocalypse-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/apocalypse-repocalypse-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/apocalypse-repocalypse-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/apocalypse-repocalypse-recompilation.webp" alt="Apocalypse - Repocalypse - Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Apocalypse · Genre: third person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/apocalypse-repocalypse-recompilation.webp" alt="Apocalypse - Repocalypse - Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Apocalypse · Genre: third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>Earth Defence Force 6 VR</title>
+      <link>https://thegamingemporium.com/game/earth-defence-force-6-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/earth-defence-force-6-vr/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/earth-defence-force-6-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/earth-defence-force-6-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/earth-defence-force-6-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earth-defence-force-6-vr.webp" alt="Earth Defence Force 6 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Earth Defence Force · Genre: third person shooter]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/earth-defence-force-6-vr.webp" alt="Earth Defence Force 6 VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Earth Defence Force · Genre: third person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>RimWorld VR</title>
+      <link>https://thegamingemporium.com/game/rimworld-vr/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/rimworld-vr/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/rimworld-vr.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/rimworld-vr.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/rimworld-vr.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rimworld-vr.webp" alt="RimWorld VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: RimWorld · Genre: colony simulator, story generator]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/rimworld-vr.webp" alt="RimWorld VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: RimWorld · Genre: colony simulator, story generator]]></content:encoded>
+    </item>
+    <item>
       <title>Bully: Anniversary Edition PS Vita Port</title>
       <link>https://thegamingemporium.com/game/bully-anniversary-edition-ps-vita-port/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/bully-anniversary-edition-ps-vita-port/</guid>
@@ -522,39 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/championship-manager-26-27-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/championship-manager-26-27-in-browser.webp" alt="Championship Manager 26-27 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Championship Manager · Genre: strategy, sports]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/championship-manager-26-27-in-browser.webp" alt="Championship Manager 26-27 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Championship Manager · Genre: strategy, sports]]></content:encoded>
-    </item>
-    <item>
-      <title>Marvel's Spider-Man 2 Co-op Mod</title>
-      <link>https://thegamingemporium.com/game/marvel-s-spider-man-2-co-op-mod/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/marvel-s-spider-man-2-co-op-mod/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-co-op-mod.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-co-op-mod.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-co-op-mod.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-co-op-mod.webp" alt="Marvel's Spider-Man 2 Co-op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Spiderman · Genre: action, adventure]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/marvel-s-spider-man-2-co-op-mod.webp" alt="Marvel's Spider-Man 2 Co-op Mod" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Spiderman · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Splinter Cell: Double Agent Recompilation</title>
-      <link>https://thegamingemporium.com/game/splinter-cell-double-agent-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/splinter-cell-double-agent-recompilation/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/splinter-cell-double-agent-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/splinter-cell-double-agent-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/splinter-cell-double-agent-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/splinter-cell-double-agent-recompilation.webp" alt="Splinter Cell: Double Agent Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Splinter Cell · Genre: stealth, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/splinter-cell-double-agent-recompilation.webp" alt="Splinter Cell: Double Agent Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Splinter Cell · Genre: stealth, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Blue Prince VR</title>
-      <link>https://thegamingemporium.com/game/blue-prince-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/blue-prince-vr/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/blue-prince-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/blue-prince-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/blue-prince-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/blue-prince-vr.webp" alt="Blue Prince VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Blue Prince · Genre: puzzle]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/blue-prince-vr.webp" alt="Blue Prince VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: Blue Prince · Genre: puzzle]]></content:encoded>
     </item>
   </channel>
 </rss>
