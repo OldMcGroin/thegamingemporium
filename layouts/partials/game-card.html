@@ -67,6 +67,9 @@ Image strategy (scales to thousands of items):
     <span class="ai-badge ai-badge--{{ $ai }}" data-ai-badge>{{ if eq $ai "none" }}No AI Usage{{ else if eq $ai "light" }}Light AI Usage{{ else if eq $ai "heavy" }}Heavy AI Usage{{ else }}Unknown{{ end }}</span>
     {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
     <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
+    {{- if not $g.hidden -}}
+      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+    {{- end -}}
   </div>
 {{- end -}}
 
@@ -130,7 +133,7 @@ Image strategy (scales to thousands of items):
 {{ end }}
     </div>
   </a>
-  {{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) -}}
+  {{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) (not $showPlatformCard) -}}
     <div class="tge-rating" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
   {{- end -}}
 </div>

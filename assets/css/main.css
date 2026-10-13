@@ -2376,3 +2376,7 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 
 /* Decompilation / recompilation project ratings */
 .tge-rating{margin:8px 10px 12px;font-size:.88rem}.tge-rating-trigger{border:1px solid var(--border, #777);border-radius:8px;background:transparent;color:inherit;padding:7px 10px;cursor:pointer;font:inherit}.tge-rating-trigger:hover{border-color:#e7b34b}.tge-rating-note{opacity:.75;font-size:.78rem;margin-left:6px}.tge-rating-dialog{border:1px solid #777;border-radius:14px;padding:22px;max-width:min(440px,92vw);width:100%;background:#20232b;color:#fff;box-shadow:0 16px 60px #0009}.tge-rating-dialog::backdrop{background:#0009}.tge-rating-dialog h2{margin:0 0 12px;font-size:1.25rem}.tge-rating-dialog p{line-height:1.5}.tge-rating-stars{display:flex;gap:5px;margin:14px 0}.tge-rating-stars button{background:transparent;border:0;color:#ffcb52;font-size:2rem;cursor:pointer;padding:3px}.tge-rating-stars button[aria-pressed=true]{text-decoration:underline}.tge-rating-dialog .tge-rating-close{float:right;background:transparent;color:inherit;border:0;font-size:1.5rem;cursor:pointer}.tge-rating-breakdown{font-size:.9rem;line-height:1.9}.tge-rating-message{min-height:1.5em;font-size:.9rem}
+
+/* Keep rating and AI controls together on Decomp/Recomp category cards. */
+.ai-card-controls .tge-rating--inline{margin:0;font-size:12px}
+.ai-card-controls .tge-rating--inline .tge-rating-trigger{font-size:12px;padding:5px 9px}
