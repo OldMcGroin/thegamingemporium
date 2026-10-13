@@ -40083,7 +40083,8 @@
     "genre2": "",
     "series": "007",
     "video_link": "",
-    "date_added": "2026-09-15"
+    "date_added": "2026-09-15",
+    "ai_usage": "heavy"
   },
   {
     "id": 3048,
@@ -48422,7 +48423,7 @@
     "video_link": "",
     "date_added": "2026-10-12"
   },
-    {
+  {
     "id": 3736,
     "title": "Colin McRae Rally 2.0 Recompilation 2",
     "category": "decompilations-recompilations",
@@ -48434,7 +48435,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3737,
     "title": "Toy Story 2: Buzz Lightyear to the Rescue PC Port",
     "category": "decompilations-recompilations",
@@ -48446,7 +48447,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3738,
     "title": "SSX Recompilation",
     "category": "decompilations-recompilations",
@@ -48458,7 +48459,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3739,
     "title": "Burnout 3: Takedown Recompilation",
     "category": "decompilations-recompilations",
@@ -48470,7 +48471,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3740,
     "title": "Virtua Fighter 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -48482,7 +48483,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3741,
     "title": "Urban Reign Recompilation",
     "category": "decompilations-recompilations",
@@ -48494,7 +48495,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3742,
     "title": "Call of Duty 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -48506,7 +48507,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3743,
     "title": "Banjo-Kazooie: Nuts & Bolts for Android",
     "category": "android-ports",
@@ -48518,7 +48519,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3744,
     "title": "Tony Hawk's Project 8 for Android",
     "category": "android-ports",
@@ -48530,7 +48531,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3745,
     "title": "Dragon Ball: Raging Blast 2 for Android",
     "category": "android-ports",
@@ -48542,7 +48543,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3746,
     "title": "CyberMage: Darklight Re-Awakening",
     "category": "mods",
@@ -48554,7 +48555,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3747,
     "title": "Wolfenstein: Enemy Territory Arcade Editi0n",
     "category": "mods",
@@ -48566,7 +48567,4 @@
     "video_link": "",
     "date_added": "2026-10-13"
   }
-
-
-
 ]
