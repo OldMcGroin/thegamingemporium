@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:48:01 +0000</lastBuildDate>
     <item>
       <title>Colin McRae Rally 2.0 Recompilation 2</title>
       <link>https://thegamingemporium.com/game/colin-mcrae-rally-2-0-recompilation-2/</link>
@@ -148,6 +148,50 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/project-re-visited-resident-evil-3-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-re-visited-resident-evil-3-pc-port.webp" alt="Project RE: Visited - Resident Evil 3 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Resident Evil · Genre: survival horror]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/project-re-visited-resident-evil-3-pc-port.webp" alt="Project RE: Visited - Resident Evil 3 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Resident Evil · Genre: survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Crash Bandicoot: The Huge Adventure Decompilation</title>
+      <link>https://thegamingemporium.com/game/crash-bandicoot-the-huge-adventure-decompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/crash-bandicoot-the-huge-adventure-decompilation/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/crash-bandicoot-the-huge-adventure-decompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/crash-bandicoot-the-huge-adventure-decompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/crash-bandicoot-the-huge-adventure-decompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-the-huge-adventure-decompilation.webp" alt="Crash Bandicoot: The Huge Adventure Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: platformer]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/crash-bandicoot-the-huge-adventure-decompilation.webp" alt="Crash Bandicoot: The Huge Adventure Decompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />In The Works · Series: Crash Bandicoot · Genre: platformer]]></content:encoded>
+    </item>
+    <item>
+      <title>Silent Hill Origins in Browser</title>
+      <link>https://thegamingemporium.com/game/silent-hill-origins-in-browser/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/silent-hill-origins-in-browser/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/silent-hill-origins-in-browser.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/silent-hill-origins-in-browser.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/silent-hill-origins-in-browser.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-origins-in-browser.webp" alt="Silent Hill Origins in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Silent Hill · Genre: survival horror]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/silent-hill-origins-in-browser.webp" alt="Silent Hill Origins in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Silent Hill · Genre: survival horror]]></content:encoded>
+    </item>
+    <item>
+      <title>Ruinarch Mod Launcher</title>
+      <link>https://thegamingemporium.com/game/ruinarch-mod-launcher/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ruinarch-mod-launcher/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ruinarch-mod-launcher.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ruinarch-mod-launcher.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ruinarch-mod-launcher.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ruinarch-mod-launcher.webp" alt="Ruinarch Mod Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Ruinarch · Genre: strategy, god simulator]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ruinarch-mod-launcher.webp" alt="Ruinarch Mod Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Ruinarch · Genre: strategy, god simulator]]></content:encoded>
+    </item>
+    <item>
+      <title>Ruinarch Gameplay Mods</title>
+      <link>https://thegamingemporium.com/game/ruinarch-gameplay-mods/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/ruinarch-gameplay-mods/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ruinarch-gameplay-mods.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/ruinarch-gameplay-mods.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/ruinarch-gameplay-mods.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ruinarch-gameplay-mods.webp" alt="Ruinarch Gameplay Mods" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Ruinarch · Genre: strategy, god simulator]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ruinarch-gameplay-mods.webp" alt="Ruinarch Gameplay Mods" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Ruinarch · Genre: strategy, god simulator]]></content:encoded>
     </item>
     <item>
       <title>Bully: Anniversary Edition PS Vita Port</title>
@@ -511,50 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/american-mcgees-alice-for-android.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/american-mcgees-alice-for-android.webp" alt="American McGees Alice for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: platformer, action]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/american-mcgees-alice-for-android.webp" alt="American McGees Alice for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: platformer, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Mina The Hollower for Android</title>
-      <link>https://thegamingemporium.com/game/mina-the-hollower-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/mina-the-hollower-for-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/mina-the-hollower-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/mina-the-hollower-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/mina-the-hollower-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mina-the-hollower-for-android.webp" alt="Mina The Hollower for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Mina The Hollower · Genre: adventure, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/mina-the-hollower-for-android.webp" alt="Mina The Hollower for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Mina The Hollower · Genre: adventure, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Grand Theft Auto IV for Android</title>
-      <link>https://thegamingemporium.com/game/grand-theft-auto-iv-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/grand-theft-auto-iv-for-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/grand-theft-auto-iv-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/grand-theft-auto-iv-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/grand-theft-auto-iv-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-iv-for-android.webp" alt="Grand Theft Auto IV for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-iv-for-android.webp" alt="Grand Theft Auto IV for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
-    </item>
-    <item>
-      <title>Bannerlator — Run Windows PC Games and Apps on Android</title>
-      <link>https://thegamingemporium.com/game/bannerlator-run-windows-pc-games-and-apps-on-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/bannerlator-run-windows-pc-games-and-apps-on-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/bannerlator-run-windows-pc-games-and-apps-on-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/bannerlator-run-windows-pc-games-and-apps-on-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/bannerlator-run-windows-pc-games-and-apps-on-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bannerlator-run-windows-pc-games-and-apps-on-android.webp" alt="Bannerlator — Run Windows PC Games and Apps on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/bannerlator-run-windows-pc-games-and-apps-on-android.webp" alt="Bannerlator — Run Windows PC Games and Apps on Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>Generals Zero Hour for Android</title>
-      <link>https://thegamingemporium.com/game/generals-zero-hour-for-android/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/generals-zero-hour-for-android/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/generals-zero-hour-for-android.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/generals-zero-hour-for-android.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/generals-zero-hour-for-android.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/generals-zero-hour-for-android.webp" alt="Generals Zero Hour for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: strategy]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/generals-zero-hour-for-android.webp" alt="Generals Zero Hour for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Genre: strategy]]></content:encoded>
     </item>
   </channel>
 </rss>
