@@ -4,7 +4,7 @@ url: "/game/project-re-visited-resident-evil-3-pc-port/"
 type: game
 params:
   external_link: "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3"
-  category: "decompilstions-recompilations"
+  category: "decompilations-recompilations"
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"
