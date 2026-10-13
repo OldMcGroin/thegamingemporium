@@ -48421,5 +48421,152 @@
     "series": "Wild 9",
     "video_link": "",
     "date_added": "2026-10-12"
+  },
+    {
+    "id": 3736,
+    "title": "Colin McRae Rally 2.0 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "platform": "Windows",
+    "link": "https://github.com/pablocpas/OpenCMR2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Colin McRae",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3737,
+    "title": "Toy Story 2: Buzz Lightyear to the Rescue PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/Capridog/SpaceRanger",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Toy Story",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3738,
+    "title": "SSX Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/DeadDove13/SSX-Reconstruction/",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "SSX",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3739,
+    "title": "Burnout 3: Takedown Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/danielgomesvieira2000/burnout3-pc/releases",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Burnout",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3740,
+    "title": "Virtua Fighter 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Arcade",
+    "link": "https://vf2-recomp.pages.dev/",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Virtua Fighter",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3741,
+    "title": "Urban Reign Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/thiagordsfx/urban-reign-recomp",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Urban Reign",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3742,
+    "title": "Call of Duty 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/FrankHUN88453/CoD3Recomp",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3743,
+    "title": "Banjo-Kazooie: Nuts & Bolts for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/Innersargento/Renut-Android/releases/tag/0.4.0",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3744,
+    "title": "Tony Hawk's Project 8 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/moddedrounds/THP8-Android",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Tony Hawk",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3745,
+    "title": "Dragon Ball: Raging Blast 2 for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/moddedrounds/RB2-Android",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dragon Ball Z",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3746,
+    "title": "CyberMage: Darklight Re-Awakening",
+    "category": "mods",
+    "platform": "",
+    "link": "https://lodilorenzo.github.io/cybermage-darklight-re-awakening/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "CyberMage",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3747,
+    "title": "Wolfenstein: Enemy Territory Arcade Editi0n",
+    "category": "mods",
+    "platform": "",
+    "link": "https://lodilorenzo.github.io/et-arcade-edition/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Wolfenstein",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
+
+
+
 ]
