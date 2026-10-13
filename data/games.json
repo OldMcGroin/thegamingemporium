@@ -48064,7 +48064,8 @@
     "genre2": "action",
     "series": "Metal Gear",
     "video_link": "",
-    "date_added": "2026-10-11"
+    "date_added": "2026-10-11",
+    "ai_usage": "heavy"
   },
   {
     "id": 3706,
@@ -48922,7 +48923,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3775,
     "title": "Way of the Samurai 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -48934,7 +48935,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3776,
     "title": "Ninja Gaiden Black PC Port",
     "category": "decompilations-recompilations",
@@ -48946,7 +48947,7 @@
     "video_link": "",
     "date_added": "2026-10-13"
   },
-    {
+  {
     "id": 3777,
     "title": "PokeSurvivor",
     "category": "browser-based",
