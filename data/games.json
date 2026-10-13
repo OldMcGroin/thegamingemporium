@@ -48908,6 +48908,18 @@
     "series": "Metroid",
     "video_link": "",
     "date_added": "2026-10-13"
+  },
+    {
+    "id": 3774,
+    "title": "Super Mario Galaxy Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo Wii",
+    "link": "https://github.com/keepvaibin/nebula",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
 
 
