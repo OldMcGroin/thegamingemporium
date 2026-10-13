@@ -48921,5 +48921,41 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-13"
+  },
+    {
+    "id": 3775,
+    "title": "Way of the Samurai 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 2",
+    "link": "https://github.com/acklavidian/decomp_wots2",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Way of the Samurai",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3776,
+    "title": "Ninja Gaiden Black PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://youtu.be/fVDmEi7dARo?si=N6ol-vG_N7istQ26",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Ninja Gaiden",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+    {
+    "id": 3777,
+    "title": "PokeSurvivor",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pokesurvivor.com/",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-10-13"
   }
 ]
