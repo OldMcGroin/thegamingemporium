@@ -44398,7 +44398,7 @@
   },
   {
     "id": 3404,
-    "title": "Pilotwings 64 Recompilation 2",
+    "title": "Pilotwings 64 Recompilation with Multiplayer",
     "category": "decompilations-recompilations",
     "platform": "Nintendo 64",
     "link": "https://github.com/NoahVl/Birdman64",
@@ -44406,7 +44406,7 @@
     "genre2": "sports",
     "series": "Pilotwings",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-13"
   },
   {
     "id": 3405,
@@ -48647,6 +48647,30 @@
     "genre1": "strategy",
     "genre2": "god-simulator",
     "series": "Ruinarch",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3754,
+    "title": "The Legend of Zelda Majoras Mask 3D PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 3DS",
+    "link": "https://github.com/Volpe34/MM3D-PC",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-13"
+  },
+  {
+    "id": 3755,
+    "title": "The Binding of Isaac Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Steam",
+    "link": "https://github.com/whylurking/IsaacRecomp",
+    "genre1": "roguelike",
+    "genre2": "action",
+    "series": "The Binding of Isaac",
     "video_link": "",
     "date_added": "2026-10-13"
   }
