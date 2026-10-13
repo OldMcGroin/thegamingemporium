@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/MMX-OmegaBlaster/438452"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

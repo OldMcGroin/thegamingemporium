@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/hd-graphics-mod"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "action"
   series: "Star Wars"

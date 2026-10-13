@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pancreations/Halo-MCC-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Halo"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://createam.itch.io/antumbra"
   category: "android-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Penumbra"

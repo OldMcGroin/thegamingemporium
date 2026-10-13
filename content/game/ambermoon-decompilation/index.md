@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Pyrdacor/Ambermoon.net"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Ambermoon"

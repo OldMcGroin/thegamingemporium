@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/scott-pilgrim-ex-03d3d2"
   category: "android-ports"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Scott Pilgrim"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/404/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Ranma 1/2"

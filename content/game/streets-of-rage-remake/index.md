@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://street-rage-remake.en.uptodown.com/windows#google_vignette"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Streets of Rage"

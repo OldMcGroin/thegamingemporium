@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://skyleite.github.io/Kart-Public-WASM/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/dacodechick/legaia-decomp"
   category: "in-the-works"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Legend of Legaia"

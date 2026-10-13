@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/comoria08/defjam_recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Def Jam"

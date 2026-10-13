@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mediafire.com/folder/kbbg5zosc7v9j/ChewAPKbackup"
   category: "android-ports"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

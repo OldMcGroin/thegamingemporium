@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Joshua-1248/GoldenEye-007-Plus"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "007"

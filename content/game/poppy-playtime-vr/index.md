@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/EllieWasteland/PoppyPlaytimeVR"
   category: "vr-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Poppy Playtime"

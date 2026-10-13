@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/470260"
   category: "texture-packs"
+  hidden: false
   genre1: "sandbox"
   genre2: "life-simulator"
   series: "Animal Crossing"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/laqieer/fireemblem8j"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Fire Emblem"

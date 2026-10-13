@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/yanm1103/War_of_the_Monsters_recomp"
   category: "in-the-works"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "War of the Monsters"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://legitimatebusiness.biz/tower/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "The Legend of Zelda"

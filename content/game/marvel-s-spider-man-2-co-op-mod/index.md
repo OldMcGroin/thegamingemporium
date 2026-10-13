@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/marvelsspiderman2/mods/2856"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Spiderman"

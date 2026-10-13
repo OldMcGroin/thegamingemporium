@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/vittorioromeo/SSVOpenHexagon"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://off.fandom.com/wiki/Downloads#Version_3.0_Downloads"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

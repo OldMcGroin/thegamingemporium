@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/sonictripletrouble16bit/322794"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

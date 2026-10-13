@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ctr.cmzi.uk/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crash Bandicoot"

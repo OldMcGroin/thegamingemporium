@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Zorkats/G-Diffuser"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "F-Zero"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/amongus/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "social-deduction"
   genre2: "party-game"
   series: "Among Us"

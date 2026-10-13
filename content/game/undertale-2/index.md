@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pep.itch.io/undertale-2"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Undertale"

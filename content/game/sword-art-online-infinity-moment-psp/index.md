@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/sao-infinity-moment-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Sword Art Online"

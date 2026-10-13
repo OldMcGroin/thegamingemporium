@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/udarmolota/pridroid"
   category: "android-ports"
+  hidden: false
   genre1: "business-management"
   genre2: "strategy"
   series: "Prison Architect"

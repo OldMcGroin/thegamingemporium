@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mirtilowgames.itch.io/the-last-of-us-demastered"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "The Last of Us"

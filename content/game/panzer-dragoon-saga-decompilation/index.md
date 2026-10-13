@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/yaz0r/Azel"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Panzer Dragoon"

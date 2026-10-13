@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Mrsuss60/bloodborne_pc_windows_port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Bloodborne"

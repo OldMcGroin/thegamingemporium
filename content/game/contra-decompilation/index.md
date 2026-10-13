@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/vermiceli/nes-contra-us/"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: "shoot-em-up"
   series: "Contra"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pddmergilla.github.io/sotn-editor/?ref=pantspantsrevolution.com"
   category: "browser-based"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Castlevania"

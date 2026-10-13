@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/SteamDeck/s/9CczeTYUGk"
   category: "texture-packs"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "God of War"

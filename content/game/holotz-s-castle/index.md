@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mobygames.com/game/23431/holotzs-castle/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Lode Runner"

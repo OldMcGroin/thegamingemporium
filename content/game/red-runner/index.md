@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://bayat.itch.io/red-runner"
   category: "open-source"
+  hidden: false
   genre1: "infinite-runner"
   genre2: ""
   series: "Red Runner"

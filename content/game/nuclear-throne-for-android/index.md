@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://toncho.itch.io/nuclear-throne-mobile"
   category: "android-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "Nuclear Throne"

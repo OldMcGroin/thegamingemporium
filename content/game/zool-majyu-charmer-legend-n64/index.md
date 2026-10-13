@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/gNAq0phlTYqaYSpT_kY1XQ/zool-majy-charmer-legend-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: ""

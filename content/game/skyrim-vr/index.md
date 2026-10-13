@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/skyrimspecialedition/mods/107333"
   category: "vr-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Elder Scrolls"

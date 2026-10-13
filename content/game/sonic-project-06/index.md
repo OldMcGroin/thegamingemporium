@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/project-06-update-3.5"
   category: "fan-games"
+  hidden: true
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

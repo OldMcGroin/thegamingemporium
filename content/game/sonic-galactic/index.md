@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonicgalactic.github.io/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mgerhardy/caveexpress"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: ""

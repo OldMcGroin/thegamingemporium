@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://lodilorenzo.github.io/et-arcade-edition/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Wolfenstein"

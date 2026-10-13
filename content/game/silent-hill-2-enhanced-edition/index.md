@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://enhanced.townofsilenthill.com/SH2/about.htm"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

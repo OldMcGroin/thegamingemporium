@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/syphon-filter-3-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Syphon Filter"

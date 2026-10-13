@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://en83.itch.io/celeste-classic-for-sega-saturn"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Celeste"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/aki-club/vpw2"
   category: "in-the-works"
+  hidden: false
   genre1: "sports"
   genre2: "wrestling"
   series: "Virtual Pro-wrestling"

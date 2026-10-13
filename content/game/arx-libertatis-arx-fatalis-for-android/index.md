@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://obfusk.gitlab.io/jekyll-fdroid/packages/com.arxlibertatis/"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Arx Fatalis"

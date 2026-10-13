@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/infinity-blade-f1196a"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Infinity Blade"

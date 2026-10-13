@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://awbw.amarriner.com/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Advance Wars"

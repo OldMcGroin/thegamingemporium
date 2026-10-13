@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/SteamDeck/comments/149rbhs/i_made_a_mod_that_increases_the_dialogue_font/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button"
   category: ""
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Pillars of Eternity"

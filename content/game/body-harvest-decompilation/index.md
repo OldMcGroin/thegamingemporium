@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jaytheham/body-harvest-decompilation"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Body Harvest"

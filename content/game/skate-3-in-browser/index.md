@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://skate.aaddpp.lol/"
   category: "browser-based"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Skate"

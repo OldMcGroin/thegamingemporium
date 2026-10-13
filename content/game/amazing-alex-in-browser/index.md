@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nomadic-ua.itch.io/amazing-alex"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Amazing Alex"

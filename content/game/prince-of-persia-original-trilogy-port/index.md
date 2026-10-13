@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.popot.org/get_the_games.php?game=SDLPoP"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Prince of Persia"

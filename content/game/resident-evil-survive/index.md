@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/residentevilsurvive/913180"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Resident Evil"

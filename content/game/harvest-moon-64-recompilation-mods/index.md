@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://thunderstore.io/c/harvest-moon-64-recompiled/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "farming-simulator"
   series: "Harvest Moon"

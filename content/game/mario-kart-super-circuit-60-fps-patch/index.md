@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/xlruT_gHReWVM1HtQL3Lmg/mario-kart-super-circuit-60-fps-patch"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

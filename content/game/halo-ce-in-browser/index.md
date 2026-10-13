@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://halo-web.otherness-bugs.workers.dev/"
   category: "browser-based"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Halo"

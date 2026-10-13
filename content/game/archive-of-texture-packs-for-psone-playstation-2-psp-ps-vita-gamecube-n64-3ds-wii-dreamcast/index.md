@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://docs.google.com/spreadsheets/d/1sif8FeRGJRbytK8wFRXgF6Hke9V6GUFs/edit?gid=431767549#gid=431767549"
   category: "texture-packs"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

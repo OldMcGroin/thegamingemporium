@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://web.zquestclassic.com/play/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

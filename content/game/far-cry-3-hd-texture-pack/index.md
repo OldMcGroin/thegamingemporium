@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/farcry3/mods/291"
   category: "texture-packs"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Far Cry"

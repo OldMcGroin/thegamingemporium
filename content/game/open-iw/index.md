@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TambourineReindeer/open-iw"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Brendonm17/rsc-c-vita"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Runescape"

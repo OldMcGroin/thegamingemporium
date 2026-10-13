@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Alexbeav/colony-wars-red-sun-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: ""
   series: "Colony Wars"

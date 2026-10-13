@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://x.com/NFL_Blitz_Rez/status/1963389204106547573?s=20"
   category: "rom-hacks"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NFL"

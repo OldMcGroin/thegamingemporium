@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "farming-simulator"
   series: "Harvest Moon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mors-games.itch.io/moon-child-fe"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Moon Child"

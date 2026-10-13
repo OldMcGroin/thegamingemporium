@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/BanjoRecomp/BanjoRecomp/releases/tag/v1.0.0"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "Platformer"
   genre2: ""
   series: "Banjo Kazooie"

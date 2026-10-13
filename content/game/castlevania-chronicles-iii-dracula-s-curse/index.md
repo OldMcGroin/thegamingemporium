@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/castlevania-chronicles-iii-draculas-curse-fan-game-windows-pc/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

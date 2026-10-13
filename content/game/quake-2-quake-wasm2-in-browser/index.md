@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://qwasm2.m-h.org.uk/"
   category: "browser-based"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

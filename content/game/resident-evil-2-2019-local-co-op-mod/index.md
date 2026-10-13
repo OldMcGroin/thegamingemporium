@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevil22019/mods/2938"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Resident Evil"

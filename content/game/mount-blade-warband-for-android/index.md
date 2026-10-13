@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/mount-amp-blade-warband-8404/"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Mount & Blade"

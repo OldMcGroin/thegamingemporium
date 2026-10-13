@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://whosbluffing.com/play?pack=memes"
   category: "browser-based"
+  hidden: false
   genre1: "Quiz"
   genre2: ""
   series: ""

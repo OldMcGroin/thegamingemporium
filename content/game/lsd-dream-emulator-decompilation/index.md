@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FirecatFG/lsddecomp"
   category: "in-the-works"
+  hidden: false
   genre1: "walking-simulator"
   genre2: ""
   series: "LSD: Dream Emulator"

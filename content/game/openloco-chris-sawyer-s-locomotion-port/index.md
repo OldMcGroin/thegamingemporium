@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openloco.io/download/"
   category: "open-source"
+  hidden: false
   genre1: "business-simulator"
   genre2: "strategy"
   series: "Chris Sawyer's Locomotion"

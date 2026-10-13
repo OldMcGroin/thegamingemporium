@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://richterwilker.itch.io/animal-forest-gb-folk"
   category: "fan-games"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/1467450/The_Chronicles_Of_Myrtana_Archolos"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Gothic"

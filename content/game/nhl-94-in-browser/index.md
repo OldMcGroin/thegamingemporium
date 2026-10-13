@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kingof94.web.app/"
   category: "browser-based"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: ""

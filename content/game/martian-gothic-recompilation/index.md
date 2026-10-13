@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/martian-gothic-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: "adventure"
   series: "Martian Gothic"

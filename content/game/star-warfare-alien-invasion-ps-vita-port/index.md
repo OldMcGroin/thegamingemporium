@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1386"
   category: "console-ports"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Star Warfare"

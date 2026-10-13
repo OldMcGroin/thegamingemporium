@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Geometry Wars"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pioneer2.net/community/threads/ephinea-pso-bb-on-steam-deck-official-thread.24850/"
   category: "guides"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Phantasy Star"

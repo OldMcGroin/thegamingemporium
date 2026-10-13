@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://flarerpg.org/2026/05/03/flare-1-15/"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Flare"

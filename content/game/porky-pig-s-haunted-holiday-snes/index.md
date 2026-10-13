@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/07/porky-pigs-haunted-holiday-snes-prototypes/"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Porky Pig's Haunted Holiday"

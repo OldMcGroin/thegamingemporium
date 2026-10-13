@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Player124413/Looking-Glass-android-edition"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: ""

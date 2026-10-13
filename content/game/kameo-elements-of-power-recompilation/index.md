@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/birabittoh/KameoRePowered"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Kameo"

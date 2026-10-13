@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/translations/welcome-house-2-keaton-and-his-uncle-english-translation-playstation/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Welcome House"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sites.google.com/view/cvsqfangame/home?authuser=0"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

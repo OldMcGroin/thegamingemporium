@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ZoomiesZaggy/Space-Channel-5"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Space Channel 5"

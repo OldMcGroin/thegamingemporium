@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cuerzor.itch.io/mvz2"
   category: "fan-games"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

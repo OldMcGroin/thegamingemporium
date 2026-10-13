@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Ekyso/Cinderbox"
   category: "android-ports"
+  hidden: false
   genre1: "life-simulator"
   genre2: "farming-simulator"
   series: "Stardew Valley"

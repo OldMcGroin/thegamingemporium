@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/delon5/bully_vita"
   category: "console-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Bully"

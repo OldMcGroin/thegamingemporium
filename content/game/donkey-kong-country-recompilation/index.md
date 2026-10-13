@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/elliotttate/DKC1Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Donkey Kong"

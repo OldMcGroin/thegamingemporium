@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/UndertaleYellow/136925"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Undertale"

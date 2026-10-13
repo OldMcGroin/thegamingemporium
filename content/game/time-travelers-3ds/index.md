@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fantranslators.info/2025/02/01/time-travelers-english-translation-patch/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Time Travelers"

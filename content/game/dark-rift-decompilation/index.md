@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/unnunu/darkrift"
   category: "in-the-works"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dark Rift"

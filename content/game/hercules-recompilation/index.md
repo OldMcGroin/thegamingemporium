@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/obaidr1/hercules-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Hercules"

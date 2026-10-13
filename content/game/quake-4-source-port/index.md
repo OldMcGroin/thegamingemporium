@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jmarshall23/Quake4Doom"
   category: "in-the-works"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

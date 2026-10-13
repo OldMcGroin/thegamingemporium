@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HurricanGame/Hurrican"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "shoot-em-up"
   series: ""

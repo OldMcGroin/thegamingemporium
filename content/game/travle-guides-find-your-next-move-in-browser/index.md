@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dlewiki.com/game/travle/"
   category: "browser-based"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

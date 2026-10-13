@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/lBObk1gfPaY?si=_vb4c14JIBFqMZD7"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

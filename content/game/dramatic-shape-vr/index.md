@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/prismaticShape/DramaticShapeVR"
   category: "vr-ports"
+  hidden: true
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

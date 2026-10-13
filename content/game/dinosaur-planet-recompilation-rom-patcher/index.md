@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dinosaurpla.net/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Dinosaur Planet"

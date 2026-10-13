@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/tombraiderlegend/mods/97?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Tomb Raider"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.planeshift.it/"
   category: "open-source"
+  hidden: false
   genre1: "MMORPG"
   genre2: ""
   series: "PlaneShift"

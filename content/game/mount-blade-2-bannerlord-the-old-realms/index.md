@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/the-old-realms"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "rpg"
   series: "Mount & Blade"

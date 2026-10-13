@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/rayman-mini-134900/"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rayman"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=3291739005"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Saints Row"

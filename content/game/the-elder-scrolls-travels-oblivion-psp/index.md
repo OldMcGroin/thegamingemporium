@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/The_Elder_Scrolls_Travels:_Oblivion_%28Apr_27,_2007_prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "The Elder Scrolls"

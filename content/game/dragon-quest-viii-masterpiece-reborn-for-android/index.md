@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/forum/index.php?topic=34365.msg426869#msg426869"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Dragon Quest"

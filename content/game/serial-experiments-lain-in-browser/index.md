@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://3d.laingame.net/game.html"
   category: "browser-based"
+  hidden: false
   genre1: "interactive-fiction"
   genre2: ""
   series: "Serial Experiments Lain"

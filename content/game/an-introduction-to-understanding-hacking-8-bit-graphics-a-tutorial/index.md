@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/an-introduction-to-understanding-hacking-8-bit-graphics/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

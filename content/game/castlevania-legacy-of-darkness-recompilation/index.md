@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/fliperama86/cvlod_recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Castlevania"

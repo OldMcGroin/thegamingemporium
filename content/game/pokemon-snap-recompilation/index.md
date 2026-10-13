@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JackandBeans/Snap64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "photography"
   genre2: "rail-shooter"
   series: "Pokemon"

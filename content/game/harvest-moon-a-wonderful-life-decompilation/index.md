@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ChrisNonyminus/hmawl"
   category: "in-the-works"
+  hidden: false
   genre1: "farming-simulator"
   genre2: "life-simulator"
   series: "Harvest Moon"

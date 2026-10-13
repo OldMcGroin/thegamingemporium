@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MarxMustermann/OfMiceAndMechs/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "tower-defence"
   series: "Of Mice and Mechs"

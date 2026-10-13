@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/how-to-fish-813deb"
   category: "android-ports"
+  hidden: false
   genre1: "fishing"
   genre2: ""
   series: "How to Fish"

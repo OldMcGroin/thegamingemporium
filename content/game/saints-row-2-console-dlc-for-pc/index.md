@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.saintsrowmods.com/forum/threads/sr2-pc-dlc.24993/"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Saints Row"

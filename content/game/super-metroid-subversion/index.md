@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://metroidconstruction.com/hack.php?id=716"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: "metroidvania"
   series: "Metroid"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Flight of the Amazon Queen"

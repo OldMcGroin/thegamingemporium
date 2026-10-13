@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JHGuitarFreak/UQM-MegaMod-Archived"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Star Control"

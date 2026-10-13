@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/LjjufdifRv66ITK_3u_VWA"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Tales of Rebirth"

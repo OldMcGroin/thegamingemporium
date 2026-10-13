@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/wips/65286"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

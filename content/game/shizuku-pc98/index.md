@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/yBy69HXSTe2eXhS1y4DyiA/shizuku-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Shizuku"

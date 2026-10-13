@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fifaclassicpatch.altervista.org/"
   category: "mods"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Fifa"

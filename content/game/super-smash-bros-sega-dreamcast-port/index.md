@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/beigeceleron/ssb64-dc"
   category: "console-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

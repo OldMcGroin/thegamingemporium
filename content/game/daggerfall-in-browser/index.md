@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://daggerfalljs.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Elder Scrolls"

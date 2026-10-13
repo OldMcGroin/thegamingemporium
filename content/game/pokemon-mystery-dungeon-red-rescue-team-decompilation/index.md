@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pret/pmd-red"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "roguelike"
   series: "Pokemon"

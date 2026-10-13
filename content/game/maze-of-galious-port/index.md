@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/maze-of-galious-windows/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Maze of Galious"

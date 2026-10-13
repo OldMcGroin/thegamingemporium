@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kbhgames.com/game/demon-castle"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

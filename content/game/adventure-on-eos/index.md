@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://blackdemeter.com/adventure-on-eos"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Adventure on Eos"

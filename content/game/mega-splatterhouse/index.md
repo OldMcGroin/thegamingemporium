@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://monsterbathchris.itch.io/mega-splatterhouse-demo"
   category: "fan-games"
+  hidden: true
   genre1: "beat-em-up"
   genre2: "survival-horror"
   series: "Splatterhouse"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1402"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

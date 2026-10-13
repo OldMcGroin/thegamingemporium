@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RussoPhone/tomodachi-ltd-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sandbox"
   genre2: "life-simulator"
   series: "Tomodachi Life"

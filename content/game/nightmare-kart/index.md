@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://b0tster.itch.io/nmkart"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Bloodborne"

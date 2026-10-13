@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/diasurgical/devilutionX"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Diablo"

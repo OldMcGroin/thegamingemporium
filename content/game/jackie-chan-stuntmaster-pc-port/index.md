@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GABRIELNNK/ReChan"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "fighting"
   genre2: "action"
   series: ""

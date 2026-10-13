@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/file/d/1bvBYmbFtw1q-0lG1tKivm3c610-pCS4P/view"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Donkey Kong"

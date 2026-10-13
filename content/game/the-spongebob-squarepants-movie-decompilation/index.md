@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://decomp.dev/bfbbdecomp/tssm?sort=updated"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Spongebob Squarepants"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/in-cold-blood-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "stealth"
   series: "In Cold Blood"

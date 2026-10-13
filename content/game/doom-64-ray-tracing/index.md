@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jlrouzies-fr/doom64-rt"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

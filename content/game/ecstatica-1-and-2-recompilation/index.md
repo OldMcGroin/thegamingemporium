@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/spacefarergames/EcstaticaRecompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Ecstatica"

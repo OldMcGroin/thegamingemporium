@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

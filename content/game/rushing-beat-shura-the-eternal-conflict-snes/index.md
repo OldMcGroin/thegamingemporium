@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/iiKVVaitQxSE0Lfm2I0Xkw/rushing-beate-shura-the-eternal-conflict-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Rushing Beat Shura"

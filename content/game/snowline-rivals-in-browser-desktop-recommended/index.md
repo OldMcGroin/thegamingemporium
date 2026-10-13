@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://snowline.freesoul.games/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: "sports"
   series: "Snowline Rivals"

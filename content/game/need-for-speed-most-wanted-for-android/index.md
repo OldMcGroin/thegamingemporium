@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/codepdbh/nfsmw-android"
   category: "android-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need for Speed"

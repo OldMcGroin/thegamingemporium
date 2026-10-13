@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/sonicmaniaplusports/892889"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Baywilly/Metal-Gear-Solid-VR-Standalone"
   category: "vr-ports"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

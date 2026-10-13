@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rejzor.wordpress.com/need-for-speed-3-nextgen/"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LLONSIT/Wave-Race-64"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Wave Race"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/3283/"
   category: "english-translation-patches"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Shin Megami Tensei"

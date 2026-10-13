@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://aeongenesis.net/projects/paranoiascape"
   category: "english-translation-patches"
+  hidden: false
   genre1: "first-person-pinball"
   genre2: ""
   series: "Screaming Mad George's Paranoiascape"

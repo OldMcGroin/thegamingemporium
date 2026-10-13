@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wootbeer/gotandroid/"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "God of Thunder"

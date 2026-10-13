@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamdeckhq.com/tips-and-guides/how-to-install-marvel-vs-capcom-infinite-beyond-mod-on-steam-deck/"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Marvel"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/darksouls2/mods/1498"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Dark Souls"

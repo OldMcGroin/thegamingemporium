@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.openra.net/download/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Command & Conquer"

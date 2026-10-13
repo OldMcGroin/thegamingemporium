@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

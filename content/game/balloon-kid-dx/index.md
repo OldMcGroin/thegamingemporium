@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/2573/"
   category: "rom-hacks"
+  hidden: true
   genre1: "platformer"
   genre2: "action"
   series: "Balloon Kid"

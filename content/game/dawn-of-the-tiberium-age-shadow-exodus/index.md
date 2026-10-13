@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/the-dawn-of-the-tiberium-age/news/dta-shadow-exodus-released"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Command & Conquer"

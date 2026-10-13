@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hl2.slqnt.dev/"
   category: "browser-based"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

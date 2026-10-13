@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/toukiden-kiwami-english-patched-v2/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Toukiden Kiwami"

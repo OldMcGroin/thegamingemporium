@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.champman2627.co.uk/play"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: "sports"
   series: "Championship Manager"

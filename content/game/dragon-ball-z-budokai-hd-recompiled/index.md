@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/WistfulHopes/DBZ1"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

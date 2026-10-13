@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wiidesk.github.io/WiiDesk/"
   category: "utility"
+  hidden: true
   genre1: "utility"
   genre2: ""
   series: ""

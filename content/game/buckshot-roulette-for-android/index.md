@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/officialmelon/Buckshot-Roulette-Mobile"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Buckshot Roulette!"

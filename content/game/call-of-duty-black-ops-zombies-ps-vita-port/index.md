@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1410"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "Call of Duty"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GTTeancum/OpenSpideyPS1"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "beat-em-up"
   genre2: "action"
   series: "Spiderman"

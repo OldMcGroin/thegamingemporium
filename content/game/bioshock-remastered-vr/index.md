@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mohamad-balouza/bioshock-vr"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "action"
   series: "BioShock"

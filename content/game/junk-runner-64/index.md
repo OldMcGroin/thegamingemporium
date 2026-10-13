@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/lambertjamesd/n64brew2025"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Junk Runner 64"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openpete.com/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "adventure"
   series: "Spyro the Dragon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/bigmak94/AstroQuest"
   category: "vr-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Astro Bot"

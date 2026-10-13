@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Beavis_and_Butt-Head_Do_Hollywood_(Nov_10,_1998_prototype)"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Beavis and Butt-Head"

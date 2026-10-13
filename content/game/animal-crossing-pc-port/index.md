@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/flyngmt/ACGC-PC-Port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

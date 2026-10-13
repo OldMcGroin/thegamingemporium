@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/duke-nukem-time-to-kill-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Duke Nukem"

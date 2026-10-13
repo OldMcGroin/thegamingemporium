@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://heavyironmodding.org/wiki/Battle_for_Bikini_Bottom_DELUXE"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DanZC/suiCune"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "creature-collector"
   genre2: "rpg"
   series: "Pokemon"

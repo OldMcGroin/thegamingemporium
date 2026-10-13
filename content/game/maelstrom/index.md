@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/libsdl-org/Maelstrom?tab=readme-ov-file"
   category: "open-source"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: ""

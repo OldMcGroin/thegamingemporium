@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wiki.hard-light.net/index.php/Manually_Installing_FreeSpace_2_Open"
   category: "open-source"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: ""
   series: "Freespace"

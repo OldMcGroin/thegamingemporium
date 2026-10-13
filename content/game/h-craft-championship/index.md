@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://www.irrgheist.com/games.htm"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: ""

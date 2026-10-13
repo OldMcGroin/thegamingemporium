@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pcvrcentral.com/mods/hollow-knight-silksong-sterallax6dof"
   category: "vr-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Hollow Knight"

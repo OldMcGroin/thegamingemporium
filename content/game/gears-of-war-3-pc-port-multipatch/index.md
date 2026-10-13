@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/gearsofwar3/mods/27?tab=files"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "third-person-shootet"
   genre2: ""
   series: "Gears Of War"

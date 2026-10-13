@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kylofon/acesofthepacific-enhanced"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "flight-simulator"
   genre2: "action"
   series: "Aces of the Pacific"

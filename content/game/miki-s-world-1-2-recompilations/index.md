@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/yanm1103/mikisworld"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "MMiki's World"

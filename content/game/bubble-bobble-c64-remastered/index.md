@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://daves-retro-forge.itch.io/bubble-bobble-c64-remastered"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Bubble Bobble"

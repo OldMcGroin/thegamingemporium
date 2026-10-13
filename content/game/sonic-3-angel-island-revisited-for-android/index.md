@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/Sonic3air/849542"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

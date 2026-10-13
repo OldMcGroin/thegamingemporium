@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/MFDW2/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "The Man From The Window"

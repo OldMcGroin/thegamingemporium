@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonicfangameshq.com/forums/showcase/project-reignition-sage-2025-demo.2540/#itemDownloads"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

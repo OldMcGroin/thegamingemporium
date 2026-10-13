@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://unsgv2.com/wiki/"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Naruto"

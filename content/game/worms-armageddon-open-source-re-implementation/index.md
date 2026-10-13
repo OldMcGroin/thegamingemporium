@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/paavohuhtala/OpenWA"
   category: "in-the-works"
+  hidden: true
   genre1: "action"
   genre2: "strategy"
   series: "Worms"

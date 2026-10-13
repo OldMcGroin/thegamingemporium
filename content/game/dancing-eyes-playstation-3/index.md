@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Dancing_Eyes_(Mar_10,_2011_Prototype)"
   category: "preserved-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Dancing Eyes"

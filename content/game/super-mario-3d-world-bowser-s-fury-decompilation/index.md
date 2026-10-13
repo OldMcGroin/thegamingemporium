@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/3DWCommunity/3dcomp"
   category: "in-the-works"
+  hidden: true
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

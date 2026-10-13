@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jessicanataliagta/PSPRecomp/tree/main/profiles/vcs"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

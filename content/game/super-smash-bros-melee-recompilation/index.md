@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Hero88go/melee-unlocked"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

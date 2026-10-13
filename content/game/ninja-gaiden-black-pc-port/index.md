@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/fVDmEi7dARo?si=N6ol-vG_N7istQ26"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Ninja Gaiden"

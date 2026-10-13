@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/3376480/Delivery__Beyond/"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Delivery & Beyond"

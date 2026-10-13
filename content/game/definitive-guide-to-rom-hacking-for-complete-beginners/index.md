@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/the-definitive-guide-to-rom-hacking-for-complete-beginners/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

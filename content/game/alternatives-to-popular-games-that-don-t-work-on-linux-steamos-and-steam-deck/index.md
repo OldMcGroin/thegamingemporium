@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamingonlinux.com/guides/view/alternatives-to-popular-games-that-dont-work-on-linux-steam-deck-and-steamos/"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

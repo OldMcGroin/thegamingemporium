@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/bpac/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: "action"
   series: "Brotato"

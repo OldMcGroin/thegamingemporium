@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://spring1944.net/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Spring: 1944"

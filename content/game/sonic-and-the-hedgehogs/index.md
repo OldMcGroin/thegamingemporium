@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://evilbritishguy.itch.io/sonic-and-the-hedgehogs"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

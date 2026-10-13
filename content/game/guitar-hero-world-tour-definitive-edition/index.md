@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ghwt.de/"
   category: "mods"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Guitar Hero"

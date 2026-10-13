@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/azure-dreams-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "roguelike"
   series: "Azure Dreams"

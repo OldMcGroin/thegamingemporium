@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://depmify.github.io/Resident-Evil-SHATTERED/"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

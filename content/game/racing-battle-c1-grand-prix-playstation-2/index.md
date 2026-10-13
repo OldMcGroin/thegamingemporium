@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/ps2-iso/racing-battle-c1-grand-prix-japan/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Racing Battle"

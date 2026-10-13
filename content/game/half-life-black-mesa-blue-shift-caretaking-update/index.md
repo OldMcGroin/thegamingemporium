@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/black-mesa-blue-shift-remake/news/chapters-1-5-caretaking-update-release"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

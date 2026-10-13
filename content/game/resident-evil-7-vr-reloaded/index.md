@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevil7/mods/309?tab=description"
   category: "vr-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

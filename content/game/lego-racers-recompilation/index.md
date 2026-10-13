@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://navigatorsharp.itch.io/steponit"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Lego"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: ""

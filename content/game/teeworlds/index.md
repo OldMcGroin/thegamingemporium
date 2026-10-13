@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.teeworlds.com/"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Teeworlds"

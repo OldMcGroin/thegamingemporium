@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sourceforge.net/projects/allacrost/"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

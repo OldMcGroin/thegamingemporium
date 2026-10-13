@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/udarmolota/RimDroid"
   category: "android-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "colony-simulator"
   series: "RimWorld"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SpookyIluha/driving-Strikers-64"
   category: "console-ports"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "driving Strikers"

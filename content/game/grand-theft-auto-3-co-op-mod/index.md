@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://coopiii.com/"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

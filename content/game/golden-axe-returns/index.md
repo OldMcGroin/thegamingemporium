@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://golden-axe-returns.en.uptodown.com/windows#google_vignette"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Golden Axe"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/CactusVRStudios/alpinefactionVR"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Red Faction"

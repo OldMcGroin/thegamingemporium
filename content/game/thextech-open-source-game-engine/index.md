@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wohlsoft.ru/projects/TheXTech/"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

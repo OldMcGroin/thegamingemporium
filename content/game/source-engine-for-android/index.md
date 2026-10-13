@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://arumoon.github.io/source-engine-download/"
   category: "android-ports"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

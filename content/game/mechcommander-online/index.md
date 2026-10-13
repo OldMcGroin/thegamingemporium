@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mechcommanderonline.com/"
   category: "fan-games"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Mechcommander"

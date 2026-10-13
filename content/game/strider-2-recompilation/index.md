@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/strider973/STRIDER-2-Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Strider"

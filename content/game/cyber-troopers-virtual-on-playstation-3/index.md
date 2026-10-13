@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FeiYenKn/Virtual-On-PS3-English-Translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "mech fighting"
   genre2: ""
   series: "Cyber Troopers Virtual-On"

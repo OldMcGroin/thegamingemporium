@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/princeofpersiathesandsoftime/mods/14?tab=posts"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Prince Of Persia"

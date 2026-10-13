@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://overboundn.itch.io/sonic-time-twisted"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

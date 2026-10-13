@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/zelda-ii-the-adventure-of-link-snes_202510"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

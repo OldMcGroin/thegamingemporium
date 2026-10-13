@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.youtube.com/watch?v=ucsGdmTjS2M"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Monster Hunter"

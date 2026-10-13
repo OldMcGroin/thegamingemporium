@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/yu-gi-oh-arc-v-tag-force-special-jpn-2/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "card-collector"
   genre2: ""
   series: "Yu-Gi-Oh!"

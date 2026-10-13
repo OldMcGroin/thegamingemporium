@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/novapowers0/BloodyRoar2Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Bloody Roar"

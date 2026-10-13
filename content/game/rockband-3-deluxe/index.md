@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rb3dx.milohax.org/"
   category: "mods"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Rockband"

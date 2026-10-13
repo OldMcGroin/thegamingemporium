@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rayfowler.itch.io/remnants-of-the-precursors"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Remnants of the Precursors"

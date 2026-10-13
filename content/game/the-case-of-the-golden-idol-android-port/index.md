@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/drive/u/0/folders/1T33HnJ7Q6oKTEoOngEO7HaYKvC9O2Vdl"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "The Case of the Golden Idol"

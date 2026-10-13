@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamingonlinux.com/guides/view/how-to-setup-openmw-for-modern-morrowind-on-linux-steamos-and-steam-deck/"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

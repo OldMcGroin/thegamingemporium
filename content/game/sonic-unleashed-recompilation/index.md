@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/hedge-dev/UnleashedRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

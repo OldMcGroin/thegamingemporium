@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/workshop/filedetails/?id=1201382956"
   category: "mods"
+  hidden: false
   genre1: "colony-simulator"
   genre2: "story-generator"
   series: "Rimworld"

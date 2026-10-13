@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/igawa6/ctr-native-android"
   category: "android-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crash Bandicoot"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://master-linkuei.itch.io/hayatos-journey"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Hayato's Journey"

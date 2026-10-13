@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HollywoodAkeem/SVR07-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "WWE"

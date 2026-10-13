@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackpatcher.com/"
   category: "rom-hacks"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

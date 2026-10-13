@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevil5goldedition/mods/737?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "survival-horror"
   series: "Resident Evil"

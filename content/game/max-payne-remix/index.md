@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/max-payne-remix"
   category: "mods"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Max Payne"

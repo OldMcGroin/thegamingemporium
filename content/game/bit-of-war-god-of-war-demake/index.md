@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://holmadegames.itch.io/bit-of-war?ref=retrododo.com"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "God of War"

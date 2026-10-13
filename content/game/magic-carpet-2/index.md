@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/thobbsinteractive/magic-carpet-2-hd"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Magic Carpet"

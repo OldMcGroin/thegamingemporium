@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/aabrole/HuntersRecomp"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: "first-person-shooter"
   series: "Metroid"

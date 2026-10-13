@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://geon3.itch.io/buddies"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Bubble Bobble"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://terasology.org/"
   category: "open-source"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "Terasology"

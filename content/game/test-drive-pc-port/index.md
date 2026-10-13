@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kylofon/testdrive-enhanced"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Test Drive"

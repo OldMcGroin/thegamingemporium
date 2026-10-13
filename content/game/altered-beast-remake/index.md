@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/alteredbeastremake/954814"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Altered Beast"

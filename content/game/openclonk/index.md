@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.openclonk.org/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "sandbox"
   series: "OpenClonk"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ja2-stracciatella.github.io/download/"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Jagged Alliance"

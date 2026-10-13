@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=376774460"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

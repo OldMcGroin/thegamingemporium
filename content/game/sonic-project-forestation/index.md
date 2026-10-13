@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/forestation/918619"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

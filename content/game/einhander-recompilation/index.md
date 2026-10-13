@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/strider973/Einhander-Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Einhander"

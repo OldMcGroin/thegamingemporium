@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ezioeagle.itch.io/lightners-live-plus"
   category: "browser-based"
+  hidden: false
   genre1: "rhythm-based"
   genre2: "adventure"
   series: "Deltarune"

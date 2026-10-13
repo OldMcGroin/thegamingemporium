@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/elprogramadorloco-arch/jim2-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Earthworm Jim"

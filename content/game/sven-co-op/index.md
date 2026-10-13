@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/225840/Sven_Coop/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

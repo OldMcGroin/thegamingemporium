@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Tokatta007/Starcraft-64-Co-Op-Mod"
   category: "rom-hacks"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "StarCraft"

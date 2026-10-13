@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/News/Animaniacs_-_Hollywood_Hypnotics"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Animaniacs"

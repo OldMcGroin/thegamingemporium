@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pointblank.id/event/landing"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Point Blank"

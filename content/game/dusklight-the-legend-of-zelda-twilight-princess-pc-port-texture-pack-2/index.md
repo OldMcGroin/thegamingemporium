@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.henrikomagnifico.com/zelda-twilight-princess-4k"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

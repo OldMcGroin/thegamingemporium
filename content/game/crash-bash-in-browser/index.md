@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://crashbash.app/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Crash Bandicoot"

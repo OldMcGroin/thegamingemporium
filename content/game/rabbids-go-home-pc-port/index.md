@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Eggscantfly/Rabbids-Go-Home-WiiConverted"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhaven.com/play.html?system=gba&rom=The%20Legend%20of%20Zelda%20The%20Minish%20Cap.gba"
   category: "browser-based"
+  hidden: true
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

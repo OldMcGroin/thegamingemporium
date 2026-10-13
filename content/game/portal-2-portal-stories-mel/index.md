@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/317400/Portal_Stories_Mel/"
   category: "mods"
+  hidden: false
   genre1: "puzzle"
   genre2: "platformer"
   series: "Portal"

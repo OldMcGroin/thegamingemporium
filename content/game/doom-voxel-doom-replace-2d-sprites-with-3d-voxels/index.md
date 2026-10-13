@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/doom-voxel-project/addons/voxel-doom"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/astola-studio/ZumaDeluxeAndroid"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Zuma"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Zumbo06/Crash2Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Crash Bandicoot"

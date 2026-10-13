@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://driver-syndicate.com/"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "driving"
   series: "Driver"

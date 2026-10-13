@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://viewizard.com/"
   category: "open-source"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: ""

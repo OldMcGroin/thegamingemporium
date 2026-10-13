@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kandowontu.itch.io/famidash"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "rhythm-based"
   series: "Famidash"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/radiophobia"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "S.T.A.L.K.E.R."

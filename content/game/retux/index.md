@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://retux-game.github.io/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FelipePrado0/gow3_pc"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "God of War"

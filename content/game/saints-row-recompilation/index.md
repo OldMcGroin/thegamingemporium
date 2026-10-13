@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/whompay/SaintsReborn"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Saints Row"

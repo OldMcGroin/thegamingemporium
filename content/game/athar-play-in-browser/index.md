@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://athar-beta.athar-play.workers.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: ""

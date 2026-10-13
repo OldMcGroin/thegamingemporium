@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://frostfalcon.github.io/NCB2/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

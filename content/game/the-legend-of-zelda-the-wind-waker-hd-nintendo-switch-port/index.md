@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NotARanger97/WindWakerHDNX/releases/tag/nx-v0.1.0"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

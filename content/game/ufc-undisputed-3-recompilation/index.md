@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/paulogaab21/ufc3recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/whompay/FNCReborn"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: "sports"
   series: "Fight Night"

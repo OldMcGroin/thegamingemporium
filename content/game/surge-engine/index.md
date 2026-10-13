@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://alemart.itch.io/opensurge"
   category: "utility"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Surge Engine"

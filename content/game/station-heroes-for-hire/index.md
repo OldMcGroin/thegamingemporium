@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ashgb.itch.io/station-heroes-for-hire"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: "rpg"
   series: "Station - Heroes for Hire"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/portingpete/The-Darkness-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "The Darkness"

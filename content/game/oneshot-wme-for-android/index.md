@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://t.me/frightGPorts/36"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "Oneshot"

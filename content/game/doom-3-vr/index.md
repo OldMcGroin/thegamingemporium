@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Team-Beef-Studios/Doom3Quest"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

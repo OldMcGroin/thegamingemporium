@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RichieUltimate/ultimate-trial/tree/main"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

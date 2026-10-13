@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moodler.pl/download/turrican-128kb/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Turrican"

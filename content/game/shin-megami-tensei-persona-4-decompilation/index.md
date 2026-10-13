@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Raikaru/Persona4-Decompilation"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Shin Megami Tensei"

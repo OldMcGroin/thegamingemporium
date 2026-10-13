@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://feuniverse.us/t/fe8-order-66-a-fire-emblem-hack-v1-0-complete/33929"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Fire Emblem"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://lethalmon-fangame.com/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

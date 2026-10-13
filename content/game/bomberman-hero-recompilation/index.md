@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RevoSucks/BMHeroRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Bomberman"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/1079/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "La Mulana"

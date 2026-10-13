@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/lfarroco/ogre-battle-64-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Ogre Battle"

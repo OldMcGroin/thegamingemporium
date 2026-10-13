@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/color-adinosaur-snes"
   category: "console-ports"
+  hidden: false
   genre1: "educational"
   genre2: ""
   series: "Color A Dinosaur"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=3807334881"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: "rpg"
   series: "Project Zomboid"

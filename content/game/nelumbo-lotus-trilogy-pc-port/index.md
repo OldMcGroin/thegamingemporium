@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://almost-there-games.itch.io/nelumbo"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Lotus"

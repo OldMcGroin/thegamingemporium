@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://zhamul.itch.io/friends-adrift-ps1"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Friends Adrift"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/break-core/doshin-gc"
   category: "in-the-works"
+  hidden: false
   genre1: "god-simulator"
   genre2: "life-simulator"
   series: "Doshin the Giant"

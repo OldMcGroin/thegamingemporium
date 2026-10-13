@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jnmartin84/sf64-dc"
   category: "console-ports"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

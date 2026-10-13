@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://halo-zero.en.download.it/#google_vignette"
   category: "fan-games"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: "platformer"
   series: "Halo"

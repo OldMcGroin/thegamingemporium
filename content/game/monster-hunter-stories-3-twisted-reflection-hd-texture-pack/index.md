@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/monsterhunterstories3twistedreflection/mods/131?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Monster Hunter"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/b4pVjv1u8Hk?si=8rvPGGjV_NCF1J44"
   category: "mods"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Paprium"

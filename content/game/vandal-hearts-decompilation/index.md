@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/shao113/vh"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Vandal Hearts"

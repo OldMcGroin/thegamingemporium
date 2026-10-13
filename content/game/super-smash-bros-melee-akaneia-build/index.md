@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/akaneia/akaneia-build"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Smash Brothers"

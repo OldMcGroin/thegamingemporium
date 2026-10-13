@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Voicedrew11/verdite2"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "King's Field"

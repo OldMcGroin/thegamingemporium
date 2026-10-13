@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/dvilelaf/opendana"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Solomon's Key"

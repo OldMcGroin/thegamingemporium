@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/XN_BmXoyS2qWekII82Q87Q/patlabor-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "strategy"
   genre2: "visual-novel"
   series: "Patlabor"

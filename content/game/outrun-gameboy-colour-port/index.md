@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rocketshippark.itch.io/what-if-outrun"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Outrun"

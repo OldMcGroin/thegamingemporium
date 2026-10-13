@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.belltreeforums.com/threads/animal-crossing-deluxe-mod.638259/"
   category: "mods"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

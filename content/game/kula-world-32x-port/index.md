@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://old-pirate.itch.io/kula-world-32x"
   category: "console-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Kula World"

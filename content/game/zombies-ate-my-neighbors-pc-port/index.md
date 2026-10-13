@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Zombies Ate My Neighbors"

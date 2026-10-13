@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.marcrobledo.com/game-boy/ninja-gaiden-shadow-dx/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Ninja Gaiden"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://slippi.gg/"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Super Smash Brothers"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/5623/"
   category: "english-translation-patches"
+  hidden: true
   genre1: "action"
   genre2: "adventure"
   series: "Vampire Panic"

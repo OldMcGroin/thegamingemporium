@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/scheeseman486/mightyweenie"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Mutant League Hockey"

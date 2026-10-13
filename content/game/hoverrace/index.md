@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HoverRace/HoverRace?tab=readme-ov-file"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: ""

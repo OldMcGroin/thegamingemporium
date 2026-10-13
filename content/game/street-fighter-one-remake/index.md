@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/StreetFighterone/690503"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Street Fighter"

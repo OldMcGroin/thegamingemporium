@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/scp/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "SCP: Containment Breach"

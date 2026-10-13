@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/andwn/cave-story-md"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: ""

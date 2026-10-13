@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://the-ventureweaver.itch.io/tlote4111"
   category: "open-source"
+  hidden: false
   genre1: "text-adventure"
   genre2: ""
   series: "The Labyrinth Of Time's Edge"

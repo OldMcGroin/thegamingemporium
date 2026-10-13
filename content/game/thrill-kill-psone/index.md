@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romsfun.com/download/thrill-kill-25889"
   category: "preserved-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Thrill Kill"

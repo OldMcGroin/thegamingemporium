@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/romhacking102-fontsprites/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

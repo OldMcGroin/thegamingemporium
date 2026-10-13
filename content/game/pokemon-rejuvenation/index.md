@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rebornevo.com/rejuvenation/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

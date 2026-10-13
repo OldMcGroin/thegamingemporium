@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/finalfantasy7remake/mods/764?tab=files"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.vega-strike.org/"
   category: "open-source"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: "trading-simulator"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://phoboslab.org/wipegame/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Wipeout"

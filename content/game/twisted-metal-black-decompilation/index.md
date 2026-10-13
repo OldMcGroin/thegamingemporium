@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/abelbriggs1/tmb_decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "vehicular-combat"
   genre2: ""
   series: "Twisted Metal"

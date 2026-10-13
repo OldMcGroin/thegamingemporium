@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/camthesaxman/smb-decomp/"
   category: "in-the-works"
+  hidden: false
   genre1: "puzzle"
   genre2: "platformer"
   series: "Super Monkey Ball"

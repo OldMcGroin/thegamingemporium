@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/games/21612"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

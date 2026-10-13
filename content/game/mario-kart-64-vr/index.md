@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/MarioKart64-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

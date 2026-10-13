@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/T3CHNOLOG1C/SacredFire"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crash Bandicoot"

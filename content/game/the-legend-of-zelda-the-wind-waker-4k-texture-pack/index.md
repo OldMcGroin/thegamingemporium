@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.henrikomagnifico.com/wind-waker-4k"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://boss1995.itch.io/infestedisland"
   category: "fan-games"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Infested Island"

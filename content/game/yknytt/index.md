@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youkaicountry.itch.io/yknytt"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "YKnytt"

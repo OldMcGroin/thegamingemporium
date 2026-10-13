@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/digi-adventure-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Digimon"

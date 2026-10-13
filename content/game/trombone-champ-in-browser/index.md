@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/tchamp/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "party-game"
   genre2: "rhythm-based"
   series: "Trombone Champ"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play.google.com/store/apps/details?id=com.googlecode.opentyrian"
   category: "android-ports"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Tyrian"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jplakon/CallOfDuty4_VR/releases"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "action"
   series: "Call of Duty"

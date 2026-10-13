@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openciv3.org/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Civilisation"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://speedymcfly.itch.io/the-super-mario-bros-movie-video-game"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

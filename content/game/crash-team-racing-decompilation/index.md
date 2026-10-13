@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mkst/ctr"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: "action"
   series: "Crash Bandicoot"

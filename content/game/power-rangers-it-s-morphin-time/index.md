@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://popherogames.com/"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Power Rangers"

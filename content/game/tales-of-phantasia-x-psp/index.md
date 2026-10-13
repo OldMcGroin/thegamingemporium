@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/lifebottle/Tales-of-Phantasia-X/releases/tag/v1.0"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Tales of Phantasia"

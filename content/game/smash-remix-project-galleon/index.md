@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.youtube.com/watch?v=LIvRGQ0mZB8"
   category: "rom-hacks"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

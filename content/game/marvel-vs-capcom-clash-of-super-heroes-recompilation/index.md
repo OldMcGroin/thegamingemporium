@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/Marvel-vs.-Capcom-Clash-of-Super-Heroes-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Marvel vs. Capcom"

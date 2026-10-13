@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://messenger.abeto.co/"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Heromachine/Tenchu-SA-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Tenchu"

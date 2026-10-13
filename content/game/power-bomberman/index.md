@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.bombermanboard.com/viewtopic.php?t=1925"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "puzzle"
   series: "Bomberman"

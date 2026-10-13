@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://ox100.org/play-opeuptv/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

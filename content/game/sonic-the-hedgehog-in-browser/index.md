@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://vinmannie.github.io/Sonic-1-WASM/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

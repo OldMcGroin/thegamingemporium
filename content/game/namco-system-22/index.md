@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/spacestate1/namco22-decompile"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

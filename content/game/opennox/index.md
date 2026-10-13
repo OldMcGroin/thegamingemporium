@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://opennox.github.io/docs/index.html"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Nox"

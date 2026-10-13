@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rephial.org/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "Angband"

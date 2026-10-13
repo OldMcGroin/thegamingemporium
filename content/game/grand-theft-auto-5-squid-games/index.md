@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gta5-mods.com/scripts/squid-game-mod"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

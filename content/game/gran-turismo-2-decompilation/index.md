@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ginryuoku/gt2-reversing"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Gran Turismo"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Buku313/Skate3-Mobile"
   category: "android-ports"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Skate"

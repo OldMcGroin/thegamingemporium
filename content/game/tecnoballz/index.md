@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://linux.tlk.fr/games/TecnoballZ/"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: "action"
   series: "TecnoballZ"

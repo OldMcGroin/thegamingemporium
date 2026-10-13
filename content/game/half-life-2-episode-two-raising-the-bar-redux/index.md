@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/half-life-2-raising-the-bar-redux"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

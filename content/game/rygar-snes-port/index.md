@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/rygar-v-1.0"
   category: "console-ports"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Rygar"

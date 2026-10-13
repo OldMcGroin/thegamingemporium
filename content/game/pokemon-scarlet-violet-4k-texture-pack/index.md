@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/pokemonscarletandviolet/mods/52?tab=files"
   category: "texture-packs"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

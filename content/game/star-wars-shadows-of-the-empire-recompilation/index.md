@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GTTeancum/SotE-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "action"
   series: "Star Wars"

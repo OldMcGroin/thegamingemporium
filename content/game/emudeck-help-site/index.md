@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://manual.emudeck.com/"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

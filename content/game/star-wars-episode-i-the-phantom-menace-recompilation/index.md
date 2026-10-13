@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/star-wars-episode-i-the-phantom-menace-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Star Wars"

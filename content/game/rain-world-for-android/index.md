@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/rainworldmobile"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Rain World"

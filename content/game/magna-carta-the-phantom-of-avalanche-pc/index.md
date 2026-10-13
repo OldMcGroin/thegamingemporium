@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/magna-carta-the-phantom-of-avalanche-english-patched-windows/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Magna Carta"

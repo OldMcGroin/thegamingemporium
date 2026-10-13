@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/sHfHRZI6QEKlylE337Gnng/the-tairyou-jigoku-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "The Tairyou Jigoku"

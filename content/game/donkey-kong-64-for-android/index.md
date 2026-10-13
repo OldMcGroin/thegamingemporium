@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/deivid22srk/dk64-recomp-android"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Donkey Kong"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/mina-the-hollower-134883/"
   category: "android-ports"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Mina The Hollower"

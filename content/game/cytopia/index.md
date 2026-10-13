@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cytopia.itch.io/cytopia"
   category: "open-source"
+  hidden: true
   genre1: "city-builder"
   genre2: ""
   series: "Cytopia"

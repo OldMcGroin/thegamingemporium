@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/udarmolota/zomdroid/releases"
   category: "android-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: "strategy"
   series: "Project Zomboid"

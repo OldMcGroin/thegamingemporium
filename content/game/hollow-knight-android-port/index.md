@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/hollow-knight-android"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: "platformer"
   series: "Hollow Knight"

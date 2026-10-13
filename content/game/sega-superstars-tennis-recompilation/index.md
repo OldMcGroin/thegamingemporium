@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/m1ndcrap/Sega-Superstars-Tennis-ReMatch"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dumping.guide/start"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

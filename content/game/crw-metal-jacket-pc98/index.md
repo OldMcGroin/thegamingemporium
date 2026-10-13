@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/pc-98/crw-metal-jacket-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "CRW: Metal Jacket"

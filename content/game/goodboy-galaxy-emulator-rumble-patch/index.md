@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://goodboygalaxy.com/wiki/doku.php?id=rumble"
   category: "rom-hacks"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

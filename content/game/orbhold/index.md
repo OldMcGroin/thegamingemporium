@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://agentratelimit.github.io/Orbhold/"
   category: "open-source"
+  hidden: false
   genre1: "survivorslike"
   genre2: ""
   series: "Orbhold"

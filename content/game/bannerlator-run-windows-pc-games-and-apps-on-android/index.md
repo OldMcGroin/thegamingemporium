@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/The412Banner/Bannerlator"
   category: "android-ports"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

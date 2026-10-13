@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mods.sm64coopdx.com/mods/coopware.993/"
   category: "fan-games"
+  hidden: false
   genre1: "minigames"
   genre2: ""
   series: "Super Mario"

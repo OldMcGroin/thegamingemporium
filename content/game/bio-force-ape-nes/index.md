@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tcrf.net/Bio_Force_Ape"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: "beat-em-up"
   series: "Bio Force Ape"

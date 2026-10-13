@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/sonicspinball/597711"
   category: "android-ports"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Sonic the Hedgehog"

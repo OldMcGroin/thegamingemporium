@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mmzret/rmz3"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/RatchetAndClank/s/12ydQ6unl0"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Ratchet & Clank"

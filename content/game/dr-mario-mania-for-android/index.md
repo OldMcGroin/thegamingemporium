@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://toadfangames.itch.io/dr-mario-mania"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://castlevaniamodding.boards.net/thread/1114/castlevania-simons-legacy"
   category: "rom-hacks"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Castlevania"

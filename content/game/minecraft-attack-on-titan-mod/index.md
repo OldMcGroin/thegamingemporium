@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.curseforge.com/minecraft/mc-mods/dannys-aot"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Minecraft"

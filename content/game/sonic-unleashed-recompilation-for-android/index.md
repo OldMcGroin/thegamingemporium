@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SansNope/UnleashedRecomp-Android"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wastedgames.codeberg.page/"
   category: "open-source"
+  hidden: false
   genre1: "destruction-derby"
   genre2: ""
   series: "Wasted!"

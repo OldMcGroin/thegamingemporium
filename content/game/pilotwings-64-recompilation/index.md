@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/danielgomesvieira2000/pilotwings-64-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "flight-simulator"
   genre2: "sports"
   series: "Pilotwings"

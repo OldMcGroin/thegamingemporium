@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://old-pirate.itch.io/heart-of-the-alien-n64"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Another World"

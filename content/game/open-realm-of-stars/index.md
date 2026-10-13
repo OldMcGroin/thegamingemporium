@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://reemax.itch.io/open-realm-of-stars"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Open Realm of Stars"

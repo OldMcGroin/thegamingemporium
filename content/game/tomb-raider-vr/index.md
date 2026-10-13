@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Team-Beef-Studios/BeefRaiderXR"
   category: "vr-ports"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Tomb Raider"

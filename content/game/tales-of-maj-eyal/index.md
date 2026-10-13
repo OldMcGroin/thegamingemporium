@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://te4.org/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "rpg"
   series: "Tales of Maj'Eyal"

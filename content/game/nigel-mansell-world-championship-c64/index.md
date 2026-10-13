@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/gtw64/nigel-mansell-world-championship/#tabs-downloads"
   category: "preserved-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Nigel Mansell World Championship"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

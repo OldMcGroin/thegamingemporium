@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://collectionchamber.blogspot.com/2015/03/discworld-noir.html?m=1"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Discworld"

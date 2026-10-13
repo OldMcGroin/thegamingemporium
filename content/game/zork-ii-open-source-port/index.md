@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/historicalsource/zork2"
   category: "open-source"
+  hidden: false
   genre1: "text-adventure"
   genre2: ""
   series: "Zork"

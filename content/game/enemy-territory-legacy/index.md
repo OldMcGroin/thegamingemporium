@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.etlegacy.com/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Enemy Territory: Legacy"

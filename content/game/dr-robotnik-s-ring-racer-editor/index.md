@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.kartkrew.org/news/2024-05-21_dr-robotniks-ring-racers-version-23.html"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sonic The Hedgehog"

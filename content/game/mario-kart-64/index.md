@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://evilgames.eu/texture-packs/mario-kart-64-hd.htm"
   category: "texture-packs"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

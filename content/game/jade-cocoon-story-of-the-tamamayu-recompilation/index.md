@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/jade-cocoon-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Jade Cocoon"

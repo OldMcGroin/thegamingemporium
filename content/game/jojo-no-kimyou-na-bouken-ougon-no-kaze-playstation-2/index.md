@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/3956/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "JoJo no Kimyou na Bouken: Ougon no Kaze"

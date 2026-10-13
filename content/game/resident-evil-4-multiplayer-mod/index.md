@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevil42023/mods/6539?tab=description"
   category: "mods"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "survival-horror"
   series: "Resident Evil"

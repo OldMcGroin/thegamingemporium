@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wofsauge/External-Item-Descriptions/wiki/How-to-install-the-mod"
   category: "mods"
+  hidden: false
   genre1: "roguelike"
   genre2: "action"
   series: "The Binding of Isaac"

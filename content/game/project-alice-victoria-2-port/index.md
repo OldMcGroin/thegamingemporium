@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/schombert/Project-Alice"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "political-simulator"
   series: "Victoria"

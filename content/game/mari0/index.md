@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://stabyourself.net/mari0/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://solaris.games/#/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

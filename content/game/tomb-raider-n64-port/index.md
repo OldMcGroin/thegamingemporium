@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/SLqWCiGk1rs?si=2RgrAJ9aWYtcT2M-"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Tomb Raider"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HarbourMasters/Ghostship"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "Platformer"
   genre2: ""
   series: "Super Mario"

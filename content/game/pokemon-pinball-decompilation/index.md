@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pret/pokepinball"
   category: "in-the-works"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Pokemon"

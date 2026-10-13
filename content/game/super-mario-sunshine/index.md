@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.henrikomagnifico.com/super-mario-sunshine-4k"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

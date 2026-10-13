@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://akouzoukos.com/apotris"
   category: "fan-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Apotris"

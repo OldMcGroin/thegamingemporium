@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FluffyQuack/rexglue-MetalSlugXX"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "shoot-em-up"
   series: "Metal Slug"

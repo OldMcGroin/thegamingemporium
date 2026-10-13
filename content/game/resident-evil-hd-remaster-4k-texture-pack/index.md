@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevilbiohazardhdremaster/mods/169?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Resident Evil"

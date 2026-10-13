@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wanszai/Virtua-Racing---XBOXONE-Windows"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Virtua Racing"

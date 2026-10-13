@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/amit221/compi"
   category: "open-source"
+  hidden: false
   genre1: "creature-collector"
   genre2: ""
   series: ""

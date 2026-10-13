@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/XJ5SNtjQSvK5-CLf2YUFeg/lupin-iii-the-sage-of-pyramid-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Lupin"

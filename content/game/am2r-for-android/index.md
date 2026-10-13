@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/download/am-2-rlauncher-2.2.0-win-android/"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Metroid"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Y0oshi/lain-psx-decompiled/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Serial Experiments Lain"

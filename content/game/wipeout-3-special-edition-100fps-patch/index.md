@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://codeberg.org/hueponik/wip3out-patches"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Wipeout"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Drascula"

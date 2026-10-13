@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/999sian/melee-pc/releases/tag/v0.1.3-beta"
   category: "android-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

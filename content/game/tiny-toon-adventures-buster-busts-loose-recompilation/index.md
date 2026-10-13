@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Darhkfox/BusterBustsLoose"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Tiny Toon Adventures"

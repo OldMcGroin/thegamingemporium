@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OmegaUwUr/SilksongAndroid-Achievements"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Hollow Knight"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://smbarena.com/search?p=0"
   category: "rom-hacks"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://will319.itch.io/super-luigi-rpg-star-powered"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

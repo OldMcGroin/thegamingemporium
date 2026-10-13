@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/Supermariomakerapk/704972"
   category: "android-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "platformer"
   series: "Super Mario"

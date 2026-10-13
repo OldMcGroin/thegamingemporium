@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/frickbears3/930477"
   category: "fan-games"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: ""

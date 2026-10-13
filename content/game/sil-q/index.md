@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sil-quirk/sil-q"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Sil-Q"

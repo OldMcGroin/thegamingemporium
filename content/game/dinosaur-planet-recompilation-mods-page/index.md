@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://thunderstore.io/c/dinosaur-planet-recompiled/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Dinosaur Planet"

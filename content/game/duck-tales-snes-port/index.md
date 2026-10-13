@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/duck-tales-snes_20250430"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Duck Tales"

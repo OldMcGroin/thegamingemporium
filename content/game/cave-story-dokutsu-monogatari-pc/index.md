@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/cave-story-dokutsu-monogatari-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Cave Story"

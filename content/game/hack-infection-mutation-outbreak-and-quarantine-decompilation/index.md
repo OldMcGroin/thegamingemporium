@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Toyz/piney_apples#use-of-ai"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: ".hack"

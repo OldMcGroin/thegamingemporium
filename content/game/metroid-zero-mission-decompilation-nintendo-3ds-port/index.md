@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/tinaut1986/mzm"
   category: "console-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Metroid"

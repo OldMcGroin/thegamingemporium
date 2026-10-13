@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast"
   category: "english-translation-patches"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: ""

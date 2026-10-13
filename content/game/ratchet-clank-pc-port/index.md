@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://re-rac.github.io/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Ratchet & Clank"

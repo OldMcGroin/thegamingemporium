@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dk-browser.tiiny.site/?utm_source=chatgpt.com"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Dungeon Keeper"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NJH-1001/Wipeout2K97XL"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Wipeout"

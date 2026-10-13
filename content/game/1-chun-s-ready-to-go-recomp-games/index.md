@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/@chun_s_ready-to-go_recomp_games"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

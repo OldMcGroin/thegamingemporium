@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.doomworld.com/forum/topic/119202-doom-32x-resurrection/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

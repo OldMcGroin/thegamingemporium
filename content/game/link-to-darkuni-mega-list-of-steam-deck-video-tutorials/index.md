@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/steamdeckhq/s/7Xc1vsIx1O"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

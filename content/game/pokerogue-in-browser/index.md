@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pokerogue.net/"
   category: "browser-based"
+  hidden: false
   genre1: "creature-collector"
   genre2: "roguelike"
   series: "Pokemon"

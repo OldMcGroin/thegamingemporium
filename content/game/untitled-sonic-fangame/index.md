@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://liquafusion.itch.io/untitled-sonic-fangame"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

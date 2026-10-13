@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://btco.itch.io/shadow-over-the-twelve-lands"
   category: "open-source"
+  hidden: false
   genre1: "dungeon-crawler"
   genre2: ""
   series: ""

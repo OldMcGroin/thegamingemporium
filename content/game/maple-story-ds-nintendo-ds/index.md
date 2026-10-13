@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gbatemp.net/threads/maplestory-ds-2025-full-english-translation-complete.677209/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Maple Story"

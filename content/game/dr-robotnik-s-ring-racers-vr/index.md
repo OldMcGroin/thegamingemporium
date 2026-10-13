@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/RingRacers-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "racing"
   genre2: ""
   series: "Sonic the Hedgehog"

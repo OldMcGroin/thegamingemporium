@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/tobspr-games/shapez.io"
   category: "open-source"
+  hidden: false
   genre1: "base-building"
   genre2: "automation"
   series: ""

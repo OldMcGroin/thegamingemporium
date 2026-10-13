@@ -25,6 +25,9 @@
         <div class="game-page__notes">{{ .Content }}</div>
       {{ end }}
 
+      {{ if and (eq .Params.category "decompilations-recompilations") (not .Params.hidden) }}
+      <div class="tge-rating" data-rating-project="{{ .File.ContentBaseName }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+      {{ end }}
       <div class="game-page__actions">
         {{ with .Params.external_link }}
           <a class="btn btn--primary" href="{{ . }}" target="_blank" rel="noopener">Open external link</a>

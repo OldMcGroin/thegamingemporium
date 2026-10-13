@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Super Mario"

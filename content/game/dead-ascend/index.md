@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://blackgrain.itch.io/dead-ascend"
   category: "open-source"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Dead Ascend"

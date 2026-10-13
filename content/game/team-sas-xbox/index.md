@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2024/12/team-sas/"
   category: "preserved-games"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Team SAS"

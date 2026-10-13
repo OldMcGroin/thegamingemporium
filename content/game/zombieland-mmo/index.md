@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/andreamonaco/zombieland"
   category: "in-the-works"
+  hidden: false
   genre1: "survival-mmo"
   genre2: ""
   series: "Zombieland"

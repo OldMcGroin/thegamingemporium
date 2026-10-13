@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/crusader-kings-2-a-game-of-thrones-ck2agot"
   category: "mods"
+  hidden: false
   genre1: "dynasty-simulator"
   genre2: "strategy"
   series: "Crusader Kings"

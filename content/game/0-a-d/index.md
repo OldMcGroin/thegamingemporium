@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play0ad.com/"
   category: "open-source"
+  hidden: false
   genre1: "real-time-strategy"
   genre2: ""
   series: "0 A.D."

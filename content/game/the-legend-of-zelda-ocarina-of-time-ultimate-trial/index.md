@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/8640/"
   category: "rom-hacks"
+  hidden: true
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

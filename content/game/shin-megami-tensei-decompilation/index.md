@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://codeberg.org/Chickenzes/smt-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Shin Megami Tensei"

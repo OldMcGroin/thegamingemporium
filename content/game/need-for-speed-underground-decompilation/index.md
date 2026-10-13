@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/dbalatoni13/nfsug"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

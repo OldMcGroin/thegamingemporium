@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/VetriTheRetri/ssb-decomp-re"
   category: "in-the-works"
+  hidden: true
   genre1: "fighting"
   genre2: ""
   series: "Super Smash Brothers"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ddnet.org/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "racing"
   series: "DDraceNetwork"

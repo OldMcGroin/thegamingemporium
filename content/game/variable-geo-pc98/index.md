@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/xeLw9oQGSluBM5YGZVJnZg"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Variable Geo"

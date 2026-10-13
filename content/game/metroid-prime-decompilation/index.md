@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/PrimeDecomp/prime"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "metroidvania"
   series: "Metroid"

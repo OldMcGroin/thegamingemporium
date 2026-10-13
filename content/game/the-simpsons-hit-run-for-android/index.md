@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android/releases"
   category: "android-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "racing"
   series: "The Simpsons"

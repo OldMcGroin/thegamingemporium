@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://segaxtreme.net/resources/sonic-r-the-r-r-mod.479/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

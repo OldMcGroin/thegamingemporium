@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/prismaticShape/Snap64RecompVR"
   category: "vr-ports"
+  hidden: true
   genre1: "on-rails-shooter"
   genre2: ""
   series: "Pokemon"

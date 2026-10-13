@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/6680/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Puyo Puyo"

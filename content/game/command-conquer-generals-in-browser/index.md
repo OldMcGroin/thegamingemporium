@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://generals.wasm.com.br/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Command & Conquer"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://blendogames.itch.io/gravitybone"
   category: "open-source"
+  hidden: false
   genre1: "walking-simulator"
   genre2: ""
   series: ""

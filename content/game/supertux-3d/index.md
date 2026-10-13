@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://edsmithy.itch.io/supertux-3d"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Tux Games"

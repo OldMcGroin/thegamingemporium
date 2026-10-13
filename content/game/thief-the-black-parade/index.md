@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.thiefguild.com/fanmissions/26275/thief-the-black-parade?campaign_details=t#campaign-details"
   category: "fan-games"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Thief"

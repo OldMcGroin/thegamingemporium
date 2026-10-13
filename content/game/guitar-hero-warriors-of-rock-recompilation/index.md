@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ronniecloud/re-wor"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Guitar Hero"

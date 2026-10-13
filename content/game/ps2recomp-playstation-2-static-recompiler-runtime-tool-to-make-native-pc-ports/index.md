@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ran-j/PS2Recomp"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

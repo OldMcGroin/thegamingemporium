@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rexuiz.itch.io/rexuiz-fps"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Rexuiz"

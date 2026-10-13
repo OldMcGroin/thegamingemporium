@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/05/the-addams-family-pugsleys-scavenger-hunt-nes-prototypes/"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "The Addams Family"

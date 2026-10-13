@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://yairm210.itch.io/unciv"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Civilisation"

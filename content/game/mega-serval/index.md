@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/2009720/Mega_Serval/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Mega Serval"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Pikmin"

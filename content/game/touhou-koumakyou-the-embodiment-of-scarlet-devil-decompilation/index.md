@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GensokyoClub/th06"
   category: "in-the-works"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Touhou"

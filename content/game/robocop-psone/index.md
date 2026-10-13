@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2012/01/exclusive-tech-demos-for-robocop-and-gen-13-on-the-ps-one-available-to-download/"
   category: "preserved-games"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Robocop"

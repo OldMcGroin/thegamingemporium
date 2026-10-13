@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/metal-slug-x-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: "platformer"
   series: "Metal Slug"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/ZrQS-bu1Ttc?si=Yh6uMopWS02YbT4T"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

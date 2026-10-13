@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://arx-libertatis.org/"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Arx Fatalis"

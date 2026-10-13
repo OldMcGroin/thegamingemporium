@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1420"
   category: "console-ports"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Monster Hunter"

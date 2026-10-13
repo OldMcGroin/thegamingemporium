@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/eugene373/COD-BOZ-Partially-Decompiled/releases/tag/v0.3-s3e-tools"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "Call of Duty"

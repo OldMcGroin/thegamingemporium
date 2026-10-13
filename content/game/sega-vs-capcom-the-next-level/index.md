@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://makingthecrossover.fandom.com/wiki/SEGA_vs._Capcom:_The_Next_Level"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Sonic The Hedgehog"

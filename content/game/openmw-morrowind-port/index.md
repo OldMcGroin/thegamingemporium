@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openmw.org/"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Elder Scrolls"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://residentevilmodding.boards.net/thread/20599/resident-evil-mercenaries-3d-project"
   category: "texture-packs"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

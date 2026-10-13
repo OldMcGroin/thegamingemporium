@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MokhaLeee/FireEmblem7J"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Fire Emblem"

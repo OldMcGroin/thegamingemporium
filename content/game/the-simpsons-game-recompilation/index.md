@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/YesterMester/TheSimpsonsGameRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "The Simpsons"

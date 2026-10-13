@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/2859/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Skies of Arcadia"

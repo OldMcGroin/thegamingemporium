@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://midzer.de/wasm/duke3d/"
   category: "browser-based"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Duke Nukem"

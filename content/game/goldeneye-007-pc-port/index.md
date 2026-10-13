@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jkdansereau/goldeneye-pc-port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "007"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/solcloud/Counter-Strike"
   category: "open-source"
+  hidden: false
   genre1: "sports"
   genre2: "action"
   series: "Counter Strike"

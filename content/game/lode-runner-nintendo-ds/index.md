@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/nds-roms/lode-runner-japan/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "puzzle"
   series: "Lode Runner"

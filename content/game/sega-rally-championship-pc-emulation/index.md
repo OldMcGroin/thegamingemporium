@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wanszai/Sega-Rally-Championship-PC-Xbox360-Series-X-/releases/tag/1.0.0"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sega Rally"

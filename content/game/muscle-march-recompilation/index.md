@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/tmcleroy/muscle-march-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Muscle March"

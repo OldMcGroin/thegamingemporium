@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dene.itch.io/moonring"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Moonring"

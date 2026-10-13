@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play.google.com/store/apps/details?id=com.zenstudios.ZenPinballWorld&hl=en_US"
   category: "android-ports"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Pinball FX GO"

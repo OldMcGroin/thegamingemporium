@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fallout-nevada.ru/#/en"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Fallout"

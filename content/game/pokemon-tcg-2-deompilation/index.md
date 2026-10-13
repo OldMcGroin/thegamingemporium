@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pret/poketcg2"
   category: "in-the-works"
+  hidden: false
   genre1: "card-collector"
   genre2: ""
   series: "Pokemon"

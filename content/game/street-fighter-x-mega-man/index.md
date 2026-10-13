@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/402226"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: "platformer"
   series: "Mega Man"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.shadowsofthepast.org/"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "The Lord of the Rings"

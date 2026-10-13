@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/birthdaybash/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "horror"
   genre2: ""
   series: "Baldi's Basics Birthday Bash"

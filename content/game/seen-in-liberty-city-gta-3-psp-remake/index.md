@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://barcode-studia.ru/mods/silc/"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

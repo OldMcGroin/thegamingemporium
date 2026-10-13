@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/raposomiguel50/system-shock-android"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "System Shock"

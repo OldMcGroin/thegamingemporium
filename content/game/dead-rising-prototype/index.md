@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://deadrising2mods.proboards.com/thread/3637"
   category: "preserved-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Dead Rising"

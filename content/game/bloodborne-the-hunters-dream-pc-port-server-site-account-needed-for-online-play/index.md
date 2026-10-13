@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://thehuntersdream.com/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Bloodborne"

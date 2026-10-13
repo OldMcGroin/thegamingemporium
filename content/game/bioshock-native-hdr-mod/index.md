@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/bioshock/mods/94"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Bioshock"

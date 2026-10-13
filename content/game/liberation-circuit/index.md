@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://linleyh.itch.io/liberation-circuit"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

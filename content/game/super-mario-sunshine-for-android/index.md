@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

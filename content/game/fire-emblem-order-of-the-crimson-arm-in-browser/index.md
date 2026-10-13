@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhaven.com/play.html?system=gba&rom=Fire%20Emblem%20Order%20of%20the%20Crimson%20Arm.gba"
   category: "browser-based"
+  hidden: true
   genre1: "rpg"
   genre2: "strategy"
   series: "Fire Emblem"

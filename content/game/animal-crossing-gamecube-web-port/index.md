@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://turtlekiosk.github.io/slider/"
   category: "fan-games"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

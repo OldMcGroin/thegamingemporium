@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://arlagames.itch.io/dracula-hunter"
   category: "preserved-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Dracula Hunter"

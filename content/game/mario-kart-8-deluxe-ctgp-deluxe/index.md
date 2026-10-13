@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.ctgpdx.com/home"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

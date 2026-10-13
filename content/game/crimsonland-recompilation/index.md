@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/banteg/crimson"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "shoot-em-up"
   series: "Crimsonland"

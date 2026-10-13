@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/doldecomp/gnt4"
   category: "in-the-works"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Naruto"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/plinkr/Wild9Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Wild 9"

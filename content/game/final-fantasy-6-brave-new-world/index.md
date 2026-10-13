@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://ngplus.net/index.php?/forums/topic/1262-brave-new-world-21-is-now-available/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

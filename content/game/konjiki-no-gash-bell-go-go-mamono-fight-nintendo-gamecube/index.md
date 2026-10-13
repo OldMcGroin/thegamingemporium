@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/6640/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Konjiki no Gash Bell!! Go! Go! Mamono Fight!!"

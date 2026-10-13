@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/oneup03/BanjoRecomp3D/releases"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

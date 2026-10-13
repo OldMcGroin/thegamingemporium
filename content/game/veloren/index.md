@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.veloren.net/"
   category: "open-source"
+  hidden: false
   genre1: "sandbox"
   genre2: "adventure"
   series: "Veloren"

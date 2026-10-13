@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LittleBitUA/DPRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Deadly Premonition"

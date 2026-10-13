@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/bloodborne/mods/252"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Bloodborne"

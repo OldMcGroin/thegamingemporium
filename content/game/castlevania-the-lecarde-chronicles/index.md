@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://castlevania-the-lecarde-chronicles.en.uptodown.com/windows"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/AnAxemRanger/SMRPG-Demake-Project"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ut99vr.pages.dev/"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Unreal"

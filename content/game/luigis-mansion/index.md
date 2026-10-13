@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.henrikomagnifico.com/luigis-mansion-4k"
   category: "texture-packs"
+  hidden: false
   genre1: "puzzle"
   genre2: "action"
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://discord.com/invite/tRVhfWSkf2"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

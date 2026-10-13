@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/CqaRmZaFQNS1JX1zpGFNSQ/blaze-and-blade-busters-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamenative.app/"
   category: "android-ports"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

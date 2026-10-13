@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/zeranemesis/Marioparty4"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "party-game"
   genre2: ""
   series: "Super Mario"

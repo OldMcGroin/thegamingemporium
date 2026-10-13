@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dos.zone/offline/warcraft-ii-android/"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Warcraft"

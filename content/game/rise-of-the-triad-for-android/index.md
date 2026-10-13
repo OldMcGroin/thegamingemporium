@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/h4mu/rott94"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Rise of the Triad"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mmr.quarkrobot.com/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Lode Runner"

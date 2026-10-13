@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/xwvm"
   category: "mods"
+  hidden: false
   genre1: "space-combat"
   genre2: ""
   series: "Star Wars"

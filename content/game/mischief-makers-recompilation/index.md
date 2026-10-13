@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ThiagoLira/trouble-makers-pc-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Mischief Makers"

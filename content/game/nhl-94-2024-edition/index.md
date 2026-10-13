@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/8267/"
   category: "rom-hacks"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NHL"

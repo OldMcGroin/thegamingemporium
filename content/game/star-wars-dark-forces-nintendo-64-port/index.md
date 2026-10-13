@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/BigChat88/N64DarkForcesPort"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Star Wars"

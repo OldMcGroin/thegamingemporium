@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.macintoshrepository.org/77329-sdl-scavenger"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/"
   category: "fan-games"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

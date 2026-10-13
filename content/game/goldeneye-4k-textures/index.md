@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://evilgames.eu/texture-packs/ge007-hd.htm#instructions"
   category: "texture-packs"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "007"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/Ko2ChgbARnU?si=xX_6YhMwIvBN6Lw4"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

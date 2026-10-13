@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ExxistanceDC/Hissatsu-English-Translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Hissatsu!"

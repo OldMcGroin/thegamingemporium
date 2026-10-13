@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/SteamDeck/s/2XAd4zeIz3"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: "adventure"
   series: "Prince of Persia"

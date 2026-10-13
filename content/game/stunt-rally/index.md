@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cryham.org/stuntrally/"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Stunt Rally"

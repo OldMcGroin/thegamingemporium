@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/KScl/opentyrian2000"
   category: "open-source"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Tyrian"

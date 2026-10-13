@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://super64.app/xzero/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "F-Zero"

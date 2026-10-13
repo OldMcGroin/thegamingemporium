@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/QV-70fe4hWc?si=F0Ne5n0lMlxeUhth"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "The Simpsons"

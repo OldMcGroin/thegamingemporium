@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/acklavidian/decomp_wots2"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Way of the Samurai"

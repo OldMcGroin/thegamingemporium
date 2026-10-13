@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://beloko.com/hw.html"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Homeworld"

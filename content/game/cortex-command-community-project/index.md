@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cortex-command-community.github.io/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Cortex Command"

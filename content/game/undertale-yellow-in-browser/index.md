@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.dubdoo.com/class/undertale-yellow"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Undertale"

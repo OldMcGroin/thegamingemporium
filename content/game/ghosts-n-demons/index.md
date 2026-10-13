@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://bonusjz.itch.io/ghostsn-demons"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Ghosts and Goblins"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.hackdex.app/hack/pokemon-homestead"
   category: "fan-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Pokemon"

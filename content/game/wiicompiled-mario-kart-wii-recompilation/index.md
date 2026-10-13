@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/patchzyy/Wiicompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/iEXDW2_4ffw?si=9zKyApbJwq75U0R1"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Ninja Gaiden"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/stardewvalley/mods/22550"
   category: "mods"
+  hidden: false
   genre1: "farming-simulator"
   genre2: "life-simulator"
   series: "Stardew Valley"

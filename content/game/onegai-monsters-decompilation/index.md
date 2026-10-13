@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ryan-myers/onegaimonsters"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Onegai Monsters"

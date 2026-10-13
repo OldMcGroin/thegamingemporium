@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://james222.itch.io/fable-gameboy-color-demake"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Fable"

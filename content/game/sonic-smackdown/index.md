@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://arcforged.itch.io/sonic-smackdown"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Sonic The Hedgehog"

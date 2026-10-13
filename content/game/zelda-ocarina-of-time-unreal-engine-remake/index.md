@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/collection/912225?view=expanded"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "The Legend of Zelda"

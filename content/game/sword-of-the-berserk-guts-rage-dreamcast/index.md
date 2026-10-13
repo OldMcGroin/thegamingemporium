@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/6560/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Sword of the Berserk"

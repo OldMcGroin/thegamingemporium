@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Alice-2010/Decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Alice In Wonderland"

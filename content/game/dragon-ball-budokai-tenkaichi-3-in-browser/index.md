@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dragonballbt3.online/"
   category: "browser-based"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

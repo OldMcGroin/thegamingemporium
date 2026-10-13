@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ninstars.itch.io/unimaker"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "level-builder"
   series: "Super Mario"

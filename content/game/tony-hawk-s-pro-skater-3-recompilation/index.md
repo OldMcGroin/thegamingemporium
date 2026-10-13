@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/tony-hawk-s-pro-skater-3-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Tony Hawk"

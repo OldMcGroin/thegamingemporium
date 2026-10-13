@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://www.openarena.ws/smfnews.php"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "OpenArena"

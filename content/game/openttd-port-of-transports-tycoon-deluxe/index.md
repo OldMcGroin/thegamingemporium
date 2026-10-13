@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.openttd.org/"
   category: "open-source"
+  hidden: false
   genre1: "business-simulator"
   genre2: "strategy"
   series: "Transports Tycoon"

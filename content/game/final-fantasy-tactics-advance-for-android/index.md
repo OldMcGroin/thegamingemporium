@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/james2doyle/ffta-recomp/releases/tag/v1.5"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Final Fantasy"

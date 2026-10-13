@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://infamousadventures.itch.io/space-quest-ii-vga-remake"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Space Quest"

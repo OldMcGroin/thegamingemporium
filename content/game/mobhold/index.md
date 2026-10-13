@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://agentratelimit.github.io/Mobhold/"
   category: "fan-games"
+  hidden: false
   genre1: "survivorslike"
   genre2: ""
   series: "Mobhold"

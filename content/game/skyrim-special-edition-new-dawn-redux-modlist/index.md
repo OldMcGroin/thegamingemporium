@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/skyrimspecialedition/mods/176693?tab=description"
   category: "open-source"
+  hidden: true
   genre1: "rpg"
   genre2: "action"
   series: ""

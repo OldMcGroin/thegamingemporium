@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://doubledragonorg.itch.io/doubledragons"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Double Dragon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/mike-tysons-punch-out-snes_202510"
   category: "console-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mike Tyson's Punch Out!!!"

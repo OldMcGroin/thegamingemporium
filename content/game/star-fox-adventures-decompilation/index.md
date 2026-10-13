@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/renakunisaki/sfadebug"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Star Fox"

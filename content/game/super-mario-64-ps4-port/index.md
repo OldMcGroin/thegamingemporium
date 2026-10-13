@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mindfreakdev/sm64-ps4-osirizx"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

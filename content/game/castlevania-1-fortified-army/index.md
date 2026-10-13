@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9409/?ref=retrododo.com"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

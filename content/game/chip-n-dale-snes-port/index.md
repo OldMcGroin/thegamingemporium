@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/chipn-dale-snes"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Chip 'N Dale"

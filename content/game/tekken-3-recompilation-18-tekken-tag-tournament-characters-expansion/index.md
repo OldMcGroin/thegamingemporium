@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/omarma/tekken3-expanded?utm_source=gemini"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Tekken"

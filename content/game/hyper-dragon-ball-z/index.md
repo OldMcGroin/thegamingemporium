@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://network.mugenguild.com/balthazar/hyperdbz/"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Dragon Ball Z"

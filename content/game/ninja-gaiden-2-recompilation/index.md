@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "action"
   genre2: ""
   series: "Ninja Gaiden"

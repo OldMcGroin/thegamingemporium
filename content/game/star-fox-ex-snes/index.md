@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/starfox-ex-super-nintendo/"
   category: "rom-hacks"
+  hidden: true
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

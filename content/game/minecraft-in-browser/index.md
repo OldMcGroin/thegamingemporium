@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.lemon-web.net/html5games/minecraft/"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: "adventure"
   series: "Minecraft"

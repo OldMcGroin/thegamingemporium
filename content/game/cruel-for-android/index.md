@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/cruel-134667/"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Cruel"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/games/castlevania-mx"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Castlevania"

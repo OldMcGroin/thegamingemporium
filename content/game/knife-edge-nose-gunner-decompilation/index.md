@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/disi33/KE-NG_Reversing"
   category: "in-the-works"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Knife Edge"

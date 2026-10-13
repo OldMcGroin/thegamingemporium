@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://eliasdaler.itch.io/yume-nikki-ps1"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Yume Nikki"

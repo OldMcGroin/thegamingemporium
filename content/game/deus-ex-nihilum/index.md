@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/nihilum"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Deus Ex"

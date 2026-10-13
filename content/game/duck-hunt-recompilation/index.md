@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mstan/DuckHuntNESRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "light-gun-shooter"
   genre2: ""
   series: "Duck Hunt"

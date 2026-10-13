@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://m.youtube.com/watch?v=fO0Hqhk7qxA"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

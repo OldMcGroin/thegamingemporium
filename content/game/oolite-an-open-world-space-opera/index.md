@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://oolite.space/"
   category: "open-source"
+  hidden: false
   genre1: "space-simulator"
   genre2: "sandbox"
   series: "Oolite"

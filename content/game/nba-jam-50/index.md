@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9097/"
   category: "rom-hacks"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NBA"

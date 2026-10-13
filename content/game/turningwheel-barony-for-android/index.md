@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DifferentNet/barony-android-port"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "roguelike"
   series: "Barony"

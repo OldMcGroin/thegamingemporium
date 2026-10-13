@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ipodtouch0218.itch.io/nsmb-mariovsluigi"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Super Mario"

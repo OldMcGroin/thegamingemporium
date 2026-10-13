@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://matty77.itch.io/conflict-3049"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Conflict 3049"

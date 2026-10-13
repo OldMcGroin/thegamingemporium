@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/514361"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "level-builder"
   series: "Super Mario"

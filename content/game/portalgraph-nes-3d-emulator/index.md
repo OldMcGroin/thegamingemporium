@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://portalgraph.itch.io/portal-nes"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

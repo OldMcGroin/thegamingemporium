@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/hamzaxx370/ogre-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "beat-em-up"
   genre2: "minigames"
   series: "Yakuza"

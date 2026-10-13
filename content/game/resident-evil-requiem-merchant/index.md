@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevilrequiem/mods/1920?tab=description"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

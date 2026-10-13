@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rockman-corner.com/2025/03/rockman-dash-great-adventure-on-5.html?m=1"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Mega Man"

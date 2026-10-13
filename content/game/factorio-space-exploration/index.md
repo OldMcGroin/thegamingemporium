@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mods.factorio.com/mod/space-exploration"
   category: "mods"
+  hidden: false
   genre1: "factory-simulator"
   genre2: "automation"
   series: "Factorio"

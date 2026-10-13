@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/portforge/portforge-app"
   category: "utility"
+  hidden: true
   genre1: "utility"
   genre2: ""
   series: ""

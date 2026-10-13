@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/haroldo-ok/zelda-js-sms"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

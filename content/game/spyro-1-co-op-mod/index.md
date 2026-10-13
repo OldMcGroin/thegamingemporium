@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9961/?ref=bsky.app/profile/kaptajnen.bsky.social"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Spyro the Dragon"

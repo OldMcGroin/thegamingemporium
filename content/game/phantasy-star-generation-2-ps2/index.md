@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/ps2-iso/sega-ages-2500-series-vol-17-phantasy-star-generation2-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Phantasy Star"

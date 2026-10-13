@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/games/16121"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

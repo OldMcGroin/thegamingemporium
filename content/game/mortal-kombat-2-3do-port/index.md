@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/ciFdfj3D_NA?si=t3tWaHm_CB9mQGzY"
   category: "console-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/XjeTYHk9c5c?si=dQyFhBhOywMb88KL"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rayman"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/metalgearsoliddeltasnakeeater/mods/167"
   category: "vr-ports"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

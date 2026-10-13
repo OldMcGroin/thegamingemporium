@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://master-linkuei.itch.io/super-star-wars-holiday-special"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Star Wars"

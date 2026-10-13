@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/escape-the-house-genesis/"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Zombies Ate My Neighbours!"

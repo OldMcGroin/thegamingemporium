@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://zeichigames.itch.io/friday-the-13th-revisited-for-gbc"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: ""

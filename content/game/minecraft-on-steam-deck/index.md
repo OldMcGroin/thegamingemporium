@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/WRwJ8c4bTpA?si=NsC7lUIZ2JPLGWGQ"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ryan-myers/jet-force-gemini"
   category: "in-the-works"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "platformer"
   series: "Jet Force Gemini"

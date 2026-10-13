@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Destroyjevski/SuperMario3DWorld-VR"
   category: "vr-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

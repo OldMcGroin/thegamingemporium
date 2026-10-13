@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sonicdcer/Starfox64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

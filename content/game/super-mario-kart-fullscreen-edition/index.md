@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/10083/"
   category: "rom-hacks"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

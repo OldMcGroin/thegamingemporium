@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.bzflag.org/"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "BZFlag"

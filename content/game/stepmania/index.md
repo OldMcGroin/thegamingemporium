@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.stepmania.com/"
   category: "open-source"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "StepMania"

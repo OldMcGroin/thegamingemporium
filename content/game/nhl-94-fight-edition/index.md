@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://forum.nhl94.com/index.php?/topic/38026-nhl94-fight-edition/"
   category: "rom-hacks"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: ""

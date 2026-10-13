@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/gta3/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

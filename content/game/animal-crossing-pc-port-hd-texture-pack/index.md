@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/download/406291#FileInfo_875424"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

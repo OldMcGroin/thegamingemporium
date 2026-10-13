@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Alex-LeTux/perfect_dark_VR/releases"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

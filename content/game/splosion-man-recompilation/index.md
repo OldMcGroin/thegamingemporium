@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/thefixinhixon/SplosionManRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Splosion Man"

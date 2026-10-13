@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/boilnoodles/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "horror"
   genre2: "adventure"
   series: "Boil Noodles at Night"

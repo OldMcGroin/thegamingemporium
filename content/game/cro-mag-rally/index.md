@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://jorio.itch.io/cromagrally"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Cro-Mag Rally"

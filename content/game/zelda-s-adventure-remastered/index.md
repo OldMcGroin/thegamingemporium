@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://jappawakka.itch.io/zeldas-adventure-remastered"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://qbj3.slipseer.com/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/risk-of-rain-95014/"
   category: "android-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "Risk of Rain"

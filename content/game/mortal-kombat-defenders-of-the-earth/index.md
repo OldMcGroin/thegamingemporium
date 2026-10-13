@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/witcher3/mods/11246?tab=description"
   category: "mods"
+  hidden: true
   genre1: "rpg"
   genre2: "action"
   series: "The Witcher"

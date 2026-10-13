@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/AynThor/s/JlKfJ41tDC"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

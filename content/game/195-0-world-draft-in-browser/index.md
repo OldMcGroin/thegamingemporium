@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://195-0worlddraft.com/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

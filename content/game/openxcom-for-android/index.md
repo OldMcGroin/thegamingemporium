@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sfalexrog/openxcom-android"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "X-Com"

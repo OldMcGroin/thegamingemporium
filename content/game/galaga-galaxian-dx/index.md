@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/6541/"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: "shoot-em-up"
   series: "Galaga"

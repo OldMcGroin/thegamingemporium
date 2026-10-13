@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/2344/"
   category: "english-translation-patches"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Dark Half"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/fgsfdsfgs/sm64ex"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

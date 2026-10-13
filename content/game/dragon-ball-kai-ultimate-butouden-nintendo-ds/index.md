@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/nds-roms/dragon-ball-kai-ultimate-butouden-jpn-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

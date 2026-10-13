@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/SteamDeck/s/bNCOrjHbWg"
   category: "texture-packs"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/fallout4/mods/101772?tab=description"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Fallout"

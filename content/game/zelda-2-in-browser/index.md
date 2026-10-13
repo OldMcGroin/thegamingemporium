@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.z2rs.com/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "The Legend of Zelda"

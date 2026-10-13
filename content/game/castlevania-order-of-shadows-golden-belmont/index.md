@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://elvies.itch.io/castlevania-order-of-shadows-gbc"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Keriew/augustus/releases/tag/v4.0.0"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

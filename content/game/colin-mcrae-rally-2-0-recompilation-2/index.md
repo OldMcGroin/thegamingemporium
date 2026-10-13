@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pablocpas/OpenCMR2"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Colin McRae"

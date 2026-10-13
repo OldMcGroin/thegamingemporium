@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/4aaaDnCE82g?si=mAFFS_zu-alAn3pk"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

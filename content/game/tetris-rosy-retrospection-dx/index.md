@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/8259/"
   category: "rom-hacks"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Tetris"

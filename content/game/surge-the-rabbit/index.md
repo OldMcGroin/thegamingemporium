@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/surge-the-rabbit/747310"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: ""

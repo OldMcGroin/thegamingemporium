@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/sonictripletrouble16bit/322794"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

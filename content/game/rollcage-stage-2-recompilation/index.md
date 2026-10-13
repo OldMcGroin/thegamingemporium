@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/rollcage-stage-ii-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: "vehicular-combat"
   series: "Rollcage"

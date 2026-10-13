@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://forum.zdoom.org/viewtopic.php?t=75591"
   category: "mods"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

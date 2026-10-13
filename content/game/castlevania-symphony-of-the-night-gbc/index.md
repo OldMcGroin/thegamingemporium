@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://richterwilker.itch.io/castlevania-gospel-of-belmont"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tws2401.github.io/Sonic-CD-WASM/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

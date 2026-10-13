@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://smash64.online/remix/"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Smash Brothers"

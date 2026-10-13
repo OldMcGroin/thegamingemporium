@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://john-lay.itch.io/zeldas-adventure/devlog/1107281/major-update"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

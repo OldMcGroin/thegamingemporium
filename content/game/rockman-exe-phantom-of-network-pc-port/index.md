@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/StraDaMa/PoN_PC"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "action"
   genre2: "strategy"
   series: "Mega Man"

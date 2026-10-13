@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://yancharkin.itch.io/spelunky-classic-hd"
   category: "browser-based"
+  hidden: false
   genre1: "roguelike"
   genre2: "platformer"
   series: "Spelunky"

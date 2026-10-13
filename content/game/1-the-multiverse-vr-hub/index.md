@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/MVRH"
   category: "vr-ports"
+  hidden: true
   genre1: "utility"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://exitfate.radialapps.com/play.html"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Exit Fate"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://worldofpadman.net/en/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: ""

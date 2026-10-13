@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhacking.com/hack/game-over--elysium"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

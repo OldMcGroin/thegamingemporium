@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/SteamDeck/comments/xhybbd/super_mario_sunshine_definitive_edition/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

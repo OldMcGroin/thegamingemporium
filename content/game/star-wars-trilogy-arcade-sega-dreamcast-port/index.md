@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://toastedgreedo.itch.io/star-wars-trilogy-arcade-dreamcast"
   category: "console-ports"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Star Wars"

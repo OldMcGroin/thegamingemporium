@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://iso-city.com/"
   category: "open-source"
+  hidden: false
   genre1: "city-builder"
   genre2: ""
   series: "IsoCity"

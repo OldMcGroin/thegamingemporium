@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://midzer.de/wasm/opentyrian/"
   category: "browser-based"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Tyrian"

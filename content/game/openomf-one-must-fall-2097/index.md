@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openomf.org/"
   category: "open-source"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "One Must Fall 2097"

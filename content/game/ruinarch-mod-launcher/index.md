@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Xm0x/RuinarchModLoader"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "god-simulator"
   series: "Ruinarch"

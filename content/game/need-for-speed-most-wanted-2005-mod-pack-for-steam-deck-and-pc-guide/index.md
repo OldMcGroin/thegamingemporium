@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://greatondeck.net/ready-mod-for-need-for-speed-most-wanted-2005-enhanced-graphics-for-steam-deck-and-pc-guide/"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

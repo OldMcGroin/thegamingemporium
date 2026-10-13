@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/igawa6/HarvestMoon64Recomp/releases/"
   category: "android-ports"
+  hidden: false
   genre1: "life-simulator"
   genre2: "farming-simulator"
   series: "Harvest Moon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://segaxtreme.net/resources/cold-case.237/"
   category: "fan-games"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Cold Case"

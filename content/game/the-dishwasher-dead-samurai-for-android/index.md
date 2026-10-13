@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Hdmaniak/DishSoap"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "The Dishwasher: Dead Samurai"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/n64-roms/super-mario-64-remake-hack-n64/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

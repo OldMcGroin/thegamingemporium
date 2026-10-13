@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/spiderman-edge-of-time-RECOMPILED"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Spiderman"

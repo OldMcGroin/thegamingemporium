@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romsfun.com/roms/playstation/crash-team-racing-retro-fueled.html"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crash Bandicoot"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1415"
   category: "console-ports"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: ""

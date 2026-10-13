@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://interdream.teamcinnabun.com/other/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Deltarune"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://portmaster.games/detail.html?name=ziiaol"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "rpg"
   series: "The Legend of Zelda"

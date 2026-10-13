@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sergiomanzur/cvlod_recomp"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Castlevania"

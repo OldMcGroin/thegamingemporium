@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://goblinarcade.com/play/mossline?utm_source=the_gaming_emporium&utm_medium=referral&utm_campaign=mossline_listing"
   category: "browser-based"
+  hidden: false
   genre1: "train-simulator"
   genre2: ""
   series: "Mossline"

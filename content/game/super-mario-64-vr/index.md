@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/sm64coopdx-vr"
   category: "vr-ports"
+  hidden: true
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

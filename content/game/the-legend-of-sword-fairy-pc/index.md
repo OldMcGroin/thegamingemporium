@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/the-legend-of-sword-and-fairy-english-patched-v3-3-windows-pc/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "The Legend of Sword & Fairy"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/Metroid/s/23ukkKGon4"
   category: "fan-games"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Metroid"

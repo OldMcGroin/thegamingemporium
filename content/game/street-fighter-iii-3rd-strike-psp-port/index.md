@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/demmis98/3s-psp"
   category: "console-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Street Fighter"

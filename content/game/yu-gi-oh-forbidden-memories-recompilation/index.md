@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "card-collector"
   genre2: "strategy"
   series: "Yu-Gi-Oh!"

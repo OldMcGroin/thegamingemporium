@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/castlevania-2_202511"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

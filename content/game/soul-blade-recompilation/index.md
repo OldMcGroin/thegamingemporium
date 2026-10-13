@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/fabioap-cpu/SoulBlade_Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Soul Blade"

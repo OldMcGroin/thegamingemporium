@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/cyberpunk2077/mods/25999"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Cyberpunk 2077"

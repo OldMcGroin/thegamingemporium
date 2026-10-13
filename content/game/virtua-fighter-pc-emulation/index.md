@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wanszai/Virtua-Fighter---XboxOne-Windows"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Virtua Fighter"

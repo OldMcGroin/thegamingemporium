@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/zeranemesis/CubeShelf-Launcher"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

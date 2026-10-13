@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkaward.com/ori-and-the-blind-forest-definitive-edition"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: "adventure"
   series: "Ori and the Blind Forest"

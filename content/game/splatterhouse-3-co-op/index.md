@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Linn1024/splatterhouse3-coop"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "beat-em-up"
   series: "Splatterhouse"

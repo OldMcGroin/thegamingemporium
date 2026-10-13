@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://smoo.it/#/"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

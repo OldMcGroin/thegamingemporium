@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/rimworld/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "colony-simulator"
   genre2: "story-generator"
   series: "Rimworld"

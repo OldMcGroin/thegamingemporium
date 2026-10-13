@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://u1.gg/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "roguelike"
   series: "U1"

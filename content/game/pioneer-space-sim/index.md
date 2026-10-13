@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pioneerspacesim.net/#slide0"
   category: "open-source"
+  hidden: false
   genre1: "space-combat"
   genre2: "trading-simulator"
   series: "Pioneer Space Sim"

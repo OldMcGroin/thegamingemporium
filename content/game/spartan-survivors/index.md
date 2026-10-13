@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/3997630/Spartan_Survivors/"
   category: "fan-games"
+  hidden: false
   genre1: "roguelike"
   genre2: "survivorslike"
   series: "Halo"

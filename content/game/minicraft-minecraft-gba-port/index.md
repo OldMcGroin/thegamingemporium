@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TobiasFriedly/minicraft_3d"
   category: "in-the-works"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "Minecraft"

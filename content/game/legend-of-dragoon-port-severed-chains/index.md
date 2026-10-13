@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://legendofdragoon.org/projects/severed-chains/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Legend of Dragoon"

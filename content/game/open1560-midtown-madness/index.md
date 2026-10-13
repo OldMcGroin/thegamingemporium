@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://0x1f9f1.github.io/Open1560/"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Midtown Madness"

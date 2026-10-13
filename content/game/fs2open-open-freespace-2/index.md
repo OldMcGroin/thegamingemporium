@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://scp.indiegames.us/bnr_fs2open.php"
   category: "open-source"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: ""
   series: "Freespace 2"

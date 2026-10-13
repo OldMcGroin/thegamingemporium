@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/SRB2-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

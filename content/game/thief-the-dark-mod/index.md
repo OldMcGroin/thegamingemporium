@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.thedarkmod.com/main/"
   category: "mods"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Thief"

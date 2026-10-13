@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/vib-ribbon-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Vib Ribbon"

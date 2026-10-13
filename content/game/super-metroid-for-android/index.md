@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Raekwon1603/super_metroid-android"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Metroid"

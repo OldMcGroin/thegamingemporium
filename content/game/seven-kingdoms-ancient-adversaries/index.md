@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://7kfans.com/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "city-builder"
   series: ""

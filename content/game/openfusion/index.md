@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openfusion.dev/"
   category: "open-source"
+  hidden: false
   genre1: "MMORPG"
   genre2: ""
   series: "FusionFall"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://horizonmw.org/"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Call of Duty"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/deathkiller/jazz2"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Jazz Jackrabbit"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://64bitsanimation.itch.io/squid-game-boy?ref=retrododo.com"
   category: "fan-games"
+  hidden: false
   genre1: "minigames"
   genre2: ""
   series: "Squid Games"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Sonic_Crackers_%28Apr_1,_1994_prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

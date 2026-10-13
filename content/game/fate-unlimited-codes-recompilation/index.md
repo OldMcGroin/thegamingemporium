@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/elprogramadorloco-arch/fuc-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

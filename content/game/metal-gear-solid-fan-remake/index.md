@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/VgvFT43zUYI?si=y7qVvSA_xKXbZ4kd"
   category: "fan-games"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

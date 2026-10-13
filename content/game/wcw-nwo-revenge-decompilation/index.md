@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/svinsmoke212/revenge"
   category: "in-the-works"
+  hidden: true
   genre1: "sports"
   genre2: "wrestling"
   series: "WCW/NWO Revenge"

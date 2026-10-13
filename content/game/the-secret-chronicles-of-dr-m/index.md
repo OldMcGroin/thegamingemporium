@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://secretchronicles.org/en/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: ""

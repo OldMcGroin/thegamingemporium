@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/ps2-iso/kingdom-hearts-ii-final-mix-2/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Kingdom Hearts"

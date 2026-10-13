@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pysolfc.sourceforge.io/"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: "strategy"
   series: "PySol Fan Club Edition"

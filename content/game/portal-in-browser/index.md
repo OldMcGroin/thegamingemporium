@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://yikes.pw/portal/"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Portal"

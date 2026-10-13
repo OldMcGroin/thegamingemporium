@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/qurious-pixel/SMAS_Launcher"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Super Mario"

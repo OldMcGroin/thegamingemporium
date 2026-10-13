@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/yancharkin/SpelunkyClassicHD"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "roguelike"
   series: "Spelunky"

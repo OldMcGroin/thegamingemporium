@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.supertux.org/"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Tux Games"

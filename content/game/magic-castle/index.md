@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://netyaroze.com/Media/Magic-Castle"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Magic Castle"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/BattleShip/releases/tag/Netplay-Alpha-1"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

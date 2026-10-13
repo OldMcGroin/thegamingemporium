@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://famicomcd.org/smbcd"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

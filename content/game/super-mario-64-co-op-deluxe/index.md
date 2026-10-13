@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sm64coopdx.com/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://forums.beamdog.com/discussion/87952/icewind-dale-2-enhanced-edition-is-released/p1"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Icewind Dale"

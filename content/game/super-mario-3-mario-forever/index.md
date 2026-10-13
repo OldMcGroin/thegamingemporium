@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://super-mario-3-mario-forever.en.uptodown.com/windows"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

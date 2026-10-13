@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://maddymakesgamesinc.itch.io/celeste64"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Celeste"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OpenRCT2/OpenRCT2/releases"
   category: "android-ports"
+  hidden: false
   genre1: "business-simulator"
   genre2: "strategy"
   series: "Rollercoaster Tycoon"

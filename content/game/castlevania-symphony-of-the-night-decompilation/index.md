@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Xeeynamo/sotn-decomp"
   category: "in-the-works"
+  hidden: true
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Castlevania"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/reindance/ssx-tricky-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: "sports"
   series: "SSX Tricky"

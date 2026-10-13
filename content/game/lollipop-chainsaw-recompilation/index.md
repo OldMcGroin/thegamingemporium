@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MaxDeadBear/Re-Cherry"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Lollipop Chainsaw"

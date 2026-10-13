@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/reenhance-re2/downloads/re-enhance-re2-v20-for-gog-version"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=217840547"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Civilisation"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://z-team.itch.io/maria-renards-revenge-sega-saturn"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

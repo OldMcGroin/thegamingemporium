@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://skullburglar.stz.sh/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "50 Cent"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://thelatteteam.itch.io/paratopic-wii-u"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Paratopic"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mariopartyrd/marioparty4"
   category: "android-ports"
+  hidden: false
   genre1: "party-game"
   genre2: ""
   series: "Super Mario"

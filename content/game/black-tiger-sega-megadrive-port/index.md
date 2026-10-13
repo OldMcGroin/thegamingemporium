@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rester159.itch.io/black-tiger-md"
   category: "console-ports"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Black Tiger"

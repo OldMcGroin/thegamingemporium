@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.dsogaming.com/news/castlevania-the-lecarde-chronicles-2-is-a-new-2d-castlevania-fan-game-that-is-available-for-download/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

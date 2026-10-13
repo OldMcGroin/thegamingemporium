@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://boa.realm667.com/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Wolfenstein"

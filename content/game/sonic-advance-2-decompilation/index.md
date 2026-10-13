@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SAT-R/sa2"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

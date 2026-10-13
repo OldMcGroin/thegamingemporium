@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://morrowind.virtastic.app/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Elder Scrolls"

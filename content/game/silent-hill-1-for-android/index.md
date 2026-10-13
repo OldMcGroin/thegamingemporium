@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SlickAmogus/silent-hill-decomp/releases/tag/crossplatform-beta"
   category: "android-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

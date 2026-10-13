@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/assassins-creed-victory-project-version-10/downloads/assassins-creed-victory-project-version-10"
   category: "mods"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Assassin's Creed"

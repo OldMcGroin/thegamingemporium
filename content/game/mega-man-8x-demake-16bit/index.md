@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonicfangameshq.com/forums/showcase/mega-man-x8-16-bit.2184/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

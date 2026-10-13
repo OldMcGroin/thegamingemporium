@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/kid-icarusnes-revb"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Kid Icarus"

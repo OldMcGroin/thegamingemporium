@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/AARosson48/rogue-leader-decomp"
   category: "in-the-works"
+  hidden: true
   genre1: "space-combat-simulator"
   genre2: ""
   series: "Star Wars"

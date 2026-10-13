@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/marvel-infinity-war/201435"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Marvel"

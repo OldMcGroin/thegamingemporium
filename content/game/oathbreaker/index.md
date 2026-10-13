@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kiedtl/roguelike"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "stealth"
   series: "Oathbreaker"

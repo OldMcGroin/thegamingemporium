@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sal063/Ace-Combat-5-Static-recompilation"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "combat-flight-simulator"
   genre2: ""
   series: "Ace Combat"

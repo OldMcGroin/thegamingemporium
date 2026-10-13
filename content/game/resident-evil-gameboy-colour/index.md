@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/12/resident-evil/"
   category: "preserved-games"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

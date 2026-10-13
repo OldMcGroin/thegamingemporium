@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://perfectdark.royal-cake-5abc.workers.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

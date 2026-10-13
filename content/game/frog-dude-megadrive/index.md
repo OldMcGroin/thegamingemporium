@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2014/02/frog-dude-megadrive-and-alfred-chicken-amiga-prototypes-released/"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Frog Dude"

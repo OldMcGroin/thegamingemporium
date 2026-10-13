@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=413903495"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Left 4 Dead"

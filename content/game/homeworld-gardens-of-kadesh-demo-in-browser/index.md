@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Homeworld"

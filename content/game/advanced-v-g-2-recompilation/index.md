@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/elprogramadorloco-arch/agvg2-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Advanced V.G."

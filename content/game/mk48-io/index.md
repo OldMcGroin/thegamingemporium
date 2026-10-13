@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mk48.io/"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Mk48.io"

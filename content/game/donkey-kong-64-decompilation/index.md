@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/0xGlitchbyte/dk64re"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Donkey Kong"

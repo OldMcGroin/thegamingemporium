@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/superman/comments/1p8a432/dc_vs_marvel_2025_game_final_version_release/"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Marvel"

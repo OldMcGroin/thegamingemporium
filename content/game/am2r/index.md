@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/am-2-r"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Metroid"

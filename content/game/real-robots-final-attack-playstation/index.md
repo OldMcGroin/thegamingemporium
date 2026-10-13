@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/8ffEsSDoTrabAI5gVzclNg/real-robots-final-attack-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: ""

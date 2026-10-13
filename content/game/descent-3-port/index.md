@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DescentDevelopers/Descent3/releases/tag/v1.5.0"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Descent"

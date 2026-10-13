@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Outrun"

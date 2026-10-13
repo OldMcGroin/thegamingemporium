@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/gcsmith/Pilotwings64Decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "flight-simulator"
   genre2: ""
   series: "Pilotwings"

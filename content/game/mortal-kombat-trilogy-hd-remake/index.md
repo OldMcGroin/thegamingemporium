@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://interloko.itch.io/mk-trilogy-hd"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

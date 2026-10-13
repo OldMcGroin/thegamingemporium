@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GABRIELNNK/ReChan/releases/tag/ReChan_v1.0.2-beta_Steamdeck"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "fighting"
   genre2: "action"
   series: ""

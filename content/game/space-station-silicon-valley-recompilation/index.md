@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Cellenseres/SSSV_Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Space Station Silicon Valley"

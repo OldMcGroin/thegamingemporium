@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://srperez.itch.io/smk-zx"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

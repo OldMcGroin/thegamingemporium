@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/wE3wXKn-RHW8lcesg7lG_g/progenitor-english-translation"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "sandbox"
   series: "Progenitor"

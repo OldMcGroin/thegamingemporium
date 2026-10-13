@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FortuneStreetModding/boom-street-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "party-game"
   genre2: "minigames"
   series: "Boom Street"

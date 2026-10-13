@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://megaphilx.com/index.php/home/games/mega-man-unlimited/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

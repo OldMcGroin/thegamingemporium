@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://medabots-ax.meme.ar/"
   category: "browser-based"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Medabots AX"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://shmargus.github.io/GSRecomp/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Golden Sun"

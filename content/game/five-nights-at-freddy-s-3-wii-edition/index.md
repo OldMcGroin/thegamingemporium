@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/fnaf3wii/1071424"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Five Nights At Freddy's"

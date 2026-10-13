@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://repo.openpandora.org/?page=detail&app=friking-shark-ptitseb"
   category: "open-source"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Friking Shark"

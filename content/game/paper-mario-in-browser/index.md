@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.lemon-web.net/html5emujsv5/papermario/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

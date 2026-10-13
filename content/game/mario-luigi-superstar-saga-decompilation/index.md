@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/nstearns96/MLSuperstarSaga"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Super Mario"

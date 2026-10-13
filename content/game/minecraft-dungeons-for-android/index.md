@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://buzzheavier.com/6t76akjhh68d"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Minecraft"

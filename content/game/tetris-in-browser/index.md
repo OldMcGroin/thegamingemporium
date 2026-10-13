@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mehmetmhy.github.io/tetris/"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Tetris"

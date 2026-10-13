@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Batman:_Revenge_of_the_Joker_%28Prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Batman"

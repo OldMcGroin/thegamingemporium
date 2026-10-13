@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/PrimeDecomp/echoes"
   category: "in-the-works"
+  hidden: true
   genre1: "adventure"
   genre2: "metroidvania"
   series: "Metroid"

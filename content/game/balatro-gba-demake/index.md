@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GBALATRO/balatro-gba"
   category: "fan-games"
+  hidden: false
   genre1: "roguelike"
   genre2: "deck-builder"
   series: "Balatro"

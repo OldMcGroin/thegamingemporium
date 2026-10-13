@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/threads-of-fate-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Threads of Fate"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/rayman-classic"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rayman"

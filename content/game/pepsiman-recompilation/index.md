@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pepsiman.ol.mr/"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "action"
   genre2: ""
   series: "Pepsiman"

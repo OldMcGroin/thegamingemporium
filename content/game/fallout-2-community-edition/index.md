@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbatalov/fallout2-ce"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Fallout"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/finalfantasy7rebirth/mods/1655?tab=description"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/YuutaTsubasa/Free-Riders-Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sonic the Hedgehog"

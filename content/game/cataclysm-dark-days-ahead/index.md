@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cataclysmdda.org/"
   category: "open-source"
+  hidden: false
   genre1: "survival-horror"
   genre2: "roguelike"
   series: "Cataclysm: Dark Days Ahead"

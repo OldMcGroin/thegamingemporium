@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://flathub.org/en/apps/tk.deat.Jazz2Resurrection"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Jazz Jackrabbit"

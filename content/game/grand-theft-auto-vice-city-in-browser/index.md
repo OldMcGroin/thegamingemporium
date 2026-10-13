@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://revc.wasm.ltd/"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

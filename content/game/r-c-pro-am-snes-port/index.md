@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/r.-c.-pro-am"
   category: "console-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: ""

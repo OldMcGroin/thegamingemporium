@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.sr1hdremaster.com/"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: "adventure"
   series: "The Legacy of Kain"

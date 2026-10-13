@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/samyost1/tmc-android/releases"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

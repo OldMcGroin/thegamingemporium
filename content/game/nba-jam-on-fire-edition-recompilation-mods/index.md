@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nba-jam.com/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NBA Jam"

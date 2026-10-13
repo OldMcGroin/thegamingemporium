@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/kidou-senshi-gundam-gundam-vs-gundam-next-plus-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Gundam"

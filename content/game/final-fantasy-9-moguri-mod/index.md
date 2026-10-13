@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sites.google.com/view/moguri-mod/home"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

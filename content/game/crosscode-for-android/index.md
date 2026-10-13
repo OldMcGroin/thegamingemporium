@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/Namnodorel/crossandroid/blob/master/README.md"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "CrossCode"

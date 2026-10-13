@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://www.scorched3d.co.uk/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

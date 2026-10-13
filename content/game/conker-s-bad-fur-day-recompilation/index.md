@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Conker64Recomp/conker64-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Conker"

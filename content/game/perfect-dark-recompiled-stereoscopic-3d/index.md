@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/oneup03/perfect_dark_3D/releases"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

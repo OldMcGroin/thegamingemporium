@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/evilSheep/max-payne-2-vr"
   category: "vr-ports"
+  hidden: false
   genre1: "action"
   genre2: "third-person-shooter"
   series: "Max Payne"

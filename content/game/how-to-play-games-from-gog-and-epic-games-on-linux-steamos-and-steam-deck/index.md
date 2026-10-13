@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamingonlinux.com/guides/view/how-to-play-games-from-gog-and-epic-games-on-linux-steamos-and-steam-deck/"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Limit-Theory-Redux/ltheory"
   category: "open-source"
+  hidden: false
   genre1: "space-simulator"
   genre2: ""
   series: "Limit Theory Redux"

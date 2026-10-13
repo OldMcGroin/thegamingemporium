@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/hitomi2500/airs-patch"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Airs adventure"

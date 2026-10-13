@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/role-playing/look-outside-131827/"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "survival-horror"
   series: "Look Outside"

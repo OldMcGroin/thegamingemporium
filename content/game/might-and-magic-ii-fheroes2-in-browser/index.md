@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://midzer.de/wasm/heroes2/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Might & Magic"

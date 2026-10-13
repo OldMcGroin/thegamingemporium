@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://isle.pizza/"
   category: "open-source"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Lego"

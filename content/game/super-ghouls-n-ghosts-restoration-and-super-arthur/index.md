@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kainetertainment.home.blog/2022/11/09/super-gng-hacks/"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Ghouls N Ghosts"

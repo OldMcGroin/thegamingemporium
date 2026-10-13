@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Admiral-Billy/Pokerogue-App/releases/tag/v2.4.6e"
   category: "android-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: "strategy"
   series: ""

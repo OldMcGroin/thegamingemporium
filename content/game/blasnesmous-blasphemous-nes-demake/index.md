@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fjpolo.itch.io/blasnesmous"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Blasphemous"

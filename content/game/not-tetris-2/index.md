@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://stabyourself.net/nottetris2/"
   category: "fan-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Tetris"

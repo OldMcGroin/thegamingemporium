@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

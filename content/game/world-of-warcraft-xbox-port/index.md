@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TommySanzCode/WoWx"
   category: "console-ports"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Warcraft"

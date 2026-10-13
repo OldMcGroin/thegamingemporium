@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/final-fantasy-type-0-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

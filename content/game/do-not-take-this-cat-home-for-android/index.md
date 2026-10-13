@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://t.me/visual_novels_android_eng/156"
   category: "android-ports"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Do NOT Take This Cat Home"

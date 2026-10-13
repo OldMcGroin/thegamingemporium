@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/1255980/Portal_Reloaded/"
   category: "mods"
+  hidden: false
   genre1: "puzzle"
   genre2: "platformer"
   series: "Portal"

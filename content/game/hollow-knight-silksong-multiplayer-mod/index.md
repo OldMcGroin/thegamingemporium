@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/hollowknightsilksong/mods/90?tab=description"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Hollow Knight"

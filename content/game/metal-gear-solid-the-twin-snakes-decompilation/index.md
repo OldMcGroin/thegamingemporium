@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GirianSeed/mgstts"
   category: "in-the-works"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

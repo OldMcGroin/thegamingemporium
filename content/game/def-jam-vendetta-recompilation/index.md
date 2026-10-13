@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jcsix694/def-jam-vendetta-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Def Jam"

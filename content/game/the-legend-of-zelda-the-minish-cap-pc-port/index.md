@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/999sian/tmc"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "puzzle"
   series: "The Legend of Zelda"

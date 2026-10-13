@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OpenDAoC/OpenDAoC-Core"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "rpg"
   series: "Dark Age of Camelot"

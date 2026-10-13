@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/starfield/mods/16954?tab=description"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Starfield"

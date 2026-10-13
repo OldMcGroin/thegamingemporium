@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openage.sft.lol/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Age of Empires"

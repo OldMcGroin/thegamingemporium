@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RocketRet/Rocket-Robot-On-Wheels"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Rocket: Robot on Wheels"

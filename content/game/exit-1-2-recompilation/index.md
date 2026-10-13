@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FluffyQuack/ReXGlue-EXIT"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "EXIT"

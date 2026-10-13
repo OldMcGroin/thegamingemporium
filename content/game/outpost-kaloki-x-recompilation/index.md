@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TekRantGaming/outpost-kaloki-x-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "city-builder"
   genre2: "strategy"
   series: "Outpost Kaloki X"

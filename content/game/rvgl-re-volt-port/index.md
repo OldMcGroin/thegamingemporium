@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rvgl.org/"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Re-Volt"

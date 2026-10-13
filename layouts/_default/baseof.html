@@ -331,6 +331,7 @@
   {{ end }}
   {{ $installAppJS := resources.Get "js/install-app.js" | minify | fingerprint }}
   <script src="{{ $installAppJS.RelPermalink }}" integrity="{{ $installAppJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+<script src="/js/project-ratings.js" defer></script>
 {{ partial "cloudflare-analytics.html" . }}
 
 <!-- Mobile browsers and installed PWAs: shrink the header when browsing down the page. -->

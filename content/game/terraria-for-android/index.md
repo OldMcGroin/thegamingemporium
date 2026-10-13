@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/terraria-pc-version-tmodloader-c42f87#downloads"
   category: "android-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Terraria"

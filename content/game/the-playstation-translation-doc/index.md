@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/the-playstation-translation-doc/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

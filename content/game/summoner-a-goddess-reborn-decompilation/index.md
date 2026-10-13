@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://decomp.dev/Charlese2/sgr"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Summoner: A Goddess Reborn"

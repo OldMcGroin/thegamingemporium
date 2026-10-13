@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Yoshi_Sample_%28GBA_Tech_Demo%29"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

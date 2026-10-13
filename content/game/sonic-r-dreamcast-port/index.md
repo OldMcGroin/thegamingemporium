@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://colab.research.google.com/drive/1Ss1Dzn1lDjZirpeqZ1F9pikTpFTlNXHA?usp=sharing"
   category: "console-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sonic the Hedgehog"

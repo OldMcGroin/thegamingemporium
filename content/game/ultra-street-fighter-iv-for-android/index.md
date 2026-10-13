@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/ultra-street-fighter-iv-e7e8fa"
   category: "android-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Street Fighter"

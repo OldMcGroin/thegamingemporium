@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HaydnTrigg/Castaway"
   category: "in-the-works"
+  hidden: false
   genre1: "life-simulator"
   genre2: ""
   series: "The Sims"

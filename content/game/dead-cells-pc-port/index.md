@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OverkillLabs/DeadCells-PS5-Native"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "metroidvania"
   genre2: ""
   series: "Dead Cells"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://vcmi.eu/"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Heroes of Might and Magic"

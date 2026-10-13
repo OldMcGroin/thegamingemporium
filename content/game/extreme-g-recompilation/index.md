@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/sonicdcer/ExtremeGRecomp/-/releases"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Extreme G"

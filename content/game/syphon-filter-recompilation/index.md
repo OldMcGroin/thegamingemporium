@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Madxbio97/SF-pc-port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Syphon Filter"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romsfun.com/roms/super-nintendo/mother-2-deluxe.html"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

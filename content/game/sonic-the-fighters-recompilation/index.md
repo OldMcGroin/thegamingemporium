@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SparkosTheWolf/FightersRecomp"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "fighting"
   genre2: ""
   series: "Sonic the Hedgehog"

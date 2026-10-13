@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://matty77.itch.io/boneforge-battlegrounds"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Boneforge Battlegrounds"

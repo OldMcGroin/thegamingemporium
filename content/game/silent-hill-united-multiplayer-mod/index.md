@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Depmify/Silent-Hill-United-Public"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

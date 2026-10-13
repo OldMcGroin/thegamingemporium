@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/airscripts/awesome-steam-deck"
   category: "guides"
+  hidden: false
   genre1: "guides"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/infinity-blade-iii-1ce2c5"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Infinity Blade"

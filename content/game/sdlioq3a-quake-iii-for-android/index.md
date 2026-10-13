@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play.google.com/store/apps/details?id=de.fpsclasico.sdlioq3a&hl=en_IN"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

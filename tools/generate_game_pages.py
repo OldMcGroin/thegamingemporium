@@ -90,6 +90,7 @@ def write_game_page(game: Dict[str, Any]) -> None:
         "params:",
         f"  external_link: {fm_escape(ext)}",
         f"  category: {fm_escape(cat)}",
+        f"  hidden: {str(bool(game.get('hidden'))).lower()}",
         f"  genre1: {fm_escape(genre1)}",
         f"  genre2: {fm_escape(genre2)}",
         f"  series: {fm_escape(series)}",

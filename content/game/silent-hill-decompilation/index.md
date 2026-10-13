@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Vatuu/silent-hill-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

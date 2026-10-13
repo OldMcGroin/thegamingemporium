@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.emu-land.net/en/consoles/genesis/roms/paprium"
   category: "preserved-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Paprium"

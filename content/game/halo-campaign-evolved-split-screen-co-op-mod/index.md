@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/halocampaignevolved/mods/53"
   category: "mods"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Halo"

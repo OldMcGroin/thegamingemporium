@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://undreamedpanic.itch.io/gamma-emerald#download"
   category: "fan-games"
+  hidden: true
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rigsofrods.org/"
   category: "open-source"
+  hidden: false
   genre1: "vehicle-simulator"
   genre2: ""
   series: "Rigs of Rods"

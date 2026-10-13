@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ethteck/pokemonsnap"
   category: "in-the-works"
+  hidden: false
   genre1: "photography"
   genre2: "rail-shooter"
   series: "Pokemon"

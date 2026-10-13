@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mb.srb2.org/addons/srb2kart.2435/"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sonic The Hedgehog"

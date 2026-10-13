@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://c64universe.com/2025/06/07/snk-vs-capcom-stronger-edition-for-c64-c128-new-demo/"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "SNK"

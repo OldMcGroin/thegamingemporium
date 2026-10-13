@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pokehostel.com/pokemon-unbreakable-ties/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

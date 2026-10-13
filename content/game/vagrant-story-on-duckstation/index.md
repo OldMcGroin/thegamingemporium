@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.youtube.com/watch?v=ouLFjGqcgRQ&t=43s&ab_channel=IceBullet"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Vagrant Story"

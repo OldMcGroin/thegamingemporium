@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mikeroyal/Steam-Deck-Guide"
   category: "guides"
+  hidden: false
   genre1: "guides"
   genre2: ""
   series: ""

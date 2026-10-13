@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pouet.net/prod.php?which=105245"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

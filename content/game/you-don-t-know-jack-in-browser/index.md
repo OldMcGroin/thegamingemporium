@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.ydkj.co.uk/"
   category: "browser-based"
+  hidden: false
   genre1: "quiz"
   genre2: ""
   series: "You Don't Know Jack"

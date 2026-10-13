@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/tuxx/super-tux-war"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "fighting"
   series: "Tux Games"

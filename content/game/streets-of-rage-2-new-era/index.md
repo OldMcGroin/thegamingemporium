@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.sor2newera.com/"
   category: "rom-hacks"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Streets of Rage"

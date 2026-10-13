@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wootbeer/Descent2-Android"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Descent"

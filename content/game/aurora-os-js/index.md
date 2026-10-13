@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mental-os/Aurora-OS.js"
   category: "open-source"
+  hidden: false
   genre1: "hacking-simulator"
   genre2: ""
   series: "Aurora"

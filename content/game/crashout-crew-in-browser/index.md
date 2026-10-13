@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/cc/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crashout Crew"

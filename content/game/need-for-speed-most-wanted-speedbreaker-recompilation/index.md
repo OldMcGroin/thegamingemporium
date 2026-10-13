@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://projectugarte.com/speedbreaker/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need for Speed"

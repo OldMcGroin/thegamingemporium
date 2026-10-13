@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://arelkair.dev/work/wii-party-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "party-game"
   genre2: ""
   series: "Wii Party"

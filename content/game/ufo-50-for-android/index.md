@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Skyline969/UFO50AndroidUnofficial"
   category: "android-ports"
+  hidden: false
   genre1: "various"
   genre2: ""
   series: ""

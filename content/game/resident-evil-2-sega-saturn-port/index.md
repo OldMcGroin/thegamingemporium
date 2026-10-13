@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/resegasaturnproject/posts/re2-sega-saturn-169409244"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

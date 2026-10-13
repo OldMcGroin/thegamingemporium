@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://openrct2.io/"
   category: "open-source"
+  hidden: false
   genre1: "business-simulator"
   genre2: "strategy"
   series: "Roller Coaster Tycoon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://taleoftwowastelands.com/"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Fallout"

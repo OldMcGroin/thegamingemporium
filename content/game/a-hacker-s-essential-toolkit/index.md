@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/a-hackers-essential-toolkit/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

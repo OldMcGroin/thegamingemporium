@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhacking.com/hack/substance-wars-64"
   category: "rom-hacks"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "roguelike"
   series: "Super Mario"

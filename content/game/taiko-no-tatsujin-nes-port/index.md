@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Deniiguess/taiko-nes"
   category: "console-ports"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Taiko No Tatsujin"

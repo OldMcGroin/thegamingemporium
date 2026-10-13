@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rubbersharkman.itch.io/capoeira-fighter-3-legacy-edition"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Capoeira Fighter"

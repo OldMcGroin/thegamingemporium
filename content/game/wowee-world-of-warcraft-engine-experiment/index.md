@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Kelsidavis/WoWee"
   category: "open-source"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Warcraft"

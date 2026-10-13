@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ydubr-gt2.surge.sh/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Gran Turismo"

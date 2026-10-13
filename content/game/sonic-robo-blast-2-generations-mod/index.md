@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mb.srb2.org/addons/srb2-generations.8725/"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

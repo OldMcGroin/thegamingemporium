@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/PalindromicBreadLoaf/Docklight"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

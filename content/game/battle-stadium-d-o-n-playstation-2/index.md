@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/ps2-iso/battle-stadium-d-o-n-jpn/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Battle Stadium D.O.N."

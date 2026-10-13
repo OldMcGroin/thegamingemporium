@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pairomaniac/vo_patch"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Cyber Troopers Virtual-On"

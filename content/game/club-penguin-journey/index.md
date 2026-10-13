@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play.cpjourney.net/"
   category: "fan-games"
+  hidden: false
   genre1: ""
   genre2: ""
   series: "Club Penguin Journey"

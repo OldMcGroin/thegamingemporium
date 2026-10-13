@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/5773/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Ao no 6-go Saigetsufutai Hito: Time and Tide"

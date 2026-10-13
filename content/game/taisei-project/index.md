@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/taisei-project/taisei"
   category: "open-source"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Taisei Project"

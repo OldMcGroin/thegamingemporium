@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ogdanimal/Goemon64Recomp-Android"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Mystical Ninja"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Yoshifanatic1/Goof-Troop-Disassembly"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "puzzle"
   series: "Disney"

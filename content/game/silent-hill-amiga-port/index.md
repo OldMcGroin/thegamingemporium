@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://eab.abime.net/showthread.php?p=1811785"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

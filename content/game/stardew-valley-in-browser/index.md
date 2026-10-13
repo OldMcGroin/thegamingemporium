@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/stardewvalley/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "life-simulator"
   genre2: "farming-simulator"
   series: "Stardew Valley"

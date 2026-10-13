@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.woodus.com/den/resources/dq+nightfly.php"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Dragon Quest"

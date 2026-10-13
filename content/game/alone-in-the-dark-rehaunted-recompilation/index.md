@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/spacefarergames/AloneInTheDarkReHaunted"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Alone In The Dark"

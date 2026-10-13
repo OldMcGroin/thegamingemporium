@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://danilolc.itch.io/pekka-kana-2"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Pekka Kana"

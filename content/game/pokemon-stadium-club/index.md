@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://eeveeexpo.com/threads/8185/"
   category: "fan-games"
+  hidden: false
   genre1: "minigames"
   genre2: ""
   series: "Pokemon"

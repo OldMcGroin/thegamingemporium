@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://retrohackers.net/hack-details.php?id=5656/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

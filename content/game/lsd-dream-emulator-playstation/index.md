@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/5523/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "walking-simulator"
   genre2: ""
   series: "LSD - Dream Emulator"

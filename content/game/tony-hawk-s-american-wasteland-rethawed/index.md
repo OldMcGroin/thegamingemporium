@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rethawed.com/"
   category: "mods"
+  hidden: false
   genre1: "sports"
   genre2: "adventure"
   series: "Tony Hawk"

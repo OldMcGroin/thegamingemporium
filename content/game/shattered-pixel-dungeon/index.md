@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://shattered-pixel.itch.io/shattered-pixel-dungeon"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "Shattered Pixel Dungeon"

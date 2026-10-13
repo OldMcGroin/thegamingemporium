@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JayBiggsGMG/BFVR-Battlefield-1942-VR-Mod/releases/tag/v1.0.0"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Battlefield"

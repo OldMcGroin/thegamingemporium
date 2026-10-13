@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/dark-castle-msx"
   category: "preserved-games"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Dark Castle"

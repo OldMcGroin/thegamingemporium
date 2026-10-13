@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/8939/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Terranigma"

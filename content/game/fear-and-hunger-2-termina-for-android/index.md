@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Chokage/Fear-and-Hunger-2-Termina-Mobile"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "survival-horror"
   series: "Fear and Hunger"

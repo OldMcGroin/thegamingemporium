@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mikompilation/minakami"
   category: "in-the-works"
+  hidden: true
   genre1: "survival-horror"
   genre2: ""
   series: "Fatal Frame"

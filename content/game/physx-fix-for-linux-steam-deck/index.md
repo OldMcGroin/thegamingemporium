@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamcommunity.com/sharedfiles/filedetails/?id=2780134576"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

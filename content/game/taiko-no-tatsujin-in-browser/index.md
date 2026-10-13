@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cjdgrevival.com/"
   category: "browser-based"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Taiko no Tatsujin"

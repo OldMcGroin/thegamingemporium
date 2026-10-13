@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.kongregate.com/en/games/pestoforce/abobos-big-adventure"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Abobo's Big Adventure"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/d5lUT7SSAgg?si=OVsXeH6AOXAxka8k"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

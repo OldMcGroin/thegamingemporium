@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/quake-ii-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

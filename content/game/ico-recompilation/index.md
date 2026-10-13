@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/nathanialf/ico-pc"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "ICO"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.kamremake.com/download/"
   category: "open-source"
+  hidden: false
   genre1: "city-builder"
   genre2: "strategy"
   series: "Knights and Merchants"

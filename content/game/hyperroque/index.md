@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/zenorogue/hyperrogue/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "puzzle"
   series: "Hyperroque"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/posts/superman-v2-2-0-146533832"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

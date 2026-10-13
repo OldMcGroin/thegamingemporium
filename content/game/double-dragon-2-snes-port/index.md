@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/double-dragon-ii-snes"
   category: "console-ports"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Double Dragon"

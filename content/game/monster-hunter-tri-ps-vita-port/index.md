@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Grarak/mh3-wii"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Monster Hunter"

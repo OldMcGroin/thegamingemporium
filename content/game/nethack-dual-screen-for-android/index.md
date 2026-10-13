@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/fancypantalons/Amphitere"
   category: "android-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "NetHack"

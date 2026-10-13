@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/patataofcourse/rhgold"
   category: "in-the-works"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Rhythm Heaven"

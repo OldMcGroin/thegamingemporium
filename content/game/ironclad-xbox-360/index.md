@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Ironclad_(Dec_16,_2008_prototype)"
   category: "preserved-games"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Ironclad"

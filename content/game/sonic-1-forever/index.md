@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://teamforeveronline.wixsite.com/home/sonic-1-forever"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

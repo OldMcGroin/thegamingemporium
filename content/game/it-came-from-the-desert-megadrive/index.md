@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2024/10/it-came-from-the-desert/"
   category: "preserved-games"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "It Came From The Desert"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/tiny-toon-adventures-dx-babs-big-break-colorization-patch-for-game-boy-color-game-boy/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Tiny Toons"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cnc3dgame.com/"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Command & Conquer"

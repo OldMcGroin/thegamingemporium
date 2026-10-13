@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tomycase.itch.io/megaman-dxtreme"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

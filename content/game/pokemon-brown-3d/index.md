@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rainbowdevs.com/title/brown-3d/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

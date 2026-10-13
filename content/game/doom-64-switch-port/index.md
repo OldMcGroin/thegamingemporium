@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamebrew.org/wiki/Doom64EX_Switch"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

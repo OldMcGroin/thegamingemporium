@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/greyxor/openguimo"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Guimo"

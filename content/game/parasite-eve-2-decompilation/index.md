@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GabeRealB/parasite-eve-2-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Parasite Eve"

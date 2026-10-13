@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://walfie.itch.io/walfies-nonograms"
   category: "fan-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Walfie's Nonograms"

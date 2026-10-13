@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/RestoredCDAndroid/1086519"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

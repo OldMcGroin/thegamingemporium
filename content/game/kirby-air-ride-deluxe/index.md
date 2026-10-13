@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/UnclePunch/KAR-Deluxe/releases"
   category: "rom-hacks"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Kirby"

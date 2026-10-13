@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/3619040/HalfLife_Legacy/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

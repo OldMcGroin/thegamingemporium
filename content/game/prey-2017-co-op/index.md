@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/prey2017/mods/218?tab=description"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Prey"

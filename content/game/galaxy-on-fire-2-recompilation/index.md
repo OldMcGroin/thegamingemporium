@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: "trading"
   series: "Galaxy on Fire"

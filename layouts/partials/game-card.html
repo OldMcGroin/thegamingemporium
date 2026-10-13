@@ -130,4 +130,7 @@ Image strategy (scales to thousands of items):
 {{ end }}
     </div>
   </a>
+  {{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) -}}
+    <div class="tge-rating" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+  {{- end -}}
 </div>

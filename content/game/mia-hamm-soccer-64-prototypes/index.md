@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/08/mia-hamm-soccer-64-prototypes/"
   category: "preserved-games"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Mia Hamm Soccer"

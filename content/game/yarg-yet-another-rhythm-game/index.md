@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://yarg.in/"
   category: "fan-games"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "YARG"

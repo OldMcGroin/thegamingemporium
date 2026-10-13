@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://retrolorean.com/en/castlevania-haunted-castle-2-10730"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

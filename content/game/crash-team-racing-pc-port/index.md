@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/CTR-tools/ctr-native/releases"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Crash Bandicoot"

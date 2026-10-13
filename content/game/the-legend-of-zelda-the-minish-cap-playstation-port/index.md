@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/danielgpinheiro/TMC-PS1-ISO-Builder"
   category: "console-ports"
+  hidden: true
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

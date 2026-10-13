@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/k64ret/cv64"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Castlevania"

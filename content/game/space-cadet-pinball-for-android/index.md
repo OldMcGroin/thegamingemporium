@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ksylvestre.itch.io/space-cadet-pinball"
   category: "android-ports"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Space Cadet Pinball"

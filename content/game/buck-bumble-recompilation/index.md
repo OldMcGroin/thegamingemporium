@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/riseio/project-bumble"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Buck Bumble"

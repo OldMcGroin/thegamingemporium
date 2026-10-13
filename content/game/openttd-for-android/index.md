@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pelya/openttd-android/releases"
   category: "android-ports"
+  hidden: false
   genre1: "business-simulator"
   genre2: "strategy"
   series: "Transport Tycoon"

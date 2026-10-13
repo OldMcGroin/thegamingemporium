@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/crowded-street/3sx"
   category: "in-the-works"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Street Fighter"

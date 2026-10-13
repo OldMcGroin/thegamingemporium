@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nethack.org/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "rpg"
   series: "NetHack"

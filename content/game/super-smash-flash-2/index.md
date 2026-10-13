@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.supersmashflash.com/play/ssf2/"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Smash Brothers"

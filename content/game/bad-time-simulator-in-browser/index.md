@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gotoanddie.github.io/c2-sans-fight/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Bad Time Simulator"

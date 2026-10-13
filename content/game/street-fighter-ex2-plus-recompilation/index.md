@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/strider973/Street-Fighter-EX2-Plus-Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Street Fighter"

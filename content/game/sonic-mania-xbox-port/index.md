@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HealthyMinmo/Sonic-Mania-Xbox-ISO-Builder"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

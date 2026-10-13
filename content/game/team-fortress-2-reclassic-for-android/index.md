@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://files.workbench.network/srceng/TF2RC%20(TF2L)/"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Team Fortress"

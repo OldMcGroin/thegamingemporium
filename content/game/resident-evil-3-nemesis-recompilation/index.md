@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/resident-evil-3-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

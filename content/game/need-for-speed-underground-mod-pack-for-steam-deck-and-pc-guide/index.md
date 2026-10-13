@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://greatondeck.net/how-to-run-need-for-speed-underground-on-steam-deck-and-modern-pc-guide-with-modpack/"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

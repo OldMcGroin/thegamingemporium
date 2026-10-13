@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/crimsondesert/mods/47"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "sandbox"
   series: "Crimson Desert"

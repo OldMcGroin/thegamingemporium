@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kcd-mp.com/"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Kingdom Come"

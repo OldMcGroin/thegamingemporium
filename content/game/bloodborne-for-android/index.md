@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ducvd89/Bloodborne-Android"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Bloodborne"

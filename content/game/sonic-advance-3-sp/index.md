@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://astromuseum.org/sonicZone/sonicmods/sonicadvance3"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

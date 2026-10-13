@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/momotori01/EARTH-DEFENSE-FORCE-6-VR-MOD"
   category: "vr-ports"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Earth Defence Force"

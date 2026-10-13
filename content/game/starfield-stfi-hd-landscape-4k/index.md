@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/starfield/mods/16155?tab=description"
   category: "texture-packs"
+  hidden: true
   genre1: "rpg"
   genre2: "action"
   series: "Starfield"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/life-force-snes-v-1"
   category: "console-ports"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Salamander"

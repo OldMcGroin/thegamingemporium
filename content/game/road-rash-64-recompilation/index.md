@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/linkssy2/RoadRash64Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: "action"
   series: "Road Rash"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mine64.c0di.com/"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "Minecraft"

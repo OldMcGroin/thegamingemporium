@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/tripitaka_win_mac"
   category: "preserved-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Tripitaka"

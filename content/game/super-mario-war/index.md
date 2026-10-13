@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://smwstuff.net/game"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "fighting"
   series: "Super Mario"

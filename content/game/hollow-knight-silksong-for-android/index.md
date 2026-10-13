@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/hollow-knight-silksong-130787/"
   category: "android-ports"
+  hidden: false
   genre1: "metroidvania"
   genre2: ""
   series: "Hollow Knight"

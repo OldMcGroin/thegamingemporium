@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://opentouchgaming.com/alpha-touch/"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: ""

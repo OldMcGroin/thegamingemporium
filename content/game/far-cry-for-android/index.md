@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Player124413/NearChuckle-android-edition"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Far Cry"

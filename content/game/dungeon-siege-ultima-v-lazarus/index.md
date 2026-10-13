@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.u5lazarus.com/Downloads.html"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Dungeon Siege"

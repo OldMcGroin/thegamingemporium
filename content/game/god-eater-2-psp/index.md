@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/god-eater-2-jpn/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "God Eater"

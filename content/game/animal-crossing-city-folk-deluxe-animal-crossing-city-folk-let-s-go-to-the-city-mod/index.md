@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://aurumsmods.com/accfdeluxe/"
   category: "mods"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

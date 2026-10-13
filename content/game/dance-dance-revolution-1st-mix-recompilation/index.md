@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/bmbelo87/ddr-1st-recomp/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Dance Dance Revolution"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/reddeadredemption2/mods/7152?tab=description"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "adventure"
   series: "Red Dead Redemption"

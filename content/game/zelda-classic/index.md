@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.zeldaclassic.com/about/"
   category: "open-source"
+  hidden: true
   genre1: "platformer"
   genre2: "rpg"
   series: "The Legend of Zelda"

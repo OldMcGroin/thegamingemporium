@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/segadreamcat/blueprincevr"
   category: "vr-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Blue Prince"

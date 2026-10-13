@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/oblivionremastered/mods/5330"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Elder Scrolls"

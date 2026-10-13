@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tecmobowl.org/files/file/868-tecmo-super-bowl-2024-final-edition/"
   category: "rom-hacks"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Tecmo Super Bowl"

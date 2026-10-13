@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.etlegacy.com/download"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Wolfenstein"

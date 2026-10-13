@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.freeorion.org/index.php/Main_Page"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "FreeOrion"

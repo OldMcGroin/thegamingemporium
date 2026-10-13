@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://d07riv.github.io/diabloweb/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Diablo"

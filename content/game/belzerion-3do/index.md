@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Eight-Mansions/Belzerion/releases/tag/Release"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: "first-person-shooter"
   series: "Belzerion"

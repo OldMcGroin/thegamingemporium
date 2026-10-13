@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/3dge7161/Jiggle-or-Physics"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dead or Alive"

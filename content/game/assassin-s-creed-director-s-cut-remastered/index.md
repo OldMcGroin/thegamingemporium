@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/assassinscreed/mods/152?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "stealth"
   genre2: "adventure"
   series: "Assassin's Creed"

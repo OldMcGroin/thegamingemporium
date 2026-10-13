@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://krispy-the-goat.itch.io/prey-2006"
   category: "in-the-works"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Prey"

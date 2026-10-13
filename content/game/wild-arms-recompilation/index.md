@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/wild-arms-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Wild Arms"

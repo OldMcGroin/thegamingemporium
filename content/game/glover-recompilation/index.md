@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ThatGuyMcd/Glover-R"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Glover"

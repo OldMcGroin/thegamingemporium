@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/2195910/Darkenstein_3D/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Darkenstein 3D"

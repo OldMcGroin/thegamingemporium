@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonicfangameshq.com/forums/showcase/rayman-lumograms-30th-anniversary-demo.2637/puzzle"
   category: "fan-games"
+  hidden: true
   genre1: "puzzle"
   genre2: ""
   series: "Rayman"

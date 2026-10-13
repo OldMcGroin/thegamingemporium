@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/0c0de/splatterhouse-decomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Splatterhouse"

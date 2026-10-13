@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/doc-haz/infinite-undiscovery-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Infinite Undiscovery"

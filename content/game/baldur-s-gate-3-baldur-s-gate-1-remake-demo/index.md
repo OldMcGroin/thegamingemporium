@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/baldursgate3/mods/18315"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Baldur's Gate"

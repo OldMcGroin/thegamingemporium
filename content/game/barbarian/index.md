@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://barbarian.1987.free.fr/indexEN.htm"
   category: "open-source"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Barbarian"

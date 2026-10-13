@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/christianortel/skate2-recompile-pc"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Skate"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Zelda64Recomp/Zelda64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

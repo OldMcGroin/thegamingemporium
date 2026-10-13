@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/3825360/Zombie_Panic/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "Half Life"

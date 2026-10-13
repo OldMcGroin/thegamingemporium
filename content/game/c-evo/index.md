@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://c-evo.org/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "city-builder"
   series: "C-Evo"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/snailspeed3/SMGDecompilation"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/klorfmorf/Goemon64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Mystical Ninja"

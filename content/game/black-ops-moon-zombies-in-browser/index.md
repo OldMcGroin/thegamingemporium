@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://moon-zombies.pages.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Call of Duty"

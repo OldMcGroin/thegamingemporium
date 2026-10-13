@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/prize-fighter-heavyweight-edition-saturn"
   category: "preserved-games"
+  hidden: false
   genre1: "sports"
   genre2: "fighting"
   series: "Prize Fighter"

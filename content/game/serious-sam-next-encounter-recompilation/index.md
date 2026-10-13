@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/takoshero96/Silly-ReEncounter"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Serious Sam"

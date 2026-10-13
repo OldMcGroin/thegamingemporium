@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.envile-media.com/filebase/index.php?file/13-terranigma-2-full-beta-ger-eng/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Terranigma"

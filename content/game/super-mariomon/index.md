@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pokecommunity.com/threads/super-mariomon.535764/"
   category: "rom-hacks"
+  hidden: false
   genre1: "creature-collector"
   genre2: "rpg"
   series: "Super Mario"

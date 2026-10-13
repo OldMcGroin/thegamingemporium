@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/project-jacinto"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "third-person-shootet"
   genre2: ""
   series: "Gears Of War"

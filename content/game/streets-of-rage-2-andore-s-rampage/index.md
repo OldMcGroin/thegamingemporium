@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/streets-of-rage-2-andores-rampage-genesis/"
   category: "rom-hacks"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Streets of Rage"

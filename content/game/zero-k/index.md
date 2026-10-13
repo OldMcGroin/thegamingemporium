@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://zero-k.info/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Zero-K"

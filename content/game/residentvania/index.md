@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://oco.itch.io/residentvania?ac=qfCyYFQF-yt"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "survival-horror"
   series: "Resident Evil"

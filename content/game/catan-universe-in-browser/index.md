@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://catanuniverse.com/en/game/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Catan Universe"

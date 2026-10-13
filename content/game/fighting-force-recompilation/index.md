@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/fighting-force-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Fighting Force"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GabeConway/OpenCrossing-Anbernic/releases"
   category: "android-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "life-simulator"
   series: "Animal Crossing"

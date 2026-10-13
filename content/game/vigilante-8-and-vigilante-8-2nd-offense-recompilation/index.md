@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GTTeancum/Vigilante-8-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "vehicular-combat"
   genre2: ""
   series: "Vigilante 8"

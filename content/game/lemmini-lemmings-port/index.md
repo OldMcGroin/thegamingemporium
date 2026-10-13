@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mjfwalsh/lemmini?tab=readme-ov-file"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Lemmings"

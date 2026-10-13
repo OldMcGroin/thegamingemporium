@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/49627"
   category: "mods"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "The Legend of Zelda"

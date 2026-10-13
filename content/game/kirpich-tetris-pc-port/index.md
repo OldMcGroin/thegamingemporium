@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/etroimcasso/Kirpich"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Tetris"

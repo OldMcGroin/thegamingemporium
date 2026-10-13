@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/horn-of-the-abyss"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "rpg"
   series: "Might & Magic"

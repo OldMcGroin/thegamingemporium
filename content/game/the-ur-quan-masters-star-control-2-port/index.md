@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sc2.sourceforge.net/"
   category: "open-source"
+  hidden: false
   genre1: "resource-management"
   genre2: "action"
   series: "Star Control"

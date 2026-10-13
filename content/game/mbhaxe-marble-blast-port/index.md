@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RandomityGuy/MBHaxe"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: "platformer"
   series: "Marble Blast"

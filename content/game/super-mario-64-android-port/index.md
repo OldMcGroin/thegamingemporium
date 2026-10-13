@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ManIsCat2/sm64coopdx/releases/tag/Av1.5.1"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

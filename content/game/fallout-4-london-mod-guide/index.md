@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://steamdeckhq.com/tips-and-guides/how-to-play-the-fallout-london-steam-deck/"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Fallout"

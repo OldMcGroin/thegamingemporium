@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/gstrike/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

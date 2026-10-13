@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/command-conquer-combined-arms"
   category: "fan-games"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Command & Conquer"

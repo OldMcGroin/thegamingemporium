@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://aliveteam.github.io/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Abe's Odyssey"

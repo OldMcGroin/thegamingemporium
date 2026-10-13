@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ACEmulator/ACE"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Asheron's Call"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/elliotttate/BombermanRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Bomberman"

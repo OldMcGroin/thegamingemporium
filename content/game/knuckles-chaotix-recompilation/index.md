@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/YuutaTsubasa/ChaotixRecompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/rainbow-six-black-ops-20/downloads/rainbow-six-black-ops-20-release"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "Tactical"
   series: "Rainbow Six"

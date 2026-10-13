@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/file/d/1_t5ofX2bu_9SAgDUm4A_F6HVrTbaPHd_/view"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Primal Rage"

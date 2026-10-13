@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Patoke/re-plants-vs-zombies"
   category: "in-the-works"
+  hidden: false
   genre1: "resource-management"
   genre2: "tower-defence"
   series: "Plants Vs Zombies"

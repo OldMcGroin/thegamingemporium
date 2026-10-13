@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/nightmare-creatures-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "survival-horror"
   series: "Nightmare Creatures"

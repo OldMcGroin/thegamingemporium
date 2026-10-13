@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://decky.net/en-eu/blogs/news/android-auf-dem-steam-deck"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

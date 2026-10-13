@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://opensaga.dev/"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "sandbox"
   series: "Lego"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/gascarcella/dw2003recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Digimon"

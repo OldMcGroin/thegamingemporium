@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/oY_3Uvyjy_k?si=xjiXCeK6Tx15zW20"
   category: "vr-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

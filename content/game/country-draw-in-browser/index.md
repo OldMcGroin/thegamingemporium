@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://countrydraw.games/"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Country Draw"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://blenderstudio.itch.io/dogwalk"
   category: "open-source"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Dogwalk"

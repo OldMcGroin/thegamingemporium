@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sqofer/NFS-Hot-Pursuit-Remastered-VR"
   category: "vr-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

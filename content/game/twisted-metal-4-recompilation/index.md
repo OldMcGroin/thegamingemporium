@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/TwistedMetal4Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "vehicular-combat"
   genre2: ""
   series: "Twisted Metal"

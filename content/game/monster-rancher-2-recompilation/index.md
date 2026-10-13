@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/monster-rancher-2-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "rpg"
   series: "Monster Rancher"

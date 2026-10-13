@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/WINDROID-EMU/Dantes-inferno-Android/releases"
   category: "android-ports"
+  hidden: true
   genre1: "action"
   genre2: ""
   series: "Dante's Inferno"

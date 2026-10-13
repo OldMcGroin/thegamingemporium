@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.simutrans.com/en/"
   category: "open-source"
+  hidden: false
   genre1: "transport-simulator"
   genre2: ""
   series: "SimuTrans"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/hacking-games-in-hex-sega-genesis-edition/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

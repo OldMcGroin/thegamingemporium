@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SheepStealer2001/sdw-decomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Sheep, Dog 'n' Wolf"

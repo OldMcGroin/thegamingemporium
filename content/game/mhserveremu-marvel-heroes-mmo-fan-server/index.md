@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://crypto137.github.io/MHServerEmu/blog/2026/03/20/mhserveremu-1-0-0.html"
   category: "utility"
+  hidden: false
   genre1: "MMORPG"
   genre2: "action"
   series: ""

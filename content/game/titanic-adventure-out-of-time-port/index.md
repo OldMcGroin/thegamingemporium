@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/itskenny0/titanic-godot"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: ""

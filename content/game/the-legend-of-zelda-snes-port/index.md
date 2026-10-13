@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/the-legend-of-zelda-snes_202510"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mr-freaks.itch.io/super-freaks-1-ultimate-edition"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Freaks"

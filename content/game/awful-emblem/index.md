@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://feuniverse.us/t/awful-emblem-version-1-0-release/3987/33"
   category: "fan-games"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Fire Emblem"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/coole42-pixel/PSPRecomp-MSAE"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "MotorStorm"

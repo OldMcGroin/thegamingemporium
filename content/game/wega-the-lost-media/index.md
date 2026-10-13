@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://team-lost-media.github.io/Pages/watlm.html#About_section"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Wega & The Lost Media"

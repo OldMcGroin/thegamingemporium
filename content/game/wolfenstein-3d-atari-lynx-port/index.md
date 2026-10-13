@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/drive/folders/11Mq1f8bDg_ZH8Z9DtjH5dC1-cCsP8ycZ"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Wolfenstein"

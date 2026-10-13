@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://starfoxeh.weebly.com/"
   category: "fan-games"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

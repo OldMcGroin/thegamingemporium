@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://z-team.itch.io/rick-dangerous-dx"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rick Dangerous"

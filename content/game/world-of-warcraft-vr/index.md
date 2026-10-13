@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Briinc3"
   category: "vr-ports"
+  hidden: false
   genre1: "MMORPG"
   genre2: ""
   series: "Warcraft"

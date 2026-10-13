@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Family_Guy_(Jun_25,_2012_prototype)"
   category: "preserved-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: ""

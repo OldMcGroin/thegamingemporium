@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/masterspike52/redahm"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Destroy All Humans"

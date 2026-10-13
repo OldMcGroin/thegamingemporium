@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://librelancer.net/"
   category: "open-source"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: "rpg"
   series: ""

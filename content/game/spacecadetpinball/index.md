@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/k4zmu2a/SpaceCadetpinball"
   category: "open-source"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Space Cadet pinball"

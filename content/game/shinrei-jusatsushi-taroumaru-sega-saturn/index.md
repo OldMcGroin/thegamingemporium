@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Patch"
   category: "english-translation-patches"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Shinrei Jusatsushi Taroumaru"

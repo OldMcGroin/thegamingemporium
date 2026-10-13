@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamingonlinux.com/guides/view/an-idiots-guide-to-setting-up-minecraft-on-steam-deck-steamos-with-controller-support/"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

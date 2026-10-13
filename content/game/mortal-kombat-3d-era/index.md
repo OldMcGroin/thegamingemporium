@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gatitomimoso00.itch.io/mortal-kombat-3d-era-remaster"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

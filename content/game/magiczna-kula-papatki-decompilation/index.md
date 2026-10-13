@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/regratka/mkp"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Magiczna kula Papatki"

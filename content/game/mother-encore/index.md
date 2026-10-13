@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mother-encore.itch.io/mother-encore"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

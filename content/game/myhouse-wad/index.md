@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://terrysfreegameoftheweek.com/myhouse-wad/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

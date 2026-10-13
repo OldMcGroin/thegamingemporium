@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/ResidentEvil1.5"
   category: "preserved-games"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Resident Evil"

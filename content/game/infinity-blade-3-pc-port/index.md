@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/infinity-blade-3-pc"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Infinity Blade"

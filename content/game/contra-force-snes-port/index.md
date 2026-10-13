@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/contra-force-snes-beta"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "shoot-em-up"
   series: "Contra"

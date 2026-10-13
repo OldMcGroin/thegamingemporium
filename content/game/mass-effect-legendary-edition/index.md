@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/masseffectlegendaryedition/mods/1825?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: "third-person-shooter"
   series: "Mass Effect"

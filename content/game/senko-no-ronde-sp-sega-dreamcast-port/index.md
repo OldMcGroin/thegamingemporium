@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dreamcast-talk.com/forum/viewtopic.php?p=204937#p204937"
   category: "console-ports"
+  hidden: false
   genre1: "fighting"
   genre2: "shoot-em-up"
   series: "Senko no Ronde SP"

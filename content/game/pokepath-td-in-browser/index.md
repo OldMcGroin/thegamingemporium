@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://khydra98.itch.io/pokepath"
   category: "browser-based"
+  hidden: false
   genre1: "tower-defence"
   genre2: ""
   series: "Pokemon"

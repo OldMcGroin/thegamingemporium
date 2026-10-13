@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/e393g4U4xUU?si=rTY788C-KdflwLch"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

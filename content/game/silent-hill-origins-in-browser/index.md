@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://silenthillorigins.zeliaopen.space/"
   category: "browser-based"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Silent Hill"

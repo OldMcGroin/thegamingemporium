@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/kkrieger/878950"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "kkrieger"

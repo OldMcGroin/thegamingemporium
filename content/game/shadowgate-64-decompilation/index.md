@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/rainchus/shadowgate64"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Shadowgate"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://bouncergames.com/project-forever/"
   category: "fan-games"
+  hidden: true
   genre1: "beat-em-up"
   genre2: ""
   series: "Final Fight"

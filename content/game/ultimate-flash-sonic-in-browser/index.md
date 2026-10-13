@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pivotzone.itch.io/sonic-flash"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

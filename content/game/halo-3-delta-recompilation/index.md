@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/twist84/halo3_cache_release_recomp/?ref=readonlymemo.com"
   category: "in-the-works"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Halo"

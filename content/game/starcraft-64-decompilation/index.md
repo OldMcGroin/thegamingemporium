@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/n0madic/StarCraft64-recomp"
   category: "in-the-works"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "StarCraft"

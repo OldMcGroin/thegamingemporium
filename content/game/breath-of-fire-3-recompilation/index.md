@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kerokline/BreathOfFire3Recomp"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Breath of Fire"

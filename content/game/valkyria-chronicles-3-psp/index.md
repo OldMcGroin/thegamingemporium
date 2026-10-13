@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.youtube.com/watch?v=Q959IdFo6_g"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Valkyria Chronicles"

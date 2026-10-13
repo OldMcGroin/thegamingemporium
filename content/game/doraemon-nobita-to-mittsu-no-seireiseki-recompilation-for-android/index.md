@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/citrongames/Dora64"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "adventure"
   series: "Doraemon"

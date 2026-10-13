@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://transfer.it/t/fViYTF8BDDxC"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "P.T."

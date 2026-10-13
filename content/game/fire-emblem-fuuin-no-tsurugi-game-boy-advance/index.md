@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/gba-roms/fire-emblem-fuuin-no-tsurugi/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Fire Emblem"

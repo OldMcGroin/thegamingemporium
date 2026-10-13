@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/TAD0OP-qTqGOKtW0lsVeVg"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Battle Master: Kykyoku no Senshitachi"

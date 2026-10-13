@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://haroldo-ok.itch.io/flashback-sms"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Flashback"

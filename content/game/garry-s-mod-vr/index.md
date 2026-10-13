@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pcvrcentral.com/mods/garrys-mod-gvrmod"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

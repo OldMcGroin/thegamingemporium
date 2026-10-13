@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GiZcesi/OpenTricky"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "SSX Tricky"

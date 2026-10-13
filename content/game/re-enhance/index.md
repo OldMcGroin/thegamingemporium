@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/reenhance-re1/news/reenhance-re1-version-20-is-out"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Joyastick/melee-pc-TagFighter"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

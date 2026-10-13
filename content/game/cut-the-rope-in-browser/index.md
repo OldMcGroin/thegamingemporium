@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://yell0wsuit.github.io/cuttherope-h5dx/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Cut the Rope"

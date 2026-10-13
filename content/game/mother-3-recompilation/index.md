@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/agray0425/Mother3Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

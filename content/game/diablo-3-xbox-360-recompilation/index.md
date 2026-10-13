@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Boron853/Souls-of-the-Reaper/releases/tag/beta-1.2"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Diablo"

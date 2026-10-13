@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sotn2018br.blogspot.com/2025/11/original-name-japanese-dracula-x-gekka.html?m=1"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

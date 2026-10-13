@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wiibrew.org/wiki/OpenHCL"
   category: "open-source"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Hydra Castle Labyrinth"

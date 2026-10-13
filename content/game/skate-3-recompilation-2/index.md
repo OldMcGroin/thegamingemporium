@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mchughalex/skate3recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: "action"
   series: "Skate"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/batmanarkhamcity/mods/407?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Batman"

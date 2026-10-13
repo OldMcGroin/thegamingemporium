@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LucasPicoli/god-hand-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "God Hand"

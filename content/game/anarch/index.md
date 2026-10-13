@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drummyfish.gitlab.io/anarch/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Anarch"

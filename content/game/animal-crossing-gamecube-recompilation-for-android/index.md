@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/zwaetschge/ACGC-Android-Port"
   category: "android-ports"
+  hidden: false
   genre1: "life-simulator"
   genre2: "sandbox"
   series: "Animal Crossing"

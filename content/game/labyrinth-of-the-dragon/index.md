@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://neshacker.itch.io/labyrinth-of-the-dragon"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Labyrinth of the Dragon"

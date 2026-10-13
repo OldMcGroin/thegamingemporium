@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://colab.research.google.com/drive/1jn7SPKeHwZ-0qXIvA4uzdF-ykeh6xtNL"
   category: "console-ports"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

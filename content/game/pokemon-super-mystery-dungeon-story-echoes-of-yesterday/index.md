@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hacks.skytemple.org/h/echoes_yesterday?ref=retrododo.com"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

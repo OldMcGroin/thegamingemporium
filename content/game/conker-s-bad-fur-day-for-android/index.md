@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/codepdbh/CBFD-Recompiled-Android-Evolved"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Conker"

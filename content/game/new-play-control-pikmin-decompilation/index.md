@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/projectPiki/pik1wii"
   category: "in-the-works"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Pikmin"

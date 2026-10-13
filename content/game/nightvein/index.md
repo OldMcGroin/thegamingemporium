@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://retrohammer.com/#games"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "NightVein"

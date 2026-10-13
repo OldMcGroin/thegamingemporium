@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gasega68k.itch.io/g-zero"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "G-Zero"

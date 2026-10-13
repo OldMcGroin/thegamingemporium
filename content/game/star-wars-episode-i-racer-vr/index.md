@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GameOrDie007/Star-Wars-Episode-I-Racer-PCVR"
   category: "vr-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Star Wars"

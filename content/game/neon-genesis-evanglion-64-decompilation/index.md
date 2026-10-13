@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/farisawan-2000/evangelion"
   category: "in-the-works"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Neon Genesis Evanglion"

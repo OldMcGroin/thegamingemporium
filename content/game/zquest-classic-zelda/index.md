@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.purezc.net/forums/index.php?showtopic=78707"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Buffy the Vampire Slayer"

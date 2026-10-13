@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sidequestvr.com/app/23478/prey-vr"
   category: "vr-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Prey"

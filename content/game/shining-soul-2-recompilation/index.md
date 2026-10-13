@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MatyMeatBoy/SS2Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Shining Soul"

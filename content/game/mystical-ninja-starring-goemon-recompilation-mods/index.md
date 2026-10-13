@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/klorfmorf/MNSGRecompRedubMod/releases/tag/1.0.0"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: "Mystical Ninja"

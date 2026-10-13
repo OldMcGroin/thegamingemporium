@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/cdlewis/snowboardkids-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Snowboard Kids"

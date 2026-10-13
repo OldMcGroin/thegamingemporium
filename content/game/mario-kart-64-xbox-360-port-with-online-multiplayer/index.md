@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sirdankz/MKart360"
   category: "console-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

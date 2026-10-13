@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Dark_Empires_%28prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Dark Empires"

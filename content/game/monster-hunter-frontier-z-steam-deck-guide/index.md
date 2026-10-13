@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mholdschool.com/viewtopic.php?t=675"
   category: "guides"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Monster Hunter"

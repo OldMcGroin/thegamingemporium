@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://monkeyball.online/"
   category: "console-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Monkey Ball"

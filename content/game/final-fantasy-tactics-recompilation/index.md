@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NJH-1001/FinFanTacRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Final Fantasy"

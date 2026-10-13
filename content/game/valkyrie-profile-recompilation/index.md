@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Ed1z19/ValkyrieRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "strategy"
   genre2: "rpg"
   series: "Valkyrie Profile"

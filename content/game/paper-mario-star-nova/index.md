@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nictuber.itch.io/paper-mario-star-nova"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

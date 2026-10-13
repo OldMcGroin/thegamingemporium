@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/6514/"
   category: "english-translation-patches"
+  hidden: true
   genre1: "rpg"
   genre2: "strategy"
   series: "Ogre Battle"

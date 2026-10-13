@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.segasaturnshiro.com/2025/04/24/english-patch-for-dark-seed-is-available-now/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Dark Seed"

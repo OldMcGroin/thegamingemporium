@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DramaticShape/DramaticShapeVoxelMod/releases"
   category: "android-ports"
+  hidden: true
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

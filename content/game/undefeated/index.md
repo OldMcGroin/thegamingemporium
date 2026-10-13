@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/1116960/UNDEFEATED/"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Undefeated"

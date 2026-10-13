@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/Soul_Calibur_Swords_of_Destiny/910254"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Soul Calibre"

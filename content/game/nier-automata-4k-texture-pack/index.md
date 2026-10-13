@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/nierautomata/mods/759?tab=files"
   category: "texture-packs"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "NieR Automata"

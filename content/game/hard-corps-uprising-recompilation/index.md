@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/saulob/hard-corps-uprising-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Hard Corps"

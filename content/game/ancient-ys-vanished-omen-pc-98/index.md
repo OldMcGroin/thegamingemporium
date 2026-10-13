@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GhaleonX/Ys"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Ys"

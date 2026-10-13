@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/translations/rpg-maker-ds-create-the-new-world-english-translation-nintendo-ds"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

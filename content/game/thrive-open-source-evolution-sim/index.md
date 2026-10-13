@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Revolutionary-Games/Thrive/releases/tag/v0.8.3"
   category: "open-source"
+  hidden: false
   genre1: "evolutionary-live-simulator"
   genre2: ""
   series: "Thrive"

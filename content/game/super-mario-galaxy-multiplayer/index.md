@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/marcoficini51-sketch/SMGM"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

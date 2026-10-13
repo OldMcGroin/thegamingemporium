@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://re4hd.com/?page%5C_id=9654"
   category: "texture-packs"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

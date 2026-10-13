@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Daredevil:_The_Man_Without_Fear_%28Mar_22,_2004_prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: "platformer"
   series: "Daredevil"

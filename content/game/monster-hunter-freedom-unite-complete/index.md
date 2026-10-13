@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fucomplete.github.io/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Monster Hunter"

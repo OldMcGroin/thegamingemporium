@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/YoshiCrystal9/2ship2harkinian-Switch"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/roborich/Shipwright/releases/tag/v0.3-cel-shade"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

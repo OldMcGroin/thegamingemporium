@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://transmutrix.itch.io/kiki-the-nanobot"
   category: "browser-based"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/BanjoKazooie-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

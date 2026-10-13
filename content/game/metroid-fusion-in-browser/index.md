@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhaven.com/play.html?system=gba&rom=Metroid%20Fusion.gba"
   category: "browser-based"
+  hidden: true
   genre1: "metroidvania"
   genre2: ""
   series: "Metroid"

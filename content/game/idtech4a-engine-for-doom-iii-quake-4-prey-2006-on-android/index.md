@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/glKarin/com.n0n3m4.diii4a"
   category: "android-ports"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

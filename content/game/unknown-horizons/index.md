@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://unknown-horizons.org/"
   category: "open-source"
+  hidden: false
   genre1: "city-builder"
   genre2: "resource-management"
   series: "Unknown Horizons"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cyclonefox.itch.io/xenosaga-pied-piper"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Xenosaga"

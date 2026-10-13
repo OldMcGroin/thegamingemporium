@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RaYRoD-TV/StarFox64-VR"
   category: "vr-ports"
+  hidden: true
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

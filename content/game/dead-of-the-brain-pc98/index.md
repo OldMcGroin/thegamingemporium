@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/game/entry/PdNs5JQBNs8FWu0CmDSo/dead-of-the-brain"
   category: "english-translation-patches"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Dead of the Brain"

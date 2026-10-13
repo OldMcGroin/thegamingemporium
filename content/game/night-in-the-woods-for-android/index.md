@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/file/d/1G4FGs-Pa-io9da3-YZE2AaY2wTY1Hhkk/view"
   category: "android-ports"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Night In The Woods"

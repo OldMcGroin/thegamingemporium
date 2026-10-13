@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://segaxtreme.net/resources/dungeons-dragons-tower-of-doom-english-patch.426/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "beat-em-up"
   series: "Dungeons & Dragons"

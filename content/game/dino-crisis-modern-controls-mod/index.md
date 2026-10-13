@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/nahuelx32/dino-crisis-modern-controls"
   category: "mods"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Dino Crisis"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mechakotik/tails-adventure"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Sonic the Hedgehog"

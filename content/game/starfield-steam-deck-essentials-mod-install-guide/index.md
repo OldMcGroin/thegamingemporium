@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/T5rQBbcV_AY?si=38PNEz8T3WE4RFtZ"
   category: "guides"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Starfield"

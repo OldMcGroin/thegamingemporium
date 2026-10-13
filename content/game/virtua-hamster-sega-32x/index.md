@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2020/10/virtua-hamster/"
   category: "preserved-games"
+  hidden: false
   genre1: "racing"
   genre2: "action"
   series: "Virtua Hamster"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/Bomberman-World-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "strategy"
   series: "Bomberman"

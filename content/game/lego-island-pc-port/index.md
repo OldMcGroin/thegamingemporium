@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/isledecomp/isle-portable"
   category: "open-source"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Lego"

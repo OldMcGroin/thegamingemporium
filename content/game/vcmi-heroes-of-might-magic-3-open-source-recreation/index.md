@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/vcmi/vcmi"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Might & Magic"

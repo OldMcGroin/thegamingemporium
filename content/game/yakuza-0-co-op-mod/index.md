@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/yakuza0/mods/1276?tab=description"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Yakuza"

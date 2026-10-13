@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/origami-ltd/gamecube-reVC"
   category: "console-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

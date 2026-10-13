@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/dreamingmoths/memory-of-alessa"
   category: "in-the-works"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Silent Hill"

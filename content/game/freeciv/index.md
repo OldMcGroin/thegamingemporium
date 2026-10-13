@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.freeciv.org/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Civilisation"

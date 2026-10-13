@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.magmmlcontest.com/games.php"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "shoot-em-up"
   series: "Mega Man"

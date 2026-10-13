@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/04/mechanoids-2-the-final-conflict/"
   category: "preserved-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "mechanoids"

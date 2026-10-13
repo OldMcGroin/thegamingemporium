@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kote2345/The-Simpsons-Hit-and-Run-VR"
   category: "vr-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "The Simpsons"

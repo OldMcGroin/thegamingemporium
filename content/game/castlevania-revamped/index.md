@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/castlevania-re-vamped-ubuntu"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Castlevania"

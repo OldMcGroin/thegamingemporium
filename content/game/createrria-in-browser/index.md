@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nomadic-ua.itch.io/createrria"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Createrria"

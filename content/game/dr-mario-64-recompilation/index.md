@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/theboy181/drmario64_recomp_plus"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Super Mario"

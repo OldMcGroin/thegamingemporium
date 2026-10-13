@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/garrys-mod-13-xash-new-beta-09-gmod-on-android-unofficial"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: ""

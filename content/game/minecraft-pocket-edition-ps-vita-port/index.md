@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DevZer0D4Y/mcpe-psvita-edition"
   category: "console-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "adventure"
   series: "Minecraft"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://redblue.benjamincrozat.com/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Pokemon"

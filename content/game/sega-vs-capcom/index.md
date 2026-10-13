@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://4cydestudios.com/game/sega-vs-capcom"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

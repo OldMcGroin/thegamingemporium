@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jlagedo/dreams-to-reality-re"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Dreams to Reality"

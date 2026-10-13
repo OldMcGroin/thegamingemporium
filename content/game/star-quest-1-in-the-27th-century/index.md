@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://virtual-adventures.itch.io/star-quest-1-in-the-27th-century"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Star Quest"

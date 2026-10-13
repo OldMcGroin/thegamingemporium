@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://batandy.itch.io/simonsdestiny"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Castlevania"

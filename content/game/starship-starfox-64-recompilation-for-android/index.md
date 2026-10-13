@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/izzy2lost/Starship/releases/tag/v1.0.3"
   category: "android-ports"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ts02014553.itch.io/megaman-x4-kb"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

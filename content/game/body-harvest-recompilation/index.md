@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/danielgomesvieira2000/body-harvest-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "adventure"
   series: "Body Harvest"

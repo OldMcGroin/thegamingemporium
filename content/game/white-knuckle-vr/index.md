@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kyanite-rock/White_Knuckle_VR#the-vr-settings-menu"
   category: "vr-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: "survival-horror"
   series: "White Knuckle"

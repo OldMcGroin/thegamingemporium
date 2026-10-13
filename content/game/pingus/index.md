@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pingus.seul.org/"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Pingus"

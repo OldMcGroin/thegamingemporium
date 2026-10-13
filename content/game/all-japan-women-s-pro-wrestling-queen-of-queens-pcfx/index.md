@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhack.ing/database/content/entry/-JIdj-dSReyb69bQ1d0aCw/all-japan-women-s-pro-wrestling-queen-of-queens-english"
   category: "english-translation-patches"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "All Japan Women's Pro Wrestling Queen of Queens"

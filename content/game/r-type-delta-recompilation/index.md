@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/r-type-delta-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "R-Type"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/dhalcyon/posts/mass-effect-vr-167394663"
   category: "vr-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "third-person-shooter"
   series: "Mass Effect"

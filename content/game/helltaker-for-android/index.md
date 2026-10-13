@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/puzzle/helltaker-91016/"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Helltaker"

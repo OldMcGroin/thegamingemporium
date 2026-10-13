@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/Frogbull/posts/comix-zone-sixty-168106925"
   category: "console-ports"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Comix Zone"

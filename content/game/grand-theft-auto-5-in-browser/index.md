@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://web.archive.org/web/20261006055917/https://playgta5.com/"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

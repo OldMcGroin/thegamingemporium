@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.asceai.net/meritous/"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Meritous"

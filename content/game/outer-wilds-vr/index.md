@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/-oWSzwWdz4g?si=IOYTOC2_HERmhbuN"
   category: "vr-ports"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Outer Wilds"

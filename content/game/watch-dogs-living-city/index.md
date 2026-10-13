@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/watchdogs/mods/81"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Watch Dogs"

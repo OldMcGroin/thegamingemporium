@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/hbgda/home"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Spiderman"

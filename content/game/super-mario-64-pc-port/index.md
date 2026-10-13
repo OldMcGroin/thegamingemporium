@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/sm64-source-playable"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

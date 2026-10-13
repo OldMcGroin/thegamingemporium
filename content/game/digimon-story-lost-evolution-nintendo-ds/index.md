@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mega.nz/file/cd4DVJxD#HyZHOyrQZBE1GAhso6dMollB17HoZD1_ljgMc6VOyWc"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "life-simulator"
   series: "Digimon"

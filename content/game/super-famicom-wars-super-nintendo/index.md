@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/3354/"
   category: "english-translation-patches"
+  hidden: true
   genre1: "strategy"
   genre2: ""
   series: "Super Famicom Wars"

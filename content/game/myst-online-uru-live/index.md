@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mystonline.com/en/"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "Myst"

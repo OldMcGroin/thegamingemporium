@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "best-em-up"
   genre2: ""
   series: "Star Wars"

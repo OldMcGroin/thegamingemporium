@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mm8bdm.net/home"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Mega Man"

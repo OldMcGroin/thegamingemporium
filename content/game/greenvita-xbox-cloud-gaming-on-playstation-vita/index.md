@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Day-OS/green-vita"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://f-droid.org/en/packages/net.warsmash.phone/"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Warcraft"

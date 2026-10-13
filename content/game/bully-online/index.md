@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/2J0_BnWKvEA?si=6W-N4UdbE67sWjDk"
   category: "in-the-works"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Bully"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.projectdiablo2.com/download"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Diablo"

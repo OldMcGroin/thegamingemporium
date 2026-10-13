@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/6797/"
   category: "rom-hacks"
+  hidden: true
   genre1: "action"
   genre2: ""
   series: "Amazing Penguin"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://perroautonomo.itch.io/biohazard-2"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "survival-horror"
   series: "Resident Evil"

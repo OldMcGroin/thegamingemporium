@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/eldenring/mods/10659"
   category: "vr-ports"
+  hidden: true
   genre1: "rpg"
   genre2: "adventure"
   series: "Elden Ring"

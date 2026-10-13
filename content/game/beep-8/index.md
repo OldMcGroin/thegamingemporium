@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://beep8.org/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Beep-8"

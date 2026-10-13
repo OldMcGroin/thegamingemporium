@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Sinan-Karakaya/DQ8-Recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Dragon Quest"

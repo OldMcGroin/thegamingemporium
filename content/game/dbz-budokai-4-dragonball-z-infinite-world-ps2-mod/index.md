@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/games/dragon-ball-z-budokai-4"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Budokai"

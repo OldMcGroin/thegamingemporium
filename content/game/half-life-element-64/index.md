@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/1625220/HalfLife_Element_64/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

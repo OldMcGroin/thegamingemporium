@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/x4foundations/mods/349"
   category: "mods"
+  hidden: false
   genre1: "space-flight-simulator"
   genre2: "strategy"
   series: "Star Wars"

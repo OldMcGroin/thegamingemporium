@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gemrb.org/Features.html"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Baldur's Gate"

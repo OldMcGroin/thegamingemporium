@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ArtfulRascal8/rage-wars-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Turok"

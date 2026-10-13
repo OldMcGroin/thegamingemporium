@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.marcrobledo.com/game-boy/mole-mania-dx/"
   category: "rom-hacks"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Mole Mania"

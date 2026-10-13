@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/krystalgamer/spidey-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Spiderman"

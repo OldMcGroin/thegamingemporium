@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/424541"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Celeste"

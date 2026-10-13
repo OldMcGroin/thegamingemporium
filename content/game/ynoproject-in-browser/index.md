@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ynoproject.net/"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: "horror"
   series: "YNOproject"

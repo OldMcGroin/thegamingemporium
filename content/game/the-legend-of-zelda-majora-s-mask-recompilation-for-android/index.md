@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/linkzenic/2ship2harkinian-Android"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

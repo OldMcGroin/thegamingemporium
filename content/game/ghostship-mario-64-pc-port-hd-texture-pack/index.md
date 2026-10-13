@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://evilgames.eu/texture-packs/sm64-reloaded.htm"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "Platformer"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/eNtb8myubnI?si=iKcoY4kzkVWN64CK"
   category: "fan-games"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Ridge Racer"

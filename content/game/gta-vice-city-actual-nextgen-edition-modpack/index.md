@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mediafire.com/file/1i2gqml81umjugt/GTA+Vice+City+Actual+Next-Gen+Edition+v6.0.7z/file"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

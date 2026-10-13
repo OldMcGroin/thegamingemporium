@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mxretrodev.itch.io/final-fight-md"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Final Fight"

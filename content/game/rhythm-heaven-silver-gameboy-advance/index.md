@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ShaffySwitcher/RhythmHeavenSilver"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Rhythm Heaven Silver"

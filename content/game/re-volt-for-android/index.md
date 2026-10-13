@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://re-volt.io/downloads/game"
   category: "android-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Re-Volt"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/yannicksuter/smstrikers-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Super Mario"

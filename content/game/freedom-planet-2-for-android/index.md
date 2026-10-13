@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/freedom-planet-2-134313/"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Freedom Planet"

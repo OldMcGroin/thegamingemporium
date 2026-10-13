@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jorio/BillyFrontier"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Billy Frontier"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kay-yu.itch.io/holocure"
   category: "fan-games"
+  hidden: false
   genre1: "roguelike"
   genre2: "survivorslike"
   series: "Holocure"

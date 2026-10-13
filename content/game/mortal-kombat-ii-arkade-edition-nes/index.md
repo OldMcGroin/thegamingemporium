@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9073/"
   category: "rom-hacks"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Mortal Kombat"

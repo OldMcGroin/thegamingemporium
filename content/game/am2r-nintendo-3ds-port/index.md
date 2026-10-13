@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://codeberg.org/NattensMadrigal/AM2R_3DS.git"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Metroid"

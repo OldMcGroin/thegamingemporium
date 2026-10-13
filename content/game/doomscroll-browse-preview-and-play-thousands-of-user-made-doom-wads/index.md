@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://doomscroll.cx/"
   category: "fan-games"
+  hidden: true
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

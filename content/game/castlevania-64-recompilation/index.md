@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/RevoSucks/CV64Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Castlevania"

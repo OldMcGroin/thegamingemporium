@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.q3rally.com/"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: ""

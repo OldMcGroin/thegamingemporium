@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fusion-fangaming.itch.io/mushroom-kingdom-fusion"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Super Mario"

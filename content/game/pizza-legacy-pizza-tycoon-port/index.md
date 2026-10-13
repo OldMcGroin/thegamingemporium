@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://codeberg.org/cowomaly/pizzalegacy"
   category: "open-source"
+  hidden: false
   genre1: "business-simulator"
   genre2: ""
   series: "Pizza Tycoon"

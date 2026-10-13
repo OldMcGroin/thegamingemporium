@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TekRantGaming/sms-pc-port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

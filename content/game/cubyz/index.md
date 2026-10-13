@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/PixelGuys/Cubyz"
   category: "open-source"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "Cubyz"

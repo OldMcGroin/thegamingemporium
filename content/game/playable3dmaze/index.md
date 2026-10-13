@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/x86matthew/Playable3DMaze"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "3D Maze"

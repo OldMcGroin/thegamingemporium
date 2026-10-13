@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Hybrid Heaven"

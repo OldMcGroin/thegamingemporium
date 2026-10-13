@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://scummweb.tsilva.eu/beneath-a-steel-sky/play"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Beneath a Steel"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/he-man/19434"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "He-Man"

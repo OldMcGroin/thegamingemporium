@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/halkuncode/anothermind-decomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "Another Mind"

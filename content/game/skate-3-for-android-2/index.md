@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/andrewnakas/skate3-android"
   category: "android-ports"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Skate"

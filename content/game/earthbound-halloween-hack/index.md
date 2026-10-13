@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://web.archive.org/web/20190314101907/https://www.romhacking.net/hacks/1882/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

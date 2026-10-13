@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rengames.us/ffr"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

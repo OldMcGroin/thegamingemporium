@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SolarCookies/TiP-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "life-simulator"
   genre2: "management-simulator"
   series: "Viva Pinata"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/lob-corp/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: "roguelike"
   series: "Lobotomy Corporation"

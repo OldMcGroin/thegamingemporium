@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/morrowind-rebirth"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Elder Scrolls"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://toen184.itch.io/human-killing-en"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Human Killing"

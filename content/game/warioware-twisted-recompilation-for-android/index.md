@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mstan/WarioWareTwistedRecomp"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Super Mario"

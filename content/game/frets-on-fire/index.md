@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fretsonfire.sourceforge.net/"
   category: "open-source"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Frets on Fire"

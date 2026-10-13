@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Xeeynamo/sotn-decomp/wiki/Maria-PSP-for-PSX-%E2%80%90-How-to-install"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Castlevania"

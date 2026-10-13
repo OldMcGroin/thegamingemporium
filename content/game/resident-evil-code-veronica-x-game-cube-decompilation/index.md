@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/fmil95/recvx-gc-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "survival-horror"
   genre2: "third-person-shooter"
   series: "Resident Evil"

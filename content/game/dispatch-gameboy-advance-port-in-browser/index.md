@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://luckyliefe.itch.io/dispatch-gba"
   category: "browser-based"
+  hidden: false
   genre1: "visual-novel"
   genre2: "strategy"
   series: "Dispatch"

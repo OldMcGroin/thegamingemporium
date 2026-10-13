@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevilrequiem/mods/1017?tab=videos"
   category: "vr-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Resident Evil"

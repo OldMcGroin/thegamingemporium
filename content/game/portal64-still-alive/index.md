@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/VideogameSources/portal64-still-alive"
   category: "console-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: "platformer"
   series: "Portal"

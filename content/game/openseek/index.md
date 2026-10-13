@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rcwnd.itch.io/openseek"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: ""

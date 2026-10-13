@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/jzelda_woohoo/1043660"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Mr-Shizzy/PacManRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Pac-Man"

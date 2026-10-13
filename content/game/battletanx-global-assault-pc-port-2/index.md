@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "vehicular-combat"
   genre2: ""
   series: "BattleTanx"

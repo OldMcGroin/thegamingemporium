@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/star-fox-shindou-edition-snes/"
   category: "mods"
+  hidden: true
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

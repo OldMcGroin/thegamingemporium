@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/nicomegadrive/SGDK-ROMS/tree/main/MysticQuest"
   category: "in-the-works"
+  hidden: true
   genre1: "rpg"
   genre2: ""
   series: "Final Fantasy"

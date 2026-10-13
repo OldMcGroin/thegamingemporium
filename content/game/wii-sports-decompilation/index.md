@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/doldecomp/ogws"
   category: "in-the-works"
+  hidden: false
   genre1: "sports"
   genre2: "minigames"
   series: "Wii Sports"

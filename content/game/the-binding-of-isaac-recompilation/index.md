@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/whylurking/IsaacRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "roguelike"
   genre2: "action"
   series: "The Binding of Isaac"

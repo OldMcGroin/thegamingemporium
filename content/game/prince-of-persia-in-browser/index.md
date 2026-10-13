@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://princejs.com/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Prince of Persia"

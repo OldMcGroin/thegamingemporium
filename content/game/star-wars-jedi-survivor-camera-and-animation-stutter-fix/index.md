@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://community.pcgamingwiki.com/files/file/3924-star-wars-jedi-survivor-camera-and-animation-stutter-fix/"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Star Wars"

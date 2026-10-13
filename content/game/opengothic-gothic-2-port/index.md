@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Try/OpenGothic"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Gothic 2"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.doomworld.com/forum/topic/135602-doom-ii-rpg-port-reverse-engineering-version-01-source-code-release/"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Doom"

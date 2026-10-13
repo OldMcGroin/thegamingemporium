@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://segaxtreme.net/resources/sakura-wars-2-english-translation.412/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: "dating-simulator"
   series: "Sakura Wars"

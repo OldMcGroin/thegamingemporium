@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/omegakatana92/Armored-Core-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Armored Core"

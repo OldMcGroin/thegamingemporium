@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/ashes-2063/downloads/ashes-stand-alone-version-101"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Ashes"

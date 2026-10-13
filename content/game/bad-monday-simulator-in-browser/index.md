@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://lumpytouch.itch.io/bad-monday-simulator"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "puzzle"
   series: "Undertale"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/z3xox/Tenkaichi3Decomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc"
   category: "vr-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Gran Turismo"

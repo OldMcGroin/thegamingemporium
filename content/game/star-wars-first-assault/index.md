@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://discord.com/invite/XqQ6Je4muy"
   category: "preserved-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "action"
   series: "Star Wars"

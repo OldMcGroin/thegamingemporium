@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/nikolaygorb/PerfectDarkRemasterRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/recomp-code/street-recomp-v3"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NBA Street"

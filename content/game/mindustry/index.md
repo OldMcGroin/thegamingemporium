@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mindustrygame.github.io/"
   category: "open-source"
+  hidden: false
   genre1: "factory-management"
   genre2: "automation"
   series: "Mindustry"

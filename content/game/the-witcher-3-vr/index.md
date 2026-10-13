@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pcvrcentral.com/mods/the-witcher-3-wild-hunt-witcher3-vr"
   category: "vr-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Witcher"

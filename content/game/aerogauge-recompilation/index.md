@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alondero/aerogauge-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "AeroGauge"

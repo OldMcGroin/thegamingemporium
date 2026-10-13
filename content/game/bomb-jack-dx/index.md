@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/6781/"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Bomb Jack"

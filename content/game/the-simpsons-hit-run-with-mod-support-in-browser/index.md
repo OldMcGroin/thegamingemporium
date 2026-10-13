@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://shar.harshvirdhaliwal.com/"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: "racing"
   series: "The Simpsons"

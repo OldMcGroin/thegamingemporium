@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/skyrimspecialedition/mods/164600"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Skyrim"

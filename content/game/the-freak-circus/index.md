@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://garula.itch.io/the-freak-circus"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "The Freak Circus"

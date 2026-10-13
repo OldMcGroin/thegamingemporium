@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://forums.civfanatics.com/forums/civ4-caveman-2-cosmos.449/"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Civilisation"

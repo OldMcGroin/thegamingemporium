@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.shadowofthewyrm.org/"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "Shadow of the Wyrm"

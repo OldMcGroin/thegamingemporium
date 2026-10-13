@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/ztpeditor/project-amp/-/releases"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Amplitude"

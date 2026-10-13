@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://teamrumblebee.itch.io/lisvn"
   category: "fan-games"
+  hidden: false
   genre1: "dating-simulator"
   genre2: "visual-novel"
   series: "Life is Strange"

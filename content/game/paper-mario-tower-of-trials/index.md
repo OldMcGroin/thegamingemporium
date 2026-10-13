@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jdaster64/ttyd-tot"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

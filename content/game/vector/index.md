@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://charger0277.itch.io/vector"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Portal"

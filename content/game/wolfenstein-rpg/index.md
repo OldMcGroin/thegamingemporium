@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.doomworld.com/forum/topic/151475"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Wolfenstein"

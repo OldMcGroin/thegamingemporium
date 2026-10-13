@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamingalexandria.com/wp/2025/12/sega-channel-prototype-sega-genesis-roms/"
   category: "preserved-games"
+  hidden: false
   genre1: ""
   genre2: ""
   series: "SEGA"

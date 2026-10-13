@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/Danganmake/1093651"
   category: "fan-games"
+  hidden: false
   genre1: "visual-novel"
   genre2: "adventure-creation-tool"
   series: ""

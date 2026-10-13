@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cxong.github.io/cdogs-sdl/"
   category: "open-source"
+  hidden: false
   genre1: "action"
   genre2: "shoot-em-up"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://greatondeck.net/need-for-speed-pro-street-is-easy-on-steam-deck-with-this-guide/"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

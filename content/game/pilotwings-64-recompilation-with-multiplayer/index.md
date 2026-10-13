@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NoahVl/Birdman64"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "flight-simulator"
   genre2: "sports"
   series: "Pilotwings"

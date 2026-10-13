@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TheMrIron2/sf64-psp"
   category: "console-ports"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

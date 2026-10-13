@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JamesIV4/sim-copter-remake"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "flight-simulator"
   genre2: "action"
   series: ""

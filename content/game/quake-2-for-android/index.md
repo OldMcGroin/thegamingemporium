@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://quake-2.en.uptodown.com/android"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Quake"

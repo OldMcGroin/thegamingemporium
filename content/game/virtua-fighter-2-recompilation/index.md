@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://vf2-recomp.pages.dev/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Virtua Fighter"

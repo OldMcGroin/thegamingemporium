@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OpenDriver2/REDRIVER2"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "driving-simulator"
   genre2: "action"
   series: "Driver"

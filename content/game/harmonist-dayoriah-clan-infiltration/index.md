@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://codeberg.org/anaseto/harmonist"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "stealth"
   series: "Harmonist"

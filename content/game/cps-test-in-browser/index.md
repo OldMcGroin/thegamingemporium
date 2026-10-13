@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cps-test.co/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: ""

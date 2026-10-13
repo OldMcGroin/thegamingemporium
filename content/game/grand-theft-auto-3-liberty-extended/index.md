@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://libertycity.net/files/gta-3/191140-liberty-extended-october-2025-update.html"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

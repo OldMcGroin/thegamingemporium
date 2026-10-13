@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/bitten2up/SRB2-Android/releases"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

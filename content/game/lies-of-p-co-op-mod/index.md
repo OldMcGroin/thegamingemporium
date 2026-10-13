@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/liesofp/mods/368?tab=description"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Lies of P"

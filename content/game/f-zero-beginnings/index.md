@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/f-zero-beginnings-snes/"
   category: "rom-hacks"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "F-Zero"

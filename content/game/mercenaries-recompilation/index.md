@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/file/d/1OBF-HPU663GljL1qYjF4HCfoey__x7Jx/view"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "action"
   series: "Mercenaries"

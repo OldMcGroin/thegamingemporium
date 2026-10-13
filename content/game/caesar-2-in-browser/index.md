@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://second-impressions.github.io/caesar2-port/"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

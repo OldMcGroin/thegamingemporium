@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Capridog/SpaceRanger"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Toy Story"

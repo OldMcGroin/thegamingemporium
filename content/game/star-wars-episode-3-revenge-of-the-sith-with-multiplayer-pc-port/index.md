@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jedijosh920/SWROTS-PC"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Star Wars"

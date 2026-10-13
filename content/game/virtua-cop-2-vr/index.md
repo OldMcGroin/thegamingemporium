@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NeuralF/Rea-Virtua-Cop-2-VR"
   category: "vr-ports"
+  hidden: false
   genre1: "light-gun-shooter"
   genre2: ""
   series: "Virtua Cop"

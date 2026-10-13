@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://theoutcastersnotebook.com/post/set-up-pmex-remix-on-deck/"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Smash Brothers"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DohmBoy64Bit/TheOutFit"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "The Outfit"

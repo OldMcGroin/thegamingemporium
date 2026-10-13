@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wowroms.com/en/roms/sega-genesis-megadrive/beyond-zero-tolerance-usa-proto/25311.html"
   category: "preserved-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Beyond Zero Tolerance"

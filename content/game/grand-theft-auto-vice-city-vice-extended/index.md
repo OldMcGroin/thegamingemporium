@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://libertycity.net/files/gta-vice-city/167639-vice-extended-october-2025-update.html"
   category: "mods"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

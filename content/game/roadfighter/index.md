@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/codehard123/RoadFighter"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: "action"
   series: ""

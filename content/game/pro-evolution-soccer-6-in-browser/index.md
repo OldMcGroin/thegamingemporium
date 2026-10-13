@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pes6.optijuegos.net/"
   category: "browser-based"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Pro Evolution Soccer"

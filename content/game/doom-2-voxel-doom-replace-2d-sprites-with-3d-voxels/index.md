@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/voxel-doom-ii/addons/voxel-doomii-v2-1"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Doom"

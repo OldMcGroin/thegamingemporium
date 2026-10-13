@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OverkillLabs2/gears-judgment-recomp"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "third-person-shooter"
   genre2: ""
   series: "Gears of War"

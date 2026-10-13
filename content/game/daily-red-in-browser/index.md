@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://daily-red.com/"
   category: "browser-based"
+  hidden: false
   genre1: "turn-based-battles"
   genre2: ""
   series: "Pokemon"

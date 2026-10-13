@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Velaron/cs16-client"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Counter Strike"

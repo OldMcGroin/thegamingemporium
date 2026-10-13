@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/finalfantasytactics/comments/xi0l6t/mod_release_the_lion_war_of_the_lions_tlwotl/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "strategy"
   series: "Final Fantasy"

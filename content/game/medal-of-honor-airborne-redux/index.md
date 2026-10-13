@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/medal-of-honor-airborne-redux/downloads"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Medal of Honor"

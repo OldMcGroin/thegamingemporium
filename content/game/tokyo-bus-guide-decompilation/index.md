@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/lhsazevedo/tbg-decomp"
   category: "in-the-works"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Tokyo Bus Guide"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FrankHUN88453/CoD3Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Call of Duty"

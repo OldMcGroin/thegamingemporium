@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/XMENMA/978953"
   category: "fan-games"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "X-Men"

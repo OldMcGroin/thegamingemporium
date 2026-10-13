@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/eandis/SDOJ-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: "action"
   series: ""

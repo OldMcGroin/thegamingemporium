@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cyangmou.itch.io/isometric-games-dont-exist"
   category: "guides"
+  hidden: false
   genre1: "guides"
   genre2: ""
   series: ""

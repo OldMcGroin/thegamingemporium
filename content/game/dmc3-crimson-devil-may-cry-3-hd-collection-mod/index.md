@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dmc3crimson.github.io/"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Devil May Cry"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Rainchus/Quest64-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Quest 64"

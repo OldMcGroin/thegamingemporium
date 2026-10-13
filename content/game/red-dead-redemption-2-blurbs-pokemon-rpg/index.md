@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/reddeadredemption2/mods/8332"
   category: "mods"
+  hidden: true
   genre1: "rpg"
   genre2: "creature-collector"
   series: "Red Dead Redemption"

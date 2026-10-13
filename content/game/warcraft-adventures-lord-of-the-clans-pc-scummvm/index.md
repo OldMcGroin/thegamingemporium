@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html"
   category: "preserved-games"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Warcraft"

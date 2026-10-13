@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/lubomyr/freespace2"
   category: "android-ports"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: ""
   series: "Freespace"

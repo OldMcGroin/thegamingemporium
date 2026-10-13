@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/residentevilrevelations/mods/90"
   category: "texture-packs"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Resident Evil"

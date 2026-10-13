@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/590058"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Super Mario"

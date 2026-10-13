@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/FE8Dev/FE9-Decomp-Project"
   category: "in-the-works"
+  hidden: true
   genre1: "rpg"
   genre2: "strategy"
   series: "Fire Emblem"

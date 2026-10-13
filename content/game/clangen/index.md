@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sablesteel.itch.io/clan-gen-fan-edit"
   category: "open-source"
+  hidden: false
   genre1: "life-simulator"
   genre2: ""
   series: "ClanGen"

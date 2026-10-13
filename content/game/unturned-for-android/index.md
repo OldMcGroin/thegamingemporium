@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://unturned.en.uptodown.com/android"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Unturned"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/g-police-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "combat-flight-simulator"
   genre2: ""
   series: "G-Police"

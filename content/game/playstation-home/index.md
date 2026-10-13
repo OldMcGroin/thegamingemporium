@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/NagatoDEV/PlayStation-Home-Master-Archive"
   category: "utility"
+  hidden: false
   genre1: "life-simulator"
   genre2: ""
   series: "Playstation Home"

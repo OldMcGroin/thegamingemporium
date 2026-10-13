@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GirianSeed/mgs2"
   category: "in-the-works"
+  hidden: true
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

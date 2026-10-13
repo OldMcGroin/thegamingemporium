@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/shinny456/ygodm8"
   category: "in-the-works"
+  hidden: true
   genre1: "card-battle"
   genre2: "rpg"
   series: "Yu-Gi-Oh!"

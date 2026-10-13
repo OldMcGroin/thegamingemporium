@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://marcy4000.itch.io/luigis-picture-poker"
   category: "browser-based"
+  hidden: false
   genre1: "sports"
   genre2: "puzzle"
   series: "Super Mario"

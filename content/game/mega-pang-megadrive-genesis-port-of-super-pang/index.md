@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://rcampeador.itch.io/megapang"
   category: "console-ports"
+  hidden: false
   genre1: "action"
   genre2: "puzzle"
   series: "Pang"

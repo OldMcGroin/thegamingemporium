@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.smwcentral.net/?p=section&a=details&id=40149"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

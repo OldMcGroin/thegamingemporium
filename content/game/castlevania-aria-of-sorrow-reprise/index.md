@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/8425/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: "roguelike"
   series: "Castlevania"

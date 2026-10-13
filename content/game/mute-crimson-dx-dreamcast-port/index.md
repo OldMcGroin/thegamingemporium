@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://icedlizardgames.itch.io/mute-crimson-dc"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Mute Crimson"

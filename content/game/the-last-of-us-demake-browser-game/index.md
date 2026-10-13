@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mourilo.itch.io/the-last-of-us-demastered?ref=retrododo.com"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "The Last of Us"

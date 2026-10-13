@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kandowontu2/starfox-enhanced"
   category: "android-ports"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Star Fox"

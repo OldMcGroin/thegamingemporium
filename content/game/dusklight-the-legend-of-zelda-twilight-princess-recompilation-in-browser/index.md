@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://dusklight.pages.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

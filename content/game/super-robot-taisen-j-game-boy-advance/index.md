@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/1577/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Super Robot Taisen"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://retroric.itch.io/sonic-the-hedgehog-amiga-tech-demo"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic The Hedgehog"

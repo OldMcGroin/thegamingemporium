@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/deFqMs1tBYo?si=suNlZLJ4J0aL0pU1"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Persona"

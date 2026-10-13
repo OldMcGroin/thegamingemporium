@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://polytricity.itch.io/settlers-gm"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "The Settlers"

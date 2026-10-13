@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Project_Dream_(Prototype)"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: ""

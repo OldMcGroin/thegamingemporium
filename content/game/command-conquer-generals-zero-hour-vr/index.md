@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Gonzorro/GeneralsVR"
   category: "vr-ports"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "Command & Conquer"

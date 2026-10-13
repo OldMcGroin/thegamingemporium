@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/adventure/kindergarten-3-130052/"
   category: "android-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "Kindergarten"

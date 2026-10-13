@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Vwing/daggerfall-unity-android"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Elder Scrolls"

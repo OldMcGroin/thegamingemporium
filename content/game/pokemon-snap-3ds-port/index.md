@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pokecommunity.com/threads/unity-engine-3ds-pok%C3%A9mon-snap-3ds-new-nintendo-3ds-esp-eng-it-fr-pt-de-jap-beta-v0-3-1.542188/#post-10987188"
   category: "console-ports"
+  hidden: false
   genre1: "creature-collector"
   genre2: ""
   series: "Pokemon"

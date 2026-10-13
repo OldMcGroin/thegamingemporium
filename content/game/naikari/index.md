@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://naikari.github.io/"
   category: "open-source"
+  hidden: false
   genre1: "space-combat-simulator"
   genre2: "trading-simulator"
   series: ""

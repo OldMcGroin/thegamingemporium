@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/boricuapab/quest64tale-recompiled-mods"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Quest 64"

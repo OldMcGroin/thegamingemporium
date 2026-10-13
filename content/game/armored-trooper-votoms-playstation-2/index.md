@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/ps2-iso/armored-trooper-votoms-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Armored Trooper Votoms"

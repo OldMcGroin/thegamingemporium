@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/z2442/perfect_dark-PSP"
   category: "console-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

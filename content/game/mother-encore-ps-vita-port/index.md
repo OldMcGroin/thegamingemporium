@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1431"
   category: "console-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

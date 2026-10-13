@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sergiomanzur/issd-native"
   category: "android-ports"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Pro Evolution Soccer"

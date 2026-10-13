@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/izzy2lost/perfect_dark/releases/tag/1.0"
   category: "android-ports"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LANCommander/TonyWasAProSkater"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Tony Hawk"

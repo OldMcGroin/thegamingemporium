@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/223710/Cry_of_Fear/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Cry of Fear"

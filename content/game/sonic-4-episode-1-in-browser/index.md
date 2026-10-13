@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wamwoowam.co.uk/sonic4/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

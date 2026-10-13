@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Viewpoint_2064_%28Apr_13,_2000_prototype%29"
   category: "preserved-games"
+  hidden: false
   genre1: "rail-shooter"
   genre2: ""
   series: "Viewpoint 2064"

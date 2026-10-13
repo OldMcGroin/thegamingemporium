@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://decomp.dev/Yotona/twewy"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "The World Ends With You"

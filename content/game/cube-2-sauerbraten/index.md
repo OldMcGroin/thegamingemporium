@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "http://sauerbraten.org/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Cube"

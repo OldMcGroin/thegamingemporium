@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sites.google.com/view/imas-sp-en-tl/home"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rhythm-based"
   genre2: ""
   series: "Idolmaster SP: Perfect Sun, Wondering Star & Missing Moon"

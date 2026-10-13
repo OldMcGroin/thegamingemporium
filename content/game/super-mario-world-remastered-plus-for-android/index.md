@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://t.me/vocies61chaos/4"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

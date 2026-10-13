@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/TekRantGaming/king-kong-recompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "King Kong"

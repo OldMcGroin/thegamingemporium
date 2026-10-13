@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.bxfoundry.com/cardminer/"
   category: "fan-games"
+  hidden: false
   genre1: "deck-builder"
   genre2: "roguelike"
   series: "Card Miner"

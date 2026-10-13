@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Epic0522/MarioKart64-3DSPort-Complete"
   category: "console-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Super Mario"

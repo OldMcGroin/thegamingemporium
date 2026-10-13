@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/plauge/index.html"
   category: "browser-based"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Plague Inc."

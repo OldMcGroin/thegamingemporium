@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://drive.google.com/file/d/1vkpnS3YYhGw5A1ul4kxQtEmlkjEVhhDT/view"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

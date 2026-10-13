@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/p/version-1-1-4-has-been-released-this-update-only-fixes-one-bug-tha-un2pthix"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rayman"

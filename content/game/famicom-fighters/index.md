@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://mcjimmy.net/famicomfighters.html"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Famicom Fighters"

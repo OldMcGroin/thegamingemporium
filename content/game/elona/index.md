@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Ruin0x11/ElonaPlusCustom-GX"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "sandbox"
   series: "Elona"

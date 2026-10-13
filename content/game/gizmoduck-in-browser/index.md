@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sova-games.ru/Games/Gizmoduck/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Gizmoduck"

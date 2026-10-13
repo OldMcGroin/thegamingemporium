@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sergiomanzur/issd-native"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Pro Evolution Soccer"

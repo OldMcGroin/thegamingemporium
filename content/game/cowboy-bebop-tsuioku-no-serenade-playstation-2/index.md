@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/SONICMAN69/Bebop-PS2-English"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: "beat-em-up"
   series: "Cowboy Bebop"

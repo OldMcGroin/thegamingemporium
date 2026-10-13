@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://orbital.freesoul.games/?ref=x"
   category: "browser-based"
+  hidden: false
   genre1: "resource-management"
   genre2: "strategy"
   series: "Orbital Scrapper"

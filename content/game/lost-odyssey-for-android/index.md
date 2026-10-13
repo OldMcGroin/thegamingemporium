@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/freefrank/LostOdysseyRecomp"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Lost Odyssey"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/877"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pokecommunity.com/threads/pok%C3%A9mon-gadir-deluxe-complete-v-1-1.539451/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

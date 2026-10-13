@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.moddb.com/mods/gekokujo"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Mount & Blade"

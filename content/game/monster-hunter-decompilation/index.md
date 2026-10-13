@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/2Tie/mh1j"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "Monster Hunter"

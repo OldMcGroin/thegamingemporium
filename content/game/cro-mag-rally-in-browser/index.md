@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://midzer.de/wasm/cromagrally/"
   category: "browser-based"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Cro-Mag Rally"

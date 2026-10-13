@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.patreon.com/posts/am64-v3-0-0-1-136207928"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Metroid"

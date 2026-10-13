@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/crabinacrabic/VivaPinataRecomp"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "life-simulator"
   genre2: ""
   series: "Viva Pinata"

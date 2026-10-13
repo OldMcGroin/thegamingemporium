@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.timesplittersrewind.com/"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Timesplitters"

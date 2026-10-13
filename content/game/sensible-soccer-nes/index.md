@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2025/03/sensible-soccer/"
   category: "preserved-games"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "Sensible Soccer"

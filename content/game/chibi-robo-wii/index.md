@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/6722/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Chibi-Robo!"

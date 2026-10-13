@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/metalgearsolidvtpp/mods/2402"
   category: "mods"
+  hidden: false
   genre1: "stealth"
   genre2: "action"
   series: "Metal Gear"

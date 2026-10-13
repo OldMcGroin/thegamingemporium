@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pikhacker.github.io/"
   category: "rom-hacks"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Pikmin"

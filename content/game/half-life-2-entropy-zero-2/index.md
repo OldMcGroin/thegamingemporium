@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://store.steampowered.com/app/1583720/Entropy__Zero_2/"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Half Life"

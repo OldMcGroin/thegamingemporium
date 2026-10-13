@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/ExpansionPak/ModernGekko/releases/tag/kirby"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Kirby"

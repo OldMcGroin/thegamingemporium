@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/40-winks-game-boy-color"
   category: "preserved-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: ""

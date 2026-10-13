@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/homebrew/clock-tower-advance-game-boy-advance/"
   category: "console-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Clock Tower"

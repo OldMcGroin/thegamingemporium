@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9694/"
   category: "rom-hacks"
+  hidden: false
   genre1: "shoot-em-up"
   genre2: ""
   series: "Gradius"

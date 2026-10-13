@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ebbr.neocities.org/downloads"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

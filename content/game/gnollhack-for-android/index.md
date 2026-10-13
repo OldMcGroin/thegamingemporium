@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://play.google.com/store/apps/details?id=com.soundmindentertainment.gnollhack"
   category: "android-ports"
+  hidden: false
   genre1: "roguelike"
   genre2: ""
   series: "GnollHack"

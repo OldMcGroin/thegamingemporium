@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/psp/kurohyou-ryu-ga-gotoku-shinshou/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "Kurohyou: Ryu ga Gotoku Shinshou"

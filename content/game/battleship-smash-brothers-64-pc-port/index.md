@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/JRickey/BattleShip"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

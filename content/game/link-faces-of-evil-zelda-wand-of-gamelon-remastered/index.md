@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/FOER-and-WOGR"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "The Legend of Zelda"

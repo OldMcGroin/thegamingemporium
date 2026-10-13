@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.sonic-rpg.com/"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Sonic The Hedgehog"

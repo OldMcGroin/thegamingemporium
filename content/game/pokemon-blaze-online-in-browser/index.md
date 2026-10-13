@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pokemonblazeonline.com/?utm_source=reddit&utm_medium=organic_social&utm_campaign=theperfectpokemongame&utm_content=game_showcase"
   category: "browser-based"
+  hidden: false
   genre1: "MMORPG"
   genre2: "creature-collector"
   series: "Pokemon"

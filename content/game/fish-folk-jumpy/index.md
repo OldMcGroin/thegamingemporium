@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://fishfolk.org/games/jumpy/"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Fish Folk: Jumpy"

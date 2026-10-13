@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Fantaskink/SOTC"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: ""
   series: "Shadow of the Colossus"

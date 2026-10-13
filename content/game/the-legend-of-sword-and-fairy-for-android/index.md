@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/sdlpal/sdlpal"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "The Legend Of Sword And Fairy"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://aperture-software.github.io/colditz-escape/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "stealth"
   genre2: "adventure"
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/magarena/magarena"
   category: "open-source"
+  hidden: false
   genre1: "card-collector"
   genre2: ""
   series: "Magarena"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mediafire.com/file/j1hc0cg224ghiky/Golden_Balloon_1.0_%25281%2529.apk/file"
   category: "android-ports"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Donkey Kong"

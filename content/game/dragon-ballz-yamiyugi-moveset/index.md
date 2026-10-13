@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamebanana.com/mods/641650"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

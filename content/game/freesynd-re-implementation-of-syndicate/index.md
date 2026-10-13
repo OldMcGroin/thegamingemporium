@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://freesynd.sourceforge.io/dl.php"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: ""

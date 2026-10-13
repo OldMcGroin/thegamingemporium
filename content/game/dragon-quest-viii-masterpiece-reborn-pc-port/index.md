@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/forum/index.php?topic=34365.msg443220#msg443220"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Dragon Quest"

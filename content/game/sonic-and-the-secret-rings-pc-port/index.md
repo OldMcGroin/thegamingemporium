@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/project_reignition/1082591"
   category: "console-to-pc-port"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Sonic the Hedgehog"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "strategy"
   genre2: "puzzle"
   series: "Team Buddies"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://devcarpet.itch.io/deer-portal"
   category: "open-source"
+  hidden: false
   genre1: "board-game"
   genre2: ""
   series: ""

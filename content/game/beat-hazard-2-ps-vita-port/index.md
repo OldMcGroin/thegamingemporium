@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.rinnegatamante.eu/vitadb/#/info/1056"
   category: "console-ports"
+  hidden: false
   genre1: "rhythm-based"
   genre2: "shoot-em-up"
   series: "Beat Hazard"

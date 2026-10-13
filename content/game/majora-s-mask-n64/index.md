@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Nerrel/MMHD/releases/tag/v1.1b"
   category: "texture-packs"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

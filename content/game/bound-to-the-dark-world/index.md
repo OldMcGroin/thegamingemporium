@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://chromadeline.itch.io/bound-to-the-dark-world"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Earthbound"

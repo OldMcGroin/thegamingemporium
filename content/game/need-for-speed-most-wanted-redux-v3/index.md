@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/9nnmeXzm1oQ?si=wwp4CJAIuCJT_Pld"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Need For Speed"

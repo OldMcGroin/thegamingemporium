@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/infinity-blade-ii-0eb723"
   category: "android-ports"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Infinity Blade"

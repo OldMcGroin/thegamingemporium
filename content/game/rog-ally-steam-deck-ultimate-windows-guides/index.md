@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://baldsealion.com/"
   category: "guides"
+  hidden: false
   genre1: "guides"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tunicate.itch.io/barkley"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

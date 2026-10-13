@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.fightcade.com/"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/reddeadredemption2/mods/8021?tab=description"
   category: "texture-packs"
+  hidden: false
   genre1: "adventure"
   genre2: "sandbox"
   series: "Red Dead Redemption"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/samuelitodavila-group/fifa-street-pc/-/releases/v0.4.0-experimental"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "FIFA Street"

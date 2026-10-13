@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/alexbeavs-ps1-ports/dino-crisis-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Dino Crisis"

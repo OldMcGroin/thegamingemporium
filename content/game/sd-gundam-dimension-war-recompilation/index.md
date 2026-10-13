@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mstan/SDGundamDimensionWarVirtualBoyRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

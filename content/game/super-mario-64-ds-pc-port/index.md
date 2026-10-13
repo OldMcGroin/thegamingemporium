@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://tangos.dev/downloads"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

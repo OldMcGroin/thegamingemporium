@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.mediafire.com/file/a0s5xczjzfz2ku0/The+Bells+Arietta+v1.2.0.zip/file"
   category: "fan-games"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "The Legend of Zelda"

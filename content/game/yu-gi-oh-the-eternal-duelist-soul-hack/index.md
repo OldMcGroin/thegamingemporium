@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/9299/"
   category: "rom-hacks"
+  hidden: false
   genre1: "card-game"
   genre2: ""
   series: "Yu-Gi-Oh!"

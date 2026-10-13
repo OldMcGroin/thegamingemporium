@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Producdevity/cod-boz-android-aarch64-releases/releases/tag/v0.1.0"
   category: "preserved-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Call of Duty"

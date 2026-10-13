@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://sonicfangameshq.com/forums/showcase/mega-man-x-viral-nightmare.2866/"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

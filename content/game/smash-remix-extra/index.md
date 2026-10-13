@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/joaorb64/smashremix-plus-extra/releases/tag/0.5.0"
   category: "mods"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Super Mario"

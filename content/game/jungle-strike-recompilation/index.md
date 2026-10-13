@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: ""

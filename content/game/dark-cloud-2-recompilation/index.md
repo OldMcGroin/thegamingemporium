@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Red-tv141/DC2-PS2RECOMP"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "city-builder"
   series: "Dark Cloud"

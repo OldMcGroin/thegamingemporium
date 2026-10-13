@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/monsterhunterworld/mods/8805"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "resource-management"
   series: "Monster Hunter"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://afska.itch.io/emudevz"
   category: "open-source"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "EmuDevz"

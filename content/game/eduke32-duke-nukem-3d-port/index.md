@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.eduke32.com/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Duke Nukem"

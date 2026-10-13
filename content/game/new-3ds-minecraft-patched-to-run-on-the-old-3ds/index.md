@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/s4ammy/3DSMinecraft"
   category: "console-ports"
+  hidden: false
   genre1: "sandbox"
   genre2: "adventure"
   series: "Minecraft"

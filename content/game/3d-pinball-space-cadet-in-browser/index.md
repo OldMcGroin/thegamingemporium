@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://ksylvestre.itch.io/space-cadet-pinball"
   category: "browser-based"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: ""

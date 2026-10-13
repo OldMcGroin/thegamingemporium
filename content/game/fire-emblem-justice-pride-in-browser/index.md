@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhaven.com/play.html?system=gba&rom=Fe-JusticeAndPride.gba"
   category: "browser-based"
+  hidden: true
   genre1: "rpg"
   genre2: "strategy"
   series: "Fire Emblem"

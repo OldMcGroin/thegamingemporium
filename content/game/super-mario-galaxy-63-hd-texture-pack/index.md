@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack/releases"
   category: "texture-packs"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

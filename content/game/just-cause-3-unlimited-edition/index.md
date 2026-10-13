@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://videogamemods.com/vgm/justcause3/mods/just-cause-3-unlimited-edition-1001082"
   category: "mods"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Just Cause"

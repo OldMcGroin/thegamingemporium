@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.jamesfmackenzie.com/chocolatekeen/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Commander Keen"

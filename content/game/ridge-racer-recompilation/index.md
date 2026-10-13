@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kazuyette/rr-decomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Ridge Racer"

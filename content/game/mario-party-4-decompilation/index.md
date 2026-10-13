@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mariopartyrd/marioparty4"
   category: "in-the-works"
+  hidden: false
   genre1: "party-game"
   genre2: "minigames"
   series: "Super Mario"

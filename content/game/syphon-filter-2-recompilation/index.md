@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Alexbeav/syphon-filter-2-recompiled/releases/tag/v0.1.1-alpha"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "stealth"
   series: "Syphon Filter"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/SML2WCremake/895658"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

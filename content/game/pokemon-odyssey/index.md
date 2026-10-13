@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.pokecommunity.com/threads/pokemon-odyssey-complete-v4-1-1.488536/"
   category: "rom-hacks"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Pokemon"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://nebulous.group/index.php/projects/translations/hybrid-front/#cmtoc_anchor_id_4"
   category: "english-translation-patches"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: ""

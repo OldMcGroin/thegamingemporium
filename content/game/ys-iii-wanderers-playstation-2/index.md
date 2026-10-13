@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Kaisaan/wanderers/releases/tag/v1.0"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Ys"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/theokyr/Project8Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: "action"
   series: "Tony Hawk"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.megamanarena.com/"
   category: "fan-games"
+  hidden: false
   genre1: "action"
   genre2: "fighting"
   series: "Mega Man"

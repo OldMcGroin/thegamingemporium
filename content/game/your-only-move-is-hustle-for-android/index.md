@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/action/your-only-move-is-hustle-134190/"
   category: "android-ports"
+  hidden: false
   genre1: "strategy"
   genre2: "action"
   series: "Your Only Move Is HUSTLE"

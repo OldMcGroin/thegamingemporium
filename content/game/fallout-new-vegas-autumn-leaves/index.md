@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/newvegas/mods/50146"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Fallout"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://exult.sourceforge.io/"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Ultima"

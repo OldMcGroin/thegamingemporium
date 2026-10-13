@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://locomalito.com/games/maldita-castilla"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Maldita Castilla"

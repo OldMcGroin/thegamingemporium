@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/duke-dday-ps2-2001-06-04"
   category: "preserved-games"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: "Duke Nukem"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://novastar86b.itch.io/kid-kirby-recreation"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Kirby"

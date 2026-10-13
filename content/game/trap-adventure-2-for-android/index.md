@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://t.me/frightGPorts/80"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "adventure"
   series: "Trap Adventure"

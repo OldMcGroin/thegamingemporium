@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://monkeyball-online.pages.dev/"
   category: "fan-games"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "Super Monkey Ball"

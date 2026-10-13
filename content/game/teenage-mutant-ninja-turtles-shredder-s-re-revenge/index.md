@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/7399/"
   category: "rom-hacks"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Teenage Mutant Ninja Turtles"

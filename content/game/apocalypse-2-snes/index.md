@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.gamesthatwerent.com/2013/02/apocalypse-super-nintendo/"
   category: "preserved-games"
+  hidden: false
   genre1: "arcade-shooter"
   genre2: ""
   series: "Apocalypse 2"

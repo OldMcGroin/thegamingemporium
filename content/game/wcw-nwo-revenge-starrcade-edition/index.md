@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://patcher.aki.guide/revse.html"
   category: "rom-hacks"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: ""

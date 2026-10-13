@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/gtasanandreas/mods/3086"
   category: "mods"
+  hidden: true
   genre1: "sandbox"
   genre2: "action"
   series: "Grand Theft Auto"

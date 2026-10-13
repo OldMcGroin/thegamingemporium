@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gitlab.com/duron27/alpha3"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Elder Scrolls"

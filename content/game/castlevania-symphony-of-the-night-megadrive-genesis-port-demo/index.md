@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/GoPpWU7y70w?si=A13ivHXfmWDOz3Xe"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Castlevania"

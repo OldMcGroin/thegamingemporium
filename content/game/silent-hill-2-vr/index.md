@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jbusfield/SH2_UEVR/releases/tag/v1.0.0"
   category: "vr-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: "action"
   series: "Silent Hill"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/uZEZy7jxj30?si=yJFMHmmYkM1buZz6"
   category: "guides"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Zenless Zone Zero"

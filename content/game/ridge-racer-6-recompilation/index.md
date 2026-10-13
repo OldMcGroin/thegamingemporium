@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Sirhalo23/RidgeRacer6-Recompilation"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Ridge Racer"

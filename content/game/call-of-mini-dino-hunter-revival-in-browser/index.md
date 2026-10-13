@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://comdh.krig.games/"
   category: "browser-based"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: ""
   series: ""

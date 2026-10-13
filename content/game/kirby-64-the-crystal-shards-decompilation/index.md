@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kirby64ret/kirby64"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Kirby"

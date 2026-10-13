@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/IWILLCRAFT-M0d/dogcomp"
   category: "in-the-works"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Dog's Life"

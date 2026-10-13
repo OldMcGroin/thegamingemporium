@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romsfun.com/download/saints-row-undercover-168984/2"
   category: "preserved-games"
+  hidden: false
   genre1: "sandbox"
   genre2: "action"
   series: "Saints Row"

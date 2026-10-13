@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://segaxtreme.net/threads/flashback-macintosh-version-reminiscence-for-sega-saturn-beta.37965/"
   category: "console-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Flashback"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://bunnyhop.lol/"
   category: "browser-based"
+  hidden: false
   genre1: "action"
   genre2: "strategy"
   series: ""

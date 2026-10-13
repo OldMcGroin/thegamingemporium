@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/snes-rom/rockman-forte-player-switching-multiple-equipment-hack/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "action"
   genre2: "platformer"
   series: "Mega Man"

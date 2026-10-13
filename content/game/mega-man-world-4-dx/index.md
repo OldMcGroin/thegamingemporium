@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.marcrobledo.com/game-boy/mega-man-world-4-dx/"
   category: "rom-hacks"
+  hidden: false
   genre1: "platformer"
   genre2: "action"
   series: "Mega Man"

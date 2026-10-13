@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Wemino/EchoPatch"
   category: "mods"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "F.E.A.R."

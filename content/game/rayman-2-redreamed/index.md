@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://newdawn.games/rayman-2-redreamed/"
   category: "in-the-works"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Rayman"

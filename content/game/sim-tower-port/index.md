@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/kandowontu/simtower-native-windows-port"
   category: "decompilations-recompilations"
+  hidden: true
   genre1: "business-simulator"
   genre2: "strategy"
   series: ""

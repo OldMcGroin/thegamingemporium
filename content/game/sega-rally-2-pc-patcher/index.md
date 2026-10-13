@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/pairomaniac/sr2-patcher"
   category: "mods"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Sega Rally"

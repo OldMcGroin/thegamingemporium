@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/shaneomac1337/SVR2011-Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "sports"
   genre2: "fighting"
   series: "WWE"

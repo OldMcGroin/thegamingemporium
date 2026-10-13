@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jessetbh/WWFWrestleMania2000Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: "sports"
   series: ""

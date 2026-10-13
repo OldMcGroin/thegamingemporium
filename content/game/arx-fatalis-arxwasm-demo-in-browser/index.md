@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.continuation-labs.com/arxdemo/"
   category: "browser-based"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Arx Fatalis"

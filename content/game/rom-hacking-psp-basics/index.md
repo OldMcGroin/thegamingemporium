@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/tutorials/romhacking-psp_basics/"
   category: "guides"
+  hidden: true
   genre1: ""
   genre2: ""
   series: ""

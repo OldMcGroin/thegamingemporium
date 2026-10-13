@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/ribbitmod/671888"
   category: "mods"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Deltarune"

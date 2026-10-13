@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://archive.org/details/BarkleyShutUpAndJamGaiden"
   category: "fan-games"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: ""

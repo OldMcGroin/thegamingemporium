@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://shar-wasm.cjoseph.workers.dev/?skipmovie"
   category: "browser-based"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "The Simpsons"

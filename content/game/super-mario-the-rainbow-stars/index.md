@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://superstarshi.github.io/smatrs/download"
   category: "fan-games"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Super Mario"

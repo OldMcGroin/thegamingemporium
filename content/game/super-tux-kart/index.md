@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://supertuxkart.net/Main_Page"
   category: "open-source"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Tux Games"

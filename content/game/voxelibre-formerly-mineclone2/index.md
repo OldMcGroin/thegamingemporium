@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://content.luanti.org/packages/Wuzzy/mineclone2/"
   category: "open-source"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "VoxeLibre"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://justinbohemier.wixsite.com/portfolio/game-design"
   category: "fan-games"
+  hidden: false
   genre1: "roguelike"
   genre2: "action"
   series: "The Legend of Zelda"

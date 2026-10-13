@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/KBB/578480"
   category: "fan-games"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Kirby"

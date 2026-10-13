@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LLONSIT-glitch/wonder"
   category: "in-the-works"
+  hidden: false
   genre1: "adventure"
   genre2: "puzzle"
   series: "Wonder Project J2"

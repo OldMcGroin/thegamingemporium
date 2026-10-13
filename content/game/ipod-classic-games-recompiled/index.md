@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/DogParty/iPodClickWheelRecomps"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://unvanquished.net/"
   category: "open-source"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: "strategy"
   series: "Unvanquished"

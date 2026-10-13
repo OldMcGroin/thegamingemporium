@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Zhes-20/R.E.P.O.E.V.R"
   category: "android-ports"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: ""

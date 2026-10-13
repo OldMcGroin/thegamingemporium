@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://baraklava.itch.io/manic-miners"
   category: "fan-games"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Lego"

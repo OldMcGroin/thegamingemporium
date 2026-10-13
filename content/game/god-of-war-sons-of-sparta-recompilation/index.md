@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/OverkillLabs3/SoS-PS5"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: ""
   series: "God of War"

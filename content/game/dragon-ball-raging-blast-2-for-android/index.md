@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/moddedrounds/RB2-Android"
   category: "android-ports"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

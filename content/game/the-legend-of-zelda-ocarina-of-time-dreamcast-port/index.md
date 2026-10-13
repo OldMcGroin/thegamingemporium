@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://youtu.be/j2JTcDY9LI4?si=DJCiIOeU5CAbjZ4w"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "adventure"
   series: "The Legend of Zelda"

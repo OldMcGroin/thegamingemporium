@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/HarbourMasters/Lighthouse/releases/tag/1.0.0"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

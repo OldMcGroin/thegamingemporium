@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://hiddenpalace.org/Category:Unreleased_game_prototypes"
   category: "preserved-games"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

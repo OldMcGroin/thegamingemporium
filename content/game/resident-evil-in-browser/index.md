@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.lemon-web.net/html5emujsv5/residentevil1/"
   category: "browser-based"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Resident Evil"

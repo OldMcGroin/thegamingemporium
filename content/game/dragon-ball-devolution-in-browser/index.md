@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.txori.com/dbdevolution"
   category: "browser-based"
+  hidden: false
   genre1: "fighting"
   genre2: ""
   series: "Dragon Ball Z"

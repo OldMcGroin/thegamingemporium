@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/MottZilla/SotN_Integrated_Rando"
   category: "mods"
+  hidden: false
   genre1: "platformer"
   genre2: "metroidvania"
   series: "Castlevania"

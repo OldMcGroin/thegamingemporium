@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/romhacks/alleys-of-anime-2-genesis/"
   category: "rom-hacks"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Streets of Rage"

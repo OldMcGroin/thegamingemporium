@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.indieretronews.com/2026/02/final-fight-enhanced-enhanced-amiga.html?spref=tw"
   category: "console-ports"
+  hidden: false
   genre1: "beat-em-up"
   genre2: ""
   series: "Final Fight"

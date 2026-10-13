@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/wanszai/Ace-Driver-Collection-X360-Releases"
   category: "utility"
+  hidden: false
   genre1: "utility"
   genre2: ""
   series: ""

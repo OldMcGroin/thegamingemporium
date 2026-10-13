@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/LokiusV/WeWereInVR"
   category: "vr-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: ""
   series: "We Were Here"

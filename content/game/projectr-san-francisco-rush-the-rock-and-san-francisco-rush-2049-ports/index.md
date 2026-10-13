@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://t3hd0gg.com/project-r/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "San Francisco Rush"

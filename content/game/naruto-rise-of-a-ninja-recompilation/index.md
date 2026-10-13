@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/jorjbarbosa/naruto-rise-recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "adventure"
   series: "Naruto"

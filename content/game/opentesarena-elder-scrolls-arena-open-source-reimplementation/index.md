@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/afritz1/OpenTESArena"
   category: "open-source"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The Elder Scrolls"

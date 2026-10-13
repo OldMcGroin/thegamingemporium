@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://discovery.onl/Grix/a1ac11ed-e635-4c5f-959e-2716d6c3fdd0"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: "sports"
   series: "Virtual Pro Wrestling"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkvision.org/games/simulation/va-11-hall-a-91932/"
   category: "android-ports"
+  hidden: false
   genre1: "visual-novel"
   genre2: ""
   series: "VA-11 HALL-A"

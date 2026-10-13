@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/BlindMindStudios/StarRuler2-Source"
   category: "open-source"
+  hidden: false
   genre1: "strategy"
   genre2: ""
   series: "Star Ruler"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.reddit.com/r/TWEWY/comments/1n58gtx/twewy_solo_remix_is_on_pc/"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "The World Ends With You"

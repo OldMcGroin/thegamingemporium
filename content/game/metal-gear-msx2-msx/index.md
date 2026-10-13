@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/translations/842/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "stealth"
   genre2: ""
   series: "Metal Gear"

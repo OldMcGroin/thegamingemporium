@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/some-scurvy-dog/BanjoTooieRecompiled"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Banjo Kazooie"

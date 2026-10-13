@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Rainchus/Mp3-Combination"
   category: "mods"
+  hidden: false
   genre1: "party-game"
   genre2: ""
   series: "Super Mario"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/miside/miside.html"
   category: "browser-based"
+  hidden: false
   genre1: "adventure"
   genre2: "psychological-horror"
   series: "MiSide"

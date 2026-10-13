@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/2767/"
   category: "rom-hacks"
+  hidden: false
   genre1: "action"
   genre2: "metroidvania"
   series: "Metroid"

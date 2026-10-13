@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/xcom/mods/88"
   category: "mods"
+  hidden: false
   genre1: "strategy"
   genre2: "resource-management"
   series: "X-Com"

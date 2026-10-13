@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://kaffeeware.itch.io/secret-of-mana-pce"
   category: "in-the-works"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Secret of Mana"

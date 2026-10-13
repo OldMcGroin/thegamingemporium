@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cylonicboom.itch.io/friends-of-joanna"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: "Perfect Dark"

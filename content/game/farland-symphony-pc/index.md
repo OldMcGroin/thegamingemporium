@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://cdromance.org/windows/farland-symphony-english-patched/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "rpg"
   genre2: ""
   series: "Farland Symphony"

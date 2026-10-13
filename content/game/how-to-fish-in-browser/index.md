@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://wasm.rip/files/HowToFish/HowToFish.html"
   category: "browser-based"
+  hidden: false
   genre1: "fishing"
   genre2: ""
   series: "How to Fish"

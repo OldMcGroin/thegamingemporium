@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/mstan/DragonBallZBuusFuryRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "action"
   genre2: "rpg"
   series: "Dragon Ball Z"

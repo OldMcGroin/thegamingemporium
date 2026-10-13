@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/psxrestore/Condemned2Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "survival-horror"
   genre2: ""
   series: "Condemned"

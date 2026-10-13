@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://watabou.itch.io/pixel-dungeon"
   category: "open-source"
+  hidden: false
   genre1: "roguelike"
   genre2: "rpg"
   series: "Pixel Dungeon"

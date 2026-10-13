@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/omegakatana92/RidgeRacer4Recomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "racing"
   genre2: ""
   series: "Ridge Racer"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://apkports.com/game/trials-of-mana-485f1a#downloads"
   category: "android-ports"
+  hidden: false
   genre1: "rpg"
   genre2: "action"
   series: "Mana"

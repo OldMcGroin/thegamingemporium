@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://amcsquad.itch.io/game"
   category: "fan-games"
+  hidden: false
   genre1: "first-person-shooter"
   genre2: ""
   series: ""

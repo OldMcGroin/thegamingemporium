@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://forums.nba-live.com/viewtopic.php?f=72&t=110353"
   category: "mods"
+  hidden: false
   genre1: "sports"
   genre2: ""
   series: "NBA"

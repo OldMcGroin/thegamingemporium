@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/GRAnimated/MinecraftLCE"
   category: "in-the-works"
+  hidden: false
   genre1: "sandbox"
   genre2: ""
   series: "Minecraft"

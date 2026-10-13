@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://pixeldrain.com/u/Km1RYYYG"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Celeste"

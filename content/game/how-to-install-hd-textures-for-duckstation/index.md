@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.youtube.com/watch?v=ICc0mWPJdUM&ab_channel=WarpedPolygon"
   category: "guides"
+  hidden: false
   genre1: ""
   genre2: ""
   series: ""

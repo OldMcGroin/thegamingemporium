@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://thelatteteam.itch.io/kindergarten-1-wiiu"
   category: "console-ports"
+  hidden: false
   genre1: "puzzle"
   genre2: "adventure"
   series: "Kindergarten"

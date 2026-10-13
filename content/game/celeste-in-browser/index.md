@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://celeste.r58playz.dev/"
   category: "browser-based"
+  hidden: false
   genre1: "platformer"
   genre2: ""
   series: "Celeste"

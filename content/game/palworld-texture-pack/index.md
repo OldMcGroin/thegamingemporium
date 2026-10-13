@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.nexusmods.com/palworld/mods/2723?tab=files"
   category: "texture-packs"
+  hidden: false
   genre1: "third-person-shooter"
   genre2: "crafting"
   series: "Palworld"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/7480/"
   category: "rom-hacks"
+  hidden: false
   genre1: "pinball"
   genre2: ""
   series: "Revenge Of The Gator Gold"

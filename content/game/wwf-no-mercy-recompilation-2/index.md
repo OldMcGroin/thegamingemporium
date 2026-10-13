@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://github.com/Gadge64/WWFNoMercyRecomp"
   category: "decompilations-recompilations"
+  hidden: false
   genre1: "fighting"
   genre2: "sports"
   series: "WWE"

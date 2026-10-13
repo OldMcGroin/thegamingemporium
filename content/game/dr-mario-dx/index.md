@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://www.romhacking.net/hacks/5281/"
   category: "rom-hacks"
+  hidden: true
   genre1: "puzzle"
   genre2: ""
   series: "Super Mario"

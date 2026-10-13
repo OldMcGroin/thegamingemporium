@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://usdx.eu/"
   category: "open-source"
+  hidden: false
   genre1: "karaoke"
   genre2: ""
   series: "UltraStar"

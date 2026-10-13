@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://gamejolt.com/games/CelesteWASMAndroid/1043072"
   category: "android-ports"
+  hidden: false
   genre1: "platformer"
   genre2: "puzzle"
   series: "Celeste"

@@ -5,6 +5,7 @@ type: game
 params:
   external_link: "https://romhackplaza.org/translations/tiny-bullets-english-translation-playstation/"
   category: "english-translation-patches"
+  hidden: false
   genre1: "adventure"
   genre2: "action"
   series: "Tiny Bullets"
