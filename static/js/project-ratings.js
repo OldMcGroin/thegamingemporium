@@ -1,0 +1,20 @@
+(()=>{
+ const nodes=[...document.querySelectorAll('[data-rating-project]')];if(!nodes.length)return;
+ const byProject=new Map();for(const node of nodes){const key=node.dataset.ratingProject;if(!byProject.has(key))byProject.set(key,[]);byProject.get(key).push(node)}
+ const cache=new Map();
+ function paint(key){const v=cache.get(key);if(!v)return;for(const node of byProject.get(key)||[]){const b=node.querySelector('.tge-rating-trigger');if(!b)continue;b.textContent=v.count>=3?`★ ${v.average.toFixed(1)}/5 (${v.count} ratings)`:'☆ Rate this project';b.setAttribute('aria-label',v.count>=3?`Rated ${v.average} out of 5 from ${v.count} votes. Rate this project`:'Rate this project');let note=node.querySelector('.tge-rating-note');if(!note){note=document.createElement('span');note.className='tge-rating-note';node.append(note)}note.textContent=v.count<3&&v.count>0?`${v.count}/3 ratings`:''}}
+ async function load(){const keys=[...byProject.keys()];for(let i=0;i<keys.length;i+=40){try{const res=await fetch('/api/ratings?projects='+encodeURIComponent(keys.slice(i,i+40).join(',')));if(!res.ok)continue;const body=await res.json();for(const [k,v] of Object.entries(body.ratings||{})){cache.set(k,v);paint(k)}}catch(e){console.warn('Ratings unavailable',e)}}}
+ function open(key){const data=cache.get(key)||{count:0,counts:[0,0,0,0,0],average:null};const dialog=document.createElement('dialog');dialog.className='tge-rating-dialog';
+ const close=document.createElement('button');close.className='tge-rating-close';close.type='button';close.textContent='×';close.setAttribute('aria-label','Close');close.onclick=()=>dialog.close();dialog.append(close);
+ const title=document.createElement('h2');title.textContent='Rate the quality of this project';dialog.append(title);
+ const help=document.createElement('p');help.textContent='Rate the decompilation or recompilation itself — its stability, performance, improvements and polish — not the original game.';dialog.append(help);
+ const stars=document.createElement('div');stars.className='tge-rating-stars';stars.setAttribute('aria-label','Select one to five stars');dialog.append(stars);
+ const status=document.createElement('p');status.className='tge-rating-message';status.setAttribute('aria-live','polite');dialog.append(status);
+ const breakdown=document.createElement('div');breakdown.className='tge-rating-breakdown';dialog.append(breakdown);
+ function renderBreakdown(v){breakdown.replaceChildren();const heading=document.createElement('strong');heading.textContent=v.count>=3?`Average ${v.average.toFixed(1)}/5 (${v.count} ratings)`:`${v.count}/3 ratings received — average appears after 3`;breakdown.append(heading);if(v.count>=3){for(let i=5;i>=1;i--){const line=document.createElement('div');line.textContent=`${'★'.repeat(i)}: ${v.counts[i-1]||0}`;breakdown.append(line)}}}
+ renderBreakdown(data);
+ for(let i=1;i<=5;i++){const b=document.createElement('button');b.type='button';b.textContent='★';b.title=`${i} star${i===1?'':'s'}`;b.setAttribute('aria-label',`${i} out of 5 stars`);b.setAttribute('aria-pressed','false');b.onclick=async()=>{for(const btn of stars.children)btn.disabled=true;status.textContent='Saving your rating…';try{const r=await fetch('/api/ratings',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({project:key,stars:i})});const result=await r.json();if(!r.ok)throw Error(result.error||'Unable to save rating');cache.set(key,result);paint(key);renderBreakdown(result);status.textContent=`Thank you! Your ${i}-star rating was saved. You can change it any time.`;for(let n=0;n<stars.children.length;n++)stars.children[n].setAttribute('aria-pressed',String(n===i-1))}catch(e){status.textContent=e.message}finally{for(const btn of stars.children)btn.disabled=false}};stars.append(b)}
+ dialog.addEventListener('close',()=>dialog.remove());document.body.append(dialog);dialog.showModal();}
+ document.addEventListener('click',e=>{const b=e.target.closest('.tge-rating-trigger');if(!b)return;const node=b.closest('[data-rating-project]');if(node)open(node.dataset.ratingProject)});
+ load();
+})();
