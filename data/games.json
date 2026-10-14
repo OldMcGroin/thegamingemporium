@@ -49515,6 +49515,30 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
+},
+    {
+    "id": 3825,
+    "title": "Jet Set Radio Future for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed",
+    "genre1": "sports",
+    "genre2": "action",
+    "series": "Jet Set Radio",
+    "video_link": "",
+    "date_added": "2026-10-14"
+},
+    {
+    "id": 3826,
+    "title": "PokeSurvivor for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/JayElDragon/poke-survivor",
+    "genre1": "roguelike",
+    "genre2": "action",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-10-14"
 }
 
 
