@@ -49155,5 +49155,80 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-10-14"
-  }
+  },
+    {
+    "id": 3794,
+    "title": "Forza Motorsport 2 PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/0herculabs/hl360-Forza2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza",
+    "video_link": "",
+    "date_added": "2026-10-14"
+  },
+    {
+    "id": 3795,
+    "title": "Bloodborne Seamless Co-op",
+    "category": "mods",
+    "platform": "",
+    "link": "https://github.com/Classmg22/BBSC",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Bloodborne",
+    "video_link": "",
+    "date_added": "2026-10-14"
+  },
+    {
+    "id": 3796,
+    "title": "Voxel Rush in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://play.voxelrush.app/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Voxel Rush",
+    "video_link": "",
+    "date_added": "2026-10-14"
+  },
+    {
+    "id": 3797,
+    "title": "1 Android Ports List by u Fe2rr",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://docs.google.com/spreadsheets/u/0/d/1wXlykMGC7rQCgebOkA4Awtd4wN9nMHCTkZUFf4KHQ-k/htmlview",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-14"
+  },
+    {
+    "id": 3798,
+    "title": "Quest Ports",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://questports.vercel.app/?ref=reddit",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-14"
+  },
+    {
+    "id": 3799,
+    "title": "Awesome AI Game Dev Tools",
+    "category": "utility",
+    "platform": "",
+    "link": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "video_link": "",
+    "date_added": "2026-10-14"
+}
+
+
+
 ]
