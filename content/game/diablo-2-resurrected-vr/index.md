@@ -9,7 +9,7 @@ params:
   genre1: "rpg"
   genre2: "action"
   series: "Diablo"
-  video_link: ""
+  video_link: "https://youtu.be/RpqVcaseReI?si=eX6-0VkxT76iwZXg"
   date_added: "2026-10-14"
   image: ""
 ---
