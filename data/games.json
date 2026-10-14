@@ -49563,6 +49563,54 @@
     "series": "Bionicle",
     "video_link": "https://youtu.be/rjfeYe8S2Pk?si=6-prRhz80SC1_TCm",
     "date_added": "2026-10-14"
+},
+    {
+    "id": 3830,
+    "title": "Real Steel Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/tokeneffortports/ReCompiledSteel",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Real Steel",
+    "video_link": "",
+    "date_added": "2026-10-15"
+},
+    {
+    "id": 3831,
+    "title": "FIFA Street 2 in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://fifastreet2.fun/",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "FIFA",
+    "video_link": "",
+    "date_added": "2026-10-15"
+},
+    {
+    "id": 3832,
+    "title": "PokeIdle in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://pokeidle.io/",
+    "genre1": "MMO",
+    "genre2": "idle",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-10-15"
+},
+    {
+    "id": 3833,
+    "title": "Kanto Tactics in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://einoow.com/kanto-tactics",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Pokemon",
+    "video_link": "",
+    "date_added": "2026-10-15"
 }
 
 
