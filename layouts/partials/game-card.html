@@ -73,9 +73,6 @@ Image strategy (scales to thousands of items):
   </div>
 {{- end -}}
 
-{{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) (not $showPlatformCard) -}}
-  <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
-{{- end -}}
 
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
@@ -140,4 +137,8 @@ Image strategy (scales to thousands of items):
 {{ end }}
     </div>
   </a>
+  {{- if and (eq $g.category "decompilations-recompilations") (not $g.hidden) (not $showPlatformCard) -}}
+  <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+{{- end -}}
+
 </div>
