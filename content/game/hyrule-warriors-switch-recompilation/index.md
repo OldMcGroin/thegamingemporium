@@ -1,6 +1,6 @@
 ---
-title: "Hyrule Warriors: Definitive Edition Recompilation"
-url: "/game/hyrule-warriors-definitive-edition-recompilation/"
+title: "Hyrule Warriors Switch Recompilation"
+url: "/game/hyrule-warriors-switch-recompilation/"
 type: game
 params:
   external_link: "https://github.com/sonsegajp/HWDER"
