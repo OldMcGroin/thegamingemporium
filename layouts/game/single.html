@@ -26,7 +26,7 @@
       {{ end }}
 
       {{ if and (eq .Params.category "decompilations-recompilations") (not .Params.hidden) }}
-      <div class="tge-rating" data-rating-project="{{ .File.ContentBaseName }}"><button type="button" class="tge-rating-trigger">☆ Rate this project</button></div>
+      <div class="tge-rating" data-rating-project="{{ .File.ContentBaseName }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
       {{ end }}
       <div class="game-page__actions">
         {{ with .Params.external_link }}

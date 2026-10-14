@@ -1,18 +1,13 @@
 name: Check external game links
-
 on:
   schedule:
-    - cron: '0 4 * * *'
-      timezone: 'Europe/Dublin'
+    - cron: '17 5 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
   group: link-health
   cancel-in-progress: false
-
 jobs:
   check:
     runs-on: ubuntu-latest
