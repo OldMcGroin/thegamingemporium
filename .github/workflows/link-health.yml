@@ -1,7 +1,9 @@
 name: Check external game links
+
 on:
   schedule:
-    - cron: '0 3,4 * * *'
+    - cron: '0 4 * * *'
+      timezone: 'Europe/Dublin'
   workflow_dispatch:
 
 permissions:
@@ -10,6 +12,7 @@ permissions:
 concurrency:
   group: link-health
   cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -19,25 +22,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check Irish local time
-        id: local_time
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-        run: |
-          if [ "$EVENT_NAME" = "workflow_dispatch" ] || [ "$(TZ=Europe/Dublin date +%H)" = "04" ]; then
-            echo 'run_scan=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'run_scan=false' >> "$GITHUB_OUTPUT"
-          fi
       - name: Check links and notify
-        if: steps.local_time.outputs.run_scan == 'true'
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
           LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
         run: python scripts/check_links.py
       - name: Save report for website
-        if: steps.local_time.outputs.run_scan == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
