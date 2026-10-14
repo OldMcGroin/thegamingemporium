@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 14 Oct 2026 21:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:24:09 +0000</lastBuildDate>
     <item>
       <title>5 Native Console - Turns Console ROMs into Native Desktop Executables</title>
       <link>https://thegamingemporium.com/game/5-native-console-turns-console-roms-into-native-desktop-executables/</link>
@@ -513,6 +513,17 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/pokesurvivor-for-android.webp" alt="PokeSurvivor for Android" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Android Ports · Series: Pokemon · Genre: roguelike, action]]></content:encoded>
     </item>
     <item>
+      <title>1 Multiplayer Mods Mega List</title>
+      <link>https://thegamingemporium.com/game/1-multiplayer-mods-mega-list/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/1-multiplayer-mods-mega-list/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/1-multiplayer-mods-mega-list.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/1-multiplayer-mods-mega-list.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/1-multiplayer-mods-mega-list.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-multiplayer-mods-mega-list.webp" alt="1 Multiplayer Mods Mega List" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: utility]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/1-multiplayer-mods-mega-list.webp" alt="1 Multiplayer Mods Mega List" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Genre: utility]]></content:encoded>
+    </item>
+    <item>
       <title>Pilotwings 64 Recompilation with Multiplayer</title>
       <link>https://thegamingemporium.com/game/pilotwings-64-recompilation-with-multiplayer/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/pilotwings-64-recompilation-with-multiplayer/</guid>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-pc-port.webp" alt="Toy Story 2: Buzz Lightyear to the Rescue PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Toy Story · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-pc-port.webp" alt="Toy Story 2: Buzz Lightyear to the Rescue PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Toy Story · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>SSX Recompilation</title>
-      <link>https://thegamingemporium.com/game/ssx-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/ssx-recompilation/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/ssx-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/ssx-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/ssx-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ssx-recompilation.webp" alt="SSX Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: SSX · Genre: sports]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/ssx-recompilation.webp" alt="SSX Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: SSX · Genre: sports]]></content:encoded>
     </item>
   </channel>
 </rss>
