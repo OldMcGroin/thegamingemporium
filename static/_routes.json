@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "include": [
+    "/api/*",
+    "/admin/ai-reports/*",
+    "/admin/link-health/*",
+    "/admin/suggestions/api",
+    "/submit-ai-report",
+    "/submit-suggestion"
+  ],
+  "exclude": []
+}
