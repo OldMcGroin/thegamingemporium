@@ -49142,5 +49142,17 @@
     "series": "BackMir",
     "video_link": "",
     "date_added": "2026-10-14"
+  },
+    {
+    "id": 3793,
+    "title": "Hyrule Warriors: Definitive Edition Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo Switch",
+    "link": "https://github.com/sonsegajp/HWDER",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "video_link": "",
+    "date_added": "2026-10-14"
   }
 ]

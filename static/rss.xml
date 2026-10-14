@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:21:28 +0000</lastBuildDate>
     <item>
       <title>5 Native Console - Turns Console ROMs into Native Desktop Executables</title>
       <link>https://thegamingemporium.com/game/5-native-console-turns-console-roms-into-native-desktop-executables/</link>
@@ -137,6 +137,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/backmir-in-browser.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/backmir-in-browser.webp" alt="BackMir in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: BackMir · Genre: MMO, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/backmir-in-browser.webp" alt="BackMir in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: BackMir · Genre: MMO, adventure]]></content:encoded>
+    </item>
+    <item>
+      <title>Hyrule Warriors: Definitive Edition Recompilation</title>
+      <link>https://thegamingemporium.com/game/hyrule-warriors-definitive-edition-recompilation/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/hyrule-warriors-definitive-edition-recompilation/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hyrule-warriors-definitive-edition-recompilation.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/hyrule-warriors-definitive-edition-recompilation.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/hyrule-warriors-definitive-edition-recompilation.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyrule-warriors-definitive-edition-recompilation.webp" alt="Hyrule Warriors: Definitive Edition Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: action, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hyrule-warriors-definitive-edition-recompilation.webp" alt="Hyrule Warriors: Definitive Edition Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Legend of Zelda · Genre: action, adventure]]></content:encoded>
     </item>
     <item>
       <title>Pilotwings 64 Recompilation with Multiplayer</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/super-mario-galaxy-multiplayer.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-galaxy-multiplayer.webp" alt="Super Mario Galaxy Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: platformer]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/super-mario-galaxy-multiplayer.webp" alt="Super Mario Galaxy Multiplayer" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Mods · Series: Super Mario · Genre: platformer]]></content:encoded>
-    </item>
-    <item>
-      <title>Hercules Recompilation</title>
-      <link>https://thegamingemporium.com/game/hercules-recompilation/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/hercules-recompilation/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/hercules-recompilation.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/hercules-recompilation.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/hercules-recompilation.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hercules-recompilation.webp" alt="Hercules Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Hercules · Genre: platformer, action]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/hercules-recompilation.webp" alt="Hercules Recompilation" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Hercules · Genre: platformer, action]]></content:encoded>
     </item>
   </channel>
 </rss>
