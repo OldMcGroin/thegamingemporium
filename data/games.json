@@ -30875,7 +30875,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-06-22",
-    "image": ""
+    "image": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 2351,
@@ -49144,7 +49145,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3794,
     "title": "Forza Motorsport 2 PC Port",
     "category": "decompilations-recompilations",
@@ -49156,7 +49157,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3795,
     "title": "Bloodborne Seamless Co-op",
     "category": "mods",
@@ -49168,7 +49169,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3796,
     "title": "Voxel Rush in Browser",
     "category": "browser-based",
@@ -49180,7 +49181,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3797,
     "title": "1 Android Ports List by u Fe2rr",
     "category": "android-ports",
@@ -49192,7 +49193,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3798,
     "title": "Quest Ports",
     "category": "vr-ports",
@@ -49204,7 +49205,7 @@
     "video_link": "",
     "date_added": "2026-10-14"
   },
-    {
+  {
     "id": 3799,
     "title": "Awesome AI Game Dev Tools",
     "category": "utility",
@@ -49215,8 +49216,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3800,
     "title": "Super Mario Galaxy for Android",
     "category": "android-ports",
@@ -49227,8 +49228,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3801,
     "title": "The Darkness Recompilation with DLSS",
     "category": "decompilations-recompilations",
@@ -49239,8 +49240,8 @@
     "series": "The Darkness",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3802,
     "title": "decomp wtf",
     "category": "utility",
@@ -49251,8 +49252,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3803,
     "title": "WWF No Mercy VR",
     "category": "vr-ports",
@@ -49263,8 +49264,8 @@
     "series": "WWF",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3804,
     "title": "Super Mario Sunshine PC Port 2",
     "category": "decompilations-recompilations",
@@ -49275,8 +49276,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3805,
     "title": "Super Mario Sunshine PC Port 2 Launcher",
     "category": "decompilations-recompilations",
@@ -49287,8 +49288,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3806,
     "title": "Black PC Port",
     "category": "decompilations-recompilations",
@@ -49299,8 +49300,8 @@
     "series": "Black",
     "video_link": "https://youtu.be/52TZuiY4h58?si=JMhVp7CHUdROC2hw",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3807,
     "title": "3D Pixel Racing Recompilation",
     "category": "decompilations-recompilations",
@@ -49311,8 +49312,8 @@
     "series": "3D Pixel Racing",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3808,
     "title": "Darkstalkers 3 Vampire Savior Recompilation",
     "category": "decompilations-recompilations",
@@ -49323,8 +49324,8 @@
     "series": "Darkstalkers",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3809,
     "title": "God of War 3 Remastered for Android",
     "category": "android-ports",
@@ -49335,8 +49336,8 @@
     "series": "God of War",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3810,
     "title": "Shadow of the Colossus PC Port",
     "category": "decompilations-recompilations",
@@ -49347,8 +49348,8 @@
     "series": "Shadow of the Colossus",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3811,
     "title": "Forza Horizon 1: ReImagined PC Port",
     "category": "decompilations-recompilations",
@@ -49359,8 +49360,8 @@
     "series": "Forza",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3812,
     "title": "Tekken 6 Native on Windows with Rollback Netcode",
     "category": "decompilations-recompilations",
@@ -49371,8 +49372,8 @@
     "series": "Tekken",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3813,
     "title": "Jet Moto 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -49383,8 +49384,8 @@
     "series": "Jet Moto",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3814,
     "title": "Mount & Blade 2: Bannerlord VR",
     "category": "vr-ports",
@@ -49395,8 +49396,8 @@
     "series": "Mount & Blade",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3815,
     "title": "Super Mario Strikers MR",
     "category": "vr-ports",
@@ -49407,8 +49408,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3816,
     "title": "Diablo 2: Resurrected VR",
     "category": "vr-ports",
@@ -49419,8 +49420,8 @@
     "series": "Diablo",
     "video_link": "https://youtu.be/RpqVcaseReI?si=eX6-0VkxT76iwZXg",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3817,
     "title": "The Legend of Zelda Wind Waker PS5 Port",
     "category": "console-ports",
@@ -49431,8 +49432,8 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3818,
     "title": "The Legend of Zelda Twilight Princess - Dusklight - PS5 Port",
     "category": "console-ports",
@@ -49443,8 +49444,8 @@
     "series": "The Legend of Zelda",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3819,
     "title": "Diablo 2: Lord of Destruction in Browser",
     "category": "browser-based",
@@ -49455,8 +49456,8 @@
     "series": "Diablo",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3820,
     "title": "PokeBonk in Browser",
     "category": "browser-based",
@@ -49467,8 +49468,8 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3821,
     "title": "Super Mario Sunshine PS5 Port",
     "category": "console-ports",
@@ -49479,8 +49480,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3822,
     "title": "Diablo 2 Survivors",
     "category": "browser-based",
@@ -49491,8 +49492,8 @@
     "series": "Diablo",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3823,
     "title": "1 Recomp Store - Install and Update PS5 Ports of Recompiled Games",
     "category": "decompilations-recompilations",
@@ -49503,8 +49504,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3824,
     "title": "1 Recomp FYI - Who’s Recompiling What",
     "category": "decompilations-recompilations",
@@ -49515,8 +49516,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3825,
     "title": "Jet Set Radio Future for Android",
     "category": "android-ports",
@@ -49527,8 +49528,8 @@
     "series": "Jet Set Radio",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3826,
     "title": "PokeSurvivor for Android",
     "category": "android-ports",
@@ -49539,8 +49540,8 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3827,
     "title": "1 Multiplayer Mods Mega List",
     "category": "mods",
@@ -49551,8 +49552,8 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3828,
     "title": "Bionicle's Mata Nui Online Game Port",
     "category": "decompilations-recompilations",
@@ -49563,8 +49564,8 @@
     "series": "Bionicle",
     "video_link": "https://youtu.be/rjfeYe8S2Pk?si=6-prRhz80SC1_TCm",
     "date_added": "2026-10-14"
-},
-    {
+  },
+  {
     "id": 3830,
     "title": "Real Steel Recompilation for Android",
     "category": "android-ports",
@@ -49575,8 +49576,8 @@
     "series": "Real Steel",
     "video_link": "",
     "date_added": "2026-10-15"
-},
-    {
+  },
+  {
     "id": 3831,
     "title": "FIFA Street 2 in Browser",
     "category": "browser-based",
@@ -49587,8 +49588,8 @@
     "series": "FIFA",
     "video_link": "",
     "date_added": "2026-10-15"
-},
-    {
+  },
+  {
     "id": 3832,
     "title": "PokeIdle in Browser",
     "category": "browser-based",
@@ -49599,8 +49600,8 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-10-15"
-},
-    {
+  },
+  {
     "id": 3833,
     "title": "Kanto Tactics in Browser",
     "category": "browser-based",
@@ -49611,7 +49612,5 @@
     "series": "Pokemon",
     "video_link": "",
     "date_added": "2026-10-15"
-}
-
-
+  }
 ]
