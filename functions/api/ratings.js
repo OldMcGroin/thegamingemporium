@@ -1,8 +1,10 @@
 const headers={'Content-Type':'application/json','Cache-Control':'no-store'};
 const reply=(data,status=200,extra={})=>new Response(JSON.stringify(data),{status,headers:{...headers,...extra}});
-const validSlug=s=>typeof s==='string'&&/^[a-z0-9-]{1,160}$/.test(s);
+// Preserve identifiers exactly as supplied by the card and rating-projects.json.
+// Accept Unicode and punctuation, but reject empty, excessively long or control-character values.
+const validProject=s=>typeof s==='string'&&s.length>0&&s.length<=300&&!/[\u0000-\u001f\u007f]/u.test(s)&&new TextEncoder().encode(s).length<=800;
 async function eligible(request,env,project){
-  if(!validSlug(project))return false;
+  if(!validProject(project))return false;
   const url=new URL('/rating-projects.json',request.url);
   const response=await env.ASSETS.fetch(new Request(url.toString()));
   if(!response.ok)return false;
@@ -20,8 +22,10 @@ export async function onRequestGet({request,env}){
  const d=db(env);if(!d)return reply({error:'Ratings database is not configured'},503);
  try{
   const params=new URL(request.url).searchParams;
-  const projects=(params.get('projects')||params.get('project')||'').split(',').filter(Boolean).slice(0,60);
-  if(!projects.length||projects.some(x=>!validSlug(x)))return reply({error:'Invalid projects'},400);
+  // New clients send repeated `project` parameters, allowing commas in names.
+  // Retain support for existing clients using comma-separated `projects`.
+  const projects=params.has('project')?params.getAll('project').slice(0,60):(params.get('projects')||'').split(',').filter(Boolean).slice(0,60);
+  if(!projects.length||projects.some(x=>!validProject(x)))return reply({error:'Invalid projects'},400);
   const data={};for(const project of projects){if(await eligible(request,env,project))data[project]=await summary(d,project);}
   return reply({ratings:data});
  }catch(e){console.error('ratings GET',e);return reply({error:'Ratings unavailable'},503)}
