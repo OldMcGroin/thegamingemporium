@@ -1,6 +1,6 @@
 ---
-title: "1 Recomp Store - Install and Update PS5 Ports of Recompiled Games"
-url: "/game/1-recomp-store-install-and-update-ps5-ports-of-recompiled-games/"
+title: "Recomp Store - Install and Update PS5 Ports of Recompiled Games"
+url: "/game/recomp-store-install-and-update-ps5-ports-of-recompiled-games/"
 type: game
 params:
   external_link: "https://recompstore.com/"

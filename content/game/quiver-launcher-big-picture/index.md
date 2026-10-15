@@ -1,6 +1,6 @@
 ---
-title: "2 Quiver Launcher Big Picture"
-url: "/game/2-quiver-launcher-big-picture/"
+title: "Quiver Launcher Big Picture"
+url: "/game/quiver-launcher-big-picture/"
 type: game
 params:
   external_link: "https://github.com/OldRustyDusty/quiver-launcher-big-picture"

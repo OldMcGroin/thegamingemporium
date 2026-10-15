@@ -1,6 +1,6 @@
 ---
-title: "1 Chun's Ready-to-Go Recomp Games"
-url: "/game/1-chun-s-ready-to-go-recomp-games/"
+title: "Chuns Ready to Go Recomp Games"
+url: "/game/chuns-ready-to-go-recomp-games/"
 type: game
 params:
   external_link: "https://archive.org/details/@chun_s_ready-to-go_recomp_games"

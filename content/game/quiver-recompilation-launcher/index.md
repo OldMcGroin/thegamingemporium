@@ -1,6 +1,6 @@
 ---
-title: "2 Quiver - Recompilation Launcher"
-url: "/game/2-quiver-recompilation-launcher/"
+title: "Quiver - Recompilation Launcher"
+url: "/game/quiver-recompilation-launcher/"
 type: game
 params:
   external_link: "https://github.com/tgeorgiadis/quiver"

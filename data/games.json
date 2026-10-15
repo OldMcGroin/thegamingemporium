@@ -31146,7 +31146,7 @@
   },
   {
     "id": 2372,
-    "title": "1 GithubLauncher - Universal Launcher for Recompilations and PC Ports",
+    "title": "GithubLauncher - Universal Launcher for Recompilations and PC Ports",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/SirDiabo/GithubLauncher",
@@ -31157,7 +31157,8 @@
     "notes": "",
     "date_added": "2026-06-29",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "weight": "top"
   },
   {
     "id": 2373,
@@ -31900,7 +31901,7 @@
   },
   {
     "id": 2428,
-    "title": "2 Quiver - Recompilation Launcher",
+    "title": "Quiver - Recompilation Launcher",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/tgeorgiadis/quiver",
@@ -31910,6 +31911,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-07-26",
+    "weight": "top",
     "image": "",
     "ai_usage": "light"
   },
@@ -32350,7 +32352,7 @@
   },
   {
     "id": 2461,
-    "title": "2 Starboard Play Games From The Portmaster Library On Your Android Handheld",
+    "title": "Starboard Play Games From The Portmaster Library On Your Android Handheld",
     "category": "android-ports",
     "link": "https://github.com/get-starboard/starboard",
     "genre1": "utility",
@@ -32359,6 +32361,7 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-07-28",
+    "weight": "top",
     "image": ""
   },
   {
@@ -38474,7 +38477,7 @@
   },
   {
     "id": 2924,
-    "title": "3 RetComM Launcher - Static Recompilation Launcher",
+    "title": "RetComM Launcher - Static Recompilation Launcher",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/TechnicallyComputers/RetComM-Launcher",
@@ -38483,6 +38486,7 @@
     "series": "",
     "video_link": "",
     "notes": "",
+    "weight": "top",
     "date_added": "2026-08-31",
     "image": "",
     "ai_usage": "heavy"
@@ -39745,7 +39749,7 @@
   },
   {
     "id": 3019,
-    "title": "4 Ports Launcher",
+    "title": "Ports Launcher",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/Nyaldee/Ports-Launcher",
@@ -39753,6 +39757,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-09-13"
   },
   {
@@ -40072,7 +40077,7 @@
   },
   {
     "id": 3046,
-    "title": "5 CubeShelf – A launcher for Native GameCube PC Ports",
+    "title": "CubeShelf – A launcher for Native GameCube PC Ports",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/zeranemesis/CubeShelf-Launcher",
@@ -40080,6 +40085,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-09-15",
     "ai_usage": "light"
   },
@@ -40230,7 +40236,7 @@
   },
   {
     "id": 3059,
-    "title": "6 Xbox 360 Native Ports List",
+    "title": "Xbox 360 Native Ports List",
     "category": "decompilations-recompilations",
     "platform": "Xbox 360",
     "link": "https://github.com/CrownParkComputing/Xbox360-Native-Ports/releases#release-rez-v1",
@@ -40239,6 +40245,7 @@
     "series": "",
     "video_link": "",
     "date_added": "2026-09-16",
+    "weight": "top",
     "ai_usage": "heavy"
   },
   {
@@ -47114,14 +47121,16 @@
   },
   {
     "id": 3624,
-    "title": "1 Chun's Ready-to-Go Recomp Games",
+    "title": "Chuns Ready to Go Recomp Games",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://archive.org/details/@chun_s_ready-to-go_recomp_games",
     "genre1": "utility",
     "genre2": "",
     "series": "",
+    "weight": "top",
     "video_link": "",
+
     "date_added": "2026-10-08"
   },
   {
@@ -47587,7 +47596,7 @@
   },
   {
     "id": 3662,
-    "title": "2 Quiver Launcher Big Picture",
+    "title": "Quiver Launcher Big Picture",
     "category": "decompilations-recompilations",
     "platform": "",
     "link": "https://github.com/OldRustyDusty/quiver-launcher-big-picture",
@@ -47595,6 +47604,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-10-10"
   },
   {
@@ -48999,7 +49009,7 @@
   },
   {
     "id": 3781,
-    "title": "5 Native Console - Turns Console ROMs into Native Desktop Executables",
+    "title": "Native Console - Turns Console ROMs into Native Desktop Executables",
     "category": "decompilations-recompilations",
     "platform": "Multiple Platforms",
     "link": "https://github.com/RedReaper1515/native-console",
@@ -49007,6 +49017,7 @@
     "genre2": "",
     "series": "",
     "video_link": "https://youtu.be/YKiZ87fGUu8?si=ycVT0TOb-eGyGYk8",
+    "weight": "top",
     "date_added": "2026-10-14"
   },
   {
@@ -49194,7 +49205,7 @@
   },
   {
     "id": 3797,
-    "title": "1 Android Ports List by u Fe2rr",
+    "title": "Android Ports List by u Fe2rr",
     "category": "android-ports",
     "platform": "",
     "link": "https://docs.google.com/spreadsheets/u/0/d/1wXlykMGC7rQCgebOkA4Awtd4wN9nMHCTkZUFf4KHQ-k/htmlview",
@@ -49202,6 +49213,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-10-14"
   },
   {
@@ -49506,7 +49518,7 @@
   },
   {
     "id": 3823,
-    "title": "1 Recomp Store - Install and Update PS5 Ports of Recompiled Games",
+    "title": "Recomp Store - Install and Update PS5 Ports of Recompiled Games",
     "category": "decompilations-recompilations",
     "platform": "",
     "link": "https://recompstore.com/",
@@ -49514,11 +49526,12 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-10-14"
   },
   {
     "id": 3824,
-    "title": "1 Recomp FYI - Who’s Recompiling What",
+    "title": "Recomp FYI - Whos Recompiling What",
     "category": "decompilations-recompilations",
     "platform": "",
     "link": "https://recomp.fyi/",
@@ -49526,6 +49539,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-10-14"
   },
   {
@@ -49554,7 +49568,7 @@
   },
   {
     "id": 3827,
-    "title": "1 Multiplayer Mods Mega List",
+    "title": "Multiplayer Mods Mega List",
     "category": "mods",
     "platform": "",
     "link": "https://megalist.neocities.org/mpm",
@@ -49562,6 +49576,7 @@
     "genre2": "",
     "series": "",
     "video_link": "",
+    "weight": "top",
     "date_added": "2026-10-14"
   },
   {
@@ -49622,6 +49637,7 @@
     "genre2": "",
     "series": "Pokemon",
     "video_link": "",
-    "date_added": "2026-10-15"
+    "date_added": "2026-10-15",
+    "weight": ""
   }
 ]

@@ -1,6 +1,6 @@
 ---
-title: "2 Starboard Play Games From The Portmaster Library On Your Android Handheld"
-url: "/game/2-starboard-play-games-from-the-portmaster-library-on-your-android-handheld/"
+title: "Starboard Play Games From The Portmaster Library On Your Android Handheld"
+url: "/game/starboard-play-games-from-the-portmaster-library-on-your-android-handheld/"
 type: game
 params:
   external_link: "https://github.com/get-starboard/starboard"

@@ -77,8 +77,8 @@ Image strategy (scales to thousands of items):
        {{ if and hugo.IsServer $g.hidden }}<div class="game-card__hiddenBadge">Hidden (Live)</div>{{ end }}
 
       <div class="game-card__meta">
-        {{/* Category badges only on the Recent Additions page; retain data-category attributes for filtering. */}}
-        {{- if and (isset . "ctx") (eq .ctx.Page.Section "recent") -}}
+        {{/* Category badges on Recent Additions and Search Results only; retain data-category attributes for filtering. */}}
+        {{- if and (isset . "ctx") (in (slice "recent" "search") .ctx.Page.Section) -}}
           <span class="pill">{{ $catDisp }}</span>
         {{- end -}}
         {{/* Extra, more visible badge for the Utilities category */}}

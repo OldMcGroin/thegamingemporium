@@ -1,6 +1,6 @@
 ---
-title: "5 CubeShelf – A launcher for Native GameCube PC Ports"
-url: "/game/5-cubeshelf-a-launcher-for-native-gamecube-pc-ports/"
+title: "CubeShelf – A launcher for Native GameCube PC Ports"
+url: "/game/cubeshelf-a-launcher-for-native-gamecube-pc-ports/"
 type: game
 params:
   external_link: "https://github.com/zeranemesis/CubeShelf-Launcher"

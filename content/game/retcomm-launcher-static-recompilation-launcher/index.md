@@ -1,6 +1,6 @@
 ---
-title: "3 RetComM Launcher - Static Recompilation Launcher"
-url: "/game/3-retcomm-launcher-static-recompilation-launcher/"
+title: "RetComM Launcher - Static Recompilation Launcher"
+url: "/game/retcomm-launcher-static-recompilation-launcher/"
 type: game
 params:
   external_link: "https://github.com/TechnicallyComputers/RetComM-Launcher"

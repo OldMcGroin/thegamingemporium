@@ -1,6 +1,6 @@
 ---
-title: "6 Xbox 360 Native Ports List"
-url: "/game/6-xbox-360-native-ports-list/"
+title: "Xbox 360 Native Ports List"
+url: "/game/xbox-360-native-ports-list/"
 type: game
 params:
   external_link: "https://github.com/CrownParkComputing/Xbox360-Native-Ports/releases#release-rez-v1"

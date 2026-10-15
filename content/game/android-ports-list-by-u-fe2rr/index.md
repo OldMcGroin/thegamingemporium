@@ -1,6 +1,6 @@
 ---
-title: "1 Android Ports List by u Fe2rr"
-url: "/game/1-android-ports-list-by-u-fe2rr/"
+title: "Android Ports List by u Fe2rr"
+url: "/game/android-ports-list-by-u-fe2rr/"
 type: game
 params:
   external_link: "https://docs.google.com/spreadsheets/u/0/d/1wXlykMGC7rQCgebOkA4Awtd4wN9nMHCTkZUFf4KHQ-k/htmlview"
