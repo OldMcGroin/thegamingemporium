@@ -137,8 +137,9 @@
   
   function __getCardWeight(card){
     var w = card && card.getAttribute ? card.getAttribute('data-weight') : null;
-    var n = parseFloat(w);
-    return isNaN(n) ? 0 : n;
+    if(w && w.trim().toLowerCase() === 'top') return -1000000;
+    var n = Number(w);
+    return Number.isFinite(n) ? n : 0;
   }
 function initGameGrids(){
     document.querySelectorAll('[data-game-grid]')
@@ -530,9 +531,14 @@ function initGameGrids(){
               return ta.localeCompare(tb);
             }
 
-            var wa = __getCardWeight(a);
-            var wb = __getCardWeight(b);
-            if(wa !== wb) return wa - wb;
+            // Manual pinning applies to category pages only; other grids retain title sorting.
+            // Negative weights pin games ahead of the normal (zero-weight) titles.
+            if(categorySlug){
+              var wa = __getCardWeight(a);
+              var wb = __getCardWeight(b);
+              if(wa !== wb) return wa - wb;
+              if(wa === -1000000) return ta.localeCompare(tb);
+            }
             var cmp = ta.localeCompare(tb);
             return mode === 'za' ? -cmp : cmp;
           });

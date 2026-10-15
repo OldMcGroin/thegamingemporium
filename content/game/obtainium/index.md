@@ -1,6 +1,6 @@
 ---
-title: "1 Obtainium"
-url: "/game/1-obtainium/"
+title: "Obtainium"
+url: "/game/obtainium/"
 type: game
 params:
   external_link: "https://github.com/ImranR98/Obtainium"
