@@ -1,9 +1,9 @@
 ---
-title: "1 RomHack Patcher"
-url: "/game/1-romhack-patcher/"
+title: "HackHash"
+url: "/game/hackhash/"
 type: game
 params:
-  external_link: "https://romhackpatcher.com/"
+  external_link: "https://hackhash.darkblood.uk/"
   category: "rom-hacks"
   hidden: false
   genre1: "utility"

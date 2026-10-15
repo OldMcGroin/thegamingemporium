@@ -1,6 +1,6 @@
 ---
-title: "2 MRSURVIV0R'S VR HUB"
-url: "/game/2-mrsurviv0r-s-vr-hub/"
+title: "Mr Survivors VR HUB"
+url: "/game/mr-survivors-vr-hub/"
 type: game
 params:
   external_link: "https://www.mrsurvivor-installers.com/"
