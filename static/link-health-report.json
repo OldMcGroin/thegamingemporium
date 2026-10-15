@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-14T09:14:19.333929+00:00",
-  "total": 3805,
+  "checked_at": "2026-10-15T10:09:00.075242+00:00",
+  "total": 3843,
   "results": [
     {
       "id": 1,
@@ -178,7 +178,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 19,
@@ -381,10 +381,9 @@
       "title": "Castlevania The Lecarde Chronicles",
       "url": "https://castlevania-the-lecarde-chronicles.en.uptodown.com/windows",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://castlevania-the-lecarde-chronicles.en.uptodown.com/windows",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 40,
@@ -881,7 +880,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 90,
@@ -966,10 +965,9 @@
       "title": "Golden Axe Returns",
       "url": "https://golden-axe-returns.en.uptodown.com/windows#google_vignette",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://golden-axe-returns.en.uptodown.com/windows#google_vignette",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 99,
@@ -1613,7 +1611,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 164,
@@ -1622,7 +1620,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 165,
@@ -1667,9 +1665,9 @@
       "title": "Mighty Final Fight Forever",
       "url": "https://bouncergames.com/project-forever/",
       "hidden": true,
-      "status": "suspect",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 170,
@@ -1745,10 +1743,9 @@
       "title": "Mortal Kombat Defenders of The Earth",
       "url": "https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 178,
@@ -2181,7 +2178,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 222,
@@ -2555,7 +2552,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 260,
@@ -2741,7 +2738,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 277,
@@ -2787,10 +2784,9 @@
       "title": "Streets of Rage Remake",
       "url": "https://street-rage-remake.en.uptodown.com/windows#google_vignette",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://street-rage-remake.en.uptodown.com/windows#google_vignette",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 282,
@@ -2864,10 +2860,9 @@
       "title": "Super Mario 3 Mario Forever",
       "url": "https://super-mario-3-mario-forever.en.uptodown.com/windows",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://super-mario-3-mario-forever.en.uptodown.com/windows",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 289,
@@ -3276,7 +3271,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 332,
@@ -4108,7 +4103,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 413,
@@ -4213,9 +4208,9 @@
       "title": "Doom 64 - Dreamcast Port",
       "url": "https://dreamcast.gameplayer.club/index.php/downloads/summary/58-disk-images/493-doom-64-2025-02-15-incl-nightdive-studios-levels-cdi",
       "hidden": true,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "status": "suspect",
+      "detail": "URLError",
+      "consecutive_failures": 0
     },
     {
       "id": 424,
@@ -4578,20 +4573,18 @@
       "title": "Infinity Blade",
       "url": "https://infinity-blade-pc.en.uptodown.com/windows",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://infinity-blade-pc.en.uptodown.com/windows",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 459,
       "title": "Infinity Blade 2",
       "url": "https://infinity-blade-ii-pc.en.uptodown.com/windows",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://infinity-blade-ii-pc.en.uptodown.com/windows",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 460,
@@ -5307,7 +5300,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 410",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 530,
@@ -6421,7 +6414,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 643,
@@ -6440,7 +6433,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 645,
@@ -6769,7 +6762,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 678,
@@ -6968,7 +6961,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 697,
@@ -7017,7 +7010,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 702,
@@ -7226,7 +7219,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/bgsamm/pbr-dtk",
+      "final_url": "https://github.com/pbr-ret/pbr-decomp",
       "consecutive_failures": 0
     },
     {
@@ -7346,17 +7339,16 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 735,
       "title": "Ratatouille Decompilation",
       "url": "https://github.com/ZounaModding/RatDecomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/ZounaModding/RatDecomp",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 736,
@@ -7745,7 +7737,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 775,
@@ -8074,7 +8066,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 808,
@@ -8143,7 +8135,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 815,
@@ -8315,7 +8307,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=2b02798113cdffad0235e2b850af7576e63a76458df8f815a779f94110dc87be&aud=forums.civfanatics.com&aid=3a3dd6ff0932399f7503c7d39dd2782d",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=f678b80c9a39cbde010abd62c61be6b3b3173ab9e95b57a073d3ab0de854c775&aud=forums.civfanatics.com&aid=1f07b632350c6b42435c1372ea673639",
       "consecutive_failures": 0
     },
     {
@@ -9082,9 +9074,8 @@
       "title": "NBA Jam Legends on Fire Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
+      "status": "suspect",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -9282,7 +9273,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 934,
@@ -9601,7 +9592,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 968,
@@ -10029,7 +10020,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1011,
@@ -10108,7 +10099,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1019,
@@ -10395,9 +10386,8 @@
       "title": "Family Guy: Back to the Multiverse",
       "url": "https://archive.org/details/Family_Guy_BTTM",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/Family_Guy_BTTM",
+      "status": "suspect",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -10457,7 +10447,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1054,
@@ -10706,7 +10696,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1079,
@@ -11105,7 +11095,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1117,
@@ -11114,7 +11104,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1118,
@@ -11163,7 +11153,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1123,
@@ -11252,7 +11242,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1132,
@@ -11311,7 +11301,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1138,
@@ -11630,7 +11620,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1170,
@@ -12598,8 +12588,9 @@
       "title": "Warcraft adventures: Lord of the Clans - PC ScummVM",
       "url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
       "hidden": false,
-      "status": "suspect",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
       "consecutive_failures": 0
     },
     {
@@ -14145,7 +14136,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1436,
@@ -14164,7 +14155,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1438,
@@ -14183,7 +14174,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1440,
@@ -14201,7 +14192,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1442,
@@ -14248,7 +14239,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1447,
@@ -14257,7 +14248,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1448,
@@ -14376,7 +14367,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1460,
@@ -14385,7 +14376,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1461,
@@ -14394,7 +14385,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1462,
@@ -14403,7 +14394,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1463,
@@ -14412,7 +14403,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1464,
@@ -14439,7 +14430,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1467,
@@ -14448,7 +14439,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1468,
@@ -16041,8 +16032,9 @@
       "title": "Chiaki NG",
       "url": "https://github.com/streetpea/chiaki-ng",
       "hidden": false,
-      "status": "suspect",
-      "detail": "HTTP 504",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/chiaki-ng/chiaki-ng",
       "consecutive_failures": 0
     },
     {
@@ -16456,7 +16448,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1668,
@@ -17021,7 +17013,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1727,
@@ -17770,7 +17762,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1802,
@@ -18158,7 +18150,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 1841,
@@ -19235,9 +19227,9 @@
       "title": "The Sims",
       "url": "https://archive.org/details/the-sims-complete-edition-repack-v-4",
       "hidden": true,
-      "status": "suspect",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 1948,
@@ -20124,10 +20116,9 @@
       "title": "Dungeon Keeper In Browser",
       "url": "https://dk-browser.tiiny.site/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dk-browser.tiiny.site/",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2037,
@@ -20453,7 +20444,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2069,
@@ -20600,7 +20591,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/gcsmith/Pilotwings64Decomp",
+      "final_url": "https://github.com/n64decomp/pw64",
       "consecutive_failures": 0
     },
     {
@@ -21075,9 +21066,8 @@
       "title": "Seen in Liberty City - GTA 3 PSP Remake",
       "url": "https://barcode-studia.ru/mods/silc/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://barcode-studia.ru/mods/silc/",
+      "status": "suspect",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -21531,7 +21521,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2176,
@@ -22197,7 +22187,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2240,
@@ -22354,7 +22344,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2256,
@@ -22373,7 +22363,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2258,
@@ -22628,9 +22618,9 @@
       "title": "Fire Emblem: Seima no Kouseki Decompilation",
       "url": "https://github.com/laqieer/fireemblem8j",
       "hidden": false,
-      "status": "suspect",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 2280,
@@ -22639,7 +22629,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2281,
@@ -24425,7 +24415,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2458,
@@ -24434,7 +24424,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2459,
@@ -24468,7 +24458,7 @@
     },
     {
       "id": 2462,
-      "title": "1 Obtainium",
+      "title": "Obtainium",
       "url": "https://github.com/ImranR98/Obtainium",
       "hidden": false,
       "status": "working",
@@ -25239,10 +25229,9 @@
       "title": "Unturned for Android",
       "url": "https://unturned.en.uptodown.com/android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://unturned.en.uptodown.com/android",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2539,
@@ -26058,7 +26047,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2622,
@@ -26067,7 +26056,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2623,
@@ -26076,7 +26065,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2624,
@@ -26085,7 +26074,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2625,
@@ -26094,7 +26083,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2626,
@@ -26103,7 +26092,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2627,
@@ -26300,10 +26289,9 @@
       "title": "Dungeon Keeper in Browser",
       "url": "https://dk-browser.tiiny.site/?utm_source=chatgpt.com",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dk-browser.tiiny.site/?utm_source=chatgpt.com",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2648,
@@ -26322,7 +26310,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2650,
@@ -27152,20 +27140,18 @@
       "title": "Sonic the Hedgehog for Android",
       "url": "https://sonic-the-hedgehog.en.uptodown.com/android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://sonic-the-hedgehog.en.uptodown.com/android",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2741,
       "title": "Sonic the Hedgehog 2 for Android",
       "url": "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2742,
@@ -27680,7 +27666,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2794,
@@ -27869,7 +27855,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2813,
@@ -27898,7 +27884,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2816,
@@ -28457,7 +28443,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2877,
@@ -28576,7 +28562,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2888,
@@ -28842,7 +28828,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2916,
@@ -28919,10 +28905,9 @@
       "title": "UFC Undisputed 3 Recompilation",
       "url": "https://github.com/paulogaab21/ufc3recomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/paulogaab21/ufc3recomp",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2924,
@@ -29400,7 +29385,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2973,
@@ -29529,7 +29514,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 2985,
@@ -30085,7 +30070,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3042,
@@ -30742,7 +30727,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://play.sonicthefighte.rs/",
+      "final_url": "https://arcade.sonicthefighte.rs/?game=sfight&profile=sfight_console",
       "consecutive_failures": 0
     },
     {
@@ -30782,7 +30767,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3114,
@@ -30791,7 +30776,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3115,
@@ -30828,8 +30813,9 @@
       "title": "Far Cry for Android",
       "url": "https://github.com/Player124413/NearChuckle-android-edition",
       "hidden": false,
-      "status": "suspect",
-      "detail": "HTTP 504",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Player124413/NearChuckle-android-edition",
       "consecutive_failures": 0
     },
     {
@@ -31006,9 +30992,9 @@
       "title": "Paper Mario 64 PS Vita Port",
       "url": "https://github.com/kaziema/pmvita",
       "hidden": false,
-      "status": "suspect",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 3136,
@@ -31175,7 +31161,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3152,
@@ -31314,7 +31300,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3166,
@@ -31513,7 +31499,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3204,
@@ -31522,7 +31508,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3185,
@@ -31829,10 +31815,9 @@
       "title": "Quake 2 for Android",
       "url": "https://quake-2.en.uptodown.com/android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://quake-2.en.uptodown.com/android",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 410 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 3220,
@@ -31960,7 +31945,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3233,
@@ -33017,9 +33002,10 @@
       "title": "Viva Pinata Recompilation",
       "url": "https://github.com/crabinacrabic/VivaPinataRecomp",
       "hidden": true,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/crabinacrabic/VivaPinataRecomp",
+      "consecutive_failures": 0
     },
     {
       "id": 3340,
@@ -33277,7 +33263,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3365,
@@ -34025,7 +34011,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3443,
@@ -35116,6 +35102,16 @@
       "consecutive_failures": 0
     },
     {
+      "id": 3804,
+      "title": "Super Mario Sunshine PC Port 2",
+      "url": "https://github.com/TekRantGaming/sms-pc-port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TekRantGaming/sms-pc-port",
+      "consecutive_failures": 0
+    },
+    {
       "id": 3557,
       "title": "Real Steel Recompilation",
       "url": "https://github.com/thefixinhixon/RealSteelRecomp",
@@ -35182,7 +35178,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3564,
@@ -36616,10 +36612,9 @@
       "title": "Crash Team Racing: Nitro-Fueled Recompilation",
       "url": "https://github.com/T3CHNOLOG1C/SacredFire",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/T3CHNOLOG1C/SacredFire",
-      "consecutive_failures": 0
+      "status": "suspect",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 3708,
@@ -36648,16 +36643,6 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://almost-there-games.itch.io/azimuth",
-      "consecutive_failures": 0
-    },
-    {
-      "id": 3711,
-      "title": "Championship Manager 26-27 in Browser",
-      "url": "https://www.champman2627.co.uk/play",
-      "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.champman2627.co.uk/play",
       "consecutive_failures": 0
     },
     {
@@ -37389,6 +37374,16 @@
       "consecutive_failures": 0
     },
     {
+      "id": 3825,
+      "title": "Jet Set Radio Future for Android",
+      "url": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed",
+      "consecutive_failures": 0
+    },
+    {
       "id": 3783,
       "title": "NHL 24 Emulation Port",
       "url": "https://github.com/HajDEO/nhl24pc",
@@ -37496,6 +37491,376 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/sonsegajp/HWDER",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3794,
+      "title": "Forza Motorsport 2 PC Port",
+      "url": "https://github.com/0herculabs/hl360-Forza2",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/0herculabs/hl360-Forza2",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3795,
+      "title": "Bloodborne Seamless Co-op",
+      "url": "https://github.com/Classmg22/BBSC",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Classmg22/BBSC",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3796,
+      "title": "Voxel Rush in Browser",
+      "url": "https://play.voxelrush.app/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://play.voxelrush.app/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3797,
+      "title": "1 Android Ports List by u Fe2rr",
+      "url": "https://docs.google.com/spreadsheets/u/0/d/1wXlykMGC7rQCgebOkA4Awtd4wN9nMHCTkZUFf4KHQ-k/htmlview",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://docs.google.com/spreadsheets/u/0/d/1wXlykMGC7rQCgebOkA4Awtd4wN9nMHCTkZUFf4KHQ-k/htmlview",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3798,
+      "title": "Quest Ports",
+      "url": "https://questports.vercel.app/?ref=reddit",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://questports.vercel.app/?ref=reddit",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3799,
+      "title": "Awesome AI Game Dev Tools",
+      "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3800,
+      "title": "Super Mario Galaxy for Android",
+      "url": "https://github.com/OpenPort-Labs/Galaxy-Android",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/OpenPort-Labs/Galaxy-Android",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3801,
+      "title": "The Darkness Recompilation with DLSS",
+      "url": "https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3802,
+      "title": "decomp wtf",
+      "url": "https://decomp.wtf/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://decomp.wtf/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3803,
+      "title": "WWF No Mercy VR",
+      "url": "https://github.com/VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-/releases/tag/n64",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-/releases/tag/n64",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3805,
+      "title": "Super Mario Sunshine PC Port 2 Launcher",
+      "url": "https://github.com/chasem-dev/sms-launcher",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/chasem-dev/sms-launcher",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3806,
+      "title": "Black PC Port",
+      "url": "https://github.com/Spark198rus/black-pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Spark198rus/black-pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3807,
+      "title": "3D Pixel Racing Recompilation",
+      "url": "https://github.com/SalahDevSama/3d-pixel-racing-port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/SalahDevSama/3d-pixel-racing-port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3808,
+      "title": "Darkstalkers 3 Vampire Savior Recompilation",
+      "url": "https://github.com/tmcleroy/vampire-savior-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/tmcleroy/vampire-savior-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3809,
+      "title": "God of War 3 Remastered for Android",
+      "url": "https://github.com/zFitness/gow3_android",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/zFitness/gow3_android",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3810,
+      "title": "Shadow of the Colossus PC Port",
+      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3811,
+      "title": "Forza Horizon 1: ReImagined PC Port",
+      "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3812,
+      "title": "Tekken 6 Native on Windows with Rollback Netcode",
+      "url": "https://github.com/Ekspym/Tekken6-native-online",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Ekspym/Tekken6-native-online",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3813,
+      "title": "Jet Moto 2 Recompilation",
+      "url": "https://github.com/goodshepherd23/JetMoto2-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/goodshepherd23/JetMoto2-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3814,
+      "title": "Mount & Blade 2: Bannerlord VR",
+      "url": "https://github.com/NotLooky/BannerlordVR",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/NotLooky/BannerlordVR",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3815,
+      "title": "Super Mario Strikers MR",
+      "url": "https://github.com/LanceSweatpants/Strikers-Quest-MR",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/LanceSweatpants/Strikers-Quest-MR",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3816,
+      "title": "Diablo 2: Resurrected VR",
+      "url": "https://github.com/bearstonem/d2r-pcvr",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/bearstonem/d2r-pcvr",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3817,
+      "title": "The Legend of Zelda Wind Waker PS5 Port",
+      "url": "https://github.com/mshivam019/ww-ps5",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mshivam019/ww-ps5",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3818,
+      "title": "The Legend of Zelda Twilight Princess - Dusklight - PS5 Port",
+      "url": "https://github.com/mshivam019/dusklight-ps5",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mshivam019/dusklight-ps5",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3819,
+      "title": "Diablo 2: Lord of Destruction in Browser",
+      "url": "https://d2o.quest/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://d2o.quest/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3820,
+      "title": "PokeBonk in Browser",
+      "url": "https://pokebonk.com/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://pokebonk.com/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3821,
+      "title": "Super Mario Sunshine PS5 Port",
+      "url": "https://github.com/griches/PS5_Sunshine",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/griches/PS5_Sunshine",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3822,
+      "title": "Diablo 2 Survivors",
+      "url": "https://d2survivors.lol/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://d2survivors.lol/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3823,
+      "title": "1 Recomp Store - Install and Update PS5 Ports of Recompiled Games",
+      "url": "https://recompstore.com/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://recompstore.com/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3824,
+      "title": "1 Recomp FYI - Who’s Recompiling What",
+      "url": "https://recomp.fyi/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://recomp.fyi/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3826,
+      "title": "PokeSurvivor for Android",
+      "url": "https://github.com/JayElDragon/poke-survivor",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/JayElDragon/poke-survivor",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3827,
+      "title": "1 Multiplayer Mods Mega List",
+      "url": "https://megalist.neocities.org/mpm",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://megalist.neocities.org/mpm",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3828,
+      "title": "Bionicle's Mata Nui Online Game Port",
+      "url": "https://vortyne.github.io/OpenMNOG/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://vortyne.github.io/OpenMNOG/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3830,
+      "title": "Real Steel Recompilation for Android",
+      "url": "https://github.com/tokeneffortports/ReCompiledSteel",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/tokeneffortports/ReCompiledSteel",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3831,
+      "title": "FIFA Street 2 in Browser",
+      "url": "https://fifastreet2.fun/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://fifastreet2.fun/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3832,
+      "title": "PokeIdle in Browser",
+      "url": "https://pokeidle.io/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://pokeidle.io/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 3833,
+      "title": "Kanto Tactics in Browser",
+      "url": "https://einoow.com/kanto-tactics",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://einoow.com/kanto-tactics",
       "consecutive_failures": 0
     }
   ]
