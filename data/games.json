@@ -36154,7 +36154,6 @@
     "date_added": "2026-08-19",
     "image": ""
   },
-
   {
     "id": 2749,
     "title": "Zelda II: The Adventure of Link Co-op",
@@ -43795,7 +43794,8 @@
     "genre2": "",
     "series": "Amplitude",
     "video_link": "https://youtu.be/1FB01Mi484Q?si=EnA5M32HIkoca0RL",
-    "date_added": "2026-09-30"
+    "date_added": "2026-09-30",
+    "ai_usage": "light"
   },
   {
     "id": 3354,
@@ -47121,7 +47121,6 @@
     "series": "",
     "weight": "top",
     "video_link": "",
-
     "date_added": "2026-10-08"
   },
   {
