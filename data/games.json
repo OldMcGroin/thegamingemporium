@@ -49634,7 +49634,7 @@
     "date_added": "2026-10-15",
     "weight": ""
   },
-    {
+  {
     "id": 3834,
     "title": "Uncharted: The Nathan Drake Collection PC Port",
     "category": "decompilations-recompilations",
@@ -49645,9 +49645,10 @@
     "series": "Uncharted",
     "video_link": "",
     "date_added": "2026-10-15",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "heavy"
   },
-    {
+  {
     "id": 3835,
     "title": "Dragons Crown Pro PC Port",
     "category": "decompilations-recompilations",
@@ -49660,7 +49661,7 @@
     "date_added": "2026-10-15",
     "weight": ""
   },
-    {
+  {
     "id": 3836,
     "title": "Forza Motorsport 3 PC Port",
     "category": "decompilations-recompilations",
@@ -49673,7 +49674,7 @@
     "date_added": "2026-10-15",
     "weight": ""
   },
-    {
+  {
     "id": 3837,
     "title": "Resident Evil Code: Veronica X with Online Co-op PC Port",
     "category": "decompilations-recompilations",
@@ -49686,7 +49687,7 @@
     "date_added": "2026-10-15",
     "weight": ""
   },
-    {
+  {
     "id": 3838,
     "title": "Goldeneye XBLA Recompilation 2",
     "category": "decompilations-recompilations",
@@ -49699,7 +49700,7 @@
     "date_added": "2026-10-15",
     "weight": ""
   },
-    {
+  {
     "id": 3839,
     "title": "Populous: The Beginning Recompilation",
     "category": "decompilations-recompilations",
@@ -49712,7 +49713,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3840,
     "title": "3 on 3 NHL Arcade Recompilation",
     "category": "decompilations-recompilations",
@@ -49725,7 +49726,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3841,
     "title": "Mega Man X4 Recompiled: Local Co-op and Online Play",
     "category": "decompilations-recompilations",
@@ -49738,7 +49739,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3842,
     "title": "Dragon Ball Z: Super Saiya Densetsu Recompilation",
     "category": "decompilations-recompilations",
@@ -49751,7 +49752,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3843,
     "title": "Zoo Tycoon Reimplementation",
     "category": "decompilations-recompilations",
@@ -49764,7 +49765,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3844,
     "title": "Super Mario 64 Demake built in Scratch",
     "category": "decompilations-recompilations",
@@ -49777,7 +49778,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3845,
     "title": "WWE 2K14 Recompilation",
     "category": "decompilations-recompilations",
@@ -49790,7 +49791,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3846,
     "title": "Castle of Illusion, QuackShot and World of Illusion PC Ports",
     "category": "decompilations-recompilations",
@@ -49803,7 +49804,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3847,
     "title": "The Last Guardian PC Port",
     "category": "decompilations-recompilations",
@@ -49816,7 +49817,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3848,
     "title": "SSX On Tour PC Port",
     "category": "decompilations-recompilations",
@@ -49829,7 +49830,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3849,
     "title": "Top Gun: The Second Mission Recompilation",
     "category": "decompilations-recompilations",
@@ -49842,7 +49843,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3850,
     "title": "Point Blank Recompilation",
     "category": "decompilations-recompilations",
@@ -49855,7 +49856,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3851,
     "title": "Street Fighter Alpha 2 PC Port",
     "category": "decompilations-recompilations",
@@ -49868,7 +49869,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3852,
     "title": "MLB Power Pros 2008 Recompilation",
     "category": "decompilations-recompilations",
@@ -49881,7 +49882,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3853,
     "title": "Forza Motorsport 5 PC Launcher - Race One Hub",
     "category": "console-to-pc-port",
@@ -49894,7 +49895,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3854,
     "title": "No One Lives Forever in Browser",
     "category": "browser-based",
@@ -49907,7 +49908,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3855,
     "title": "Kingdom Hearts Chain of Memories in Browser",
     "category": "browser-based",
@@ -49920,7 +49921,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3856,
     "title": "Halo: Combat Evolved Multiplayer on Nintendo 64",
     "category": "console-ports",
@@ -49933,9 +49934,4 @@
     "date_added": "2026-10-16",
     "weight": ""
   }
-
-
-
-
-
 ]
