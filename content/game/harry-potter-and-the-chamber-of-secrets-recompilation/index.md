@@ -4,7 +4,7 @@ url: "/game/harry-potter-and-the-chamber-of-secrets-recompilation/"
 type: game
 params:
   external_link: "https://github.com/cefege/harry-potter-2-chamber-of-secrets-pc"
-  category: "decomplications-recomplications"
+  category: "decompilations-recompilations"
   hidden: false
   genre1: "action"
   genre2: "adventure"

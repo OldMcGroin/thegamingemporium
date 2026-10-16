@@ -4,7 +4,7 @@ url: "/game/crusader-no-remorse-reimplementation/"
 type: game
 params:
   external_link: "https://github.com/sebsebseb1982/crusader-no-remorse-decomp"
-  category: "decomplications-recomplications"
+  category: "decompilations-recompilations"
   hidden: false
   genre1: "third-person-shooter"
   genre2: ""
