@@ -1,0 +1,143 @@
+{{- $g := .game -}}
+
+{{/*
+Derive a consistent, copyable image filename from the title.
+
+We support multiple image extensions automatically:
+  1) .webp
+  2) .jpg
+  3) .jpeg
+  4) .png
+
+The helper button copies the *exact* filename Hugo is currently using when an image exists.
+If no image exists yet, it defaults to <slug>.jpg (you can still use .webp, .jpeg, or .png).
+*/}}
+{{- $slug := urlize $g.title -}}
+{{- $ratingSlug := index site.Data.rating_slugs $g.title | default "" -}}
+{{- $imgFilename := printf "%s.jpg" $slug -}}
+
+{{/*
+Image strategy (scales to thousands of items):
+1) If caller provides .img, use it.
+2) Else derive a slug from title and look for:
+     /static/Images/Games/<slug>.webp
+     /static/Images/Games/<slug>.jpg
+     /static/Images/Games/<slug>.png
+   If any exists, use it (in that order).
+3) Else fall back to a single placeholder image.
+*/}}
+
+{{- $title := ($g.title | title) -}}
+{{- $catDisp := partial "format-category.html" $g.category -}}
+{{- $genres := slice -}}
+{{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
+{{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
+{{- $genreDisp := delimit $genres ", " -}}
+<div class="game-card{{ if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) }} game-card--decomp-list{{ end }}" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
+  {{/* Only show the helper button while running `hugo server` (local dev) */}}
+  {{- if and (isset . "ctx") hugo.IsServer -}}
+    {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
+    <button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy image slug">Copy filename</button>
+  {{- end -}}
+<button class="game-card__favourite" type="button" data-favourite-toggle data-favourite-id="{{ $slug }}" aria-label="Add {{ $title }} to favourites" title="Add to favourites" aria-pressed="false">
+  <span aria-hidden="true">♡</span>
+</button>
+
+{{- if hugo.IsServer -}}
+  <button class="admin-visibility-toggle"
+          type="button"
+          data-game-id="{{ $g.id }}"
+          data-hidden="{{ if $g.hidden }}true{{ else }}false{{ end }}"
+          title="Toggle visibility (preview only)">
+    {{ if $g.hidden }}Hidden{{ else }}Visible{{ end }}
+  </button>
+{{- end -}}
+
+{{/*
+  Platform belongs only on the Decompilations & Recompilations category page.
+  Do not show it when the same card is reused by Recent Additions, All, Series, Genres, etc.
+*/}}
+{{- $showPlatformCard := false -}}
+{{- if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) (eq $g.category "decompilations-recompilations") -}}
+  {{- $showPlatformCard = true -}}
+{{- end -}}
+
+  <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener" data-game-id="{{ $slug }}">
+    <div class="game-card__image">
+      <img class="game-card__img"
+           src="/Images/Games/{{ $slug }}.webp"
+           alt="{{ $title }}"
+           loading="lazy"
+           decoding="async"
+           onload="this.parentElement.classList.remove('is-missing');"
+           onerror="this.onerror=null; this.src='/Images/Games/{{ $slug }}.jpg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.jpeg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.png'; this.onerror=function(){ this.parentElement.classList.add('is-missing'); this.src='/Images/placeholder.jpg'; this.onerror=null; }; }; };" />
+      <div class="game-card__imageFallback">Add image</div>
+    </div>
+    <div class="game-card__body">
+      <h3 class="game-card__title">{{ $title }}</h3>
+       {{ if and hugo.IsServer $g.hidden }}<div class="game-card__hiddenBadge">Hidden (Live)</div>{{ end }}
+
+      <div class="game-card__meta">
+        {{/* Category badges on Recent Additions and Search Results only; retain data-category attributes for filtering. */}}
+        {{- if and (isset . "ctx") (in (slice "recent" "search") .ctx.Page.Section) -}}
+          <span class="pill">{{ $catDisp }}</span>
+        {{- end -}}
+        {{/* Extra, more visible badge for the Utilities category */}}
+        {{ if eq $g.category "utilities" }}<span class="pill pill--utilities">🛠 UTILITIES</span>{{ end }}
+        {{ if eq $g.category "browser-based" }}<span class="pill pill--play-browser">▶ PLAY IN BROWSER</span>{{ end }}
+        {{ if $genreDisp }}<span class="pill pill--muted">{{ $genreDisp }}</span>{{ end }}
+        {{ if $g.video_link }}<span class="pill pill--video" data-video="{{ $g.video_link }}">▶ VIDEO</span>{{ end }}
+      </div>
+
+{{/* Show "Added 23rd March 2026" on the Recent Additions page */}}
+{{ if and (isset . "ctx") (eq .ctx.Page.Section "recent") $g.date_added }}
+  {{/* Accept either yyyy/mm/dd or yyyy-mm-dd (your current data uses yyyy-mm-dd) */}}
+  {{ $raw := $g.date_added | strings.TrimSpace }}
+  {{ $iso := replace $raw "/" "-" }}
+  {{ $added := time (printf "%sT00:00:00Z" $iso) }}
+  {{ $day := $added.Day }}
+  {{ $suffix := "th" }}
+  {{ if or (eq $day 1) (eq $day 21) (eq $day 31) }}{{ $suffix = "st" }}{{ end }}
+  {{ if or (eq $day 2) (eq $day 22) }}{{ $suffix = "nd" }}{{ end }}
+  {{ if or (eq $day 3) (eq $day 23) }}{{ $suffix = "rd" }}{{ end }}
+  <div class="game-card__date">Added {{ $day }}{{ $suffix }} {{ $added.Format "January 2006" }}</div>
+{{ end }}
+    </div>
+  </a>
+  {{- if $showPlatformCard -}}
+
+  {{- $ai := default "unknown" $g.ai_usage -}}
+  <div class="ai-card-controls">
+    <span class="ai-badge ai-badge--{{ $ai }}" data-ai-badge>{{ if eq $ai "none" }}No AI Usage{{ else if eq $ai "light" }}Light AI Usage{{ else if eq $ai "heavy" }}Heavy AI Usage{{ else }}Unknown{{ end }}</span>
+    {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
+    <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
+    {{- if and (not $g.hidden) $ratingSlug -}}
+      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+    {{- end -}}
+  </div>
+  {{- else if and (eq $g.category "decompilations-recompilations") (not $g.hidden) $ratingSlug -}}
+    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+  {{- end -}}
+{{- if $showPlatformCard -}}
+  {{- if hugo.IsServer -}}
+    <div class="admin-platform-editor" data-platform-editor-wrap>
+      <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Platform</label>
+      <select class="admin-platform-editor__select"
+              id="platform-{{ $g.id }}"
+              data-platform-editor
+              data-game-id="{{ $g.id }}"
+              data-current-platform="{{ default "" $g.platform }}"
+              aria-label="Set platform for {{ $title }}">
+      </select>
+      <span class="admin-platform-editor__status" data-platform-editor-status aria-live="polite"></span>
+    </div>
+  {{- else if $g.platform -}}
+    <div class="game-card__platform" aria-label="Platform: {{ $g.platform }}">
+      <span class="game-card__platform-label">Platform</span>
+      <span class="game-card__platform-value">{{ $g.platform }}</span>
+    </div>
+  {{- end -}}
+{{- end -}}
+
+
+</div>
