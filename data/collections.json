@@ -40,6 +40,24 @@
     "slug": "banjo-kazooie",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "BattleTanx",
+    "slug": "battletanx",
+    "enabled": true,
+    "weight": 0
+  },
+    {
+    "name": "Castlevania 64",
+    "slug": "castlevania-64",
+    "enabled": true,
+    "weight": 0
+  },
+    {
+    "name": "Castlevania Symphony of the Night",
+    "slug": "castlevania-symphony-of-the-night",
+    "enabled": true,
+    "weight": 0
   }
 
 

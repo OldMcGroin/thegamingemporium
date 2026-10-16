@@ -31186,7 +31186,8 @@
     "video_link": "https://youtu.be/84AxLQVMB3M?si=mpCWdBCeACkILg2g",
     "notes": "",
     "date_added": "2026-06-30",
-    "image": ""
+    "image": "",
+    "collection": "castlevania-symphony-of-the-night"
   },
   {
     "id": 2374,
@@ -33868,7 +33869,8 @@
     "notes": "",
     "date_added": "2026-08-02",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "collection": "castlevania-symphony-of-the-night"
   },
   {
     "id": 2576,
@@ -44434,7 +44436,8 @@
     "genre2": "",
     "series": "BattleTanx",
     "video_link": "",
-    "date_added": "2026-10-03"
+    "date_added": "2026-10-03",
+    "collection": "battletanx"
   },
   {
     "id": 3404,
@@ -45452,14 +45455,15 @@
   {
     "id": 3489,
     "title": "Castlevania: Symphony of the Night Castle Editor in Browser",
-    "category": "browser-based",
+    "category": "decompilations-recompilations",
     "platform": "",
     "link": "https://pddmergilla.github.io/sotn-editor/?ref=pantspantsrevolution.com",
     "genre1": "utility",
     "genre2": "",
     "series": "Castlevania",
     "video_link": "",
-    "date_added": "2026-10-04"
+    "date_added": "2026-10-04",
+    "collection": "castlevania-symphony-of-the-night"
   },
   {
     "id": 3490,
@@ -47906,7 +47910,8 @@
     "genre2": "",
     "series": "Castlevania",
     "video_link": "",
-    "date_added": "2026-10-11"
+    "date_added": "2026-10-11",
+    "collection": "castlevania-64"
   },
   {
     "id": 3689,
@@ -47918,7 +47923,8 @@
     "genre2": "",
     "series": "Castlevania",
     "video_link": "",
-    "date_added": "2026-10-11"
+    "date_added": "2026-10-11",
+    "collection": "castlevania-64"
   },
   {
     "id": 3690,
@@ -48318,7 +48324,8 @@
     "genre2": "",
     "series": "BattleTanx",
     "video_link": "",
-    "date_added": "2026-10-12"
+    "date_added": "2026-10-12",
+    "collection": "battletanx"
   },
   {
     "id": 3725,
@@ -50250,7 +50257,7 @@
     {
     "id": 3879,
     "title": "Crusader: No Remorse Reimplementation",
-    "category": "decomplications-recomplications",
+    "category": "decompilations-recompilations",
     "platform": "Windows",
     "link": "https://github.com/sebsebseb1982/crusader-no-remorse-decomp",
     "genre1": "third-person-shooter",
@@ -50263,7 +50270,7 @@
     {
     "id": 3880,
     "title": "Harry Potter and the Chamber of Secrets Recompilation",
-    "category": "decomplications-recomplications",
+    "category": "decompilations-recompilations",
     "platform": "Windows",
     "link": "https://github.com/cefege/harry-potter-2-chamber-of-secrets-pc",
     "genre1": "action",

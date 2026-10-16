@@ -4,7 +4,7 @@ url: "/game/castlevania-symphony-of-the-night-castle-editor-in-browser/"
 type: game
 params:
   external_link: "https://pddmergilla.github.io/sotn-editor/?ref=pantspantsrevolution.com"
-  category: "browser-based"
+  category: "decompilations-recompilations"
   hidden: false
   genre1: "utility"
   genre2: ""
