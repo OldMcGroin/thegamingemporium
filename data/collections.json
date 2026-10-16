@@ -10,6 +10,12 @@
     "slug": "goldeneye",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "Gran Turismo 2",
+    "slug": "gran-turismo-2",
+    "enabled": true,
+    "weight": 0
   }
 
 
