@@ -13,7 +13,6 @@ The helper button copies the *exact* filename Hugo is currently using when an im
 If no image exists yet, it defaults to <slug>.jpg (you can still use .webp, .jpeg, or .png).
 */}}
 {{- $slug := urlize $g.title -}}
-{{- $ratingSlug := index site.Data.rating_slugs $g.title | default "" -}}
 {{- $imgFilename := printf "%s.jpg" $slug -}}
 
 {{/*
@@ -33,7 +32,7 @@ Image strategy (scales to thousands of items):
 {{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
 {{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
 {{- $genreDisp := delimit $genres ", " -}}
-<div class="game-card{{ if and (isset . "ctx") (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations") }} game-card--decomp-list{{ end }}" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
+<div class="game-card{{ if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) }} game-card--decomp-list{{ end }}" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
   {{/* Only show the helper button while running `hugo server` (local dev) */}}
   {{- if and (isset . "ctx") hugo.IsServer -}}
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
@@ -58,7 +57,7 @@ Image strategy (scales to thousands of items):
   Do not show it when the same card is reused by Recent Additions, All, Series, Genres, etc.
 */}}
 {{- $showPlatformCard := false -}}
-{{- if and (isset . "ctx") (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations") (eq $g.category "decompilations-recompilations") -}}
+{{- if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) (eq $g.category "decompilations-recompilations") -}}
   {{- $showPlatformCard = true -}}
 {{- end -}}
 
@@ -112,11 +111,11 @@ Image strategy (scales to thousands of items):
     {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
     <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
     {{- if not $g.hidden -}}
-      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
     {{- end -}}
   </div>
-  {{- else if and (eq $g.category "decompilations-recompilations") (not $g.hidden) $ratingSlug -}}
-    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+  {{- else if and (eq $g.category "decompilations-recompilations") (not $g.hidden) -}}
+    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
   {{- end -}}
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}

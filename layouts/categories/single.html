@@ -112,8 +112,31 @@
   <div class="filter-summary" data-filter-summary aria-live="polite"></div>
   <div class="game-grid">
     {{ if gt (len $games) 0 }}
+      {{/* Only this category uses explicitly enabled collections. */}}
+      {{ $enabled := dict }}
+      {{ if eq $slug "decompilations-recompilations" }}
+        {{ range site.Data.collections }}
+          {{ if .enabled }}{{ $enabled = merge $enabled (dict .slug .) }}{{ end }}
+        {{ end }}
+      {{ end }}
       {{ range $games }}
-        {{ partial "game-card.html" (dict "game" . "ctx" $) }}
+        {{ $group := default "" .collection | urlize }}
+        {{ if and (eq $slug "decompilations-recompilations") (ne $group "") (isset $enabled $group) }}
+          {{/* Displayed on its dedicated collection page instead. */}}
+        {{ else }}
+          {{ partial "game-card.html" (dict "game" . "ctx" $) }}
+        {{ end }}
+      {{ end }}
+      {{ if eq $slug "decompilations-recompilations" }}
+        {{ range site.Data.collections }}
+          {{ if .enabled }}
+            {{ $c := . }}
+            {{ $members := where $games "collection" $c.slug }}
+            {{ if gt (len $members) 0 }}
+              {{ partial "collection-card.html" (dict "collection" $c "members" $members) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
       {{ end }}
     {{ else }}
       <div class="empty-state" style="max-width: 750px; opacity: .9;">

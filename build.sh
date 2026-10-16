@@ -4,6 +4,7 @@ set -euo pipefail
 echo "Generating game pages..."
 python3 tools/generate_rating_projects.py
 python3 tools/generate_game_pages.py
+python3 tools/generate_collection_pages.py
 
 
 echo "Generating series pages..."

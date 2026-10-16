@@ -30,6 +30,7 @@ trap cleanup EXIT
 
 # Generate derived files/pages so preview matches deploy
 python3 tools/generate_game_pages.py
+python3 tools/generate_collection_pages.py
 python3 tools/generate_series_pages.py
 python3 tools/generate_browse_indexes.py
 python3 tools/generate_feature_data.py --include-hidden 1

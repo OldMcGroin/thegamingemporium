@@ -2386,3 +2386,167 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 
 /* Distinct gold rating stars, including dynamically updated averages */
 .tge-rating-trigger .tge-rating-star { color: #ffcc33 !important; font-size: 1.2em; font-weight: 800; margin-right: .2em; text-shadow: 0 0 2px rgba(255,204,51,.4); }
+
+/* Decomp/recomp collection cards */
+.game-card--collection .collection-card__footer {text-align:center; padding:12px 8px 14px;}
+.game-card--collection .game-card__title {margin:0;}
+.collection-card__count {font-size:.88rem;opacity:.78;margin-top:4px;}
+.collection-page__count {text-align:center;opacity:.8;margin-top:-.5rem;}
+
+/* Collection cards stay the same overall height as standard decomp/recomp cards.
+   Use the remaining space for portrait artwork; reserve four lines in the footer. */
+.game-card--collection { height:480px; min-height:480px; display:flex; flex-direction:column; }
+.game-card--collection .game-card__link { display:flex; flex-direction:column; height:100%; min-height:0; flex:1; }
+.game-card--collection .game-card__image {
+  width:100%; height:auto; min-height:0; flex:1 1 0; overflow:hidden;
+}
+.game-card--collection .game-card__image img,
+.game-card--collection img.game-card__img {
+  width:100%; height:100%; object-fit:cover; display:block;
+}
+.game-card--collection .collection-card__footer {
+  box-sizing:border-box; height:104px; min-height:104px; padding:10px;
+  display:flex; flex-direction:column; align-items:center; justify-content:center;
+  text-align:center; flex:0 0 104px;
+}
+.game-card--collection .collection-card__footer .game-card__title {
+  margin:0; line-height:1.35; text-align:center;
+}
+.game-card--collection .collection-card__count { margin-top:5px; line-height:1.35; }
+
+/* Collection cards follow the actual grid-row height, not a fixed 480px. */
+.game-grid > .game-card--collection {
+  height: auto !important;
+  min-height: 480px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.game-grid > .game-card--collection > .game-card__link {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  height: 100%;
+  min-height: 0;
+}
+.game-grid > .game-card--collection .game-card__image {
+  flex: 1 1 auto;
+  min-height: 0;
+  height: 0;
+  overflow: hidden;
+}
+.game-grid > .game-card--collection .game-card__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.game-grid > .game-card--collection .collection-card__footer {
+  flex: 0 0 104px;
+  min-height: 104px;
+  height: 104px;
+}
+
+
+/* Collection-only full-card artwork with legible text overlay. */
+.game-grid > .game-card--collection {
+  position: relative;
+  height: auto !important;
+  min-height: 410px;
+  align-self: stretch;
+  display: block;
+}
+.game-grid > .game-card--collection > .game-card__link {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+.game-grid > .game-card--collection .game-card__image {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  min-height: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.game-grid > .game-card--collection .game-card__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.game-grid > .game-card--collection .collection-card__footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  padding: 24px 12px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: center;
+  background: linear-gradient(to top, rgba(0,0,0,.78), rgba(0,0,0,0));
+  pointer-events: none;
+}
+.game-grid > .game-card--collection .collection-card__footer .game-card__title,
+.game-grid > .game-card--collection .collection-card__count {
+  color: #fff !important;
+  opacity: 1 !important;
+  font-weight: 800 !important;
+  -webkit-text-stroke: .55px #000;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.game-grid > .game-card--collection .collection-card__footer .game-card__title {
+  margin: 0;
+  line-height: 1.3;
+}
+.game-grid > .game-card--collection .collection-card__count {
+  margin-top: 5px;
+  line-height: 1.3;
+}
+
+/* Long collection-name safeguards (collection cards only). */
+.game-grid > .game-card--collection .collection-card__footer {
+  max-width: 100%;
+  padding: 26px 14px 15px;
+  overflow: hidden;
+}
+.game-grid > .game-card--collection .collection-card__footer .game-card__title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 5.12em;
+  font-size: clamp(.85rem, 1.45vw, 1.28rem);
+  line-height: 1.28;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
+  text-wrap: balance;
+  flex: 0 1 auto;
+}
+.game-grid > .game-card--collection .collection-card__count {
+  display: block;
+  flex: 0 0 auto;
+  white-space: nowrap;
+  font-size: clamp(.76rem, 1vw, .9rem);
+  line-height: 1.3;
+}
+@media (max-width: 700px) {
+  .game-grid > .game-card--collection .collection-card__footer { padding-inline: 9px; }
+  .game-grid > .game-card--collection .collection-card__footer .game-card__title { font-size: clamp(.85rem, 3.4vw, 1.1rem); }
+}

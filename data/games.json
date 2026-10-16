@@ -44906,7 +44906,8 @@
     "series": "Bloodborne",
     "video_link": "",
     "date_added": "2026-10-04",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "bloodborne"
   },
   {
     "id": 3445,
@@ -46932,7 +46933,8 @@
     "series": "Bloodborne",
     "video_link": "https://youtu.be/HjyE0skf2MY?si=nTYY12QIAm3HVBU5",
     "date_added": "2026-10-08",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "bloodborne"
   },
   {
     "id": 3610,
@@ -46944,7 +46946,8 @@
     "genre2": "",
     "series": "Bloodborne",
     "video_link": "https://youtu.be/HjyE0skf2MY?si=nTYY12QIAm3HVBU5",
-    "date_added": "2026-10-08"
+    "date_added": "2026-10-08",
+    "collection": "bloodborne"
   },
   {
     "id": 3611,
@@ -47951,7 +47954,8 @@
     "genre2": "action",
     "series": "Bloodborne",
     "video_link": "",
-    "date_added": "2026-10-11"
+    "date_added": "2026-10-11",
+    "collection": "bloodborne"
   },
   {
     "id": 3694,
@@ -49186,7 +49190,8 @@
     "genre2": "action",
     "series": "Bloodborne",
     "video_link": "",
-    "date_added": "2026-10-14"
+    "date_added": "2026-10-14",
+    "collection": "bloodborne"
   },
   {
     "id": 3796,

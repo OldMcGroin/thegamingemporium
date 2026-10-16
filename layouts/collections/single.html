@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $slug := .Params.collection_slug }}
+{{ $collection := false }}
+{{ range site.Data.collections }}{{ if and .enabled (eq .slug $slug) }}{{ $collection = . }}{{ end }}{{ end }}
+{{ if $collection }}
+  {{ $games := where site.Data.games "category" "decompilations-recompilations" }}
+  {{ if not hugo.IsServer }}{{ $games = where $games "hidden" "ne" true }}{{ end }}
+  {{ $members := where $games "collection" $slug }}
+  <h1 class="page-title">{{ $collection.name }} Collection</h1>
+  <p class="collection-page__count">{{ len $members }} {{ if eq (len $members) 1 }}Project{{ else }}Projects{{ end }}</p>
+  <p><a href="/categories/decompilations-recompilations/">← Back to Decompilations &amp; Recompilations</a></p>
+  <div class="game-controls" data-game-grid data-category-slug="decompilations-recompilations">
+    <div class="game-grid">
+      {{ range $members }}{{ partial "game-card.html" (dict "game" . "ctx" $) }}{{ end }}
+    </div>
+  </div>
+{{ end }}
+{{ end }}
