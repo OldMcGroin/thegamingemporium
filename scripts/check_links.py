@@ -10,32 +10,31 @@ def check(item):
     url = str(item.get('link') or '').strip()
     result = {'id': item.get('id'), 'title': item.get('title'), 'url': url, 'hidden': item.get('hidden') is True}
     if urlparse(url).scheme not in ('https', 'http'):
-        return dict(result, status='invalid', detail='Invalid or missing HTTP URL')
+        return dict(result, status='other', detail='Invalid or missing HTTP URL')
+
     for attempt in range(2):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (compatible; TheGamingEmporiumLinkMonitor/1.0)', 'Accept':'text/html,*/*'})
+            req = urllib.request.Request(url, headers={
+                'User-Agent': 'Mozilla/5.0 (compatible; TheGamingEmporiumLinkMonitor/1.0)',
+                'Accept': 'text/html,*/*',
+            })
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-                code = r.status
-                final = r.url
-            status = 'working' if code < 400 else 'suspect'
-            return dict(result, status=status, detail=f'HTTP {code}', final_url=final)
+                code, final = r.status, r.url
+            return dict(result, status='working' if code < 400 else 'other',
+                        detail=f'HTTP {code}', final_url=final)
         except urllib.error.HTTPError as e:
             code = e.code
-            if code in (401, 403, 429, 500, 502, 503, 504):
-                status = 'suspect'
-            elif code in (404, 410):
-                status = 'broken' # Still requires human review before hiding
-            else:
-                status = 'suspect'
-            if attempt == 0 and status != 'broken':
+            # Retry even 404/410 once: a single failed request is not sufficient.
+            if attempt == 0:
                 time.sleep(2)
                 continue
-            return dict(result, status=status, detail=f'HTTP {code}')
+            return dict(result, status='broken' if code in (404, 410) else 'other',
+                        detail=f'HTTP {code}')
         except Exception as e:
             if attempt == 0:
                 time.sleep(2)
                 continue
-            return dict(result, status='suspect', detail=type(e).__name__)
+            return dict(result, status='other', detail=type(e).__name__)
 
 def email_report(new_items, date):
     key, recipient, sender = (os.environ.get(k, '') for k in ('RESEND_API_KEY', 'LINK_HEALTH_EMAIL_TO', 'LINK_HEALTH_EMAIL_FROM'))
@@ -65,18 +64,23 @@ def main():
         for game in group:
             old = previous_by_id.get(str(game.get('id')), {})
             item = dict(result, id=game.get('id'), title=game.get('title'), hidden=game.get('hidden') is True)
-            item['consecutive_failures'] = (int(old.get('consecutive_failures') or 0) + 1) if item['status'] == 'broken' else 0
-            # Only confirm repeated 404/410 failures on different scheduled runs.
-            if item['status'] == 'broken' and item['consecutive_failures'] < 2:
-                item['status'] = 'suspect'
-                item['detail'] += ' (awaiting next daily check)'
+            # Count consecutive daily scans with HTTP 404/410, including the
+            # previous scan's pending status. Other errors reset the counter.
+            old_is_missing = str(old.get('detail', '')).startswith(('HTTP 404', 'HTTP 410'))
+            if item['status'] == 'broken':
+                item['consecutive_failures'] = (int(old.get('consecutive_failures') or 0) + 1) if old_is_missing else 1
+                if item['consecutive_failures'] < 2:
+                    item['status'] = 'monitoring'
+                    item['detail'] += ' (awaiting next daily check)'
+            else:
+                item['consecutive_failures'] = 0
             review = reviews.get(str(item['id']), {})
             if review.get('url') == item['url'] and review.get('detail') == item['detail']:
                 item['reviewed_ok_at'] = review.get('checked_at')
             results.append(item)
     date = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') in ('broken', 'suspect') and not x.get('reviewed_ok_at')}
-    new_items = [x for x in results if x['status'] in ('broken', 'suspect') and str(x['id']) not in old_flagged and not x.get('reviewed_ok_at')]
+    old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') == 'broken' and not x.get('reviewed_ok_at')}
+    new_items = [x for x in results if x['status'] == 'broken' and str(x['id']) not in old_flagged and not x.get('reviewed_ok_at')]
     report = {'checked_at': date, 'total':len(results), 'results':results}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
