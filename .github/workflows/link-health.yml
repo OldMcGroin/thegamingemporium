@@ -1,7 +1,9 @@
 name: Check external game links
 on:
   schedule:
-    - cron: '17 5 * * *'
+    # GitHub cron is UTC. Use 03:00 UTC in Irish summer, 04:00 UTC in winter.
+    - cron: '0 3 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,17 +15,40 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
+      - name: Select correct Irish-time schedule
+        id: local_time
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+        shell: bash
+        run: |
+          # GitHub may start scheduled jobs late; check the timezone offset,
+          # not the runner's current hour. Manual runs always proceed.
+          offset="$(TZ=Europe/Dublin date +%z)"
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]] || \
+             [[ "$offset" == "+0100" && "$EVENT_SCHEDULE" == "0 3 * * *" ]] || \
+             [[ "$offset" == "+0000" && "$EVENT_SCHEDULE" == "0 4 * * *" ]]; then
+            echo 'run_scan=true' >> "$GITHUB_OUTPUT"
+            echo "Link scan enabled: $EVENT_NAME ($EVENT_SCHEDULE), Ireland offset $offset"
+          else
+            echo 'run_scan=false' >> "$GITHUB_OUTPUT"
+            echo "Skipping off-season trigger: $EVENT_SCHEDULE, Ireland offset $offset"
+          fi
       - uses: actions/checkout@v4
+        if: steps.local_time.outputs.run_scan == 'true'
       - uses: actions/setup-python@v5
+        if: steps.local_time.outputs.run_scan == 'true'
         with:
           python-version: '3.12'
-      - name: Check links and notify
+      - name: Check links and send confirmation email
+        if: steps.local_time.outputs.run_scan == 'true'
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           LINK_HEALTH_EMAIL_TO: ${{ secrets.LINK_HEALTH_EMAIL_TO }}
           LINK_HEALTH_EMAIL_FROM: ${{ secrets.LINK_HEALTH_EMAIL_FROM }}
         run: python scripts/check_links.py
       - name: Save report for website
+        if: steps.local_time.outputs.run_scan == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

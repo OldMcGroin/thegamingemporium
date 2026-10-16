@@ -36,16 +36,33 @@ def check(item):
                 continue
             return dict(result, status='other', detail=type(e).__name__)
 
-def email_report(new_items, date):
-    key, recipient, sender = (os.environ.get(k, '') for k in ('RESEND_API_KEY', 'LINK_HEALTH_EMAIL_TO', 'LINK_HEALTH_EMAIL_FROM'))
-    if not (key and recipient and sender and new_items):
-        return
+def email_report(new_items, date, results):
+    """Send one completion email for every full scan, including zero-new-alert scans."""
+    key, recipient, sender = (os.environ.get(k, '').strip() for k in
+                              ('RESEND_API_KEY', 'LINK_HEALTH_EMAIL_TO', 'LINK_HEALTH_EMAIL_FROM'))
+    if not (key and recipient and sender):
+        raise RuntimeError('Missing RESEND_API_KEY, LINK_HEALTH_EMAIL_TO or LINK_HEALTH_EMAIL_FROM secret')
+    confirmed = [x for x in results if x['status'] == 'broken']
+    pending = [x for x in results if x['status'] == 'monitoring']
+    other = [x for x in results if x['status'] == 'other']
     lines = [f'{x["title"]} — {x["detail"]}\n{x["url"]}' for x in new_items[:60]]
-    body = f'Link Health Monitor — {date}\n\n{len(new_items)} newly flagged link(s):\n\n' + '\n\n'.join(lines) + '\n\nReview: https://thegamingemporium.com/admin/link-health/'
-    data = json.dumps({'from': sender, 'to': [recipient], 'subject': f'The Gaming Emporium: {len(new_items)} newly flagged links', 'text': body}).encode()
-    req = urllib.request.Request('https://api.resend.com/emails', data=data, headers={'Authorization': 'Bearer '+key, 'Content-Type':'application/json'}, method='POST')
+    body = (f'The Gaming Emporium — Link Health scan complete\n{date}\n\n'
+            f'Links checked: {len(results)}\n'
+            f'Confirmed HTTP 404/410: {len(confirmed)}\n'
+            f'Awaiting second scan: {len(pending)}\n'
+            f'Other issues (including 403, timeouts): {len(other)}\n'
+            f'Newly confirmed broken links: {len(new_items)}\n\n'
+            + ('Newly confirmed links:\n\n' + '\n\n'.join(lines) + '\n\n' if lines else
+               'No newly confirmed broken links in this scan.\n\n')
+            + 'Dashboard: https://thegamingemporium.com/admin/link-health/')
+    data = json.dumps({'from': sender, 'to': [recipient],
+                       'subject': f'The Gaming Emporium: scan complete — {len(new_items)} new broken links',
+                       'text': body}).encode()
+    req = urllib.request.Request('https://api.resend.com/emails', data=data,
+                                 headers={'Authorization': 'Bearer ' + key,
+                                          'Content-Type': 'application/json'}, method='POST')
     with urllib.request.urlopen(req, timeout=20) as r:
-        print('Email status:', r.status)
+        print('Daily confirmation email API status:', r.status)
 
 def main():
     games = json.loads((ROOT / 'data/games.json').read_text())
@@ -85,7 +102,6 @@ def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
     print(f'Checked {len(results)} entries; newly flagged {len(new_items)}')
-    try: email_report(new_items, date)
-    except Exception as e: print('Email delivery failed:', e)
+    email_report(new_items, date, results)
 
 if __name__ == '__main__': main()
