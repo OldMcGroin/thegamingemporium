@@ -6359,7 +6359,8 @@
     "video_link": "",
     "notes": "N64 to PC static recompilation of Mystical Ninja Starring Goemon.",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "ai_usage": "none"
   },
   {
     "id": 487,
@@ -50064,7 +50065,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3865,
     "title": "The Order: 1886 PC Port",
     "category": "decompilations-recompilations",
@@ -50077,7 +50078,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3866,
     "title": "Doraemon 3: Nobita no Machi SOS! Recompilation",
     "category": "decompilations-recompilations",
@@ -50090,7 +50091,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3867,
     "title": "Doraemon 3: Nobita no Machi SOS! Recompilation for Android",
     "category": "android-ports",
@@ -50103,8 +50104,4 @@
     "date_added": "2026-10-16",
     "weight": ""
   }
-
-
-
-
 ]
