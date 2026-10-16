@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Fri, 16 Oct 2026 20:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:14:05 +0000</lastBuildDate>
     <item>
       <title>Populous: The Beginning Recompilation</title>
       <link>https://thegamingemporium.com/game/populous-the-beginning-recompilation/</link>
@@ -480,6 +480,17 @@
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/grand-theft-auto-2-in-browser.webp" alt="Grand Theft Auto 2 in Browser" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Browser Based · Series: Grand Theft Auto · Genre: sandbox, action]]></content:encoded>
     </item>
     <item>
+      <title>Athelas - TLOTR The Two Towers and The Return of the King Launcher</title>
+      <link>https://thegamingemporium.com/game/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher.webp" alt="Athelas - TLOTR The Two Towers and The Return of the King Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Lord of the Rings · Genre: action, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/athelas-tlotr-the-two-towers-and-the-return-of-the-king-launcher.webp" alt="Athelas - TLOTR The Two Towers and The Return of the King Launcher" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: The Lord of the Rings · Genre: action, adventure]]></content:encoded>
+    </item>
+    <item>
       <title>Real Steel Recompilation for Android</title>
       <link>https://thegamingemporium.com/game/real-steel-recompilation-for-android/</link>
       <guid isPermaLink="true">https://thegamingemporium.com/game/real-steel-recompilation-for-android/</guid>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/dragons-crown-pro-pc-port.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragons-crown-pro-pc-port.webp" alt="Dragons Crown Pro PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dragons Crown · Genre: action, adventure]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/dragons-crown-pro-pc-port.webp" alt="Dragons Crown Pro PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Dragons Crown · Genre: action, adventure]]></content:encoded>
-    </item>
-    <item>
-      <title>Forza Motorsport 3 PC Port</title>
-      <link>https://thegamingemporium.com/game/forza-motorsport-3-pc-port/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/forza-motorsport-3-pc-port/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/forza-motorsport-3-pc-port.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/forza-motorsport-3-pc-port.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/forza-motorsport-3-pc-port.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/forza-motorsport-3-pc-port.webp" alt="Forza Motorsport 3 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Forza · Genre: racing]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/forza-motorsport-3-pc-port.webp" alt="Forza Motorsport 3 PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: Forza · Genre: racing]]></content:encoded>
     </item>
   </channel>
 </rss>
