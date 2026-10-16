@@ -1,2 +1,6 @@
 #!/usr/bin/env bash
-bash tools/deploy.sh
+set -euo pipefail
+
+# Run the real deployment script from this repository, regardless of cwd.
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+exec bash "$SCRIPT_DIR/tools/deploy.sh" "$@"
