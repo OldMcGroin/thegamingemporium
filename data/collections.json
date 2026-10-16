@@ -16,6 +16,12 @@
     "slug": "gran-turismo-2",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "Super Mario 64",
+    "slug": "super-mario-64",
+    "enabled": true,
+    "weight": 0
   }
 
 

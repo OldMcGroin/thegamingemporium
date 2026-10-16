@@ -5555,7 +5555,8 @@
     "video_link": "",
     "notes": "Static recompilation of the N64 title to PC.",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 426,
@@ -7201,7 +7202,8 @@
     "notes": "Enhanced version of the SM64 PC port with multiplayer focus.",
     "date_added": "",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "collection": "super-mario-64"
   },
   {
     "id": 550,
@@ -7215,7 +7217,8 @@
     "video_link": "",
     "notes": "The landmark decompilation project that brought SM64 natively to PC.",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 551,
@@ -7230,7 +7233,8 @@
     "notes": "Graphical overhaul and mod for the SM64 PC port.",
     "date_added": "",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "collection": "super-mario-64"
   },
   {
     "id": 552,
@@ -19250,7 +19254,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-01-26",
-    "image": ""
+    "image": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 1470,
@@ -21119,7 +21124,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-06",
-    "image": ""
+    "image": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 1610,
@@ -35406,7 +35412,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-13",
-    "image": ""
+    "image": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 2693,
@@ -41813,7 +41820,8 @@
     "genre2": "",
     "series": "Super Mario",
     "video_link": "",
-    "date_added": "2026-09-26"
+    "date_added": "2026-09-26",
+    "collection": "super-mario-64"
   },
   {
     "id": 3190,
