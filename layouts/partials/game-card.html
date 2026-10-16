@@ -13,6 +13,7 @@ The helper button copies the *exact* filename Hugo is currently using when an im
 If no image exists yet, it defaults to <slug>.jpg (you can still use .webp, .jpeg, or .png).
 */}}
 {{- $slug := urlize $g.title -}}
+{{- $ratingSlug := index site.Data.rating_slugs $g.title | default "" -}}
 {{- $imgFilename := printf "%s.jpg" $slug -}}
 
 {{/*
@@ -111,11 +112,11 @@ Image strategy (scales to thousands of items):
     {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
     <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
     {{- if not $g.hidden -}}
-      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
     {{- end -}}
   </div>
   {{- else if and (eq $g.category "decompilations-recompilations") (not $g.hidden) -}}
-    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $slug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
   {{- end -}}
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
