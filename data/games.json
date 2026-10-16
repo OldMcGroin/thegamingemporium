@@ -7849,7 +7849,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "collection": "banjo-kazooie"
   },
   {
     "id": 598,
@@ -19240,7 +19241,9 @@
     "notes": "",
     "date_added": "2026-01-26",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "collection": "banjo-kazooie"
+
   },
   {
     "id": 1469,
@@ -20109,7 +20112,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-02-01",
-    "image": ""
+    "image": "",
+    "collection": "banjo-kazooie"
   },
   {
     "id": 1535,
@@ -26861,7 +26865,8 @@
     "notes": "",
     "date_added": "2026-03-16",
     "image": "",
-    "ai_usage": "light"
+    "ai_usage": "light",
+    "collection": "animal-crossing"
   },
   {
     "id": 2048,
@@ -26928,7 +26933,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-03-20",
-    "image": ""
+    "image": "",
+    "collection": "animal-crossing"
   },
   {
     "id": 2053,
@@ -29542,7 +29548,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-06-02",
-    "image": ""
+    "image": "",
+    "collection": "banjo-kazooie"
   },
   {
     "id": 2251,
@@ -33247,7 +33254,8 @@
     "notes": "",
     "date_added": "2026-07-31",
     "image": "",
-    "ai_usage": "light"
+    "ai_usage": "light",
+    "collection": "banjo-kazooie"
   },
   {
     "id": 2529,
@@ -42562,7 +42570,8 @@
     "genre2": "",
     "series": "Apocalypse",
     "video_link": "",
-    "date_added": "2026-09-28"
+    "date_added": "2026-09-28",
+    "collection": "apocalypse"
   },
   {
     "id": 3250,
@@ -44860,18 +44869,6 @@
     "series": "FEZ",
     "video_link": "",
     "date_added": "2026-10-03"
-  },
-  {
-    "id": 3440,
-    "title": "LEGO Dimensions Recompilation",
-    "category": "decompilations-recompilations",
-    "platform": "Xbox 360",
-    "link": "https://github.com/NeverCookFirst/DimensionsRecomp",
-    "genre1": "sandbox",
-    "genre2": "action",
-    "series": "Lego",
-    "video_link": "https://youtu.be/gvy_MY8fHvA?si=o1wi0V91xlj_Ci0u",
-    "date_added": "2026-10-04"
   },
   {
     "id": 3441,
@@ -48998,7 +48995,8 @@
     "genre2": "",
     "series": "Apocalypse",
     "video_link": "",
-    "date_added": "2026-10-13"
+    "date_added": "2026-10-13",
+    "collection": "apocalypse"
   },
   {
     "id": 3779,
@@ -49803,7 +49801,8 @@
     "series": "Super Mario",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "collection": "super-mario-64"
   },
   {
     "id": 3845,

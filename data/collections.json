@@ -22,6 +22,24 @@
     "slug": "super-mario-64",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "Animal Crossing",
+    "slug": "animal-crossing",
+    "enabled": true,
+    "weight": 0
+  },
+    {
+    "name": "Apocalypse",
+    "slug": "apocalypse",
+    "enabled": true,
+    "weight": 0
+  },
+    {
+    "name": "Banjo-Kazooie",
+    "slug": "banjo-kazooie",
+    "enabled": true,
+    "weight": 0
   }
 
 

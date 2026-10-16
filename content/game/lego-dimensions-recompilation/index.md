@@ -1,16 +1,16 @@
 ---
-title: "LEGO Dimensions Recompilation"
+title: "Lego Dimensions Recompilation"
 url: "/game/lego-dimensions-recompilation/"
 type: game
 params:
   external_link: "https://github.com/NeverCookFirst/DimensionsRecomp"
   category: "decompilations-recompilations"
   hidden: false
-  genre1: "sandbox"
-  genre2: "action"
+  genre1: "action"
+  genre2: ""
   series: "Lego"
-  video_link: "https://youtu.be/gvy_MY8fHvA?si=o1wi0V91xlj_Ci0u"
-  date_added: "2026-10-04"
+  video_link: ""
+  date_added: "2026-09-27"
   image: ""
 ---
 
