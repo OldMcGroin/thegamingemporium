@@ -19243,7 +19243,6 @@
     "image": "",
     "ai_usage": "none",
     "collection": "banjo-kazooie"
-
   },
   {
     "id": 1469,
@@ -50076,7 +50075,8 @@
     "series": "The Order",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 3866,
@@ -50104,7 +50104,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3868,
     "title": "Crackdown Recompilation",
     "category": "decompilations-recompilations",
@@ -50117,8 +50117,4 @@
     "date_added": "2026-10-16",
     "weight": ""
   }
-
-
-
-
 ]
