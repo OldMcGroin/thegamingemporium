@@ -50076,6 +50076,32 @@
     "video_link": "",
     "date_added": "2026-10-16",
     "weight": ""
+  },
+    {
+    "id": 3866,
+    "title": "Doraemon 3: Nobita no Machi SOS! Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/citrongames/Dora64-3",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Doraemon",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+    {
+    "id": 3867,
+    "title": "Doraemon 3: Nobita no Machi SOS! Recompilation for Android",
+    "category": "android-ports",
+    "platform": "",
+    "link": "https://github.com/citrongames/Dora64-3",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Doraemon",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
   }
 
 
