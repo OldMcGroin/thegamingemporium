@@ -26,7 +26,10 @@
       {{ end }}
 
       {{ if and (eq .Params.category "decompilations-recompilations") (not .Params.hidden) }}
-      <div class="tge-rating" data-rating-project="{{ .File.ContentBaseName }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+      {{- $ratingSlug := index site.Data.rating_slugs .Params.title | default "" -}}
+      {{- with $ratingSlug }}
+      <div class="tge-rating" data-rating-project="{{ . }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+      {{- end }}
       {{ end }}
       <div class="game-page__actions">
         {{ with .Params.external_link }}
