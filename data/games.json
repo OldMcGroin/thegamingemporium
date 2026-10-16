@@ -50103,5 +50103,22 @@
     "video_link": "",
     "date_added": "2026-10-16",
     "weight": ""
+  },
+    {
+    "id": 3868,
+    "title": "Crackdown Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/Unowa001/crackdown-recomp",
+    "genre1": "action",
+    "genre2": "sandbox",
+    "series": "Crackdown",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
   }
+
+
+
+
 ]
