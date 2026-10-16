@@ -1,0 +1,24 @@
+{
+  "baseline": "User-supplied thegamingemporium-source.tar(1).gz on 2026-10-16",
+  "sha256": {
+    ".github/workflows/link-health.yml": "93b31757ab516974217bf1f92020dd322ab40ab0aa2fa3972feff2c51683649b",
+    "scripts/check_links.py": "8557ffbbbb5a0a1017c639d57a3d75135cb1e979043b21fc087f8951db94dc0a",
+    "functions/api/ratings.js": "87ea48964c97e1374c2df0f7dcbf1d5006ca3330e3c9c55710ef9b686f0178ac",
+    "static/js/project-ratings.js": "45dd9eaff698f17c8f258caea99c3537b02c8b001d5e11d71321aa132d3b59f3",
+    "tools/generate_rating_projects.py": "638a159255dee6e890f104171507cc9d5978472eff7c1396df027adbea7c141c",
+    "data/rating_slugs.json": "9950fdc9ac236b616581b04586537c8854b75c09b7b8d4a772a38bd06f4340df",
+    "static/rating-projects.json": "7f9468ea7a41fd8e0e85ef6c78bd3c3e052d16e27d0e2f73fbc09afcc055f888",
+    "data/collections.json": "854fd17d56d247446b7a7960893d9ee371cfc1821792b268ff92f8d122c73696",
+    "tools/generate_collection_pages.py": "e8f53858354ac2be4420aeea699593e157d79a68524774f83e07da8d622e760f",
+    "layouts/partials/game-card.html": "c2f5015205fbb39ace1de94318f20c838f5d96d6a67eb8c3d03c0ed043abfc0c",
+    "layouts/game/single.html": "4838c646b9657fcd3e2d1d7ac429a30bb1b3ba8a8e4043f135f4f187d34ea5af",
+    "static/js/search-results.js": "70a003bf7c1ac9850381119837ed02b95bfe3f2fb843476f5f6bd152cd0aeaf2",
+    "static/js/search.js": "f90c7231713163b391f6968d6e1b0a12daa7ee45e31061e3ca7a7299598e8d9c",
+    "functions/submit-ai-report.js": "4ec94fbd993f1c16e11f7d5de0d5af260cb0b5c07b2db2b35c0965741ee9a2b7",
+    "functions/admin/ai-reports/apply.js": "3a98ee8b1f26d8219358c0c2846e45f9306ead8c8766a82ec65b3db2fb7763c0",
+    "functions/admin/link-health/manage.js": "7f3153efe2e2be2e63252b854fa9c0ca0fb36e8b39830c0f637c7d9deaebf35d",
+    "tools/deploy.sh": "b2c489fc9979721f4b3793179481284ea2d97e7d2007cf95bdc44c43c6828510",
+    "build.sh": "39bba30268889877c930db4ce46e9f1ec8777aa53ce97472976b84876f4c484d",
+    "data/games.json": "bdd72f775f9e3a6e2c876b708420c2dcbeff19bb11cdecc6bf85d8c52d6b837b"
+  }
+}
