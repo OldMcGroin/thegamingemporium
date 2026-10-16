@@ -49841,7 +49841,8 @@
     "series": "Top Gun",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 3850,
@@ -49934,7 +49935,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3857,
     "title": "inFAMOUS Second Son PC Port",
     "category": "decompilations-recompilations",
@@ -49947,7 +49948,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3858,
     "title": "Midnight Club: Los Angeles Recompilation",
     "category": "decompilations-recompilations",
@@ -49960,7 +49961,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3859,
     "title": "Spider Man Edge of Time Recompilation for PS5",
     "category": "console-ports",
@@ -49973,7 +49974,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3860,
     "title": "Tekken Dark Resurrection in Browser",
     "category": "browser-based",
@@ -49986,7 +49987,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3861,
     "title": "Return to Castle Wolfenstein Multiplayer in Browser",
     "category": "browser-based",
@@ -49999,7 +50000,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3862,
     "title": "GTA: Chinatown Wars PC Port",
     "category": "decompilations-recompilations",
@@ -50012,7 +50013,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3863,
     "title": "Fable - The Lost Chapters",
     "category": "abandonware",
@@ -50025,7 +50026,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3864,
     "title": "Turok VR",
     "category": "vr-ports",
@@ -50038,8 +50039,4 @@
     "date_added": "2026-10-16",
     "weight": ""
   }
-
-
-
-
 ]
