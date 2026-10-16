@@ -3,7 +3,7 @@ title: "Crash Team Racing: Nitro-Fueled Recompilation"
 url: "/game/crash-team-racing-nitro-fueled-recompilation/"
 type: game
 params:
-  external_link: "https://github.com/T3CHNOLOG1C/SacredFire"
+  external_link: "https://github.com/Ryu7w7/OCTR-NitroFueled-PC"
   category: "decompilations-recompilations"
   hidden: false
   genre1: "racing"

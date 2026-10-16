@@ -4,5 +4,14 @@
     "slug": "bloodborne",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "Goldeneye",
+    "slug": "goldeneye",
+    "enabled": true,
+    "weight": 0
   }
+
+
+
 ]

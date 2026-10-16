@@ -29858,7 +29858,8 @@
     "notes": "",
     "date_added": "2026-06-13",
     "image": "",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "goldeneye"
   },
   {
     "id": 2274,
@@ -40089,7 +40090,8 @@
     "series": "007",
     "video_link": "",
     "date_added": "2026-09-15",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "goldeneye"
   },
   {
     "id": 3048,
@@ -41251,7 +41253,8 @@
     "genre2": "",
     "series": "007",
     "video_link": "",
-    "date_added": "2026-09-23"
+    "date_added": "2026-09-23",
+    "collection": "goldeneye"
   },
   {
     "id": 3144,
@@ -49708,7 +49711,8 @@
     "series": "007",
     "video_link": "",
     "date_added": "2026-10-15",
-    "weight": ""
+    "weight": "",
+    "collection": "goldeneye"
   },
   {
     "id": 3839,
