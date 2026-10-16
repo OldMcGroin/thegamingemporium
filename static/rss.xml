@@ -5,7 +5,7 @@
     <link>https://thegamingemporium.com/</link>
     <atom:link href="https://thegamingemporium.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>The 50 most recent additions to The Gaming Emporium (links go to the site first).</description>
-    <lastBuildDate>Thu, 15 Oct 2026 23:57:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:10:39 +0000</lastBuildDate>
     <item>
       <title>Populous: The Beginning Recompilation</title>
       <link>https://thegamingemporium.com/game/populous-the-beginning-recompilation/</link>
@@ -203,6 +203,17 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/halo-combat-evolved-multiplayer-on-nintendo-64.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-multiplayer-on-nintendo-64.webp" alt="Halo: Combat Evolved Multiplayer on Nintendo 64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Halo · Genre: first person shooter]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/halo-combat-evolved-multiplayer-on-nintendo-64.webp" alt="Halo: Combat Evolved Multiplayer on Nintendo 64" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Console Ports · Series: Halo · Genre: first person shooter]]></content:encoded>
+    </item>
+    <item>
+      <title>inFAMOUS Second Son PC Port</title>
+      <link>https://thegamingemporium.com/game/infamous-second-son-pc-port/</link>
+      <guid isPermaLink="true">https://thegamingemporium.com/game/infamous-second-son-pc-port/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://thegamingemporium.com/Images/Games/infamous-second-son-pc-port.webp" />
+      <media:content url="https://thegamingemporium.com/Images/Games/infamous-second-son-pc-port.webp" medium="image" type="image/webp" />
+      <enclosure url="https://thegamingemporium.com/Images/Games/infamous-second-son-pc-port.webp" type="image/webp" />
+      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/infamous-second-son-pc-port.webp" alt="inFAMOUS Second Son PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: inFAMOUS · Genre: action, adventure]]></description>
+      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/infamous-second-son-pc-port.webp" alt="inFAMOUS Second Son PC Port" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Decompilations Recompilations · Series: inFAMOUS · Genre: action, adventure]]></content:encoded>
     </item>
     <item>
       <title>Real Steel Recompilation for Android</title>
@@ -544,17 +555,6 @@
       <enclosure url="https://thegamingemporium.com/Images/Games/decomp-wtf.webp" type="image/webp" />
       <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/decomp-wtf.webp" alt="decomp wtf" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></description>
       <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/decomp-wtf.webp" alt="decomp wtf" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Utility · Genre: utility]]></content:encoded>
-    </item>
-    <item>
-      <title>WWF No Mercy VR</title>
-      <link>https://thegamingemporium.com/game/wwf-no-mercy-vr/</link>
-      <guid isPermaLink="true">https://thegamingemporium.com/game/wwf-no-mercy-vr/</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://thegamingemporium.com/Images/Games/wwf-no-mercy-vr.webp" />
-      <media:content url="https://thegamingemporium.com/Images/Games/wwf-no-mercy-vr.webp" medium="image" type="image/webp" />
-      <enclosure url="https://thegamingemporium.com/Images/Games/wwf-no-mercy-vr.webp" type="image/webp" />
-      <description><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wwf-no-mercy-vr.webp" alt="WWF No Mercy VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: WWF · Genre: fighting]]></description>
-      <content:encoded><![CDATA[<img src="https://thegamingemporium.com/Images/Games/wwf-no-mercy-vr.webp" alt="WWF No Mercy VR" style="max-width:600px;height:auto;display:block;margin:0 0 8px 0;" />Vr Ports · Series: WWF · Genre: fighting]]></content:encoded>
     </item>
   </channel>
 </rss>
