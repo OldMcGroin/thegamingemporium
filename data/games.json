@@ -49946,5 +49946,100 @@
     "video_link": "",
     "date_added": "2026-10-16",
     "weight": ""
+  },
+      {
+    "id": 3858,
+    "title": "Midnight Club: Los Angeles Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/holdmysocks/mcla-recomp",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Midnight Club",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3859,
+    "title": "Spider Man Edge of Time Recompilation for PS5",
+    "category": "console-ports",
+    "platform": "",
+    "link": "https://github.com/KongaTime/PS5_EdgeOfTimeTitle",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3860,
+    "title": "Tekken Dark Resurrection in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://tkdr-recomp.pages.dev/",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Tekken",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3861,
+    "title": "Return to Castle Wolfenstein Multiplayer in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://rtcw.pieter.com/",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Wolfenstein",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3862,
+    "title": "GTA: Chinatown Wars PC Port",
+    "category": "decompilations-recompilations",
+    "platform": "Android",
+    "link": "https://github.com/official-kryo-to/ctw-native",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3863,
+    "title": "Fable - The Lost Chapters",
+    "category": "abandonware",
+    "platform": "",
+    "link": "https://archive.org/details/Nova_FableTheLostChaptersUSA",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Fable",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
+  },
+      {
+    "id": 3864,
+    "title": "Turok VR",
+    "category": "vr-ports",
+    "platform": "",
+    "link": "https://github.com/VinceCrusty/TurokVR",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Turok",
+    "video_link": "",
+    "date_added": "2026-10-16",
+    "weight": ""
   }
+
+
+
+
 ]
