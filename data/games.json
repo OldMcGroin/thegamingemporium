@@ -48529,7 +48529,8 @@
     "genre2": "",
     "series": "Virtua Fighter",
     "video_link": "",
-    "date_added": "2026-10-13"
+    "date_added": "2026-10-13",
+    "ai_usage": "light"
   },
   {
     "id": 3741,
@@ -50124,7 +50125,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3869,
     "title": "Kingdom Hearts 358-2 Days PC Port",
     "category": "decompilations-recompilations",
@@ -50137,7 +50138,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3870,
     "title": "Pro Evolution Soccer 11 in Browser",
     "category": "browser-based",
@@ -50150,7 +50151,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3871,
     "title": "Gran Turismo Sport Recompilation",
     "category": "decompilations-recompilations",
@@ -50163,7 +50164,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3872,
     "title": "NBA 2K14 Recompilation",
     "category": "decompilations-recompilations",
@@ -50176,7 +50177,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3873,
     "title": "Forza Horizon 2 for Android",
     "category": "android-ports",
@@ -50189,7 +50190,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3874,
     "title": "Burnout 2: Point of Impact Recompilation",
     "category": "decompilations-recompilations",
@@ -50202,7 +50203,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3875,
     "title": "Xenogears - Weltall -  Recompilation",
     "category": "decompilations-recompilations",
@@ -50215,7 +50216,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3876,
     "title": "Rallisport Challenge 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -50228,7 +50229,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3877,
     "title": "Ratchet & Clank PC Port 2",
     "category": "decompilations-recompilations",
@@ -50241,7 +50242,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3878,
     "title": "Co-op Anything - Make Any Single Player Game Multiplayer",
     "category": "utility",
@@ -50254,7 +50255,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3879,
     "title": "Crusader: No Remorse Reimplementation",
     "category": "decompilations-recompilations",
@@ -50267,7 +50268,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3880,
     "title": "Harry Potter and the Chamber of Secrets Recompilation",
     "category": "decompilations-recompilations",
@@ -50280,7 +50281,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3881,
     "title": "Harry Potter and the Chamber of Secrets in Browser",
     "category": "browser-based",
@@ -50293,7 +50294,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3882,
     "title": "Grand Theft Auto 2 in Browser",
     "category": "browser-based",
@@ -50306,7 +50307,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3883,
     "title": "Athelas - TLOTR The Two Towers and The Return of the King Launcher",
     "category": "decompilations-recompilations",
@@ -50319,6 +50320,4 @@
     "date_added": "2026-10-16",
     "weight": ""
   }
-
-
 ]
