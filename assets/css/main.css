@@ -2550,3 +2550,17 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
   .game-grid > .game-card--collection .collection-card__footer { padding-inline: 9px; }
   .game-grid > .game-card--collection .collection-card__footer .game-card__title { font-size: clamp(.85rem, 3.4vw, 1.1rem); }
 }
+
+/* Favourites backup and cross-device transfer */
+.favourites-transfer{border-top:1px solid var(--border);padding-top:.9rem;display:flex;flex-direction:column;gap:.55rem}
+.favourites-transfer p{margin:0;color:var(--muted);font-size:12px;line-height:1.5}
+.favourites-transfer__actions{display:flex;gap:.5rem;flex-wrap:wrap}
+.favourites-transfer button{border:1px solid var(--border);background:rgba(255,255,255,.08);color:var(--text);border-radius:9px;padding:.55rem .7rem;font:inherit;font-size:12px;font-weight:750;cursor:pointer}
+.favourites-transfer button:hover{border-color:#f5c400}
+.favourites-transfer label{font-size:12px;font-weight:700}
+.favourites-transfer textarea{width:100%;box-sizing:border-box;min-height:62px;resize:vertical;background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:.6rem;font:inherit;font-size:12px}
+.favourites-transfer [data-favourites-status]:empty{display:none}
+
+/* Favourites transfer visual refinement: opaque textarea in both themes. */
+html:not([data-theme="light"]) .favourites-transfer textarea { background-color: #242424; color: #f5f5f5; }
+html[data-theme="light"] .favourites-transfer textarea { background-color: #ffffff; color: #202020; }

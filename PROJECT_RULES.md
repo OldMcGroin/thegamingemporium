@@ -21,3 +21,9 @@ The latest user-supplied source archive (16 October 2026) is the baseline for fu
 6. Commit changes to GitHub. Update the preservation manifest intentionally after verifying an approved change.
 
 The baseline hash manifest is an audit aid, not an immutable lock. A changed hash means REVIEW, not necessarily failure. This cannot prevent a future assistant from using the wrong archive unless the latest source is supplied or available.
+
+## Favourites transfer (18 October 2026)
+- Preserve `assets/js/favourites.js` localStorage key `tge_favourites_v1`, existing heart toggles, and modal.
+- Preserve Export/Import JSON backup and copy/paste `TGEF1.` transfer code in `layouts/_default/baseof.html`, with styles in `assets/css/main.css`.
+- Import must merge and deduplicate known game IDs, never erase existing favourites; no accounts or backend.
+- Test both transfer paths on desktop/mobile after each relevant change.

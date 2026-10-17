@@ -202,6 +202,20 @@
           <span>Tap the heart on any game card to save it here.</span>
         </div>
         <div class="favourites-modal__list" data-favourites-list></div>
+        <div class="favourites-transfer">
+          <strong>Move your favourites to another device</strong>
+          <p>Download a backup file or copy a transfer code. On your other device, import the file or paste the code below.</p>
+          <div class="favourites-transfer__actions">
+            <button type="button" data-favourites-export>Export file</button>
+            <button type="button" data-favourites-import-file>Import file</button>
+            <button type="button" data-favourites-copy>Copy transfer code</button>
+          </div>
+          <input type="file" accept=".json,application/json" data-favourites-file hidden aria-label="Select favourites backup file">
+          <label for="favourites-transfer-code">Transfer code</label>
+          <textarea id="favourites-transfer-code" data-favourites-code rows="3" placeholder="Paste a favourites transfer code here"></textarea>
+          <button type="button" data-favourites-import-code>Import code</button>
+          <p role="status" aria-live="polite" data-favourites-status></p>
+        </div>
         <button class="favourites-modal__clear" type="button" data-favourites-clear hidden>Clear all favourites</button>
       </section>
     </div>
