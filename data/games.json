@@ -48529,7 +48529,8 @@
     "genre2": "",
     "series": "Virtua Fighter",
     "video_link": "",
-    "date_added": "2026-10-13"
+    "date_added": "2026-10-13",
+    "ai_usage": "light"
   },
   {
     "id": 3741,
@@ -50096,7 +50097,8 @@
     "series": "Doraemon",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "light"
   },
   {
     "id": 3867,
@@ -50122,9 +50124,10 @@
     "series": "Crackdown",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "heavy"
   },
-    {
+  {
     "id": 3869,
     "title": "Kingdom Hearts 358-2 Days PC Port",
     "category": "decompilations-recompilations",
@@ -50137,7 +50140,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3870,
     "title": "Pro Evolution Soccer 11 in Browser",
     "category": "browser-based",
@@ -50150,7 +50153,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3871,
     "title": "Gran Turismo Sport Recompilation",
     "category": "decompilations-recompilations",
@@ -50163,7 +50166,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3872,
     "title": "NBA 2K14 Recompilation",
     "category": "decompilations-recompilations",
@@ -50176,7 +50179,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3873,
     "title": "Forza Horizon 2 for Android",
     "category": "android-ports",
@@ -50189,7 +50192,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3874,
     "title": "Burnout 2: Point of Impact Recompilation",
     "category": "decompilations-recompilations",
@@ -50200,9 +50203,10 @@
     "series": "Burnout",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "light"
   },
-    {
+  {
     "id": 3875,
     "title": "Xenogears - Weltall -  Recompilation",
     "category": "decompilations-recompilations",
@@ -50215,7 +50219,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3876,
     "title": "Rallisport Challenge 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -50228,7 +50232,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3877,
     "title": "Ratchet & Clank PC Port 2",
     "category": "decompilations-recompilations",
@@ -50241,7 +50245,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3878,
     "title": "Co-op Anything - Make Any Single Player Game Multiplayer",
     "category": "utility",
@@ -50254,7 +50258,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3879,
     "title": "Crusader: No Remorse Reimplementation",
     "category": "decompilations-recompilations",
@@ -50267,7 +50271,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3880,
     "title": "Harry Potter and the Chamber of Secrets Recompilation",
     "category": "decompilations-recompilations",
@@ -50280,7 +50284,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3881,
     "title": "Harry Potter and the Chamber of Secrets in Browser",
     "category": "browser-based",
@@ -50293,7 +50297,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-    {
+  {
     "id": 3882,
     "title": "Grand Theft Auto 2 in Browser",
     "category": "browser-based",
@@ -50306,7 +50310,7 @@
     "date_added": "2026-10-16",
     "weight": ""
   },
-      {
+  {
     "id": 3883,
     "title": "Athelas - TLOTR The Two Towers and The Return of the King Launcher",
     "category": "decompilations-recompilations",
@@ -50317,9 +50321,10 @@
     "series": "The Lord of the Rings",
     "video_link": "",
     "date_added": "2026-10-16",
-    "weight": ""
+    "weight": "",
+    "ai_usage": "heavy"
   },
-      {
+  {
     "id": 3884,
     "title": "Jet Force Gemini Recompilation",
     "category": "decompilations-recompilations",
@@ -50332,7 +50337,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3885,
     "title": "Ape Escape Recompilation",
     "category": "decompilations-recompilations",
@@ -50345,7 +50350,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3886,
     "title": "South Park: Let's Go Tower Defense Play! Recompilation",
     "category": "decompilations-recompilations",
@@ -50358,7 +50363,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3887,
     "title": "South Park: Tenorman's Revenge Recompilation",
     "category": "decompilations-recompilations",
@@ -50371,7 +50376,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3888,
     "title": "Valkyria Revolution Port",
     "category": "decompilations-recompilations",
@@ -50384,7 +50389,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3889,
     "title": "The Legend of Zelda: Skyward Sword HD Recompilation",
     "category": "decompilations-recompilations",
@@ -50397,7 +50402,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3890,
     "title": "International Superstar Soccer 2000 Recompilation",
     "category": "decompilations-recompilations",
@@ -50410,7 +50415,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3891,
     "title": "Bugs Bunny: Lost in Time Remaster",
     "category": "decompilations-recompilations",
@@ -50423,7 +50428,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3892,
     "title": "Virtua Fighter Recompilation",
     "category": "decompilations-recompilations",
@@ -50436,7 +50441,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3893,
     "title": "Armored Core 4 PC Port",
     "category": "decompilations-recompilations",
@@ -50449,7 +50454,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3894,
     "title": "Armored Core For Answer PC Port",
     "category": "decompilations-recompilations",
@@ -50462,7 +50467,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3895,
     "title": "Eternal Darkness: Sanity's Requiem Recompilation",
     "category": "decompilations-recompilations",
@@ -50475,7 +50480,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3896,
     "title": "Bayonetta 2 Recompilation",
     "category": "decompilations-recompilations",
@@ -50488,7 +50493,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3897,
     "title": "Spider-Man: Web of Shadows Recompilation",
     "category": "decompilations-recompilations",
@@ -50501,7 +50506,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3898,
     "title": "Super Paper Mario Recompilation",
     "category": "decompilations-recompilations",
@@ -50514,7 +50519,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3899,
     "title": "Pilotwings 64 Recompilation for Android",
     "category": "android-ports",
@@ -50527,7 +50532,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3900,
     "title": "Ninja Gaiden 2 PS5 Port",
     "category": "console-ports",
@@ -50540,7 +50545,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3901,
     "title": "The X-Files Game Reimplementation",
     "category": "decompilations-recompilations",
@@ -50553,7 +50558,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3902,
     "title": "Far Cry Instincts Recompilation",
     "category": "decompilations-recompilations",
@@ -50566,7 +50571,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3903,
     "title": "Driveclub Emulation Wrapper for PC",
     "category": "console-to-pc-port",
@@ -50579,7 +50584,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-      {
+  {
     "id": 3904,
     "title": "Call of Duty: Finest Hour PC Port",
     "category": "decompilations-recompilations",
@@ -50592,6 +50597,4 @@
     "date_added": "2026-10-17",
     "weight": ""
   }
-
-
 ]
