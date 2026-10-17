@@ -2564,3 +2564,31 @@ html[data-theme="light"] .game-card__platform-value{background:#f3f4f6;color:#20
 /* Favourites transfer visual refinement: opaque textarea in both themes. */
 html:not([data-theme="light"]) .favourites-transfer textarea { background-color: #242424; color: #f5f5f5; }
 html[data-theme="light"] .favourites-transfer textarea { background-color: #ffffff; color: #202020; }
+
+
+/* Favourites mobile viewport containment — 2026-10-18 */
+.favourites-modal,.favourites-modal *{box-sizing:border-box}
+.favourites-modal__panel{min-width:0;min-height:0;max-width:calc(100vw - 2rem);overflow-x:hidden}
+.favourites-modal__heading,.favourites-modal__list,.favourites-transfer{min-width:0;max-width:100%}
+.favourites-transfer p,.favourites-transfer strong{overflow-wrap:anywhere}
+.favourites-transfer textarea{display:block;max-width:100%;min-width:0}
+.favourites-item{min-width:0;max-width:100%}
+.favourites-item__info{min-width:0;overflow:hidden}
+.favourites-item__title,.favourites-item__category{max-width:100%;overflow:hidden;text-overflow:ellipsis}
+@media(max-width:600px){
+  .favourites-modal{padding:10px;align-items:center;justify-items:center}
+  .favourites-modal__panel{width:100%;max-width:calc(100vw - 20px);max-height:calc(100dvh - 20px);padding:14px;gap:12px;overflow-y:auto;overscroll-behavior:contain}
+  .favourites-modal__heading h2{font-size:clamp(21px,6vw,28px);overflow-wrap:anywhere}
+  .favourites-modal__heading p{font-size:13px;line-height:1.4}
+  .favourites-modal__list{flex:0 1 auto;min-height:0;max-height:35dvh;overflow-y:auto;overflow-x:hidden}
+  .favourites-item{padding:10px;gap:8px}
+  .favourites-item__title{font-size:13px;white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-clamp:2;overflow-wrap:anywhere}
+  .favourites-item__category{font-size:11px;white-space:normal;overflow-wrap:anywhere}
+  .favourites-item__actions{flex-shrink:0}
+  .favourites-transfer{flex-shrink:0}
+  .favourites-transfer__actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .favourites-transfer__actions button{min-width:0;white-space:normal;overflow-wrap:anywhere;padding:10px 6px}
+  .favourites-transfer__actions button:nth-child(3){grid-column:1/-1}
+  .favourites-transfer textarea{width:100%;font-size:14px}
+  .favourites-modal__clear{flex-shrink:0;max-width:100%}
+}
