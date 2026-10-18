@@ -1,5 +1,5 @@
 ---
-title: "Monster Hunter 4 Ultimate  Recompilation"
+title: "Monster Hunter 4 Ultimate Recompilation"
 url: "/game/monster-hunter-4-ultimate-recompilation/"
 type: game
 params:
