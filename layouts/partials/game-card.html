@@ -112,11 +112,11 @@ Image strategy (scales to thousands of items):
     {{ if hugo.IsServer }}<button type="button" class="ai-preview-toggle" data-ai-preview data-game-id="{{ $g.id }}" title="Cycle AI usage classification">Set AI: {{ $ai }}</button>{{ end }}
     <button type="button" class="ai-report-button" data-ai-report-open data-game-title="{{ $g.title }}" data-game-link="{{ $g.link }}">Report AI Usage</button>
     {{- if not $g.hidden -}}
-      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+      <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button><button type="button" class="tge-playability-counter" aria-label="View community playability reports" title="View community playability reports" style="display:inline-flex;align-items:center;gap:.3rem;margin-left:.4rem;padding:.35rem .6rem;border:1px solid currentColor;border-radius:.5rem;background:transparent;color:inherit;cursor:pointer"><span aria-hidden="true">💬</span> <span data-playability-count>0</span></button></div>
     {{- end -}}
   </div>
   {{- else if and (eq $g.category "decompilations-recompilations") (not $g.hidden) -}}
-    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button></div>
+    <div class="tge-rating tge-rating--inline" data-rating-project="{{ $ratingSlug }}"><button type="button" class="tge-rating-trigger"><span class="tge-rating-star" aria-hidden="true">★</span> Rate this project</button><button type="button" class="tge-playability-counter" aria-label="View community playability reports" title="View community playability reports" style="display:inline-flex;align-items:center;gap:.3rem;margin-left:.4rem;padding:.35rem .6rem;border:1px solid currentColor;border-radius:.5rem;background:transparent;color:inherit;cursor:pointer"><span aria-hidden="true">💬</span> <span data-playability-count>0</span></button></div>
   {{- end -}}
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
