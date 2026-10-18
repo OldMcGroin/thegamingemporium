@@ -1,0 +1,11 @@
+THE GAMING EMPORIUM — PLAYABILITY REPORTS (INITIAL RELEASE)
+Source baseline: thegamingemporium-source-20261018-020601.tar.gz
+
+1. Back up your current source and D1 ratings database first.
+2. From the root of your local website project, extract this patch ZIP. It replaces static/js/project-ratings.js and adds functions/api/playability.js and cloudflare/d1_project_playability.sql.
+3. In Cloudflare Dashboard > Workers & Pages > D1 > the database bound as RATINGS_DB (or SUGGESTIONS_DB if no RATINGS_DB) > Console, execute the contents of cloudflare/d1_project_playability.sql. Run on the database actually bound to the ratings API. Do not run on a different database.
+4. Deploy with your normal tested deployment workflow. Do not overwrite data/games.json or unrelated files.
+5. On a decompilation/recompilation project, click the star rating button; the dialog now includes playability form and community reports. Test submitting a playability report, changing it, and confirming previous star ratings still work.
+6. Test on Steam Deck and mobile and check browser console / Cloudflare logs for errors.
+
+Notes: Reports are self-reported. The first release uses the existing anonymous cookie identity and rate limiting. It does not yet include admin moderation UI, helpful votes, public badges, version-aware expiry or category filters. The visible flag can be set to 0 through D1 to hide an abusive report pending a future admin UI. Cookie clearing or another browser can create a new identity; do not claim strong uniqueness. Existing ratings database tables are unchanged.
