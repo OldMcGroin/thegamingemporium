@@ -50717,7 +50717,8 @@
     "video_link": "",
     "date_added": "2026-10-18",
     "weight": "",
-    "collection": ""
+    "collection": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 3915,
@@ -50734,7 +50735,7 @@
     "collection": "",
     "ai_usage": "heavy"
   },
-    {
+  {
     "id": 3916,
     "title": "Shadow of the Colossus PC Port 2",
     "category": "decompilations-recompilations",
@@ -50749,7 +50750,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3917,
     "title": "Spider-Man 3 Recompilation",
     "category": "decompilations-recompilations",
@@ -50764,7 +50765,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3918,
     "title": "Silkroad Online in Browser",
     "category": "browser-based",
@@ -50779,7 +50780,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3919,
     "title": "Wii Play Recompilation",
     "category": "decompilations-recompilations",
@@ -50794,7 +50795,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3920,
     "title": "Scooby-Doo! Night of 100 Frights Recompilation",
     "category": "decompilations-recompilations",
@@ -50809,7 +50810,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3922,
     "title": "Space Channel 5 Part 2 Nintendo Switch Port",
     "category": "console-ports",
@@ -50824,7 +50825,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3923,
     "title": "Black PC Port 2",
     "category": "decompilations-recompilations",
@@ -50839,7 +50840,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3924,
     "title": "Ratchet & Clank PC Port 3",
     "category": "decompilations-recompilations",
@@ -50854,7 +50855,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3925,
     "title": "Pokemon: Let's Go, Eevee! Recompilation",
     "category": "decompilations-recompilations",
@@ -50869,7 +50870,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3926,
     "title": "WWE 2K14 Recompilation 2",
     "category": "decompilations-recompilations",
@@ -50884,7 +50885,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3927,
     "title": "Dead or Alive 3 PC Port",
     "category": "decompilations-recompilations",
@@ -50899,7 +50900,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3928,
     "title": "Booym Decomp",
     "category": "decompilations-recompilations",
@@ -50914,7 +50915,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3929,
     "title": "Prince of Persia 2 Port",
     "category": "decompilations-recompilations",
@@ -50929,7 +50930,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3930,
     "title": "Tekken 5 Dark Resurrection Online PC Port",
     "category": "decompilations-recompilations",
@@ -50944,7 +50945,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3931,
     "title": "Virtual On Cyber Troopers in Browser",
     "category": "browser-based",
@@ -50959,7 +50960,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3932,
     "title": "Super Street Fighter II Turbo HD Remix PC Port",
     "category": "decompilations-recompilations",
@@ -50974,7 +50975,4 @@
     "collection": "",
     "ai_usage": ""
   }
-
-
-
 ]
