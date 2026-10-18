@@ -20,7 +20,7 @@
  async function load(){const keys=[...byProject.keys()];for(let i=0;i<keys.length;i+=40){try{const res=await fetch('/api/ratings?projects='+encodeURIComponent(keys.slice(i,i+40).join(',')));if(!res.ok)continue;const body=await res.json();for(const [k,v] of Object.entries(body.ratings||{})){cache.set(k,v);paint(k)}}catch(e){console.warn('Ratings unavailable',e)}}}
  function open(key,initialTab="ratings"){const data=cache.get(key)||{count:0,counts:[0,0,0,0,0],average:null};const dialog=document.createElement('dialog');dialog.className='tge-rating-dialog';
  const close=document.createElement('button');close.className='tge-rating-close';close.type='button';close.textContent='×';close.setAttribute('aria-label','Close');close.onclick=()=>dialog.close();dialog.append(close);
- const title=document.createElement('h2');title.textContent='Rate & Review This Project';dialog.append(title);
+ const title=document.createElement('h2');title.textContent='Project Ratings & Playability';dialog.append(title);
  const help=document.createElement('p');help.textContent='Rate the decompilation or recompilation itself — its stability, performance, improvements and polish — not the original game.';dialog.append(help);
  const stars=document.createElement('div');stars.className='tge-rating-stars';stars.setAttribute('aria-label','Select one to five stars');dialog.append(stars);
  const status=document.createElement('p');status.className='tge-rating-message';status.setAttribute('aria-live','polite');dialog.append(status);
@@ -61,6 +61,13 @@
  document.addEventListener('click',e=>{const b=e.target.closest('.tge-rating-trigger, .tge-playability-counter');if(!b)return;const node=b.closest('[data-rating-project]');if(node)open(node.dataset.ratingProject,b.classList.contains("tge-playability-counter")?"playability":"ratings")});
  const style=document.createElement('style');style.textContent=`
  .tge-rating-dialog{box-sizing:border-box;width:100%;max-width:min(94vw,560px);max-height:85dvh;overflow-y:auto;overscroll-behavior:contain}
+ .tge-rating-panel .tge-rating-stars{margin-top:.5rem!important;margin-bottom:.25rem!important}
+ .tge-rating-panel .tge-rating-message{margin-top:.35rem!important;margin-bottom:.35rem!important;min-height:0!important}
+ .tge-rating-panel .tge-rating-breakdown{margin-top:.5rem!important;padding-top:.35rem!important}
+ .tge-playability-section h3{margin:.5rem 0 .75rem}
+ .tge-playability-section form{gap:.45rem!important;margin-bottom:.5rem!important}
+ .tge-playability-section form p{margin:.35rem 0!important}
+ .tge-playability-section > div p{margin:.5rem 0}
  .tge-rating-tabs{display:grid;grid-template-columns:1fr 1fr;gap:.4rem;margin:1rem 0;border-bottom:1px solid #555;padding-bottom:.5rem}
  .tge-rating-tabs button{min-width:0;white-space:normal;line-height:1.25;min-height:44px;padding:.65rem .35rem;border:1px solid #555;border-radius:.5rem;background:#17191f;color:#eee;cursor:pointer;font:inherit;font-weight:600}
  .tge-rating-tabs button[aria-selected="true"]{background:#3a3217;border-color:#e9b62b;color:#fff;box-shadow:inset 0 -3px #e9b62b}
