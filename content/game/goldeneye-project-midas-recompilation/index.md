@@ -8,7 +8,7 @@ params:
   hidden: false
   genre1: "first-person-shooter"
   genre2: ""
-  series: "Goldeneye"
+  series: "007"
   video_link: ""
   date_added: "2026-10-18"
   image: ""

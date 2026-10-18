@@ -50698,10 +50698,28 @@
     "link": "https://github.com/murkantor/Project-Midas",
     "genre1": "first-person-shooter",
     "genre2": "",
-    "series": "Goldeneye",
+    "series": "007",
     "video_link": "",
     "date_added": "2026-10-18",
     "weight": "",
     "collection": "goldeneye"
+  },
+    {
+    "id": 3914,
+    "title": "Super Smash Bros. Ultimate Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo Switch",
+    "link": "https://github.com/SNO2207/WindowSmash",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": ""
   }
+
+
+
+
 ]
