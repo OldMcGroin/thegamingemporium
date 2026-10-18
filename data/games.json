@@ -41865,7 +41865,8 @@
     "genre2": "",
     "series": "Sonic the Hedgehog",
     "video_link": "",
-    "date_added": "2026-09-26"
+    "date_added": "2026-09-26",
+    "ai_usage": "heavy"
   },
   {
     "id": 3194,
@@ -50584,7 +50585,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-    {
+  {
     "id": 3905,
     "title": "Mortal Kombat: Shaolin Monks Recompilation",
     "category": "decompilations-recompilations",
@@ -50597,7 +50598,7 @@
     "date_added": "2026-10-17",
     "weight": ""
   },
-    {
+  {
     "id": 3906,
     "title": "EA SPORTS UFC 3 PC Port",
     "category": "decompilations-recompilations",
@@ -50610,7 +50611,7 @@
     "date_added": "2026-10-18",
     "weight": ""
   },
-    {
+  {
     "id": 3907,
     "title": "Army of Two with Online Co-op Recompilation",
     "category": "decompilations-recompilations",
@@ -50623,7 +50624,7 @@
     "date_added": "2026-10-18",
     "weight": ""
   },
-    {
+  {
     "id": 3908,
     "title": "Killzone Shadow Fall Port",
     "category": "decompilations-recompilations",
@@ -50636,7 +50637,7 @@
     "date_added": "2026-10-18",
     "weight": ""
   },
-    {
+  {
     "id": 3909,
     "title": "Max Payne Recompilation",
     "category": "decompilations-recompilations",
@@ -50649,8 +50650,4 @@
     "date_added": "2026-10-18",
     "weight": ""
   }
-
-
-
-
 ]
