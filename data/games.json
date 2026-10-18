@@ -4943,7 +4943,7 @@
     "notes": "A PC port of The Legend of Zelda: Majora's Mask created via community decompilation.",
     "date_added": "",
     "image": "",
-    "ai_usage": "light"
+    "ai_usage": "none"
   },
   {
     "id": 380,
@@ -47095,7 +47095,8 @@
     "genre2": "",
     "series": "Fire Emblem",
     "video_link": "",
-    "date_added": "2026-10-08"
+    "date_added": "2026-10-08",
+    "ai_usage": "heavy"
   },
   {
     "id": 3622,
@@ -50704,7 +50705,7 @@
     "weight": "",
     "collection": "goldeneye"
   },
-    {
+  {
     "id": 3914,
     "title": "Super Smash Bros. Ultimate Recompilation",
     "category": "decompilations-recompilations",
@@ -50718,7 +50719,7 @@
     "weight": "",
     "collection": ""
   },
-    {
+  {
     "id": 3915,
     "title": "Monster Hunter 4 Ultimate  Recompilation",
     "category": "decompilations-recompilations",
@@ -50730,10 +50731,7 @@
     "video_link": "",
     "date_added": "2026-10-18",
     "weight": "",
-    "collection": ""
+    "collection": "",
+    "ai_usage": "heavy"
   }
-
-
-
-
 ]
