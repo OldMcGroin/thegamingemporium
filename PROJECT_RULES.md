@@ -27,3 +27,9 @@ The baseline hash manifest is an audit aid, not an immutable lock. A changed has
 - Preserve Export/Import JSON backup and copy/paste `TGEF1.` transfer code in `layouts/_default/baseof.html`, with styles in `assets/css/main.css`.
 - Import must merge and deduplicate known game IDs, never erase existing favourites; no accounts or backend.
 - Test both transfer paths on desktop/mobile after each relevant change.
+
+## Favourites reliability (18 October 2026)
+- Keep cache-busting on the generated `/js/tge-feature-data.js` script in `layouts/_default/baseof.html`; outdated feature data can cause heart buttons to silently ignore newer entries.
+- In `assets/js/favourites.js`, preserve the fallback that registers a game from the clicked card when missing from feature data.
+- Never discard existing localStorage favourite IDs just because a currently loaded feature-data list does not contain them; preserve IDs across stale caches and temporary catalogue changes.
+- Test a newly added game, an older game, both desktop and mobile, plus export/import after builds.

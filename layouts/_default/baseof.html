@@ -40,7 +40,7 @@
   {{ block "preloads" . }}{{ end }}
 
   {{/* Most Popular lookup data is generated once, outside Hugo templates. */}}
-  <script src="{{ "/js/tge-feature-data.js" | relURL }}"></script>
+  <script src="{{ printf "%s?v=%s" ("/js/tge-feature-data.js" | relURL) (readFile "static/js/tge-feature-data.js" | sha256) }}"></script>
 </head>
 <body>
 <div class="site-bg">

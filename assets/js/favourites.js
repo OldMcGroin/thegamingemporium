@@ -33,7 +33,7 @@
   function uniqueValid(ids) {
     var seen = {};
     return ids.filter(function (id) {
-      if (seen[id] || !gameMap[id]) return false;
+      if (seen[id]) return false;
       seen[id] = true;
       return true;
     });
@@ -64,6 +64,20 @@
     save(favourites);
     syncCardButtons();
     renderList();
+  }
+
+  function registerCardGame(button, id) {
+    if (!id || gameMap[id]) return;
+    var card = button.closest(".game-card");
+    if (!card) return;
+    var link = card.querySelector(".game-card__link[href]");
+    if (!link) return;
+    gameMap[id] = {
+      id: id,
+      title: card.getAttribute("data-title") || (link.textContent || "").trim() || id,
+      url: link.href,
+      categoryLabel: card.getAttribute("data-category-display") || "Game"
+    };
   }
 
   function toggleFavourite(id) {
@@ -155,7 +169,9 @@
     if (!button) return;
     e.preventDefault();
     e.stopPropagation();
-    toggleFavourite(String(button.getAttribute("data-favourite-id") || ""));
+    var id = String(button.getAttribute("data-favourite-id") || "");
+    registerCardGame(button, id);
+    toggleFavourite(id);
   });
 
   if (openBtn && modal) {
@@ -203,7 +219,7 @@
       catch (e) { throw new Error("Unable to save favourites on this device."); }
       favourites = merged;
       syncCardButtons(); renderList();
-      message("Imported " + added + " new favourite(s)." + (unavailable ? " " + unavailable + " unavailable project(s) skipped." : "") + " Existing favourites kept.");
+      message("Imported " + added + " new favourite(s)." + (unavailable ? " " + unavailable + " project(s) not yet listed on this device; their IDs were preserved." : "") + " Existing favourites kept.");
     }
     transfer.querySelector("[data-favourites-export]").addEventListener("click", function () {
       if (!favourites.length) { message("You have no favourites to export yet."); return; }
