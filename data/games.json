@@ -50648,6 +50648,59 @@
     "video_link": "",
     "date_added": "2026-10-18",
     "weight": ""
+  },
+    {
+    "id": 3910,
+    "title": "Saboteur 2: Avenging Angel Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "DOS",
+    "link": "https://github.com/petarov/saboteur2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Saboteur",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": ""
+  },
+    {
+    "id": 3911,
+    "title": "Bramblewild in Browser",
+    "category": "browser-based",
+    "platform": "",
+    "link": "https://goblinarcade.com/play/bramblewild?utm_source=the_gaming_emporium&utm_medium=referral&utm_campaign=bramblewild_listing",
+    "genre1": "sandbox",
+    "genre2": "",
+    "series": "Bramblewild",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": ""
+  },
+    {
+    "id": 3912,
+    "title": "The Lord of the Rings: The Two Towers Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox",
+    "link": "https://github.com/Gumpolas/TooTawersRecomp/tree/main",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Lord of the Rings",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": ""
+  },
+    {
+    "id": 3913,
+    "title": "Goldeneye - Project Midas - Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Nintendo 64",
+    "link": "https://github.com/murkantor/Project-Midas",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Goldeneye",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": "goldeneye"
   }
 
 
