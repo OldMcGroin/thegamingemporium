@@ -33,3 +33,7 @@ The baseline hash manifest is an audit aid, not an immutable lock. A changed has
 - In `assets/js/favourites.js`, preserve the fallback that registers a game from the clicked card when missing from feature data.
 - Never discard existing localStorage favourite IDs just because a currently loaded feature-data list does not contain them; preserve IDs across stale caches and temporary catalogue changes.
 - Test a newly added game, an older game, both desktop and mobile, plus export/import after builds.
+
+## Favourites modal layout (18 October 2026)
+- Keep the Favourites games list visible on desktop: do not allow flex shrinking to collapse it when transfer controls are present.
+- The panel may scroll vertically; the games list has its own capped scroll area. Preserve mobile viewport containment and wrapping.

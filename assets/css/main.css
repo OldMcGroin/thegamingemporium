@@ -2592,3 +2592,10 @@ html[data-theme="light"] .favourites-transfer textarea { background-color: #ffff
   .favourites-transfer textarea{width:100%;font-size:14px}
   .favourites-modal__clear{flex-shrink:0;max-width:100%}
 }
+
+/* Favourites modal: prevent desktop list collapsing beneath transfer controls. */
+.favourites-modal__panel{overflow-y:auto;overscroll-behavior:contain}
+.favourites-modal__list{flex:0 0 auto;min-height:0;max-height:min(42vh,360px);overflow-y:auto;overflow-x:hidden}
+@media(max-width:600px){
+  .favourites-modal__list{flex:0 0 auto;max-height:35dvh;min-height:0}
+}
