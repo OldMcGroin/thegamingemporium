@@ -7,10 +7,10 @@ params:
   category: "decompilations-recompilations"
   hidden: false
   genre1: "fighting"
-  genre2: ""
-  series: "WWE"
+  genre2: "sports"
+  series: ""
   video_link: ""
-  date_added: "2026-10-18"
+  date_added: "2026-07-19"
   image: ""
 ---
 
