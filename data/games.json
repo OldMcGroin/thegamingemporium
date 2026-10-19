@@ -36555,7 +36555,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-08-21",
-    "image": ""
+    "image": "",
+    "ai_usage": "heavy"
   },
   {
     "id": 2778,
@@ -40088,7 +40089,6 @@
     "date_added": "2026-09-15",
     "ai_usage": "light",
     "collection": "launchers"
-
   },
   {
     "id": 3047,
@@ -49039,7 +49039,6 @@
     "weight": "top",
     "date_added": "2026-10-14",
     "collection": "launchers"
-
   },
   {
     "id": 3782,
@@ -50988,7 +50987,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3933,
     "title": "Skate Recompilation",
     "category": "decompilations-recompilations",
@@ -51003,7 +51002,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3935,
     "title": "TNA Impact! Recompilation",
     "category": "decompilations-recompilations",
@@ -51018,7 +51017,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3936,
     "title": "MediEvil Recompilation 3",
     "category": "decompilations-recompilations",
@@ -51033,7 +51032,7 @@
     "collection": "",
     "ai_usage": ""
   },
-    {
+  {
     "id": 3937,
     "title": "Red Dead Redemption 2 - enRage - Living World and Nemesis System",
     "category": "mods",
@@ -51048,8 +51047,4 @@
     "collection": "",
     "ai_usage": ""
   }
-
-
-
-
 ]
