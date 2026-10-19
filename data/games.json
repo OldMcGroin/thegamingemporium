@@ -44127,7 +44127,7 @@
   },
   {
     "id": 3379,
-    "title": "MediEvil Recompilation",
+    "title": "MediEvil Recompilation 2",
     "category": "decompilations-recompilations",
     "platform": "PlayStation",
     "link": "https://github.com/BlackLabelHQ/MediEvilRecomp",
@@ -50987,5 +50987,69 @@
     "weight": "",
     "collection": "",
     "ai_usage": ""
+  },
+    {
+    "id": 3933,
+    "title": "Skate Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://github.com/cookingwithsimon/Skate1Recompiled",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Skate",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": "",
+    "ai_usage": ""
+  },
+    {
+    "id": 3935,
+    "title": "TNA Impact! Recompilation",
+    "category": "decompilations-recompilations",
+    "platform": "Xbox 360",
+    "link": "https://discovery.onl/Grix/c486b168-8b9b-4eac-b8c5-10a0cfe11267",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "TNA",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": "",
+    "ai_usage": ""
+  },
+    {
+    "id": 3936,
+    "title": "MediEvil Recompilation 3",
+    "category": "decompilations-recompilations",
+    "platform": "PlayStation 4",
+    "link": "https://github.com/bc160201983/medievil_2019_pc_port",
+    "genre1": "action",
+    "genre2": "",
+    "series": "MediEvil",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": "",
+    "ai_usage": ""
+  },
+    {
+    "id": 3937,
+    "title": "Red Dead Redemption 2 - enRage - Living World and Nemesis System",
+    "category": "mods",
+    "platform": "",
+    "link": "https://www.nexusmods.com/reddeadredemption2/mods/10967",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Red Dead Redemption",
+    "video_link": "",
+    "date_added": "2026-10-18",
+    "weight": "",
+    "collection": "",
+    "ai_usage": ""
   }
+
+
+
+
 ]
