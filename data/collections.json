@@ -58,6 +58,12 @@
     "slug": "castlevania-symphony-of-the-night",
     "enabled": true,
     "weight": 0
+  },
+    {
+    "name": "Launchers and other Resources",
+    "slug": "launchers",
+    "enabled": true,
+    "weight": "top"
   }
 
 
