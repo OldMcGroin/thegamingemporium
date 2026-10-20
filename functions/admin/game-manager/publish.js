@@ -65,8 +65,8 @@ function validate(type,r){
 export async function onRequestPost({request,env}){
  if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required or configuration incomplete.'},403);
  if(!/^[A-Za-z0-9._/-]+$/.test(BRANCH(env)))return reply({ok:false,message:'Publishing branch is not configured.'},503);
- if(String(env.CF_PAGES_BRANCH || '').trim() !== 'main' && BRANCH(env) === 'main')
-  return reply({ok:false,message:'Preview deployments cannot publish to main.'},403);
+ if(BRANCH(env) !== 'game-manager-publishing-test')
+  return reply({ok:false,message:'Publishing is restricted to the isolated GitHub test branch.'},403);
  if(env.GAME_MANAGER_PUBLISH_ENABLED !== 'true')
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
