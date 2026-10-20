@@ -56,7 +56,7 @@ function tgeLoadDrafts(data){
  if(problems.length)throw Error(problems.slice(0,10).join('\n'));
  games=baseline.map(g=>({...g}));
  for(const g of cleaned){const i=games.findIndex(x=>tgeIdentity(x)===tgeIdentity(g));
-  if(i>=0)games[i]={...g};else games.unshift({...g});
+  if(i>=0)games[i]={...g,id:games[i].id};else games.unshift({...g});
  }
  collections=baselineCollections.map(c=>({...c}));
  for(const c of data.collections||[]){const i=collections.findIndex(x=>x.slug===c.slug);if(i>=0)collections[i]={...c};else collections.push({...c});}
