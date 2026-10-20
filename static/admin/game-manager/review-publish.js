@@ -67,6 +67,45 @@
     };
   }
 
+  function confirmPublish(change){
+    const request=preparePublishRequest(change);
+    const name=change.current.title||change.current.name||String(change.key);
+    return window.confirm(
+      'Publish '+request.type+' to the TEST BRANCH?'+
+      String.fromCharCode(10,10)+
+      name+
+      String.fromCharCode(10,10)+
+      'Action: '+request.action+
+      String.fromCharCode(10)+
+      'This will update GitHub only after publishing is explicitly enabled.'
+    );
+  }
+
+  async function submitPublish(change,button){
+    if(!confirmPublish(change))return;
+    const request=preparePublishRequest(change);
+    button.disabled=true;
+    button.textContent='Publishing...';
+    try{
+      const response=await fetch('/admin/game-manager/publish',{
+        method:'POST',
+        credentials:'same-origin',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify(request)
+      });
+      const result=await response.json();
+      if(!response.ok||!result.ok){
+        throw new Error(result.message||'Publishing failed');
+      }
+      button.textContent='Published to test branch';
+      alert('Published to the TEST BRANCH. Refresh after Preview redeploys.');
+    }catch(error){
+      button.textContent='Publish failed - retry';
+      button.disabled=false;
+      alert('Publishing failed: '+error.message);
+    }
+  }
+
   function review(){
     content.replaceChildren();report.length=0;
     // Use numeric IDs, not title/link, to identify existing games.
@@ -100,6 +139,7 @@
       publish.disabled=true;
       publish.title='Publishing remains locked until the test workflow is verified';
       publish.style.marginTop='10px';
+      publish.addEventListener('click',()=>submitPublish(x,publish));
       item.append(publish);
       content.append(item);
     }
