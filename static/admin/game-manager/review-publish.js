@@ -70,7 +70,16 @@
     content.append(el('p',`${changes.length} local changes found (${changes.filter(x=>x.type==='Game').length} games, ${changes.filter(x=>x.type==='Collection').length} collections).`));
     if(errors.length){const warning=el('p',errors.map(x=>x.error).join('\n'));warning.style.cssText='color:#ffcb8a;white-space:pre-wrap';content.append(warning)}
     if(!changes.length&&!errors.length)content.append(el('p','No differences from the embedded baseline were found.','muted'));
-    for(const x of changes)content.append(row(x.type,x.key,x.original,x.current));
+    for(const x of changes){
+      const item=row(x.type,x.key,x.original,x.current);
+      const publish=el('button','Publish this '+x.type.toLowerCase());
+      publish.type='button';
+      publish.disabled=true;
+      publish.title='Publishing remains locked until the test workflow is verified';
+      publish.style.marginTop='10px';
+      item.append(publish);
+      content.append(item);
+    }
     const locked=el('button','🔒 Publishing disabled — Preview verification required');locked.disabled=true;locked.style.marginTop='12px';content.append(locked);
     panel.hidden=false;panel.scrollIntoView({behavior:'smooth',block:'start'});
   }
