@@ -62,6 +62,13 @@ function validate(type,r){
  if(JSON.stringify(r).length>25000)return 'Record is too large';
  return null;
 }
+// Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
+export async function onRequestGet({request,env}){
+ if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required.'},403);
+ const branch=BRANCH(env);
+ if(branch!=='game-manager-publishing-test')return reply({ok:false,message:'Not the isolated testing branch.'},403);
+ return reply({ok:true,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true',branch});
+}
 export async function onRequestPost({request,env}){
  if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required or configuration incomplete.'},403);
  if(!/^[A-Za-z0-9._/-]+$/.test(BRANCH(env)))return reply({ok:false,message:'Publishing branch is not configured.'},503);

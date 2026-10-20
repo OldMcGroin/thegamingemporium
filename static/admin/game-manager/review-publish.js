@@ -67,6 +67,11 @@
     };
   }
 
+  // A read-only status check controls whether publish actions are available.
+  // Never infer server permission from the presence of a button.
+  let publishEnabled=false;
+  let statusChecked=false;
+  let statusMessage='Checking Preview publishing permissions…';
   const publishedThisSession=new Set();
   function publishKey(change){return change.type+":"+String(change.key);}
 
@@ -85,7 +90,8 @@
   }
 
   async function submitPublish(change,button){
-    if(publishedThisSession.has(publishKey(change))){alert("Already published during this session.");return;}
+    if(!statusChecked||!publishEnabled){alert('Publishing is disabled or has not been verified. Refresh Review & Publish.');return;}
+    if(publishedThisSession.has(publishKey(change))){alert('Already published during this session.');return;}
     if(!confirmPublish(change))return;
     const request=preparePublishRequest(change);
     button.disabled=true;
@@ -111,7 +117,27 @@
     }
   }
 
-  function review(){
+  async function getPublishStatus(){
+    publishEnabled=false;
+    statusChecked=false;
+    statusMessage='Checking Preview publishing permissions…';
+    try{
+      const response=await fetch('/admin/game-manager/publish',{
+        method:'GET',credentials:'same-origin',cache:'no-store'
+      });
+      const result=await response.json();
+      if(!response.ok||!result.ok)throw new Error(result.message||'Status unavailable');
+      publishEnabled=result.enabled===true && result.branch==='game-manager-publishing-test';
+      statusMessage=publishEnabled
+        ? 'Publishing is enabled for the TEST BRANCH only.'
+        : 'Publishing is disabled on the server. Your drafts are safe.';
+      statusChecked=true;
+    }catch(error){
+      statusMessage='Publishing unavailable: '+error.message;
+    }
+  }
+  async function review(){
+    await getPublishStatus();
     content.replaceChildren();report.length=0;
     // Use numeric IDs, not title/link, to identify existing games.
     const originals=new Map(baseline.map(g=>[Number(g.id),g]));
@@ -141,14 +167,14 @@
       const item=row(x.type,x.key,x.original,x.current);
       const publish=el('button',publishedThisSession.has(publishKey(x))?'Published to test branch':'Publish this '+x.type.toLowerCase());
       publish.type='button';
-      publish.disabled=publishedThisSession.has(publishKey(x));
-      publish.title='Publishes to the TEST BRANCH only, when server-side publishing is enabled';
+      publish.disabled=!publishEnabled||publishedThisSession.has(publishKey(x));
+      publish.title=publishEnabled?'Publishes to the TEST BRANCH only':'Server-side publishing is disabled or unavailable';
       publish.style.marginTop='10px';
       publish.addEventListener('click',()=>submitPublish(x,publish));
       item.append(publish);
       content.append(item);
     }
-    const locked=el('button','🔒 Server-side publishing is currently disabled');locked.disabled=true;locked.style.marginTop='12px';content.append(locked);
+    const status=el('p',statusMessage,'muted');status.style.marginTop='12px';content.append(status);
     panel.hidden=false;panel.scrollIntoView({behavior:'smooth',block:'start'});
   }
   button.addEventListener('click',review);
