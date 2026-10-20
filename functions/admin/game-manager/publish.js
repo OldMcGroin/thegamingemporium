@@ -1,7 +1,8 @@
 // TGE Game Manager: authenticated, single-record GitHub publisher.
 // Required environment: ACCESS_TEAM_DOMAIN, ACCESS_AUD, GAME_MANAGER_ADMIN_EMAIL, GITHUB_TOKEN.
 // One record per request avoids partial multi-file transactions.
-const OWNER='OldMcGroin', REPO='thegamingemporium', BRANCH='main';
+const OWNER='OldMcGroin', REPO='thegamingemporium';
+const BRANCH = env => String(env.GAME_MANAGER_GITHUB_BRANCH || '').trim();
 const PATHS={game:'data/games.json',collection:'data/collections.json'};
 const reply=(body,status=200)=>new Response(JSON.stringify(body),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
 const from64=s=>Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0));
@@ -32,7 +33,7 @@ async function github(env,path,options={}){
  const data=await r.json().catch(()=>({}));if(!r.ok){const e=new Error('GitHub request failed');e.status=r.status;throw e}return data;
 }
 async function readFile(env,path){
- const meta=await github(env,path+'?ref='+encodeURIComponent(BRANCH));
+ const meta=await github(env,path+'?ref='+encodeURIComponent(BRANCH(env)));
  if(!/^[a-f0-9]{40}$/i.test(meta.sha||''))throw Error('Invalid file SHA');
  let encoded=meta.encoding==='base64'?meta.content:null;
  if(!encoded){const blob=await github(env,'git/blobs/'+meta.sha);if(blob.encoding!=='base64')throw Error('Unsupported blob');encoded=blob.content}
@@ -63,6 +64,11 @@ function validate(type,r){
 }
 export async function onRequestPost({request,env}){
  if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required or configuration incomplete.'},403);
+ if(!/^[A-Za-z0-9._/-]+$/.test(BRANCH(env)))return reply({ok:false,message:'Publishing branch is not configured.'},503);
+ if(String(env.CF_PAGES_BRANCH || '').trim() !== 'main' && BRANCH(env) === 'main')
+  return reply({ok:false,message:'Preview deployments cannot publish to main.'},403);
+ if(env.GAME_MANAGER_PUBLISH_ENABLED !== 'true')
+  return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
  const length=Number(request.headers.get('content-length')||0);if(length>60000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
@@ -88,7 +94,7 @@ export async function onRequestPost({request,env}){
   }
   const ids=new Set();for(const item of list){const k=item?.[key];if(ids.has(k))return reply({ok:false,message:'Duplicate identifiers detected. No changes made.'},409);ids.add(k)}
   const content=to64(JSON.stringify(list,null,2)+'\n');
-  await github(env,path,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Game Manager: ${action} ${type} ${String(type==='game'?record.title:record.name).slice(0,100)}`,content,sha:file.sha,branch:BRANCH})});
+  await github(env,path,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Game Manager: ${action} ${type} ${String(type==='game'?record.title:record.name).slice(0,100)}`,content,sha:file.sha,branch:BRANCH(env)})});
   return reply({ok:true,message:'Published to GitHub. Deployment may take a few minutes.',type,action,id});
  }catch(e){console.error('Game Manager publish failed',e);return reply({ok:false,message:e.status===409?'GitHub changed during publishing. Refresh and try again.':'Publishing failed. Check Cloudflare function logs and GitHub permissions.'},e.status===409?409:502)}
 }
