@@ -55,7 +55,10 @@ function tgeLoadDrafts(data){
  const problems=tgeValidateNewIds(cleaned);
  if(problems.length)throw Error(problems.slice(0,10).join('\n'));
  games=baseline.map(g=>({...g}));
- for(const g of cleaned){const i=games.findIndex(x=>tgeIdentity(x)===tgeIdentity(g));
+ for(const g of cleaned){
+  // Prefer the exact original game ID when titles and URLs are duplicated.
+  const exact=games.findIndex(x=>Number(x.id)===Number(g.id)&&tgeIdentity(x)===tgeIdentity(g));
+  const i=exact>=0?exact:games.findIndex(x=>tgeIdentity(x)===tgeIdentity(g));
   if(i>=0)games[i]={...games[i],...g,id:games[i].id};else games.unshift({...g});
  }
  collections=baselineCollections.map(c=>({...c}));
