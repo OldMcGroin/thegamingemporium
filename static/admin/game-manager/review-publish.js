@@ -21,7 +21,7 @@
   panel.id='tgeReviewPanel';panel.hidden=true;
   panel.style.cssText='border:1px solid #415574;background:#142239;padding:16px;border-radius:12px;margin:12px 0;';
   const heading=el('h2','Review local changes');panel.append(heading);
-  const note=el('p','Read-only review. Publishing is locked until Preview authentication and test-branch safeguards are verified.','muted');panel.append(note);
+  const note=el('p','Review your changes before publishing. Publishing is restricted to the TEST BRANCH and requires server-side authorisation.','muted');panel.append(note);
   const content=el('div');panel.append(content);
   const close=el('button','Close review');close.type='button';close.addEventListener('click',()=>{panel.hidden=true});panel.append(close);
   const toolbar=document.querySelector('main.wrap .tabs + .toolbar');
@@ -67,6 +67,9 @@
     };
   }
 
+  const publishedThisSession=new Set();
+  function publishKey(change){return change.type+":"+String(change.key);}
+
   function confirmPublish(change){
     const request=preparePublishRequest(change);
     const name=change.current.title||change.current.name||String(change.key);
@@ -82,6 +85,7 @@
   }
 
   async function submitPublish(change,button){
+    if(publishedThisSession.has(publishKey(change))){alert("Already published during this session.");return;}
     if(!confirmPublish(change))return;
     const request=preparePublishRequest(change);
     button.disabled=true;
@@ -97,6 +101,7 @@
       if(!response.ok||!result.ok){
         throw new Error(result.message||'Publishing failed');
       }
+      publishedThisSession.add(publishKey(change));
       button.textContent='Published to test branch';
       alert('Published to the TEST BRANCH. Refresh after Preview redeploys.');
     }catch(error){
@@ -134,16 +139,16 @@
     if(!changes.length&&!errors.length)content.append(el('p','No differences from the embedded baseline were found.','muted'));
     for(const x of changes){
       const item=row(x.type,x.key,x.original,x.current);
-      const publish=el('button','Publish this '+x.type.toLowerCase());
+      const publish=el('button',publishedThisSession.has(publishKey(x))?'Published to test branch':'Publish this '+x.type.toLowerCase());
       publish.type='button';
-      publish.disabled=true;
-      publish.title='Publishing remains locked until the test workflow is verified';
+      publish.disabled=publishedThisSession.has(publishKey(x));
+      publish.title='Publishes to the TEST BRANCH only, when server-side publishing is enabled';
       publish.style.marginTop='10px';
       publish.addEventListener('click',()=>submitPublish(x,publish));
       item.append(publish);
       content.append(item);
     }
-    const locked=el('button','🔒 Publishing disabled — Preview verification required');locked.disabled=true;locked.style.marginTop='12px';content.append(locked);
+    const locked=el('button','🔒 Server-side publishing is currently disabled');locked.disabled=true;locked.style.marginTop='12px';content.append(locked);
     panel.hidden=false;panel.scrollIntoView({behavior:'smooth',block:'start'});
   }
   button.addEventListener('click',review);
