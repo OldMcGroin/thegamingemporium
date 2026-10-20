@@ -44,6 +44,29 @@
     }
     return box;
   }
+  function preparePublishRequest(change){
+    const type=change.type==='Game'?'game':'collection';
+    const action=change.original?'update':'create';
+    const record=change.original?{...change.original}:{...change.current};
+
+    if(change.original){
+      for(const key of changedFields(change.original,change.current)){
+        if(Object.prototype.hasOwnProperty.call(change.current,key)){
+          record[key]=change.current[key];
+        }else{
+          // Preserve existing fields omitted by the editor.
+        }
+      }
+    }
+
+    return {
+      type,
+      action,
+      record,
+      ...(change.original?{before:change.original}:{})
+    };
+  }
+
   function review(){
     content.replaceChildren();report.length=0;
     // Use numeric IDs, not title/link, to identify existing games.
