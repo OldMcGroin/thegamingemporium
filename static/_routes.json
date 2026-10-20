@@ -6,7 +6,8 @@
     "/admin/link-health/*",
     "/admin/suggestions/api",
     "/submit-ai-report",
-    "/submit-suggestion"
+    "/submit-suggestion",
+    "/admin/game-manager/*"
   ],
   "exclude": []
 }
