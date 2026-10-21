@@ -16,6 +16,9 @@ python3 tools/generate_search_index.py
 
 ./check-social
 
+echo "Refreshing Game Manager embedded data..."
+python3 tools/refresh_manager.py
+
 echo "Building Hugo site..."
 hugo
 
