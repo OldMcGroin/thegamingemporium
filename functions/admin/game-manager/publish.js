@@ -124,12 +124,20 @@ export async function onRequestPost({request,env}){
   if(found.length>1)return reply({ok:false,message:'Duplicate identifiers already exist in GitHub. No changes made.'},409);
   if(action==='create'){
    if(found.length)return reply({ok:false,message:'This ID or slug is already in use. Refresh your drafts before publishing.'},409);
+   // Only newly created games receive a publication date. Use the Irish
+   // calendar date on the server, not the phone's clock or a draft value.
+   if(type==='game')record.date_added=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Dublin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
    list.push(record);
   }else{
    if(found.length!==1||!equal(found[0],before))return reply({ok:false,message:'This record changed on GitHub since your draft was created. Refresh and review before publishing.'},409);
    const idx=list.findIndex(x=>x?.[key]===id);
    // Keep unedited properties supplied in the original record; reject stale changes.
    list[idx]={...found[0],...record};
+   // Editing an existing game must never silently assign or change its date.
+   if(type==='game'){
+    if(Object.prototype.hasOwnProperty.call(found[0],'date_added'))list[idx].date_added=found[0].date_added;
+    else delete list[idx].date_added;
+   }
   }
   const ids=new Set();for(const item of list){const k=item?.[key];if(ids.has(k))return reply({ok:false,message:'Duplicate identifiers detected. No changes made.'},409);ids.add(k)}
   // Create ONE Git commit containing both the updated JSON and the artwork.
