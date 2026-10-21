@@ -80,8 +80,7 @@ function validate(type,r){
 // Production deployment is separate from permission to write to the main branch.
 function publishGate(env){
  const branch=BRANCH(env);
- if(branch==='game-manager-publishing-test')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
- if(branch==='game-manager-safe-test-20261021')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
@@ -101,10 +100,19 @@ export async function onRequestPost({request,env}){
  if(!gate.enabled)
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
- const length=Number(request.headers.get('content-length')||0);if(length>60000)return reply({ok:false,message:'Request too large.'},413);
+ const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
  if(!obj(body)||!['game','collection'].includes(body.type)||!['create','update'].includes(body.action)||!obj(body.record))return reply({ok:false,message:'Invalid publish request.'},400);
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
+ const imageUpload=body.imageUpload;
+ if(imageUpload!==undefined){
+  if(type!=='game'||!obj(imageUpload)||imageUpload.mime!=='image/webp'||typeof imageUpload.base64!=='string'||!/^[A-Za-z0-9+/]+={0,2}$/.test(imageUpload.base64)||imageUpload.base64.length>1400000||imageUpload.base64.length<40)return reply({ok:false,message:'Invalid or oversized WebP upload.'},400);
+  if(!/^\/Images\/Games\/manager-[1-9][0-9]*-[a-f0-9]{16}\.webp$/.test(record.image||''))return reply({ok:false,message:'Invalid image destination.'},400);
+  if(!record.image.startsWith('/Images/Games/manager-'+record.id+'-'))return reply({ok:false,message:'Image must belong to this game ID.'},400);
+  const head=atob(imageUpload.base64.slice(0,32));
+  if(!head.startsWith('RIFF')||head.slice(8,12)!=='WEBP')return reply({ok:false,message:'Uploaded data is not a WebP image.'},400);
+ }
+
  if(action==='update'&&(!obj(before)||(type==='game'?!Number.isSafeInteger(before.id):typeof before.slug!=='string')))return reply({ok:false,message:'An original record is required to safely update.'},400);
  if(action==='create'&&before!==undefined&&before!==null)return reply({ok:false,message:'Create requests must not include an original record.'},400);
  if(action==='update'&&(type==='game'?record.id!==before.id:record.slug!==before.slug))return reply({ok:false,message:'Changing an existing record identifier is not supported.'},400);
@@ -124,6 +132,12 @@ export async function onRequestPost({request,env}){
    list[idx]={...found[0],...record};
   }
   const ids=new Set();for(const item of list){const k=item?.[key];if(ids.has(k))return reply({ok:false,message:'Duplicate identifiers detected. No changes made.'},409);ids.add(k)}
+  if(imageUpload){
+   // Unique filenames avoid overwriting existing artwork. JSON remains untouched if image upload fails.
+   const imgPath='static'+record.image;
+   try{await github(env,imgPath+'?ref='+encodeURIComponent(BRANCH(env)));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}
+   await github(env,imgPath,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: upload artwork for game '+record.id,content:imageUpload.base64,branch:BRANCH(env)})});
+  }
   const content=to64(JSON.stringify(list,null,2)+'\n');
   await github(env,path,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Game Manager: ${action} ${type} ${String(type==='game'?record.title:record.name).slice(0,100)}`,content,sha:file.sha,branch:BRANCH(env)})});
   return reply({ok:true,message:'Published to GitHub. Deployment may take a few minutes.',type,action,id});
