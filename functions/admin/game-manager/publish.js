@@ -41,7 +41,7 @@ async function identity(request,env){
  }catch{return fail('access_token_verification_error')}
 }
 async function github(env,path,options={}){
- const url=`https://api.github.com/repos/${OWNER}/${REPO}/${path.startsWith('git/blobs/')?path:'contents/'+path}`;
+ const url=`https://api.github.com/repos/${OWNER}/${REPO}/${path.startsWith('git/')?path:'contents/'+path}`;
  const r=await fetch(url,{...options,headers:{Accept:'application/vnd.github+json',Authorization:`Bearer ${env.GITHUB_TOKEN}`,'X-GitHub-Api-Version':'2022-11-28','User-Agent':'thegamingemporium-game-manager',...(options.headers||{})}});
  const data=await r.json().catch(()=>({}));if(!r.ok){const e=new Error('GitHub request failed');e.status=r.status;throw e}return data;
 }
@@ -80,7 +80,7 @@ function validate(type,r){
 // Production deployment is separate from permission to write to the main branch.
 function publishGate(env){
  const branch=BRANCH(env);
- if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(branch==='game-manager-publishing-test')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
@@ -88,14 +88,14 @@ export async function onRequestGet({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
- if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ if(!['game-manager-publishing-test','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
  return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
 }
 export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
- if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))
+ if(!['game-manager-publishing-test','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(!gate.enabled)
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
@@ -132,14 +132,35 @@ export async function onRequestPost({request,env}){
    list[idx]={...found[0],...record};
   }
   const ids=new Set();for(const item of list){const k=item?.[key];if(ids.has(k))return reply({ok:false,message:'Duplicate identifiers detected. No changes made.'},409);ids.add(k)}
+  // Create ONE Git commit containing both the updated JSON and the artwork.
+  // Neither file becomes visible on the branch unless the final ref update succeeds.
+  const branch=BRANCH(env);
+  const refPath='git/ref/heads/'+encodeURIComponent(branch);
+  const ref=await github(env,refPath);
+  const head=ref.object?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
+  const parent=await github(env,'git/commits/'+head);
+  const baseTree=parent.tree?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
+  // The data file must still be the version checked for record conflicts.
+  const headFile=await github(env,path+'?ref='+encodeURIComponent(head));
+  if(headFile.sha!==file.sha)return reply({ok:false,message:'Game data changed during publishing. Refresh and try again.'},409);
+  const entries=[];
+  const jsonBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
+  entries.push({path,mode:'100644',type:'blob',sha:jsonBlob.sha});
   if(imageUpload){
-   // Unique filenames avoid overwriting existing artwork. JSON remains untouched if image upload fails.
    const imgPath='static'+record.image;
-   try{await github(env,imgPath+'?ref='+encodeURIComponent(BRANCH(env)));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}
-   await github(env,imgPath,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: upload artwork for game '+record.id,content:imageUpload.base64,branch:BRANCH(env)})});
+   // Reject any filename already present at the branch head, even if a
+   // concurrent editor supplied a colliding name.
+   try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}
+   const imageBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:imageUpload.base64,encoding:'base64'})});
+   entries.push({path:imgPath,mode:'100644',type:'blob',sha:imageBlob.sha});
   }
-  const content=to64(JSON.stringify(list,null,2)+'\n');
-  await github(env,path,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Game Manager: ${action} ${type} ${String(type==='game'?record.title:record.name).slice(0,100)}`,content,sha:file.sha,branch:BRANCH(env)})});
+  const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:baseTree,tree:entries})});
+  const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Game Manager: ${action} ${type} ${String(type==='game'?record.title:record.name).slice(0,100)}`,tree:tree.sha,parents:[head]})});
+  // force:false prevents overwriting concurrent pushes. If this fails, the
+  // branch remains unchanged: no orphan artwork file and no partial update.
+  await github(env,'git/refs/heads/'+encodeURIComponent(branch),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:commit.sha,force:false})});
   return reply({ok:true,message:'Published to GitHub. Deployment may take a few minutes.',type,action,id});
- }catch(e){console.error('Game Manager publish failed',e);return reply({ok:false,message:e.status===409?'GitHub changed during publishing. Refresh and try again.':'Publishing failed. Check Cloudflare function logs and GitHub permissions.'},e.status===409?409:502)}
+ }catch(e){console.error('Game Manager publish failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed during publishing. Refresh and try again.':'Publishing failed. Check Cloudflare function logs and GitHub permissions.'},[409,422].includes(e.status)?409:502)}
 }
