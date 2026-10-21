@@ -222,6 +222,7 @@ async function showCardPreview(){
    try{
      // Android browsers can display a selected image even when FileReader fails.
      // Decode from a temporary object URL first; send a small WebP data URL to the iframe.
+     if(typeof window.tgeImageDrafts?.previewDataURL!=='function')throw Error('Image processor did not load. Reload this page and try again.');
      game.imageData=await window.tgeImageDrafts.previewDataURL(file);
    }catch(e){alert('Could not read image: '+e.message);return;}
  }
@@ -239,5 +240,5 @@ async function showCardPreview(){
  frame.src='/admin/card-preview/?managerPreview='+Date.now();
 }
 </script>
-<script src="/admin/game-manager/image-drafts.js" defer></script>
+<script src="/admin/game-manager/image-drafts.js?v=20261021-mobile-fix-2" defer onerror="console.error('Game Manager image processor failed to load')"></script>
 <script src="/admin/game-manager/review-publish.js" defer></script></body></html>
