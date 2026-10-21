@@ -175,6 +175,18 @@ async function showCardPreview(){
  for(const key of ['title','category','platform','genre1','genre2','ai_usage','video_link','link']) game[key]=$f(key).value;
  game.hasVideoFile=!!$f('video_file').files.length;
  game.hidden=$f('hidden').checked;
+ // Reuse the saved artwork path for existing games, not the title-derived legacy image.
+ const existing=tgeEditingIndex!=null?games[tgeEditingIndex]:games.find(g=>Number(g.id)===Number(editing));
+ if(existing?.image){
+   game.image=existing.image;
+   // Unpublished image drafts live in IndexedDB and are not yet available at their URL.
+   if(typeof window.tgeGetImageUpload==='function'){
+     try{
+       const draft=await window.tgeGetImageUpload(existing.image);
+       if(draft?.base64)game.imageData='data:image/webp;base64,'+draft.base64;
+     }catch(e){console.warn('Could not load locally saved preview artwork',e)}
+   }
+ }
  const file=$f('image').files[0];
  if(file){
    try{
