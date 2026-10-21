@@ -22,14 +22,21 @@ function loadImage(file){
 async function convertBlob(file){
  validate(file);
  let source,close=()=>{};
- try{
-  // Use the same browser image-decoding path as the working Original Image display.
-  source=await loadImage(file);
- }catch(e){
-  // Some browsers support a format through createImageBitmap but not HTMLImageElement.
-  if(typeof createImageBitmap!=='function')throw e;
-  source=await createImageBitmap(file);
-  close=()=>source.close();
+ // The selected Google Photos image can already be decoded in the Original Image box,
+ // even when Android's transient file provider fails on a second read.
+ // Reuse that exact loaded HTMLImageElement before attempting to reopen the file.
+ const selected=document.getElementById('f_image')?.files?.[0];
+ const shown=document.querySelector('#imagePreview img');
+ if(selected===file&&shown?.complete&&shown.naturalWidth>0&&shown.naturalHeight>0){
+  source=shown;
+ }else{
+  try{
+   source=await loadImage(file);
+  }catch(e){
+   if(typeof createImageBitmap!=='function')throw e;
+   source=await createImageBitmap(file);
+   close=()=>source.close();
+  }
  }
  try{
   const width=source.naturalWidth||source.width,height=source.naturalHeight||source.height;
