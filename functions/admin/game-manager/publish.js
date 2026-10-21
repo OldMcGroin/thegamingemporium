@@ -13,25 +13,32 @@ const canonical=x=>JSON.stringify(sortObject(x));
 function sortObject(x){if(Array.isArray(x))return x.map(sortObject);if(obj(x))return Object.fromEntries(Object.keys(x).sort().map(k=>[k,sortObject(x[k])]));return x}
 function equal(a,b){return canonical(a)===canonical(b)}
 async function identity(request,env){
+ // Return only coarse, non-sensitive failure codes; never echo JWTs or identity claims.
+ const fail=reason=>({ok:false,reason});
  const domain=String(env.ACCESS_TEAM_DOMAIN||'').trim().replace(/^https?:\/\//,'').replace(/\/$/,'');
  const aud=String(env.ACCESS_AUD||'').trim(), admin=String(env.GAME_MANAGER_ADMIN_EMAIL||'').trim().toLowerCase();
- if(!domain||!aud||!admin||!/^[a-z0-9.-]+\.cloudflareaccess\.com$/i.test(domain))return null;
- // Cloudflare Access may provide its signed JWT as a forwarded assertion header
- // or as the CF_Authorization cookie. Both are verified identically below.
+ if(!domain||!aud||!admin||!/^[a-z0-9.-]+\.cloudflareaccess\.com$/i.test(domain))return fail('configuration_incomplete');
  const headerJwt=request.headers.get('Cf-Access-Jwt-Assertion');
  const cookieHeader=request.headers.get('Cookie')||'';
  const cookieJwt=cookieHeader.split(';').map(part=>part.trim()).find(part=>part.startsWith('CF_Authorization='))?.slice('CF_Authorization='.length);
  const jwt=headerJwt||cookieJwt;
- if(!jwt)return null;
- const p=jwt.split('.');if(p.length!==3)return null;
+ if(!jwt)return fail('access_token_missing');
+ const p=jwt.split('.');if(p.length!==3)return fail('access_token_malformed');
  try{
   const h=JSON.parse(new TextDecoder().decode(from64(p[0]))),v=JSON.parse(new TextDecoder().decode(from64(p[1]))),now=Math.floor(Date.now()/1000);
-  if(h.alg!=='RS256'||typeof h.kid!=='string'||v.iss!==`https://${domain}`||!(Array.isArray(v.aud)?v.aud.includes(aud):v.aud===aud)||!Number.isFinite(v.exp)||v.exp<=now||!Number.isFinite(v.iat)||v.iat>now+60||String(v.email||'').trim().toLowerCase()!==admin)return null;
-  const certs=await fetch(`https://${domain}/cdn-cgi/access/certs`);if(!certs.ok)return null;
-  const keys=await certs.json(),jwk=keys.keys?.find(k=>k.kid===h.kid&&k.kty==='RSA');if(!jwk)return null;
+  if(h.alg!=='RS256'||typeof h.kid!=='string')return fail('access_token_format');
+  if(v.iss!==`https://${domain}`)return fail('access_token_issuer');
+  if(!(Array.isArray(v.aud)?v.aud.includes(aud):v.aud===aud))return fail('access_token_audience');
+  if(!Number.isFinite(v.exp)||v.exp<=now||!Number.isFinite(v.iat)||v.iat>now+60)return fail('access_token_time');
+  if(String(v.email||'').trim().toLowerCase()!==admin)return fail('administrator_email_mismatch');
+  const certs=await fetch(`https://${domain}/cdn-cgi/access/certs`);
+  if(!certs.ok)return fail('access_certs_unavailable');
+  const keys=await certs.json(),jwk=keys.keys?.find(k=>k.kid===h.kid&&k.kty==='RSA');
+  if(!jwk)return fail('access_signing_key_missing');
   const key=await crypto.subtle.importKey('jwk',jwk,{name:'RSASSA-PKCS1-v1_5',hash:'SHA-256'},false,['verify']);
-  return await crypto.subtle.verify('RSASSA-PKCS1-v1_5',key,from64(p[2]),new TextEncoder().encode(`${p[0]}.${p[1]}`))?admin:null;
- }catch{return null}
+  if(!(await crypto.subtle.verify('RSASSA-PKCS1-v1_5',key,from64(p[2]),new TextEncoder().encode(`${p[0]}.${p[1]}`))))return fail('access_signature_invalid');
+  return {ok:true};
+ }catch{return fail('access_token_verification_error')}
 }
 async function github(env,path,options={}){
  const url=`https://api.github.com/repos/${OWNER}/${REPO}/${path.startsWith('git/blobs/')?path:'contents/'+path}`;
@@ -78,13 +85,15 @@ function publishGate(env){
  return {branch,enabled:false};
 }
 export async function onRequestGet({request,env}){
- if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required.'},403);
+ const auth=await identity(request,env);
+ if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
  if(!['game-manager-publishing-test','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
  return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
 }
 export async function onRequestPost({request,env}){
- if(!(await identity(request,env)))return reply({ok:false,message:'Administrator authentication required or configuration incomplete.'},403);
+ const auth=await identity(request,env);
+ if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
  if(!['game-manager-publishing-test','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
