@@ -51056,5 +51056,20 @@
     "weight": "",
     "collection": "",
     "ai_usage": ""
+  },
+  {
+    "id": 3966,
+    "title": "Metal Slug X - Apple Silicon Native Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Tzeentchnet/metal-slug-x-apple-silicon/",
+    "video_link": "",
+    "platform": "Neo Geo",
+    "genre1": "action",
+    "genre2": "shoot-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3966-c842824133855c48.webp"
   }
 ]
