@@ -16,7 +16,10 @@ python3 tools/generate_search_index.py
 
 ./check-social
 
-echo "Refreshing Game Manager embedded data..."\npython3 tools/refresh_manager.py\n\necho "Building Hugo site..."
+echo "Refreshing Game Manager embedded data..."
+python3 tools/refresh_manager.py
+
+echo "Building Hugo site..."
 hugo
 
 echo "Done. Output is in ./public"
