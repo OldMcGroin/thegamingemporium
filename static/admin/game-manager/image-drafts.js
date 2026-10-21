@@ -5,17 +5,57 @@ function database(){return new Promise((resolve,reject)=>{const r=indexedDB.open
 async function put(key,value){const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('images','readwrite');tx.objectStore('images').put(value,key);tx.oncomplete=()=>{db.close();resolve()};tx.onerror=()=>{db.close();reject(tx.error)}})}
 async function get(key){const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('images','readonly');const r=tx.objectStore('images').get(key);r.onsuccess=()=>{db.close();resolve(r.result)};r.onerror=()=>{db.close();reject(r.error)}})}
 const id=()=>Number.isSafeInteger(editing)&&editing>0?editing:(Number.isSafeInteger(tgeEditingIndex)&&tgeEditingIndex>=0?Number(games[tgeEditingIndex]?.id)||null:null);
-async function convert(file){
+function validate(file){
  if(!['image/png','image/jpeg','image/webp','image/avif'].includes(file.type))throw Error('Select a PNG, JPEG, WebP or AVIF image.');
  if(file.size>20*1024*1024)throw Error('Image exceeds 20 MB.');
- const bitmap=await createImageBitmap(file);
- const scale=Math.min(1,1400/Math.max(bitmap.width,bitmap.height));
- const canvas=document.createElement('canvas');canvas.width=Math.max(1,Math.round(bitmap.width*scale));canvas.height=Math.max(1,Math.round(bitmap.height*scale));
- canvas.getContext('2d').drawImage(bitmap,0,0,canvas.width,canvas.height);bitmap.close();
- const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/webp',0.82));
- if(!blob||blob.type!=='image/webp'||blob.size>900000)throw Error('Image could not be compressed below 900 KB. Try a smaller image.');
- return new Promise((resolve,reject)=>{const r=new FileReader();r.onload=()=>resolve(String(r.result).split(',')[1]);r.onerror=()=>reject(r.error);r.readAsDataURL(blob)});
 }
+function loadImage(file){
+ return new Promise((resolve,reject)=>{
+  const url=URL.createObjectURL(file),img=new Image();
+  let settled=false;
+  function done(err){if(settled)return;settled=true;URL.revokeObjectURL(url);err?reject(err):resolve(img)}
+  img.onload=()=>done(null);
+  img.onerror=()=>done(Error('Unable to decode this image on your device. Try exporting it as JPEG or PNG.'));
+  img.src=url;
+ });
+}
+async function convertBlob(file){
+ validate(file);
+ let source,close=()=>{};
+ try{
+  // Use the same browser image-decoding path as the working Original Image display.
+  source=await loadImage(file);
+ }catch(e){
+  // Some browsers support a format through createImageBitmap but not HTMLImageElement.
+  if(typeof createImageBitmap!=='function')throw e;
+  source=await createImageBitmap(file);
+  close=()=>source.close();
+ }
+ try{
+  const width=source.naturalWidth||source.width,height=source.naturalHeight||source.height;
+  if(!width||!height)throw Error('The selected image has invalid dimensions.');
+  const scale=Math.min(1,1400/Math.max(width,height));
+  const canvas=document.createElement('canvas');
+  canvas.width=Math.max(1,Math.round(width*scale));canvas.height=Math.max(1,Math.round(height*scale));
+  const ctx=canvas.getContext('2d');if(!ctx)throw Error('Image conversion is unavailable in this browser.');
+  ctx.drawImage(source,0,0,canvas.width,canvas.height);
+  const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/webp',0.82));
+  if(!blob||blob.type!=='image/webp'||blob.size>900000)throw Error('Image could not be compressed below 900 KB. Try a smaller image.');
+  return blob;
+ }finally{close()}
+}
+function blobDataURL(blob){
+ return new Promise((resolve,reject)=>{
+  const r=new FileReader();r.onload=()=>resolve(String(r.result));
+  r.onerror=()=>reject(Error('Could not read the converted image.'));
+  r.readAsDataURL(blob);
+ });
+}
+async function convert(file){
+ const dataURL=await blobDataURL(await convertBlob(file));
+ return dataURL.split(',')[1];
+}
+window.tgeImageDrafts={previewDataURL:async file=>blobDataURL(await convertBlob(file))};
 function random(){return [...crypto.getRandomValues(new Uint8Array(8))].map(x=>x.toString(16).padStart(2,'0')).join('')}
 const originalSave=window.saveGame;
 window.saveGame=async function(){
