@@ -80,7 +80,7 @@ function validate(type,r){
 // Production deployment is separate from permission to write to the main branch.
 function publishGate(env){
  const branch=BRANCH(env);
- if(branch==='game-manager-publishing-test')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
@@ -88,14 +88,14 @@ export async function onRequestGet({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
- if(!['game-manager-publishing-test','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
  return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
 }
 export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
- if(!['game-manager-publishing-test','main'].includes(gate.branch))
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(!gate.enabled)
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
