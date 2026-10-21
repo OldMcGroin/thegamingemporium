@@ -16,7 +16,13 @@ async function identity(request,env){
  const domain=String(env.ACCESS_TEAM_DOMAIN||'').trim().replace(/^https?:\/\//,'').replace(/\/$/,'');
  const aud=String(env.ACCESS_AUD||'').trim(), admin=String(env.GAME_MANAGER_ADMIN_EMAIL||'').trim().toLowerCase();
  if(!domain||!aud||!admin||!/^[a-z0-9.-]+\.cloudflareaccess\.com$/i.test(domain))return null;
- const jwt=request.headers.get('Cf-Access-Jwt-Assertion');if(!jwt)return null;
+ // Cloudflare Access may provide its signed JWT as a forwarded assertion header
+ // or as the CF_Authorization cookie. Both are verified identically below.
+ const headerJwt=request.headers.get('Cf-Access-Jwt-Assertion');
+ const cookieHeader=request.headers.get('Cookie')||'';
+ const cookieJwt=cookieHeader.split(';').map(part=>part.trim()).find(part=>part.startsWith('CF_Authorization='))?.slice('CF_Authorization='.length);
+ const jwt=headerJwt||cookieJwt;
+ if(!jwt)return null;
  const p=jwt.split('.');if(p.length!==3)return null;
  try{
   const h=JSON.parse(new TextDecoder().decode(from64(p[0]))),v=JSON.parse(new TextDecoder().decode(from64(p[1]))),now=Math.floor(Date.now()/1000);
