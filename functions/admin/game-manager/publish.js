@@ -118,13 +118,7 @@ export async function onRequestPost({request,env}){
    if(found.length)return reply({ok:false,message:'This ID or slug is already in use. Refresh your drafts before publishing.'},409);
    list.push(record);
   }else{
-   if(found.length!==1||!equal(found[0],before)){
-    // Preview-only diagnostics: return field names, never private field values.
-    // Keep strict conflict protection in place; no write occurs.
-    const keys=found.length===1?[...new Set([...Object.keys(found[0]),...Object.keys(before)])].sort():[];
-    const differentFields=keys.filter(k=>canonical(found[0][k])!==canonical(before[k]));
-    return reply({ok:false,message:'This record changed on GitHub since your draft was created. Refresh and review before publishing.',diagnostic:{matchedRecords:found.length,differentFields}},409);
-   }
+   if(found.length!==1||!equal(found[0],before))return reply({ok:false,message:'This record changed on GitHub since your draft was created. Refresh and review before publishing.'},409);
    const idx=list.findIndex(x=>x?.[key]===id);
    // Keep unedited properties supplied in the original record; reject stale changes.
    list[idx]={...found[0],...record};
