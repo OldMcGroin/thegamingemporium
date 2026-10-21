@@ -65,12 +65,12 @@ Image strategy (scales to thousands of items):
   <a class="game-card__link" href="{{ $g.link }}" target="_blank" rel="noopener" data-game-id="{{ $slug }}">
     <div class="game-card__image">
       <img class="game-card__img"
-           src="/Images/Games/{{ $slug }}.webp"
+           src="{{ if $g.image }}{{ $g.image }}{{ else }}/Images/Games/{{ $slug }}.webp{{ end }}"
            alt="{{ $title }}"
            loading="lazy"
            decoding="async"
            onload="this.parentElement.classList.remove('is-missing');"
-           onerror="this.onerror=null; this.src='/Images/Games/{{ $slug }}.jpg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.jpeg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.png'; this.onerror=function(){ this.parentElement.classList.add('is-missing'); this.src='/Images/placeholder.jpg'; this.onerror=null; }; }; };" />
+           onerror="{{ if $g.image }}this.onerror=null;this.parentElement.classList.add('is-missing');this.src='/Images/placeholder.jpg';{{ else }}this.onerror=null; this.src='/Images/Games/{{ $slug }}.jpg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.jpeg'; this.onerror=function(){ this.src='/Images/Games/{{ $slug }}.png'; this.onerror=function(){ this.parentElement.classList.add('is-missing'); this.src='/Images/placeholder.jpg'; this.onerror=null; }; }; };{{ end }}" />
       <div class="game-card__imageFallback">Add image</div>
     </div>
     <div class="game-card__body">
