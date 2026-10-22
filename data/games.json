@@ -51911,5 +51911,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4017-2154a5115924ddae.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4022,
+    "title": "Need for Speed: Most Wanted Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rafidwayne/speedbreaker",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4022-fa82964f9cf43433.webp",
+    "date_added": "2026-10-22"
   }
 ]
