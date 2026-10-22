@@ -51652,5 +51652,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4001-f8ebe658034aa4b0.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4004,
+    "title": "Ninja Gaiden Black Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gamboozino/ngbrecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4004-73cb73b7bd4ff283.webp",
+    "date_added": "2026-10-22"
   }
 ]
