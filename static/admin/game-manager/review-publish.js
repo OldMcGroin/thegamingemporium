@@ -30,11 +30,12 @@
   toolbar.append(button);toolbar.insertAdjacentElement('afterend',panel);
   const report=[];
   function renderValue(value){if(value===undefined)return '(not set)';if(typeof value==='object')return JSON.stringify(value);return String(value)}
-  function row(type,key,original,current){
+  function row(type,key,original,current,artworkPending=false){
     const box=el('article');box.style.cssText='padding:12px;margin:10px 0;border:1px solid #314765;border-radius:9px;overflow-wrap:anywhere';
     box.append(el('h3',`${type}: ${current.title||current.name||key}`));
     box.append(el('p',`Identifier: ${key} · ${original?'Update existing':'New record'}`,'muted'));
     const changed=changedFields(original,current);
+    if(artworkPending)box.append(el('p','Collection artwork: new image ready to publish.'));
     for(const k of changed){
       const line=el('div');line.style.cssText='margin:7px 0;padding:6px 0;border-top:1px solid #314765';
       const label=el('strong',k);line.append(label);
@@ -122,6 +123,7 @@
       }
       if(!response.ok||!result.ok)throw new Error(result.message||'Publishing failed');
       publishedThisSession.add(publishKey(change));
+      if(request.imageUpload&&window.tgeClearPendingImage){try{await window.tgeClearPendingImage(request.record.image)}catch(e){console.warn('Published artwork draft cleanup failed',e)}}
       button.textContent='Published to '+publishBranch;
       alert('Published to '+publishBranch+'. Refresh after the deployment completes.');
     }catch(error){
@@ -172,14 +174,15 @@
       if(!c.slug||slugs.has(c.slug)){report.push({error:`Invalid or duplicate collection slug: ${c.slug||'(blank)'}`});continue;}
       slugs.add(c.slug);
       const original=originalCollections.get(c.slug);
-      if(!original||!eq(original,c))report.push({type:'Collection',key:c.slug,original,current:c});
+      const artworkPending=Boolean(c.image&&window.tgeHasPendingImage&&await window.tgeHasPendingImage(c.image));
+      if(!original||!eq(original,c)||artworkPending)report.push({type:'Collection',key:c.slug,original,current:c,artworkPending});
     }
     const errors=report.filter(x=>x.error),changes=report.filter(x=>!x.error);
     content.append(el('p',`${changes.length} local changes found (${changes.filter(x=>x.type==='Game').length} games, ${changes.filter(x=>x.type==='Collection').length} collections).`));
     if(errors.length){const warning=el('p',errors.map(x=>x.error).join('\n'));warning.style.cssText='color:#ffcb8a;white-space:pre-wrap';content.append(warning)}
     if(!changes.length&&!errors.length)content.append(el('p','No differences from the embedded baseline were found.','muted'));
     for(const x of changes){
-      const item=row(x.type,x.key,x.original,x.current);
+      const item=row(x.type,x.key,x.original,x.current,x.artworkPending);
       const publish=el('button',publishedThisSession.has(publishKey(x))?'Published to '+publishBranch:'Publish this '+x.type.toLowerCase());
       publish.type='button';
       publish.disabled=!publishEnabled||publishedThisSession.has(publishKey(x));

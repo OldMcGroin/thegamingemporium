@@ -100,6 +100,8 @@ window.saveCollection=async function(){
   alert('Collection artwork saved locally. Publish the collection in Review & Publish to upload it.');
  }catch(e){alert('Collection image was not saved: '+e.message)}
 };
+window.tgeHasPendingImage=async path=>Boolean(path&&await get(path));
+window.tgeClearPendingImage=async path=>{if(!path)return;const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('images','readwrite');tx.objectStore('images').delete(path);tx.oncomplete=()=>{db.close();resolve()};tx.onerror=()=>{db.close();reject(tx.error)}})};
 window.tgeGetImageUpload=async path=>{
  if(!path||!(/^\/Images\/Games\/manager-[0-9]+-[a-f0-9]{16}\.webp$/.test(path)||/^\/Images\/Games\/[a-z0-9]+(?:-[a-z0-9]+)*-collection\.webp$/.test(path)))return null;
  const base64=await get(path);
