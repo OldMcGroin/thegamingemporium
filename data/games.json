@@ -51604,5 +51604,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3999-6693ce324d47935e.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4000,
+    "title": "Sonic and the Black Knight Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/yunophilia/BlackKnightRecomp",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "platformer",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4000-6b2b6b1abe658c8c.webp",
+    "date_added": "2026-10-22"
   }
 ]
