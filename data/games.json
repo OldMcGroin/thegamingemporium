@@ -51879,5 +51879,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4016-00461c155fe03a2b.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4018,
+    "title": "Theme Park World PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/tpw-decomp/tpw-port",
+    "video_link": "",
+    "platform": "Macintosh",
+    "genre1": "business-simulator",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4018-a607c1efd723c155.webp",
+    "date_added": "2026-10-22"
   }
 ]
