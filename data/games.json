@@ -51556,5 +51556,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3995-e2d28e1590299713.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3994,
+    "title": "Star Ocean: Integrity and Faithlessness Compatibility Runtime for PC (Linux) through PS4RT",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3994-087f8bcc2a1956eb.webp",
+    "date_added": "2026-10-22"
   }
 ]
