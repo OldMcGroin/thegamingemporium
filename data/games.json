@@ -52119,5 +52119,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4030-e6d8b15c33ce3fae.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4029,
+    "title": "Pokémon Brilliant Diamond Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Veemyu/strahlender-xnu",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4029-862169a553252fa3.webp",
+    "date_added": "2026-10-22"
   }
 ]
