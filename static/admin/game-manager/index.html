@@ -181,21 +181,24 @@ nextUniqueGameId=function(){
  const ids=[...baseline,...games,...(saved.games||[])].map(g=>Number(g.id)).filter(Number.isSafeInteger);
  return Math.max(0,...ids)+1;
 };
+// Cache the baseline identity index once; it is immutable for this page load.
+const tgeBaselineDraftIndex=new Map(baseline.map(g=>[tgeIdentity(g),JSON.stringify(g)]));
+const tgeBaselineCollectionIndex=new Map(baselineCollections.map(c=>[c.slug,JSON.stringify(c)]));
 persistDrafts=function(){
  try{
   const previous=JSON.parse(localStorage.getItem(STAGE2_KEY)||'{}');
-  // Compare by identity; a changed title or link is still an edit to the selected entry.
   const draftByIdentity=new Map(tgeUniqueDrafts(previous.games||[]).map(g=>[tgeDraftKey(g),g]));
   const out=[];
-  for(const g of games){const base=baseline.find(b=>tgeIdentity(b)===tgeIdentity(g));
-   if(!base||JSON.stringify(base)!==JSON.stringify(g))out.push(g);
+  const current=new Set();
+  for(const g of games){
+   const key=tgeIdentity(g);current.add(key);
+   if(tgeBaselineDraftIndex.get(key)!==JSON.stringify(g))out.push(g);
   }
-  // Retain drafts not currently represented (e.g. unresolved legacy conflicts).
-  const current=new Set(games.map(tgeIdentity));
   for(const [key,g] of draftByIdentity)if(!current.has(key))out.push(g);
-  const coll=collections.filter(c=>!baselineCollections.some(b=>b.slug===c.slug&&JSON.stringify(b)===JSON.stringify(c)));
+  const coll=collections.filter(c=>tgeBaselineCollectionIndex.get(c.slug)!==JSON.stringify(c));
   localStorage.setItem(STAGE2_KEY,JSON.stringify({games:tgeUniqueDrafts(out),collections:coll}));
- }catch(e){alert('Could not save local drafts: '+e.message)}
+  return true;
+ }catch(e){alert('Could not save local drafts: '+e.message);return false}
 };
 saveGame=function(){
  const title=$('f_title').value.trim(),link=$('f_link').value.trim(),category=$('f_category').value;
@@ -214,7 +217,8 @@ saveGame=function(){
   stored.games=tgeUniqueDrafts([...(stored.games||[]).filter(x=>tgeIdentity(x)!==tgeIdentity(before)),g]);
   localStorage.setItem(STAGE2_KEY,JSON.stringify(stored));
  }
- $('gameDialog').close();tgeEditingIndex=null;refreshOptions();render();persistDrafts();
+ if(!persistDrafts())return;
+ $('gameDialog').close();tgeEditingIndex=null;refreshOptions();render();
  alert('Saved locally in this browser. Nothing has been published.');
 };
 stage2Import=function(input){
