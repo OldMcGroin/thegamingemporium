@@ -51684,5 +51684,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4003-344dfe3d702b8bd7.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4006,
+    "title": "Tekken 3 Recompilation for Linux",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Tekken-3-for-Linux",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4006-8ec0faa5d01011fe.webp",
+    "date_added": "2026-10-22"
   }
 ]
