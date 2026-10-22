@@ -52391,5 +52391,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4047-6b47ce6776a8259f.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4049,
+    "title": "Resident Evil Outbreak 1 & 2 with Online Play in Browser",
+    "category": "browser-based",
+    "link": "https://outbreakweb.com/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4049-e403beec764976a0.webp",
+    "date_added": "2026-10-23"
   }
 ]
