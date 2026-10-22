@@ -51719,5 +51719,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4005-e47a64361ac802fa.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4008,
+    "title": "The Warriors Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Ryubara/coney",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4008-73603af20d47b171.webp",
+    "date_added": "2026-10-22"
   }
 ]
