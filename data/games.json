@@ -52071,5 +52071,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4033-98c2518341dbb94a.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4032,
+    "title": "Tekken Tag Tournament 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thatcalikid760/TTT2-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4032-12023aa338113d96.webp",
+    "date_added": "2026-10-22"
   }
 ]
