@@ -51975,5 +51975,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4020-f0878aa9f419e323.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4027,
+    "title": "Dino Crisis - Modern Edition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Rotmill/Dino-Crisis-Modern-Edition",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4027-3b541ae90a6cbbe8.webp",
+    "date_added": "2026-10-22"
   }
 ]
