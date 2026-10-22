@@ -103,16 +103,24 @@
     button.disabled=true;
     button.textContent='Publishing...';
     try{
-      const response=await fetch('/admin/game-manager/publish',{
-        method:'POST',
-        credentials:'same-origin',
-        headers:{'Content-Type':'application/json'},
+      const send=()=>fetch('/admin/game-manager/publish',{
+        method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},
         body:JSON.stringify(request)
       });
-      const result=await response.json();
-      if(!response.ok||!result.ok){
-        throw new Error(result.message||'Publishing failed');
+      let response=await send();
+      let result=await response.json();
+      if(response.status===409&&result.code==='DUPLICATE_PROJECT_URL'){
+        const matches=Array.isArray(result.matches)?result.matches:[];
+        const details=matches.map(g=>'• '+g.title+' (ID '+g.id+')').join('\n');
+        if(!window.confirm('⚠️ Duplicate project URL found on GitHub!\n\n'+
+          details+'\n\nThis would create another listing with the same project URL.\n\nPublish Anyway to '+publishBranch+'?')){
+          button.textContent='Publish this '+change.type.toLowerCase();button.disabled=false;return;
+        }
+        request.allowDuplicateUrl=true;
+        // The server checks current GitHub data again before updating the branch.
+        response=await send();result=await response.json();
       }
+      if(!response.ok||!result.ok)throw new Error(result.message||'Publishing failed');
       publishedThisSession.add(publishKey(change));
       button.textContent='Published to '+publishBranch;
       alert('Published to '+publishBranch+'. Refresh after the deployment completes.');
