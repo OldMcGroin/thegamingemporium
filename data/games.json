@@ -51252,5 +51252,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3977-1f85f72f2b2fd4bb.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3978,
+    "title": "Table Tennis Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Table-Tennis-Rockstar-Linux",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sport",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3978-6706631bc0eb5911.webp",
+    "date_added": "2026-10-22"
   }
 ]
