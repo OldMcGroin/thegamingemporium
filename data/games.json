@@ -51508,5 +51508,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3991-68e61eb01636203f.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3997,
+    "title": "Super Mario Maker 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/smm2recomp/smm2recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "level-builder",
+    "genre2": "platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3997-dcaae2bef1a44731.webp",
+    "date_added": "2026-10-22"
   }
 ]
