@@ -51428,5 +51428,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3988-fdc8325eb06e56d1.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3989,
+    "title": "Torchlight Rekindled fir Android",
+    "category": "android-ports",
+    "link": "https://github.com/GreenSwampDweller/torchlight-rekindled",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "rpg",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3989-5571c85f4617d032.webp",
+    "date_added": "2026-10-22"
   }
 ]
