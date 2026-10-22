@@ -51540,5 +51540,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3996-e9efab2cb16c919f.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3995,
+    "title": "Forza Motorsport 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3995-e2d28e1590299713.webp",
+    "date_added": "2026-10-22"
   }
 ]
