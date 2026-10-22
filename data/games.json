@@ -51959,5 +51959,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4019-1e8993ca20f238fa.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4020,
+    "title": "Eternal Darkness: Sanity's Requiem Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/griches/EternalDarknessRecomp",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4020-f0878aa9f419e323.webp",
+    "date_added": "2026-10-22"
   }
 ]
