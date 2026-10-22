@@ -51815,5 +51815,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4011-8315696a68c6cb66.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4010,
+    "title": "SoulCalibur Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/enrique363/voldorium",
+    "video_link": "",
+    "platform": "Sega Dreamcast",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4010-bb6b97c3aa95fac8.webp",
+    "date_added": "2026-10-22"
   }
 ]
