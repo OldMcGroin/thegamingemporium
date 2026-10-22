@@ -52039,5 +52039,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4024-d2d6ad2d649ce28d.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4023,
+    "title": "Aidyn Chronicles: The First Mage Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/spitzdano/AidynReChronicled",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4023-2bc49458a7846685.webp",
+    "date_added": "2026-10-22"
   }
 ]
