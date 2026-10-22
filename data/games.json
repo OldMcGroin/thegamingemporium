@@ -52151,5 +52151,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4028-0ec855c7600a4cb6.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4038,
+    "title": "Sonic Riders Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/teclilla18/sonic-riders-recomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4038-d0afd0cc6baecbb9.webp",
+    "date_added": "2026-10-22"
   }
 ]
