@@ -51380,5 +51380,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3985-8865a82c0551774b.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3986,
+    "title": "Halo 64 with Crossplay",
+    "category": "console-ports",
+    "link": "https://github.com/JackTulli/halo-64",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3986-488c4ab5433625fe.webp",
+    "date_added": "2026-10-22"
   }
 ]
