@@ -87,6 +87,7 @@ function validate(type,r){
   if(typeof r.name!=='string'||!r.name.trim()||r.name.length>250)return 'Invalid collection name';
   if(typeof r.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150)return 'Invalid collection slug';
   if(typeof r.enabled!=='boolean')return 'Invalid enabled flag';
+  if(r.image!==undefined&&r.image!=='/Images/Games/'+r.slug+'-collection.webp')return 'Invalid collection image path';
   if(r.weight!==0&&r.weight!=='top'&&!(Number.isSafeInteger(r.weight)&&r.weight>=0))return 'Invalid collection weight';
  }
  if(JSON.stringify(r).length>25000)return 'Record is too large';
@@ -123,9 +124,10 @@ export async function onRequestPost({request,env}){
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
  const imageUpload=body.imageUpload;
  if(imageUpload!==undefined){
-  if(type!=='game'||!obj(imageUpload)||imageUpload.mime!=='image/webp'||typeof imageUpload.base64!=='string'||!/^[A-Za-z0-9+/]+={0,2}$/.test(imageUpload.base64)||imageUpload.base64.length>1400000||imageUpload.base64.length<40)return reply({ok:false,message:'Invalid or oversized WebP upload.'},400);
-  if(!/^\/Images\/Games\/manager-[1-9][0-9]*-[a-f0-9]{16}\.webp$/.test(record.image||''))return reply({ok:false,message:'Invalid image destination.'},400);
-  if(!record.image.startsWith('/Images/Games/manager-'+record.id+'-'))return reply({ok:false,message:'Image must belong to this game ID.'},400);
+  if(!obj(imageUpload)||imageUpload.mime!=='image/webp'||typeof imageUpload.base64!=='string'||!/^[A-Za-z0-9+/]+={0,2}$/.test(imageUpload.base64)||imageUpload.base64.length>1400000||imageUpload.base64.length<40)return reply({ok:false,message:'Invalid or oversized WebP upload.'},400);
+  if(type==='game'){
+   if(!/^\/Images\/Games\/manager-[1-9][0-9]*-[a-f0-9]{16}\.webp$/.test(record.image||'')||!record.image.startsWith('/Images/Games/manager-'+record.id+'-'))return reply({ok:false,message:'Invalid game image destination.'},400);
+  }else if(record.image!=='/Images/Games/'+record.slug+'-collection.webp')return reply({ok:false,message:'Invalid collection image destination.'},400);
   const head=atob(imageUpload.base64.slice(0,32));
   if(!head.startsWith('RIFF')||head.slice(8,12)!=='WEBP')return reply({ok:false,message:'Uploaded data is not a WebP image.'},400);
  }
@@ -189,7 +191,7 @@ export async function onRequestPost({request,env}){
    const imgPath='static'+record.image;
    // Reject any filename already present at the branch head, even if a
    // concurrent editor supplied a colliding name.
-   try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}
+   if(type==='game'){try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}}
    const imageBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:imageUpload.base64,encoding:'base64'})});
    entries.push({path:imgPath,mode:'100644',type:'blob',sha:imageBlob.sha});
   }

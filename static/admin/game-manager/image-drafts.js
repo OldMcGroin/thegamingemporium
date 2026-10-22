@@ -82,8 +82,26 @@ window.saveGame=async function(){
   alert('Artwork saved as a LOCAL draft. It will be uploaded only when you publish this game.');
  }catch(e){alert('Image was not saved: '+e.message)}
 };
+const originalSaveCollection=window.saveCollection;
+window.saveCollection=async function(){
+ const file=document.getElementById('c_image')?.files?.[0];
+ if(!file){originalSaveCollection();return;}
+ const name=document.getElementById('c_name').value.trim();
+ const collectionSlug=document.getElementById('c_slug').value||name.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+ if(!name||!collectionSlug||collections.some((c,i)=>i!==editingCollection&&c.slug===collectionSlug)){originalSaveCollection();return;}
+ try{
+  const base64=await convert(file);
+  const path='/Images/Games/'+collectionSlug+'-collection.webp';
+  await put(path,base64);
+  originalSaveCollection();
+  const c=collections.find(c=>c.slug===collectionSlug);
+  if(!c)throw Error('Collection draft was not found');
+  c.image=path;persistDrafts();renderCollections();
+  alert('Collection artwork saved locally. Publish the collection in Review & Publish to upload it.');
+ }catch(e){alert('Collection image was not saved: '+e.message)}
+};
 window.tgeGetImageUpload=async path=>{
- if(!path||!/^\/Images\/Games\/manager-[0-9]+-[a-f0-9]{16}\.webp$/.test(path))return null;
+ if(!path||!(/^\/Images\/Games\/manager-[0-9]+-[a-f0-9]{16}\.webp$/.test(path)||/^\/Images\/Games\/[a-z0-9]+(?:-[a-z0-9]+)*-collection\.webp$/.test(path)))return null;
  const base64=await get(path);
  return base64?{mime:'image/webp',base64}:null;
 };

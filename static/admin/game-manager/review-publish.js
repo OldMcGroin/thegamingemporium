@@ -95,9 +95,9 @@
     if(publishedThisSession.has(publishKey(change))){alert('Already published during this session.');return;}
     if(!confirmPublish(change))return;
     const request=preparePublishRequest(change);
-    if(request.type==='game'&&request.record.image&&window.tgeGetImageUpload){
+    if(request.record.image&&window.tgeGetImageUpload){
       try{const upload=await window.tgeGetImageUpload(request.record.image);if(upload)request.imageUpload=upload;
-      else if(request.record.image!==change.original?.image&&request.record.image.startsWith('/Images/Games/manager-'))throw Error('Image bytes are missing from this browser. Re-select the image and save the draft.');
+      else if(request.record.image!==change.original?.image)throw Error('Image bytes are missing from this browser. Re-select the image and save the draft.');
       }catch(e){alert('Artwork not ready: '+e.message);return;}
     }
     button.disabled=true;
