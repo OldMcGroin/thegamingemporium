@@ -51268,5 +51268,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3978-6706631bc0eb5911.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3979,
+    "title": "Custers Revenge Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cupid-blip/custer/releases/tag/beta",
+    "video_link": "",
+    "platform": "Atari",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3979-14612dd0cdfaa963.webp",
+    "date_added": "2026-10-22"
   }
 ]
