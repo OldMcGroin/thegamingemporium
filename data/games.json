@@ -51231,7 +51231,7 @@
     "genre1": "adventure",
     "genre2": "rpg",
     "collection": "",
-    "ai_usage": "",
+    "ai_usage": "heavy",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-3976-3923242dae5306a6.webp",
@@ -51587,6 +51587,22 @@
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-3998-e26679f5c9fde117.webp",
+    "date_added": "2026-10-22"
+  },
+  {
+    "id": 3999,
+    "title": "Ace Combat 3: Electrosphere for Android",
+    "category": "android-ports",
+    "link": "https://github.com/vzepec/ac3-decomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3999-6693ce324d47935e.webp",
     "date_added": "2026-10-22"
   }
 ]
