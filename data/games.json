@@ -51751,5 +51751,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4007-358b195836d7a4ec.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4009,
+    "title": "2014 FIFA World Cup Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HossEz/fifa-world-cup-2014-recompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4009-3ae3638e5862e994.webp",
+    "date_added": "2026-10-22"
   }
 ]
