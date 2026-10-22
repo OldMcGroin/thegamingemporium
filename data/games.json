@@ -52167,5 +52167,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4038-d0afd0cc6baecbb9.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4037,
+    "title": "Crash of the Titans Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/VitoMiguelF/crashott-pc",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "platformer",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4037-0e3f1f1987a69838.webp",
+    "date_added": "2026-10-22"
   }
 ]
