@@ -51831,5 +51831,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4010-bb6b97c3aa95fac8.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4014,
+    "title": "Folklore Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mava-b/folklore-decomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4014-19a9b9fb5f6894a5.webp",
+    "date_added": "2026-10-22"
   }
 ]
