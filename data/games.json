@@ -51524,5 +51524,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3997-dcaae2bef1a44731.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3996,
+    "title": "Super Mario All-Stars Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://supermarioallstars.tanookistudios.com/",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3996-e9efab2cb16c919f.webp",
+    "date_added": "2026-10-22"
   }
 ]
