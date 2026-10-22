@@ -51204,5 +51204,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3974-11028c0a2fdb9a17.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3975,
+    "title": "DriveClub Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/OverkillLabs3/driveclub-recomp",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3975-88650bd46be9070a.webp",
+    "date_added": "2026-10-22"
   }
 ]
