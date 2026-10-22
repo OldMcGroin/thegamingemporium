@@ -52375,5 +52375,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4048-8148f57e98a9d6fb.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4047,
+    "title": "Skies of Arcadia Legends Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4047-6b47ce6776a8259f.webp",
+    "date_added": "2026-10-23"
   }
 ]
