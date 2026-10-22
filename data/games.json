@@ -52263,5 +52263,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4039-51261623d46a1e29.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4041,
+    "title": "Super Smash Bros. Ultimate PlayStation 4 Port",
+    "category": "console-ports",
+    "link": "https://github.com/iHaiDeeZ/SSBU",
+    "video_link": "",
+    "platform": "",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4041-b3ecdebb6216e282.webp",
+    "date_added": "2026-10-22"
   }
 ]
