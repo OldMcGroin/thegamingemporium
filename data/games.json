@@ -51767,5 +51767,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4009-3ae3638e5862e994.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4013,
+    "title": "Pokémon HeartGold and SoulSilver Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ClickingMaster/pokeheartgold-single-screen",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4013-9ca9a468ca7063e2.webp",
+    "date_added": "2026-10-22"
   }
 ]
