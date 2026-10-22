@@ -52199,5 +52199,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4036-9c82c961ce2e6efc.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4035,
+    "title": "Cartridge - A Launcher for Decomp, Recomp and Remake PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TriwindBryan/cartridge",
+    "video_link": "",
+    "platform": "Multiple Platforms",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4035-1683aadd6d227eec.webp",
+    "date_added": "2026-10-22"
   }
 ]
