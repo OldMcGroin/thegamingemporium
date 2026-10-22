@@ -51156,5 +51156,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3969-9b7aea7b9b4bf69a.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3971,
+    "title": "Super Smash Bros. Ultimate Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://denkishi.github.io/opensmash-site/",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3971-81f9a89cfa03b8e5.webp",
+    "date_added": "2026-10-22"
   }
 ]
