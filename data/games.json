@@ -52327,5 +52327,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4045-1e49bbe6e3c7d116.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4044,
+    "title": "Monster Hunter Tri Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/krisztsa/OceanTriRecomp",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4044-b91135fb1f2d3206.webp",
+    "date_added": "2026-10-22"
   }
 ]
