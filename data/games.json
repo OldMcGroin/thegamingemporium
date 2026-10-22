@@ -52424,5 +52424,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4050-04120ca2e5c073d7.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4051,
+    "title": "Super Mario Bros. 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Adoregabriel2005/mushroomrecompiled",
+    "video_link": "",
+    "platform": "NES",
+    "genre1": "Platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4051-f3c3c9fc8a7d9c6f.webp",
+    "date_added": "2026-10-23"
   }
 ]
