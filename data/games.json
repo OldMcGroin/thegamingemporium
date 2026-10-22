@@ -51943,5 +51943,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4021-efb78849e78cdb04.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4019,
+    "title": "Killer Instinct 1 & 2 Recompilations",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thefixinhixon/UltraCombo",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4019-1e8993ca20f238fa.webp",
+    "date_added": "2026-10-22"
   }
 ]
