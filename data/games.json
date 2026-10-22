@@ -52311,5 +52311,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4043-fdf0622a8cedefca.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4045,
+    "title": "Monster Hunter Tri for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Kiridor123/OceanTriRecomp-Android/releases",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4045-1e49bbe6e3c7d116.webp",
+    "date_added": "2026-10-22"
   }
 ]
