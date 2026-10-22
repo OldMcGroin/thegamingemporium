@@ -51220,5 +51220,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3975-88650bd46be9070a.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3976,
+    "title": "The Legend of Zelda: Breath of the Wild Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Revivedx/SavageWindRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "adventure",
+    "genre2": "rpg",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3976-3923242dae5306a6.webp",
+    "date_added": "2026-10-22"
   }
 ]
