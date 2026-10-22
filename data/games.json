@@ -52135,5 +52135,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4029-862169a553252fa3.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4028,
+    "title": "SSX Tricky Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/DevCrashDay/OpenTrickyNX",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sports",
+    "genre2": "racing",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4028-0ec855c7600a4cb6.webp",
+    "date_added": "2026-10-22"
   }
 ]
