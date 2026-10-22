@@ -52279,5 +52279,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4041-b3ecdebb6216e282.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4042,
+    "title": "Super Smash Bros. Brawl Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/josiahg2502-glitch/BrawlRecompiled",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4042-e5f2c11fff672210.webp",
+    "date_added": "2026-10-22"
   }
 ]
