@@ -51072,5 +51072,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3966-c842824133855c48.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3967,
+    "title": "Gran Turismo 4 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MrGoodGuy2144/OpenGT4",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3967-4c7ae59fcd557f22.webp",
+    "date_added": "2026-10-22"
   }
 ]
