@@ -51460,5 +51460,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3990-512cbd6c7ec8a474.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3993,
+    "title": "The Legend of Zelda: Link's Awakening for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Nycolazs/LASRecomp-Android-Plus",
+    "video_link": "",
+    "platform": "",
+    "genre1": "",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3993-e040282f356ffc86.webp",
+    "date_added": "2026-10-22"
   }
 ]
