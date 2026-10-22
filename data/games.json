@@ -51620,5 +51620,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4000-6b2b6b1abe658c8c.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4002,
+    "title": "Downtown no Gaki no Tsukai ya Arahende!! Zettai ni Tsukamatte wa Ikenai Gasu Kurobikari Land Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/trrrrrrrrrree/gaki-kurobikari-recomp",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "action",
+    "genre2": "platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4002-57f78516629bcefb.webp",
+    "date_added": "2026-10-22"
   }
 ]
