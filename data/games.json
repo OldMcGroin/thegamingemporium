@@ -52295,5 +52295,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4042-e5f2c11fff672210.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4043,
+    "title": "Dead or Alive Xtreme 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hibikifukui22/Dead-or-Alive-Xtreme-2-Recompilation",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "racing",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4043-fdf0622a8cedefca.webp",
+    "date_added": "2026-10-22"
   }
 ]
