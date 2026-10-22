@@ -51700,5 +51700,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4006-8ec0faa5d01011fe.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4005,
+    "title": "FIFA 09 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ChunchunQ/fifa09-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sport",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4005-e47a64361ac802fa.webp",
+    "date_added": "2026-10-22"
   }
 ]
