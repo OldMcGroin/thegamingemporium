@@ -5,67 +5,70 @@
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Goldeneye",
     "slug": "goldeneye",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Gran Turismo 2",
     "slug": "gran-turismo-2",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Super Mario 64",
     "slug": "super-mario-64",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Animal Crossing",
     "slug": "animal-crossing",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Apocalypse",
     "slug": "apocalypse",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Banjo-Kazooie",
     "slug": "banjo-kazooie",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "BattleTanx",
     "slug": "battletanx",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Castlevania 64",
     "slug": "castlevania-64",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Castlevania Symphony of the Night",
     "slug": "castlevania-symphony-of-the-night",
     "enabled": true,
     "weight": 0
   },
-    {
+  {
     "name": "Launchers and other Resources",
     "slug": "launchers",
     "enabled": true,
     "weight": "top"
+  },
+  {
+    "name": "Geometry Wars 2",
+    "slug": "geometry-wars-2",
+    "weight": 0,
+    "enabled": true
   }
-
-
-
 ]
