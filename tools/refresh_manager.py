@@ -16,7 +16,7 @@ def replace_array(html, variable, records):
     matches = list(re.finditer(pattern, html, flags=re.S))
     if len(matches) != 1:
         raise RuntimeError(f'Expected exactly one {variable} embedded array, got {len(matches)}')
-    serialized = json.dumps(records, ensure_ascii=False, separators=(',', ':')).replace('<', '\u003c').replace('>', '\u003e').replace('&', '\u0026')
+    serialized = json.dumps(records, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
     m = matches[0]
     return html[:m.start(2)] + serialized + html[m.end(2):]
 
