@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Advance Wars Returns 2",
+    "title": "Advance Wars Returns",
     "category": "rom-hacks",
     "link": "https://www.romhacking.net/hacks/6012/",
     "genre1": "strategy",
@@ -51056,20 +51056,5 @@
     "weight": "",
     "collection": "",
     "ai_usage": ""
-  },
-  {
-    "id": 3966,
-    "title": "Test",
-    "category": "console-to-pc-port",
-    "link": "https://www.romhacking.net/hacks/6012/",
-    "video_link": "",
-    "platform": "",
-    "genre1": "",
-    "genre2": "",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "date_added": "2026-10-22"
   }
 ]
