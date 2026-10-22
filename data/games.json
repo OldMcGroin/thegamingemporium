@@ -51316,5 +51316,20 @@
     "hidden": false,
     "image": "/Images/Games/manager-3981-c503936f2686be8f.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3982,
+    "title": "TGE Duplicate URL Test",
+    "category": "decompilations-recompilations",
+    "link": "https://toadfangames.itch.io/dr-mario-mania",
+    "video_link": "",
+    "platform": "",
+    "genre1": "",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "date_added": "2026-10-22"
   }
 ]
