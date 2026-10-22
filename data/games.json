@@ -51236,5 +51236,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3976-3923242dae5306a6.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3977,
+    "title": "Stuntman: Ignition Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/giangra/stuntdouble-reignition",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "racing",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3977-1f85f72f2b2fd4bb.webp",
+    "date_added": "2026-10-22"
   }
 ]
