@@ -52055,5 +52055,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4023-2bc49458a7846685.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4033,
+    "title": "Def Jam: Fight for NY Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vyanhursky/DefJamFFNY-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4033-98c2518341dbb94a.webp",
+    "date_added": "2026-10-22"
   }
 ]
