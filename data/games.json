@@ -52343,5 +52343,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4044-b91135fb1f2d3206.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4046,
+    "title": "WWE 2K16 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/itsbybanshee/wwe2k16-pc",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4046-89dcd19884e677b0.webp",
+    "date_added": "2026-10-22"
   }
 ]
