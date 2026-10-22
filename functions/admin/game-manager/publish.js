@@ -172,11 +172,15 @@ export async function onRequestPost({request,env}){
   const ref=await github(env,refPath);
   const head=ref.object?.sha;
   if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
-  const parent=await github(env,'git/commits/'+head);
+  // Independent read-only checks can run together. Both must succeed before
+  // creating blobs or attempting any branch update.
+  const [parent,headFile]=await Promise.all([
+   github(env,'git/commits/'+head),
+   github(env,path+'?ref='+encodeURIComponent(head))
+  ]);
   const baseTree=parent.tree?.sha;
   if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
   // The data file must still be the version checked for record conflicts.
-  const headFile=await github(env,path+'?ref='+encodeURIComponent(head));
   if(headFile.sha!==file.sha)return reply({ok:false,message:'Game data changed during publishing. Refresh and try again.'},409);
   const entries=[];
   const jsonBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
