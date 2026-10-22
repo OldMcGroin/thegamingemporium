@@ -52231,5 +52231,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4034-68fe5b775f6ff370.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4040,
+    "title": "Geometry Wars: Retro Evolved 2 PC Port Plus",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/omenhachi/geometry-wars-2-pc-plus",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4040-26a40290d8ca576f.webp",
+    "date_added": "2026-10-22"
   }
 ]
