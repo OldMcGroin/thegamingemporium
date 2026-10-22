@@ -52087,5 +52087,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4032-12023aa338113d96.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4031,
+    "title": "Midnight Club 3: DUB Edition Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/laureladastra/mcdub3-nx",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4031-a78c3196ffe26842.webp",
+    "date_added": "2026-10-22"
   }
 ]
