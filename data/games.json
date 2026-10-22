@@ -51783,5 +51783,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4013-9ca9a468ca7063e2.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4012,
+    "title": "Animal Crossing: New Horizons Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Nycolazs/ACNHRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4012-a96b10996e3170fd.webp",
+    "date_added": "2026-10-22"
   }
 ]
