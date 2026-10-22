@@ -51332,5 +51332,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3984-26265d2786c08fb3.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3983,
+    "title": "Luigi's Mansion Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rob646464/luigis-mansion-recompiled",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3983-31669832251d40de.webp",
+    "date_added": "2026-10-22"
   }
 ]
