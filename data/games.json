@@ -51476,5 +51476,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3993-e040282f356ffc86.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3992,
+    "title": "Genma Onimusha PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rafaelkenedy/genma-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3992-f77fe33b887dc307.webp",
+    "date_added": "2026-10-22"
   }
 ]
