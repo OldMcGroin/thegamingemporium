@@ -52407,5 +52407,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4049-e403beec764976a0.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4050,
+    "title": "Cyberpunk 2077 in Browser",
+    "category": "browser-based",
+    "link": "https://cyberpunk2077.lol/game?ioShared=1&ioSharedMB=128&ioInflight=4&ioPersist=1&ioPersistMB=6144&binkRecycle=1&psoWarmK=12&skipIntro=1&ioLookahead=16",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4050-04120ca2e5c073d7.webp",
+    "date_added": "2026-10-23"
   }
 ]
