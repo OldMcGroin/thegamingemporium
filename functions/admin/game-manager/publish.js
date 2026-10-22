@@ -54,6 +54,23 @@ async function readFile(env,path){
  const list=JSON.parse(new TextDecoder().decode(from64(encoded.replace(/\s/g,''))));if(!Array.isArray(list))throw Error('Unexpected JSON format');
  return {sha:meta.sha,list};
 }
+// Compare project destinations, not URL presentation (fragments, default ports,
+// trailing slashes, host casing). Preserve meaningful paths and query strings.
+function normalizedProjectUrl(value){
+ try{
+  const url=new URL(String(value||'').trim());
+  if(!['http:','https:'].includes(url.protocol))return '';
+  url.hash='';
+  url.pathname=url.pathname.replace(/\/+$/,'')||'/';
+  return url.href.replace(/\/$/,'');
+ }catch{return ''}
+}
+function duplicateProjectUrls(list,record){
+ const wanted=normalizedProjectUrl(record.link);
+ if(!wanted)return [];
+ return list.filter(g=>g&&g.id!==record.id&&normalizedProjectUrl(g.link)===wanted)
+  .map(g=>({id:g.id,title:String(g.title||'Untitled game').slice(0,250)})).slice(0,10);
+}
 const validUrl=v=>{try{const u=new URL(v);return ['http:','https:'].includes(u.protocol)}catch{return false}};
 function validate(type,r){
  if(!obj(r))return 'Record must be an object';
@@ -138,6 +155,14 @@ export async function onRequestPost({request,env}){
     if(Object.prototype.hasOwnProperty.call(found[0],'date_added'))list[idx].date_added=found[0].date_added;
     else delete list[idx].date_added;
    }
+  }
+  // Check the freshest GitHub data before any new commit is generated.
+  // Edits that retain their original project URL are exempt: old catalogue
+  // duplicates must not block unrelated corrections to an existing game.
+  if(type==='game'&&(action==='create'||normalizedProjectUrl(before?.link)!==normalizedProjectUrl(record.link))){
+   const matches=duplicateProjectUrls(file.list,record);
+   if(matches.length&&body.allowDuplicateUrl!==true)
+    return reply({ok:false,code:'DUPLICATE_PROJECT_URL',message:'This project URL is already used by another game. Confirm Publish Anyway to proceed.',matches},409);
   }
   const ids=new Set();for(const item of list){const k=item?.[key];if(ids.has(k))return reply({ok:false,message:'Duplicate identifiers detected. No changes made.'},409);ids.add(k)}
   // Create ONE Git commit containing both the updated JSON and the artwork.
