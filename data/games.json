@@ -51172,5 +51172,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3971-81f9a89cfa03b8e5.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3973,
+    "title": "The Lord of the Rings: Battle for Middle Earth 2 Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Open-BFME/openbfme-godot/releases",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3973-b41572d8056f9fc4.webp",
+    "date_added": "2026-10-22"
   }
 ]
