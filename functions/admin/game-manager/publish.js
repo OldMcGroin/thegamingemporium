@@ -140,7 +140,7 @@ export async function onRequestPost({request,env}){
   const found=list.filter(x=>x?.[key]===id);
   if(found.length>1)return reply({ok:false,message:'Duplicate identifiers already exist in GitHub. No changes made.'},409);
   if(action==='create'){
-   if(found.length)return reply({ok:false,message:'This ID or slug is already in use. Refresh your drafts before publishing.'},409);
+   if(found.length)return reply({ok:false,code:'IDENTIFIER_CONFLICT',message:type==='game'?('Game ID '+id+' is already assigned on GitHub to: '+String(found[0].title||'(untitled)')+'. Your local catalogue is out of date. Your draft has NOT been published or overwritten. Export your drafts before refreshing; this ID must be reassigned safely, including its artwork.') : ('Collection slug '+id+' is already in use on GitHub. No changes made.'),conflict:{id,title:type==='game'?String(found[0].title||''):String(found[0].name||'')}},409);
    // Only newly created games receive a publication date. Use the Irish
    // calendar date on the server, not the phone's clock or a draft value.
    if(type==='game')record.date_added=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Dublin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
