@@ -51991,5 +51991,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4027-3b541ae90a6cbbe8.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4026,
+    "title": "Burnout 3: Takedown Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/xenophobentx/takedawn",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4026-7ccf65593bf3c663.webp",
+    "date_added": "2026-10-22"
   }
 ]
