@@ -51364,5 +51364,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3982-e37b0db4a9ab24fd.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3985,
+    "title": "inFamous Enhanced Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ibrahimpuri/inFamous-PC-Enhanced",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3985-8865a82c0551774b.webp",
+    "date_added": "2026-10-22"
   }
 ]
