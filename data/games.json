@@ -51188,5 +51188,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3973-b41572d8056f9fc4.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3974,
+    "title": "Metal Gear Solid Mobile PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LeithSilver/mgsm",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "stealth",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3974-11028c0a2fdb9a17.webp",
+    "date_added": "2026-10-22"
   }
 ]
