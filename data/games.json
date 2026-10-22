@@ -51735,5 +51735,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4008-73603af20d47b171.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4007,
+    "title": "F.E.A.R. Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/infriker/fear-nx",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4007-358b195836d7a4ec.webp",
+    "date_added": "2026-10-22"
   }
 ]
