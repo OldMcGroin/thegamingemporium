@@ -51492,5 +51492,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3992-f77fe33b887dc307.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3991,
+    "title": "Killzone Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/drakolordx7/KillzoneRecomp",
+    "video_link": "https://youtu.be/ozf4oqg4Pg0?si=UOu-nW1Ei2s0VYdY",
+    "platform": "PlayStation 2",
+    "genre1": "first person shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3991-68e61eb01636203f.webp",
+    "date_added": "2026-10-22"
   }
 ]
