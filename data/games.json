@@ -51124,5 +51124,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3972-ac23b87ed48313fb.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3970,
+    "title": "Illusion of Gaia PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mrOt4/babel-recomp",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3970-a6bef74b91ecb118.webp",
+    "date_added": "2026-10-22"
   }
 ]
