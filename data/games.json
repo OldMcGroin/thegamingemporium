@@ -52183,5 +52183,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4037-0e3f1f1987a69838.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 4036,
+    "title": "Ace Combat Infinity Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/The-OPERATIONS-Team/Ace-combat-infinity-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4036-9c82c961ce2e6efc.webp",
+    "date_added": "2026-10-22"
   }
 ]
