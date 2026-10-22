@@ -51396,5 +51396,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-3986-488c4ab5433625fe.webp",
     "date_added": "2026-10-22"
+  },
+  {
+    "id": 3987,
+    "title": "Super Mario Sunshine PC Port Launcher for ARM64 Android Handhelds",
+    "category": "android-ports",
+    "link": "https://github.com/chasem-dev/sms-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-3987-a053ed0e22da9007.webp",
+    "date_added": "2026-10-22"
   }
 ]
