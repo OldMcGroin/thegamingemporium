@@ -52788,5 +52788,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4072-4dcf85b9ed311a6d.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4073,
+    "title": "Timesplitters Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GTTeancum/Timesplitters",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4073-be89ded55bb705b4.webp",
+    "date_added": "2026-10-23"
   }
 ]
