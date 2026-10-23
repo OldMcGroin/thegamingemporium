@@ -52602,5 +52602,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4061-e7755f1fc3631e02.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4064,
+    "title": "Wipeout Pure Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/erreib/pure-recomp",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4064-944a20a3763c9568.webp",
+    "date_added": "2026-10-23"
   }
 ]
