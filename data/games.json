@@ -53127,5 +53127,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4094-57c42ec4e8199cb9.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4093,
+    "title": "Alien Resurrection Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DiegoDeDios/AlienReRecomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4093-2c5ab8c18fd21546.webp",
+    "date_added": "2026-10-23"
   }
 ]
