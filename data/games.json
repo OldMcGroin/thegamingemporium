@@ -52887,5 +52887,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4079-84e3b2c5a97bd708.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4078,
+    "title": "Soulcalibur 2 HD Online Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n0madic/Soulcalibur2HD-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4078-866714386783f0b5.webp",
+    "date_added": "2026-10-23"
   }
 ]
