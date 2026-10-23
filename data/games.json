@@ -52740,5 +52740,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4069-da4834e461ce5e6e.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4070,
+    "title": "White Knight Chronicles II Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/WK2D/White-Knight-Chronicles-2-Recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4070-f619039c701ddcf0.webp",
+    "date_added": "2026-10-23"
   }
 ]
