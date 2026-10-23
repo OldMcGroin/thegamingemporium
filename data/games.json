@@ -53015,5 +53015,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4085-41deb08954779623.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4087,
+    "title": "Darkwatch Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Clergyman0013/arizona-vamp-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4087-96e991b04dba0122.webp",
+    "date_added": "2026-10-23"
   }
 ]
