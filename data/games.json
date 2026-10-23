@@ -53175,5 +53175,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4098-adac5ec4e1cf253a.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4097,
+    "title": "Pirates of the Caribbean: At World's End Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElGuslml/PiratesAtWorldsEndRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4097-295b2848d86dbc0e.webp",
+    "date_added": "2026-10-23"
   }
 ]
