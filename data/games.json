@@ -53159,5 +53159,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4095-edc06eacec04b65f.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4098,
+    "title": "Downhill Domination PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/skuza-oss/downhill-revived",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4098-adac5ec4e1cf253a.webp",
+    "date_added": "2026-10-23"
   }
 ]
