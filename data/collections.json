@@ -69,6 +69,7 @@
     "name": "Geometry Wars 2",
     "slug": "geometry-wars-2",
     "weight": 0,
-    "enabled": true
+    "enabled": true,
+    "image": "/Images/Games/geometry-wars-2-collection.webp"
   }
 ]
