@@ -39322,7 +39322,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-09-07",
-    "image": ""
+    "image": "",
+    "ai_usage": "light"
   },
   {
     "id": 2984,
@@ -39760,7 +39761,8 @@
     "video_link": "",
     "weight": "top",
     "date_added": "2026-09-13",
-    "collection": "launchers"
+    "collection": "launchers",
+    "ai_usage": "heavy"
   },
   {
     "id": 3020,
