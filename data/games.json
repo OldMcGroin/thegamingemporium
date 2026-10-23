@@ -52458,5 +52458,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4052-c144300e3a4dfbfe.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4053,
+    "title": "Gravity Rush Remastered PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LucaPazienza/gravityrush_pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4053-536f44af67d78bd6.webp",
+    "date_added": "2026-10-23"
   }
 ]
