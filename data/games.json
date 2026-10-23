@@ -52721,5 +52721,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4068-cc22afb26ee15951.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4069,
+    "title": "Gran Turismo 4 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/moesuito/gt4-staticrecomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4069-da4834e461ce5e6e.webp",
+    "date_added": "2026-10-23"
   }
 ]
