@@ -52951,5 +52951,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4084-b059891af8707a95.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4083,
+    "title": "Fist of the North Star: Lost Paradise PC Port",
+    "category": "console-to-pc-port",
+    "link": "https://github.com/ItalianKuze/port-ga-gotoku",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "rpg",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4083-0e44279d94a6618a.webp",
+    "date_added": "2026-10-23"
   }
 ]
