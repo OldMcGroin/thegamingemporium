@@ -99,5 +99,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-ocarina-of-time-collection.webp"
+  },
+  {
+    "name": "Dinosaur Planet",
+    "slug": "dinosaur-planet",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dinosaur-planet-collection.webp"
   }
 ]
