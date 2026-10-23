@@ -52538,5 +52538,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4057-e5a4738f45527d93.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4058,
+    "title": "Metal Gear Rising: Revengeance Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/tuancapoo/mgr-nx-deko",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4058-1b732cbc038aa178.webp",
+    "date_added": "2026-10-23"
   }
 ]
