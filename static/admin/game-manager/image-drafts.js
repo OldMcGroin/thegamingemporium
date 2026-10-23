@@ -15,28 +15,55 @@ function loadImage(file){
   let settled=false;
   function done(err){if(settled)return;settled=true;URL.revokeObjectURL(url);err?reject(err):resolve(img)}
   img.onload=()=>done(null);
-  img.onerror=()=>done(Error('Unable to decode this image on your device. Try exporting it as JPEG or PNG.'));
+  img.onerror=()=>done(Error('The browser could not open the temporary image URL.'));
   img.src=url;
  });
+}
+function readDataURL(file){
+ return new Promise((resolve,reject)=>{
+  const reader=new FileReader();
+  reader.onload=()=>resolve(String(reader.result));
+  reader.onerror=()=>reject(reader.error||Error('Unable to read image bytes from your device.'));
+  reader.readAsDataURL(file);
+ });
+}
+function loadDataURL(dataURL){
+ return new Promise((resolve,reject)=>{
+  const img=new Image();
+  img.onload=()=>resolve(img);
+  img.onerror=()=>reject(Error('The browser could not decode the image after reading its bytes.'));
+  img.src=dataURL;
+ });
+}
+async function decodeImage(file){
+ // Android gallery / file providers may expose a transient blob URL that fails
+ // when reopened. Reading the bytes once avoids a second provider access.
+ try{return await loadImage(file)}catch(firstError){
+  let dataURL;
+  try{dataURL=await readDataURL(file)}catch(readError){throw Error('Cannot read the selected image from Android storage: '+readError.message)}
+  try{return await loadDataURL(dataURL)}catch(secondError){
+   if(typeof createImageBitmap==='function'){
+    try{
+     const response=await fetch(dataURL);
+     const blob=await response.blob();
+     return await createImageBitmap(blob);
+    }catch(bitmapError){}
+   }
+   throw Error('This browser cannot decode the selected image, even after reading its bytes. Try choosing the image from Files instead of Gallery.');
+  }
+ }
 }
 async function convertBlob(file){
  validate(file);
  let source,close=()=>{};
- // The selected Google Photos image can already be decoded in the Original Image box,
- // even when Android's transient file provider fails on a second read.
- // Reuse that exact loaded HTMLImageElement before attempting to reopen the file.
+ // Reuse the existing game preview if it has already decoded successfully.
  const selected=document.getElementById('f_image')?.files?.[0];
  const shown=document.querySelector('#imagePreview img');
  if(selected===file&&shown?.complete&&shown.naturalWidth>0&&shown.naturalHeight>0){
   source=shown;
  }else{
-  try{
-   source=await loadImage(file);
-  }catch(e){
-   if(typeof createImageBitmap!=='function')throw e;
-   source=await createImageBitmap(file);
-   close=()=>source.close();
-  }
+  source=await decodeImage(file);
+  if(typeof ImageBitmap!=='undefined'&&source instanceof ImageBitmap)close=()=>source.close();
  }
  try{
   const width=source.naturalWidth||source.width,height=source.naturalHeight||source.height;
