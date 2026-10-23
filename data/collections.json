@@ -92,5 +92,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-majora-s-mask-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-ocarina-of-time-collection.webp"
   }
 ]
