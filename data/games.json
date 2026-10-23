@@ -52871,5 +52871,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4075-d20b35d50eac1251.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4079,
+    "title": "Monster Hunter Freedom Unite Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Dudux42/FreedomUnbound",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4079-84e3b2c5a97bd708.webp",
+    "date_added": "2026-10-23"
   }
 ]
