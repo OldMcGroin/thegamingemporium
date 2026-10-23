@@ -52652,5 +52652,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4062-da09368771f40461.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4065,
+    "title": "Metroid Dread Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4065-1bf0a6c897afa25e.webp",
+    "date_added": "2026-10-23"
   }
 ]
