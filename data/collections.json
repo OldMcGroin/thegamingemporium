@@ -78,5 +78,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/resident-evil-code-veronica-collection.webp"
+  },
+  {
+    "name": "InFamous Second Son",
+    "slug": "infamous-second-son",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/infamous-second-son-collection.webp"
   }
 ]
