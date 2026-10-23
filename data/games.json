@@ -53095,5 +53095,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4088-51f6cba37122183b.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4092,
+    "title": "TNA Impact! Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/dotGrx/TNA-IMPACT-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4092-b8a4798620a01368.webp",
+    "date_added": "2026-10-23"
   }
 ]
