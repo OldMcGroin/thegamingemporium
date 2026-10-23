@@ -100,6 +100,7 @@
       .then(function(payload){
         var rows = payload && payload.ok && Array.isArray(payload.top) ? payload.top : [];
         rows = rows.filter(function(row){ return lookupInfo(String(row && row.id || '')); });
+        rows = rows.slice(0, 50);
         var count = render(rows);
         setMessage(count ? '' : 'Nothing is rising strongly enough yet.');
         lastLoaded = Date.now();
