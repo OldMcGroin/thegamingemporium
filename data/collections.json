@@ -85,5 +85,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/infamous-second-son-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Majora's Mask",
+    "slug": "the-legend-of-zelda-majora-s-mask",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-majora-s-mask-collection.webp"
   }
 ]
