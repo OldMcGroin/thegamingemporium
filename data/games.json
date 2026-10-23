@@ -52586,5 +52586,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4060-c26aec1b9ca08aa2.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4061,
+    "title": "Pandora's Tower PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RecompPort/pandora-tower-pc",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4061-e7755f1fc3631e02.webp",
+    "date_added": "2026-10-23"
   }
 ]
