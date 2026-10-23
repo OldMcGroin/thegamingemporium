@@ -53191,5 +53191,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4097-295b2848d86dbc0e.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4096,
+    "title": "Ratchet & Clank (2016) PC port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/shehab4546/RatchetPort",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4096-597b3e377d164453.webp",
+    "date_added": "2026-10-23"
   }
 ]
