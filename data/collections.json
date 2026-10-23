@@ -71,5 +71,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/geometry-wars-2-collection.webp"
+  },
+  {
+    "name": "Resident Evil Code: Veronica",
+    "slug": "resident-evil-code-veronica",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/resident-evil-code-veronica-collection.webp"
   }
 ]
