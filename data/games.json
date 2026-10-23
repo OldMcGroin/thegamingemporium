@@ -53031,5 +53031,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4087-96e991b04dba0122.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4091,
+    "title": "Phantom Dust Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ZacheerKour/desert-breeze-dust",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "fighting",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4091-0e443bf70a6d7c57.webp",
+    "date_added": "2026-10-23"
   }
 ]
