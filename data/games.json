@@ -52668,5 +52668,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4065-1bf0a6c897afa25e.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4066,
+    "title": "Wario Land: Shake It! PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/santiagovalencia109/Wario-Land-Shake-It-Native-PC",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4066-94df2eeac7177b73.webp",
+    "date_added": "2026-10-23"
   }
 ]
