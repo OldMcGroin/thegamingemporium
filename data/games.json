@@ -52554,5 +52554,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4058-1b732cbc038aa178.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4059,
+    "title": "The Beatles: Rock Band Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mercurialw0rld/thebeatlesrockband-pcport",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4059-36c19bc46cc1c16e.webp",
+    "date_added": "2026-10-23"
   }
 ]
