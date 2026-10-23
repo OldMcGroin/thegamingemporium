@@ -52852,5 +52852,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4076-ce5a3d7ebf67e2e3.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4075,
+    "title": "Championship Manager 01/02 Bosman Edition Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/maxevans60/cm0102-bosman-edition",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "sports",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4075-4084c47842d4ecde.webp",
+    "date_added": "2026-10-23"
   }
 ]
