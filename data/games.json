@@ -52935,5 +52935,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4080-291c8730377adb54.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4084,
+    "title": "Tekken Tag Tournament 2 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4084-b059891af8707a95.webp",
+    "date_added": "2026-10-23"
   }
 ]
