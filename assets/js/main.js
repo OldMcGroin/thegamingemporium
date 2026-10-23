@@ -161,6 +161,27 @@ function initGameGrids(){
         var addedFilter = wrapper.querySelector('select[data-added-filter]');
         var platformFilter = wrapper.querySelector('select[data-platform-filter]');
         var aiFilter = wrapper.querySelector('select[data-ai-filter]');
+        var ratingMin = wrapper.querySelector('select[data-rating-min]');
+        var ratingData = new Map();
+        var ratingReady = false;
+        function ratingOf(card){
+          var el = card.querySelector('[data-rating-project]');
+          return el ? (ratingData.get(el.getAttribute('data-rating-project')) || null) : null;
+        }
+        if(ratingMin){
+          var keys = Array.from(new Set(cards.map(function(c){
+            var el = c.querySelector('[data-rating-project]');
+            return el ? el.getAttribute('data-rating-project') : '';
+          }).filter(Boolean)));
+          Promise.all(Array.from({length:Math.ceil(keys.length/40)},function(_,i){
+            return fetch('/api/ratings?projects='+encodeURIComponent(keys.slice(i*40,i*40+40).join(',')))
+              .then(function(r){if(!r.ok) throw new Error('Ratings unavailable');return r.json();});
+          })).then(function(responses){
+            responses.forEach(function(response){Object.keys(response.ratings||{}).forEach(function(key){ratingData.set(key,response.ratings[key]);});});
+            ratingReady=true;applySort();
+          }).catch(function(){ratingReady=false;});
+        }
+
         if(aiFilter){try{aiFilter.value=localStorage.getItem('tge_ai_filter')||'';}catch(e){}}
         var filterSummary = wrapper.querySelector('[data-filter-summary]');
         var loadMoreBtn = wrapper.querySelector('[data-load-more]');
@@ -489,7 +510,10 @@ function initGameGrids(){
             var ai = card.getAttribute('data-ai-usage') || 'unknown';
             var aiChoice = aiFilter ? aiFilter.value : '';
             var showAI = !aiChoice || (aiChoice === 'hide-heavy' ? ai !== 'heavy' : ai === aiChoice);
-            if(showGenre && showCategory && showPlatform && showAI && __passesAddedFilter(card)) matches.push(card);
+            var minimum = ratingMin ? Number(ratingMin.value || 0) : 0;
+            var rating = ratingOf(card);
+            var showRating = !minimum || (ratingReady && rating && Number(rating.count || 0) >= minimum && rating.average != null);
+            if(showGenre && showCategory && showPlatform && showAI && showRating && __passesAddedFilter(card)) matches.push(card);
           });
 
           var showCount = pageSize ? Math.min(visibleLimit, matches.length) : matches.length;
@@ -518,6 +542,19 @@ function initGameGrids(){
             var ta = (a.getAttribute('data-title')||'').toLowerCase();
             var tb = (b.getAttribute('data-title')||'').toLowerCase();
 
+            if(mode === 'rating-high' || mode === 'rating-low' || mode === 'rating-most'){
+              var ra = ratingOf(a), rb = ratingOf(b);
+              var ca = ra ? Number(ra.count || 0) : 0, cb = rb ? Number(rb.count || 0) : 0;
+              var ea = ratingReady && ca >= 3 && ra.average != null;
+              var eb = ratingReady && cb >= 3 && rb.average != null;
+              if(ea !== eb) return ea ? -1 : 1;
+              if(ea && eb){
+                if(mode === 'rating-most' && ca !== cb) return cb-ca;
+                if(mode !== 'rating-most' && ra.average !== rb.average) return mode === 'rating-high' ? rb.average-ra.average : ra.average-rb.average;
+                if(ca !== cb) return cb-ca;
+              }
+              return ta.localeCompare(tb);
+            }
             if(mode === 'newest' || mode === 'oldest'){
               var da = __parseCardDate(a);
               var db = __parseCardDate(b);
@@ -551,6 +588,7 @@ function initGameGrids(){
         if(addedFilter){ addedFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(platformFilter){ platformFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(aiFilter){aiFilter.addEventListener('change',function(){try{localStorage.setItem('tge_ai_filter',aiFilter.value);}catch(e){} visibleLimit=pageSize;applyFilter();});}
+        if(ratingMin){ ratingMin.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }
         if(loadMoreBtn){ loadMoreBtn.addEventListener('click', function(){ visibleLimit += pageSize; applyFilter(); }); }
 

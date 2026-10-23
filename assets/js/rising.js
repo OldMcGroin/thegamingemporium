@@ -89,8 +89,8 @@
 
     var isLocal = /^(localhost|127\.0\.0\.1)$/i.test(window.location.hostname);
     var url = isLocal
-      ? 'https://thegamingemporium.com/api/top?mode=rising&limit=10'
-      : '/api/top?mode=rising&limit=10';
+      ? 'https://thegamingemporium.com/api/top?mode=rising&limit=100'
+      : '/api/top?mode=rising&limit=100';
 
     fetch(url, {cache:'no-store'})
       .then(function(r){

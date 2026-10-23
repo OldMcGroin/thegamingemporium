@@ -71,6 +71,11 @@
         <option value="za">Title (Z to A)</option>
         <option value="newest">Newest Added</option>
         <option value="oldest">Oldest Added</option>
+        {{ if eq $slug "decompilations-recompilations" }}
+        <option value="rating-high">⭐ Highest Rated</option>
+        <option value="rating-low">⭐ Lowest Rated</option>
+        <option value="rating-most">⭐ Most Ratings</option>
+        {{ end }}
       </select>
       </div>
     <div class="control">
@@ -90,6 +95,15 @@
       <option value="unknown">Unknown</option><option value="none">No AI Usage</option>
       <option value="light">Light AI Usage</option><option value="heavy">Heavy AI Usage</option>
     </select></div>
+    <div class="control">
+      <label>Minimum Ratings</label>
+      <select data-rating-min>
+        <option value="0">Any (including unrated)</option>
+        <option value="3">3+ ratings</option>
+        <option value="10">10+ ratings</option>
+        <option value="25">25+ ratings</option>
+      </select>
+    </div>
     <div class="control">
       <label>Platform</label>
       <select data-platform-filter>
