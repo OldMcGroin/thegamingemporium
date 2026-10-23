@@ -52490,5 +52490,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4054-f21db83bd0e4c3f0.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4055,
+    "title": "LEGO Batman: The Videogame  for Android",
+    "category": "android-ports",
+    "link": "https://github.com/ttom795/LBM_Android/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "sandbox",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4055-918b3fde384cfe82.webp",
+    "date_added": "2026-10-23"
   }
 ]
