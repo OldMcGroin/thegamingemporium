@@ -52522,5 +52522,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4056-41a1e3194637ff4a.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4057,
+    "title": "Project Midas - Goldeneye for Android",
+    "category": "android-ports",
+    "link": "https://github.com/sergiomanzur/Project-Midas/releases/tag/v1.0.1",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4057-e5a4738f45527d93.webp",
+    "date_added": "2026-10-23"
   }
 ]
