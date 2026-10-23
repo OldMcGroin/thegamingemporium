@@ -52689,5 +52689,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4066-94df2eeac7177b73.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4067,
+    "title": "Enchanted Arms Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/IAndrewJJ/EnchantedArmsRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4067-6571dcfb343d0c08.webp",
+    "date_added": "2026-10-23"
   }
 ]
