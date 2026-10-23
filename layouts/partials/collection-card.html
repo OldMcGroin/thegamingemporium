@@ -1,11 +1,17 @@
 {{- $c := .collection -}}
 {{- $members := .members -}}
 {{- $slug := printf "%s-collection" $c.slug -}}
+{{- $image := printf "/Images/Games/%s.webp" $slug -}}
+{{- with $c.image -}}
+  {{- $image = . -}}
+{{- end -}}
+{{- /* Version the URL so an earlier cached 404 cannot hide newly published artwork. */ -}}
+{{- $imageURL := printf "%s?v=collection-artwork-20261023" $image -}}
 <div class="game-card game-card--collection" data-title="{{ $c.name }}" data-weight="{{ default 0 $c.weight }}" data-genres="" data-category="decompilations-recompilations" data-ai-usage="" data-platform="" data-date-added="" data-collection="true">
   {{ if hugo.IsServer }}<button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy collection image slug">Copy filename</button>{{ end }}
   <a class="game-card__link" href="/collections/{{ $c.slug }}/" aria-label="View {{ $c.name }} Collection">
     <div class="game-card__image">
-      <img class="game-card__img" src="/Images/Games/{{ $slug }}.webp" alt="{{ $c.name }} collection artwork" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='/Images/Games/{{ $slug }}.jpg';this.onerror=function(){this.onerror=null;this.src='/Images/Games/{{ $slug }}.jpeg';this.onerror=function(){this.onerror=null;this.src='/Images/Games/{{ $slug }}.png';this.onerror=function(){this.onerror=null;this.src='/Images/placeholder.jpg';};};};">
+      <img class="game-card__img" src="{{ $imageURL }}" alt="{{ $c.name }} collection artwork" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='/Images/Games/{{ $slug }}.jpg';this.onerror=function(){this.onerror=null;this.src='/Images/Games/{{ $slug }}.jpeg';this.onerror=function(){this.onerror=null;this.src='/Images/Games/{{ $slug }}.png';this.onerror=function(){this.onerror=null;this.src='/Images/placeholder.jpg';};};};">
     </div>
     <div class="game-card__body collection-card__footer">
       <div class="game-card__title">{{ $c.name }} Collection</div>
