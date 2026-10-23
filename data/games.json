@@ -52756,5 +52756,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4070-f619039c701ddcf0.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4071,
+    "title": "Project Gotham Racing Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hk21x/pgr1-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4071-5da579fd0e207140.webp",
+    "date_added": "2026-10-23"
   }
 ]
