@@ -52634,5 +52634,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4063-36962633be824115.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4062,
+    "title": "Resident Evil Code: Veronica X PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/aikatore/recvx-enhanced-port",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "survival-horror",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4062-da09368771f40461.webp",
+    "date_added": "2026-10-23"
   }
 ]
