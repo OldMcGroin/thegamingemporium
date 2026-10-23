@@ -53063,5 +53063,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4090-436ad93fae0529cd.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4089,
+    "title": "PokéIsaac in Browser",
+    "category": "browser-based",
+    "link": "https://pokeisaac.com/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "roguelike",
+    "genre2": "shoot-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4089-2cf8ed116a7b960a.webp",
+    "date_added": "2026-10-23"
   }
 ]
