@@ -52570,5 +52570,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4059-36c19bc46cc1c16e.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4060,
+    "title": "TimeSplitters: Future Perfect Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheDoffman/timesplitters-future-perfect-pc",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4060-c26aec1b9ca08aa2.webp",
+    "date_added": "2026-10-23"
   }
 ]
