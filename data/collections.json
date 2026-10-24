@@ -113,5 +113,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/alien-resurrection-collection.webp"
+  },
+  {
+    "name": "Ape Escape",
+    "slug": "ape-escape",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ape-escape-collection.webp"
   }
 ]
