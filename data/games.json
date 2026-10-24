@@ -53616,5 +53616,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4122-643f514d99879afb.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4123,
+    "title": "Ace Combat 3: Electrosphere PC Port and Remaster",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/i5han/ac3-remix",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "collection": "ace-combat-3-electrosphere",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4123-0f53c0a31c828a62.webp",
+    "date_added": "2026-10-24"
   }
 ]
