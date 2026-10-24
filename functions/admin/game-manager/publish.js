@@ -87,10 +87,42 @@ function validate(type,r){
   if(typeof r.name!=='string'||!r.name.trim()||r.name.length>250)return 'Invalid collection name';
   if(typeof r.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150)return 'Invalid collection slug';
   if(typeof r.enabled!=='boolean')return 'Invalid enabled flag';
+  if(r.image!==undefined&&r.image!=='/Images/Games/'+r.slug+'-collection.webp')return 'Invalid collection image path';
   if(r.weight!==0&&r.weight!=='top'&&!(Number.isSafeInteger(r.weight)&&r.weight>=0))return 'Invalid collection weight';
  }
  if(JSON.stringify(r).length>25000)return 'Record is too large';
  return null;
+}
+// Series artwork publishes a single WebP asset; never edits games.json or collections.json.
+const seriesKey=s=>String(s||'').trim().replace(/\s+/g,' ').toLocaleLowerCase('en');
+const seriesSlug=s=>String(s||'').trim().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').replace(/^the-/,'');
+async function seriesArtworkState(env,slug,branch){
+ try{const file=await github(env,'static/Images/Series/'+slug+'.webp?ref='+encodeURIComponent(branch));return {sha:file.sha,exists:true}}
+ catch(e){if(e.status===404)return {sha:null,exists:false};throw e}
+}
+async function publishSeriesArtwork(env,body){
+ const r=body.record;
+ if(body.action!=='update'||!obj(r)||typeof r.name!=='string'||typeof r.slug!=='string'||r.name.length>250||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150||seriesSlug(r.name)!==r.slug)
+  return reply({ok:false,message:'Invalid Series artwork request or slug.'},400);
+ if(typeof body.expectedImageSha!=='string'&&body.expectedImageSha!==null)return reply({ok:false,message:'Series artwork baseline is required. Refresh review.'},400);
+ if(body.expectedImageSha!==null&&!/^[a-f0-9]{40}$/i.test(body.expectedImageSha))return reply({ok:false,message:'Invalid image baseline.'},400);
+ const upload=body.imageUpload;
+ if(!obj(upload)||upload.mime!=='image/webp'||typeof upload.base64!=='string'||upload.base64.length>1400000||upload.base64.length<40||!/^[A-Za-z0-9+/]+={0,2}$/.test(upload.base64))return reply({ok:false,message:'Invalid or oversized Series WebP.'},400);
+ const magic=atob(upload.base64.slice(0,32));if(!magic.startsWith('RIFF')||magic.slice(8,12)!=='WEBP')return reply({ok:false,message:'Invalid WebP image.'},400);
+ const branch=BRANCH(env),path='static/Images/Series/'+r.slug+'.webp';
+ try{
+  const gamesFile=await readFile(env,PATHS.game);
+  if(!gamesFile.list.some(g=>seriesKey(g.series)===seriesKey(r.name)))return reply({ok:false,message:'Series is not present in GitHub game catalogue. Publish a game in this series first.'},409);
+  const ref=await github(env,'git/ref/heads/'+encodeURIComponent(branch));const head=ref.object?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid head');
+  const [parent,headGames,state]=await Promise.all([github(env,'git/commits/'+head),github(env,PATHS.game+'?ref='+encodeURIComponent(head)),seriesArtworkState(env,r.slug,head)]);
+  if(headGames.sha!==gamesFile.sha||state.sha!==body.expectedImageSha)return reply({ok:false,message:'Series artwork or game catalogue changed on GitHub. Refresh review before publishing.'},409);
+  const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:upload.base64,encoding:'base64'})});
+  const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:parent.tree.sha,tree:[{path,mode:'100644',type:'blob',sha:blob.sha}]})});
+  const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: update series artwork '+r.name.slice(0,100),tree:tree.sha,parents:[head]})});
+  await github(env,'git/refs/heads/'+encodeURIComponent(branch),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:commit.sha,force:false})});
+  return reply({ok:true,message:'Series artwork published.',type:'series',id:r.slug});
+ }catch(e){console.error('Series artwork publish failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed during publishing. Refresh review.':'Series artwork publishing failed. Check Cloudflare logs.'},[409,422].includes(e.status)?409:502)}
 }
 // Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
 // Both switches must be explicitly enabled for live publishing. Defaults are fail-closed.
@@ -106,6 +138,12 @@ export async function onRequestGet({request,env}){
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
  const gate=publishGate(env);
  if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ if(new URL(request.url).searchParams.get('seriesSlug')){
+  if(!gate.enabled)return reply({ok:false,message:'Publishing disabled.'},403);
+  const slug=new URL(request.url).searchParams.get('seriesSlug');
+  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)||slug.length>150)return reply({ok:false,message:'Invalid Series slug.'},400);
+  try{return reply({ok:true,...await seriesArtworkState(env,slug,gate.branch)})}catch{return reply({ok:false,message:'Cannot check Series artwork.'},502)}
+ }
  return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
 }
 export async function onRequestPost({request,env}){
@@ -119,13 +157,15 @@ export async function onRequestPost({request,env}){
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
  const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
+ if(body?.type==='series')return publishSeriesArtwork(env,body);
  if(!obj(body)||!['game','collection'].includes(body.type)||!['create','update'].includes(body.action)||!obj(body.record))return reply({ok:false,message:'Invalid publish request.'},400);
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
  const imageUpload=body.imageUpload;
  if(imageUpload!==undefined){
-  if(type!=='game'||!obj(imageUpload)||imageUpload.mime!=='image/webp'||typeof imageUpload.base64!=='string'||!/^[A-Za-z0-9+/]+={0,2}$/.test(imageUpload.base64)||imageUpload.base64.length>1400000||imageUpload.base64.length<40)return reply({ok:false,message:'Invalid or oversized WebP upload.'},400);
-  if(!/^\/Images\/Games\/manager-[1-9][0-9]*-[a-f0-9]{16}\.webp$/.test(record.image||''))return reply({ok:false,message:'Invalid image destination.'},400);
-  if(!record.image.startsWith('/Images/Games/manager-'+record.id+'-'))return reply({ok:false,message:'Image must belong to this game ID.'},400);
+  if(!obj(imageUpload)||imageUpload.mime!=='image/webp'||typeof imageUpload.base64!=='string'||!/^[A-Za-z0-9+/]+={0,2}$/.test(imageUpload.base64)||imageUpload.base64.length>1400000||imageUpload.base64.length<40)return reply({ok:false,message:'Invalid or oversized WebP upload.'},400);
+  if(type==='game'){
+   if(!/^\/Images\/Games\/manager-[1-9][0-9]*-[a-f0-9]{16}\.webp$/.test(record.image||'')||!record.image.startsWith('/Images/Games/manager-'+record.id+'-'))return reply({ok:false,message:'Invalid game image destination.'},400);
+  }else if(record.image!=='/Images/Games/'+record.slug+'-collection.webp')return reply({ok:false,message:'Invalid collection image destination.'},400);
   const head=atob(imageUpload.base64.slice(0,32));
   if(!head.startsWith('RIFF')||head.slice(8,12)!=='WEBP')return reply({ok:false,message:'Uploaded data is not a WebP image.'},400);
  }
@@ -140,7 +180,7 @@ export async function onRequestPost({request,env}){
   const found=list.filter(x=>x?.[key]===id);
   if(found.length>1)return reply({ok:false,message:'Duplicate identifiers already exist in GitHub. No changes made.'},409);
   if(action==='create'){
-   if(found.length)return reply({ok:false,message:'This ID or slug is already in use. Refresh your drafts before publishing.'},409);
+   if(found.length)return reply({ok:false,code:'IDENTIFIER_CONFLICT',message:type==='game'?('Game ID '+id+' is already assigned on GitHub to: '+String(found[0].title||'(untitled)')+'. Your local catalogue is out of date. Your draft has NOT been published or overwritten. Export your drafts before refreshing; this ID must be reassigned safely, including its artwork.') : ('Collection slug '+id+' is already in use on GitHub. No changes made.'),conflict:{id,title:type==='game'?String(found[0].title||''):String(found[0].name||'')}},409);
    // Only newly created games receive a publication date. Use the Irish
    // calendar date on the server, not the phone's clock or a draft value.
    if(type==='game')record.date_added=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Dublin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
@@ -172,11 +212,15 @@ export async function onRequestPost({request,env}){
   const ref=await github(env,refPath);
   const head=ref.object?.sha;
   if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
-  const parent=await github(env,'git/commits/'+head);
+  // Independent read-only checks can run together. Both must succeed before
+  // creating blobs or attempting any branch update.
+  const [parent,headFile]=await Promise.all([
+   github(env,'git/commits/'+head),
+   github(env,path+'?ref='+encodeURIComponent(head))
+  ]);
   const baseTree=parent.tree?.sha;
   if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
   // The data file must still be the version checked for record conflicts.
-  const headFile=await github(env,path+'?ref='+encodeURIComponent(head));
   if(headFile.sha!==file.sha)return reply({ok:false,message:'Game data changed during publishing. Refresh and try again.'},409);
   const entries=[];
   const jsonBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
@@ -185,7 +229,7 @@ export async function onRequestPost({request,env}){
    const imgPath='static'+record.image;
    // Reject any filename already present at the branch head, even if a
    // concurrent editor supplied a colliding name.
-   try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}
+   if(type==='game'){try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}}
    const imageBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:imageUpload.base64,encoding:'base64'})});
    entries.push({path:imgPath,mode:'100644',type:'blob',sha:imageBlob.sha});
   }

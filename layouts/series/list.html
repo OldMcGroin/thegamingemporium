@@ -17,6 +17,15 @@
 {{ define "main" }}
 {{ $mode := "visible" }}{{ if hugo.IsServer }}{{ $mode = "all" }}{{ end }}
 {{ $idx := index site.Data.browse_indexes $mode }}
+<style>
+/* Stage 4 local Series artwork cards: scoped to Browse By Series only. */
+.series-grid .series-card__link{position:relative;display:block;overflow:hidden;border-radius:inherit;isolation:isolate}
+.series-grid .series-card__img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
+.series-grid .tge-series-card-caption{position:absolute;bottom:0;left:0;right:0;z-index:2;padding:30px 10px 11px;text-align:center;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.88));pointer-events:none;text-shadow:0 1px 3px #000,0 0 2px #000;line-height:1.3}
+.series-grid .tge-series-card-caption strong{display:block;font-weight:800;font-size:clamp(14px,1.5vw,20px);overflow-wrap:anywhere}
+.series-grid .tge-series-card-caption small{display:block;font-size:12px;font-weight:700;margin-top:3px}
+.series-grid .series-card__fallback{padding-bottom:48px}
+</style>
 <h1 class="page-title">Browse By Series</h1>
 <div class="series-controls" data-series-grid>
   <div class="series-grid">
@@ -39,6 +48,7 @@
             <img class="series-card__img" src="{{ $img | relURL }}" alt="{{ $disp }}" loading="lazy" decoding="async" onerror="this.style.display='none'; this.parentElement.classList.add('is-missing');" />
           {{ end }}
           {{ if eq $img "/Images/placeholder.jpg" }}<div class="series-card__fallback">{{ $disp }}</div>{{ end }}
+          <span class="tge-series-card-caption"><strong>{{ $disp }}</strong><small>{{ len (index $idx.series_games $slug) }} {{ if eq (len (index $idx.series_games $slug)) 1 }}Game{{ else }}Games{{ end }}</small></span>
         </a>
       </div>
     {{ end }}
