@@ -127,8 +127,13 @@ async function publishSeriesArtwork(env,body){
 // Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
 // Both switches must be explicitly enabled for live publishing. Defaults are fail-closed.
 // Production deployment is separate from permission to write to the main branch.
-function publishGate(env){
+function publishGate(env,request){
  const branch=BRANCH(env);
+ // Cloudflare Pages Preview hostnames must never publish to production main,
+ // regardless of environment variables or production approval switches.
+ const host=new URL(request.url).hostname.toLowerCase();
+ const isPreview=host.endsWith('.thegamingemporium.pages.dev');
+ if(isPreview&&branch!=='game-manager-safe-test-20261021')return {branch,enabled:false};
  if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
@@ -136,7 +141,7 @@ function publishGate(env){
 export async function onRequestGet({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
- const gate=publishGate(env);
+ const gate=publishGate(env,request);
  if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(new URL(request.url).searchParams.get('seriesSlug')){
   if(!gate.enabled)return reply({ok:false,message:'Publishing disabled.'},403);
@@ -149,7 +154,7 @@ export async function onRequestGet({request,env}){
 export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
- const gate=publishGate(env);
+ const gate=publishGate(env,request);
  if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(!gate.enabled)
