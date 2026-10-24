@@ -53417,5 +53417,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4110-dcd26ebc91c0d1e9.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4111,
+    "title": "The Legend of Zelda: Breath of the Wild Recompilation (Wii U)",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ryderclanky/BotW-Native",
+    "video_link": "",
+    "platform": "Wii U",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4111-15f1dc16c9d40b5b.webp",
+    "date_added": "2026-10-24"
   }
 ]
