@@ -53433,5 +53433,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4111-15f1dc16c9d40b5b.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4112,
+    "title": "Quake 4 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cyberheater/Xbox-360-Quake4-decomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4112-e154f6c6779b433f.webp",
+    "date_added": "2026-10-24"
   }
 ]
