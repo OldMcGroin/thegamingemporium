@@ -190,5 +190,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-twilight-princess-collection.webp"
+  },
+  {
+    "name": "Ace Combat 3: Electrosphere",
+    "slug": "ace-combat-3-electrosphere",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ace-combat-3-electrosphere-collection.webp"
   }
 ]
