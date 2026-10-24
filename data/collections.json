@@ -176,5 +176,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/def-jam-fight-for-ny-collection.webp"
+  },
+  {
+    "name": "Dino Crisis",
+    "slug": "dino-crisis",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dino-crisis-collection.webp"
   }
 ]
