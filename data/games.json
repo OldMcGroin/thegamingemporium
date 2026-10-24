@@ -53367,5 +53367,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4107-7d629358b0582a48.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4109,
+    "title": "Civilization Revolution Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ReRevvedRecomp/rerevved",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "strategy",
+    "genre2": "city-builder",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4109-2d77ec8da5251a87.webp",
+    "date_added": "2026-10-24"
   }
 ]
