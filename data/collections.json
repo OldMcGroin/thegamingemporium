@@ -197,5 +197,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ace-combat-3-electrosphere-collection.webp"
+  },
+  {
+    "name": "Earthbound",
+    "slug": "earthbound",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/earthbound-collection.webp"
   }
 ]
