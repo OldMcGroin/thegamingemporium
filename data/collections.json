@@ -183,5 +183,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dino-crisis-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "slug": "the-legend-of-zelda-twilight-princess",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-twilight-princess-collection.webp"
   }
 ]
