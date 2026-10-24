@@ -53649,5 +53649,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4124-0545f919a9261329.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4125,
+    "title": "Cyberpunk 2077 Co-op Mod: NightCoop",
+    "category": "mods",
+    "link": "https://nightcoop.net/beta.html",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4125-a6daa560e6a0427b.webp",
+    "date_added": "2026-10-24"
   }
 ]
