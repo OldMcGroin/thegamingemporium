@@ -53633,5 +53633,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4123-0f53c0a31c828a62.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4124,
+    "title": "Resident Evil Code: Veronica X HD Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/kastieloficial/RE-Code-Veronica-Recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "collection": "resident-evil-code-veronica",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4124-0545f919a9261329.webp",
+    "date_added": "2026-10-24"
   }
 ]
