@@ -53239,5 +53239,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4100-5e76381512875c5a.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4101,
+    "title": "New Super Mario Bros. Wii Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "Platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4101-ef3f183ffb5f6f1d.webp",
+    "date_added": "2026-10-24"
   }
 ]
