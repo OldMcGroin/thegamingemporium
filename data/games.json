@@ -53223,5 +53223,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4099-d2917166dfab7173.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4100,
+    "title": "od of War: Chains of Olympus and Ghost of Sparta PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DrummingBird1/gow-psp-recomp",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4100-5e76381512875c5a.webp",
+    "date_added": "2026-10-24"
   }
 ]
