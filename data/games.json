@@ -53335,5 +53335,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4105-851bc13393561752.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4106,
+    "title": "Pokémon Pinball Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ReiniShari/Pinball-NS",
+    "video_link": "",
+    "platform": "Game Boy Color",
+    "genre1": "pinball",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4106-264d81304d312366.webp",
+    "date_added": "2026-10-24"
   }
 ]
