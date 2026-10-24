@@ -53497,5 +53497,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4115-8e4e09d656b10116.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4116,
+    "title": "Ghost Recon: Future Soldier PS5 Port",
+    "category": "console-ports",
+    "link": "https://github.com/lamarkingru/grfs-ps5",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4116-17c14305a300026e.webp",
+    "date_added": "2026-10-24"
   }
 ]
