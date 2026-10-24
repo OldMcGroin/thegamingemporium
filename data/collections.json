@@ -127,5 +127,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/black-collection.webp"
+  },
+  {
+    "name": "Burnout 3: Takedown",
+    "slug": "burnout-3-takedown",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/burnout-3-takedown-collection.webp"
   }
 ]
