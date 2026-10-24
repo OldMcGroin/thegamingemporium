@@ -53684,5 +53684,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4126-8e751da6d148be31.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4128,
+    "title": "The Legend of Zelda: Echoes of Wisdom Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Neguchads/Castlevania-COD-Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4128-6e9cab5f87a7369d.webp",
+    "date_added": "2026-10-25"
   }
 ]
