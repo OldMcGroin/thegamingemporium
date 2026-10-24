@@ -53600,5 +53600,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4120-17e94b468f1aba42.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4122,
+    "title": "Ben 10 Cosmic Destruction Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ExtremestoneGG/Cosmic-Recompi",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4122-643f514d99879afb.webp",
+    "date_added": "2026-10-24"
   }
 ]
