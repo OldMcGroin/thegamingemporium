@@ -53271,5 +53271,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4102-991fcc3673374d2e.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4103,
+    "title": "Monster Hunter Portable 2nd G Native PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SirNubs/Project-Cuga",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4103-f9cda094a356af8a.webp",
+    "date_added": "2026-10-24"
   }
 ]
