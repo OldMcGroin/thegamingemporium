@@ -134,5 +134,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/burnout-3-takedown-collection.webp"
+  },
+  {
+    "name": "Colin McRae Rally 2.0",
+    "slug": "colin-mcrae-rally-2-0",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/colin-mcrae-rally-2-0-collection.webp"
   }
 ]
