@@ -53383,5 +53383,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4109-2d77ec8da5251a87.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4110,
+    "title": "Knack 2 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Hyant4/Knack-II-pc-port",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "Platformer",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4110-dcd26ebc91c0d1e9.webp",
+    "date_added": "2026-10-24"
   }
 ]
