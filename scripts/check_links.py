@@ -24,11 +24,11 @@ def check(item):
                         detail=f'HTTP {code}', final_url=final)
         except urllib.error.HTTPError as e:
             code = e.code
-            # Retry even 404/410 once: a single failed request is not sufficient.
+            # Retry a 404 once to rule out a transient response.
             if attempt == 0:
                 time.sleep(2)
                 continue
-            return dict(result, status='broken' if code in (404, 410) else 'other',
+            return dict(result, status='broken' if code == 404 else 'other',
                         detail=f'HTTP {code}')
         except Exception as e:
             if attempt == 0:
@@ -41,14 +41,15 @@ def email_report(new_items, date, results):
     key, recipient, sender = (os.environ.get(k, '').strip() for k in
                               ('RESEND_API_KEY', 'LINK_HEALTH_EMAIL_TO', 'LINK_HEALTH_EMAIL_FROM'))
     if not (key and recipient and sender):
-        raise RuntimeError('Missing RESEND_API_KEY, LINK_HEALTH_EMAIL_TO or LINK_HEALTH_EMAIL_FROM secret')
+        print('::warning::Confirmation email not sent: missing RESEND_API_KEY, LINK_HEALTH_EMAIL_TO or LINK_HEALTH_EMAIL_FROM secret', flush=True)
+        return False
     confirmed = [x for x in results if x['status'] == 'broken']
     pending = [x for x in results if x['status'] == 'monitoring']
     other = [x for x in results if x['status'] == 'other']
     lines = [f'{x["title"]} — {x["detail"]}\n{x["url"]}' for x in new_items[:60]]
     body = (f'The Gaming Emporium — Link Health scan complete\n{date}\n\n'
             f'Links checked: {len(results)}\n'
-            f'Confirmed HTTP 404/410: {len(confirmed)}\n'
+            f'Confirmed HTTP 404: {len(confirmed)}\n'
             f'Awaiting second scan: {len(pending)}\n'
             f'Other issues (including 403, timeouts): {len(other)}\n'
             f'Newly confirmed broken links: {len(new_items)}\n\n'
@@ -61,8 +62,19 @@ def email_report(new_items, date, results):
     req = urllib.request.Request('https://api.resend.com/emails', data=data,
                                  headers={'Authorization': 'Bearer ' + key,
                                           'Content-Type': 'application/json'}, method='POST')
-    with urllib.request.urlopen(req, timeout=20) as r:
-        print('Daily confirmation email API status:', r.status)
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            print('Daily confirmation email API status:', r.status, flush=True)
+        return True
+    except urllib.error.HTTPError as exc:
+        # Resend often includes an actionable JSON error message in its response.
+        # Never print the API key, and never block publication of scan results.
+        detail = exc.read(2048).decode('utf-8', errors='replace')
+        print(f'::warning::Confirmation email rejected by Resend (HTTP {exc.code}): {detail}', flush=True)
+        return False
+    except Exception as exc:
+        print(f'::warning::Confirmation email failed ({type(exc).__name__}: {exc})', flush=True)
+        return False
 
 def main():
     games = json.loads((ROOT / 'data/games.json').read_text())
@@ -81,9 +93,9 @@ def main():
         for game in group:
             old = previous_by_id.get(str(game.get('id')), {})
             item = dict(result, id=game.get('id'), title=game.get('title'), hidden=game.get('hidden') is True)
-            # Count consecutive daily scans with HTTP 404/410, including the
+            # Count consecutive scans with HTTP 404, including the
             # previous scan's pending status. Other errors reset the counter.
-            old_is_missing = str(old.get('detail', '')).startswith(('HTTP 404', 'HTTP 410'))
+            old_is_missing = str(old.get('detail', '')).startswith('HTTP 404')
             if item['status'] == 'broken':
                 item['consecutive_failures'] = (int(old.get('consecutive_failures') or 0) + 1) if old_is_missing else 1
                 if item['consecutive_failures'] < 2:
@@ -102,6 +114,7 @@ def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
     print(f'Checked {len(results)} entries; newly flagged {len(new_items)}')
-    email_report(new_items, date, results)
+    if not email_report(new_items, date, results):
+        print('::warning::Link scan report saved; confirmation email was not delivered. Check the Resend error above.', flush=True)
 
 if __name__ == '__main__': main()
