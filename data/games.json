@@ -53568,5 +53568,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4118-fa0b4b0e747b9e31.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4121,
+    "title": "Shin Megami Tensei NINE Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gymzatan/smt-nine-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4121-afedd340e2a2e2d5.webp",
+    "date_added": "2026-10-24"
   }
 ]
