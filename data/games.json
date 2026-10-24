@@ -53700,5 +53700,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4128-6e9cab5f87a7369d.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4127,
+    "title": "Uncharted: The Nathan Drake Collection for Android",
+    "category": "android-ports",
+    "link": "https://github.com/revvv991/uncharted-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4127-c86826aa01a1c7a7.webp",
+    "date_added": "2026-10-25"
   }
 ]
