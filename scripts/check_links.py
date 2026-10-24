@@ -61,7 +61,8 @@ def email_report(new_items, date, results):
                        'text': body}).encode()
     req = urllib.request.Request('https://api.resend.com/emails', data=data,
                                  headers={'Authorization': 'Bearer ' + key,
-                                          'Content-Type': 'application/json'}, method='POST')
+                                          'Content-Type': 'application/json',
+                                         'User-Agent': 'TheGamingEmporium-LinkHealth/1.0'}, method='POST')
     try:
         with urllib.request.urlopen(req, timeout=20) as r:
             print('Daily confirmation email API status:', r.status, flush=True)
