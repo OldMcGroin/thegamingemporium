@@ -53287,5 +53287,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4103-f9cda094a356af8a.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4108,
+    "title": "F.E.A.R. Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Juansolo457/fear360-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4108-d4f2623d8ec3e202.webp",
+    "date_added": "2026-10-24"
   }
 ]
