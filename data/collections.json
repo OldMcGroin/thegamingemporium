@@ -148,5 +148,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/conker-s-bad-fur-day-collection.webp"
+  },
+  {
+    "name": "Crash of the Titans",
+    "slug": "crash-of-the-titans",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/crash-of-the-titans-collection.webp"
   }
 ]
