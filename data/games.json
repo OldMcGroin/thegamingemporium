@@ -50372,7 +50372,7 @@
   },
   {
     "id": 3885,
-    "title": "Ape Escape Recompilation",
+    "title": "Ape Escape Recompilation 2",
     "category": "decompilations-recompilations",
     "platform": "PlayStation",
     "link": "https://github.com/NVDEMU/ApeEscapeRecomp-MacWindowsLinux",
@@ -50381,7 +50381,8 @@
     "series": "Ape Escape",
     "video_link": "",
     "date_added": "2026-10-17",
-    "weight": ""
+    "weight": "",
+    "image": "/Images/Games/manager-3885-3eb84d43e7b01252.webp"
   },
   {
     "id": 3886,
