@@ -53513,5 +53513,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4116-17c14305a300026e.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4117,
+    "title": "Luigi's Mansion for Android",
+    "category": "android-ports",
+    "link": "https://github.com/JayElDragon/luigis-mansion-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4117-b2b85232dc36f33f.webp",
+    "date_added": "2026-10-24"
   }
 ]
