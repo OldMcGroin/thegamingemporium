@@ -141,5 +141,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/colin-mcrae-rally-2-0-collection.webp"
+  },
+  {
+    "name": "Conker's Bad Fur Day",
+    "slug": "conker-s-bad-fur-day",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/conker-s-bad-fur-day-collection.webp"
   }
 ]
