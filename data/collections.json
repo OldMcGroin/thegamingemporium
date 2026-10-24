@@ -106,5 +106,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dinosaur-planet-collection.webp"
+  },
+  {
+    "name": "Alien Resurrection",
+    "slug": "alien-resurrection",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/alien-resurrection-collection.webp"
   }
 ]
