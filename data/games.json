@@ -53465,5 +53465,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4113-749b9e53c29ad682.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4114,
+    "title": "007: From Russia with Love PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TGP482/007FRWL-XBERecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4114-faa2d8f915447df2.webp",
+    "date_added": "2026-10-24"
   }
 ]
