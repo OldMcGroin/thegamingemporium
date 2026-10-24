@@ -162,5 +162,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/crash-team-racing-collection.webp"
+  },
+  {
+    "name": "Daytona USA",
+    "slug": "daytona-usa",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/daytona-usa-collection.webp"
   }
 ]
