@@ -53207,5 +53207,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4096-597b3e377d164453.webp",
     "date_added": "2026-10-23"
+  },
+  {
+    "id": 4099,
+    "title": "New Super Mario Bros. U Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nsmbu-recomp/nsmbu-recomp",
+    "video_link": "",
+    "platform": "Wii U",
+    "genre1": "Platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4099-d2917166dfab7173.webp",
+    "date_added": "2026-10-24"
   }
 ]
