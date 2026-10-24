@@ -53319,5 +53319,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4104-36a6b51eef042f96.webp",
     "date_added": "2026-10-24"
+  },
+  {
+    "id": 4105,
+    "title": "Kirby Super Star Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NVDEMU/KirbySuperStarPC",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "Platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4105-851bc13393561752.webp",
+    "date_added": "2026-10-24"
   }
 ]
