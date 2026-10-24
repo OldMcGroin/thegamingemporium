@@ -120,5 +120,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ape-escape-collection.webp"
+  },
+  {
+    "name": "Black",
+    "slug": "black",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/black-collection.webp"
   }
 ]
