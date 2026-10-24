@@ -169,5 +169,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/daytona-usa-collection.webp"
+  },
+  {
+    "name": "Def Jam: Fight for NY",
+    "slug": "def-jam-fight-for-ny",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/def-jam-fight-for-ny-collection.webp"
   }
 ]
