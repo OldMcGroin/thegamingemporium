@@ -204,5 +204,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/earthbound-collection.webp"
+  },
+  {
+    "name": "Eternal Darkness: Sanity's Requiem",
+    "slug": "eternal-darkness-sanity-s-requiem",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/eternal-darkness-sanity-s-requiem-collection.webp"
   }
 ]
