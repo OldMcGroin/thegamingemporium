@@ -155,5 +155,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/crash-of-the-titans-collection.webp"
+  },
+  {
+    "name": "Crash Team Racing",
+    "slug": "crash-team-racing",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/crash-team-racing-collection.webp"
   }
 ]
