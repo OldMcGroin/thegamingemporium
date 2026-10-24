@@ -29,13 +29,15 @@
   const button=el('button','🔎 Review & Publish');button.type='button';
   toolbar.append(button);toolbar.insertAdjacentElement('afterend',panel);
   const report=[];
+   const seriesSlug=n=>String(n||'').trim().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').replace(/^the-/,'');
+   const dataURLUpload=data=>{const m=/^data:image\/webp;base64,([A-Za-z0-9+/]+={0,2})$/.exec(data||'');return m?{mime:'image/webp',base64:m[1]}:null;};
   function renderValue(value){if(value===undefined)return '(not set)';if(typeof value==='object')return JSON.stringify(value);return String(value)}
   function row(type,key,original,current,artworkPending=false){
     const box=el('article');box.style.cssText='padding:12px;margin:10px 0;border:1px solid #314765;border-radius:9px;overflow-wrap:anywhere';
     box.append(el('h3',`${type}: ${current.title||current.name||key}`));
-    box.append(el('p',`Identifier: ${key} · ${original?'Update existing':'New record'}`,'muted'));
-    const changed=changedFields(original,current);
-    if(artworkPending)box.append(el('p','Collection artwork: new image ready to publish.'));
+    box.append(el('p',`Identifier: ${key} · ${type==='Series'?'Existing Series — artwork update':original?'Update existing':'New record'}`,'muted'));
+    const changed=type==='Series'?[]:changedFields(original,current);
+    if(artworkPending)box.append(el('p',type==='Series'?'Series artwork: WebP ready to publish.':'Collection artwork: new image ready to publish.'));
     for(const k of changed){
       const line=el('div');line.style.cssText='margin:7px 0;padding:6px 0;border-top:1px solid #314765';
       const label=el('strong',k);line.append(label);
@@ -46,9 +48,9 @@
     return box;
   }
   function preparePublishRequest(change){
-    const type=change.type==='Game'?'game':'collection';
-    const action=change.original?'update':'create';
-    const record=change.original?{...change.original}:{...change.current};
+    const type=change.type==='Game'?'game':change.type==='Series'?'series':'collection';
+    const action=type==='series'?'update':change.original?'update':'create';
+    const record=type==='series'?{name:change.current.name,slug:change.current.slug}:change.original?{...change.original}:{...change.current};
 
     if(change.original){
       for(const key of changedFields(change.original,change.current)){
@@ -64,7 +66,7 @@
       type,
       action,
       record,
-      ...(change.original?{before:change.original}:{})
+      ...(type==='series'?{expectedImageSha:change.expectedImageSha}:change.original?{before:change.original}:{})
     };
   }
 
@@ -96,7 +98,8 @@
     if(publishedThisSession.has(publishKey(change))){alert('Already published during this session.');return;}
     if(!confirmPublish(change))return;
     const request=preparePublishRequest(change);
-    if(request.record.image&&window.tgeGetImageUpload){
+    if(change.type==='Series'){request.imageUpload=dataURLUpload(change.current.image);if(!request.imageUpload){alert('Save a WebP artwork draft before publishing.');return;}}
+     if(request.record.image&&window.tgeGetImageUpload){
       try{const upload=await window.tgeGetImageUpload(request.record.image);if(upload)request.imageUpload=upload;
       else if(request.record.image!==change.original?.image)throw Error('Image bytes are missing from this browser. Re-select the image and save the draft.');
       }catch(e){alert('Artwork not ready: '+e.message);return;}
@@ -143,14 +146,14 @@
       });
       const result=await response.json();
       if(!response.ok||!result.ok)throw new Error(result.message||'Status unavailable');
-      publishBranch=['game-manager-publishing-test','main'].includes(result.branch)?result.branch:'';
+      publishBranch=['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(result.branch)?result.branch:'';
       publishEnabled=result.enabled===true && Boolean(publishBranch);
       statusMessage=publishEnabled
         ? 'Publishing is enabled for '+publishBranch+'.'
         : 'Publishing is disabled on the server. Your drafts are safe.';
       statusChecked=true;
     }catch(error){
-      statusMessage='Publishing unavailable: '+error.message;
+      statusMessage=(error instanceof SyntaxError && /JSON|Unexpected token/i.test(error.message)) ? 'Publishing unavailable: this local Hugo server does not provide the Cloudflare publishing API. Use the authenticated Cloudflare environment to verify publishing; your draft remains local.' : 'Publishing unavailable: '+error.message;
     }
   }
   async function review(){
@@ -177,8 +180,16 @@
       const artworkPending=Boolean(c.image&&window.tgeHasPendingImage&&await window.tgeHasPendingImage(c.image));
       if(!original||!eq(original,c)||artworkPending)report.push({type:'Collection',key:c.slug,original,current:c,artworkPending});
     }
+    for(const [key,draft] of Object.entries(window.tgeSeriesDrafts||{})){
+      if(!draft?.image)continue;
+      const name=String(draft.name||'').trim(),slug=seriesSlug(name);
+      if(!name||!slug||!games.some(g=>tgeSeriesKey(g.series)===key)){report.push({error:'Series draft '+name+' has no matching game series; artwork cannot publish.'});continue;}
+      const item={type:'Series',key:slug,current:{name,slug,image:draft.image},artworkPending:true,expectedImageSha:null};
+      if(publishEnabled){try{const r=await fetch('/admin/game-manager/publish?seriesSlug='+encodeURIComponent(slug),{credentials:'same-origin',cache:'no-store'});const result=await r.json();if(!r.ok||!result.ok)throw Error(result.message||'Artwork status unavailable');item.expectedImageSha=result.sha;}catch(e){report.push({error:'Cannot verify Series artwork '+name+': '+e.message});continue;}}
+      report.push(item);
+    }
     const errors=report.filter(x=>x.error),changes=report.filter(x=>!x.error);
-    content.append(el('p',`${changes.length} local changes found (${changes.filter(x=>x.type==='Game').length} games, ${changes.filter(x=>x.type==='Collection').length} collections).`));
+    content.append(el('p',`${changes.length} local changes found (${changes.filter(x=>x.type==='Game').length} games, ${changes.filter(x=>x.type==='Collection').length} collections, ${changes.filter(x=>x.type==='Series').length} series artwork drafts).`));
     if(errors.length){const warning=el('p',errors.map(x=>x.error).join('\n'));warning.style.cssText='color:#ffcb8a;white-space:pre-wrap';content.append(warning)}
     if(!changes.length&&!errors.length)content.append(el('p','No differences from the embedded baseline were found.','muted'));
     for(const x of changes){

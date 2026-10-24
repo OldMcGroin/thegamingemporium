@@ -93,33 +93,71 @@ function validate(type,r){
  if(JSON.stringify(r).length>25000)return 'Record is too large';
  return null;
 }
+// Series artwork publishes a single WebP asset; never edits games.json or collections.json.
+const seriesKey=s=>String(s||'').trim().replace(/\s+/g,' ').toLocaleLowerCase('en');
+const seriesSlug=s=>String(s||'').trim().toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').replace(/^the-/,'');
+async function seriesArtworkState(env,slug,branch){
+ try{const file=await github(env,'static/Images/Series/'+slug+'.webp?ref='+encodeURIComponent(branch));return {sha:file.sha,exists:true}}
+ catch(e){if(e.status===404)return {sha:null,exists:false};throw e}
+}
+async function publishSeriesArtwork(env,body){
+ const r=body.record;
+ if(body.action!=='update'||!obj(r)||typeof r.name!=='string'||typeof r.slug!=='string'||r.name.length>250||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150||seriesSlug(r.name)!==r.slug)
+  return reply({ok:false,message:'Invalid Series artwork request or slug.'},400);
+ if(typeof body.expectedImageSha!=='string'&&body.expectedImageSha!==null)return reply({ok:false,message:'Series artwork baseline is required. Refresh review.'},400);
+ if(body.expectedImageSha!==null&&!/^[a-f0-9]{40}$/i.test(body.expectedImageSha))return reply({ok:false,message:'Invalid image baseline.'},400);
+ const upload=body.imageUpload;
+ if(!obj(upload)||upload.mime!=='image/webp'||typeof upload.base64!=='string'||upload.base64.length>1400000||upload.base64.length<40||!/^[A-Za-z0-9+/]+={0,2}$/.test(upload.base64))return reply({ok:false,message:'Invalid or oversized Series WebP.'},400);
+ const magic=atob(upload.base64.slice(0,32));if(!magic.startsWith('RIFF')||magic.slice(8,12)!=='WEBP')return reply({ok:false,message:'Invalid WebP image.'},400);
+ const branch=BRANCH(env),path='static/Images/Series/'+r.slug+'.webp';
+ try{
+  const gamesFile=await readFile(env,PATHS.game);
+  if(!gamesFile.list.some(g=>seriesKey(g.series)===seriesKey(r.name)))return reply({ok:false,message:'Series is not present in GitHub game catalogue. Publish a game in this series first.'},409);
+  const ref=await github(env,'git/ref/heads/'+encodeURIComponent(branch));const head=ref.object?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid head');
+  const [parent,headGames,state]=await Promise.all([github(env,'git/commits/'+head),github(env,PATHS.game+'?ref='+encodeURIComponent(head)),seriesArtworkState(env,r.slug,head)]);
+  if(headGames.sha!==gamesFile.sha||state.sha!==body.expectedImageSha)return reply({ok:false,message:'Series artwork or game catalogue changed on GitHub. Refresh review before publishing.'},409);
+  const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:upload.base64,encoding:'base64'})});
+  const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:parent.tree.sha,tree:[{path,mode:'100644',type:'blob',sha:blob.sha}]})});
+  const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: update series artwork '+r.name.slice(0,100),tree:tree.sha,parents:[head]})});
+  await github(env,'git/refs/heads/'+encodeURIComponent(branch),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:commit.sha,force:false})});
+  return reply({ok:true,message:'Series artwork published.',type:'series',id:r.slug});
+ }catch(e){console.error('Series artwork publish failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed during publishing. Refresh review.':'Series artwork publishing failed. Check Cloudflare logs.'},[409,422].includes(e.status)?409:502)}
+}
 // Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
 // Both switches must be explicitly enabled for live publishing. Defaults are fail-closed.
 // Production deployment is separate from permission to write to the main branch.
-function publishGate(env){
+function publishGate(env,request){
  const branch=BRANCH(env);
- if(branch==='game-manager-publishing-test')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
 export async function onRequestGet({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
- const gate=publishGate(env);
- if(!['game-manager-publishing-test','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ const gate=publishGate(env,request);
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ if(new URL(request.url).searchParams.get('seriesSlug')){
+  if(!gate.enabled)return reply({ok:false,message:'Publishing disabled.'},403);
+  const slug=new URL(request.url).searchParams.get('seriesSlug');
+  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)||slug.length>150)return reply({ok:false,message:'Invalid Series slug.'},400);
+  try{return reply({ok:true,...await seriesArtworkState(env,slug,gate.branch)})}catch{return reply({ok:false,message:'Cannot check Series artwork.'},502)}
+ }
  return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
 }
 export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
- const gate=publishGate(env);
- if(!['game-manager-publishing-test','main'].includes(gate.branch))
+ const gate=publishGate(env,request);
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(!gate.enabled)
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
  const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
+ if(body?.type==='series')return publishSeriesArtwork(env,body);
  if(!obj(body)||!['game','collection'].includes(body.type)||!['create','update'].includes(body.action)||!obj(body.record))return reply({ok:false,message:'Invalid publish request.'},400);
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
  const imageUpload=body.imageUpload;
