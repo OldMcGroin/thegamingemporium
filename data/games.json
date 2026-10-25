@@ -54052,5 +54052,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4149-4fddfdbd430f0e58.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4150,
+    "title": "SegaSonic The Hedgehog PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cheviman/segasonic-port",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4150-b87954bfb2374fa5.webp",
+    "date_added": "2026-10-25"
   }
 ]
