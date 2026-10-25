@@ -239,5 +239,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-gen-1-collection.webp"
+  },
+  {
+    "name": "Pokémon Gen 2",
+    "slug": "pokemon-gen-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-gen-2-collection.webp"
   }
 ]
