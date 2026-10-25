@@ -54387,5 +54387,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4169-e48cebc2ed661e80.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4170,
+    "title": "Xenoblade Chronicles Definitive Ediiton Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheMonadoGuy/Monado",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4170-c5070d74a2a7e778.webp",
+    "date_added": "2026-10-25"
   }
 ]
