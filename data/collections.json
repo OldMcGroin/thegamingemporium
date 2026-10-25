@@ -274,5 +274,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/kula-world-collection.webp"
+  },
+  {
+    "name": "MediEvil",
+    "slug": "medievil",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/medievil-collection.webp"
   }
 ]
