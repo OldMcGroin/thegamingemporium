@@ -53716,5 +53716,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4127-c86826aa01a1c7a7.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4129,
+    "title": "Godzilla PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/minustwo",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4129-1e6dd43c2178694b.webp",
+    "date_added": "2026-10-25"
   }
 ]
