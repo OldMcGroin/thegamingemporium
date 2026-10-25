@@ -54036,5 +54036,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4148-8a97075177beafcd.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4149,
+    "title": "Warcraft II: Battle.net Edition Rust Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nlwstein/tidewater",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4149-4fddfdbd430f0e58.webp",
+    "date_added": "2026-10-25"
   }
 ]
