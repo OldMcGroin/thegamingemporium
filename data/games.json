@@ -54107,5 +54107,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4151-72b7f71c0e10ba4b.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4153,
+    "title": "Turok: Rage Wars Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/wootbeer/PaxDino/",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4153-5791cd72d202ca37.webp",
+    "date_added": "2026-10-25"
   }
 ]
