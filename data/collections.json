@@ -218,5 +218,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/fifa-street-collection.webp"
+  },
+  {
+    "name": "Forza Horizon",
+    "slug": "forza-horizon",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/forza-horizon-collection.webp"
   }
 ]
