@@ -53851,5 +53851,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4136-293eadc801bfa8cd.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4137,
+    "title": "Halo 5: Guardians Campaign on PC",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/danielmccluskey/halo5onpc",
+    "video_link": "",
+    "platform": "Xbox One",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4137-80d2773f22922104.webp",
+    "date_added": "2026-10-25"
   }
 ]
