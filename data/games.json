@@ -54331,5 +54331,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4165-aee0a9ed1e6608bf.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4167,
+    "title": "MapleStory Thief Edition for Android",
+    "category": "android-ports",
+    "link": "https://github.com/ofir89/MapleStoryThiefEdition",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4167-0209e549473d3dba.webp",
+    "date_added": "2026-10-25"
   }
 ]
