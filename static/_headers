@@ -1,0 +1,7 @@
+# Game Manager only: revalidate code on every visit; preserve browser draft storage.
+/admin/game-manager/
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/admin/game-manager/index.html
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/admin/game-manager/*.js
+  Cache-Control: no-cache, max-age=0, must-revalidate
