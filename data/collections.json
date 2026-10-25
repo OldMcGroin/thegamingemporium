@@ -260,5 +260,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/harvest-moon-64-collection.webp"
+  },
+  {
+    "name": "InFamous",
+    "slug": "infamous",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/infamous-collection.webp"
   }
 ]
