@@ -159,6 +159,31 @@ async function deleteCollection(env,body){
   return reply({ok:true,type:'collection',action:'delete',id:before.slug,unassigned:affected.length});
  }catch(e){console.error('Collection deletion failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed; refresh before deleting.':'Collection deletion failed; no partial branch update was made.'},[409,422].includes(e.status)?409:502)}
 }
+// Permanently remove one published game record. The artwork is deliberately retained.
+// A single compare-and-swap Git ref update makes deletion atomic and race-safe.
+async function deleteGame(env,body){
+ const before=body.before;
+ if(!obj(before)||!Number.isSafeInteger(before.id)||before.id<1)
+  return reply({ok:false,message:'Invalid original game. Refresh the Game Manager.'},400);
+ try{
+  const branch=BRANCH(env),ref=await github(env,'git/ref/heads/'+encodeURIComponent(branch));
+  const head=ref.object?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
+  const [parent, file, headFile]=await Promise.all([
+   github(env,'git/commits/'+head),readFile(env,PATHS.game),github(env,PATHS.game+'?ref='+encodeURIComponent(head))
+  ]);
+  if(file.sha!==headFile.sha)return reply({ok:false,message:'Catalogue changed. Refresh before deleting.'},409);
+  const matches=file.list.filter(g=>g?.id===before.id);
+  if(matches.length!==1||!equal(matches[0],before))
+   return reply({ok:false,message:'This game has changed or no longer exists on GitHub. Refresh before deleting.'},409);
+  const newList=file.list.filter(g=>g.id!==before.id);
+  const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(newList,null,2)+'\n',encoding:'utf-8'})});
+  const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:parent.tree.sha,tree:[{path:PATHS.game,mode:'100644',type:'blob',sha:blob.sha}]})});
+  const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: delete game '+String(before.title||before.id).slice(0,100),tree:tree.sha,parents:[head]})});
+  await github(env,'git/refs/heads/'+encodeURIComponent(branch),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:commit.sha,force:false})});
+  return reply({ok:true,type:'game',action:'delete',id:before.id,message:'Game removed from GitHub catalogue.'});
+ }catch(e){console.error('Game deletion failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed. Refresh before deleting.':'Game deletion failed. No partial publication was made.'},[409,422].includes(e.status)?409:502)}
+}
 // Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
 // Both switches must be explicitly enabled for live publishing. Defaults are fail-closed.
 // Production deployment is separate from permission to write to the main branch.
@@ -193,6 +218,7 @@ export async function onRequestPost({request,env}){
  const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
  if(body?.type==='collection'&&body.action==='delete')return deleteCollection(env,body);
+ if(body?.type==='game'&&body.action==='delete')return deleteGame(env,body);
  if(body?.type==='series')return publishSeriesArtwork(env,body);
  if(!obj(body)||!['game','collection'].includes(body.type)||!['create','update'].includes(body.action)||!obj(body.record))return reply({ok:false,message:'Invalid publish request.'},400);
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
