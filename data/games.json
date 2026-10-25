@@ -54203,5 +54203,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4155-9baa6bec8b814d7f.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4159,
+    "title": "Metroid Prime Remastered Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/primerecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "first-person-shooter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4159-9837645f71c03443.webp",
+    "date_added": "2026-10-25"
   }
 ]
