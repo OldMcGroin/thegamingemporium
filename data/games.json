@@ -53947,5 +53947,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4142-3a5f2fa1de6d5aee.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4143,
+    "title": "Until Dawn Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SuperCatElvis/UntilDawn_PC",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4143-6dda0597a7600d47.webp",
+    "date_added": "2026-10-25"
   }
 ]
