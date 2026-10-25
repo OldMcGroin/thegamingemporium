@@ -54467,5 +54467,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4175-77303cfbb1516f25.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4174,
+    "title": "Big Red Racing PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BigRedReport/bigredreport",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4174-006bfd1e3bc23f41.webp",
+    "date_added": "2026-10-25"
   }
 ]
