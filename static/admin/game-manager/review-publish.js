@@ -159,6 +159,73 @@
       statusMessage=(error instanceof SyntaxError && /JSON|Unexpected token/i.test(error.message)) ? 'Publishing unavailable: this local Hugo server does not provide the Cloudflare publishing API. Use the authenticated Cloudflare environment to verify publishing; your draft remains local.' : 'Publishing unavailable: '+error.message;
     }
   }
+  // Discard operations affect browser-local drafts only, never GitHub.
+  // Persist through the same function as the editor to avoid resurrecting drafts.
+  function saveDiscardState(){
+    if(typeof persistDrafts!=='function')throw Error('Draft storage is unavailable.');
+    persistDrafts();
+    if(typeof refreshOptions==='function')refreshOptions();
+    if(typeof renderCollections==='function')renderCollections();
+    if(typeof render==='function')render();
+  }
+  function restoreGame(id){
+    const i=games.findIndex(g=>Number(g.id)===Number(id));
+    const base=baseline.find(g=>Number(g.id)===Number(id));
+    if(i>=0)games.splice(i,1);
+    if(base)games.push({...base});
+  }
+  function restoreCollection(slug){
+    const i=collections.findIndex(c=>c.slug===slug);
+    const base=baselineCollections.find(c=>c.slug===slug);
+    if(i>=0)collections.splice(i,1);
+    if(base)collections.push({...base});
+  }
+  function clearSeriesDraft(key){
+    const drafts=window.tgeSeriesDrafts||{};
+    for(const [k,v] of Object.entries(drafts)){
+      if(seriesSlug(v?.name)===key)delete drafts[k];
+    }
+    localStorage.setItem('tge_series_drafts_v1',JSON.stringify(drafts));
+    if(typeof tgeRenderSeries==='function')tgeRenderSeries();
+  }
+  async function discardOne(change){
+    const name=change.current.title||change.current.name||String(change.key);
+    if(publishedThisSession.has(publishKey(change))){alert('This item was already published in this session. Refresh after deployment.');return;}
+    if(change.type==='Collection' && !change.original && games.some(g=>g.collection===change.key)){
+      alert('This new collection is assigned to games. Discard or reassign those game drafts first.');return;
+    }
+    if(!confirm('Discard unpublished local changes for '+name+'?\n\nThis will not change GitHub or the live website.'))return;
+    try{
+      if(change.type==='Game')restoreGame(change.key);
+      else if(change.type==='Collection')restoreCollection(change.key);
+      else clearSeriesDraft(change.key);
+      saveDiscardState();
+      await review();
+    }catch(e){alert('Could not discard draft: '+e.message);}
+  }
+  async function discardAll(changes){
+    if(!changes.length)return;
+    if(changes.some(x=>publishedThisSession.has(publishKey(x)))){
+      alert('Some items have already been published in this session. Refresh after deployment before discarding the remaining drafts.');return;
+    }
+    const message='Discard ALL '+changes.length+' unpublished local changes?\n\n'+
+      'This includes game edits, new games, collection drafts and series artwork drafts.\n'+
+      'GitHub and the live website will not be changed.\n\nThis cannot be undone.';
+    if(!confirm(message))return;
+    try{
+      // Rebuild in-memory state from the embedded baseline. Keep existing arrays
+      // so the rest of the editor continues to reference the same objects.
+      games.splice(0,games.length,...baseline.map(g=>({...g})));
+      collections.splice(0,collections.length,...baselineCollections.map(c=>({...c})));
+      localStorage.removeItem('tge_manager_stage1_drafts');
+      const series=window.tgeSeriesDrafts||{};
+      for(const k of Object.keys(series))delete series[k];
+      localStorage.removeItem('tge_series_drafts_v1');
+      saveDiscardState();
+      if(typeof tgeRenderSeries==='function')tgeRenderSeries();
+      await review();
+    }catch(e){alert('Could not discard all drafts: '+e.message);}
+  }
   async function review(){
     await getPublishStatus();
     content.replaceChildren();report.length=0;
@@ -218,6 +285,13 @@
     content.append(el('p',`${changes.length} local changes found (${changes.filter(x=>x.type==='Game').length} games, ${changes.filter(x=>x.type==='Collection').length} collections, ${changes.filter(x=>x.type==='Series').length} series artwork drafts).`));
     if(errors.length){const warning=el('p',errors.map(x=>x.error).join('\n'));warning.style.cssText='color:#ffcb8a;white-space:pre-wrap';content.append(warning)}
     if(!changes.length&&!errors.length)content.append(el('p','No differences from the embedded baseline were found.','muted'));
+    if(changes.length){
+      const discardAllButton=el('button','🗑 Discard All Local Changes');
+      discardAllButton.type='button';
+      discardAllButton.style.cssText='margin:12px 0;background:#742b2b;border:1px solid #bb6565;color:white';
+      discardAllButton.addEventListener('click',()=>discardAll(changes));
+      content.append(discardAllButton);
+    }
     for(const x of changes){
       const item=row(x.type,x.key,x.original,x.current,x.artworkPending);
       const publish=el('button',publishedThisSession.has(publishKey(x))?'Published to '+publishBranch:'Publish this '+x.type.toLowerCase());
@@ -227,6 +301,12 @@
       publish.style.marginTop='10px';
       publish.addEventListener('click',()=>submitPublish(x,publish));
       item.append(publish);
+      const discard=el('button','🗑 Discard Changes');
+      discard.type='button';
+      discard.disabled=publishedThisSession.has(publishKey(x));
+      discard.style.cssText='margin:10px 0 0 10px;background:#742b2b;border:1px solid #bb6565;color:white';
+      discard.addEventListener('click',()=>discardOne(x));
+      item.append(discard);
       content.append(item);
     }
     const status=el('p',statusMessage,'muted');status.style.marginTop='12px';content.append(status);
