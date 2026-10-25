@@ -54435,5 +54435,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4172-2adba7495112b091.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4173,
+    "title": "Big Red Report in Browser",
+    "category": "browser-based",
+    "link": "https://bigredreport.github.io/bigredreport/juego/BigRedRacing.html",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4173-fb28ef7ddf25850f.webp",
+    "date_added": "2026-10-25"
   }
 ]
