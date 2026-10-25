@@ -54451,5 +54451,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4173-fb28ef7ddf25850f.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4175,
+    "title": "Soldier of Fortune Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sidreshot/openMERC",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4175-77303cfbb1516f25.webp",
+    "date_added": "2026-10-25"
   }
 ]
