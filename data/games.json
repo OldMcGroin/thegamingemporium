@@ -54363,5 +54363,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4168-10cf924b8f72fe87.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4169,
+    "title": "The Sims: Bustin' Out PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/abilliontokens/bustinout-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "life-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4169-e48cebc2ed661e80.webp",
+    "date_added": "2026-10-25"
   }
 ]
