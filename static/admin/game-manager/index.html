@@ -92,7 +92,20 @@ function renderCollections(){$('collectionList').innerHTML=collections.map((c,i)
   localStorage.setItem('tge_manager_stage1_drafts',JSON.stringify({games:changedGames,collections:changedCollections}));
  }catch(e){alert('Local storage unavailable. Your draft may not survive a reload.');}
 }
-function restoreDrafts(){try{const d=JSON.parse(localStorage.getItem('tge_manager_stage1_drafts')||'{}');for(const g of d.games||[]){const base=baseline.find(x=>Number(x.id)===Number(g.id));if(base&&base.title!==g.title){console.error('Draft ID collision, skipped:',g.id,g.title,'baseline:',base.title);continue}const i=games.findIndex(x=>Number(x.id)===Number(g.id));if(i>=0)games[i]=g;else games.unshift(g)}for(const c of d.collections||[]){const i=collections.findIndex(x=>x.slug===c.slug);if(i>=0)collections[i]=c;else collections.push(c)}}catch(e){console.warn('Could not restore drafts',e)}}restoreDrafts();refreshOptions();render();
+function restoreDrafts(){try{const d=JSON.parse(localStorage.getItem('tge_manager_stage1_drafts')||'{}');
+// A newly published game gets its date_added from the server. Its old local
+// draft can still have an empty date; never restore that stale date over the
+// freshly embedded catalogue. Keep all genuine unpublished field changes.
+let reconciled=false;
+for(const g of d.games||[]){
+ const published=baseline.find(x=>Number(x.id)===Number(g.id));
+ if(published && published.title===g.title && published.link===g.link && published.date_added && !g.date_added){
+  g.date_added=published.date_added;
+  reconciled=true;
+ }
+}
+if(reconciled)localStorage.setItem('tge_manager_stage1_drafts',JSON.stringify(d));
+for(const g of d.games||[]){const base=baseline.find(x=>Number(x.id)===Number(g.id));if(base&&base.title!==g.title){console.error('Draft ID collision, skipped:',g.id,g.title,'baseline:',base.title);continue}const i=games.findIndex(x=>Number(x.id)===Number(g.id));if(i>=0)games[i]=g;else games.unshift(g)}for(const c of d.collections||[]){const i=collections.findIndex(x=>x.slug===c.slug);if(i>=0)collections[i]=c;else collections.push(c)}}catch(e){console.warn('Could not restore drafts',e)}}restoreDrafts();refreshOptions();render();
 
 
 /* Stage 2: local draft management; no server writes. */
