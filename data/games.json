@@ -54155,5 +54155,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4158-b7e32cc60fecce9c.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4157,
+    "title": "1 in 8 Billion in Browser",
+    "category": "browser-based",
+    "link": "https://1in8bn.com/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "life-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4157-5365805a339d2702.webp",
+    "date_added": "2026-10-25"
   }
 ]
