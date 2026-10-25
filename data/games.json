@@ -54403,5 +54403,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4170-c5070d74a2a7e778.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4171,
+    "title": "Ace Combat 04: Shattered Skies PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Onaga00/ProjectStonehenge",
+    "video_link": "https://youtu.be/am901jplnHA?si=4ct0z1KTX-OkjOjE",
+    "platform": "PlayStation 2",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4171-d8d6dd869fec41ca.webp",
+    "date_added": "2026-10-25"
   }
 ]
