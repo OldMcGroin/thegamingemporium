@@ -54139,5 +54139,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4154-df76c36c46d66d1b.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4158,
+    "title": "Crystal Defenders PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Claudio5702/Cristalis",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "tower-defence",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4158-b7e32cc60fecce9c.webp",
+    "date_added": "2026-10-25"
   }
 ]
