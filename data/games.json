@@ -53732,5 +53732,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4129-1e6dd43c2178694b.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4130,
+    "title": "Drakengard 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/soyjxck/dod3-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4130-108ad83a742b1bbe.webp",
+    "date_added": "2026-10-25"
   }
 ]
