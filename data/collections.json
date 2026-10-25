@@ -232,5 +232,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/forza-horizon-2-collection.webp"
+  },
+  {
+    "name": "Pokémon Gen 1",
+    "slug": "pokemon-gen-1",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-gen-1-collection.webp"
   }
 ]
