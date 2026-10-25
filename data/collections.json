@@ -253,5 +253,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/gran-turismo-4-collection.webp"
+  },
+  {
+    "name": "Harvest Moon 64",
+    "slug": "harvest-moon-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/harvest-moon-64-collection.webp"
   }
 ]
