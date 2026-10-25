@@ -211,5 +211,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/eternal-darkness-sanity-s-requiem-collection.webp"
+  },
+  {
+    "name": "FIFA Street",
+    "slug": "fifa-street",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/fifa-street-collection.webp"
   }
 ]
