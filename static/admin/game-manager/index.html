@@ -118,12 +118,13 @@ for(const id of ['gameDialog','collectionDialog']){const dlg=$(id);dlg?.querySel
 const tgeIdentity=g=>JSON.stringify([String(g?.title||''),String(g?.link||'')]);
 const tgeBaselineKeys=new Set(baseline.map(tgeIdentity));
 const tgeIsBaseline=g=>tgeBaselineKeys.has(tgeIdentity(g));
-const tgeDraftKey=g=>tgeIdentity(g);
+const tgeDraftKey=g=>String(Number(g?.id));
 function tgeUniqueDrafts(items){
  const result=new Map();
  for(const g of items||[]){if(!g||typeof g.title!=='string'||typeof g.link!=='string')continue;
   // Last saved version wins, including multiple historical copies of the same project.
-  result.set(tgeDraftKey(g),{...g});
+  if(!Number.isSafeInteger(Number(g.id))||Number(g.id)<=0)continue;
+   result.set(tgeDraftKey(g),{...g});
  }
  return [...result.values()];
 }
@@ -133,7 +134,7 @@ function tgeValidateNewIds(items){
  const errors=[];
  for(const g of items){const id=Number(g.id);if(!Number.isSafeInteger(id)||id<=0){errors.push('Invalid ID: '+g.title);continue;}
   const known=occupied.get(id);
-  if(known&&!known.has(tgeIdentity(g)))errors.push('ID '+id+' belongs to a different game: '+g.title);
+  if(known && !baseline.some(x=>Number(x.id)===id))errors.push('ID '+id+' belongs to a different game: '+g.title);
   if(!known)occupied.set(id,new Set([tgeIdentity(g)]));
  }
  return errors;
@@ -162,7 +163,7 @@ try{
  const newIds=new Set(baseline.map(g=>Number(g.id)));
  const safe=[];
  for(const g of cleaned){
-  if(tgeIsBaseline(g)){safe.push(g);continue;}
+  if(baseline.some(x=>Number(x.id)===Number(g.id))){safe.push(g);continue;}
   const id=Number(g.id);
   if(newIds.has(id)){console.warn('Draft with occupied ID retained in storage for manual review:',g.title,id);continue;}
   newIds.add(id);safe.push(g);
@@ -194,7 +195,7 @@ nextUniqueGameId=function(){
  return Math.max(0,...ids)+1;
 };
 // Cache the baseline identity index once; it is immutable for this page load.
-const tgeBaselineDraftIndex=new Map(baseline.map(g=>[tgeIdentity(g),JSON.stringify(g)]));
+const tgeBaselineDraftIndex=new Map(baseline.map(g=>[tgeDraftKey(g),JSON.stringify(g)]));
 const tgeBaselineCollectionIndex=new Map(baselineCollections.map(c=>[c.slug,JSON.stringify(c)]));
 persistDrafts=function(){
  try{
@@ -203,7 +204,7 @@ persistDrafts=function(){
   const out=[];
   const current=new Set();
   for(const g of games){
-   const key=tgeIdentity(g);current.add(key);
+   const key=tgeDraftKey(g);current.add(key);
    if(tgeBaselineDraftIndex.get(key)!==JSON.stringify(g))out.push(g);
   }
   for(const [key,g] of draftByIdentity)if(!current.has(key))out.push(g);
@@ -233,7 +234,7 @@ saveGame=function(){
  // Verify the browser actually retained this edited record before claiming success.
  try {
   const stored=JSON.parse(localStorage.getItem(STAGE2_KEY)||'{}');
-  const persisted=(stored.games||[]).find(x=>Number(x.id)===Number(g.id)&&tgeIdentity(x)===tgeIdentity(g));
+  const persisted=(stored.games||[]).find(x=>Number(x.id)===Number(g.id));
   const original=baseline.find(x=>Number(x.id)===Number(g.id));
   if((!original||JSON.stringify(original)!==JSON.stringify(g))&&(!persisted||JSON.stringify(persisted)!==JSON.stringify(g))){
    alert('Draft verification failed: the edited game was not retained in browser storage. Please keep the editor open and try again.');return;
@@ -257,11 +258,11 @@ stage2DiscardGame=function(){
  if(editing==null){alert('Use Cancel for an unsaved new game.');return;}
  const current=tgeEditingIndex!=null?games[tgeEditingIndex]:games.find(g=>Number(g.id)===Number(editing));
  if(!current)return;
- const original=baseline.find(g=>tgeIdentity(g)===tgeIdentity(current));
+ const original=baseline.find(g=>Number(g.id)===Number(current.id));
  if(!confirm(original?'Discard local edits to this game?':'Delete this local game draft?'))return;
  const i=games.indexOf(current);if(original)games[i]={...original};else games.splice(i,1);
  const saved=JSON.parse(localStorage.getItem(STAGE2_KEY)||'{}');
- saved.games=(saved.games||[]).filter(g=>tgeIdentity(g)!==tgeIdentity(current));
+ saved.games=(saved.games||[]).filter(g=>Number(g.id)!==Number(current.id));
  localStorage.setItem(STAGE2_KEY,JSON.stringify(saved));
  $('gameDialog').close();tgeEditingIndex=null;persistDrafts();refreshOptions();render();
 };
@@ -315,7 +316,7 @@ async function showCardPreview(){
 }
 </script>
 <script src="/admin/game-manager/image-drafts.js?v=20261021-mobile-fix-2" defer onerror="console.error('Game Manager image processor failed to load')"></script>
-<script src="/admin/game-manager/review-publish.js?v=20261025-image-reuse-fix" defer></script><script src="/admin/game-manager/delete-collection.js?v=20261025-1" defer></script><script src="/admin/game-manager/delete-game.js?v=20261025-1" defer></script><script>tgeInitSearch();</script><script>
+<script src="/admin/game-manager/review-publish.js?v=stage5-safe-test-3" defer></script><script>tgeInitSearch();</script><script>
 // Local Series Manager stage: case-insensitive draft names and artwork previews.
 // Publishing and browse-index migrations require separate server-side integration.
 const tgeSeriesKey=n=>String(n||'').trim().replace(/\s+/g,' ').toLocaleLowerCase('en');
