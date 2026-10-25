@@ -54299,5 +54299,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4164-59bd19c0b5d2ab77.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4166,
+    "title": "Game Decompilation Skill For Claude",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/lemiur/Game-Decompilation-Skill-For-Claude",
+    "video_link": "",
+    "platform": "Multiple Platforms",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4166-0d5c87429ee59395.webp",
+    "date_added": "2026-10-25"
   }
 ]
