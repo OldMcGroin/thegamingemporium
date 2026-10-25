@@ -288,5 +288,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mega-man-x4-collection.webp"
+  },
+  {
+    "name": "Metal Gear Solid",
+    "slug": "metal-gear-solid",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/metal-gear-solid-collection.webp"
   }
 ]
