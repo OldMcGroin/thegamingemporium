@@ -53979,5 +53979,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4144-0d227020aa77abf2.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4145,
+    "title": "Uniracers Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/fselich/redcomp-dream",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4145-e30c960fa4ff1f5f.webp",
+    "date_added": "2026-10-25"
   }
 ]
