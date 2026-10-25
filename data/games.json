@@ -53748,5 +53748,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4130-108ad83a742b1bbe.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4131,
+    "title": "Guitar Hero Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mbracali/prj-gd-engine/releases/tag/gd-game-01%2Fv1.1.2",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4131-6f3d3e3169f75055.webp",
+    "date_added": "2026-10-25"
   }
 ]
