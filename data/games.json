@@ -54267,5 +54267,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4163-d1b4c250ba2440bb.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4162,
+    "title": "Drift City Rebuilt in Unity",
+    "category": "decompilations-recompilations",
+    "link": "https://magicibrar.github.io/driftcity-unity/",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "MMO",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4162-e99e24b443ff881d.webp",
+    "date_added": "2026-10-25"
   }
 ]
