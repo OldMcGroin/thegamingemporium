@@ -165,8 +165,31 @@
     // Use numeric IDs, not title/link, to identify existing games.
     const originals=new Map(baseline.map(g=>[Number(g.id),g]));
     const originalCollections=new Map(baselineCollections.map(c=>[c.slug,c]));
+    // Review both live editor state and persisted drafts. A successful local save
+    // must not disappear simply because a later UI refresh lost its in-memory copy.
+    const reviewGames=games.slice();
+    let savedDrafts=[];
+    try {
+      const raw=JSON.parse(localStorage.getItem('tge_manager_stage1_drafts')||'{}');
+      savedDrafts=Array.isArray(raw.games)?raw.games:[];
+    } catch(error) {
+      report.push({error:'Saved game drafts could not be read: '+error.message});
+    }
+    for(const draft of savedDrafts){
+      if(!draft || !Number.isSafeInteger(Number(draft.id)) || !draft.title || !draft.link){
+        report.push({error:'A saved game draft is invalid and needs attention.'});continue;
+      }
+      const id=Number(draft.id);
+      const original=originals.get(id);
+      if(original && (original.title!==draft.title || original.link!==draft.link)){
+        report.push({error:'Saved draft ID '+id+' conflicts with the embedded game identity: '+draft.title});continue;
+      }
+      const index=reviewGames.findIndex(g=>Number(g.id)===id);
+      if(index<0)reviewGames.push(draft);
+      else if(original && eq(original,reviewGames[index]) && !eq(original,draft))reviewGames[index]=draft;
+    }
     const seen=new Set();
-    for(const g of games){
+    for(const g of reviewGames){
       const id=Number(g.id);
       if(!Number.isSafeInteger(id)||id<=0||seen.has(id)){
         report.push({error:`Invalid or duplicate game ID: ${g.id} (${g.title||'untitled'})`});continue;

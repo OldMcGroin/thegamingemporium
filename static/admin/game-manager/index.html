@@ -230,6 +230,15 @@ saveGame=function(){
   localStorage.setItem(STAGE2_KEY,JSON.stringify(stored));
  }
  if(!persistDrafts())return;
+ // Verify the browser actually retained this edited record before claiming success.
+ try {
+  const stored=JSON.parse(localStorage.getItem(STAGE2_KEY)||'{}');
+  const persisted=(stored.games||[]).find(x=>Number(x.id)===Number(g.id)&&tgeIdentity(x)===tgeIdentity(g));
+  const original=baseline.find(x=>Number(x.id)===Number(g.id));
+  if((!original||JSON.stringify(original)!==JSON.stringify(g))&&(!persisted||JSON.stringify(persisted)!==JSON.stringify(g))){
+   alert('Draft verification failed: the edited game was not retained in browser storage. Please keep the editor open and try again.');return;
+  }
+ }catch(error){alert('Draft verification failed: '+error.message);return;}
  $('gameDialog').close();tgeEditingIndex=null;refreshOptions();render();
  alert('Saved locally in this browser. Nothing has been published.');
 };
