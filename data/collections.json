@@ -246,5 +246,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-gen-2-collection.webp"
+  },
+  {
+    "name": "Gran Turismo 4",
+    "slug": "gran-turismo-4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/gran-turismo-4-collection.webp"
   }
 ]
