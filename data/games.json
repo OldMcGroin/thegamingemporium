@@ -54187,5 +54187,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4156-ecd3d09dabf816fa.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4155,
+    "title": "Courier Crisis Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/salmon85/courier-crisis-recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "racing",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4155-9baa6bec8b814d7f.webp",
+    "date_added": "2026-10-25"
   }
 ]
