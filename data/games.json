@@ -54171,5 +54171,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4157-5365805a339d2702.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4156,
+    "title": "Tetrisphere Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/djultra64/Blocksphere",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "puzzle",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4156-ecd3d09dabf816fa.webp",
+    "date_added": "2026-10-25"
   }
 ]
