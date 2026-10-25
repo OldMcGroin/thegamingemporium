@@ -54123,5 +54123,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4153-5791cd72d202ca37.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4154,
+    "title": "Wayne Gretzky's 3D Hockey Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/geno55/wg3d-recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "sports",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4154-df76c36c46d66d1b.webp",
+    "date_added": "2026-10-25"
   }
 ]
