@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-24T08:56:18.229646+00:00",
-  "total": 4087,
+  "checked_at": "2026-10-25T09:15:48.503355+00:00",
+  "total": 4111,
   "results": [
     {
       "id": 1,
@@ -178,7 +178,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 19,
@@ -883,7 +883,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 90,
@@ -1616,7 +1616,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 164,
@@ -1625,7 +1625,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 165,
@@ -1672,7 +1672,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 170,
@@ -2182,7 +2182,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 222,
@@ -2405,9 +2405,8 @@
       "title": "Sonic 2 HD",
       "url": "https://sonic2hd.com/download/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 202",
-      "final_url": "https://sonic2hd.com/download/",
+      "status": "other",
+      "detail": "HTTP 403",
       "consecutive_failures": 0
     },
     {
@@ -2557,7 +2556,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 260,
@@ -2743,7 +2742,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 277,
@@ -2954,8 +2953,9 @@
       "title": "Super Mario Brothers Flashback",
       "url": "https://mfgg.net/index.php?act=resdb&param=02&c=2&id=37605",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://mfgg.net/index.php?act=resdb&param=02&c=2&id=37605",
       "consecutive_failures": 0
     },
     {
@@ -3071,9 +3071,8 @@
       "title": "Super Mario War",
       "url": "http://smwstuff.net/game",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "http://smwstuff.net/game",
+      "status": "other",
+      "detail": "HTTP 503",
       "consecutive_failures": 0
     },
     {
@@ -3277,7 +3276,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 332,
@@ -4109,7 +4108,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 413,
@@ -6424,7 +6423,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 643,
@@ -6443,7 +6442,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 645,
@@ -6772,7 +6771,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 678,
@@ -6971,7 +6970,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 697,
@@ -7010,7 +7009,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 701,
@@ -7019,7 +7018,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 702,
@@ -7348,7 +7347,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 735,
@@ -7357,7 +7356,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 736,
@@ -7524,9 +7523,8 @@
       "title": "Skywind",
       "url": "https://tesrskywind.com/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://tesrskywind.com/",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -7746,7 +7744,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 775,
@@ -7985,7 +7983,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/abelbriggs1/tm1_decomp",
+      "final_url": "https://github.com/OpenTrac/tm1_Re-Arc",
       "consecutive_failures": 0
     },
     {
@@ -7995,7 +7993,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/abelbriggs1/tmb_decomp",
+      "final_url": "https://github.com/OpenTrac/tmb_Re-Arc",
       "consecutive_failures": 0
     },
     {
@@ -8075,7 +8073,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 808,
@@ -8144,7 +8142,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 815,
@@ -8316,7 +8314,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=5027b257ba43465b1a0e062b64876a506e3bff4c1d0d300703a2097ed01b16f8&aud=forums.civfanatics.com&aid=eecd95e247b2dea8270880ab311a0c17",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=afbe4e4383ccaf14c6ee70235e21e93d714815ad3b6451ac954ef2dfcb01f022&aud=forums.civfanatics.com&aid=d1cae99a5a57e4d62ae768fb64bbe4fa",
       "consecutive_failures": 0
     },
     {
@@ -9082,9 +9080,8 @@
       "title": "NBA Jam Legends on Fire Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -9282,7 +9279,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 934,
@@ -9601,7 +9598,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 968,
@@ -10029,7 +10026,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1011,
@@ -10108,7 +10105,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1019,
@@ -10457,7 +10454,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1054,
@@ -10706,7 +10703,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1079,
@@ -11105,7 +11102,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1117,
@@ -11114,7 +11111,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1118,
@@ -11163,7 +11160,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1123,
@@ -11252,7 +11249,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1132,
@@ -11311,7 +11308,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1138,
@@ -11630,7 +11627,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1170,
@@ -14147,7 +14144,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1436,
@@ -14166,7 +14163,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1438,
@@ -14185,7 +14182,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1440,
@@ -14203,7 +14200,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1442,
@@ -14250,7 +14247,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1447,
@@ -14259,7 +14256,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1448,
@@ -14378,7 +14375,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1460,
@@ -14387,7 +14384,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1461,
@@ -14396,7 +14393,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1462,
@@ -14405,7 +14402,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1463,
@@ -14414,7 +14411,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1464,
@@ -14441,7 +14438,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1467,
@@ -14450,7 +14447,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1468,
@@ -15272,8 +15269,9 @@
       "title": "BZFlag",
       "url": "https://www.bzflag.org/",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 503",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.bzflag.org/",
       "consecutive_failures": 0
     },
     {
@@ -16460,7 +16458,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1668,
@@ -17023,7 +17021,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1727,
@@ -17772,7 +17770,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1802,
@@ -18160,7 +18158,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 1841,
@@ -19239,7 +19237,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 1948,
@@ -19627,7 +19625,7 @@
       "url": "https://www.smwcentral.net/?p=viewthread&t=131870&page=1&pid=1661675",
       "hidden": false,
       "status": "other",
-      "detail": "TimeoutError",
+      "detail": "HTTP 403",
       "consecutive_failures": 0
     },
     {
@@ -19900,7 +19898,7 @@
       "url": "https://www.smwcentral.net/?p=viewthread&t=131734",
       "hidden": false,
       "status": "other",
-      "detail": "TimeoutError",
+      "detail": "HTTP 403",
       "consecutive_failures": 0
     },
     {
@@ -20128,7 +20126,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 2037,
@@ -20454,7 +20452,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2069,
@@ -21076,8 +21074,9 @@
       "title": "Seen in Liberty City - GTA 3 PSP Remake",
       "url": "https://barcode-studia.ru/mods/silc/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://barcode-studia.ru/mods/silc/",
       "consecutive_failures": 0
     },
     {
@@ -21164,8 +21163,9 @@
       "title": "SDL Scavenger",
       "url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "consecutive_failures": 0
     },
     {
@@ -21531,7 +21531,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2176,
@@ -21767,9 +21767,9 @@
       "title": "Flare",
       "url": "https://flarerpg.org/2026/05/03/flare-1-15/",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 500",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2200,
@@ -22195,7 +22195,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2240,
@@ -22352,7 +22352,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2256,
@@ -22371,7 +22371,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2258,
@@ -22628,7 +22628,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 2280,
@@ -22637,7 +22637,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2281,
@@ -24423,7 +24423,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2458,
@@ -24432,7 +24432,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2459,
@@ -24977,10 +24977,9 @@
       "title": "TeknoParrot for Android",
       "url": "https://github.com/teknogods/TeknoParrotUI/releases/tag/TeknoParrotUI-android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/teknogods/TeknoParrotUI/releases/tag/TeknoParrotUI-android",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 2513,
@@ -26055,7 +26054,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2622,
@@ -26064,7 +26063,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2623,
@@ -26073,7 +26072,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2624,
@@ -26082,7 +26081,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2625,
@@ -26091,7 +26090,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2626,
@@ -26100,7 +26099,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2627,
@@ -26299,7 +26298,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 2648,
@@ -26318,7 +26317,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2650,
@@ -27666,7 +27665,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2794,
@@ -27855,7 +27854,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2813,
@@ -27884,7 +27883,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2816,
@@ -28093,7 +28092,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 2839,
@@ -28442,7 +28441,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2877,
@@ -28561,7 +28560,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2888,
@@ -28620,7 +28619,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 2894,
@@ -28826,7 +28825,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2916,
@@ -29374,7 +29373,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2973,
@@ -29503,7 +29502,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 2985,
@@ -30059,7 +30058,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3042,
@@ -30756,7 +30755,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3114,
@@ -30765,7 +30764,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3115,
@@ -30983,7 +30982,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 3136,
@@ -31150,7 +31149,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3152,
@@ -31289,7 +31288,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3166,
@@ -31488,7 +31487,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3204,
@@ -31497,7 +31496,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3185,
@@ -31925,7 +31924,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3233,
@@ -32174,7 +32173,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3258,
@@ -33242,7 +33241,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3365,
@@ -34000,7 +33999,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3443,
@@ -34049,7 +34048,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://redblue.benjamincrozat.com/",
+      "final_url": "https://redblueonline.com/",
       "consecutive_failures": 0
     },
     {
@@ -34185,9 +34184,8 @@
       "title": "Mega Man RPG Prototype in Browser",
       "url": "https://prototype.mmrpg-world.net/file/load/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://prototype.mmrpg-world.net/file/load/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -35167,7 +35165,7 @@
       "hidden": true,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3564,
@@ -38049,7 +38047,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3854,
@@ -38198,7 +38196,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3869,
@@ -38237,7 +38235,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3873,
@@ -38915,7 +38913,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3971,
@@ -40305,6 +40303,244 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/Hyant4/Knack-II-pc-port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4111,
+      "title": "The Legend of Zelda: Breath of the Wild Recompilation (Wii U)",
+      "url": "https://github.com/ryderclanky/BotW-Native",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ryderclanky/BotW-Native",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4112,
+      "title": "Quake 4 Recompilation",
+      "url": "https://github.com/cyberheater/Xbox-360-Quake4-decomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/cyberheater/Xbox-360-Quake4-decomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4113,
+      "title": "Ecstatica for Android",
+      "url": "https://github.com/Thesoim/Ecstatica-1994---Port-Android-",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Thesoim/Ecstatica-1994---Port-Android-",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4114,
+      "title": "007: From Russia with Love PC Port",
+      "url": "https://github.com/TGP482/007FRWL-XBERecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TGP482/007FRWL-XBERecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4115,
+      "title": "The Legend of Zelda: Breath of the Wild for Android",
+      "url": "https://github.com/mamcjr/BOTWRecompAndroid",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mamcjr/BOTWRecompAndroid",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4116,
+      "title": "Ghost Recon: Future Soldier PS5 Port",
+      "url": "https://github.com/lamarkingru/grfs-ps5",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/lamarkingru/grfs-ps5",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4117,
+      "title": "Luigi's Mansion for Android",
+      "url": "https://github.com/JayElDragon/luigis-mansion-android",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/JayElDragon/luigis-mansion-android",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4119,
+      "title": "ClayFighter 64 Recompilation",
+      "url": "https://github.com/djultra64/ClayFighter64",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/djultra64/ClayFighter64",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4118,
+      "title": "BlastCorps Recompilation",
+      "url": "https://github.com/SlaveOfIDO/blastcorps-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/SlaveOfIDO/blastcorps-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4121,
+      "title": "Shin Megami Tensei NINE Recompilation",
+      "url": "https://github.com/gymzatan/smt-nine-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gymzatan/smt-nine-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4120,
+      "title": "Pokemon Pinball World Field",
+      "url": "https://www.hackdex.app/hack/pokemon-pinball-world-field",
+      "hidden": false,
+      "status": "other",
+      "detail": "HTTP 429",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4122,
+      "title": "Ben 10 Cosmic Destruction Recompilation",
+      "url": "https://github.com/ExtremestoneGG/Cosmic-Recompi",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ExtremestoneGG/Cosmic-Recompi",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4123,
+      "title": "Ace Combat 3: Electrosphere PC Port and Remaster",
+      "url": "https://github.com/i5han/ac3-remix",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/i5han/ac3-remix",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4124,
+      "title": "Resident Evil Code: Veronica X HD Recompilation",
+      "url": "https://github.com/kastieloficial/RE-Code-Veronica-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/kastieloficial/RE-Code-Veronica-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4125,
+      "title": "Cyberpunk 2077 Co-op Mod: NightCoop",
+      "url": "https://nightcoop.net/beta.html",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://nightcoop.net/beta.html",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4126,
+      "title": "Panzer Dragoon Saga Recompilation ",
+      "url": "https://www.yabasanshiro.com/pds-recompile",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.yabasanshiro.com/pds-recompile",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4128,
+      "title": "The Legend of Zelda: Echoes of Wisdom Recompilation",
+      "url": "https://github.com/Neguchads/Castlevania-COD-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Neguchads/Castlevania-COD-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4127,
+      "title": "Uncharted: The Nathan Drake Collection for Android",
+      "url": "https://github.com/revvv991/uncharted-android",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/revvv991/uncharted-android",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4129,
+      "title": "Godzilla PC Port",
+      "url": "https://github.com/gminustwo/minustwo",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gminustwo/minustwo",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4130,
+      "title": "Drakengard 3 Recompilation",
+      "url": "https://github.com/soyjxck/dod3-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/soyjxck/dod3-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4131,
+      "title": "Guitar Hero Reimplementation",
+      "url": "https://github.com/mbracali/prj-gd-engine/releases/tag/gd-game-01%2Fv1.1.2",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mbracali/prj-gd-engine/releases/tag/gd-game-01%2Fv1.1.2",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4132,
+      "title": "Guitar Hero Reimplementation for Android",
+      "url": "https://github.com/mbracali/prj-gd-engine/releases/tag/gd-game-01%2Fv1.1.2https://github.com/mbracali/prj-gd-engine/releases/tag/gd-game-01%2Fv1.1.2",
+      "hidden": false,
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
+    },
+    {
+      "id": 4133,
+      "title": "inFAMOUS First Light PC Port",
+      "url": "https://github.com/VantageEX/infamous-first-light-pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/VantageEX/infamous-first-light-pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4134,
+      "title": "Skyrim for Android",
+      "url": "https://github.com/ttom795/Skyrim_Android/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ttom795/Skyrim_Android/",
       "consecutive_failures": 0
     }
   ]
