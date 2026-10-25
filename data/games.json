@@ -53780,5 +53780,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4132-131e286dcbc0ec2e.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4133,
+    "title": "inFAMOUS First Light PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/VantageEX/infamous-first-light-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4133-d692fe162c721f54.webp",
+    "date_added": "2026-10-25"
   }
 ]
