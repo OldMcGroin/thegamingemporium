@@ -53995,5 +53995,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4145-e30c960fa4ff1f5f.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4146,
+    "title": "Portal Deathmatch",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/portal-deathmatch",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4146-4b524702e8c497ea.webp",
+    "date_added": "2026-10-25"
   }
 ]
