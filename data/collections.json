@@ -281,5 +281,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/medievil-collection.webp"
+  },
+  {
+    "name": "Mega Man X4",
+    "slug": "mega-man-x4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mega-man-x4-collection.webp"
   }
 ]
