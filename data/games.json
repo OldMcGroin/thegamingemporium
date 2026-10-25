@@ -53931,5 +53931,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4139-ff41d9711de39e84.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4142,
+    "title": "Landstalker Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CmdrLucid/Project-Friday",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4142-3a5f2fa1de6d5aee.webp",
+    "date_added": "2026-10-25"
   }
 ]
