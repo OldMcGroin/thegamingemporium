@@ -54486,5 +54486,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4174-006bfd1e3bc23f41.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4176,
+    "title": "Crash Twinsanity PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GioPixelGH/Crash-Twinsanity-Windows",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "Platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4176-7dda88184833ce91.webp",
+    "date_added": "2026-10-25"
   }
 ]
