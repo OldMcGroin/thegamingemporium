@@ -53796,5 +53796,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4133-d692fe162c721f54.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4134,
+    "title": "Skyrim for Android",
+    "category": "android-ports",
+    "link": "https://github.com/ttom795/Skyrim_Android/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4134-70ba830cea651038.webp",
+    "date_added": "2026-10-25"
   }
 ]
