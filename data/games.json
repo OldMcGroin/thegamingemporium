@@ -39696,7 +39696,9 @@
     "genre2": "creature-collector",
     "series": "Pokemon",
     "video_link": "",
-    "date_added": "2026-09-11"
+    "date_added": "2026-09-11",
+    "ai_usage": "heavy",
+    "collection": "pokemon-gen-2"
   },
   {
     "id": 3014,
