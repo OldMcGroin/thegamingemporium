@@ -145,8 +145,8 @@ function tgeLoadDrafts(data){
  if(problems.length)throw Error(problems.slice(0,10).join('\n'));
  games=baseline.map(g=>({...g}));
  for(const g of cleaned){
-  const exact=games.findIndex(x=>Number(x.id)===Number(g.id)&&tgeIdentity(x)===tgeIdentity(g));
-  const i=exact>=0?exact:games.findIndex(x=>tgeIdentity(x)===tgeIdentity(g));
+  // A draft belongs to its numeric game ID, never another record sharing a title/URL.
+  const i=games.findIndex(x=>Number(x.id)===Number(g.id));
   if(i>=0)games[i]={...games[i],...g,id:games[i].id};else games.unshift({...g});
  }
  collections=baselineCollections.map(c=>({...c}));
