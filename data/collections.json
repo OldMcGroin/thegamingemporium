@@ -232,12 +232,5 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/forza-horizon-2-collection.webp"
-  },
-  {
-    "name": "Test",
-    "slug": "test",
-    "weight": 0,
-    "enabled": true,
-    "image": "/Images/Games/test-collection.webp"
   }
 ]
