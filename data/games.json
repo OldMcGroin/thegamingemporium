@@ -53915,5 +53915,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4141-f6a2a1816d265bae.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4139,
+    "title": "Monster Hunter Generations Ultimate",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/morerokk/MHGURecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4139-ff41d9711de39e84.webp",
+    "date_added": "2026-10-25"
   }
 ]
