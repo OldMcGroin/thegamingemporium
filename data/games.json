@@ -54011,5 +54011,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4146-4b524702e8c497ea.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4147,
+    "title": "Project Gotham Racing 4 Recompilation 2 ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/shaunsingh/pgr4-native/tree/main",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4147-303380aa3cf0b9b6.webp",
+    "date_added": "2026-10-25"
   }
 ]
