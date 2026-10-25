@@ -54235,5 +54235,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4161-11be5e4f182c08e1.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4160,
+    "title": "Rampage: Total Destruction PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jjmhalew/RampageRE",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "Platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4160-8c0a279a484430ab.webp",
+    "date_added": "2026-10-25"
   }
 ]
