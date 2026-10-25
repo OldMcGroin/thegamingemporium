@@ -124,6 +124,41 @@ async function publishSeriesArtwork(env,body){
   return reply({ok:true,message:'Series artwork published.',type:'series',id:r.slug});
  }catch(e){console.error('Series artwork publish failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed during publishing. Refresh review.':'Series artwork publishing failed. Check Cloudflare logs.'},[409,422].includes(e.status)?409:502)}
 }
+// Collection deletion uses one atomic Git commit for both catalogues and the page.
+// A fresh branch-head comparison prevents deleting or changing a stale collection.
+async function deleteCollection(env,body){
+ const before=body.before;
+ if(!obj(before)||typeof before.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(before.slug)||before.slug.length>150)
+  return reply({ok:false,message:'Invalid original collection.'},400);
+ if(!Array.isArray(body.expectedGameIds)||body.expectedGameIds.length>20000||body.expectedGameIds.some(id=>!Number.isSafeInteger(id)||id<1)||new Set(body.expectedGameIds).size!==body.expectedGameIds.length)
+  return reply({ok:false,message:'Invalid affected game list. Refresh the Manager.'},400);
+ try{
+  const branch=BRANCH(env),ref=await github(env,'git/ref/heads/'+encodeURIComponent(branch)),head=ref.object?.sha;
+  if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
+  const [parent,cFile,gFile]=await Promise.all([github(env,'git/commits/'+head),readFile(env,PATHS.collection),readFile(env,PATHS.game)]);
+  const current= cFile.list.filter(c=>c?.slug===before.slug);
+  if(current.length!==1||!equal(current[0],before))return reply({ok:false,message:'Collection differs from the published version. Refresh the Manager before deleting.'},409);
+  const affected=gFile.list.filter(g=>g?.collection===before.slug);
+  const actual=affected.map(g=>g.id).sort((a,b)=>a-b),expected=[...body.expectedGameIds].sort((a,b)=>a-b);
+  if(!equal(actual,expected))return reply({ok:false,message:'Collection membership has changed on GitHub. Refresh the Manager before deleting.'},409);
+  const check=await Promise.all([github(env,PATHS.collection+'?ref='+encodeURIComponent(head)),github(env,PATHS.game+'?ref='+encodeURIComponent(head))]);
+  if(check[0].sha!==cFile.sha||check[1].sha!==gFile.sha)return reply({ok:false,message:'Catalogue changed while checking. Retry after refreshing.'},409);
+  const updatedCollections=cFile.list.filter(c=>c.slug!==before.slug);
+  const updatedGames=gFile.list.map(g=>g.collection===before.slug?{...g,collection:''}:g);
+  const entries=[];
+  for(const [path,list] of [[PATHS.collection,updatedCollections],[PATHS.game,updatedGames]]){
+   const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
+   entries.push({path,mode:'100644',type:'blob',sha:blob.sha});
+  }
+  const page='content/collections/'+before.slug+'/index.md';
+  try{await github(env,page+'?ref='+encodeURIComponent(head));entries.push({path:page,mode:'100644',type:'blob',sha:null})}
+  catch(e){if(e.status!==404)throw e}
+  const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:parent.tree.sha,tree:entries})});
+  const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Game Manager: delete collection '+before.slug+' and unassign '+affected.length+' games',tree:tree.sha,parents:[head]})});
+  await github(env,'git/refs/heads/'+encodeURIComponent(branch),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:commit.sha,force:false})});
+  return reply({ok:true,type:'collection',action:'delete',id:before.slug,unassigned:affected.length});
+ }catch(e){console.error('Collection deletion failed',e);return reply({ok:false,message:[409,422].includes(e.status)?'GitHub changed; refresh before deleting.':'Collection deletion failed; no partial branch update was made.'},[409,422].includes(e.status)?409:502)}
+}
 // Read-only authenticated Preview publishing status. Does not access GitHub or drafts.
 // Both switches must be explicitly enabled for live publishing. Defaults are fail-closed.
 // Production deployment is separate from permission to write to the main branch.
@@ -157,6 +192,7 @@ export async function onRequestPost({request,env}){
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
  const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
+ if(body?.type==='collection'&&body.action==='delete')return deleteCollection(env,body);
  if(body?.type==='series')return publishSeriesArtwork(env,body);
  if(!obj(body)||!['game','collection'].includes(body.type)||!['create','update'].includes(body.action)||!obj(body.record))return reply({ok:false,message:'Invalid publish request.'},400);
  const {type,action,record,before}=body,err=validate(type,record);if(err)return reply({ok:false,message:err},400);
@@ -225,11 +261,13 @@ export async function onRequestPost({request,env}){
   const entries=[];
   const jsonBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
   entries.push({path,mode:'100644',type:'blob',sha:jsonBlob.sha});
-  if(imageUpload){
+  if(imageUpload && !(type==='game' && action==='update' && record.image===before.image)){
    const imgPath='static'+record.image;
    // Reject any filename already present at the branch head, even if a
    // concurrent editor supplied a colliding name.
-   if(type==='game'){try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'Image filename already exists; choose the image again.'},409)}catch(e){if(e.status!==404)throw e}}
+   if(type==='game'){
+    try{await github(env,imgPath+'?ref='+encodeURIComponent(head));return reply({ok:false,message:'The new image filename is already in use. Re-select the image.'},409)}catch(e){if(e.status!==404)throw e}
+   }
    const imageBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:imageUpload.base64,encoding:'base64'})});
    entries.push({path:imgPath,mode:'100644',type:'blob',sha:imageBlob.sha});
   }

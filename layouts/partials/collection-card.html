@@ -6,7 +6,12 @@
   {{- $image = . -}}
 {{- end -}}
 {{- /* Version the URL so an earlier cached 404 cannot hide newly published artwork. */ -}}
-{{- $imageURL := printf "%s?v=collection-artwork-20261023" $image -}}
+{{- $imageURL := $image -}}
+{{- $diskImage := printf "static%s" $image -}}
+{{- if fileExists $diskImage -}}
+  {{- $digest := sha256 (readFile $diskImage) -}}
+  {{- $imageURL = printf "%s?v=%s" $image (substr $digest 0 12) -}}
+{{- end -}}
 <div class="game-card game-card--collection" data-title="{{ $c.name }}" data-weight="{{ default 0 $c.weight }}" data-genres="" data-category="decompilations-recompilations" data-ai-usage="" data-platform="" data-date-added="" data-collection="true">
   {{ if hugo.IsServer }}<button class="copy-filename-btn" type="button" data-slug="{{ $slug }}" title="Copy collection image slug">Copy filename</button>{{ end }}
   <a class="game-card__link" href="/collections/{{ $c.slug }}/" aria-label="View {{ $c.name }} Collection">

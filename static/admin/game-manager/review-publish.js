@@ -99,7 +99,10 @@
     if(!confirmPublish(change))return;
     const request=preparePublishRequest(change);
     if(change.type==='Series'){request.imageUpload=dataURLUpload(change.current.image);if(!request.imageUpload){alert('Save a WebP artwork draft before publishing.');return;}}
-     if(request.record.image&&window.tgeGetImageUpload){
+     // Existing game artwork needs no upload when editing only its metadata.
+    // Fresh artwork uses a newly generated image filename, so it still uploads.
+    const samePublishedGameImage=change.type==='Game' && change.original && request.record.image===change.original.image;
+    if(request.record.image&&!samePublishedGameImage&&window.tgeGetImageUpload){
       try{const upload=await window.tgeGetImageUpload(request.record.image);if(upload)request.imageUpload=upload;
       else if(request.record.image!==change.original?.image)throw Error('Image bytes are missing from this browser. Re-select the image and save the draft.');
       }catch(e){alert('Artwork not ready: '+e.message);return;}
