@@ -267,5 +267,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/infamous-collection.webp"
+  },
+  {
+    "name": "Kula World",
+    "slug": "kula-world",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/kula-world-collection.webp"
   }
 ]
