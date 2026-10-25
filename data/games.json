@@ -53883,5 +53883,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4138-8f983808ed45c0fe.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4140,
+    "title": "Super Smash Bros. for Wii U Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/josiahg2502-glitch/Smash4PC",
+    "video_link": "",
+    "platform": "Wii U",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4140-7e318514fb5ac42d.webp",
+    "date_added": "2026-10-25"
   }
 ]
