@@ -54251,5 +54251,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4160-8c0a279a484430ab.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4163,
+    "title": "Futurama the Game Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hiburn8/futurama-the-game-the-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "platformer",
+    "genre2": "third-person-shooter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4163-d1b4c250ba2440bb.webp",
+    "date_added": "2026-10-25"
   }
 ]
