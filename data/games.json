@@ -53867,5 +53867,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4137-80d2773f22922104.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4138,
+    "title": "Virtua Fighter 3 - Online Play With Tollback Netcode",
+    "category": "decompilations-recompilations",
+    "link": "https://vf3-recomp.pages.dev/",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4138-8f983808ed45c0fe.webp",
+    "date_added": "2026-10-25"
   }
 ]
