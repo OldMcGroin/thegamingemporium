@@ -54347,5 +54347,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4167-0209e549473d3dba.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4168,
+    "title": "Rayman 3 HD Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MysteriousAeon/rayman3-hd-recompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4168-10cf924b8f72fe87.webp",
+    "date_added": "2026-10-25"
   }
 ]
