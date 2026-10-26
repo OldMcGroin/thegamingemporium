@@ -54807,5 +54807,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4194-09268ec316066dd8.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4195,
+    "title": "WWE 2K15 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/iMrBurn/wwe2k15-pc",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4195-157267126ec27e9a.webp",
+    "date_added": "2026-10-26"
   }
 ]
