@@ -54919,5 +54919,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4201-543afdd7bd94f10c.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4202,
+    "title": "Resident Evil Outbreak PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Ninjacornix/reo",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4202-3a3acdf62d24fa51.webp",
+    "date_added": "2026-10-26"
   }
 ]
