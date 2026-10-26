@@ -54791,5 +54791,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4193-f5f7eb1188f83c91.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4194,
+    "title": "Star Wars Battlefront: Renegade Squadron Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GTTeancum/StarWars-RenegadeSquadron-PC",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "action",
+    "genre2": "third-person-shooter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4194-09268ec316066dd8.webp",
+    "date_added": "2026-10-26"
   }
 ]
