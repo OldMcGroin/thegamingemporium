@@ -54983,5 +54983,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4205-3699d771e7c086d1.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4206,
+    "title": "The Lost World: Arcade PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/snicolast/LostWorldNative",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4206-43ad4f5c760d8626.webp",
+    "date_added": "2026-10-26"
   }
 ]
