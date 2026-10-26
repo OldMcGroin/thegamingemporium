@@ -54616,5 +54616,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4183-abf4dd8539a71933.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4184,
+    "title": "Contra III: The Alien Wars Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BrixW/Contra3Recomp",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "action",
+    "genre2": "shoot-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4184-de39ec3906bdfbea.webp",
+    "date_added": "2026-10-26"
   }
 ]
