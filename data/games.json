@@ -54727,5 +54727,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4189-78c5f6e92c03bea8.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4190,
+    "title": "Dead or Alive 2 Ultimate Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NoRain211/doa2u-re",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4190-69fdb00d1af30ef1.webp",
+    "date_added": "2026-10-26"
   }
 ]
