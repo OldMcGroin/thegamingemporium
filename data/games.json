@@ -54600,5 +54600,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4182-d7a960673e15de5c.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4183,
+    "title": "Gran Turismo 3 A-Spec for Android",
+    "category": "android-ports",
+    "link": "https://github.com/matt-pulsipher/GT3-revisited",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4183-abf4dd8539a71933.webp",
+    "date_added": "2026-10-26"
   }
 ]
