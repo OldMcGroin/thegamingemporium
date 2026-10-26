@@ -55015,5 +55015,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4207-2f133ae566a8d6cf.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4208,
+    "title": "Panzer Dragoon Orta Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SeveerJ/Orta_PC_Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4208-a4d6edcb26362d4c.webp",
+    "date_added": "2026-10-26"
   }
 ]
