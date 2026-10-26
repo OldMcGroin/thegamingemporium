@@ -54711,5 +54711,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4188-884356de107b5024.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4189,
+    "title": "Wargus HD for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/nikoltu/WargusHD-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4189-78c5f6e92c03bea8.webp",
+    "date_added": "2026-10-26"
   }
 ]
