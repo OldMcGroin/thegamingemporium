@@ -54663,5 +54663,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4185-13847b191d9e2ae3.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4186,
+    "title": "Sid Meier's Civilization 64bit for Modern Systems Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Buyukcaglar/Civ64",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4186-8a1cb7301b937003.webp",
+    "date_added": "2026-10-26"
   }
 ]
