@@ -54568,5 +54568,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4180-f10a5e58d7b13aea.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4181,
+    "title": "Marvel Ultimate Alliance, Marvel Ultimate Alliance Gold Edition and Marvel Ultimate Alliance 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4181-4d0aaf9c0d393701.webp",
+    "date_added": "2026-10-26"
   }
 ]
