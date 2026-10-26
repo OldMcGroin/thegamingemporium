@@ -54502,5 +54502,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4176-7dda88184833ce91.webp",
     "date_added": "2026-10-25"
+  },
+  {
+    "id": 4177,
+    "title": "Obscure Online Co-op Mod",
+    "category": "mods",
+    "link": "https://github.com/Gyurooo/obscure-coop",
+    "video_link": "",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "third-person-shooter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4177-edece8aa96afedcf.webp",
+    "date_added": "2026-10-26"
   }
 ]
