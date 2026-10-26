@@ -54632,5 +54632,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4184-de39ec3906bdfbea.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4185,
+    "title": "Super Mario Sunshine PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zeranemesis/sms-port",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4185-13847b191d9e2ae3.webp",
+    "date_added": "2026-10-26"
   }
 ]
