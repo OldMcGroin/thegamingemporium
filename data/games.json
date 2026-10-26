@@ -54967,5 +54967,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4204-c9e90ca8aeebdefd.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4205,
+    "title": "James Pond 2: Codename RoboCod Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/griches/JamesPond2RobocodRecomp",
+    "video_link": "",
+    "platform": "Amiga",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4205-3699d771e7c086d1.webp",
+    "date_added": "2026-10-26"
   }
 ]
