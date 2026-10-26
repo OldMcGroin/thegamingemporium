@@ -54999,5 +54999,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4206-43ad4f5c760d8626.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4207,
+    "title": "Chrono Trigger DS PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/power-pudu/egg-of-time",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4207-2f133ae566a8d6cf.webp",
+    "date_added": "2026-10-26"
   }
 ]
