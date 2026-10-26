@@ -54679,5 +54679,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4186-8a1cb7301b937003.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4187,
+    "title": "Banjo-Kazooie: Nuts and Bolts Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/masterspike52/reNut",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4187-5f647eca470c63af.webp",
+    "date_added": "2026-10-26"
   }
 ]
