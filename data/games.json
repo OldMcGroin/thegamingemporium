@@ -54534,5 +54534,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4178-89d507f7d48429ce.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4179,
+    "title": "Alundra Master Edition Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/aitorcachero/alundra-recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4179-b31b4a0007f17d17.webp",
+    "date_added": "2026-10-26"
   }
 ]
