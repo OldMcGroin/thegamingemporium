@@ -54935,5 +54935,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4202-3a3acdf62d24fa51.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4203,
+    "title": "Fun Tracks Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Karlos-fr/fun-tracks-recomp-releases",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4203-1578907a12bac28e.webp",
+    "date_added": "2026-10-26"
   }
 ]
