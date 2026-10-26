@@ -54695,5 +54695,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4187-5f647eca470c63af.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4188,
+    "title": "Dust: A Tale of the Wired West — Native Reconstruction ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/twitchplayskh/Dust-a-tale-of-the-wired-west-Recomp",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "adventure",
+    "genre2": "puzzle",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4188-884356de107b5024.webp",
+    "date_added": "2026-10-26"
   }
 ]
