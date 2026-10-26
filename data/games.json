@@ -54871,5 +54871,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4198-0b5be4f44bfa6ea5.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4199,
+    "title": "Stunt Race FX PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Stunt-Race-FX-DECOMP",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4199-6b84f06c6fdd7ef2.webp",
+    "date_added": "2026-10-26"
   }
 ]
