@@ -54743,5 +54743,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4190-69fdb00d1af30ef1.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4191,
+    "title": "Grandia 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GranasSabre/Grandia3-PC",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4191-ef25a30d0be9ccdc.webp",
+    "date_added": "2026-10-26"
   }
 ]
