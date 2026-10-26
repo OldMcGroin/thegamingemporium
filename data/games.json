@@ -54775,5 +54775,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4192-2fe4cf9fe96f83ec.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4193,
+    "title": "Persona 5 Royal for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Brandon04Gonzalez/p5r-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4193-f5f7eb1188f83c91.webp",
+    "date_added": "2026-10-26"
   }
 ]
