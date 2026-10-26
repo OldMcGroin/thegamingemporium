@@ -54552,5 +54552,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4179-b31b4a0007f17d17.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4180,
+    "title": "Super Mario Maker 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "level-builder",
+    "genre2": "Platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4180-f10a5e58d7b13aea.webp",
+    "date_added": "2026-10-26"
   }
 ]
