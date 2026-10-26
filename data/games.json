@@ -55031,5 +55031,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4208-a4d6edcb26362d4c.webp",
     "date_added": "2026-10-26"
+  },
+  {
+    "id": 4209,
+    "title": "007 Everything or Nothing Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hk21x/007eon-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4209-4a862dba680dbd88.webp",
+    "date_added": "2026-10-26"
   }
 ]
