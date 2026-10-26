@@ -49622,7 +49622,7 @@
   },
   {
     "id": 3823,
-    "title": "Recomp Store - Install and Update PS5 Ports of Recompiled Games",
+    "title": "Recomp Store - Install and Update PS5 Ports and PC Ports",
     "category": "decompilations-recompilations",
     "platform": "",
     "link": "https://recompstore.com/",
@@ -49632,7 +49632,8 @@
     "video_link": "",
     "weight": "top",
     "date_added": "2026-10-14",
-    "collection": "launchers"
+    "collection": "launchers",
+    "image": "/Images/Games/manager-3823-2d20bc532df53dee.webp"
   },
   {
     "id": 3824,
