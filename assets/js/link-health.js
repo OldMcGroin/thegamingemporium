@@ -3,14 +3,14 @@
  const output=root.querySelector('[data-link-health-results]'), summary=root.querySelector('[data-link-health-summary]');
  const search=root.querySelector('[data-link-health-search]');let entries=[],reviews={},filter='flagged',lastScan='';
  const storageKey='tge-link-health-verified-v1';
- const isConfirmedBroken=x=>x.status==='broken' && /^HTTP (404|410)(?:\b|$)/.test(x.detail||'');
+ const isConfirmedBroken=x=>x.status==='broken' && /^HTTP 404(?:\b|$)/.test(x.detail||'');
  const isOtherIssue=x=>!x.hidden && !isConfirmedBroken(x) && x.status!=='working';
  const hasReview=x=>{const r=reviews[String(x.id)];return !!(r&&r.url===x.url&&r.detail===x.detail);};
  function loadReviews(){try{return JSON.parse(localStorage.getItem(storageKey)||'{}')||{};}catch{return {};}}
  function saveReviews(){try{localStorage.setItem(storageKey,JSON.stringify(reviews));return true;}catch{return false;}}
  function node(tag,text){const el=document.createElement(tag);el.textContent=text;return el;}
  function render(){output.replaceChildren();const q=search.value.toLowerCase();const list=entries.filter(x=>(filter==='all'||(filter==='hidden'?x.hidden:filter==='reviewed'?hasReview(x):filter==='other'?isOtherIssue(x)&&!hasReview(x):!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)))&&((x.title||'').toLowerCase().includes(q)||(x.url||'').toLowerCase().includes(q)));
-  summary.textContent=`${entries.length} links checked · ${entries.filter(x=>!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)).length} confirmed 404/410 to review · ${entries.filter(x=>isOtherIssue(x)&&!hasReview(x)).length} other issues · ${entries.filter(x=>x.hidden).length} hidden · ${entries.filter(hasReview).length} checked & OK${lastScan?' · Last scan: '+lastScan:''}`;
+  summary.textContent=`${entries.length} links checked · ${entries.filter(x=>!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)).length} confirmed 404 to review · ${entries.filter(x=>isOtherIssue(x)&&!hasReview(x)).length} other issues · ${entries.filter(x=>x.hidden).length} hidden · ${entries.filter(hasReview).length} checked & OK${lastScan?' · Last scan: '+lastScan:''}`;
   if(!list.length){output.append(node('p','No matching games.'));return;}
   for(const item of list.slice(0,1000)){
    const card=node('div','');card.style.cssText='border:1px solid #8886;border-radius:8px;padding:12px;margin:10px 0';
@@ -20,6 +20,15 @@
    action('Open / Check Link',()=>window.open(item.url,'_blank','noopener,noreferrer'));
    action('Change Link',async()=>{const url=prompt('Enter the replacement HTTP(S) URL:',item.url);if(url===null||url===item.url)return;await change(item,'link',url);});
    action(item.hidden?'Unhide Game':'Hide Game',async()=>{if(!confirm(`${item.hidden?'Restore':'Hide'} ${item.title}? This changes games.json and triggers a deployment.`))return;await change(item,'hidden',!item.hidden);});
+   action('🗑 Delete Game',async()=>{
+    if(!confirm('PERMANENTLY delete \"'+item.title+'\" (ID '+item.id+') from the website? This cannot be undone here.'))return;
+    const typed=prompt('Final confirmation: type DELETE to remove this game permanently.');
+    if(typed!=='DELETE')return;
+    try{const response=await fetch('/admin/link-health/manage',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:item.id,expected_link:item.url,field:'delete',value:item.title})});
+     const data=await response.json();if(!response.ok||!data.ok)throw Error(data.message||'Deletion failed');
+     entries=entries.filter(x=>String(x.id)!==String(item.id));delete reviews[String(item.id)];saveReviews();render();alert('Game deleted from GitHub. Allow time for Cloudflare deployment.');
+    }catch(e){alert('Game NOT deleted: '+e.message)}
+   });
    if(!item.hidden)action(hasReview(item)?'Reopen Review':'✓ Checked & OK',()=>{
     if(hasReview(item))delete reviews[String(item.id)];
     else reviews[String(item.id)]={url:item.url,detail:item.detail,checked_at:new Date().toISOString()};

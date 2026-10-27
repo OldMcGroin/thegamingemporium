@@ -86,6 +86,8 @@ def main():
     # Avoid repeated checks for duplicate URLs while preserving every game entry.
     by_url = {}
     for game in games:
+        if game.get('hidden') is True:
+            continue
         by_url.setdefault(str(game.get('link') or ''), []).append(game)
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
         checked = list(pool.map(check, [group[0] for group in by_url.values()]))
@@ -108,13 +110,21 @@ def main():
             if review.get('url') == item['url'] and review.get('detail') == item['detail']:
                 item['reviewed_ok_at'] = review.get('checked_at')
             results.append(item)
+    # Keep hidden games visible in the dashboard's Hidden games tab, but never
+    # test their links or include them in broken-link notifications.
+    for game in games:
+        if game.get('hidden') is True:
+            results.append({'id': game.get('id'), 'title': game.get('title'),
+                            'url': str(game.get('link') or ''), 'hidden': True,
+                            'status': 'hidden', 'detail': 'Excluded from link checks',
+                            'consecutive_failures': 0})
     date = datetime.datetime.now(datetime.timezone.utc).isoformat()
     old_flagged = {str(x['id']) for x in previous.get('results', []) if x.get('status') == 'broken' and not x.get('reviewed_ok_at')}
     new_items = [x for x in results if x['status'] == 'broken' and str(x['id']) not in old_flagged and not x.get('reviewed_ok_at')]
     report = {'checked_at': date, 'total':len(results), 'results':results}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
-    print(f'Checked {len(results)} entries; newly flagged {len(new_items)}')
+    print(f'Checked {sum(not x.get("hidden", False) for x in results)} visible entries; skipped {sum(x.get("hidden", False) for x in results)} hidden entries; newly flagged {len(new_items)}')
     if not email_report(new_items, date, results):
         print('::warning::Link scan report saved; confirmation email was not delivered. Check the Resend error above.', flush=True)
 

@@ -58,7 +58,7 @@ export async function onRequestPost({request,env}) {
   }catch(e){console.error('Link health review:',e);return respond({message:'Unable to save review to GitHub. Check permissions.'},502);}
  }
 
- if(!Number.isSafeInteger(Number(id))||!['hidden','link'].includes(field))return respond({message:'Invalid game or field.'},400);
+ if(!Number.isSafeInteger(Number(id))||!['hidden','link','delete'].includes(field))return respond({message:'Invalid game or field.'},400);
  if(field==='hidden'&&typeof value!=='boolean')return respond({message:'Invalid visibility value.'},400);
  if(field==='link'){
   try{const u=new URL(value);if(!['http:','https:'].includes(u.protocol)||u.username||u.password||String(value).length>2048)throw Error();}
@@ -76,8 +76,10 @@ export async function onRequestPost({request,env}) {
   if(matches.length!==1)return respond({message:'Game ID is missing or duplicated. No changes made.'},409);
   const game=matches[0];
   if(game.link!==expected_link)return respond({message:'This link has changed since the report was generated. Refresh before editing.'},409);
-  if(field==='hidden')game.hidden=value;else game.link=value;
-  const updated=JSON.stringify(games,null,2)+'\n';
+  if(field==='delete' && (typeof value!=='string'||value!==game.title))
+   return respond({message:'Game title confirmation does not match. No deletion performed.'},409);
+  if(field==='hidden')game.hidden=value;else if(field==='link')game.link=value;
+  const updated=JSON.stringify(field==='delete'?games.filter(x=>String(x.id)!==String(id)):games,null,2)+'\n';
   const binary=Array.from(new TextEncoder().encode(updated),c=>String.fromCharCode(c)).join('');
   await github(env,FILE,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:`Link health: ${field} for game ${id}`,content:btoa(binary),sha:file.sha,branch:BRANCH})});
   return respond({ok:true});
