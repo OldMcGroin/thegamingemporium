@@ -55095,5 +55095,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4212-954476965957e438.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4213,
+    "title": "Guitar Hero 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jillsandwich1998/reGH2",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4213-91407d0b2f8daf32.webp",
+    "date_added": "2026-10-27"
   }
 ]
