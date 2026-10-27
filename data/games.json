@@ -55063,5 +55063,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4210-812606eced16154f.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4211,
+    "title": "Gran Turismo 2 with Mod Kit PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CurtisSlone/GT2-PC-Port-Mod-Kit",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "",
+    "genre2": "",
+    "collection": "gran-turismo-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4211-d5f902d187556866.webp",
+    "date_added": "2026-10-27"
   }
 ]
