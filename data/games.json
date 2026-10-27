@@ -55079,5 +55079,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4211-d5f902d187556866.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4212,
+    "title": "Metroid Dread Native Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DaniSald/Metroid-Dread-Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4212-954476965957e438.webp",
+    "date_added": "2026-10-27"
   }
 ]
