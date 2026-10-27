@@ -55335,5 +55335,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4227-db380a6bb8792fb2.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4228,
+    "title": "The Legend of Zelda: Phantom Hourglass Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/dguillot-gh/phantom-hourglass-recomp",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4228-9629c2ed0e20acbc.webp",
+    "date_added": "2026-10-27"
   }
 ]
