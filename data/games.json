@@ -55159,5 +55159,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4216-d352abca8a5eba3d.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4217,
+    "title": "Mighty Morphin Power Rangers: The Movie Game Gear Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cultofblue/mmpr-movie-gg2pc",
+    "video_link": "",
+    "platform": "Game Gear",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4217-edcc60bf7597579c.webp",
+    "date_added": "2026-10-27"
   }
 ]
