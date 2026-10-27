@@ -55255,5 +55255,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4222-6bcce5782dae5663.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4223,
+    "title": "Resident Evil: The Umbrella Chronicles PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/solleo95/reuc-recomp",
+    "video_link": "https://youtu.be/CSk3iaN37Rw?is=bbzvYcZV_N6knxQp",
+    "platform": "Nintendo Wii",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4223-f9cc1a120321c8ef.webp",
+    "date_added": "2026-10-27"
   }
 ]
