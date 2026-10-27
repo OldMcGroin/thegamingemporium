@@ -55303,5 +55303,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4225-f7624ee11853bcb8.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4226,
+    "title": "Mortal Kombat: Deadly Alliance, Deception & Armageddon with Rollback Netplay PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Jstackzz/MK-3D-rollback",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4226-ab95614301225bef.webp",
+    "date_added": "2026-10-27"
   }
 ]
