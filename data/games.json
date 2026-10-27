@@ -55223,5 +55223,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4220-acd227fe31439079.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4221,
+    "title": "The Order: 1886 PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/JulioCacko/The-Order-1886_pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4221-1a546a2e80e21e72.webp",
+    "date_added": "2026-10-27"
   }
 ]
