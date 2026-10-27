@@ -55175,5 +55175,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4217-edcc60bf7597579c.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4218,
+    "title": "F-Zero GX Linux and Windows Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/F-ZERO-GLINUX",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4218-770db42739e32ba6.webp",
+    "date_added": "2026-10-27"
   }
 ]
