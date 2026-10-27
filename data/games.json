@@ -55127,5 +55127,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4214-a407a4c4aafddc13.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4215,
+    "title": "Ratchet & Clank Series Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/OpenRAC/OpenRAC",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4215-71e1e02b692d4597.webp",
+    "date_added": "2026-10-27"
   }
 ]
