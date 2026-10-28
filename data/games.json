@@ -55721,5 +55721,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4251-23f97e03a2ea3b1c.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4252,
+    "title": "Sakura Wars Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HekamiAeon/Sakura-Wars-PS4RT",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4252-42f063b5b9c313e3.webp",
+    "date_added": "2026-10-28"
   }
 ]
