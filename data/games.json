@@ -55737,5 +55737,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4252-42f063b5b9c313e3.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4253,
+    "title": "Blood Wake PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/minimalice92/bloodwake-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "vehicular-combat",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4253-74df055bd79c67b9.webp",
+    "date_added": "2026-10-28"
   }
 ]
