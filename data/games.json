@@ -55529,5 +55529,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4239-e279d01a4d8f87ea.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4240,
+    "title": "Splatterhouse 2010 Recomp Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Pa3uk/Splatterhouserecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4240-abc3fb7faaa6ee44.webp",
+    "date_added": "2026-10-28"
   }
 ]
