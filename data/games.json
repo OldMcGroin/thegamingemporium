@@ -55545,5 +55545,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4240-abc3fb7faaa6ee44.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4241,
+    "title": "Dead or Alive 4 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/redC0rvus/doa4-recomp-suite",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4241-f1aee63f55f1b25e.webp",
+    "date_added": "2026-10-28"
   }
 ]
