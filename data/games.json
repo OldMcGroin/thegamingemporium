@@ -55705,5 +55705,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4250-20de9a747b46d9d8.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4251,
+    "title": "NFL Head Coach 09 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tools81/nfl-head-coach-09-static-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4251-23f97e03a2ea3b1c.webp",
+    "date_added": "2026-10-28"
   }
 ]
