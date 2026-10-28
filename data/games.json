@@ -55417,5 +55417,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4232-fa4d1ab00519fdd4.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4233,
+    "title": "Burger King: Sneak King Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Guuzzeji/sneaky-whopper-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "stealth",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4233-86e31b63f7cea666.webp",
+    "date_added": "2026-10-28"
   }
 ]
