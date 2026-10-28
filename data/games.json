@@ -55513,5 +55513,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4238-991bc8ab035e415f.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4239,
+    "title": "1080 Snowboarding Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thebradshaw/1080-Snowboarding-decomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "racing",
+    "genre2": "sports",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4239-e279d01a4d8f87ea.webp",
+    "date_added": "2026-10-28"
   }
 ]
