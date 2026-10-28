@@ -55689,5 +55689,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4249-51533241093d1b16.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4250,
+    "title": "ROMAtlas - tools, libraries and prompts for custom AI agents which can help them disassemble, port and update games from 8- and 16-bit cartridge-based consoles.",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/weisserw/romatlas",
+    "video_link": "",
+    "platform": "Multiple Platforms",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4250-20de9a747b46d9d8.webp",
+    "date_added": "2026-10-28"
   }
 ]
