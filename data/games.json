@@ -55481,5 +55481,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4236-f33ae68eb74b41ab.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4237,
+    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NotRexed/SkyboundTotk",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4237-dfb87e880ffcffe9.webp",
+    "date_added": "2026-10-28"
   }
 ]
