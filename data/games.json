@@ -55401,5 +55401,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4231-283d09c550ae2246.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4232,
+    "title": "Ratchet & Clank: A Crack in Time PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HighDrexler/RACiT",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4232-fa4d1ab00519fdd4.webp",
+    "date_added": "2026-10-28"
   }
 ]
