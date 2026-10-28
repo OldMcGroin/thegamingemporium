@@ -55449,5 +55449,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4234-3bba3e470d90d2ab.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4235,
+    "title": "Perfect Dark Xbox Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4235-f7eabc5e22a6d559.webp",
+    "date_added": "2026-10-28"
   }
 ]
