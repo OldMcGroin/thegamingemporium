@@ -55561,5 +55561,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4241-f1aee63f55f1b25e.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4242,
+    "title": "Colin McRae Rally Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/projectedan/McRae05-XBE-Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4242-bb6b0eaf3c36837e.webp",
+    "date_added": "2026-10-28"
   }
 ]
