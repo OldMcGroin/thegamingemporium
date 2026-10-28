@@ -55641,5 +55641,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4246-475b8d1f6fdc8f13.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4247,
+    "title": "Animal Crossing: New Horizons for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Nycolazs/ACNHRecomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4247-40f8ec4d2ba8b45c.webp",
+    "date_added": "2026-10-28"
   }
 ]
