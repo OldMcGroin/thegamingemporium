@@ -55497,5 +55497,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4237-dfb87e880ffcffe9.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4238,
+    "title": "Mupen GUI with Kaillera and GekkoNet Rollback Implementation for All N64 Games",
+    "category": "utility",
+    "link": "https://github.com/Jay-Day/RMG-K",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4238-991bc8ab035e415f.webp",
+    "date_added": "2026-10-28"
   }
 ]
