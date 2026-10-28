@@ -55673,5 +55673,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4248-9c742dcff114a390.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4249,
+    "title": "Monster Hunter 3 Ultimate Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BoyClinton/Cha-Cha",
+    "video_link": "",
+    "platform": "Wii U",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4249-51533241093d1b16.webp",
+    "date_added": "2026-10-28"
   }
 ]
