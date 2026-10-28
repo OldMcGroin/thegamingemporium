@@ -55385,5 +55385,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4230-6845872bec8b026f.webp",
     "date_added": "2026-10-27"
+  },
+  {
+    "id": 4231,
+    "title": "OpenCNC 3D - A PC version of Command & Conquer 64 including Red Alert.",
+    "category": "console-to-pc-port",
+    "link": "https://www.opencnc3d.com/?utm_source=chatgpt.com",
+    "video_link": "https://youtu.be/_-W_Q_vQD_I?si=uxbQyml1J--RYz7-",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "resource-management",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4231-283d09c550ae2246.webp",
+    "date_added": "2026-10-28"
   }
 ]
