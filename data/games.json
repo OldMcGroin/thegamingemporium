@@ -55577,5 +55577,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4242-bb6b0eaf3c36837e.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4243,
+    "title": "Mother 3 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4243-4553441bff41a172.webp",
+    "date_added": "2026-10-28"
   }
 ]
