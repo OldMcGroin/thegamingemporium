@@ -55967,5 +55967,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4272-9acb6b5c3df80445.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4273,
+    "title": "Burnout 3: Takedown Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/UwUCammie/Burn3",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "burnout-3-takedown",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4273-f5304f2b56d44e44.webp",
+    "date_added": "2026-10-29"
   }
 ]
