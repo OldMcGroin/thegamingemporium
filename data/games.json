@@ -55785,5 +55785,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4255-1942eb4a9cac9625.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4256,
+    "title": "Streets of Rage Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RuiNelson/StreetsOfRageProject",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4256-d16d81ed365ec9d9.webp",
+    "date_added": "2026-10-29"
   }
 ]
