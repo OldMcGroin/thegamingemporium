@@ -55753,5 +55753,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4253-74df055bd79c67b9.webp",
     "date_added": "2026-10-28"
+  },
+  {
+    "id": 4254,
+    "title": "CPS-2 Recomp - Classic Capcom Arcade Games Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tmcleroy/cps2recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "beat-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4254-987b3466abe3623f.webp",
+    "date_added": "2026-10-29"
   }
 ]
