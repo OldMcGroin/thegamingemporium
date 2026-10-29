@@ -55935,5 +55935,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4270-bfa99310826d91cb.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4271,
+    "title": "Warhammer 40K: Rogue Trader VR",
+    "category": "vr-ports",
+    "link": "https://github.com/Beren5556/W40KRT_VR-Downloads",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4271-fb173ce7776455bf.webp",
+    "date_added": "2026-10-29"
   }
 ]
