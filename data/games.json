@@ -55791,5 +55791,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4261-51fa1c299e374ca0.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4262,
+    "title": "Forza Motorsport 4 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/i2kiselev/fm4-static-recomp",
+    "video_link": "https://youtu.be/nxM1L6pbW0U?is=v9BUxoVKGGpTl619",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4262-30aecdc9658c1f32.webp",
+    "date_added": "2026-10-29"
   }
 ]
