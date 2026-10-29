@@ -55833,5 +55833,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4258-76cf8f1bca67eddd.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4259,
+    "title": "Dragon Warrior IV Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/arichmondphoto/DragonWarrior4NESRecomp",
+    "video_link": "",
+    "platform": "NES",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4259-06848fa4544da636.webp",
+    "date_added": "2026-10-29"
   }
 ]
