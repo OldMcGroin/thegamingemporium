@@ -55999,5 +55999,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4274-02bb7bb9ec762e46.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4275,
+    "title": "Stuntman PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LAB0ULANGE/stuntman-pc",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4275-35f82484be678394.webp",
+    "date_added": "2026-10-29"
   }
 ]
