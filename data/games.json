@@ -55759,5 +55759,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4259-06848fa4544da636.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4260,
+    "title": "Pac-Man Rebuilt",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mariqtereza-del/Pac2600Comp",
+    "video_link": "",
+    "platform": "Atari",
+    "genre1": "puzzle",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4260-88fac3d92aab2009.webp",
+    "date_added": "2026-10-29"
   }
 ]
