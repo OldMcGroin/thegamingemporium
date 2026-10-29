@@ -55951,5 +55951,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4271-fb173ce7776455bf.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4272,
+    "title": "Dark Souls 3 VR",
+    "category": "vr-ports",
+    "link": "https://github.com/scubasteve2365/DS3-VR",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4272-9acb6b5c3df80445.webp",
+    "date_added": "2026-10-29"
   }
 ]
