@@ -55769,5 +55769,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4254-987b3466abe3623f.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4255,
+    "title": "WipEout Omega Collection PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AbdelmoumenDeghbouche/wipeout_pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4255-1942eb4a9cac9625.webp",
+    "date_added": "2026-10-29"
   }
 ]
