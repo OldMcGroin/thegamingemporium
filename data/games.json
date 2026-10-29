@@ -55903,5 +55903,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4268-e1f84b755d9c3407.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4269,
+    "title": "Medal of Honor Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4269-1de515b6bbea0095.webp",
+    "date_added": "2026-10-29"
   }
 ]
