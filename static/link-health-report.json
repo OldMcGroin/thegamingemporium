@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-28T10:39:21.091926+00:00",
-  "total": 4214,
+  "checked_at": "2026-10-29T11:00:12.038281+00:00",
+  "total": 4234,
   "results": [
     {
       "id": 1,
@@ -373,8 +373,9 @@
       "title": "Castlevania The Lecarde Chronicles",
       "url": "https://castlevania-the-lecarde-chronicles.en.uptodown.com/windows",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://castlevania-the-lecarde-chronicles.en.uptodown.com/windows",
       "consecutive_failures": 0
     },
     {
@@ -940,8 +941,9 @@
       "title": "Golden Axe Returns",
       "url": "https://golden-axe-returns.en.uptodown.com/windows#google_vignette",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://golden-axe-returns.en.uptodown.com/windows#google_vignette",
       "consecutive_failures": 0
     },
     {
@@ -1673,8 +1675,9 @@
       "title": "Mortal Kombat Defenders of The Earth",
       "url": "https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows",
       "consecutive_failures": 0
     },
     {
@@ -1996,8 +1999,9 @@
       "title": "Pokemon Rejuvenation",
       "url": "https://www.rebornevo.com/rejuvenation/",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.rebornevo.com/rejuvenation/",
       "consecutive_failures": 0
     },
     {
@@ -2675,8 +2679,9 @@
       "title": "Streets of Rage Remake",
       "url": "https://street-rage-remake.en.uptodown.com/windows#google_vignette",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://street-rage-remake.en.uptodown.com/windows#google_vignette",
       "consecutive_failures": 0
     },
     {
@@ -2751,8 +2756,9 @@
       "title": "Super Mario 3 Mario Forever",
       "url": "https://super-mario-3-mario-forever.en.uptodown.com/windows",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://super-mario-3-mario-forever.en.uptodown.com/windows",
       "consecutive_failures": 0
     },
     {
@@ -4418,8 +4424,9 @@
       "title": "Infinity Blade",
       "url": "https://infinity-blade-pc.en.uptodown.com/windows",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://infinity-blade-pc.en.uptodown.com/windows",
       "consecutive_failures": 0
     },
     {
@@ -4427,8 +4434,9 @@
       "title": "Infinity Blade 2",
       "url": "https://infinity-blade-ii-pc.en.uptodown.com/windows",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://infinity-blade-ii-pc.en.uptodown.com/windows",
       "consecutive_failures": 0
     },
     {
@@ -4885,9 +4893,8 @@
       "title": "OpenMW - Morrowind Port",
       "url": "https://openmw.org/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://openmw.org/",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -5660,9 +5667,8 @@
       "title": "Zero-K",
       "url": "https://zero-k.info/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://zero-k.info/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -7994,7 +8000,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=0eda5c0a29de93fdb3ad5cc8dc34e1259dcbbdbed0b9775652832e5a9406e57f&aud=forums.civfanatics.com&aid=e9ddc784f250654513ea24d4c6dddd52",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=0e993683bb563ad52bcd3e6a07e45152d0c65ab77f42d8323fb83883f1a66adb&aud=forums.civfanatics.com&aid=b92ee3ca96c425cd3bdaae58f19d3a0b",
       "consecutive_failures": 0
     },
     {
@@ -8751,9 +8757,8 @@
       "title": "NBA Jam Legends on Fire Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -8951,7 +8956,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 12
+      "consecutive_failures": 13
     },
     {
       "id": 934,
@@ -11478,8 +11483,9 @@
       "title": "SSX 3",
       "url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
       "consecutive_failures": 0
     },
     {
@@ -13674,7 +13680,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 12
+      "consecutive_failures": 13
     },
     {
       "id": 1468,
@@ -15175,8 +15181,9 @@
       "title": "Grand Theft Auto: Ready2Play",
       "url": "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 403",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/",
       "consecutive_failures": 0
     },
     {
@@ -18082,18 +18089,18 @@
       "title": "Ecstatica II",
       "url": "https://archive.org/details/ecstatica-ii-mr-abandonware",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 1920,
       "title": "Ecstatica",
       "url": "https://archive.org/details/ecstatica-mr-abandonware",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 1921,
@@ -20394,7 +20401,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 2157,
@@ -23221,7 +23228,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/linkzenic/Shipwright-Android",
+      "final_url": "https://github.com/linkzenic/Shipwright-Ports",
       "consecutive_failures": 0
     },
     {
@@ -24178,8 +24185,9 @@
       "title": "Unturned for Android",
       "url": "https://unturned.en.uptodown.com/android",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://unturned.en.uptodown.com/android",
       "consecutive_failures": 0
     },
     {
@@ -25976,8 +25984,9 @@
       "title": "Sonic the Hedgehog for Android",
       "url": "https://sonic-the-hedgehog.en.uptodown.com/android",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://sonic-the-hedgehog.en.uptodown.com/android",
       "consecutive_failures": 0
     },
     {
@@ -25985,8 +25994,9 @@
       "title": "Sonic the Hedgehog 2 for Android",
       "url": "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://sonic-the-hedgehog-2-classic.en.uptodown.com/android",
       "consecutive_failures": 0
     },
     {
@@ -27558,9 +27568,8 @@
       "title": "Garry's Mod VR",
       "url": "https://pcvrcentral.com/mods/garrys-mod-gvrmod",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://pcvrcentral.com/mods/garrys-mod-gvrmod",
+      "status": "other",
+      "detail": "HTTP 525",
       "consecutive_failures": 0
     },
     {
@@ -27878,9 +27887,9 @@
       "title": "Gran Turismo 2 Recompilation",
       "url": "https://github.com/GTTeancum/OpenGTPS1",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 2947,
@@ -29464,7 +29473,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/mstan/FZeroSNESRecomp",
+      "final_url": "https://github.com/RetroPortingToolKit/FZeroSNESRecomp",
       "consecutive_failures": 0
     },
     {
@@ -30439,8 +30448,9 @@
       "title": "Quake 2 for Android",
       "url": "https://quake-2.en.uptodown.com/android",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 410",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://en.uptodown.com/android/action-adventure",
       "consecutive_failures": 0
     },
     {
@@ -30799,7 +30809,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 3258,
@@ -33684,9 +33694,8 @@
       "title": "NBA Street Vol. 2 - Legendary Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=110353",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=110353",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -34891,10 +34900,9 @@
       "title": "Call of Duty: Modern Warfare 2 for Android",
       "url": "https://github.com/OpenPort-Labs/mw2-android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/OpenPort-Labs/mw2-android",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 3691,
@@ -35928,10 +35936,9 @@
       "title": "Hyrule Warriors Switch Recompilation",
       "url": "https://github.com/sonsegajp/HWDER",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/sonsegajp/HWDER",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 3794,
@@ -35998,10 +36005,9 @@
       "title": "Super Mario Galaxy for Android",
       "url": "https://github.com/OpenPort-Labs/Galaxy-Android",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/OpenPort-Labs/Galaxy-Android",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 3801,
@@ -36910,7 +36916,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3898,
@@ -37468,7 +37474,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3986,
@@ -37723,6 +37729,16 @@
     {
       "id": 4012,
       "title": "Animal Crossing: New Horizons Recompilation",
+      "url": "https://github.com/Nycolazs/ACNHRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Nycolazs/ACNHRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4247,
+      "title": "Animal Crossing: New Horizons for Android",
       "url": "https://github.com/Nycolazs/ACNHRecomp",
       "hidden": false,
       "status": "working",
@@ -38367,7 +38383,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 4076,
@@ -38786,7 +38802,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 4117,
@@ -39284,7 +39300,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 4168,
@@ -39561,9 +39577,9 @@
       "title": "Rock Band 3 Recompilation",
       "url": "https://github.com/idio-sync/band3_recomp",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 4197,
@@ -39983,6 +39999,196 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/Jay-Day/RMG-K",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4239,
+      "title": "1080 Snowboarding Recompilation",
+      "url": "https://github.com/thebradshaw/1080-Snowboarding-decomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/thebradshaw/1080-Snowboarding-decomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4240,
+      "title": "Splatterhouse 2010 Recomp Launcher",
+      "url": "https://github.com/Pa3uk/Splatterhouserecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Pa3uk/Splatterhouserecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4241,
+      "title": "Dead or Alive 4 Recompilation",
+      "url": "https://github.com/redC0rvus/doa4-recomp-suite",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/redC0rvus/doa4-recomp-suite",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4242,
+      "title": "Colin McRae Rally Recompilation 2",
+      "url": "https://github.com/projectedan/McRae05-XBE-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/projectedan/McRae05-XBE-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4243,
+      "title": "Mother 3 Recompilation 2",
+      "url": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4244,
+      "title": "Mother 3 Recompilation for Android",
+      "url": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4245,
+      "title": "Killzone 2 PC Port",
+      "url": "https://undecuple.github.io/project-pyrrhus/site/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://undecuple.github.io/project-pyrrhus/site/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4246,
+      "title": "Dead or Alive Xtreme 2 - NOBK Online Play Added ",
+      "url": "https://nobkonline.com/doax2/how-to-play/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://nobkonline.com/doax2/how-to-play/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4248,
+      "title": "Bloodshot - Battle Frenzy Recompilation",
+      "url": "https://github.com/scheeseman486/bloodshot-battle-frenzy",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/scheeseman486/bloodshot-battle-frenzy",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4249,
+      "title": "Monster Hunter 3 Ultimate Recompilation",
+      "url": "https://github.com/BoyClinton/Cha-Cha",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/BoyClinton/Cha-Cha",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4250,
+      "title": "ROMAtlas - tools, libraries and prompts for custom AI agents which can help them disassemble, port and update games from 8- and 16-bit cartridge-based consoles.",
+      "url": "https://github.com/weisserw/romatlas",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/weisserw/romatlas",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4251,
+      "title": "NFL Head Coach 09 Recompilation",
+      "url": "https://github.com/tools81/nfl-head-coach-09-static-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/tools81/nfl-head-coach-09-static-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4252,
+      "title": "Sakura Wars Linux Port",
+      "url": "https://github.com/HekamiAeon/Sakura-Wars-PS4RT",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/HekamiAeon/Sakura-Wars-PS4RT",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4253,
+      "title": "Blood Wake PC Port",
+      "url": "https://github.com/minimalice92/bloodwake-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/minimalice92/bloodwake-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4254,
+      "title": "CPS-2 Recomp - Classic Capcom Arcade Games Launcher",
+      "url": "https://github.com/tmcleroy/cps2recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/tmcleroy/cps2recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4255,
+      "title": "WipEout Omega Collection PC Port 2",
+      "url": "https://github.com/AbdelmoumenDeghbouche/wipeout_pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/AbdelmoumenDeghbouche/wipeout_pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4256,
+      "title": "Streets of Rage Recompilation",
+      "url": "https://github.com/RuiNelson/StreetsOfRageProject",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/RuiNelson/StreetsOfRageProject",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4257,
+      "title": "Pokémon DS Widescreen - 7 DS Adventures in One Launcher",
+      "url": "https://github.com/mamesj/pokemon-ds-widescreen",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mamesj/pokemon-ds-widescreen",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4258,
+      "title": "Ghost Recon 2 PC Port",
+      "url": "https://github.com/ElKev118/ghostrecon2-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ElKev118/ghostrecon2-recomp",
       "consecutive_failures": 0
     },
     {
