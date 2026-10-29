@@ -55983,5 +55983,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4273-f5304f2b56d44e44.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4274,
+    "title": "Mario Kart DS Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AlonsoTlol/DS-Kart-Recompiled",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4274-02bb7bb9ec762e46.webp",
+    "date_added": "2026-10-29"
   }
 ]
