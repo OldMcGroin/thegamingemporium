@@ -55775,5 +55775,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4260-88fac3d92aab2009.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4261,
+    "title": "Wreckfest VR",
+    "category": "vr-ports",
+    "link": "https://github.com/sqofer/WREACKFEST-VR",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "vehicular-combat",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4261-51fa1c299e374ca0.webp",
+    "date_added": "2026-10-29"
   }
 ]
