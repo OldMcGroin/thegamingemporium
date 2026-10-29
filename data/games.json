@@ -55801,5 +55801,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4256-d16d81ed365ec9d9.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4257,
+    "title": "Pokémon DS Widescreen - 7 DS Adventures in One Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mamesj/pokemon-ds-widescreen",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4257-a3aa24af527ec4e9.webp",
+    "date_added": "2026-10-29"
   }
 ]
