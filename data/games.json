@@ -56246,5 +56246,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4293-196ddf3a91daf90b.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4294,
+    "title": "X-Men 2: Clone Wars PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/crabsmack/xmen2-pc",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4294-c759809b8c75f013.webp",
+    "date_added": "2026-10-30"
   }
 ]
