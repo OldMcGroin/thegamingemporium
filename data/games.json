@@ -56159,5 +56159,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4284-d67ac02f25c54b2a.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4285,
+    "title": "Space Hulk: Deathwing Enhanced Edition VR",
+    "category": "vr-ports",
+    "link": "https://github.com/helpimaghost/Space-Hulk-Deathwing-VR",
+    "video_link": "https://youtu.be/FINK6QAYO50?is=iTdsgPw5aWZevBf0",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4285-e6c779683886f994.webp",
+    "date_added": "2026-10-30"
   }
 ]
