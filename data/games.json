@@ -56326,5 +56326,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4298-210708c65e22b231.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4299,
+    "title": "40 Winks Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DreaXer/40WinksRecomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4299-b56358509451efdf.webp",
+    "date_added": "2026-10-30"
   }
 ]
