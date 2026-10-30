@@ -56310,5 +56310,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4297-1e43d3943c1543e4.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4298,
+    "title": "Muppet RaceMania PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TekRantGaming/muppet-racemania-recompiled",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4298-210708c65e22b231.webp",
+    "date_added": "2026-10-30"
   }
 ]
