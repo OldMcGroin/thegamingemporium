@@ -56374,5 +56374,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4301-0b8b24e1459f74c1.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4302,
+    "title": "Fire Emblem: Three Houses Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/onerag90/fe3h-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4302-e73fad8753d0c111.webp",
+    "date_added": "2026-10-30"
   }
 ]
