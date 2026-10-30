@@ -56143,5 +56143,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4283-92dd9d81cb994abe.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4284,
+    "title": "Final Fantasy 7 Remake Integrade VR",
+    "category": "vr-ports",
+    "link": "https://github.com/Gilleece/ff7-remake-vr",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4284-d67ac02f25c54b2a.webp",
+    "date_added": "2026-10-30"
   }
 ]
