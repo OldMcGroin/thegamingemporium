@@ -56454,5 +56454,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4305-585db0cd1d6f9c22.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4307,
+    "title": "Saw II: Flesh & Blood Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Matt-code-d/Saw2Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4307-7781b2e37c4fca1a.webp",
+    "date_added": "2026-10-30"
   }
 ]
