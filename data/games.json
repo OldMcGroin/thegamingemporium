@@ -56198,5 +56198,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4290-36ac04b6377ff08b.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4291,
+    "title": "EA Sports UFC 4 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/schans-arg/UFC4-PC-Port",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4291-2148692c561be2a2.webp",
+    "date_added": "2026-10-30"
   }
 ]
