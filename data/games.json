@@ -56127,5 +56127,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4282-a8940725f7ae3617.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4283,
+    "title": "Venture - A Meta Quest Emulator for PC VR",
+    "category": "vr-ports",
+    "link": "https://venture-emu.org/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "top",
+    "hidden": false,
+    "image": "/Images/Games/manager-4283-92dd9d81cb994abe.webp",
+    "date_added": "2026-10-30"
   }
 ]
