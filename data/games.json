@@ -56342,5 +56342,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4299-b56358509451efdf.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4300,
+    "title": "Incubation: Time Is Running Out Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n0madic/IncubationRemake",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4300-51058c32bf8cf79f.webp",
+    "date_added": "2026-10-30"
   }
 ]
