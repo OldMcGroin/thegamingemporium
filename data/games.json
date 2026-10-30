@@ -56111,5 +56111,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4281-165e3fd1f6c6d38e.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4282,
+    "title": "Zone of the Enders Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Yaz-Myst/ZOE-Recompiled",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4282-798b64674c44887c.webp",
+    "date_added": "2026-10-30"
   }
 ]
