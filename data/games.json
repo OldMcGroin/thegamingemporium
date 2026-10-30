@@ -56031,5 +56031,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4276-17bacfb41b58b155.webp",
     "date_added": "2026-10-29"
+  },
+  {
+    "id": 4277,
+    "title": "Recompa - Recompilations, decompilations and source ports that run without emulation",
+    "category": "android-ports",
+    "link": "https://kalasyan.github.io/recompa/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "top",
+    "hidden": false,
+    "image": "/Images/Games/manager-4277-f8058617ec28ed69.webp",
+    "date_added": "2026-10-30"
   }
 ]
