@@ -56214,5 +56214,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4291-2148692c561be2a2.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4292,
+    "title": "Snoopy Flying Ace Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BTr-RJ/RedBaron_Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4292-ff20273d545ff083.webp",
+    "date_added": "2026-10-30"
   }
 ]
