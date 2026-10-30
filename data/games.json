@@ -56262,5 +56262,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4294-c759809b8c75f013.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4295,
+    "title": "Ninja Gaiden Black for Android",
+    "category": "android-ports",
+    "link": "https://github.com/gamboozino/ngbrecomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4295-bbe001f5dde321dc.webp",
+    "date_added": "2026-10-30"
   }
 ]
