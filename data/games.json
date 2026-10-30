@@ -56095,5 +56095,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4280-124e81ad27360da3.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4281,
+    "title": "Metroid: Samus Returns Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/msr2ds",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4281-165e3fd1f6c6d38e.webp",
+    "date_added": "2026-10-30"
   }
 ]
