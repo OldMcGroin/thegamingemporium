@@ -56182,5 +56182,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4289-1d9f3563a4f5254d.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4290,
+    "title": "Mario Kart: Double Dash!! Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/badcompany94-rcmp/project-tandem",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4290-36ac04b6377ff08b.webp",
+    "date_added": "2026-10-30"
   }
 ]
