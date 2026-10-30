@@ -56175,5 +56175,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4285-e6c779683886f994.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4286,
+    "title": "Project Zomboid VR",
+    "category": "vr-ports",
+    "link": "https://steamcommunity.com/workshop/filedetails/?id=3809306528",
+    "video_link": "https://youtu.be/S0ZpDWk1eds?is=QUFzMogPmirG-559",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "strategy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4286-4de2472f6c3525ee.webp",
+    "date_added": "2026-10-30"
   }
 ]
