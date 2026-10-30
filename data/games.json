@@ -56486,5 +56486,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4308-6bcd175a353966e0.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4309,
+    "title": "Grand Theft Auto IV - Liberty Saga",
+    "category": "mods",
+    "link": "https://www.moddb.com/mods/liberty-saga/downloads/libertysaga",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4309-fe3ffc9ec68499a0.webp",
+    "date_added": "2026-10-30"
   }
 ]
