@@ -56390,5 +56390,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4302-e73fad8753d0c111.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4303,
+    "title": "Max Payne Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/phobos665/payne-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4303-6d8bf2d103cde0fc.webp",
+    "date_added": "2026-10-30"
   }
 ]
