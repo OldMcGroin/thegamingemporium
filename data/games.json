@@ -56358,5 +56358,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4300-51058c32bf8cf79f.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4301,
+    "title": "Cartoon Network Racing Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TekRantGaming/cartoon-network-racing-recompiled",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4301-0b8b24e1459f74c1.webp",
+    "date_added": "2026-10-30"
   }
 ]
