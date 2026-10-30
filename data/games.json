@@ -56230,5 +56230,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4292-ff20273d545ff083.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4293,
+    "title": "Grand Theft Auto: Vice City Stories Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gothamor/gta-vcs-recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4293-196ddf3a91daf90b.webp",
+    "date_added": "2026-10-30"
   }
 ]
