@@ -56166,5 +56166,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4288-92d2f8b414fdd4ac.webp",
     "date_added": "2026-10-30"
+  },
+  {
+    "id": 4289,
+    "title": "Top Spin 4 PC Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Top-Spin-4-Launcher",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4289-1d9f3563a4f5254d.webp",
+    "date_added": "2026-10-30"
   }
 ]
