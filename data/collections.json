@@ -393,5 +393,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mother-3-collection.webp"
+  },
+  {
+    "name": "Mystical Ninja Starring Goemon",
+    "slug": "mystical-ninja-starring-goemon",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mystical-ninja-starring-goemon-collection.webp"
   }
 ]
