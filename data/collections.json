@@ -582,5 +582,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-mario-maker-2-collection.webp"
+  },
+  {
+    "name": "Super Mario Sunshine",
+    "slug": "super-mario-sunshine",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-mario-sunshine-collection.webp"
   }
 ]
