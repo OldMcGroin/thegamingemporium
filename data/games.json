@@ -56805,5 +56805,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4323-8b7968bf267a1fc5.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4324,
+    "title": "Donkey Kong Country Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gumilastik/DKC1Recomp-Coop",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "donkey-kong-country",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4324-7b2a07334979959b.webp",
+    "date_added": "2026-10-31"
   }
 ]
