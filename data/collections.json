@@ -666,5 +666,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tna-impact-collection.webp"
+  },
+  {
+    "name": "Tomodachi Life: Living the Dream",
+    "slug": "tomodachi-life-living-the-dream",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tomodachi-life-living-the-dream-collection.webp"
   }
 ]
