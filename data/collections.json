@@ -421,5 +421,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/need-for-speed-most-wanted-collection.webp"
+  },
+  {
+    "name": "Ninja Gaiden Black",
+    "slug": "ninja-gaiden-black",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ninja-gaiden-black-collection.webp"
   }
 ]
