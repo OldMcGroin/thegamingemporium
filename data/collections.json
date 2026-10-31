@@ -638,5 +638,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-the-wind-waker-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-breath-of-the-wild-collection.webp"
   }
 ]
