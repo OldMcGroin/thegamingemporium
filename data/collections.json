@@ -743,5 +743,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/wwe-smackdown-vs-raw-2011-collection.webp"
+  },
+  {
+    "name": "WWF No Mercy",
+    "slug": "wwf-no-mercy",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/wwf-no-mercy-collection.webp"
   }
 ]
