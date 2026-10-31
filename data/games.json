@@ -31771,7 +31771,7 @@
   },
   {
     "id": 2416,
-    "title": "Street Fighter III Third Strike PC Port",
+    "title": "Street Fighter 3: 3rd Strike PC Port",
     "category": "decompilations-recompilations",
     "platform": "PlayStation 2",
     "link": "https://github.com/guimaraf/3sxw",
@@ -31781,7 +31781,8 @@
     "video_link": "",
     "notes": "",
     "date_added": "2026-07-24",
-    "image": ""
+    "image": "/Images/Games/manager-2416-b81208b35731a489.webp",
+    "collection": "street-fighter-3-3rd-strike"
   },
   {
     "id": 2417,
