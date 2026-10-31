@@ -561,5 +561,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/star-fox-64-collection.webp"
+  },
+  {
+    "name": "Street Fighter 3: 3rd Strike",
+    "slug": "street-fighter-3-3rd-strike",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/street-fighter-3-3rd-strike-collection.webp"
   }
 ]
