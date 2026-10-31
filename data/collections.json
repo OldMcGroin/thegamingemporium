@@ -554,5 +554,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ssx-tricky-collection.webp"
+  },
+  {
+    "name": "Star Fox 64",
+    "slug": "star-fox-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/star-fox-64-collection.webp"
   }
 ]
