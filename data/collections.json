@@ -617,5 +617,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tekken-tag-tournament-2-collection.webp"
+  },
+  {
+    "name": "The Darkness",
+    "slug": "the-darkness",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-darkness-collection.webp"
   }
 ]
