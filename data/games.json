@@ -6245,7 +6245,8 @@
     "notes": "Static recompilation of the N64 title to run natively on PC.",
     "date_added": "",
     "image": "",
-    "ai_usage": "none"
+    "ai_usage": "none",
+    "collection": "mario-kart-64"
   },
   {
     "id": 478,
