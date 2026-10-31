@@ -708,5 +708,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/turok-rage-wars-collection.webp"
+  },
+  {
+    "name": "Virtua Fighter",
+    "slug": "virtua-fighter",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/virtua-fighter-collection.webp"
   }
 ]
