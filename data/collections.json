@@ -673,5 +673,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tomodachi-life-living-the-dream-collection.webp"
+  },
+  {
+    "name": "Tony Hawk's Pro Skater",
+    "slug": "tony-hawk-s-pro-skater",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tony-hawk-s-pro-skater-collection.webp"
   }
 ]
