@@ -56662,5 +56662,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4319-fa73ca077f4e2351.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4320,
+    "title": "Bomberman 64: The Second Attack! Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bdragoncore/pommy-recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "action",
+    "genre2": "puzzle",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4320-c0033e88e5317a4f.webp",
+    "date_added": "2026-10-31"
   }
 ]
