@@ -610,5 +610,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tekken-3-collection.webp"
+  },
+  {
+    "name": "Tekken Tag Tournament 2",
+    "slug": "tekken-tag-tournament-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tekken-tag-tournament-2-collection.webp"
   }
 ]
