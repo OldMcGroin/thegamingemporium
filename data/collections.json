@@ -526,5 +526,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/soul-calibur-2-collection.webp"
+  },
+  {
+    "name": "Mario Kart 64",
+    "slug": "mario-kart-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mario-kart-64-collection.webp"
   }
 ]
