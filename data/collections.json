@@ -435,5 +435,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pac-man-collection.webp"
+  },
+  {
+    "name": "Perfect Dark",
+    "slug": "perfect-dark",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/perfect-dark-collection.webp"
   }
 ]
