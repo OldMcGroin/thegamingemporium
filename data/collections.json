@@ -358,5 +358,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/max-payne-collection.webp"
+  },
+  {
+    "name": "Metal Slug X",
+    "slug": "metal-slug-x",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/metal-slug-x-collection.webp"
   }
 ]
