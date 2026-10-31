@@ -56757,5 +56757,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4320-c0033e88e5317a4f.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4321,
+    "title": "NBA Hangtime Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/8bitninja64/HangtimeRecomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "sports",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4321-adc66cd5e8b9c814.webp",
+    "date_added": "2026-10-31"
   }
 ]
