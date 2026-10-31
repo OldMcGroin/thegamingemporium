@@ -56773,5 +56773,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4321-adc66cd5e8b9c814.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4322,
+    "title": "007: Nightfire Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TGP482/007Nightfire-XBERecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4322-f22829b2b219ffb7.webp",
+    "date_added": "2026-10-31"
   }
 ]
