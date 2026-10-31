@@ -344,5 +344,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/god-of-war-collection.webp"
+  },
+  {
+    "name": "Hydro Thunder",
+    "slug": "hydro-thunder",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/hydro-thunder-collection.webp"
   }
 ]
