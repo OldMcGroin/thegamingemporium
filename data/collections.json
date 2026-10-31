@@ -505,5 +505,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/skate-3-collection.webp"
+  },
+  {
+    "name": "Sly Cooper and the Thievius Racoonus",
+    "slug": "sly-cooper-and-the-thievius-racoonus",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/sly-cooper-and-the-thievius-racoonus-collection.webp"
   }
 ]
