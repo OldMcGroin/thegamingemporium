@@ -56822,5 +56822,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4324-7b2a07334979959b.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4325,
+    "title": "The Legend of Zelda: Tears of the Kingdom Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FurkanAnc/totk-launcher",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4325-8a8dea5bb82682d9.webp",
+    "date_added": "2026-10-31"
   }
 ]
