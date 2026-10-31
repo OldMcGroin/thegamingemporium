@@ -750,5 +750,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/wwf-no-mercy-collection.webp"
+  },
+  {
+    "name": "007 Nightfire",
+    "slug": "007-nightfire",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/007-nightfire-collection.webp"
   }
 ]
