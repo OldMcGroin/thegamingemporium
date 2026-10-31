@@ -652,5 +652,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-tears-of-the-kingdom-collection.webp"
+  },
+  {
+    "name": "The Order: 1886",
+    "slug": "the-order-1886",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-order-1886-collection.webp"
   }
 ]
