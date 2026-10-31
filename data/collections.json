@@ -659,5 +659,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-order-1886-collection.webp"
+  },
+  {
+    "name": "TNA Impact!",
+    "slug": "tna-impact",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tna-impact-collection.webp"
   }
 ]
