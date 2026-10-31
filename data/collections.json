@@ -407,5 +407,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/naruto-the-broken-bond-collection.webp"
+  },
+  {
+    "name": "NBA Jam: On Fire Edition",
+    "slug": "nba-jam-on-fire-edition",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/nba-jam-on-fire-edition-collection.webp"
   }
 ]
