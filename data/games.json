@@ -56518,5 +56518,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4310-fd053fb6287ddb49.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4313,
+    "title": "Mario Party 3 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n64hub/mario-party-3-recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "party-games",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4313-d72497bc430375b6.webp",
+    "date_added": "2026-10-31"
   }
 ]
