@@ -44327,18 +44327,6 @@
     "ai_usage": "heavy"
   },
   {
-    "id": 3394,
-    "title": "Serial Experiments Lain Recompilation",
-    "category": "decompilations-recompilations",
-    "platform": "PlayStation",
-    "link": "https://github.com/Y0oshi/lain-psx-decompiled/",
-    "genre1": "visual-novel",
-    "genre2": "",
-    "series": "Serial Experiments Lain",
-    "video_link": "",
-    "date_added": "2026-10-03"
-  },
-  {
     "id": 3395,
     "title": "Mario Kart Wii Nintendo Switch Port",
     "category": "console-ports",
