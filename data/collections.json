@@ -512,5 +512,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/sly-cooper-and-the-thievius-racoonus-collection.webp"
+  },
+  {
+    "name": "Snowboard Kids 2",
+    "slug": "snowboard-kids-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/snowboard-kids-2-collection.webp"
   }
 ]
