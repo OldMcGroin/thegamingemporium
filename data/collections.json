@@ -428,5 +428,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ninja-gaiden-black-collection.webp"
+  },
+  {
+    "name": "Pac-Man",
+    "slug": "pac-man",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pac-man-collection.webp"
   }
 ]
