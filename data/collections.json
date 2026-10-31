@@ -631,5 +631,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-a-link-to-the-past-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: The Wind Waker",
+    "slug": "the-legend-of-zelda-the-wind-waker",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-the-wind-waker-collection.webp"
   }
 ]
