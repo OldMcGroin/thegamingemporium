@@ -316,5 +316,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dragon-quest-8-collection.webp"
+  },
+  {
+    "name": "F-Zero GX",
+    "slug": "f-zero-gx",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/f-zero-gx-collection.webp"
   }
 ]
