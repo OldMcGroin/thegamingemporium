@@ -351,5 +351,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/hydro-thunder-collection.webp"
+  },
+  {
+    "name": "Max Payne",
+    "slug": "max-payne",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/max-payne-collection.webp"
   }
 ]
