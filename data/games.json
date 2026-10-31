@@ -56872,5 +56872,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4327-7e07a417c364f247.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4328,
+    "title": "Senjin Aleste Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/kazuyette/senjin-recomped",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4328-4183133c5d841a58.webp",
+    "date_added": "2026-10-31"
   }
 ]
