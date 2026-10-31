@@ -56646,5 +56646,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4318-33350e9ab1980280.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4319,
+    "title": "Goemon's Great Adventures Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/StopSine/GGA64Recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "action",
+    "genre2": "platformer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4319-fa73ca077f4e2351.webp",
+    "date_added": "2026-10-31"
   }
 ]
