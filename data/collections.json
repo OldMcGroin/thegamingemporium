@@ -456,5 +456,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-brilliant-diamond-collection.webp"
+  },
+  {
+    "name": "Project Gotham Racing 4",
+    "slug": "project-gotham-racing-4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/project-gotham-racing-4-collection.webp"
   }
 ]
