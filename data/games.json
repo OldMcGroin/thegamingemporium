@@ -46168,7 +46168,7 @@
   },
   {
     "id": 3544,
-    "title": "The World Is Not Enough Recompilation",
+    "title": "007: The World Is Not Enough Recompilation",
     "category": "decompilations-recompilations",
     "platform": "Nintendo 64",
     "link": "https://github.com/riseio/TWIPE_00Sheven",
@@ -46176,7 +46176,9 @@
     "genre2": "",
     "series": "007",
     "video_link": "",
-    "date_added": "2026-10-05"
+    "date_added": "2026-10-05",
+    "collection": "007-the-world-is-not-enough",
+    "image": "/Images/Games/manager-3544-ca4e494cca96a8b4.webp"
   },
   {
     "id": 3545,
