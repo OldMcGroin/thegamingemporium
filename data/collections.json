@@ -379,5 +379,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/metroid-prime-collection.webp"
+  },
+  {
+    "name": "Mortal Kombat Trilogy",
+    "slug": "mortal-kombat-trilogy",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mortal-kombat-trilogy-collection.webp"
   }
 ]
