@@ -764,5 +764,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/donkey-kong-country-collection.webp"
+  },
+  {
+    "name": "007: The World is Not Enough",
+    "slug": "007-the-world-is-not-enough",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/007-the-world-is-not-enough-collection.webp"
   }
 ]
