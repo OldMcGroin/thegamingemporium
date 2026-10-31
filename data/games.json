@@ -56566,5 +56566,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4311-f6ecd3fa7a62ff75.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4314,
+    "title": "Vagrant Story PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/JEschete/VS-NativePort",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4314-7144369b302992e6.webp",
+    "date_added": "2026-10-31"
   }
 ]
