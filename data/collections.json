@@ -645,5 +645,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-breath-of-the-wild-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-tears-of-the-kingdom-collection.webp"
   }
 ]
