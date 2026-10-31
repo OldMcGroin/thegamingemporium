@@ -323,5 +323,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/f-zero-gx-collection.webp"
+  },
+  {
+    "name": "F-Zero",
+    "slug": "f-zero",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/f-zero-collection.webp"
   }
 ]
