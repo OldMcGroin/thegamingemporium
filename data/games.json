@@ -56614,5 +56614,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4316-02083b64c1870933.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4317,
+    "title": "God of War PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/danielalves96/gow-pc-port",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4317-16cffbe2a5bbadc2.webp",
+    "date_added": "2026-10-31"
   }
 ]
