@@ -701,5 +701,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/toy-story-2-buzz-lightyear-to-the-rescue-collection.webp"
+  },
+  {
+    "name": "Turok: Rage Wars",
+    "slug": "turok-rage-wars",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/turok-rage-wars-collection.webp"
   }
 ]
