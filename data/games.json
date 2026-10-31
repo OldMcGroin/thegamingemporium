@@ -56838,5 +56838,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4325-8a8dea5bb82682d9.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4326,
+    "title": "Medal of Honor: European Assault PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4326-c118ecc54ab9a236.webp",
+    "date_added": "2026-10-31"
   }
 ]
