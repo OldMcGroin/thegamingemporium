@@ -470,5 +470,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/quest-64-collection.webp"
+  },
+  {
+    "name": "Ratchet & Clank",
+    "slug": "ratchet-clank",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ratchet-clank-collection.webp"
   }
 ]
