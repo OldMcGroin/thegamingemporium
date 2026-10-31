@@ -337,5 +337,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/forza-motorsport-4-collection.webp"
+  },
+  {
+    "name": "God of War",
+    "slug": "god-of-war",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/god-of-war-collection.webp"
   }
 ]
