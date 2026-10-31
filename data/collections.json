@@ -414,5 +414,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/nba-jam-on-fire-edition-collection.webp"
+  },
+  {
+    "name": "Need for Speed: Most Wanted",
+    "slug": "need-for-speed-most-wanted",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/need-for-speed-most-wanted-collection.webp"
   }
 ]
