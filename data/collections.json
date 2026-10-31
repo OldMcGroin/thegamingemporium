@@ -442,5 +442,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/perfect-dark-collection.webp"
+  },
+  {
+    "name": "Pilotwings 64",
+    "slug": "pilotwings-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pilotwings-64-collection.webp"
   }
 ]
