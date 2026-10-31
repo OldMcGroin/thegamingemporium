@@ -309,5 +309,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dead-or-alive-xtreme-2-collection.webp"
+  },
+  {
+    "name": "Dragon Quest 8",
+    "slug": "dragon-quest-8",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dragon-quest-8-collection.webp"
   }
 ]
