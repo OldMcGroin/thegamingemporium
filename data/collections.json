@@ -736,5 +736,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/wwe-2k14-collection.webp"
+  },
+  {
+    "name": "WWE Smackdown vs Raw 2011",
+    "slug": "wwe-smackdown-vs-raw-2011",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/wwe-smackdown-vs-raw-2011-collection.webp"
   }
 ]
