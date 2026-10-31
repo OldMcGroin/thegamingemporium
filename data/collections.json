@@ -624,5 +624,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-darkness-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: A Link to the Past",
+    "slug": "the-legend-of-zelda-a-link-to-the-past",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-a-link-to-the-past-collection.webp"
   }
 ]
