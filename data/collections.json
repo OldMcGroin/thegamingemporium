@@ -757,5 +757,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/007-nightfire-collection.webp"
+  },
+  {
+    "name": "Donkey Kong Country",
+    "slug": "donkey-kong-country",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/donkey-kong-country-collection.webp"
   }
 ]
