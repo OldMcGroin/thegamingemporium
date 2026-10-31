@@ -400,5 +400,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mystical-ninja-starring-goemon-collection.webp"
+  },
+  {
+    "name": "Naruto: The Broken Bond",
+    "slug": "naruto-the-broken-bond",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/naruto-the-broken-bond-collection.webp"
   }
 ]
