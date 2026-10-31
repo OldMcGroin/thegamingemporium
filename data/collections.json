@@ -596,5 +596,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-smash-bros-melee-collection.webp"
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "slug": "super-smash-bros-ultimate",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-smash-bros-ultimate-collection.webp"
   }
 ]
