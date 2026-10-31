@@ -715,5 +715,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/virtua-fighter-collection.webp"
+  },
+  {
+    "name": "Wave Race 64",
+    "slug": "wave-race-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/wave-race-64-collection.webp"
   }
 ]
