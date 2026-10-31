@@ -568,5 +568,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/street-fighter-3-3rd-strike-collection.webp"
+  },
+  {
+    "name": "Super Mario Bros.",
+    "slug": "super-mario-bros",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-mario-bros-collection.webp"
   }
 ]
