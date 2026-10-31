@@ -589,5 +589,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-mario-sunshine-collection.webp"
+  },
+  {
+    "name": "Super Smash Bros. Melee",
+    "slug": "super-smash-bros-melee",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-smash-bros-melee-collection.webp"
   }
 ]
