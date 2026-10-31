@@ -519,5 +519,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/snowboard-kids-2-collection.webp"
+  },
+  {
+    "name": "Soul Calibur 2",
+    "slug": "soul-calibur-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/soul-calibur-2-collection.webp"
   }
 ]
