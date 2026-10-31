@@ -386,5 +386,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mortal-kombat-trilogy-collection.webp"
+  },
+  {
+    "name": "Mother 3",
+    "slug": "mother-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mother-3-collection.webp"
   }
 ]
