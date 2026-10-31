@@ -491,5 +491,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/resident-evil-3-collection.webp"
+  },
+  {
+    "name": "Shadow of the Colossus",
+    "slug": "shadow-of-the-colossus",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/shadow-of-the-colossus-collection.webp"
   }
 ]
