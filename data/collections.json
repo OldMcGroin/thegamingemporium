@@ -302,5 +302,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/alundra-collection.webp"
+  },
+  {
+    "name": "Dead or Alive Xtreme 2",
+    "slug": "dead-or-alive-xtreme-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dead-or-alive-xtreme-2-collection.webp"
   }
 ]
