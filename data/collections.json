@@ -463,5 +463,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/project-gotham-racing-4-collection.webp"
+  },
+  {
+    "name": "Quest 64",
+    "slug": "quest-64",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/quest-64-collection.webp"
   }
 ]
