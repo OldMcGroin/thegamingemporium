@@ -484,5 +484,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/paper-mario-collection.webp"
+  },
+  {
+    "name": "Resident Evil 3",
+    "slug": "resident-evil-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/resident-evil-3-collection.webp"
   }
 ]
