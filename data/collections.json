@@ -603,5 +603,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-smash-bros-ultimate-collection.webp"
+  },
+  {
+    "name": "Tekken 3",
+    "slug": "tekken-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tekken-3-collection.webp"
   }
 ]
