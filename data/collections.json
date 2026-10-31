@@ -330,5 +330,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/f-zero-collection.webp"
+  },
+  {
+    "name": "Forza Motorsport 4",
+    "slug": "forza-motorsport-4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/forza-motorsport-4-collection.webp"
   }
 ]
