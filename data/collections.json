@@ -575,5 +575,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-mario-bros-collection.webp"
+  },
+  {
+    "name": "Super Mario Maker 2",
+    "slug": "super-mario-maker-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-mario-maker-2-collection.webp"
   }
 ]
