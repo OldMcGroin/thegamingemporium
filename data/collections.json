@@ -295,5 +295,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/metal-gear-solid-collection.webp"
+  },
+  {
+    "name": "Alundra",
+    "slug": "alundra",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/alundra-collection.webp"
   }
 ]
