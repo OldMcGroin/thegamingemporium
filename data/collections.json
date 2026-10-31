@@ -722,5 +722,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/wave-race-64-collection.webp"
+  },
+  {
+    "name": "Wipeout Omega Collection",
+    "slug": "wipeout-omega-collection",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/wipeout-omega-collection-collection.webp"
   }
 ]
