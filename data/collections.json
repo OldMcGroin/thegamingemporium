@@ -729,5 +729,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/wipeout-omega-collection-collection.webp"
+  },
+  {
+    "name": "WWE 2K14",
+    "slug": "wwe-2k14",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/wwe-2k14-collection.webp"
   }
 ]
