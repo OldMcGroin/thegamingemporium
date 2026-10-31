@@ -498,5 +498,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/shadow-of-the-colossus-collection.webp"
+  },
+  {
+    "name": "Skate 3",
+    "slug": "skate-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/skate-3-collection.webp"
   }
 ]
