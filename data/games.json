@@ -56534,5 +56534,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4313-d72497bc430375b6.webp",
     "date_added": "2026-10-31"
+  },
+  {
+    "id": 4312,
+    "title": "Mario Party 2 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n64hub/mario-party-2-recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "party-games",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4312-6df7cef00e17018a.webp",
+    "date_added": "2026-10-31"
   }
 ]
