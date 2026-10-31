@@ -372,5 +372,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/metroid-dread-collection.webp"
+  },
+  {
+    "name": "Metroid Prime",
+    "slug": "metroid-prime",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/metroid-prime-collection.webp"
   }
 ]
