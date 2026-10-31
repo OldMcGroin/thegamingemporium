@@ -687,5 +687,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tony-hawk-s-pro-skater-2-collection.webp"
+  },
+  {
+    "name": "Tony Hawk's Project 8",
+    "slug": "tony-hawk-s-project-8",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tony-hawk-s-project-8-collection.webp"
   }
 ]
