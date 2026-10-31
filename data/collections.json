@@ -533,5 +533,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mario-kart-64-collection.webp"
+  },
+  {
+    "name": "Spiderman: Edge of Time",
+    "slug": "spiderman-edge-of-time",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/spiderman-edge-of-time-collection.webp"
   }
 ]
