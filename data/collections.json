@@ -547,5 +547,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/splatterhouse-2010-collection.webp"
+  },
+  {
+    "name": "SSX Tricky",
+    "slug": "ssx-tricky",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ssx-tricky-collection.webp"
   }
 ]
