@@ -540,5 +540,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/spiderman-edge-of-time-collection.webp"
+  },
+  {
+    "name": "Splatterhouse 2010",
+    "slug": "splatterhouse-2010",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/splatterhouse-2010-collection.webp"
   }
 ]
