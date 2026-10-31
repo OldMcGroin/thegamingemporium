@@ -477,5 +477,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ratchet-clank-collection.webp"
+  },
+  {
+    "name": "Paper Mario",
+    "slug": "paper-mario",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/paper-mario-collection.webp"
   }
 ]
