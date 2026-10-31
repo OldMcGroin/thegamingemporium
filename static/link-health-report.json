@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-30T10:59:14.699995+00:00",
-  "total": 4257,
+  "checked_at": "2026-10-31T10:28:30.460809+00:00",
+  "total": 4285,
   "results": [
     {
       "id": 1,
@@ -265,9 +265,8 @@
       "title": "Castlevania Chronicles II: Simon's Quest",
       "url": "https://cdromance.org/windows/castlevania-chronicles-ii-simons-quest-fan-made-remake-2/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/castlevania-chronicles-ii-simons-quest-fan-made-remake-2/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -275,9 +274,8 @@
       "title": "Castlevania Chronicles III: Dracula's Curse",
       "url": "https://cdromance.org/windows/castlevania-chronicles-iii-draculas-curse-fan-game-windows-pc/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/castlevania-chronicles-iii-draculas-curse-fan-game-windows-pc/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -363,8 +361,9 @@
       "title": "Castlevania Symphony of the Night Ultimate",
       "url": "https://sotn2018br.blogspot.com/2025/11/original-name-japanese-dracula-x-gekka.html?m=1",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://sotn2018br.blogspot.com/2025/11/original-name-japanese-dracula-x-gekka.html?m=1",
       "consecutive_failures": 0
     },
     {
@@ -2313,7 +2312,7 @@
       "url": "https://sonic2hd.com/download/",
       "hidden": false,
       "status": "working",
-      "detail": "HTTP 200",
+      "detail": "HTTP 202",
       "final_url": "https://sonic2hd.com/download/",
       "consecutive_failures": 0
     },
@@ -4632,9 +4631,8 @@
       "title": "Maze of Galious Port",
       "url": "https://cdromance.org/windows/maze-of-galious-windows/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/maze-of-galious-windows/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -5429,9 +5427,8 @@
       "title": "The Battle for Wesnoth",
       "url": "https://www.wesnoth.org/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.wesnoth.org/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -6187,7 +6184,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/Fable2Recomp/Fable2Recomp",
+      "final_url": "https://github.com/Fable2Recomp/Fable2Remake",
       "consecutive_failures": 0
     },
     {
@@ -8000,7 +7997,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=dc51d9f1b42e18c95077e9beaa631ece55ec6aae2f0762c18ea72b4473338d6a&aud=forums.civfanatics.com&aid=de188eb42cc12610c61f9bb81e79e32e",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=74b28fcea093d86ced62faa2fbb0d4505b53b615d0dd3a2339392c28e9c2354f&aud=forums.civfanatics.com&aid=36dce3dc06a5ebb9ede074c8b8ddcc54",
       "consecutive_failures": 0
     },
     {
@@ -8957,7 +8954,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 14
+      "consecutive_failures": 15
     },
     {
       "id": 934,
@@ -10145,9 +10142,8 @@
       "title": "James Cameron's Avatar: The Game",
       "url": "https://archive.org/details/james-camerons-avatar-the-game_202512",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/james-camerons-avatar-the-game_202512",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -12195,9 +12191,8 @@
       "title": "Battle Stadium D.O.N. - PlayStation 2",
       "url": "https://cdromance.org/ps2-iso/battle-stadium-d-o-n-jpn/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/battle-stadium-d-o-n-jpn/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12233,9 +12228,8 @@
       "title": "Captain Tsubasa - PS2",
       "url": "https://cdromance.org/ps2-iso/captain-tsubasa-jpn/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/captain-tsubasa-jpn/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12261,9 +12255,8 @@
       "title": "Cave Story Dokutsu Monogatari - PC",
       "url": "https://cdromance.org/windows/cave-story-dokutsu-monogatari-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/cave-story-dokutsu-monogatari-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12367,9 +12360,8 @@
       "title": "Digimon adventure- PSP",
       "url": "https://cdromance.org/psp/digi-adventure-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/digi-adventure-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12377,9 +12369,8 @@
       "title": "Digimon World Re:Digitize - PlayStation Portable",
       "url": "https://cdromance.org/psp/digimon-world-redigitize-full-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/digimon-world-redigitize-full-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12480,9 +12471,8 @@
       "title": "Farland Symphony - PC",
       "url": "https://cdromance.org/windows/farland-symphony-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/farland-symphony-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12490,9 +12480,8 @@
       "title": "Final Fantasy Type-0 - PSP",
       "url": "https://cdromance.org/psp/final-fantasy-type-0-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/final-fantasy-type-0-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12510,9 +12499,8 @@
       "title": "Fire Emblem: Fuuin no Tsurugi - Game Boy Advance",
       "url": "https://cdromance.org/gba-roms/fire-emblem-fuuin-no-tsurugi/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/gba-roms/fire-emblem-fuuin-no-tsurugi/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12574,9 +12562,8 @@
       "title": "God Eater 2 - PSP",
       "url": "https://cdromance.org/psp/god-eater-2-jpn/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/god-eater-2-jpn/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12584,9 +12571,8 @@
       "title": "Grand Knights History - PSP",
       "url": "https://cdromance.org/psp/grand-knights-history-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/grand-knights-history-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12696,9 +12682,8 @@
       "title": "Kidou Senshi Gundam: Gundam vs. Gundam NEXT PLUS - PSP",
       "url": "https://cdromance.org/psp/kidou-senshi-gundam-gundam-vs-gundam-next-plus-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/kidou-senshi-gundam-gundam-vs-gundam-next-plus-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12715,9 +12700,8 @@
       "title": "Kingdom Hearts II: Final Mix - Playstation 2",
       "url": "https://cdromance.org/ps2-iso/kingdom-hearts-ii-final-mix-2/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/kingdom-hearts-ii-final-mix-2/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12734,9 +12718,8 @@
       "title": "Kurohyou: Ryu ga Gotoku Shinshou - PSP",
       "url": "https://cdromance.org/psp/kurohyou-ryu-ga-gotoku-shinshou/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/kurohyou-ryu-ga-gotoku-shinshou/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12807,9 +12790,8 @@
       "title": "Magna Carta: The Phantom of Avalanche - PC",
       "url": "https://cdromance.org/windows/magna-carta-the-phantom-of-avalanche-english-patched-windows/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/magna-carta-the-phantom-of-avalanche-english-patched-windows/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -12899,9 +12881,8 @@
       "title": "One Piece: Romance Dawn - PSP",
       "url": "https://cdromance.org/psp/romance-dawn-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/romance-dawn-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13224,9 +13205,8 @@
       "title": "Sword Art Online: Infinity Moment - PSP",
       "url": "https://cdromance.org/psp/sao-infinity-moment-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/sao-infinity-moment-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13290,9 +13270,8 @@
       "title": "The Legend of Sword & Fairy - PC",
       "url": "https://cdromance.org/windows/the-legend-of-sword-and-fairy-english-patched-v3-3-windows-pc/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/the-legend-of-sword-and-fairy-english-patched-v3-3-windows-pc/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13319,9 +13298,8 @@
       "title": "Tomodachi Collection - Nintendo DS",
       "url": "https://cdromance.org/nds-roms/tomodachi-collection-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/nds-roms/tomodachi-collection-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13329,9 +13307,8 @@
       "title": "Toukiden Kiwami - PSP",
       "url": "https://cdromance.org/psp/toukiden-kiwami-english-patched-v2/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/toukiden-kiwami-english-patched-v2/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13339,9 +13316,8 @@
       "title": "Tsukihime - PC",
       "url": "https://cdromance.org/windows/tsukihime-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/windows/tsukihime-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13409,9 +13385,8 @@
       "title": "Yu-Gi-Oh! 5D's Tag Force 6 - PSP",
       "url": "https://cdromance.org/psp/yu-gi-oh-5ds-tag-force-6-english-patched-2/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/yu-gi-oh-5ds-tag-force-6-english-patched-2/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13419,9 +13394,8 @@
       "title": "Yu-Gi-Oh! ARC-V Tag Force Special - PSP",
       "url": "https://cdromance.org/psp/yu-gi-oh-arc-v-tag-force-special-jpn-2/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/psp/yu-gi-oh-arc-v-tag-force-special-jpn-2/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13681,7 +13655,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 14
+      "consecutive_failures": 15
     },
     {
       "id": 1468,
@@ -14756,9 +14730,8 @@
       "title": "CRW: Metal Jacket - PC98",
       "url": "https://cdromance.org/pc-98/crw-metal-jacket-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/pc-98/crw-metal-jacket-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -14766,9 +14739,8 @@
       "title": "Tuned Heart - PC98",
       "url": "https://cdromance.org/pc-98/tuned-heart-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/pc-98/tuned-heart-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -14795,9 +14767,8 @@
       "title": "Lode Runner - Nintendo DS",
       "url": "https://cdromance.org/nds-roms/lode-runner-japan/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/nds-roms/lode-runner-japan/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -14805,9 +14776,8 @@
       "title": "Rockman & Forte - SNES",
       "url": "https://cdromance.org/snes-rom/rockman-forte-player-switching-multiple-equipment-hack/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/snes-rom/rockman-forte-player-switching-multiple-equipment-hack/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -14815,9 +14785,8 @@
       "title": "Dragon Ball Kai: Ultimate Butouden - Nintendo DS",
       "url": "https://cdromance.org/nds-roms/dragon-ball-kai-ultimate-butouden-jpn-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/nds-roms/dragon-ball-kai-ultimate-butouden-jpn-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -15280,9 +15249,8 @@
       "title": "Super Mario 64 Remake",
       "url": "https://cdromance.org/n64-roms/super-mario-64-remake-hack-n64/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/n64-roms/super-mario-64-remake-hack-n64/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -18085,24 +18053,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 1919,
-      "title": "Ecstatica II",
-      "url": "https://archive.org/details/ecstatica-ii-mr-abandonware",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
-      "id": 1920,
-      "title": "Ecstatica",
-      "url": "https://archive.org/details/ecstatica-mr-abandonware",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
       "id": 1921,
       "title": "Dungeon Master II: The Legend of Skullkeep",
       "url": "https://archive.org/details/dungeon-master-ii-mr-abandonware",
@@ -20231,9 +20181,8 @@
       "title": "SDL Scavenger",
       "url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -20867,9 +20816,8 @@
       "title": "Armored Trooper Votoms - Playstation 2",
       "url": "https://cdromance.org/ps2-iso/armored-trooper-votoms-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/armored-trooper-votoms-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -20877,9 +20825,8 @@
       "title": "Racing Battle: C1 Grand Prix - Playstation 2",
       "url": "https://cdromance.org/ps2-iso/racing-battle-c1-grand-prix-japan/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/racing-battle-c1-grand-prix-japan/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -21343,9 +21290,8 @@
       "title": "Phantasy Star Generation:2 - PS2",
       "url": "https://cdromance.org/ps2-iso/sega-ages-2500-series-vol-17-phantasy-star-generation2-english-patched/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://cdromance.org/ps2-iso/sega-ages-2500-series-vol-17-phantasy-star-generation2-english-patched/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -23698,9 +23644,8 @@
       "title": "The Sly Collection PC Patched",
       "url": "https://archive.org/details/sly-collection",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/sly-collection",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -24953,9 +24898,8 @@
       "title": "Perfect Dark 3DS Port",
       "url": "https://archive.org/details/perfectdark3ds",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/perfectdark3ds",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -26252,7 +26196,7 @@
     },
     {
       "id": 2768,
-      "title": "Dragon Quest VIII: Masterpiece Reborn PC Port",
+      "title": "Dragon Quest 8: Masterpiece Reborn PC Port",
       "url": "https://www.romhacking.net/forum/index.php?topic=34365.msg443220#msg443220",
       "hidden": false,
       "status": "other",
@@ -27874,15 +27818,6 @@
       "detail": "HTTP 200",
       "final_url": "https://github.com/CurlyG004/porygonal-overworld-characters",
       "consecutive_failures": 0
-    },
-    {
-      "id": 2946,
-      "title": "Gran Turismo 2 Recompilation",
-      "url": "https://github.com/GTTeancum/OpenGTPS1",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
     },
     {
       "id": 2947,
@@ -30802,7 +30737,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 8
+      "consecutive_failures": 9
     },
     {
       "id": 3258,
@@ -33548,18 +33483,18 @@
       "title": "Super Mario Sunshine PC Port",
       "url": "https://github.com/TekRantGaming/sms-pc-port",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 3804,
       "title": "Super Mario Sunshine PC Port 2",
       "url": "https://github.com/TekRantGaming/sms-pc-port",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 3557,
@@ -34894,7 +34829,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3691,
@@ -35351,7 +35286,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/Capridog/SpaceRanger",
+      "final_url": "https://github.com/woodys-workshop/SpaceRanger",
       "consecutive_failures": 0
     },
     {
@@ -35930,7 +35865,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3794,
@@ -35998,7 +35933,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3801,
@@ -36657,7 +36592,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://gitlab.com/rygt-team/RyGT/-/releases/gt-sport-2026-10-25",
+      "final_url": "https://gitlab.com/rygt-team/RyGTS/-/releases/gt-sport-2026-10-25",
       "consecutive_failures": 0
     },
     {
@@ -37630,6 +37565,16 @@
       "consecutive_failures": 0
     },
     {
+      "id": 4295,
+      "title": "Ninja Gaiden Black for Android",
+      "url": "https://github.com/gamboozino/ngbrecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gamboozino/ngbrecomp",
+      "consecutive_failures": 0
+    },
+    {
       "id": 4003,
       "title": "inFamous Recompilation",
       "url": "https://github.com/whompay/inFAMOUSreborn",
@@ -38144,9 +38089,8 @@
       "title": "Need For Speed: Most Wanted in Browser",
       "url": "https://nfsmwonline.com/login",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://nfsmwonline.com/login",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -38980,7 +38924,7 @@
     },
     {
       "id": 4141,
-      "title": "Gears of War 3 Mac Linux Recompilation ",
+      "title": "Gears of War 3 Azura Launcher",
       "url": "https://github.com/Carolux97/Gears3-Azura",
       "hidden": false,
       "status": "working",
@@ -39525,7 +39469,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 4197,
@@ -39979,7 +39923,7 @@
     },
     {
       "id": 4242,
-      "title": "Colin McRae Rally Recompilation 2",
+      "title": "Colin McRae Rally Recompilation",
       "url": "https://github.com/projectedan/McRae05-XBE-Recomp",
       "hidden": false,
       "status": "working",
@@ -40124,7 +40068,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/mamesj/pokemon-ds-widescreen",
+      "final_url": "https://github.com/mamesj/pokemon-fulldex",
       "consecutive_failures": 0
     },
     {
@@ -40324,7 +40268,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://kalasyan.github.io/recompa/",
+      "final_url": "https://recompa.app/",
       "consecutive_failures": 0
     },
     {
@@ -40335,16 +40279,6 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://gitlab.com/adokova1111/project-dream-release",
-      "consecutive_failures": 0
-    },
-    {
-      "id": 4279,
-      "title": "Hyrule Warriors: Definitive Edition Recompilation 2",
-      "url": "https://github.com/blocker-3/HWDER",
-      "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/blocker-3/HWDER",
       "consecutive_failures": 0
     },
     {
@@ -40425,6 +40359,325 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/hk21x/nightfire-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4288,
+      "title": "Fracture Recompilation",
+      "url": "https://github.com/ASarafanov/fracturerecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ASarafanov/fracturerecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4289,
+      "title": "Top Spin 4 PC Launcher",
+      "url": "https://github.com/Mabec-games/Top-Spin-4-Launcher",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Mabec-games/Top-Spin-4-Launcher",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4290,
+      "title": "Mario Kart: Double Dash!! Recompilation ",
+      "url": "https://github.com/badcompany94-rcmp/project-tandem",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/badcompany94-rcmp/project-tandem",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4291,
+      "title": "EA Sports UFC 4 Port",
+      "url": "https://github.com/schans-arg/UFC4-PC-Port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/schans-arg/UFC4-PC-Port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4292,
+      "title": "Snoopy Flying Ace Recompilation",
+      "url": "https://github.com/BTr-RJ/RedBaron_Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/BTr-RJ/RedBaron_Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4293,
+      "title": "Grand Theft Auto: Vice City Stories Recompilation ",
+      "url": "https://github.com/gothamor/gta-vcs-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gothamor/gta-vcs-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4294,
+      "title": "X-Men 2: Clone Wars PC Port",
+      "url": "https://github.com/crabsmack/xmen2-pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/crabsmack/xmen2-pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4296,
+      "title": "Angry Birds Classic, Seasons, Rio and Star Wars PC Ports Collection ",
+      "url": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4297,
+      "title": "Trials HD, Trials Evolution and Trials Fusion PC Ports Collection",
+      "url": "https://github.com/TekRantGaming/Trials-ReVolution-Collection",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TekRantGaming/Trials-ReVolution-Collection",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4298,
+      "title": "Muppet RaceMania PC Port",
+      "url": "https://github.com/TekRantGaming/muppet-racemania-recompiled",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TekRantGaming/muppet-racemania-recompiled",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4299,
+      "title": "40 Winks Recompilation ",
+      "url": "https://github.com/DreaXer/40WinksRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/DreaXer/40WinksRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4300,
+      "title": "Incubation: Time Is Running Out Reimplementation ",
+      "url": "https://github.com/n0madic/IncubationRemake",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/n0madic/IncubationRemake",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4301,
+      "title": "Cartoon Network Racing Recompilation ",
+      "url": "https://github.com/TekRantGaming/cartoon-network-racing-recompiled",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TekRantGaming/cartoon-network-racing-recompiled",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4302,
+      "title": "Fire Emblem: Three Houses Recompilation ",
+      "url": "https://github.com/onerag90/fe3h-recomp",
+      "hidden": false,
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
+    },
+    {
+      "id": 4303,
+      "title": "Max Payne Recompilation 2",
+      "url": "https://github.com/phobos665/payne-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/phobos665/payne-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4304,
+      "title": " Project I.G.I.: I'm Going In for Android",
+      "url": "https://archive.org/details/project-igi_202508",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://archive.org/details/project-igi_202508",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4306,
+      "title": "Mirror's Edge (iPad) in Browser",
+      "url": "https://play.mooncellar.space/glassline/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://play.mooncellar.space/glassline/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4305,
+      "title": "Sonic and the Secret Rings for Android",
+      "url": "https://apkvision.org/games/action/sonic-and-the-secret-rings-135172/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://apkvision.org/games/action/sonic-and-the-secret-rings-135172/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4307,
+      "title": "Saw II: Flesh & Blood Recompilation",
+      "url": "https://github.com/Matt-code-d/Saw2Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Matt-code-d/Saw2Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4308,
+      "title": "Haze Recompilation",
+      "url": "https://github.com/zdiemer/haze-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/zdiemer/haze-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4309,
+      "title": "Grand Theft Auto IV - Liberty Saga",
+      "url": "https://www.moddb.com/mods/liberty-saga/downloads/libertysaga",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.moddb.com/mods/liberty-saga/downloads/libertysaga",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4310,
+      "title": "Outrunners PC Port",
+      "url": "https://github.com/cheviman/outrunners-port/releases/tag/v1.0.0",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/cheviman/outrunners-port/releases/tag/v1.0.0",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4313,
+      "title": "Mario Party 3 Recompilation ",
+      "url": "https://github.com/n64hub/mario-party-3-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/n64hub/mario-party-3-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4312,
+      "title": "Mario Party 2 Recompilation",
+      "url": "https://github.com/n64hub/mario-party-2-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/n64hub/mario-party-2-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4311,
+      "title": "Mario Party Recompilation ",
+      "url": "https://github.com/n64hub/mario-party-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/n64hub/mario-party-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4314,
+      "title": "Vagrant Story PC Port",
+      "url": "https://github.com/JEschete/VS-NativePort",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/JEschete/VS-NativePort",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4315,
+      "title": "Naruto: The Broken Bond Recompilation 2",
+      "url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4316,
+      "title": "X-Men Legends PC Port",
+      "url": "https://github.com/GTTeancum/XML1-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/GTTeancum/XML1-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4317,
+      "title": "God of War PC Port 2",
+      "url": "https://github.com/danielalves96/gow-pc-port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/danielalves96/gow-pc-port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4318,
+      "title": "Crash Twinsanity PC Port 2",
+      "url": "https://github.com/menaman123/TwinsanityEvolved",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/menaman123/TwinsanityEvolved",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4319,
+      "title": "Goemon's Great Adventures Recompilation",
+      "url": "https://github.com/StopSine/GGA64Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/StopSine/GGA64Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4320,
+      "title": "Bomberman 64: The Second Attack! Recompilation ",
+      "url": "https://github.com/bdragoncore/pommy-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/bdragoncore/pommy-recomp",
       "consecutive_failures": 0
     },
     {
@@ -41664,15 +41917,6 @@
       "id": 3086,
       "title": "Grand Theft Auto: San Andreas - Infected State",
       "url": "https://www.nexusmods.com/gtasanandreas/mods/3086",
-      "hidden": true,
-      "status": "hidden",
-      "detail": "Excluded from link checks",
-      "consecutive_failures": 0
-    },
-    {
-      "id": 3113,
-      "title": "Colin McRae Rally Recompilation",
-      "url": "https://github.com/WeAnitTommyBruh/Colin-McRae-Rally-Recomp",
       "hidden": true,
       "status": "hidden",
       "detail": "Excluded from link checks",
