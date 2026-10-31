@@ -449,5 +449,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pilotwings-64-collection.webp"
+  },
+  {
+    "name": "Pokémon Brilliant Diamond",
+    "slug": "pokemon-brilliant-diamond",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-brilliant-diamond-collection.webp"
   }
 ]
