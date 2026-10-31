@@ -365,5 +365,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/metal-slug-x-collection.webp"
+  },
+  {
+    "name": "Metroid Dread",
+    "slug": "metroid-dread",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/metroid-dread-collection.webp"
   }
 ]
