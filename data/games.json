@@ -49320,18 +49320,6 @@
     "date_added": "2026-10-14"
   },
   {
-    "id": 3800,
-    "title": "Super Mario Galaxy for Android",
-    "category": "android-ports",
-    "platform": "",
-    "link": "https://github.com/OpenPort-Labs/Galaxy-Android",
-    "genre1": "platformer",
-    "genre2": "",
-    "series": "Super Mario",
-    "video_link": "",
-    "date_added": "2026-10-14"
-  },
-  {
     "id": 3801,
     "title": "The Darkness Recompilation with DLSS",
     "category": "decompilations-recompilations",
