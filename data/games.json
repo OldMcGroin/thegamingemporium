@@ -57144,5 +57144,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4344-534084350ed3f26d.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4345,
+    "title": "Disruptor PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Phroster/DisruptorRecomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4345-eccbae63589cc9dd.webp",
+    "date_added": "2026-11-01"
   }
 ]
