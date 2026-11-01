@@ -28,6 +28,9 @@
    drafts.games=(drafts.games||[]).filter(g=>Number(g.id)!==Number(before.id));
    localStorage.setItem('tge_manager_stage1_drafts',JSON.stringify(drafts));
    games=games.filter(g=>Number(g.id)!==Number(before.id));
+   // Persist remaining drafts after deletion. The editor must not re-add
+   // this deleted ID from the previous localStorage snapshot.
+   if(typeof persistDrafts==='function' && !persistDrafts())throw Error('Game deleted on GitHub, but local draft cleanup could not be saved. Refresh before publishing.');
    dialog.close();refreshOptions();render();renderCollections();
    alert('Game deleted from GitHub. Wait for the Cloudflare deployment, then refresh the Game Manager. The image file was retained.');
   }catch(e){alert('Game NOT deleted: '+e.message)}

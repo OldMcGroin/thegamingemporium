@@ -212,15 +212,14 @@ const tgeBaselineDraftIndex=new Map(baseline.map(g=>[tgeDraftKey(g),JSON.stringi
 const tgeBaselineCollectionIndex=new Map(baselineCollections.map(c=>[c.slug,JSON.stringify(c)]));
 persistDrafts=function(){
  try{
-  const previous=JSON.parse(localStorage.getItem(STAGE2_KEY)||'{}');
-  const draftByIdentity=new Map(tgeUniqueDrafts(previous.games||[]).map(g=>[tgeDraftKey(g),g]));
+  // The in-memory catalogue already includes restored local drafts. Never merge
+  // drafts missing from it back out of storage: that resurrects discarded or
+  // deleted games as "New record" in Review & Publish.
   const out=[];
-  const current=new Set();
   for(const g of games){
-   const key=tgeDraftKey(g);current.add(key);
+   const key=tgeDraftKey(g);
    if(tgeBaselineDraftIndex.get(key)!==JSON.stringify(g))out.push(g);
   }
-  for(const [key,g] of draftByIdentity)if(!current.has(key))out.push(g);
   const coll=collections.filter(c=>tgeBaselineCollectionIndex.get(c.slug)!==JSON.stringify(c));
   localStorage.setItem(STAGE2_KEY,JSON.stringify({games:tgeUniqueDrafts(out),collections:coll}));
   return true;
