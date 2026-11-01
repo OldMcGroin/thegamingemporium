@@ -57192,5 +57192,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4347-05fc359f1914a3b4.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4348,
+    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4348-bbbaaa4366fb5ba3.webp",
+    "date_added": "2026-11-01"
   }
 ]
