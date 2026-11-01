@@ -56904,5 +56904,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4329-c0855d634b6c515d.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4330,
+    "title": "Xenoblade Chronicles X: Definitive Edition Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jmars125/xcx-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4330-96eb9ecd7d5aa375.webp",
+    "date_added": "2026-11-01"
   }
 ]
