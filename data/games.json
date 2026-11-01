@@ -57048,5 +57048,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4338-909ae6a184f6f7af.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4339,
+    "title": "Gauntlet: Dark Legacy PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "action",
+    "genre2": "rpg",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4339-051342a5836ae0c7.webp",
+    "date_added": "2026-11-01"
   }
 ]
