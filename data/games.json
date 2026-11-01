@@ -47990,18 +47990,6 @@
     "collection": "castlevania-64"
   },
   {
-    "id": 3690,
-    "title": "Call of Duty: Modern Warfare 2 for Android",
-    "category": "android-ports",
-    "platform": "",
-    "link": "https://github.com/OpenPort-Labs/mw2-android",
-    "genre1": "first-person-shooter",
-    "genre2": "",
-    "series": "Call of Duty",
-    "video_link": "",
-    "date_added": "2026-10-11"
-  },
-  {
     "id": 3691,
     "title": "You Don't Know Jack in Browser",
     "category": "browser-based",
