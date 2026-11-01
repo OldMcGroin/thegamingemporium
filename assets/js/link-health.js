@@ -3,14 +3,15 @@
  const output=root.querySelector('[data-link-health-results]'), summary=root.querySelector('[data-link-health-summary]');
  const search=root.querySelector('[data-link-health-search]');let entries=[],reviews={},filter='flagged',lastScan='';
  const storageKey='tge-link-health-verified-v1';
+ let liveIds=null;
  const isConfirmedBroken=x=>x.status==='broken' && /^HTTP 404(?:\b|$)/.test(x.detail||'');
  const isOtherIssue=x=>!x.hidden && !isConfirmedBroken(x) && x.status!=='working';
  const hasReview=x=>{const r=reviews[String(x.id)];return !!(r&&r.url===x.url&&r.detail===x.detail);};
  function loadReviews(){try{return JSON.parse(localStorage.getItem(storageKey)||'{}')||{};}catch{return {};}}
  function saveReviews(){try{localStorage.setItem(storageKey,JSON.stringify(reviews));return true;}catch{return false;}}
  function node(tag,text){const el=document.createElement(tag);el.textContent=text;return el;}
- function render(){output.replaceChildren();const q=search.value.toLowerCase();const list=entries.filter(x=>(filter==='all'||(filter==='hidden'?x.hidden:filter==='reviewed'?hasReview(x):filter==='other'?isOtherIssue(x)&&!hasReview(x):!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)))&&((x.title||'').toLowerCase().includes(q)||(x.url||'').toLowerCase().includes(q)));
-  summary.textContent=`${entries.length} links checked · ${entries.filter(x=>!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)).length} confirmed 404 to review · ${entries.filter(x=>isOtherIssue(x)&&!hasReview(x)).length} other issues · ${entries.filter(x=>x.hidden).length} hidden · ${entries.filter(hasReview).length} checked & OK${lastScan?' · Last scan: '+lastScan:''}`;
+ function render(){output.replaceChildren();const q=search.value.toLowerCase();const list=entries.filter(x=>(!liveIds||liveIds.has(String(x.id)))&&(filter==='all'||(filter==='hidden'?x.hidden:filter==='reviewed'?hasReview(x):filter==='other'?isOtherIssue(x)&&!hasReview(x):!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)))&&((x.title||'').toLowerCase().includes(q)||(x.url||'').toLowerCase().includes(q)));
+  summary.textContent=`${entries.filter(x=>!liveIds||liveIds.has(String(x.id))).length} entries in report · ${entries.filter(x=>(!liveIds||liveIds.has(String(x.id)))&&!x.hidden&&isConfirmedBroken(x)&&!hasReview(x)).length} confirmed 404 to review · ${entries.filter(x=>(!liveIds||liveIds.has(String(x.id)))&&isOtherIssue(x)&&!hasReview(x)).length} other issues · ${entries.filter(x=>(!liveIds||liveIds.has(String(x.id)))&&x.hidden).length} hidden · ${entries.filter(x=>(!liveIds||liveIds.has(String(x.id)))&&hasReview(x)).length} checked & OK${lastScan?' · Last scan: '+lastScan:''}`;
   if(!list.length){output.append(node('p','No matching games.'));return;}
   for(const item of list.slice(0,1000)){
    const card=node('div','');card.style.cssText='border:1px solid #8886;border-radius:8px;padding:12px;margin:10px 0';
@@ -26,7 +27,7 @@
     if(typed!=='DELETE')return;
     try{const response=await fetch('/admin/link-health/manage',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:item.id,expected_link:item.url,field:'delete',value:item.title})});
      const data=await response.json();if(!response.ok||!data.ok)throw Error(data.message||'Deletion failed');
-     entries=entries.filter(x=>String(x.id)!==String(item.id));delete reviews[String(item.id)];saveReviews();render();alert('Game deleted from GitHub. Allow time for Cloudflare deployment.');
+     entries=entries.filter(x=>String(x.id)!==String(item.id));if(liveIds)liveIds.delete(String(item.id));delete reviews[String(item.id)];saveReviews();render();alert(data.already_deleted?'This game was already deleted. Its old report entry has been cleared.':'Game deleted from GitHub. Allow time for Cloudflare deployment.');
     }catch(e){alert('Game NOT deleted: '+e.message)}
    });
    if(!item.hidden)action(hasReview(item)?'Reopen Review':'✓ Checked & OK',()=>{
@@ -40,8 +41,9 @@
  }
  async function change(item,field,value){try{const response=await fetch('/admin/link-health/manage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:item.id,expected_link:item.url,field,value})});const data=await response.json();if(!response.ok)throw Error(data.message||'Update failed');if(field==='hidden')item.hidden=value;else item.url=value;render();alert('Saved to GitHub. Allow time for Cloudflare to deploy.');}catch(e){alert(e.message);}}
  root.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{filter=b.dataset.filter;render();}));search.addEventListener('input',render);
- fetch('/link-health-report.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No scan report yet. Run the GitHub Actions workflow first.');return r.json();}).then(d=>{
-  entries=d.results||[];reviews=loadReviews();
+ Promise.all([fetch('/link-health-report.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No scan report yet. Run the GitHub Actions workflow first.');return r.json();}),fetch('/admin/link-health/manage',{cache:'no-store',credentials:'same-origin'}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([d,current])=>{
+  liveIds=current&&Array.isArray(current.ids)?new Set(current.ids.map(String)):null;
+  entries=(d.results||[]).filter(x=>!liveIds||liveIds.has(String(x.id)));reviews=loadReviews();
   for(const item of entries){const review=reviews[String(item.id)];if(review&&(review.url!==item.url||review.detail!==item.detail))delete reviews[String(item.id)];}
   saveReviews();lastScan=d.checked_at?new Date(d.checked_at).toLocaleString():'';render();
  }).catch(e=>summary.textContent=e.message);

@@ -36,6 +36,18 @@ async function github(env, path, options = {}) {
   if (!r.ok) throw Error(`GitHub ${r.status}: ${json.message || 'Request failed'}`);
   return json;
 }
+// Read-only current game IDs let the dashboard discard entries from an old report.
+export async function onRequestGet({request,env}) {
+ if(!(await authorized(request,env)))return respond({message:'Administrator authentication required.'},403);
+ if(!env.GITHUB_TOKEN)return respond({message:'GITHUB_TOKEN not configured.'},503);
+ try {
+  const file=await github(env,FILE+'?ref='+BRANCH);
+  let content=file.content;
+  if(!content||file.encoding!=='base64')content=(await github(env,'git/blobs/'+file.sha)).content;
+  const games=JSON.parse(new TextDecoder().decode(bytes(content.replace(/\s/g,''))));
+  return respond({ids:games.map(g=>String(g.id))});
+ }catch(e){console.error('Link health current IDs:',e);return respond({message:'Unable to load current games.'},502);}
+}
 export async function onRequestPost({request,env}) {
  if(!(await authorized(request,env)))return respond({message:'Cloudflare Access administrator authentication required.'},403);
  if(!env.GITHUB_TOKEN)return respond({message:'GITHUB_TOKEN not configured.'},503);
@@ -73,6 +85,7 @@ export async function onRequestPost({request,env}) {
   if(!content)throw Error('Missing GitHub content');
   const games=JSON.parse(new TextDecoder().decode(bytes(content.replace(/\s/g,''))));
   const matches=games.filter(x=>String(x.id)===String(id));
+  if(matches.length===0 && field==='delete')return respond({ok:true,already_deleted:true});
   if(matches.length!==1)return respond({message:'Game ID is missing or duplicated. No changes made.'},409);
   const game=matches[0];
   if(game.link!==expected_link)return respond({message:'This link has changed since the report was generated. Refresh before editing.'},409);
