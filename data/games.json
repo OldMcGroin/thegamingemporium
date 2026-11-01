@@ -57208,5 +57208,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4353-67578745d950f6c3.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4354,
+    "title": "Space Station Silicon Valley Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/scottjco/SSSV_Recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "collection": "space-station-silicon-valley",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4354-fa9e3208d98d40f0.webp",
+    "date_added": "2026-11-01"
   }
 ]
