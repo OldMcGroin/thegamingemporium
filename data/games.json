@@ -57208,5 +57208,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4348-bbbaaa4366fb5ba3.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4349,
+    "title": "Hexic HD Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/josiahg2502-glitch/HexicHDRecompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "puzzle",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4349-465eac953ddf604a.webp",
+    "date_added": "2026-11-01"
   }
 ]
