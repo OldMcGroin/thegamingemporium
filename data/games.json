@@ -57080,5 +57080,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4340-7e2bb2c24e27c46a.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4341,
+    "title": "Wario World Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BigSnek9/wario-world-recomp",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "platformer",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4341-a790e406eac120e4.webp",
+    "date_added": "2026-11-01"
   }
 ]
