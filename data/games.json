@@ -57016,5 +57016,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4336-75c18535f0a8984e.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4337,
+    "title": "Conker: Live & Reloaded PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/giacomozama/live-and-recompiled",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4337-2241299bd7d4fb60.webp",
+    "date_added": "2026-11-01"
   }
 ]
