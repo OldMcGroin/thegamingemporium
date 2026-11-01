@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-31T10:28:30.460809+00:00",
-  "total": 4285,
+  "checked_at": "2026-11-01T11:21:05.590851+00:00",
+  "total": 4310,
   "results": [
     {
       "id": 1,
@@ -2311,9 +2311,8 @@
       "title": "Sonic 2 HD",
       "url": "https://sonic2hd.com/download/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 202",
-      "final_url": "https://sonic2hd.com/download/",
+      "status": "other",
+      "detail": "HTTP 520",
       "consecutive_failures": 0
     },
     {
@@ -4442,9 +4441,8 @@
       "title": "ioquake3 - Quake 3: Arena Port",
       "url": "https://ioquake3.org/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://ioquake3.org/",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -4667,7 +4665,7 @@
     },
     {
       "id": 481,
-      "title": "Memoria - Tools for Final Fantasy IX",
+      "title": "Memoria - Tools for Final Fantasy 9",
       "url": "https://github.com/Albeoris/Memoria",
       "hidden": false,
       "status": "working",
@@ -5427,8 +5425,9 @@
       "title": "The Battle for Wesnoth",
       "url": "https://www.wesnoth.org/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.wesnoth.org/",
       "consecutive_failures": 0
     },
     {
@@ -6219,7 +6218,7 @@
     },
     {
       "id": 645,
-      "title": "Final Fantasy VII Decompilation",
+      "title": "Final Fantasy 7 Decompilation",
       "url": "https://github.com/Xeeynamo/ff7-decomp",
       "hidden": false,
       "status": "working",
@@ -7997,7 +7996,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=74b28fcea093d86ced62faa2fbb0d4505b53b615d0dd3a2339392c28e9c2354f&aud=forums.civfanatics.com&aid=36dce3dc06a5ebb9ede074c8b8ddcc54",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=1e6790ba0e3c30f932cefe21746d2fc48cc3e9b008993e682cd60629f4c895d4&aud=forums.civfanatics.com&aid=c49685579842a65da65024c60e6e606a",
       "consecutive_failures": 0
     },
     {
@@ -8954,7 +8953,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 15
+      "consecutive_failures": 16
     },
     {
       "id": 934,
@@ -10142,8 +10141,9 @@
       "title": "James Cameron's Avatar: The Game",
       "url": "https://archive.org/details/james-camerons-avatar-the-game_202512",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://archive.org/details/james-camerons-avatar-the-game_202512",
       "consecutive_failures": 0
     },
     {
@@ -11714,9 +11714,8 @@
       "title": "Beyond Zero Tolerance - Genesis Mega Drive",
       "url": "https://wowroms.com/en/roms/sega-genesis-megadrive/beyond-zero-tolerance-usa-proto/25311.html",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://wowroms.com/en/roms/sega-genesis-megadrive/beyond-zero-tolerance-usa-proto/25311.html",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -13655,7 +13654,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 15
+      "consecutive_failures": 16
     },
     {
       "id": 1468,
@@ -18504,7 +18503,7 @@
     },
     {
       "id": 1967,
-      "title": "FEAR",
+      "title": "F.E.A.R.",
       "url": "https://archive.org/details/fear-repack",
       "hidden": false,
       "status": "working",
@@ -20092,9 +20091,8 @@
       "title": "Seen in Liberty City - GTA 3 PSP Remake",
       "url": "https://barcode-studia.ru/mods/silc/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://barcode-studia.ru/mods/silc/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -20181,8 +20179,9 @@
       "title": "SDL Scavenger",
       "url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "consecutive_failures": 0
     },
     {
@@ -20524,7 +20523,7 @@
     },
     {
       "id": 2176,
-      "title": "Final Fantasy VIII Decompilation",
+      "title": "Final Fantasy 8 Decompilation",
       "url": "https://github.com/roengstrom/ff8-decomp",
       "hidden": false,
       "status": "working",
@@ -22941,7 +22940,7 @@
     },
     {
       "id": 2416,
-      "title": "Street Fighter III Third Strike PC Port",
+      "title": "Street Fighter 3: 3rd Strike PC Port",
       "url": "https://github.com/guimaraf/3sxw",
       "hidden": false,
       "status": "working",
@@ -23451,7 +23450,7 @@
     },
     {
       "id": 2470,
-      "title": "Dirge Of Cerberus: Final Fantasy VII PC Patched",
+      "title": "Dirge Of Cerberus: Final Fantasy 7 PC Patched",
       "url": "https://archive.org/details/dirge-of-cerberus-final-fantasy-vii",
       "hidden": false,
       "status": "working",
@@ -24898,8 +24897,9 @@
       "title": "Perfect Dark 3DS Port",
       "url": "https://archive.org/details/perfectdark3ds",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://archive.org/details/perfectdark3ds",
       "consecutive_failures": 0
     },
     {
@@ -25424,9 +25424,8 @@
       "title": "Surreal Engine Web – Unreal UT99 in Browser",
       "url": "https://demensdeum.com/demos/SurrealEngine/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://demensdeum.com/demos/SurrealEngine/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -25830,9 +25829,8 @@
       "title": "Pokemon Dawn of Darkness MMORPG",
       "url": "https://pdod.dev/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://pdod.dev/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -30737,7 +30735,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 9
+      "consecutive_failures": 10
     },
     {
       "id": 3258,
@@ -30931,7 +30929,7 @@
     },
     {
       "id": 3276,
-      "title": "Final Fantasy IX Recompilation",
+      "title": "Final Fantasy 9 Recompilation",
       "url": "https://github.com/alexbeavs-ps1-ports/final-fantasy-ix-recomp",
       "hidden": false,
       "status": "working",
@@ -30941,7 +30939,7 @@
     },
     {
       "id": 3277,
-      "title": "Final Fantasy VIII Recompilation",
+      "title": "Final Fantasy 8 Recompilation",
       "url": "https://github.com/alexbeavs-ps1-ports/final-fantasy-viii-recomp",
       "hidden": false,
       "status": "working",
@@ -32050,16 +32048,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 3394,
-      "title": "Serial Experiments Lain Recompilation",
-      "url": "https://github.com/Y0oshi/lain-psx-decompiled/",
-      "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/Y0oshi/lain-psx-decompiled/",
-      "consecutive_failures": 0
-    },
-    {
       "id": 3395,
       "title": "Mario Kart Wii Nintendo Switch Port",
       "url": "https://github.com/dorPXP/driftdroid/releases/tag/switch-beta1",
@@ -32810,7 +32798,7 @@
     },
     {
       "id": 3487,
-      "title": "Ridge Racer V Recompilation",
+      "title": "Ridge Racer 5 Recompilation",
       "url": "https://github.com/danisandoval/fukami",
       "hidden": false,
       "status": "working",
@@ -33360,7 +33348,7 @@
     },
     {
       "id": 3544,
-      "title": "The World Is Not Enough Recompilation",
+      "title": "007: The World Is Not Enough Recompilation",
       "url": "https://github.com/riseio/TWIPE_00Sheven",
       "hidden": false,
       "status": "working",
@@ -33485,7 +33473,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3804,
@@ -33494,7 +33482,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 3557,
@@ -34829,7 +34817,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3691,
@@ -35865,7 +35853,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3794,
@@ -35911,9 +35899,8 @@
       "title": "Quest Ports",
       "url": "https://questports.vercel.app/?ref=reddit",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://questports.vercel.app/?ref=reddit",
+      "status": "other",
+      "detail": "HTTP 402",
       "consecutive_failures": 0
     },
     {
@@ -35933,7 +35920,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": 3801,
@@ -37236,7 +37223,7 @@
     },
     {
       "id": 3972,
-      "title": "Street Fighter III: 3rd Strike PC Port",
+      "title": "Street Fighter 3: 3rd Strike PC Port 2",
       "url": "https://github.com/Manya3084/SF33RDSXBRecompo",
       "hidden": false,
       "status": "working",
@@ -37736,7 +37723,7 @@
     },
     {
       "id": 4022,
-      "title": "Need for Speed: Most Wanted Recompilation",
+      "title": "Need for Speed: Most Wanted Recompilation 2",
       "url": "https://github.com/rafidwayne/speedbreaker",
       "hidden": false,
       "status": "working",
@@ -38325,7 +38312,7 @@
     },
     {
       "id": 4078,
-      "title": "Soulcalibur 2 HD Online Recompilation",
+      "title": "Soul Calibur 2 HD Online Recompilation",
       "url": "https://github.com/n0madic/Soulcalibur2HD-recomp",
       "hidden": false,
       "status": "working",
@@ -39314,7 +39301,7 @@
     },
     {
       "id": 4180,
-      "title": "Super Mario Maker 2 Recompilation ",
+      "title": "Super Mario Maker 2 Recompilation 2",
       "url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
       "hidden": false,
       "status": "working",
@@ -39354,7 +39341,7 @@
     },
     {
       "id": 4185,
-      "title": "Super Mario Sunshine PC Port 2",
+      "title": "Super Mario Sunshine PC Port 3",
       "url": "https://github.com/zeranemesis/sms-port",
       "hidden": false,
       "status": "working",
@@ -39469,7 +39456,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4197,
@@ -40098,7 +40085,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/mariqtereza-del/Pac2600Comp",
+      "final_url": "https://github.com/coprsegrinder/Pac2600Comp",
       "consecutive_failures": 0
     },
     {
@@ -40143,7 +40130,7 @@
     },
     {
       "id": 4265,
-      "title": "Tomodachi Life: Living the Dream Recompilation ",
+      "title": "Tomodachi Life: Living the Dream Recompilation 2",
       "url": "https://github.com/josiahg2502-glitch/TomodachiLife-recomp",
       "hidden": false,
       "status": "working",
@@ -40494,11 +40481,12 @@
     {
       "id": 4302,
       "title": "Fire Emblem: Three Houses Recompilation ",
-      "url": "https://github.com/onerag90/fe3h-recomp",
+      "url": "https://gitlab.com/onerag90/fe3h-recomp",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://gitlab.com/onerag90/fe3h-recomp",
+      "consecutive_failures": 0
     },
     {
       "id": 4303,
@@ -40678,6 +40666,266 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/bdragoncore/pommy-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4321,
+      "title": "NBA Hangtime Recompilation",
+      "url": "https://github.com/8bitninja64/HangtimeRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/8bitninja64/HangtimeRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4322,
+      "title": "007 Nightfire Recompilation 2",
+      "url": "https://github.com/TGP482/007Nightfire-XBERecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TGP482/007Nightfire-XBERecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4323,
+      "title": "Dragon Ball Z: Budokai Tenkaichi 4 PC Port",
+      "url": "https://github.com/NauTaro/DBZ-BT4-Tag-Team-Decomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/NauTaro/DBZ-BT4-Tag-Team-Decomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4324,
+      "title": "Donkey Kong Country Recompilation 2",
+      "url": "https://github.com/gumilastik/DKC1Recomp-Coop",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gumilastik/DKC1Recomp-Coop",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4325,
+      "title": "The Legend of Zelda: Tears of the Kingdom Launcher",
+      "url": "https://github.com/FurkanAnc/totk-launcher",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/FurkanAnc/totk-launcher",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4326,
+      "title": "Medal of Honor: European Assault PC Port",
+      "url": "https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4327,
+      "title": "007: The World is Not Enough PC Port",
+      "url": "https://github.com/CipherNovaa/twine-pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/CipherNovaa/twine-pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4328,
+      "title": "Senjin Aleste Linux Port",
+      "url": "https://github.com/kazuyette/senjin-recomped",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/kazuyette/senjin-recomped",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4329,
+      "title": "Bloody Roar Extreme PC Port",
+      "url": "https://github.com/bromurok/BloodyRoarExtremeRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/bromurok/BloodyRoarExtremeRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4330,
+      "title": "Xenoblade Chronicles X: Definitive Edition Recompilation",
+      "url": "https://github.com/jmars125/xcx-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/jmars125/xcx-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4331,
+      "title": "Deus Ex Rust Reimplementation",
+      "url": "https://github.com/Grissyelda/dx-rust",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Grissyelda/dx-rust",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4332,
+      "title": "Diablo 2 in Browser",
+      "url": "https://diablo2.virtastic.app/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://diablo2.virtastic.app/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4333,
+      "title": "Beyond Oasis Recompilation",
+      "url": "https://github.com/OriginalSwayze/beyond-oasis-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/OriginalSwayze/beyond-oasis-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4334,
+      "title": "Dragon Valor Recompilation",
+      "url": "https://github.com/victor-takai/dragon-valor-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/victor-takai/dragon-valor-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4335,
+      "title": "Tekken Tag Tournament 2 Recompilation 3",
+      "url": "https://github.com/avim2/BlueSpark",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/avim2/BlueSpark",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4336,
+      "title": "Darkwatch: Darker Edition PC Port",
+      "url": "https://github.com/linkssy2/DarkwatchDarkerEdition",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/linkssy2/DarkwatchDarkerEdition",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4337,
+      "title": "Conker: Live & Reloaded PC Port",
+      "url": "https://github.com/giacomozama/live-and-recompiled",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/giacomozama/live-and-recompiled",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4338,
+      "title": "Bayonetta 3 Recompilation",
+      "url": "https://github.com/Zexyen/Witch-Time",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Zexyen/Witch-Time",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4339,
+      "title": "Gauntlet: Dark Legacy PC Port",
+      "url": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4340,
+      "title": "Shadow the Hedgehog Recompilation",
+      "url": "https://github.com/BigSnek9/ShadowRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/BigSnek9/ShadowRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4341,
+      "title": "Wario World Recompilation",
+      "url": "https://github.com/BigSnek9/wario-world-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/BigSnek9/wario-world-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4342,
+      "title": "WWE SmackDown! Here Comes the Pain Recompilation ",
+      "url": "https://github.com/BigDaddyJRich/hctp-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/BigDaddyJRich/hctp-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4343,
+      "title": "Harvest Moon: Back to Nature Recompilation ",
+      "url": "https://github.com/d4rksp4rt4n/HMBTN-ReFarmed",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/d4rksp4rt4n/HMBTN-ReFarmed",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4344,
+      "title": "Asphalt 5 Recompilation",
+      "url": "https://github.com/mrbaazzman/Asphalt5-Native",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mrbaazzman/Asphalt5-Native",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4345,
+      "title": "Disruptor PC Port",
+      "url": "https://github.com/Phroster/DisruptorRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Phroster/DisruptorRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4346,
+      "title": "Streets of Rage Recompilation 2",
+      "url": "https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp",
       "consecutive_failures": 0
     },
     {
