@@ -785,5 +785,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/streets-of-rage-collection.webp"
+  },
+  {
+    "name": "Space Station Silicon Valley",
+    "slug": "space-station-silicon-valley",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/space-station-silicon-valley-collection.webp"
   }
 ]
