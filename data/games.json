@@ -56984,5 +56984,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4334-1544b420e3a42cf5.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4335,
+    "title": "Tekken Tag Tournament 2 Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/avim2/BlueSpark",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "collection": "tekken-tag-tournament-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4335-678b8e37f1ce60d2.webp",
+    "date_added": "2026-11-01"
   }
 ]
