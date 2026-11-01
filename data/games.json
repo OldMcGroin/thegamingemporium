@@ -56920,5 +56920,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4330-96eb9ecd7d5aa375.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4331,
+    "title": "Deus Ex Rust Reimplementation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Grissyelda/dx-rust",
+    "video_link": "",
+    "platform": "Steam",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4331-725726167d6388d2.webp",
+    "date_added": "2026-11-01"
   }
 ]
