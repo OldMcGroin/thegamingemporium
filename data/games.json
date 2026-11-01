@@ -57160,5 +57160,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4345-eccbae63589cc9dd.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4346,
+    "title": "Streets of Rage Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "collection": "streets-of-rage",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4346-cf935c51cdeab25c.webp",
+    "date_added": "2026-11-01"
   }
 ]
