@@ -57128,5 +57128,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4343-0ee2f5fdb7c25039.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4344,
+    "title": "Asphalt 5 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mrbaazzman/Asphalt5-Native",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4344-534084350ed3f26d.webp",
+    "date_added": "2026-11-01"
   }
 ]
