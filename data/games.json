@@ -57064,5 +57064,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4339-051342a5836ae0c7.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4340,
+    "title": "Shadow the Hedgehog Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BigSnek9/ShadowRecomp",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "platformer",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4340-7e2bb2c24e27c46a.webp",
+    "date_added": "2026-11-01"
   }
 ]
