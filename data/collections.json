@@ -778,5 +778,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/darkwatch-collection.webp"
+  },
+  {
+    "name": "Streets of Rage",
+    "slug": "streets-of-rage",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/streets-of-rage-collection.webp"
   }
 ]
