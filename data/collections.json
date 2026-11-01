@@ -771,5 +771,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/007-the-world-is-not-enough-collection.webp"
+  },
+  {
+    "name": "Darkwatch",
+    "slug": "darkwatch",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/darkwatch-collection.webp"
   }
 ]
