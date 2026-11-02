@@ -57337,5 +57337,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4361-427c3d6872941378.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4362,
+    "title": "Conker: Live & Reloaded Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "collection": "conker-live-reloaded",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4362-92aca7a84e6abaea.webp",
+    "date_added": "2026-11-02"
   }
 ]
