@@ -57305,5 +57305,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4359-d9e71604cb98ab94.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4360,
+    "title": "Star Ocean 5: Integrity and Faithlessness PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rpg",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4360-858690a3c8e0c24d.webp",
+    "date_added": "2026-11-02"
   }
 ]
