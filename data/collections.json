@@ -792,5 +792,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/space-station-silicon-valley-collection.webp"
+  },
+  {
+    "name": "Rockstar Games Presents Table Tennis",
+    "slug": "rockstar-games-presents-table-tennis",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/rockstar-games-presents-table-tennis-collection.webp"
   }
 ]
