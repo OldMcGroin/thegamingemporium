@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-01T11:21:05.590851+00:00",
-  "total": 4310,
+  "checked_at": "2026-11-02T12:20:10.370906+00:00",
+  "total": 4327,
   "results": [
     {
       "id": 1,
@@ -56,9 +56,8 @@
       "title": "AM2R",
       "url": "https://archive.org/details/am-2-r",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/am-2-r",
+      "status": "other",
+      "detail": "HTTP 502",
       "consecutive_failures": 0
     },
     {
@@ -1429,9 +1428,8 @@
       "title": "Mega Man Legends - Rockman DASH: Great adventureon 5 Islands",
       "url": "https://www.rockman-corner.com/2025/03/rockman-dash-great-adventure-on-5.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.rockman-corner.com/2025/03/rockman-dash-great-adventure-on-5.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -1997,9 +1995,8 @@
       "title": "Pokemon Rejuvenation",
       "url": "https://www.rebornevo.com/rejuvenation/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.rebornevo.com/rejuvenation/",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -3143,9 +3140,8 @@
       "title": "Teenage Mutant Ninja Turtles SNES Port",
       "url": "https://archive.org/details/teenage-mutant-ninja-turtles-snes_202511",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/teenage-mutant-ninja-turtles-snes_202511",
+      "status": "other",
+      "detail": "HTTP 502",
       "consecutive_failures": 0
     },
     {
@@ -3541,9 +3537,8 @@
       "title": "Zelda II The adventures of Link SNES Port",
       "url": "https://archive.org/details/zelda-ii-the-adventure-of-link-snes_202510",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/zelda-ii-the-adventure-of-link-snes_202510",
+      "status": "other",
+      "detail": "HTTP 502",
       "consecutive_failures": 0
     },
     {
@@ -4658,9 +4653,8 @@
       "title": "Mega Man Legends PC Port",
       "url": "https://www.rockman-corner.com/2025/08/mega-man-legends-pc-port-gets.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.rockman-corner.com/2025/08/mega-man-legends-pc-port-gets.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -5663,8 +5657,9 @@
       "title": "Zero-K",
       "url": "https://zero-k.info/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://zero-k.info/",
       "consecutive_failures": 0
     },
     {
@@ -7996,7 +7991,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=1e6790ba0e3c30f932cefe21746d2fc48cc3e9b008993e682cd60629f4c895d4&aud=forums.civfanatics.com&aid=c49685579842a65da65024c60e6e606a",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=56b634de26b603ffe217a9e5fba349cda4bdca270b1ace8cf7dada846cbd3d4b&aud=forums.civfanatics.com&aid=eaf3d09c304948811c0166e7e1056595",
       "consecutive_failures": 0
     },
     {
@@ -8953,7 +8948,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 16
+      "consecutive_failures": 17
     },
     {
       "id": 934,
@@ -10541,9 +10536,8 @@
       "title": "Pure",
       "url": "https://archive.org/details/pure.-7z",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/pure.-7z",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -10551,9 +10545,8 @@
       "title": "Race Driver: GRID",
       "url": "https://archive.org/details/race-driver-grid.-7z",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/race-driver-grid.-7z",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -10561,9 +10554,8 @@
       "title": "Rambo: The Videogame",
       "url": "https://archive.org/details/rambo-the-video-game_202601",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/rambo-the-video-game_202601",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -10571,9 +10563,8 @@
       "title": "Resident Evil: Operation Racoon City",
       "url": "https://archive.org/details/resident-evil_202510",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/resident-evil_202510",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -10581,9 +10572,8 @@
       "title": "reTHAWed",
       "url": "https://archive.org/details/reTHAWed.7z",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/reTHAWed.7z",
+      "status": "other",
+      "detail": "HTTP 502",
       "consecutive_failures": 0
     },
     {
@@ -10591,9 +10581,8 @@
       "title": "Road Rash",
       "url": "https://archive.org/details/road-rash_202511",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://archive.org/details/road-rash_202511",
+      "status": "other",
+      "detail": "HTTP 502",
       "consecutive_failures": 0
     },
     {
@@ -11480,9 +11469,8 @@
       "title": "SSX 3",
       "url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -11714,8 +11702,9 @@
       "title": "Beyond Zero Tolerance - Genesis Mega Drive",
       "url": "https://wowroms.com/en/roms/sega-genesis-megadrive/beyond-zero-tolerance-usa-proto/25311.html",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://wowroms.com/en/roms/sega-genesis-megadrive/beyond-zero-tolerance-usa-proto/25311.html",
       "consecutive_failures": 0
     },
     {
@@ -12113,9 +12102,8 @@
       "title": "Warcraft adventures: Lord of the Clans - PC ScummVM",
       "url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -13654,7 +13642,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 16
+      "consecutive_failures": 17
     },
     {
       "id": 1468,
@@ -14381,8 +14369,9 @@
       "title": "OpenArena",
       "url": "http://www.openarena.ws/smfnews.php",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "http://www.openarena.ws/smfnews.php",
       "consecutive_failures": 0
     },
     {
@@ -20091,8 +20080,9 @@
       "title": "Seen in Liberty City - GTA 3 PSP Remake",
       "url": "https://barcode-studia.ru/mods/silc/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://barcode-studia.ru/mods/silc/",
       "consecutive_failures": 0
     },
     {
@@ -23643,8 +23633,9 @@
       "title": "The Sly Collection PC Patched",
       "url": "https://archive.org/details/sly-collection",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://archive.org/details/sly-collection",
       "consecutive_failures": 0
     },
     {
@@ -23961,9 +23952,8 @@
       "title": "Warcraft II for Android",
       "url": "https://dos.zone/offline/warcraft-ii-android/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dos.zone/offline/warcraft-ii-android/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -23971,9 +23961,8 @@
       "title": "Dune 2 For Android",
       "url": "https://dos.zone/offline/dune-2-android/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dos.zone/offline/dune-2-android/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -25257,9 +25246,8 @@
       "title": "Fallout Nevada Sonora in Browser",
       "url": "https://fallout-nevada.ru/#/en",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://fallout-nevada.ru/#/en",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -25424,8 +25412,9 @@
       "title": "Surreal Engine Web – Unreal UT99 in Browser",
       "url": "https://demensdeum.com/demos/SurrealEngine/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://demensdeum.com/demos/SurrealEngine/",
       "consecutive_failures": 0
     },
     {
@@ -25829,8 +25818,9 @@
       "title": "Pokemon Dawn of Darkness MMORPG",
       "url": "https://pdod.dev/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://pdod.dev/",
       "consecutive_failures": 0
     },
     {
@@ -30735,7 +30725,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 10
+      "consecutive_failures": 11
     },
     {
       "id": 3258,
@@ -33467,24 +33457,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 3556,
-      "title": "Super Mario Sunshine PC Port",
-      "url": "https://github.com/TekRantGaming/sms-pc-port",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
-      "id": 3804,
-      "title": "Super Mario Sunshine PC Port 2",
-      "url": "https://github.com/TekRantGaming/sms-pc-port",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
       "id": 3557,
       "title": "Real Steel Recompilation",
       "url": "https://github.com/thefixinhixon/RealSteelRecomp",
@@ -34286,9 +34258,8 @@
       "title": "Grand Theft Auto 5 in Browser",
       "url": "https://web.archive.org/web/20261006055917/https://playgta5.com/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://web.archive.org/web/20240810090256/http://www.playgta5.com/",
+      "status": "other",
+      "detail": "HTTP 401",
       "consecutive_failures": 0
     },
     {
@@ -34809,15 +34780,6 @@
       "detail": "HTTP 200",
       "final_url": "https://github.com/DankZoneStudios/CV64Recomp",
       "consecutive_failures": 0
-    },
-    {
-      "id": 3690,
-      "title": "Call of Duty: Modern Warfare 2 for Android",
-      "url": "https://github.com/OpenPort-Labs/mw2-android",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 4
     },
     {
       "id": 3691,
@@ -35847,15 +35809,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 3793,
-      "title": "Hyrule Warriors Switch Recompilation",
-      "url": "https://github.com/sonsegajp/HWDER",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 4
-    },
-    {
       "id": 3794,
       "title": "Forza Motorsport 2 PC Port",
       "url": "https://github.com/0herculabs/hl360-Forza2",
@@ -35912,15 +35865,6 @@
       "detail": "HTTP 200",
       "final_url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
       "consecutive_failures": 0
-    },
-    {
-      "id": 3800,
-      "title": "Super Mario Galaxy for Android",
-      "url": "https://github.com/OpenPort-Labs/Galaxy-Android",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 4
     },
     {
       "id": 3801,
@@ -37303,7 +37247,7 @@
     },
     {
       "id": 3978,
-      "title": "Table Tennis Recompilation",
+      "title": "Rockstar Games Presents Table Tennis Recompilation",
       "url": "https://github.com/Mabec-games/Table-Tennis-Rockstar-Linux",
       "hidden": false,
       "status": "working",
@@ -39450,15 +39394,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 4196,
-      "title": "Rock Band 3 Recompilation",
-      "url": "https://github.com/idio-sync/band3_recomp",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 5
-    },
-    {
       "id": 4197,
       "title": "Better Super Mario Sunshine Online",
       "url": "https://gamebanana.com/mods/697699",
@@ -40083,9 +40018,8 @@
       "title": "Pac-Man Rebuilt",
       "url": "https://github.com/mariqtereza-del/Pac2600Comp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/coprsegrinder/Pac2600Comp",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -40093,9 +40027,8 @@
       "title": "Wreckfest VR",
       "url": "https://github.com/sqofer/WREACKFEST-VR",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/sqofer/WREACKFEST-VR",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -40103,9 +40036,8 @@
       "title": "Forza Motorsport 4 Recompilation 2",
       "url": "https://github.com/i2kiselev/fm4-static-recomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/i2kiselev/fm4-static-recomp",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -40113,9 +40045,8 @@
       "title": "Monopoly Xbox 360 Recompilation ",
       "url": "https://github.com/josiahg2502-glitch/MonopolyRecompiled",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/josiahg2502-glitch/MonopolyRecompiled",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -40133,9 +40064,8 @@
       "title": "Tomodachi Life: Living the Dream Recompilation 2",
       "url": "https://github.com/josiahg2502-glitch/TomodachiLife-recomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/josiahg2502-glitch/TomodachiLife-recomp",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -40926,6 +40856,235 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4347,
+      "title": "The Legend of Zelda: Tears of the Kingdom for Android ",
+      "url": "https://github.com/mamcjr/TOTKDroid",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mamcjr/TOTKDroid",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4348,
+      "title": "The Legend of Zelda: Tears of the Kingdom Recompilation 3",
+      "url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4349,
+      "title": "Hexic HD Recompilation",
+      "url": "https://github.com/josiahg2502-glitch/HexicHDRecompiled",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/josiahg2502-glitch/HexicHDRecompiled",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4350,
+      "title": "Ryū ga Gotoku: Kenzan! - PlayStation 3",
+      "url": "https://www.moddb.com/mods/ry-ga-gotoku-kenzan-english-translation-patch",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.moddb.com/mods/ry-ga-gotoku-kenzan-english-translation-patch",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4351,
+      "title": "Classic REbirth",
+      "url": "https://classicrebirth.com/index.php/downloads/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://classicrebirth.com/index.php/downloads/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4352,
+      "title": "Parasite Eve 2 PC Port",
+      "url": "https://github.com/Snaity-CORE/pe2-pc-port",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Snaity-CORE/pe2-pc-port",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4353,
+      "title": "Haunting Ground Recompilation ",
+      "url": "https://github.com/N900x4/HauntingGround-Recomp-Project",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/N900x4/HauntingGround-Recomp-Project",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4354,
+      "title": "Space Station Silicon Valley Recompilation 2",
+      "url": "https://github.com/scottjco/SSSV_Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/scottjco/SSSV_Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4355,
+      "title": "Resident Evil: Rebecca Reimagined Route",
+      "url": "https://www.moddb.com/mods/resident-evil-rising-rookie-rebecca-reimagined-route#google_vignette",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.moddb.com/mods/resident-evil-rising-rookie-rebecca-reimagined-route#google_vignette",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4356,
+      "title": "Project Gotham Racing 4 Recompilation 3",
+      "url": "https://github.com/zer0ducksgiven/PGR4-ReGPU",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/zer0ducksgiven/PGR4-ReGPU",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4357,
+      "title": "Barthes Launcher - For the 3 Xbox Harry Potter Titles",
+      "url": "https://github.com/Barthes-Recompiled/Barthes-Launcher",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Barthes-Recompiled/Barthes-Launcher",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4358,
+      "title": "Rockstar Games Presents Table Tennis Recompilation 2",
+      "url": "https://github.com/ThisIsAkill/Table-Tennis-Linux",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ThisIsAkill/Table-Tennis-Linux",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4359,
+      "title": "Predator: Concrete Jungle Recompilation ",
+      "url": "https://github.com/Adolini1715/Concrete-Jungle-PC",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Adolini1715/Concrete-Jungle-PC",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4360,
+      "title": "Star Ocean 5: Integrity and Faithlessness PC Port",
+      "url": "https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4361,
+      "title": "Pilotwings Resort Recompilation ",
+      "url": "https://github.com/thefixinhixon/woohoo-flight-school",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/thefixinhixon/woohoo-flight-school",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4362,
+      "title": "Conker: Live & Reloaded Recompilation ",
+      "url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Mabec-games/Conker-Recomped-and-Reloaded",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4363,
+      "title": "The Nimbus Project - GameCube Dragon Ball Z Trilogy Launcher",
+      "url": "https://nimbus-project.pages.dev/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://nimbus-project.pages.dev/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4364,
+      "title": "The Nimbus Project - GameCube Dragon Ball Z Trilogy Launcher for Android",
+      "url": "https://nimbus-project.pages.dev/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://nimbus-project.pages.dev/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4365,
+      "title": "Sakura Wars PC Port",
+      "url": "https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4366,
+      "title": "Splinter Cell: Double Agent Recompilation 2",
+      "url": "https://github.com/thatcalikid760/SCDA360pcport",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/thatcalikid760/SCDA360pcport",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4367,
+      "title": "Gran Turismo 5 Prologue PC Port",
+      "url": "https://github.com/mathewdouglas/Tourline-Prologue",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/mathewdouglas/Tourline-Prologue",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4368,
+      "title": "The House of the Dead: ReWrithe - A Rewrite of the Arcade Game and its 1998 PC Port Combined",
+      "url": "https://github.com/TawhidI-602/The-House-of-the-Dead-ReWrithe",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TawhidI-602/The-House-of-the-Dead-ReWrithe",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4369,
+      "title": "Castlevania Symphony of the Night Ultimate",
+      "url": "https://www.romhacking.net/hacks/10241/",
+      "hidden": false,
+      "status": "other",
+      "detail": "HTTP 403",
       "consecutive_failures": 0
     },
     {
