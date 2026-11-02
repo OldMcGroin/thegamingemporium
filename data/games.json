@@ -57353,5 +57353,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4362-92aca7a84e6abaea.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4363,
+    "title": "The Nimbus Project - GameCube Dragon Ball Z Trilogy Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://nimbus-project.pages.dev/",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "fighting",
+    "genre2": "action",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4363-5a75d433165c783d.webp",
+    "date_added": "2026-11-02"
   }
 ]
