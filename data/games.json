@@ -57385,5 +57385,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4364-9c11d6ab73779298.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4365,
+    "title": "Sakura Wars PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rpg",
+    "genre2": "action",
+    "collection": "sakura-wars",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4365-c2fc4f5174aeff15.webp",
+    "date_added": "2026-11-02"
   }
 ]
