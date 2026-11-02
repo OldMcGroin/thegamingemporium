@@ -806,5 +806,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/conker-live-reloaded-collection.webp"
+  },
+  {
+    "name": "Project Gotham Racing",
+    "slug": "project-gotham-racing",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/project-gotham-racing-collection.webp"
   }
 ]
