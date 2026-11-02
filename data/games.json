@@ -57402,5 +57402,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4365-c2fc4f5174aeff15.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4366,
+    "title": "Splinter Cell: Double Agent Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thatcalikid760/SCDA360pcport",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "stealth",
+    "genre2": "action",
+    "collection": "splinter-cell-double-agent",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4366-c9a86f62d08c38e8.webp",
+    "date_added": "2026-11-02"
   }
 ]
