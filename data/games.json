@@ -57241,5 +57241,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4355-fcfe27436fc52c98.webp",
     "date_added": "2026-11-01"
+  },
+  {
+    "id": 4356,
+    "title": "Project Gotham Racing 4 Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zer0ducksgiven/PGR4-ReGPU",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "collection": "project-gotham-racing-4",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4356-c8df86c25771ac45.webp",
+    "date_added": "2026-11-02"
   }
 ]
