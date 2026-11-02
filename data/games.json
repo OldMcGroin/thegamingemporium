@@ -57533,5 +57533,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4373-e6ab6518fb5f74d8.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4374,
+    "title": "Grand Theft Auto 5 for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/andrewnakas/gtav-recomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4374-a420893940386fff.webp",
+    "date_added": "2026-11-02"
   }
 ]
