@@ -57321,5 +57321,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4360-858690a3c8e0c24d.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4361,
+    "title": "Pilotwings Resort Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thefixinhixon/woohoo-flight-school",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "flight-simulator",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4361-427c3d6872941378.webp",
+    "date_added": "2026-11-02"
   }
 ]
