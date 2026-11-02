@@ -57434,5 +57434,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4367-7d0dac50ab80b319.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4368,
+    "title": "The House of the Dead: ReWrithe - A Rewrite of the Arcade Game and its 1998 PC Port Combined",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TawhidI-602/The-House-of-the-Dead-ReWrithe",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4368-b77bd749f58780d5.webp",
+    "date_added": "2026-11-02"
   }
 ]
