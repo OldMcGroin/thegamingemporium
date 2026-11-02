@@ -57636,5 +57636,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4379-4eeb4d5a2a8405c9.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4380,
+    "title": "Twisted Metal: Black PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheBozos/TMB_Recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "Twisted Metal",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4380-43d4e595927238f1.webp",
+    "date_added": "2026-11-02"
   }
 ]
