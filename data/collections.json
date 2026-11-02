@@ -799,5 +799,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/rockstar-games-presents-table-tennis-collection.webp"
+  },
+  {
+    "name": "Conker: Live & Reloaded",
+    "slug": "conker-live-reloaded",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/conker-live-reloaded-collection.webp"
   }
 ]
