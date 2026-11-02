@@ -820,5 +820,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/sakura-wars-collection.webp"
+  },
+  {
+    "name": "Splinter Cell: Double Agent",
+    "slug": "splinter-cell-double-agent",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/splinter-cell-double-agent-collection.webp"
   }
 ]
