@@ -57483,5 +57483,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4370-a34757d11e1cec04.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4371,
+    "title": "Theatrhythm Final Bar Line Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/YAPhoa/theatrhythm-fbl-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4371-f0c90328254b467c.webp",
+    "date_added": "2026-11-02"
   }
 ]
