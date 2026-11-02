@@ -57273,5 +57273,21 @@
     "hidden": false,
     "image": "/Images/Games/manager-4357-37b54896d8d7f5ae.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4358,
+    "title": "Rockstar Games Presents Table Tennis Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ThisIsAkill/Table-Tennis-Linux",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "collection": "rockstar-games-presents-table-tennis",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4358-6a01abd856fc61f7.webp",
+    "date_added": "2026-11-02"
   }
 ]
