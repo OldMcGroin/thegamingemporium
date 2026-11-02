@@ -57550,5 +57550,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4374-a420893940386fff.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4375,
+    "title": "Ratchet & Clank: Tools of Destruction PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Re-TeRo17/ratchet-tod-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "Ratchet & Clank",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4375-9c71ae08dc0c08d9.webp",
+    "date_added": "2026-11-02"
   }
 ]
