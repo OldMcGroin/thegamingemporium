@@ -57499,5 +57499,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4371-f0c90328254b467c.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4372,
+    "title": "Super Mario Odyssey PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/zzzarathustra-dev/power-moon-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4372-292823d2c8b35e61.webp",
+    "date_added": "2026-11-02"
   }
 ]
