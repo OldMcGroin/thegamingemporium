@@ -234,7 +234,7 @@ saveGame=function(){
   if(matches.length&&!confirm('⚠️ Duplicate project URL detected!\n\nAlready listed as:\n'+matches.slice(0,5).map(x=>'• '+x.title+' (ID '+x.id+')').join('\n')+'\n\nSave this draft anyway? This will not publish anything.'))return;
  if(!g){g={id:nextUniqueGameId()};games.unshift(g)}
  const before={...g};
- for(const k of ['title','category','link','video_link','platform','genre1','genre2','collection','ai_usage','weight'])g[k]=$('f_'+k).value;
+ for(const k of ['title','category','link','video_link','platform','genre1','genre2','series','collection','ai_usage','weight'])g[k]=$('f_'+k).value;
  g.hidden=$('f_hidden').checked;
  // A title/link edit to a baseline record needs its original identity kept for future merges.
  if(tgeIsBaseline(before)&&tgeIdentity(before)!==tgeIdentity(g)){
