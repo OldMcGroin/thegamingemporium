@@ -813,5 +813,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/project-gotham-racing-collection.webp"
+  },
+  {
+    "name": "Sakura Wars",
+    "slug": "sakura-wars",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/sakura-wars-collection.webp"
   }
 ]
