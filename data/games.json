@@ -57516,5 +57516,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4372-292823d2c8b35e61.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4373,
+    "title": "Grand Theft Auto 5 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/andrewnakas/gtav-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4373-e6ab6518fb5f74d8.webp",
+    "date_added": "2026-11-02"
   }
 ]
