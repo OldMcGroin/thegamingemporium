@@ -57977,5 +57977,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4399-5b55da3fcda653f3.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4400,
+    "title": "2 Ship 2 Harkinian - Graphics Overhaul Project",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/whitesun046/2ship2harkinian-Graphics-Overhaul-Project",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-majora-s-mask",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4400-25ac9170bac74e80.webp",
+    "date_added": "2026-11-03"
   }
 ]
