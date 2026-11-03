@@ -57994,5 +57994,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4400-25ac9170bac74e80.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4401,
+    "title": "Unreal Championship 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ClydeyEXE/uc2-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "third-person-shooter",
+    "series": "Unreal",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4401-70fe550370192263.webp",
+    "date_added": "2026-11-03"
   }
 ]
