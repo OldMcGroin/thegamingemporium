@@ -58130,5 +58130,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4408-2a6868bfdec5b21f.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4409,
+    "title": "Rolo to the Rescue Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TiberianDark/rolo_revisited",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4409-5818ac12082bb000.webp",
+    "date_added": "2026-11-03"
   }
 ]
