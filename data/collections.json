@@ -848,5 +848,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/monster-hunter-3-ultimate-collection.webp"
+  },
+  {
+    "name": "The Warriors",
+    "slug": "the-warriors",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-warriors-collection.webp"
   }
 ]
