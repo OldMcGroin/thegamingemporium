@@ -57857,5 +57857,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4392-d5eeca448d3e904c.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4393,
+    "title": "Fire Emblem Engage Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/engage-pc-recomp/engage-pc-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Fire Emblem",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4393-f7cba1ca09a430e6.webp",
+    "date_added": "2026-11-03"
   }
 ]
