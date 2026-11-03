@@ -57909,5 +57909,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4395-41f6009ddfc7637d.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4396,
+    "title": "Pokémon Legends Z-A for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/AYNThorDeveloper/legendszaonandroid",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4396-25689fbffb5eb6af.webp",
+    "date_added": "2026-11-03"
   }
 ]
