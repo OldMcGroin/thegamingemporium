@@ -57943,5 +57943,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4397-95a4cad0b19ff2ee.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4398,
+    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation 4",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/kuraeow/ultratears",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4398-caff043bff6e8306.webp",
+    "date_added": "2026-11-03"
   }
 ]
