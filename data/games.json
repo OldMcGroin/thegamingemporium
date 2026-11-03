@@ -55559,12 +55559,13 @@
     "platform": "Wii U",
     "genre1": "rpg",
     "genre2": "action",
-    "collection": "",
+    "collection": "monster-hunter-3-ultimate",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4249-51533241093d1b16.webp",
-    "date_added": "2026-10-28"
+    "date_added": "2026-10-28",
+    "series": "Monster Hunter"
   },
   {
     "id": 4250,
