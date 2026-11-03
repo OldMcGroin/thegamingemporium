@@ -58045,5 +58045,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4403-6685f3e297dee3a4.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4404,
+    "title": "Doom Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Cacodemontube/DoomSNESRecomp",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Doom",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4404-e66956ad24809e4e.webp",
+    "date_added": "2026-11-03"
   }
 ]
