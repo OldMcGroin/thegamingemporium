@@ -58269,5 +58269,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4416-5a4d365bc308675c.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4417,
+    "title": "Black with Multiplayer Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Peterson047/BLACK-XBEMultiplayer",
+    "video_link": "https://github.com/Peterson047/BLACK-XBEMultiplayer",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Black",
+    "collection": "black",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4417-4acdb28eeda5b302.webp",
+    "date_added": "2026-11-03"
   }
 ]
