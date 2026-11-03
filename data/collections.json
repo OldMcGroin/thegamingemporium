@@ -841,5 +841,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/tekken-5-dark-resurrection-collection.webp"
+  },
+  {
+    "name": "Monster Hunter 3 Ultimate",
+    "slug": "monster-hunter-3-ultimate",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/monster-hunter-3-ultimate-collection.webp"
   }
 ]
