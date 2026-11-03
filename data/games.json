@@ -58147,5 +58147,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4409-5818ac12082bb000.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4410,
+    "title": "The Last of Us Remastered PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ravencaio/tlou-remastered-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "The Last of Us",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4410-6ceb4fcade633a5c.webp",
+    "date_added": "2026-11-03"
   }
 ]
