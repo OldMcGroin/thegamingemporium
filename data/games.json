@@ -57874,5 +57874,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4393-f7cba1ca09a430e6.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4394,
+    "title": "Ninja Gaiden 2 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/YaibaKamikaze/IzunaRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Ninja Gaiden",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4394-7119bd9566145ba8.webp",
+    "date_added": "2026-11-03"
   }
 ]
