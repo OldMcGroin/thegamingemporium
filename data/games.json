@@ -58234,5 +58234,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4414-1b53c630efb3f8db.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4415,
+    "title": "PokePark Wii: Pikachu's Adventure Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MildRain479/PokePark-Wiicompiled",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4415-5bf377bef0e1f540.webp",
+    "date_added": "2026-11-03"
   }
 ]
