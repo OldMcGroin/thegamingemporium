@@ -58096,5 +58096,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4406-37bf564c84ac670e.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4407,
+    "title": "Syphon Filter: The Omega Strain PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zm2283145/syphon-filter-omega-strain-playtest",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Syphon Filter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4407-a4429fd1d665e014.webp",
+    "date_added": "2026-11-03"
   }
 ]
