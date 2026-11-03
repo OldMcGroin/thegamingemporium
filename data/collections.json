@@ -834,5 +834,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ninja-gaiden-2-collection.webp"
+  },
+  {
+    "name": "Tekken 5 Dark Resurrection",
+    "slug": "tekken-5-dark-resurrection",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/tekken-5-dark-resurrection-collection.webp"
   }
 ]
