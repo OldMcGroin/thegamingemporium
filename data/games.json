@@ -57721,5 +57721,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4384-4df02df1e26def4c.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4385,
+    "title": "Halo: Arena Evolved",
+    "category": "decompilations-recompilations",
+    "link": "https://peterrichardsongolf.github.io/Halo-CE-Arena-Evolved/",
+    "video_link": "",
+    "platform": "Steam",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4385-eeb74170204abead.webp",
+    "date_added": "2026-11-03"
   }
 ]
