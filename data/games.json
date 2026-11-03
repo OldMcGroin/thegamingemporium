@@ -57653,5 +57653,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4380-43d4e595927238f1.webp",
     "date_added": "2026-11-02"
+  },
+  {
+    "id": 4381,
+    "title": "Astral Chain Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/captainj-sparrow/astral-chain-pc-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4381-0641e4bb3a2306ca.webp",
+    "date_added": "2026-11-03"
   }
 ]
