@@ -57755,5 +57755,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4386-10f9872e75c1fb17.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4387,
+    "title": "God of War HD Collection Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/luisxl15/GOD-OF-WAR-HD-COLLECTION",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "beat-em-up",
+    "genre2": "adventure",
+    "series": "God of War",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4387-4e525710a77efe79.webp",
+    "date_added": "2026-11-03"
   }
 ]
