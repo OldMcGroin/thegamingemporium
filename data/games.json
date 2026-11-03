@@ -58251,5 +58251,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4415-5bf377bef0e1f540.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4416,
+    "title": "PokePark Wii: Pikachu's Adventure for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/MildRain479/PokePark-Wiicompiled",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4416-5a4d365bc308675c.webp",
+    "date_added": "2026-11-03"
   }
 ]
