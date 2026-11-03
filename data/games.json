@@ -57704,5 +57704,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4383-0afb0247ddbd4810.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4384,
+    "title": "WinBack: Covert Operations Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RetroPulse03/WinBackRecomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4384-4df02df1e26def4c.webp",
+    "date_added": "2026-11-03"
   }
 ]
