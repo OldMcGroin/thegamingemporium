@@ -57772,5 +57772,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4387-4e525710a77efe79.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4388,
+    "title": "Metroid Prime 4: Beyond Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/linuxopt/mp4-recomp/releases/tag/v2026.11.02",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "first-person-shooter",
+    "series": "Metroid",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4388-94a09500db72fbc9.webp",
+    "date_added": "2026-11-03"
   }
 ]
