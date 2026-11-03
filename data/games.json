@@ -57926,5 +57926,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4396-25689fbffb5eb6af.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4397,
+    "title": "Mini Ninjas Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/infriker/mini-ninjas-nx",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4397-95a4cad0b19ff2ee.webp",
+    "date_added": "2026-11-03"
   }
 ]
