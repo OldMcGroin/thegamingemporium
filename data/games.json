@@ -58011,5 +58011,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4401-70fe550370192263.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4402,
+    "title": "Mario Kart 64 in Browser ",
+    "category": "browser-based",
+    "link": "https://olivers.tools/kart/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4402-708f7f5ac92e7d07.webp",
+    "date_added": "2026-11-03"
   }
 ]
