@@ -827,5 +827,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/splinter-cell-double-agent-collection.webp"
+  },
+  {
+    "name": "Ninja Gaiden 2",
+    "slug": "ninja-gaiden-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ninja-gaiden-2-collection.webp"
   }
 ]
