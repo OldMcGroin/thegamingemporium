@@ -57840,5 +57840,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4391-9c6ca8f65fa4cd47.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4392,
+    "title": "MechWarrior 3 Rebuild",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/telltaleatheist/mw3-re",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "mech-simulator",
+    "genre2": "vehicular-combat",
+    "series": "MechWarrior",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4392-d5eeca448d3e904c.webp",
+    "date_added": "2026-11-03"
   }
 ]
