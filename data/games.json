@@ -57806,5 +57806,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4389-7cc7334b1929a065.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4390,
+    "title": "Project Nativ - Turns PS Vita games into native programs for macOS, Linux and Windows",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheLostPantheon/nativ",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4390-fba7041888e40de2.webp",
+    "date_added": "2026-11-03"
   }
 ]
