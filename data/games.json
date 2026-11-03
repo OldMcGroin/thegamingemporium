@@ -57687,5 +57687,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4382-05f0039bcac740c0.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4383,
+    "title": "Dissidia 012 Duodecim Final Fantasy PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/VCKing101/Dissidia012-pc",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Final Fantasy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4383-0afb0247ddbd4810.webp",
+    "date_added": "2026-11-03"
   }
 ]
