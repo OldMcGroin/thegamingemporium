@@ -58028,5 +58028,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4402-708f7f5ac92e7d07.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4403,
+    "title": "Sonic the Hedgehog 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mstan/SonicTheHedgehog2Recomp",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4403-6685f3e297dee3a4.webp",
+    "date_added": "2026-11-03"
   }
 ]
