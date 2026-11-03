@@ -58200,5 +58200,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4412-3cc5562eddbb060d.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4413,
+    "title": "Tiger Woods PGA Tour 2004 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mitsevox/tw2004",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4413-bfe75f82168f7a0b.webp",
+    "date_added": "2026-11-03"
   }
 ]
