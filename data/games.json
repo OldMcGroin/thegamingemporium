@@ -57738,5 +57738,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4385-eeb74170204abead.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4386,
+    "title": "Stunt Race FX Wii U Port",
+    "category": "console-ports",
+    "link": "https://github.com/ZeusLovesTrains/stunt-race-fx-wiiu",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4386-10f9872e75c1fb17.webp",
+    "date_added": "2026-11-03"
   }
 ]
