@@ -58286,5 +58286,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4417-4acdb28eeda5b302.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4418,
+    "title": "Xenoblade Chronicles 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AksharDP/xc2-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4418-69bf53d26bbcbf27.webp",
+    "date_added": "2026-11-03"
   }
 ]
