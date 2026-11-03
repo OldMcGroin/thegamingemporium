@@ -58113,5 +58113,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4407-a4429fd1d665e014.webp",
     "date_added": "2026-11-03"
+  },
+  {
+    "id": 4408,
+    "title": "Syphon Filter: The Omega Strain PS Vita Port ",
+    "category": "console-ports",
+    "link": "https://github.com/zm2283145/syphon-filter-omega-strain-playtest",
+    "video_link": "",
+    "platform": "",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Syphon Filter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4408-2a6868bfdec5b21f.webp",
+    "date_added": "2026-11-03"
   }
 ]
