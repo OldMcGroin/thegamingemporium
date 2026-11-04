@@ -58493,5 +58493,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4429-7969f701c0c09bec.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4430,
+    "title": "Star Trek: Voyager - Elite Force 2 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Star Trek",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4430-3231ebf04623031b.webp",
+    "date_added": "2026-11-04"
   }
 ]
