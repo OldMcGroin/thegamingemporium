@@ -54307,19 +54307,20 @@
   },
   {
     "id": 4170,
-    "title": "Xenoblade Chronicles Definitive Ediiton Recompilation ",
+    "title": "Xenoblade Chronicles Definitive Edition Recompilation ",
     "category": "decompilations-recompilations",
     "link": "https://gofile.io/d/HKFIgQBs",
     "video_link": "",
     "platform": "Nintendo Switch",
     "genre1": "rpg",
     "genre2": "",
-    "collection": "",
+    "collection": "xenoblade-chronicles-definitive-edition",
     "ai_usage": "heavy",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4170-c5070d74a2a7e778.webp",
-    "date_added": "2026-10-25"
+    "date_added": "2026-10-25",
+    "series": "Xenoblade"
   },
   {
     "id": 4171,
