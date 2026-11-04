@@ -58527,5 +58527,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4431-77b0f321428a71db.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4432,
+    "title": "Valkyria Revolution PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4432-b9349e19e2b5812e.webp",
+    "date_added": "2026-11-04"
   }
 ]
