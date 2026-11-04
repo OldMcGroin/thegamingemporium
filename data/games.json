@@ -58578,5 +58578,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4434-4309cf86240d7d4b.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4435,
+    "title": "Mario Kart Wii PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MarcPique/mario-kart-wii-pc-builder",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "mario-kart-wii",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4435-c89cde2045b2ef34.webp",
+    "date_added": "2026-11-04"
   }
 ]
