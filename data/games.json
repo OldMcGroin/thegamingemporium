@@ -58510,5 +58510,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4430-3231ebf04623031b.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4431,
+    "title": "Dark Souls Remastered Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nekomancer01/DarkSoulsPS2",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "Dark Souls",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4431-77b0f321428a71db.webp",
+    "date_added": "2026-11-04"
   }
 ]
