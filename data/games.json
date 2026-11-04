@@ -58320,5 +58320,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4419-fdd8f13f33782abc.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4420,
+    "title": "Pokémon Colosseum PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://git.softwareauralabs.com/chase/pokemon-colosseum",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "strategy",
+    "genre2": "rpg",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4420-cfb747aaa85b275d.webp",
+    "date_added": "2026-11-04"
   }
 ]
