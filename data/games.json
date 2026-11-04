@@ -58355,5 +58355,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4421-e2420dce53178e12.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4422,
+    "title": "Mario Strikers Charged Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/previouslevelgames/recharged",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "sports",
+    "genre2": "action",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4422-8d037f50e27fc5ac.webp",
+    "date_added": "2026-11-04"
   }
 ]
