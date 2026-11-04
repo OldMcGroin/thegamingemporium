@@ -862,5 +862,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/primal-rage-collection.webp"
+  },
+  {
+    "name": "Xenoblade Chronicles Definitive Edition",
+    "slug": "xenoblade-chronicles-definitive-edition",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/xenoblade-chronicles-definitive-edition-collection.webp"
   }
 ]
