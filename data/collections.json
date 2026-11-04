@@ -855,5 +855,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-warriors-collection.webp"
+  },
+  {
+    "name": "Primal Rage",
+    "slug": "primal-rage",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/primal-rage-collection.webp"
   }
 ]
