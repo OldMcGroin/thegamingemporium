@@ -58425,5 +58425,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4425-a30b6a285131d6f7.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4426,
+    "title": "Castlevania: Grimoire of Souls PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp",
+    "video_link": "",
+    "platform": "iOS",
+    "genre1": "platformer",
+    "genre2": "rpg",
+    "series": "Castlevania",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4426-1de036109a47ebba.webp",
+    "date_added": "2026-11-04"
   }
 ]
