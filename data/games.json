@@ -58407,5 +58407,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4424-e44a47af3d80afc3.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4425,
+    "title": "Xenoblade Chronicles Definitive Edition Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Ivanprestef2/Monado-FIX-Portable",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "xenoblade-chronicles-definitive-edition",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4425-a30b6a285131d6f7.webp",
+    "date_added": "2026-11-04"
   }
 ]
