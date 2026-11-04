@@ -869,5 +869,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/xenoblade-chronicles-definitive-edition-collection.webp"
+  },
+  {
+    "name": "Mario Kart Wii",
+    "slug": "mario-kart-wii",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mario-kart-wii-collection.webp"
   }
 ]
