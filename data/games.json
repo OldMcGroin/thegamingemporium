@@ -58476,5 +58476,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4428-acd7a79fba213096.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4429,
+    "title": "Star Trek: Voyager - Elite Force 2 Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/imjustadudegamer/Provenance-Elite-Force-II-decomp-Android-linux",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "first person shooter",
+    "genre2": "",
+    "series": "Star Trek",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4429-7969f701c0c09bec.webp",
+    "date_added": "2026-11-04"
   }
 ]
