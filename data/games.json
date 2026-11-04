@@ -58338,5 +58338,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4420-cfb747aaa85b275d.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4421,
+    "title": "Demon's Souls PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/timboat/demons-souls-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Demon's Souls",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4421-e2420dce53178e12.webp",
+    "date_added": "2026-11-04"
   }
 ]
