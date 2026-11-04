@@ -58389,5 +58389,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4423-444e2799e3fce2c7.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4424,
+    "title": "Primal Rage Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/felipe-dos-santos81/primal-rage-re",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Primal Rage",
+    "collection": "primal-rage",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4424-e44a47af3d80afc3.webp",
+    "date_added": "2026-11-04"
   }
 ]
