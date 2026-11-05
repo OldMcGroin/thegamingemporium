@@ -58614,5 +58614,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4436-ecf1efb83a66b292.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4437,
+    "title": "Mario Kart: Double Dash!! Linux Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/slex2jf/Project-Tandem-Linux",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "mario-kart-double-dash",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4437-e98b96a9f1c6f95d.webp",
+    "date_added": "2026-11-05"
   }
 ]
