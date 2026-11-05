@@ -58874,5 +58874,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4451-b2a5c2f13804b633.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4452,
+    "title": "PS2 Native Recomp - Turns a PS2 game disc you own into a native Windows or Linux program by static recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/exoteric33/ps2-native-recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4452-6a1fae74fb655ac7.webp",
+    "date_added": "2026-11-05"
   }
 ]
