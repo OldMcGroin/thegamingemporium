@@ -58823,5 +58823,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4448-4e6e977a1d13bd1e.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4449,
+    "title": "Spider-Man Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/xdivorex-gif/spiderman-2002-pc",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Spiderman",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4449-229362dcc40bb3de.webp",
+    "date_added": "2026-11-05"
   }
 ]
