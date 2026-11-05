@@ -58806,5 +58806,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4447-f9c52c2ef03a87f7.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4448,
+    "title": "Sega Scud Race Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/wanszai/Scud-Race",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4448-4e6e977a1d13bd1e.webp",
+    "date_added": "2026-11-05"
   }
 ]
