@@ -883,5 +883,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mario-kart-double-dash-collection.webp"
+  },
+  {
+    "name": "Torchlight",
+    "slug": "torchlight",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/torchlight-collection.webp"
   }
 ]
