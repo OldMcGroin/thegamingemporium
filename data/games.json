@@ -58754,5 +58754,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4444-4040dcaad09672c9.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4445,
+    "title": "Ninja Gaiden 2 Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gamboozino/ng2recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Ninja Gaiden",
+    "collection": "ninja-gaiden-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4445-d31152d49b55c05e.webp",
+    "date_added": "2026-11-05"
   }
 ]
