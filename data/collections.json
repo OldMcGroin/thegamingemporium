@@ -876,5 +876,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mario-kart-wii-collection.webp"
+  },
+  {
+    "name": "Mario Kart: Double Dash!!",
+    "slug": "mario-kart-double-dash",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mario-kart-double-dash-collection.webp"
   }
 ]
