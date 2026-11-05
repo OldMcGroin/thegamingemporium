@@ -58684,5 +58684,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4440-0b9aa8654f224943.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4441,
+    "title": "Guitar Hero: Van Halen PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElGuslml/GHVanHRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4441-cf0fa17845ca92cd.webp",
+    "date_added": "2026-11-05"
   }
 ]
