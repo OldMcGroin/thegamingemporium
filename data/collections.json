@@ -890,5 +890,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/torchlight-collection.webp"
+  },
+  {
+    "name": "PokePark Wii: Pikachu's Adventure",
+    "slug": "pokepark-wii-pikachu-s-adventure",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokepark-wii-pikachu-s-adventure-collection.webp"
   }
 ]
