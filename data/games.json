@@ -58666,5 +58666,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4439-6ebfe9fcb7909576.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4440,
+    "title": "Torchlight Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/retrogameworld/TorchlightRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "collection": "torchlight",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4440-0b9aa8654f224943.webp",
+    "date_added": "2026-11-05"
   }
 ]
