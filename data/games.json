@@ -58771,5 +58771,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4445-d31152d49b55c05e.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4446,
+    "title": "Osu! Tatakae! Ouendan Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Flezzonkeys/ossu-moero-recomp",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4446-ffa892cfe9759c93.webp",
+    "date_added": "2026-11-05"
   }
 ]
