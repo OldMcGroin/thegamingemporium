@@ -58597,5 +58597,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4435-c89cde2045b2ef34.webp",
     "date_added": "2026-11-04"
+  },
+  {
+    "id": 4436,
+    "title": "Army of Two The Devil's Cartel Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BrewSparrow/ArmyOfTwoTDC-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "series": "Army of Two",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4436-ecf1efb83a66b292.webp",
+    "date_added": "2026-11-05"
   }
 ]
