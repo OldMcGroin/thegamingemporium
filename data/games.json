@@ -58789,5 +58789,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4446-ffa892cfe9759c93.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4447,
+    "title": "Unreal Engine Web Ports in Browser",
+    "category": "browser-based",
+    "link": "https://unrealcollection.games/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Unreal",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4447-f9c52c2ef03a87f7.webp",
+    "date_added": "2026-11-05"
   }
 ]
