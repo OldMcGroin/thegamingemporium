@@ -58632,5 +58632,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4437-e98b96a9f1c6f95d.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4438,
+    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation 5",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/deadlynch/totk-pc-recomp-k10",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4438-b3492170edab1279.webp",
+    "date_added": "2026-11-05"
   }
 ]
