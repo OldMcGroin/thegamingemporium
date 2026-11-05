@@ -58720,5 +58720,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4442-f52f436d927d3a38.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4443,
+    "title": "Super Mario All-Stars PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Darhkfox/SuperMarioAllStars/releases/tag/v1.0",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4443-26c5e0db6c208450.webp",
+    "date_added": "2026-11-05"
   }
 ]
