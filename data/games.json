@@ -58840,5 +58840,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4449-229362dcc40bb3de.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4450,
+    "title": "Hollywood Monsters Enhanced ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Korvonordico/hollywood-monsters-enhanced",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4450-473293f2c3d33c39.webp",
+    "date_added": "2026-11-05"
   }
 ]
