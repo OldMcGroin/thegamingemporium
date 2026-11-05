@@ -51481,12 +51481,13 @@
     "platform": "Xbox 360",
     "genre1": "action",
     "genre2": "rpg",
-    "collection": "",
+    "collection": "torchlight",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-3990-512cbd6c7ec8a474.webp",
-    "date_added": "2026-10-22"
+    "date_added": "2026-10-22",
+    "series": ""
   },
   {
     "id": 3993,
