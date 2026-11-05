@@ -58649,5 +58649,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4438-b3492170edab1279.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4439,
+    "title": "G-Police Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Tzeentchnet/g-police-recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4439-6ebfe9fcb7909576.webp",
+    "date_added": "2026-11-05"
   }
 ]
