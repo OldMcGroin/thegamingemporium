@@ -58891,5 +58891,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4452-6a1fae74fb655ac7.webp",
     "date_added": "2026-11-05"
+  },
+  {
+    "id": 4453,
+    "title": "Crowbar - Brings PS4 PC ports together in one launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DiamondDogz/crowbar",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4453-fdf70897f7e51daa.webp",
+    "date_added": "2026-11-05"
   }
 ]
