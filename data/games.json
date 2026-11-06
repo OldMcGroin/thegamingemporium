@@ -59134,5 +59134,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4469-d40386eff9be26f5.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4470,
+    "title": "Quarantine PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ACR-GD/quarantine-recomp",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "first-person-shooter",
+    "genre2": "vehicular-combat",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4470-a326988e621ca5ec.webp",
+    "date_added": "2026-11-06"
   }
 ]
