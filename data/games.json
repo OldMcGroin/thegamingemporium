@@ -58959,5 +58959,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4456-3668654e2219b4ed.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4457,
+    "title": "King's Field Recompilation for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Voicedrew11/verdite1",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "King's Field",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4457-949e0cd30fda06a6.webp",
+    "date_added": "2026-11-06"
   }
 ]
