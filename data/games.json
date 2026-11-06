@@ -58925,5 +58925,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4454-9b85af64d55a2593.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4455,
+    "title": "Sly Cooper Series Launcher - Safehouse",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FridiNaTor1/SafeHouse",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sly Cooper",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4455-38135955409d8916.webp",
+    "date_added": "2026-11-06"
   }
 ]
