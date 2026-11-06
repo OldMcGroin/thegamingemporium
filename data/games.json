@@ -59013,5 +59013,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4462-6f960cce6d1bca02.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4463,
+    "title": "Saint Seiya: The Hades Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/matpdev/SaintSeiyaRecomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4463-e8616db3eae6bd25.webp",
+    "date_added": "2026-11-06"
   }
 ]
