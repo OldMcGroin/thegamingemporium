@@ -911,5 +911,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/king-s-field-collection.webp"
+  },
+  {
+    "name": "Bayonetta 3",
+    "slug": "bayonetta-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/bayonetta-3-collection.webp"
   }
 ]
