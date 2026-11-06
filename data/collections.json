@@ -932,5 +932,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/far-cry-instincts-collection.webp"
+  },
+  {
+    "name": "OutRunners",
+    "slug": "outrunners",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/outrunners-collection.webp"
   }
 ]
