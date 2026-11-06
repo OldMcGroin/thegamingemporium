@@ -897,5 +897,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokepark-wii-pikachu-s-adventure-collection.webp"
+  },
+  {
+    "name": "Demon's Souls",
+    "slug": "demon-s-souls",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/demon-s-souls-collection.webp"
   }
 ]
