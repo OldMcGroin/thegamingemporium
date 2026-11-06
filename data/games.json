@@ -59202,5 +59202,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4473-a03e7bef70d79053.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4474,
+    "title": "OutRunners PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cheviman/outrunners-port",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Outrun",
+    "collection": "outrunners",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4474-1ab360016f9bcd84.webp",
+    "date_added": "2026-11-06"
   }
 ]
