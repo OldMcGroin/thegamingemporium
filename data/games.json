@@ -59117,5 +59117,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4468-e99df3da66f42f34.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4469,
+    "title": "Paper Mario: The Thousand-Year Door PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LLCOOLT/paper-cut",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4469-d40386eff9be26f5.webp",
+    "date_added": "2026-11-06"
   }
 ]
