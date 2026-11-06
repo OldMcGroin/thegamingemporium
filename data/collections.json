@@ -925,5 +925,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/virtua-racing-collection.webp"
+  },
+  {
+    "name": "Far Cry Instincts",
+    "slug": "far-cry-instincts",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/far-cry-instincts-collection.webp"
   }
 ]
