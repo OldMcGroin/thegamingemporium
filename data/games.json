@@ -59185,5 +59185,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4472-ca3e58955b09b09e.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4473,
+    "title": "Typing of the Dead EX ",
+    "category": "mods",
+    "link": "https://github.com/Tenome/Typing-of-the-Dead-EX",
+    "video_link": "",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "rail-shooter",
+    "series": "The House Of The Dead",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4473-a03e7bef70d79053.webp",
+    "date_added": "2026-11-06"
   }
 ]
