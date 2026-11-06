@@ -904,5 +904,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/demon-s-souls-collection.webp"
+  },
+  {
+    "name": "King's Field",
+    "slug": "king-s-field",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/king-s-field-collection.webp"
   }
 ]
