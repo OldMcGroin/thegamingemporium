@@ -59045,5 +59045,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4461-737ccb8740a5453b.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4462,
+    "title": "Project Gotham Racing 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hk21x/pgr2-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Project Gotham Racing",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4462-6f960cce6d1bca02.webp",
+    "date_added": "2026-11-06"
   }
 ]
