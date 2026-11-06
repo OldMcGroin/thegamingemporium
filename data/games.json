@@ -59028,5 +59028,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4460-1a2c3a5bf1cb9818.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4461,
+    "title": "Star Wars Trilogy Arcade PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/snicolast/StarWarsTrilogyNative",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Star Wars",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4461-737ccb8740a5453b.webp",
+    "date_added": "2026-11-06"
   }
 ]
