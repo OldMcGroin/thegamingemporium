@@ -58976,5 +58976,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4457-949e0cd30fda06a6.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4458,
+    "title": "Bayonetta 3 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LuvAbyss/B3-Express",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "series": "",
+    "collection": "bayonetta-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4458-ee0954dc2446d438.webp",
+    "date_added": "2026-11-06"
   }
 ]
