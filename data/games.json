@@ -59083,5 +59083,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4466-abdc08389d802a49.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4467,
+    "title": "Grabbed by the Ghoulies Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SeveerJ/Ghoulies_PC_Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4467-dfda0662330a423b.webp",
+    "date_added": "2026-11-06"
   }
 ]
