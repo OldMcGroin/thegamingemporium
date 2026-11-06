@@ -918,5 +918,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/bayonetta-3-collection.webp"
+  },
+  {
+    "name": "Virtua Racing",
+    "slug": "virtua-racing",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/virtua-racing-collection.webp"
   }
 ]
