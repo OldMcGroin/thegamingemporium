@@ -59030,5 +59030,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4463-e8616db3eae6bd25.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4464,
+    "title": "Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/saulob/tmnt-turtles-in-time-reshelled-recompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Teenage Mutant Ninja Turtles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4464-1f8f8e3ffae0595f.webp",
+    "date_added": "2026-11-06"
   }
 ]
