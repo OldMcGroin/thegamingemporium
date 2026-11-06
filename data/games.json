@@ -59065,5 +59065,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4465-9d433075e2a41955.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4466,
+    "title": "Far Cry Instincts Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bassobr/Far-Cry-Instincts-Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Far Cry",
+    "collection": "far-cry-instincts",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4466-abdc08389d802a49.webp",
+    "date_added": "2026-11-06"
   }
 ]
