@@ -59011,5 +59011,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4459-35e3e9fcbb117832.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4460,
+    "title": "Forza Motorsport Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DivxPlays/redline-recompiled",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4460-1a2c3a5bf1cb9818.webp",
+    "date_added": "2026-11-06"
   }
 ]
