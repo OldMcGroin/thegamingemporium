@@ -56517,12 +56517,13 @@
     "platform": "Arcade",
     "genre1": "racing",
     "genre2": "",
-    "collection": "",
+    "collection": "outrunners",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4310-fd053fb6287ddb49.webp",
-    "date_added": "2026-10-31"
+    "date_added": "2026-10-31",
+    "series": "Outrun"
   },
   {
     "id": 4313,
