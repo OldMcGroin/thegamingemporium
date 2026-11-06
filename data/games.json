@@ -59151,5 +59151,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4470-a326988e621ca5ec.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4471,
+    "title": "Sonic Riders PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/teclilla18/sonic-riders-recomp/releases/tag/v0.4.2",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4471-985e053f75dd5b33.webp",
+    "date_added": "2026-11-06"
   }
 ]
