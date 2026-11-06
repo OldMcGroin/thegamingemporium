@@ -59048,5 +59048,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4464-1f8f8e3ffae0595f.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4465,
+    "title": "Virtua Racing Deluxe Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/s32xfan/virtuaracing",
+    "video_link": "",
+    "platform": "Sega 32X",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Virtua Racing",
+    "collection": "virtua-racing",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4465-9d433075e2a41955.webp",
+    "date_added": "2026-11-06"
   }
 ]
