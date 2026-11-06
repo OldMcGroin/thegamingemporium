@@ -58942,5 +58942,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4455-38135955409d8916.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4456,
+    "title": "King's Field Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Voicedrew11/verdite1",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "King's Field",
+    "collection": "king-s-field",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4456-3668654e2219b4ed.webp",
+    "date_added": "2026-11-06"
   }
 ]
