@@ -59100,5 +59100,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4467-dfda0662330a423b.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4468,
+    "title": "Pokémon Colosseum Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/chasem-dev/colosseum-launcher",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4468-e99df3da66f42f34.webp",
+    "date_added": "2026-11-06"
   }
 ]
