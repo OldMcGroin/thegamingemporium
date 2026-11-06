@@ -59220,5 +59220,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4474-1ab360016f9bcd84.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4475,
+    "title": "Shadow of Rome Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Korvonordico/shadow-of-rome-recompiled",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "stealth",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4475-03a72c6b3fccf65d.webp",
+    "date_added": "2026-11-06"
   }
 ]
