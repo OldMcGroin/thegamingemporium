@@ -58994,5 +58994,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4458-ee0954dc2446d438.webp",
     "date_added": "2026-11-06"
+  },
+  {
+    "id": 4459,
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DarthMDev/pmd-sky-recomp",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "roguelike",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4459-35e3e9fcbb117832.webp",
+    "date_added": "2026-11-06"
   }
 ]
