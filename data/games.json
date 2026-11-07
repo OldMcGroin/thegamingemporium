@@ -59373,5 +59373,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4483-1a5707a1feaaa3ce.webp",
     "date_added": "2026-11-07"
+  },
+  {
+    "id": 4484,
+    "title": "The Simpsons Arcade 1991 in Browser ",
+    "category": "browser-based",
+    "link": "https://games4me.alwaysdata.net/simpsons_web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "The Simpsons",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4484-42e8d97e6ee46057.webp",
+    "date_added": "2026-11-07"
   }
 ]
