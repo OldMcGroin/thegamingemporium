@@ -939,5 +939,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/outrunners-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Ocarina of Time 2026",
+    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-ocarina-of-time-2026-collection.webp"
   }
 ]
