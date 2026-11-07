@@ -59390,5 +59390,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4484-42e8d97e6ee46057.webp",
     "date_added": "2026-11-07"
+  },
+  {
+    "id": 4485,
+    "title": "New Super Mario Bros Wii Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ral1009/NSMBWiicompiled",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4485-ef6610304084e529.webp",
+    "date_added": "2026-11-07"
   }
 ]
