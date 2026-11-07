@@ -59339,5 +59339,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4481-0182cc0ca1a02f71.webp",
     "date_added": "2026-11-07"
+  },
+  {
+    "id": 4482,
+    "title": "Teenage Mutant Ninja Turtles 1989 Arcade Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cheviman/tmnt-port",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Teenage Mutant Ninja Turtles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4482-f76111eda8235688.webp",
+    "date_added": "2026-11-07"
   }
 ]
