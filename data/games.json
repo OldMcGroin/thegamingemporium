@@ -59356,5 +59356,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4482-f76111eda8235688.webp",
     "date_added": "2026-11-07"
+  },
+  {
+    "id": 4483,
+    "title": "Teenage Mutant Ninja Turtles 1989 Arcade in Browser",
+    "category": "browser-based",
+    "link": "https://games4me.alwaysdata.net/tmnt_web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Teenage Mutant Ninja Turtles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4483-1a5707a1feaaa3ce.webp",
+    "date_added": "2026-11-07"
   }
 ]
