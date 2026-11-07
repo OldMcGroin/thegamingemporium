@@ -59288,5 +59288,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4478-e8811a574da3c0e4.webp",
     "date_added": "2026-11-07"
+  },
+  {
+    "id": 4479,
+    "title": "Road Rash Trilogy Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BTr-RJ/RoadRashTrilogy_Recomp",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Road Rash",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4479-2d8b19dba9f8d4c5.webp",
+    "date_added": "2026-11-07"
   }
 ]
