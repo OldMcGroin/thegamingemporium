@@ -59923,5 +59923,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4515-316d37d86fb6b00b.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4516,
+    "title": "Castlevania: Curse of Darkness Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/fasipe/Castlevania-COD-QOL",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Castlevania",
+    "collection": "castlevania-curse-of-darkness",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4516-58fbbc5100e839a9.webp",
+    "date_added": "2026-11-08"
   }
 ]
