@@ -953,5 +953,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/panzer-dragoon-orta-collection.webp"
+  },
+  {
+    "name": "Skate 2",
+    "slug": "skate-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/skate-2-collection.webp"
   }
 ]
