@@ -59769,5 +59769,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4506-03a6c8c982cfe5c6.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4507,
+    "title": "StarCraft + Brood War Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n0madic/KopruluSector",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "StarCraft",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4507-39869170f09a46b5.webp",
+    "date_added": "2026-11-08"
   }
 ]
