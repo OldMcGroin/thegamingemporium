@@ -59476,5 +59476,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4489-b29c993c76cc0460.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4490,
+    "title": "Panzer Dragoon Orta Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/wootbeer/ortarecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "series": "Panzer Dragoon",
+    "collection": "panzer-dragoon-orta",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4490-c28ded9ac37f2599.webp",
+    "date_added": "2026-11-08"
   }
 ]
