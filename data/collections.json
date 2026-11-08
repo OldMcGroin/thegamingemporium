@@ -967,5 +967,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/monster-hunter-freedom-unite-collection.webp"
+  },
+  {
+    "name": "The Last Guardian",
+    "slug": "the-last-guardian",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-last-guardian-collection.webp"
   }
 ]
