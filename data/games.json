@@ -59614,5 +59614,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4497-d9a0439d4eea1eab.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4498,
+    "title": "Monster Hunter Freedom Unite Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/PateeerQ/FreedomUniteRecomp",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Monster Hunter",
+    "collection": "monster-hunter-freedom-unite",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4498-a7bbc6282c92861f.webp",
+    "date_added": "2026-11-08"
   }
 ]
