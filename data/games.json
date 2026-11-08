@@ -59632,5 +59632,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4498-a7bbc6282c92861f.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4499,
+    "title": "Monster Hunter Freedom Unite for Android",
+    "category": "android-ports",
+    "link": "https://github.com/PateeerQ/FreedomUniteRecomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Monster Hunter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4499-a9c0057caae61de2.webp",
+    "date_added": "2026-11-08"
   }
 ]
