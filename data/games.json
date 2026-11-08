@@ -59871,5 +59871,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4512-e438a0ca293f05da.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4513,
+    "title": "Castlevania: Lament of Innocence Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ggMartinez/CastlevaniaLOI-PC",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Castlevania",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4513-c98ffd145d10019d.webp",
+    "date_added": "2026-11-08"
   }
 ]
