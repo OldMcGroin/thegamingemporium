@@ -53610,7 +53610,7 @@
   },
   {
     "id": 4126,
-    "title": "Panzer Dragoon Saga Recompilation ",
+    "title": "Panzer Dragoon Trilogy Recompilation ",
     "category": "decompilations-recompilations",
     "link": "https://www.yabasanshiro.com/pds-recompile",
     "video_link": "",
@@ -53622,7 +53622,8 @@
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4126-8e751da6d148be31.webp",
-    "date_added": "2026-10-24"
+    "date_added": "2026-10-24",
+    "series": ""
   },
   {
     "id": 4128,
