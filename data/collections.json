@@ -988,5 +988,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/trials-hd-collection.webp"
+  },
+  {
+    "name": "Castlevania: Curse of Darkness",
+    "slug": "castlevania-curse-of-darkness",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/castlevania-curse-of-darkness-collection.webp"
   }
 ]
