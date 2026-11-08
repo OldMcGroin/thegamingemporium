@@ -59580,5 +59580,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4495-efe9af01a5da5d91.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4496,
+    "title": "Chili Con Carnage PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MikeTheSavage/chili-con-carnage-pc/releases/tag/v0.9.2",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4496-6d59789658c4dea6.webp",
+    "date_added": "2026-11-08"
   }
 ]
