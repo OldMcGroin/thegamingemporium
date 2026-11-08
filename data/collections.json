@@ -981,5 +981,12 @@
     "weight": 0,
     "enabled": false,
     "image": "/Images/Games/ssx-collection.webp"
+  },
+  {
+    "name": "Trials HD",
+    "slug": "trials-hd",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/trials-hd-collection.webp"
   }
 ]
