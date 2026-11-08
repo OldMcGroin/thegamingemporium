@@ -974,5 +974,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-last-guardian-collection.webp"
+  },
+  {
+    "name": "SSX",
+    "slug": "ssx",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ssx-collection.webp"
   }
 ]
