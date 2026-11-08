@@ -59735,5 +59735,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4504-b1b42ef92370741b.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4505,
+    "title": "Shinobi Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheRealAfsan/Shinobi-PS2-Recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4505-2ecb835e699d193d.webp",
+    "date_added": "2026-11-08"
   }
 ]
