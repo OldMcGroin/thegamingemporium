@@ -59546,5 +59546,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4493-ebfe2071beba55ab.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4494,
+    "title": "PS4RT Project - Independently engineered PlayStation 4 compatibility runtimes",
+    "category": "decompilations-recompilations",
+    "link": "https://ps4rt.dev/#games",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4494-1206f5f723c9e8ef.webp",
+    "date_added": "2026-11-08"
   }
 ]
