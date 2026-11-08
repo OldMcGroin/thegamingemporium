@@ -59529,5 +59529,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4492-cbce72d4263d5ead.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4493,
+    "title": "The Legend of Zelda: Ocarina of Time 2026 Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tangerineturtle1/NX2navi",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-ocarina-of-time-2026",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4493-ebfe2071beba55ab.webp",
+    "date_added": "2026-11-08"
   }
 ]
