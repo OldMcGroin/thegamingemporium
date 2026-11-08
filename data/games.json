@@ -59905,5 +59905,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4514-fbb4a1ee23da7953.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4515,
+    "title": "Trials HD Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/trev82usa/TrialsHD-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "platformer",
+    "series": "",
+    "collection": "trials-hd",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4515-316d37d86fb6b00b.webp",
+    "date_added": "2026-11-08"
   }
 ]
