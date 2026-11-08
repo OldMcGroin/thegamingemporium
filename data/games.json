@@ -59718,5 +59718,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4503-78ad0914bdb1d0eb.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4504,
+    "title": "Black in Browser ",
+    "category": "browser-based",
+    "link": "https://black.qorp.com.br/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Black",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4504-b1b42ef92370741b.webp",
+    "date_added": "2026-11-08"
   }
 ]
