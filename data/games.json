@@ -59820,5 +59820,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4509-73df43447ea3e191.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4510,
+    "title": "Road Rash Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/speedydevil007/road-sdl2-rash",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Road Rash",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4510-b927146b373f4750.webp",
+    "date_added": "2026-11-08"
   }
 ]
