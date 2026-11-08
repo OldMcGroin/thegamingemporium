@@ -59424,5 +59424,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4486-e599b8524f2f6dfd.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4487,
+    "title": "Tom Clancy's Splinter Cell: Conviction Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/octagram-labs-group/TCSCC-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Splinter Cell",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4487-92cb6c627b8556ff.webp",
+    "date_added": "2026-11-08"
   }
 ]
