@@ -52866,12 +52866,13 @@
     "platform": "PSP",
     "genre1": "rpg",
     "genre2": "action",
-    "collection": "",
+    "collection": "monster-hunter-freedom-unite",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4079-84e3b2c5a97bd708.webp",
-    "date_added": "2026-10-23"
+    "date_added": "2026-10-23",
+    "series": "Monster Hunter"
   },
   {
     "id": 4078,
