@@ -59854,5 +59854,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4511-e8a8df99726d9a24.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4512,
+    "title": "UFC Undisputed 3 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/360recomper/UFC3ReX",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "UFC",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4512-e438a0ca293f05da.webp",
+    "date_added": "2026-11-08"
   }
 ]
