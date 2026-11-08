@@ -59888,5 +59888,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4513-c98ffd145d10019d.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4514,
+    "title": "Gran Turismo 6 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mabec-games/Gran-Turismo-6-PC",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4514-fbb4a1ee23da7953.webp",
+    "date_added": "2026-11-08"
   }
 ]
