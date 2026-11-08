@@ -54900,12 +54900,13 @@
     "platform": "Xbox",
     "genre1": "rail-shooter",
     "genre2": "",
-    "collection": "",
+    "collection": "panzer-dragoon-orta",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4208-a4d6edcb26362d4c.webp",
-    "date_added": "2026-10-26"
+    "date_added": "2026-10-26",
+    "series": "Panzer Dragoon"
   },
   {
     "id": 4209,
