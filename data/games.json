@@ -59512,5 +59512,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4491-fc48991a802411fb.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4492,
+    "title": "Splinter Cell: Double Agent for Android",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mogeldev/SCDA-XBERecomp-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Splinter Cell",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4492-cbce72d4263d5ead.webp",
+    "date_added": "2026-11-08"
   }
 ]
