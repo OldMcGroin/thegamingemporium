@@ -59786,5 +59786,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4507-39869170f09a46b5.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4508,
+    "title": "StarCraft Brood War in Browser ",
+    "category": "browser-based",
+    "link": "https://openbw.heiner.ai/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "StarCraft",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4508-7235094fbd533907.webp",
+    "date_added": "2026-11-08"
   }
 ]
