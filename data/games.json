@@ -59752,5 +59752,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4505-2ecb835e699d193d.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4506,
+    "title": "The Legend of Zelda: Ocarina of Time - Ship of Harkinian PS3 Port",
+    "category": "console-ports",
+    "link": "https://github.com/Gadega/ship-of-gadeguion",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4506-03a6c8c982cfe5c6.webp",
+    "date_added": "2026-11-08"
   }
 ]
