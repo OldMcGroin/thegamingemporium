@@ -59957,5 +59957,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4517-35e1e82ef7fe2b32.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4518,
+    "title": "Fire Emblem: Fortune's Weave PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Goldoire/fefw-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Fire Emblem",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4518-a0c55c200dfec6c4.webp",
+    "date_added": "2026-11-08"
   }
 ]
