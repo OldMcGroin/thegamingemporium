@@ -979,7 +979,7 @@
     "name": "SSX",
     "slug": "ssx",
     "weight": 0,
-    "enabled": true,
+    "enabled": false,
     "image": "/Images/Games/ssx-collection.webp"
   }
 ]
