@@ -59683,5 +59683,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4501-ffaec086a6d889c3.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4502,
+    "title": "The Last Guardian PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SulphurS16/TLG-Port",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "collection": "the-last-guardian",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4502-842bf28681ba211c.webp",
+    "date_added": "2026-11-08"
   }
 ]
