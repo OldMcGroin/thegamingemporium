@@ -59459,5 +59459,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4488-24ebcf4ce5b3df39.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4489,
+    "title": "Star Trek: Voyager - Elite Force macOS Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/marinohardin/EliteForce-MacOS-Marino",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Star Trek",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4489-b29c993c76cc0460.webp",
+    "date_added": "2026-11-08"
   }
 ]
