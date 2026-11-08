@@ -946,5 +946,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-ocarina-of-time-2026-collection.webp"
+  },
+  {
+    "name": "Panzer Dragoon Orta",
+    "slug": "panzer-dragoon-orta",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/panzer-dragoon-orta-collection.webp"
   }
 ]
