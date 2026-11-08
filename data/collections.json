@@ -960,5 +960,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/skate-2-collection.webp"
+  },
+  {
+    "name": "Monster Hunter Freedom Unite",
+    "slug": "monster-hunter-freedom-unite",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/monster-hunter-freedom-unite-collection.webp"
   }
 ]
