@@ -59494,5 +59494,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4490-c28ded9ac37f2599.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4491,
+    "title": "Skate 2 Rewritten in Rust natively for PC",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/skate6743/skate2-rust-port",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Skate",
+    "collection": "skate-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4491-fc48991a802411fb.webp",
+    "date_added": "2026-11-08"
   }
 ]
