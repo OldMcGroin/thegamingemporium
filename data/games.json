@@ -60127,5 +60127,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4527-cc7f434920f80e6e.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4526,
+    "title": "Mario Kart: Super Circuit Port",
+    "category": "decompilations-recompilations",
+    "link": "https://arcanite24.github.io/mksc-neo/",
+    "video_link": "",
+    "platform": "Game Boy Advance",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4526-01cf1a77477662d4.webp",
+    "date_added": "2026-11-09"
   }
 ]
