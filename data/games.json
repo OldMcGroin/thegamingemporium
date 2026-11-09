@@ -53134,13 +53134,14 @@
     "video_link": "",
     "platform": "PlayStation 4",
     "genre1": "platformer",
-    "genre2": "",
-    "collection": "",
+    "genre2": "third-person-shooter",
+    "collection": "ratchet-clank-2016",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4096-597b3e377d164453.webp",
-    "date_added": "2026-10-23"
+    "date_added": "2026-10-23",
+    "series": "Ratchet & Clank"
   },
   {
     "id": 4099,
