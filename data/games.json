@@ -60110,5 +60110,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4528-cc2affe1babfe0e7.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4527,
+    "title": "Mario Kart: Super Circuit for Android ",
+    "category": "android-ports",
+    "link": "https://arcanite24.github.io/mksc-neo/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4527-cc7f434920f80e6e.webp",
+    "date_added": "2026-11-09"
   }
 ]
