@@ -60059,5 +60059,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4523-99a54ebae44fd014.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4524,
+    "title": "Metroid Prime 4: Beyond Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/linuxopt/mp4-recomp/",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "first-person-shooter",
+    "series": "Metroid",
+    "collection": "metroid-prime-4-beyond",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4524-de5eeb3088f2c6a6.webp",
+    "date_added": "2026-11-09"
   }
 ]
