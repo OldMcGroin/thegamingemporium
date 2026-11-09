@@ -60365,5 +60365,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4545-33d42c5630b36e4f.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4546,
+    "title": "Xenoblade Chronicles 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jmars125/xc3-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4546-00886be69392863e.webp",
+    "date_added": "2026-11-09"
   }
 ]
