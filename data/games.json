@@ -60144,5 +60144,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4529-bb44ebf5054f3ea7.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4530,
+    "title": "Metroid Prime 4: Beyond Windows Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/PlagueDrRiess/salsburysteaks",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "metroidvania",
+    "genre2": "first-person-shooter",
+    "series": "Metroid",
+    "collection": "metroid-prime-4-beyond",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4530-6f14c3716ea79871.webp",
+    "date_added": "2026-11-09"
   }
 ]
