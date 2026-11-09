@@ -1016,5 +1016,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dead-or-alive-4-collection.webp"
+  },
+  {
+    "name": "Syphon Filter 3",
+    "slug": "syphon-filter-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/syphon-filter-3-collection.webp"
   }
 ]
