@@ -1023,5 +1023,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/syphon-filter-3-collection.webp"
+  },
+  {
+    "name": "MediEvil PS4",
+    "slug": "medievil-ps4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/medievil-ps4-collection.webp"
   }
 ]
