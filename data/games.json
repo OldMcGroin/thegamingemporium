@@ -60161,5 +60161,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4530-6f14c3716ea79871.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4531,
+    "title": "The Bourne Conspiracy Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thegh0sts/bourne-conspiracy-x360-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "stealth",
+    "genre2": "third-person-shooter",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4531-5d34f5db50451f2c.webp",
+    "date_added": "2026-11-09"
   }
 ]
