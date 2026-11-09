@@ -60314,5 +60314,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4542-620a7fd7add8d774.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4543,
+    "title": "Gravity Rush Remastered and Gravity Rush 2 PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/qnfn/GRport",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Gravity Rush",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4543-5d9b58b15ff11888.webp",
+    "date_added": "2026-11-09"
   }
 ]
