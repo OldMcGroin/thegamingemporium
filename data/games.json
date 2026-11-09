@@ -60192,5 +60192,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4535-f3c56a5ce3bdec0b.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4536,
+    "title": "Syphon Filter 3 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/astromen2009/Syphon-Filter-3-pc-port",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "stealth",
+    "genre2": "third-person-shooter",
+    "series": "Syphon Filter",
+    "collection": "syphon-filter-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4536-e908c7a8b1bd16cd.webp",
+    "date_added": "2026-11-09"
   }
 ]
