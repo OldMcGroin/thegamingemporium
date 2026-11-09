@@ -60382,5 +60382,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4546-00886be69392863e.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4547,
+    "title": "Guitar Hero: Warriors of Rock PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElGuslml/GHWoRRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Guitar Hero",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4547-acb1802a0da4661b.webp",
+    "date_added": "2026-11-09"
   }
 ]
