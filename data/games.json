@@ -60076,5 +60076,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4524-de5eeb3088f2c6a6.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4525,
+    "title": "Pokémon Pokopia PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Dittobyte/Recompia",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "city-builder",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "pokemon-pokopia",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4525-03757a1bc8c1fb4a.webp",
+    "date_added": "2026-11-09"
   }
 ]
