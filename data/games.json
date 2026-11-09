@@ -60195,5 +60195,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4532-9f45610974031490.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4533,
+    "title": "Lemmings Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NitrosGits/Lemmings-For-Windows-95",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4533-abe945adaffce482.webp",
+    "date_added": "2026-11-09"
   }
 ]
