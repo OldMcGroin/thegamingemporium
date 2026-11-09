@@ -60348,5 +60348,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4544-ecc3305765c0186a.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4545,
+    "title": "Super Mario Bros. Wonder PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vfjoo888/SuperWonders",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4545-33d42c5630b36e4f.webp",
+    "date_added": "2026-11-09"
   }
 ]
