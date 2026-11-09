@@ -59974,5 +59974,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4518-a0c55c200dfec6c4.webp",
     "date_added": "2026-11-08"
+  },
+  {
+    "id": 4519,
+    "title": "Buffy the Vampire Slayer Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/wiluss/btvs-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4519-d50faf13e5e40dc5.webp",
+    "date_added": "2026-11-09"
   }
 ]
