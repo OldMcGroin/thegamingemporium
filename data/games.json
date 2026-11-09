@@ -60211,5 +60211,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4536-e908c7a8b1bd16cd.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4537,
+    "title": "Xenoblade Chronicles Definitive Edition Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/brendonbusker/Monado-II",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "xenoblade-chronicles-definitive-edition",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4537-90d18c66b88475fe.webp",
+    "date_added": "2026-11-09"
   }
 ]
