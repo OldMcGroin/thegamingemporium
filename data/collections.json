@@ -1002,5 +1002,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/metroid-prime-4-beyond-collection.webp"
+  },
+  {
+    "name": "Pokémon Pokopia",
+    "slug": "pokemon-pokopia",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-pokopia-collection.webp"
   }
 ]
