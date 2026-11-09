@@ -1030,5 +1030,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/medievil-ps4-collection.webp"
+  },
+  {
+    "name": "Ratchet & Clank 2016",
+    "slug": "ratchet-clank-2016",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ratchet-clank-2016-collection.webp"
   }
 ]
