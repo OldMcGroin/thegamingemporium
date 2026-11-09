@@ -995,5 +995,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/castlevania-curse-of-darkness-collection.webp"
+  },
+  {
+    "name": "Metroid Prime 4: Beyond",
+    "slug": "metroid-prime-4-beyond",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/metroid-prime-4-beyond-collection.webp"
   }
 ]
