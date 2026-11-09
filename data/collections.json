@@ -1009,5 +1009,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-pokopia-collection.webp"
+  },
+  {
+    "name": "Dead or Alive 4",
+    "slug": "dead-or-alive-4",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dead-or-alive-4-collection.webp"
   }
 ]
