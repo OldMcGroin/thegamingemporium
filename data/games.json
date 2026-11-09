@@ -60433,5 +60433,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4549-4a2b3aa5f36912ad.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4550,
+    "title": "TimeSplitters 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Destinity13/TimeSplitters-2-Native-Linux-Recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Timesplitters",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4550-8b29dc6c5e0b7d81.webp",
+    "date_added": "2026-11-09"
   }
 ]
