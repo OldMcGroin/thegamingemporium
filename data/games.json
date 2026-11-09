@@ -60025,5 +60025,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4521-59c020e73590405b.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4522,
+    "title": "Donkey Kong Bananza Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/teasergames/dbk-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Donkey Kong",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4522-bf7d3e32a662d50d.webp",
+    "date_added": "2026-11-09"
   }
 ]
