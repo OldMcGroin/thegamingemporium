@@ -59991,5 +59991,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4519-d50faf13e5e40dc5.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4520,
+    "title": "13 Sentinels: Aegis Rim Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/saulob/13-sentinels-aegis-rim-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "visual-novel",
+    "genre2": "strategy",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4520-f548c259adc40299.webp",
+    "date_added": "2026-11-09"
   }
 ]
