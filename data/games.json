@@ -60228,5 +60228,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4537-90d18c66b88475fe.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4538,
+    "title": "Shadowgate Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CorrieDivitt/ShadowGreat",
+    "video_link": "",
+    "platform": "NES",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4538-fb4cc6784359cadd.webp",
+    "date_added": "2026-11-09"
   }
 ]
