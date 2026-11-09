@@ -60178,5 +60178,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4531-5d34f5db50451f2c.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4532,
+    "title": "Mario Kart 8 Deluxe Online Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Vnnc1/MK8-online",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4532-9f45610974031490.webp",
+    "date_added": "2026-11-09"
   }
 ]
