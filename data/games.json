@@ -60093,5 +60093,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4525-03757a1bc8c1fb4a.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4528,
+    "title": "Mario Kart: Super Circuit in Browser ",
+    "category": "browser-based",
+    "link": "https://arcanite24.github.io/mksc-neo/play/mksc.html",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4528-cc2affe1babfe0e7.webp",
+    "date_added": "2026-11-09"
   }
 ]
