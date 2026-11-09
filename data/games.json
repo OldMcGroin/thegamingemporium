@@ -60008,5 +60008,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4520-f548c259adc40299.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4521,
+    "title": "Mafia: The City of Lost Heaven Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rzrbld/TheFamilia",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "adventure",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4521-59c020e73590405b.webp",
+    "date_added": "2026-11-09"
   }
 ]
