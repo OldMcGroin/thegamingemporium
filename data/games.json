@@ -60297,5 +60297,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4541-f31d1e8264f6cb7a.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4542,
+    "title": "Soul Sacrifice Delta Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vita-recomps/ss-delta",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4542-620a7fd7add8d774.webp",
+    "date_added": "2026-11-09"
   }
 ]
