@@ -60416,5 +60416,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4548-7e7bc9798d6bfc3a.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4549,
+    "title": "Band Hero PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElGuslml/BandHRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Guitar Hero",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4549-4a2b3aa5f36912ad.webp",
+    "date_added": "2026-11-09"
   }
 ]
