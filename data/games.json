@@ -60042,5 +60042,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4522-bf7d3e32a662d50d.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4523,
+    "title": "Fist of the North Star: Lost Paradise Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Fwha/Lost-Paradise",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4523-99a54ebae44fd014.webp",
+    "date_added": "2026-11-09"
   }
 ]
