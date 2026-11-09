@@ -60399,5 +60399,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4547-acb1802a0da4661b.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4548,
+    "title": "Guitar Hero 5 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElGuslml/GH5Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Guitar Hero",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4548-7e7bc9798d6bfc3a.webp",
+    "date_added": "2026-11-09"
   }
 ]
