@@ -1065,5 +1065,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mortal-kombat-shaolin-monks-collection.webp"
+  },
+  {
+    "name": "Ben 10: Ultimate Alien - Cosmic Destruction",
+    "slug": "ben-10-ultimate-alien-cosmic-destruction",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ben-10-ultimate-alien-cosmic-destruction-collection.webp"
   }
 ]
