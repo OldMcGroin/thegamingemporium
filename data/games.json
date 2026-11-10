@@ -60912,5 +60912,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4577-43e4faf11f31aa36.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4578,
+    "title": "Ys Book 1 & 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://fabiano-gelain.github.io/YsRecomp/",
+    "video_link": "",
+    "platform": "PC Engine",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Ys",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4578-7937cde64b29926d.webp",
+    "date_added": "2026-11-10"
   }
 ]
