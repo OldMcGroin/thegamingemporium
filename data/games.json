@@ -60553,5 +60553,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4556-046f1bf36b9bf44d.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4557,
+    "title": "Pac-Man Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/coprsegrinder/PacAppleIIComp",
+    "video_link": "",
+    "platform": "Atari",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "",
+    "collection": "pac-man",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4557-290246a7cfabbaf0.webp",
+    "date_added": "2026-11-10"
   }
 ]
