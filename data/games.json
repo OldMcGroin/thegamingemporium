@@ -53793,12 +53793,13 @@
     "platform": "Xbox 360",
     "genre1": "third-person-shooter",
     "genre2": "",
-    "collection": "",
+    "collection": "gears-of-war-3",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4141-31a3ce961653b50f.webp",
-    "date_added": "2026-10-25"
+    "date_added": "2026-10-25",
+    "series": "Gears Of War"
   },
   {
     "id": 4139,
