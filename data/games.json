@@ -60519,5 +60519,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4554-927f330f373a1b94.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4555,
+    "title": "Gears of War 3 Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GloriousEggroll/squarehole360",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Gears Of War",
+    "collection": "gears-of-war-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4555-8f7ce137041152f9.webp",
+    "date_added": "2026-11-10"
   }
 ]
