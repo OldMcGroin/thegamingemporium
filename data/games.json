@@ -60450,5 +60450,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4550-8b29dc6c5e0b7d81.webp",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": 4551,
+    "title": "Halo: Fireteam Raven PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/wuzzy450/OpenRaven",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4551-5bb2929a069f236d.webp",
+    "date_added": "2026-11-10"
   }
 ]
