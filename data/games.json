@@ -60484,5 +60484,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4552-03f692f52c40b133.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4553,
+    "title": "Final Fantasy 7 Recompilation for Android",
+    "category": "android-ports",
+    "link": "https://github.com/bhuiyah/ff7-recomp-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Final Fantasy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4553-f7d7f0f45f817e70.webp",
+    "date_added": "2026-11-10"
   }
 ]
