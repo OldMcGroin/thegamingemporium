@@ -60638,5 +60638,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4561-6845b22b4e1b26e5.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4562,
+    "title": "Sonic Riders: Zero Gravity Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/KnivesDevilish/SR-ZGS",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4562-2daf56513e1c5fba.webp",
+    "date_added": "2026-11-10"
   }
 ]
