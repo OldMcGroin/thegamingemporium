@@ -60895,5 +60895,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4576-e4c2f2e091268dd9.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4577,
+    "title": "Crash Bash for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/jake-r-r-w/crash_bash_decomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "party-games",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4577-43e4faf11f31aa36.webp",
+    "date_added": "2026-11-10"
   }
 ]
