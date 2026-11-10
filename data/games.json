@@ -53498,19 +53498,20 @@
   },
   {
     "id": 4122,
-    "title": "Ben 10 Cosmic Destruction Recompilation",
+    "title": "Ben 10: Ultimate Alien - Cosmic Destruction Recompilation",
     "category": "decompilations-recompilations",
     "link": "https://github.com/ExtremestoneGG/Cosmic-Recompi",
     "video_link": "",
     "platform": "Xbox 360",
     "genre1": "action",
     "genre2": "platformer",
-    "collection": "",
+    "collection": "ben-10-ultimate-alien-cosmic-destruction",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4122-643f514d99879afb.webp",
-    "date_added": "2026-10-24"
+    "date_added": "2026-10-24",
+    "series": ""
   },
   {
     "id": 4123,
