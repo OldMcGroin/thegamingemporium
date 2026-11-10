@@ -60621,5 +60621,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4560-427875762ad07870.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4561,
+    "title": "Green Day: Rock Band Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mercurialw0rld/greendayrockband-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "Rock Band",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4561-6845b22b4e1b26e5.webp",
+    "date_added": "2026-11-10"
   }
 ]
