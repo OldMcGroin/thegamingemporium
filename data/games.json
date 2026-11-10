@@ -60587,5 +60587,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4558-d3811d710c8c99d1.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4559,
+    "title": "Bomberman Online Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nvd123-YT/BombermanOnlineRecomp",
+    "video_link": "",
+    "platform": "Sega Dreamcast",
+    "genre1": "puzzle",
+    "genre2": "action",
+    "series": "Bomberman",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4559-cabb2df01710b38f.webp",
+    "date_added": "2026-11-10"
   }
 ]
