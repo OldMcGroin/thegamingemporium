@@ -60792,5 +60792,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4570-bcdb76b0bf14d187.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4571,
+    "title": "Mario Tennis N64 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Ieatzcrayonz/MarioTennisRecomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4571-ab1385b7eeb7c6fd.webp",
+    "date_added": "2026-11-10"
   }
 ]
