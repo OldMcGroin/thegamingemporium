@@ -60655,5 +60655,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4562-2daf56513e1c5fba.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4563,
+    "title": "The Last Guardian PC Port 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tabnul/the-last-guardian-definitive",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "adventure",
+    "genre2": "puzzle",
+    "series": "The Last Guardian",
+    "collection": "the-last-guardian",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4563-696a6cf66149199a.webp",
+    "date_added": "2026-11-10"
   }
 ]
