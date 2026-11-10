@@ -1058,5 +1058,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/the-legend-of-zelda-the-wind-waker-hd-collection.webp"
+  },
+  {
+    "name": "Mortal Kombat: Shaolin Monks",
+    "slug": "mortal-kombat-shaolin-monks",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mortal-kombat-shaolin-monks-collection.webp"
   }
 ]
