@@ -54945,7 +54945,7 @@
     "id": 4214,
     "title": "Gears of War 2, Gears of War 3 and Gears of War: Judgment PC Ports Launcher - COGBox",
     "category": "decompilations-recompilations",
-    "link": "https://github.com/Shagg88/COGBox",
+    "link": "https://gitlab.com/shagg88/cogbox",
     "video_link": "",
     "platform": "Xbox 360",
     "genre1": "third-person-shooter",
@@ -54955,7 +54955,8 @@
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4214-da7e7b709d60b189.webp",
-    "date_added": "2026-10-27"
+    "date_added": "2026-10-27",
+    "series": ""
   },
   {
     "id": 4215,
