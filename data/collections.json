@@ -1051,5 +1051,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/gears-of-war-3-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: The Wind Waker HD",
+    "slug": "the-legend-of-zelda-the-wind-waker-hd",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-the-wind-waker-hd-collection.webp"
   }
 ]
