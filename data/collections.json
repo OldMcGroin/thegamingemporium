@@ -1044,5 +1044,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/red-dead-revolver-collection.webp"
+  },
+  {
+    "name": "Gears of War 3",
+    "slug": "gears-of-war-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/gears-of-war-3-collection.webp"
   }
 ]
