@@ -60878,5 +60878,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4575-885a6bd341fea344.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4576,
+    "title": "Crash Bash Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jake-r-r-w/crash_bash_decomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "party-games",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4576-e4c2f2e091268dd9.webp",
+    "date_added": "2026-11-10"
   }
 ]
