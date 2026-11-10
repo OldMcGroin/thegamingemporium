@@ -60467,5 +60467,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4551-5bb2929a069f236d.webp",
     "date_added": "2026-11-10"
+  },
+  {
+    "id": 4552,
+    "title": "Unifideck - A Decky Loader plugin that brings together Steam, Epic Games Store, GOG, Amazon Games, Ubisoft Connect, Battle.net, GameVault, itch.io, and Xbox Cloud Gaming in a single library experience on Steam Deck",
+    "category": "utility",
+    "link": "https://github.com/mubaraknumann/unifideck",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4552-03f692f52c40b133.webp",
+    "date_added": "2026-11-10"
   }
 ]
