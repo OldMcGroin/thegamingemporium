@@ -61380,5 +61380,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4605-46aedf2fbe5a2c6d.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4606,
+    "title": "Pokemon Scarlet PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tukidev-lgtm/Tera-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4606-9ac1ae3c78af664f.webp",
+    "date_added": "2026-11-11"
   }
 ]
