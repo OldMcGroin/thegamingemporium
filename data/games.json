@@ -61067,5 +61067,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4586-a936c6b01474931d.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4587,
+    "title": "Diablo 3: Reaper of Souls – Ultimate Evil Edition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CaduGimenes/SanctuaryPort",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Diablo",
+    "collection": "diablo-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4587-fbd1425b0874f435.webp",
+    "date_added": "2026-11-11"
   }
 ]
