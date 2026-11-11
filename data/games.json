@@ -61033,5 +61033,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4584-3d1d80cd957a304b.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4585,
+    "title": "Castlevania: Rondo of Blood Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/RondoRecomp",
+    "video_link": "",
+    "platform": "PC Engine",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4585-7391564249de9a5e.webp",
+    "date_added": "2026-11-11"
   }
 ]
