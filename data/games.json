@@ -61431,5 +61431,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4608-d7ed1359d04d468b.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4609,
+    "title": "Resistance 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/miroslavdanutalexandru-alt/Resistance3Port",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Resistance Fall of Man",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4609-99fdcfb6fb4fdfda.webp",
+    "date_added": "2026-11-11"
   }
 ]
