@@ -61273,5 +61273,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4598-0fe916ea601fdb9b.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4599,
+    "title": "Pro Evolution Soccer 2013 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/xamphy/PES13Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Pro Evolution Soccer",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4599-752d0141bb62356c.webp",
+    "date_added": "2026-11-11"
   }
 ]
