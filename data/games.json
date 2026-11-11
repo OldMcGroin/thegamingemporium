@@ -61359,5 +61359,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4603-23b6fb8b4cef2fb4.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4604,
+    "title": "LEGO Dimensions Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vascon-es/lego-dimensions-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "lego-dimensions",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4604-6148afb9d9471d8f.webp",
+    "date_added": "2026-11-11"
   }
 ]
