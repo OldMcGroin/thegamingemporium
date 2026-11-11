@@ -61120,5 +61120,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4589-69f3d88f0667ec34.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4590,
+    "title": "Pokémon Legends: Arceus Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/linuxopt/pla-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "pokemon-legends-arceus",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4590-f640a4ff1f9d35a9.webp",
+    "date_added": "2026-11-11"
   }
 ]
