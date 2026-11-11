@@ -61188,5 +61188,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4593-9d72e5df0fb8f329.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4594,
+    "title": "Silent Hill 4: The Room Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/brandondiazespinoza/sh4-r36-linux-ARM64",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4594-2e497f9da2b97c21.webp",
+    "date_added": "2026-11-11"
   }
 ]
