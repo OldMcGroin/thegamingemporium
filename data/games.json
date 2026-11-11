@@ -61324,5 +61324,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4601-9ae8c949afdc25b9.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4602,
+    "title": "Dante’s Inferno PS5 Port",
+    "category": "console-ports",
+    "link": "https://github.com/KongaTime/Dantes-Inferno-PS5-Port",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Dante's Inferno",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4602-fe6bf2f028038ce3.webp",
+    "date_added": "2026-11-11"
   }
 ]
