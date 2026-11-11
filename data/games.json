@@ -61256,5 +61256,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4597-a44c6a497a154003.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4598,
+    "title": "Alone in the Dark trilogy and Jack in the Dark for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/nayo186/AloneInTheDarkClassicReborn",
+    "video_link": "",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Alone in the Dark",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4598-0fe916ea601fdb9b.webp",
+    "date_added": "2026-11-11"
   }
 ]
