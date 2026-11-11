@@ -1079,5 +1079,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/diablo-3-collection.webp"
+  },
+  {
+    "name": "Pokémon Legends: Arceus",
+    "slug": "pokemon-legends-arceus",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-legends-arceus-collection.webp"
   }
 ]
