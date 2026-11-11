@@ -61376,5 +61376,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4604-6148afb9d9471d8f.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4605,
+    "title": "Hyrule Warriors: Definitive Edition Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/blocker-3/HWDER",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "action",
+    "genre2": "",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4605-46aedf2fbe5a2c6d.webp",
+    "date_added": "2026-11-11"
   }
 ]
