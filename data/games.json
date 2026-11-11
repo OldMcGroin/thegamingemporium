@@ -61290,5 +61290,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4599-752d0141bb62356c.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4600,
+    "title": "Spikeout: Final Edition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tastyrepublic/spikeout-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4600-69e29bfea2496fef.webp",
+    "date_added": "2026-11-11"
   }
 ]
