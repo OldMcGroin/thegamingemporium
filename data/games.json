@@ -61050,5 +61050,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4585-7391564249de9a5e.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4586,
+    "title": "The Legend of Zelda: Tears of the Kingdom Ultrahand Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/paulosnp/ultrahand-launcher",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4586-a936c6b01474931d.webp",
+    "date_added": "2026-11-11"
   }
 ]
