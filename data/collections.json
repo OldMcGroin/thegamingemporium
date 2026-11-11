@@ -1086,5 +1086,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-legends-arceus-collection.webp"
+  },
+  {
+    "name": "SSX 2012",
+    "slug": "ssx-2012",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/ssx-2012-collection.webp"
   }
 ]
