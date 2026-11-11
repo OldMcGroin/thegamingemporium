@@ -61448,5 +61448,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4609-99fdcfb6fb4fdfda.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4610,
+    "title": "GT 64: Championship Edition Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tijayfly/gt64_recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4610-891616e8b998e0c5.webp",
+    "date_added": "2026-11-11"
   }
 ]
