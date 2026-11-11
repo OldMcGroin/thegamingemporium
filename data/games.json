@@ -61137,5 +61137,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4590-f640a4ff1f9d35a9.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4591,
+    "title": "Sega Rally 2 Arcade PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/snicolast/SegaRally2Native",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sega Rally",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4591-ed7f90cad97ad1cb.webp",
+    "date_added": "2026-11-11"
   }
 ]
