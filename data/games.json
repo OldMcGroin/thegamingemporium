@@ -61085,5 +61085,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4587-fbd1425b0874f435.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4588,
+    "title": "Metroid Prime 3: Corruption Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bonllavier/Corruption_3-PC",
+    "video_link": "",
+    "platform": "Nintendo Wii",
+    "genre1": "metroidvania",
+    "genre2": "first-person-shooter",
+    "series": "Metroid",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4588-2b3a7d3a199a2b51.webp",
+    "date_added": "2026-11-11"
   }
 ]
