@@ -60998,5 +60998,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4582-eaf766d9eb174785.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4583,
+    "title": "Gauntlet: Dark Legacy Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jeddhor/GauntletDLRedone",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Gauntlet",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4583-9696489d70851e5a.webp",
+    "date_added": "2026-11-11"
   }
 ]
