@@ -1093,5 +1093,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/ssx-2012-collection.webp"
+  },
+  {
+    "name": "LEGO Dimensions",
+    "slug": "lego-dimensions",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/lego-dimensions-collection.webp"
   }
 ]
