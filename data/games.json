@@ -61341,5 +61341,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4602-fe6bf2f028038ce3.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4603,
+    "title": "SSX 2012 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AmarilloNL/ssx-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "SSX",
+    "collection": "ssx-2012",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4603-23b6fb8b4cef2fb4.webp",
+    "date_added": "2026-11-11"
   }
 ]
