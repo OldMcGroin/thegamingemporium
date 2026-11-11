@@ -57425,12 +57425,13 @@
     "platform": "Nintendo Switch",
     "genre1": "rpg",
     "genre2": "creature-collector",
-    "collection": "",
+    "collection": "pokemon-legends-arceus",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4370-a34757d11e1cec04.webp",
-    "date_added": "2026-11-02"
+    "date_added": "2026-11-02",
+    "series": "Pokemon"
   },
   {
     "id": 4371,
