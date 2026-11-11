@@ -61239,5 +61239,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4596-4e52b84cd8e5f088.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4597,
+    "title": "Alone in the Dark Trilogy and Jack in the Dark for Modern PCs",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nayo186/AloneInTheDarkClassicReborn",
+    "video_link": "",
+    "platform": "Steam",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Alone in the Dark",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4597-a44c6a497a154003.webp",
+    "date_added": "2026-11-11"
   }
 ]
