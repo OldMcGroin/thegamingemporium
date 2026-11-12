@@ -61737,5 +61737,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4626-a1f5f2b1f8d57715.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4627,
+    "title": "Mojo! PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/JaBoyAlex/mojo-ps2-recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4627-6b8cfaae25a553f5.webp",
+    "date_added": "2026-11-12"
   }
 ]
