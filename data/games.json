@@ -61909,5 +61909,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4640-8c8bc61444cfa03a.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4641,
+    "title": "Robotron 64 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MGZeroes/Robotron64Recompiled",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4641-de9d4236205b41bd.webp",
+    "date_added": "2026-11-12"
   }
 ]
