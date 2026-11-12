@@ -61720,5 +61720,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4625-ec67746b786cf4ad.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4626,
+    "title": "Pokémon Legends: Z-A Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/linuxopt/plza-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4626-a1f5f2b1f8d57715.webp",
+    "date_added": "2026-11-12"
   }
 ]
