@@ -61704,5 +61704,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4628-0cc537435b557bca.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4629,
+    "title": "Black Multiplayer in Browser",
+    "category": "browser-based",
+    "link": "https://ws.black.qorp.com.br/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Black",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4629-54a94b355537ca05.webp",
+    "date_added": "2026-11-12"
   }
 ]
