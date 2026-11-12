@@ -61635,5 +61635,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4620-e1c053a592762a50.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4621,
+    "title": "Super Mario Odyssey PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4621-19552b97b7b2366f.webp",
+    "date_added": "2026-11-12"
   }
 ]
