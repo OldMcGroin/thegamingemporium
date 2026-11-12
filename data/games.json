@@ -61686,5 +61686,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4623-a1c00c9bb74eb893.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4624,
+    "title": "Mobile Suit Gundam Battle Operation Code Fairy Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "mech-simulator",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4624-92b10a334462e041.webp",
+    "date_added": "2026-11-12"
   }
 ]
