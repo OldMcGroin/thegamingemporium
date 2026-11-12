@@ -61652,5 +61652,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4621-19552b97b7b2366f.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4622,
+    "title": "Forza Horizon 2 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/arcanite24/lavender-shift",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza Horizon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4622-7dbf2359198bf59b.webp",
+    "date_added": "2026-11-12"
   }
 ]
