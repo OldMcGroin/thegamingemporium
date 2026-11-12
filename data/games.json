@@ -61755,5 +61755,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4630-42bcfd7e0d25c8bd.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4632,
+    "title": "Rumble Roses XX Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/360recomper/RumbleRosesReX",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "rumble-roses-xx",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4632-269bdd81678aa497.webp",
+    "date_added": "2026-11-12"
   }
 ]
