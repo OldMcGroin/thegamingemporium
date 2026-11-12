@@ -61841,5 +61841,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4636-e56fcf770bbf88d1.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4637,
+    "title": "Mario Kart World Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MIXIDtheSilly/kart-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "mario-kart-world",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4637-f501f236e68171e8.webp",
+    "date_added": "2026-11-12"
   }
 ]
