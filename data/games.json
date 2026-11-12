@@ -61499,5 +61499,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4612-d85baf25880be683.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4613,
+    "title": "Incubation (1997) for Modern Systems",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/retro-gaming-tools/inc-tiro-twm-rust",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4613-b44f2d9dfc071949.webp",
+    "date_added": "2026-11-12"
   }
 ]
