@@ -61738,5 +61738,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4631-7853e6f769cd768d.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4630,
+    "title": "Pokémon Pinball: Ruby & Sapphire Windows Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jonnisvibes/jvppbport",
+    "video_link": "",
+    "platform": "Game Boy Advance",
+    "genre1": "pinball",
+    "genre2": "",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4630-42bcfd7e0d25c8bd.webp",
+    "date_added": "2026-11-12"
   }
 ]
