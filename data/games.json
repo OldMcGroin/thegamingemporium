@@ -61807,5 +61807,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4634-2c41849beb45dc4d.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4635,
+    "title": "Syndicate Plus PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Buyukcaglar/synd",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "strategy",
+    "genre2": "action",
+    "series": "Syndicate",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4635-67bec3e45ba1697a.webp",
+    "date_added": "2026-11-12"
   }
 ]
