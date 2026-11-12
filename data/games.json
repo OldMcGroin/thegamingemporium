@@ -61618,5 +61618,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4619-ade7ab3c1b84e127.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4620,
+    "title": "Virtua Fighter 3 Arcade Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/mr-finster/vf3-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Virtua Fighter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4620-e1c053a592762a50.webp",
+    "date_added": "2026-11-12"
   }
 ]
