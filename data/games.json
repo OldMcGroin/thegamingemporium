@@ -58323,23 +58323,6 @@
     "date_added": "2026-11-04"
   },
   {
-    "id": 4428,
-    "title": "Banana Native - Switch 2 games running natively on Android",
-    "category": "android-ports",
-    "link": "https://github.com/moceure/BananaNative",
-    "video_link": "",
-    "platform": "",
-    "genre1": "utility",
-    "genre2": "",
-    "series": "",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "top",
-    "hidden": false,
-    "image": "/Images/Games/manager-4428-acd7a79fba213096.webp",
-    "date_added": "2026-11-04"
-  },
-  {
     "id": 4429,
     "title": "Star Trek: Voyager - Elite Force 2 Port",
     "category": "decompilations-recompilations",
