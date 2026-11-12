@@ -61482,5 +61482,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4611-6872978e853720de.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4612,
+    "title": "Contra in Browser",
+    "category": "browser-based",
+    "link": "https://contragame.dev/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "Contra",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4612-d85baf25880be683.webp",
+    "date_added": "2026-11-12"
   }
 ]
