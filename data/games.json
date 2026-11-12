@@ -61687,5 +61687,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4627-6b8cfaae25a553f5.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4628,
+    "title": "The Movies in Browser",
+    "category": "browser-based",
+    "link": "https://themovies.romanf.cc/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "business-management",
+    "genre2": "strategy",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4628-0cc537435b557bca.webp",
+    "date_added": "2026-11-12"
   }
 ]
