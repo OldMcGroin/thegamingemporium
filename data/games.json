@@ -61669,5 +61669,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4622-7dbf2359198bf59b.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4623,
+    "title": "Forza Horizon 2 for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/arcanite24/lavender-shift",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Forza",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4623-a1c00c9bb74eb893.webp",
+    "date_added": "2026-11-12"
   }
 ]
