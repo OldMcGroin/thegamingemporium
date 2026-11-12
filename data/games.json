@@ -61926,5 +61926,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4641-de9d4236205b41bd.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4642,
+    "title": "Wetrix N64 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/scottjco/Wetrix_Recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4642-95f1e394576eea1a.webp",
+    "date_added": "2026-11-12"
   }
 ]
