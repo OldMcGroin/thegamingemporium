@@ -1100,5 +1100,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/lego-dimensions-collection.webp"
+  },
+  {
+    "name": "Rumble Roses XX",
+    "slug": "rumble-roses-xx",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/rumble-roses-xx-collection.webp"
   }
 ]
