@@ -61824,5 +61824,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4635-67bec3e45ba1697a.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4636,
+    "title": "Painter Mompie PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Tenome/Painter-Momopi-Decompilation",
+    "video_link": "",
+    "platform": "Game Boy",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4636-e56fcf770bbf88d1.webp",
+    "date_added": "2026-11-12"
   }
 ]
