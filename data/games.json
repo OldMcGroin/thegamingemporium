@@ -61567,5 +61567,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4616-9c24f151f5835a1d.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4617,
+    "title": "Pokemon XD: Gale of Darkness PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4617-beba78d942672171.webp",
+    "date_added": "2026-11-12"
   }
 ]
