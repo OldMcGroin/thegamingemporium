@@ -61516,5 +61516,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4613-b44f2d9dfc071949.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4614,
+    "title": "Transformers Universe",
+    "category": "preserved-games",
+    "link": "https://tfu-reborn.org/download",
+    "video_link": "",
+    "platform": "",
+    "genre1": "MMO",
+    "genre2": "action",
+    "series": "Transformers",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4614-bc400d1561c7524c.webp",
+    "date_added": "2026-11-12"
   }
 ]
