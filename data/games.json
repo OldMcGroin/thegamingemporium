@@ -61858,5 +61858,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4637-f501f236e68171e8.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4639,
+    "title": "SimFarm in Browser",
+    "category": "browser-based",
+    "link": "https://alissonkn.github.io/opensimfarm/play/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "farming-simulator",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4639-a03e8399f610f8c9.webp",
+    "date_added": "2026-11-12"
   }
 ]
