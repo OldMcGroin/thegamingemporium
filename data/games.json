@@ -61465,5 +61465,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4610-891616e8b998e0c5.webp",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": 4611,
+    "title": "Mario Kart: Double Dash!! for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/slex2jf/Project-Tandem--ANDROID",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4611-6872978e853720de.webp",
+    "date_added": "2026-11-12"
   }
 ]
