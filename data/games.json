@@ -61703,5 +61703,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4624-92b10a334462e041.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4625,
+    "title": "Pokémon Legends: Arceus Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/fabioschmidt01/PokeL-ARecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "pokemon-legends-arceus",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4625-ec67746b786cf4ad.webp",
+    "date_added": "2026-11-12"
   }
 ]
