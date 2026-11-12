@@ -61892,5 +61892,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4638-bf61b5bcd745b474.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4640,
+    "title": "Excitebike: Bun Bun Mario Battle Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Tenome/Excitebike--Bun-Bun-Mario-Battle",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4640-8c8bc61444cfa03a.webp",
+    "date_added": "2026-11-12"
   }
 ]
