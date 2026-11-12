@@ -1107,5 +1107,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/rumble-roses-xx-collection.webp"
+  },
+  {
+    "name": "Mario Kart World",
+    "slug": "mario-kart-world",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/mario-kart-world-collection.webp"
   }
 ]
