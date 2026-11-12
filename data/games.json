@@ -61721,5 +61721,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4629-54a94b355537ca05.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4631,
+    "title": "Pokémon Pinball: Ruby & Sapphire for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/jonnisvibes/jvppbport",
+    "video_link": "",
+    "platform": "",
+    "genre1": "pinball",
+    "genre2": "",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4631-7853e6f769cd768d.webp",
+    "date_added": "2026-11-12"
   }
 ]
