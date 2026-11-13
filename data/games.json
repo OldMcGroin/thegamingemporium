@@ -62097,5 +62097,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4651-a643f759594a8260.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4652,
+    "title": "Astro Bot PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/imnotsharingmyname/pcportastrobot",
+    "video_link": "",
+    "platform": "PlayStation 5",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Astro Bot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4652-ae17cb012cca217c.webp",
+    "date_added": "2026-11-13"
   }
 ]
