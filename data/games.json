@@ -62301,5 +62301,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4663-29b4a1f1950f180c.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4664,
+    "title": "Dead Space: Sabotage PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/UndeadObvlivion/dead-space-mobile-pc",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Dead Space",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4664-7c5c66c15a4cf56b.webp",
+    "date_added": "2026-11-13"
   }
 ]
