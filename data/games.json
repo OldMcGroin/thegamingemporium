@@ -62114,5 +62114,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4652-ae17cb012cca217c.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4653,
+    "title": "Life with PlayStation PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/kojimasfoxhound/life-around-us",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4653-5a2ab35583246979.webp",
+    "date_added": "2026-11-13"
   }
 ]
