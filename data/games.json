@@ -62131,5 +62131,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4653-5a2ab35583246979.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4654,
+    "title": "Hammer of the Gods PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://nancygold.itch.io/hammer-of-the-gods-source-code",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4654-26d6360b403e1abc.webp",
+    "date_added": "2026-11-13"
   }
 ]
