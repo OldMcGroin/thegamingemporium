@@ -62028,5 +62028,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4647-40b11d0b18ac6e4b.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4648,
+    "title": "Dead Nation PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rcostanza/dead-nation-ps4-recomp",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4648-c8bf8dad56404745.webp",
+    "date_added": "2026-11-13"
   }
 ]
