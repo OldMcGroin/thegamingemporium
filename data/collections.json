@@ -1114,5 +1114,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/mario-kart-world-collection.webp"
+  },
+  {
+    "name": "Dead or Alive 2",
+    "slug": "dead-or-alive-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dead-or-alive-2-collection.webp"
   }
 ]
