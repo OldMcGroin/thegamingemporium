@@ -62216,5 +62216,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4658-f1f9b75f63b206d5.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4659,
+    "title": "Crash Bandicoot: The Wrath of Cortex PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/denzi-gh/crashwoc-nuworld",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4659-1015b8e26760ce57.webp",
+    "date_added": "2026-11-13"
   }
 ]
