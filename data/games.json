@@ -54556,12 +54556,13 @@
     "platform": "Xbox 360",
     "genre1": "fighting",
     "genre2": "",
-    "collection": "",
+    "collection": "dead-or-alive-2",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4190-69fdb00d1af30ef1.webp",
-    "date_added": "2026-10-26"
+    "date_added": "2026-10-26",
+    "series": "Dead or Alive"
   },
   {
     "id": 4191,
