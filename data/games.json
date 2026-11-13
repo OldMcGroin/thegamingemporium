@@ -62063,5 +62063,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4649-099af34f1edb5c43.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4650,
+    "title": "Dead or Alive 2 Ultimate Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Moonalesca/doa2u-re",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Dead or Alive",
+    "collection": "dead-or-alive-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4650-9443443a795b0dd4.webp",
+    "date_added": "2026-11-13"
   }
 ]
