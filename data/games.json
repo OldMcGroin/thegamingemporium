@@ -62267,5 +62267,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4661-010e12dcd51c4365.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4662,
+    "title": "Need for Speed: Hot Pursuit 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ZloiKILLER/nfshp2-port-win",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "need-for-speed-hot-pursuit-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4662-a026f741f9cf7d97.webp",
+    "date_added": "2026-11-13"
   }
 ]
