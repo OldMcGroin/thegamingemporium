@@ -61994,5 +61994,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4645-f5d5ea742fae150b.webp",
     "date_added": "2026-11-12"
+  },
+  {
+    "id": 4646,
+    "title": "NeverDead Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Katzert/Neverdeth",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4646-2c03d8cc8f4dedc1.webp",
+    "date_added": "2026-11-13"
   }
 ]
