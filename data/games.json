@@ -62318,5 +62318,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4664-7c5c66c15a4cf56b.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4666,
+    "title": "PokéPark 2: Wonders Beyond for Android",
+    "category": "android-ports",
+    "link": "https://github.com/MildRain479/PokePark-2-Wiicompiled",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4666-997079549c9e3c82.webp",
+    "date_added": "2026-11-13"
   }
 ]
