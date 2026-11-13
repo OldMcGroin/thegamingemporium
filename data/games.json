@@ -62182,5 +62182,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4656-0cb904e056a420fd.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4657,
+    "title": "Prototype MacOs Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Alyx-ML/Prototype-MacOS-Metal",
+    "video_link": "",
+    "platform": "Steam",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4657-4ce68e1d7282b75d.webp",
+    "date_added": "2026-11-13"
   }
 ]
