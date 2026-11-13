@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-12T12:33:54.452478+00:00",
-  "total": 4576,
+  "checked_at": "2026-11-13T12:11:36.664759+00:00",
+  "total": 4605,
   "results": [
     {
       "id": 1,
@@ -86,8 +86,9 @@
       "title": "Banjo Kazooie Nostalgia 64",
       "url": "https://youtu.be/-niehkOWOKg?si=Na1yDdAOiR7URSDP",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=Na1yDdAOiR7URSDP&v=-niehkOWOKg&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -95,8 +96,9 @@
       "title": "Banjo Kazooie The Corrupted Jiggys",
       "url": "https://youtu.be/d5lUT7SSAgg?si=OVsXeH6AOXAxka8k",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=OVsXeH6AOXAxka8k&v=d5lUT7SSAgg&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -104,8 +106,9 @@
       "title": "Banjo Kazooie The Lair Witch Project",
       "url": "https://youtu.be/dfOERKSm_UE?si=PQOBo8Oj9y1mpraa",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=PQOBo8Oj9y1mpraa&v=dfOERKSm_UE&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -262,18 +265,18 @@
       "title": "Castlevania Chronicles II: Simon's Quest",
       "url": "https://cdromance.org/windows/castlevania-chronicles-ii-simons-quest-fan-made-remake-2/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 29,
       "title": "Castlevania Chronicles III: Dracula's Curse",
       "url": "https://cdromance.org/windows/castlevania-chronicles-iii-draculas-curse-fan-game-windows-pc/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 30,
@@ -289,8 +292,9 @@
       "title": "Castlevania Haunted Castle 2",
       "url": "https://retrolorean.com/en/castlevania-haunted-castle-2-10730",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://retrolorean.com/en/castlevania-haunted-castle-2-10730",
       "consecutive_failures": 0
     },
     {
@@ -1246,8 +1250,9 @@
       "title": "Mario Golf N64 - Pro Edition 1.1",
       "url": "https://youtu.be/JCBegP3cCtk?si=kkOcvmFp-9A-099B",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=kkOcvmFp-9A-099B&v=JCBegP3cCtk&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -1726,8 +1731,9 @@
       "title": "Need For Speed Most Wanted Redux V3",
       "url": "https://youtu.be/9nnmeXzm1oQ?si=wwp4CJAIuCJT_Pld",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=wwp4CJAIuCJT_Pld&v=9nnmeXzm1oQ&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -3185,8 +3191,9 @@
       "title": "The Legend of Banjo-Kazooie The Bear Waker Deluxe",
       "url": "https://youtu.be/lBObk1gfPaY?si=_vb4c14JIBFqMZD7",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=_vb4c14JIBFqMZD7&v=lBObk1gfPaY&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -3561,8 +3568,9 @@
       "title": "Zenless Zone Zero on Steam Deck",
       "url": "https://youtu.be/uZEZy7jxj30?si=yJFMHmmYkM1buZz6",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=yJFMHmmYkM1buZz6&v=uZEZy7jxj30&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -4621,9 +4629,9 @@
       "title": "Maze of Galious Port",
       "url": "https://cdromance.org/windows/maze-of-galious-windows/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 479,
@@ -4720,8 +4728,9 @@
       "title": "Naev",
       "url": "https://naev.org/",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 502",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://naev.org/",
       "consecutive_failures": 0
     },
     {
@@ -4879,8 +4888,9 @@
       "title": "OpenMW - Morrowind Port",
       "url": "https://openmw.org/",
       "hidden": false,
-      "status": "other",
-      "detail": "TimeoutError",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://openmw.org/",
       "consecutive_failures": 0
     },
     {
@@ -5177,8 +5187,9 @@
       "title": "The Simpsons Hit & Run PC Port",
       "url": "https://youtu.be/QV-70fe4hWc?si=F0Ne5n0lMlxeUhth",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=F0Ne5n0lMlxeUhth&v=QV-70fe4hWc&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -5583,8 +5594,9 @@
       "title": "Wasted! A Destruction-Derby Online Game",
       "url": "https://wastedgames.codeberg.page/",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 502",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://wastedgames.codeberg.page/",
       "consecutive_failures": 0
     },
     {
@@ -5851,8 +5863,9 @@
       "title": "Bully Online",
       "url": "https://youtu.be/2J0_BnWKvEA?si=6W-N4UdbE67sWjDk",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=6W-N4UdbE67sWjDk&v=2J0_BnWKvEA&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -5890,8 +5903,9 @@
       "title": "Castlevania Symphony of the Night - Megadrive Genesis Port - Demo",
       "url": "https://youtu.be/GoPpWU7y70w?si=A13ivHXfmWDOz3Xe",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=A13ivHXfmWDOz3Xe&v=GoPpWU7y70w&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -5989,8 +6003,9 @@
       "title": "Crash: Twinsanity Remake",
       "url": "https://youtu.be/7y3MXMaWWug?si=jMgS0GkZtigdUvX5",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=jMgS0GkZtigdUvX5&v=7y3MXMaWWug&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -6148,8 +6163,9 @@
       "title": "EarthBound Beginnings Remake",
       "url": "https://youtu.be/h9ppmP7eG2Q?si=llithvZsPJ_Li4oN",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=llithvZsPJ_Li4oN&v=h9ppmP7eG2Q&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -6157,8 +6173,9 @@
       "title": "Elden Ring: Morrowind Overhaul Mod",
       "url": "https://youtu.be/n89NFtIUWDI?si=fNfYg_4YLM_Blk1-",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=fNfYg_4YLM_Blk1-&v=n89NFtIUWDI&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -6176,8 +6193,9 @@
       "title": "Fallout: Bakersfield - Doom total conversion Mod (GZDoom Wad)",
       "url": "https://youtu.be/6e8WrmOibpM?si=I-YCVDzgAUP_bodh",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=I-YCVDzgAUP_bodh&v=6e8WrmOibpM&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -6685,8 +6703,9 @@
       "title": "Mega Castlevania IV",
       "url": "https://youtu.be/5PPOKBR3bQk?si=sxKPeItjeypAylaV",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=sxKPeItjeypAylaV&v=5PPOKBR3bQk&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7054,8 +7073,9 @@
       "title": "Project Green",
       "url": "https://youtu.be/e393g4U4xUU?si=rTY788C-KdflwLch",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=rTY788C-KdflwLch&v=e393g4U4xUU&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7073,8 +7093,9 @@
       "title": "Rayman 3: Havok Reignited Remake",
       "url": "https://youtu.be/XjeTYHk9c5c?si=dQyFhBhOywMb88KL",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=dQyFhBhOywMb88KL&v=XjeTYHk9c5c&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7202,8 +7223,9 @@
       "title": "Skyblivion",
       "url": "https://youtu.be/LwUibq6wBn4?si=RzqLY7QaIEZjBOBj",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=RzqLY7QaIEZjBOBj&v=LwUibq6wBn4&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7311,8 +7333,9 @@
       "title": "Sonic Rush Rerun - PC Port",
       "url": "https://youtu.be/I5mGwM-uikw?si=w0LLmprSc0FLeIzI",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=w0LLmprSc0FLeIzI&v=I5mGwM-uikw&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7470,8 +7493,9 @@
       "title": "Super Mario Odyssey - A Galaxy Story",
       "url": "https://youtu.be/KnslfMOZ5dY?si=n2Is3Od8bCXdC1Ph",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=n2Is3Od8bCXdC1Ph&v=KnslfMOZ5dY&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7579,8 +7603,9 @@
       "title": "The Legend of Zelda: Tears of the Kingdom Online",
       "url": "https://youtu.be/XbymS6mbg48?si=KFNXWmiYHKlPtGQs",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=KFNXWmiYHKlPtGQs&v=XbymS6mbg48&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7698,8 +7723,9 @@
       "title": "Unreal Redux",
       "url": "https://youtu.be/Pw8zyKdyQsQ?si=78Pc4S6ln60wqiDa",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=78Pc4S6ln60wqiDa&v=Pw8zyKdyQsQ&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -7972,7 +7998,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=a2cecd2800993a52326ab81f730a2cadc72869ea6abf521fa4f759b75be5641d&aud=forums.civfanatics.com&aid=5e10b05e71f590733e3264c632f0dc17",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=js&band=suspect&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=a95a43b0fe80f5518de619f45e29e3a28a44bd3e2be9a3d847f2b2b874d138f6&aud=forums.civfanatics.com&aid=e5fde029e4ca4a00ac1ba420abcc7fe9",
       "consecutive_failures": 0
     },
     {
@@ -8379,8 +8405,9 @@
       "title": "Final Fantasy 7 7th Heaven Mod",
       "url": "https://youtu.be/wNguRldtIqk?si=fNjXSMn9buolXYYc",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=fNjXSMn9buolXYYc&v=wNguRldtIqk&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -8397,8 +8424,9 @@
       "title": "Final Fantasy 7 Satsuki Yatoshi SYW Mod",
       "url": "https://youtu.be/4aaaDnCE82g?si=mAFFS_zu-alAn3pk",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=mAFFS_zu-alAn3pk&v=4aaaDnCE82g&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -8637,8 +8665,9 @@
       "title": "Mario Kart 64 - Amped Up",
       "url": "https://youtu.be/vvg20Gd58WA?si=-3Rx0-7ekPZct7n4",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=-3Rx0-7ekPZct7n4&v=vvg20Gd58WA&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -8726,9 +8755,8 @@
       "title": "NBA Jam Legends on Fire Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -8806,8 +8834,9 @@
       "title": "Persona 3 FES HD Overhaul Mod & Widescreen Patch",
       "url": "https://youtu.be/deFqMs1tBYo?si=suNlZLJ4J0aL0pU1",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=suNlZLJ4J0aL0pU1&v=deFqMs1tBYo&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -8925,7 +8954,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 27
+      "consecutive_failures": 28
     },
     {
       "id": 934,
@@ -9214,8 +9243,9 @@
       "title": "Starfield - Steam Deck Essentials Mod Install Guide",
       "url": "https://youtu.be/T5rQBbcV_AY?si=38PNEz8T3WE4RFtZ",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=38PNEz8T3WE4RFtZ&v=T5rQBbcV_AY&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -9260,8 +9290,9 @@
       "title": "Super Mario Sunshine - Super Mario Eclipse",
       "url": "https://youtu.be/8zABT16mGuY?si=WP1zK92GIvLqmFkL",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=WP1zK92GIvLqmFkL&v=8zABT16mGuY&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -9269,8 +9300,9 @@
       "title": "Super Mario 3D Land - Super Mario Expedition 2",
       "url": "https://youtu.be/Ko2ChgbARnU?si=xX_6YhMwIvBN6Lw4",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=xX_6YhMwIvBN6Lw4&v=Ko2ChgbARnU&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -9418,8 +9450,9 @@
       "title": "The Simpsons Hit & Run - Futurama Overhaul Mod",
       "url": "https://youtu.be/JKPz3PE7_4s?si=NJxOrfo5alaNzB9C",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=NJxOrfo5alaNzB9C&v=JKPz3PE7_4s&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -11372,8 +11405,9 @@
       "title": "Paper Mario 64",
       "url": "https://m.youtube.com/watch?v=fO0Hqhk7qxA",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?app=desktop&v=fO0Hqhk7qxA",
       "consecutive_failures": 0
     },
     {
@@ -11521,8 +11555,9 @@
       "title": "Vagrant Story on Duckstation",
       "url": "https://www.youtube.com/watch?v=ouLFjGqcgRQ&t=43s&ab_channel=IceBullet",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=ouLFjGqcgRQ&t=43s&ab_channel=IceBullet",
       "consecutive_failures": 0
     },
     {
@@ -12147,7 +12182,7 @@
       "url": "https://cdromance.org/ps2-iso/battle-stadium-d-o-n-jpn/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -12184,7 +12219,7 @@
       "url": "https://cdromance.org/ps2-iso/captain-tsubasa-jpn/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -12210,9 +12245,9 @@
       "title": "Cave Story Dokutsu Monogatari - PC",
       "url": "https://cdromance.org/windows/cave-story-dokutsu-monogatari-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1287,
@@ -12315,18 +12350,18 @@
       "title": "Digimon adventure- PSP",
       "url": "https://cdromance.org/psp/digi-adventure-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1300,
       "title": "Digimon World Re:Digitize - PlayStation Portable",
       "url": "https://cdromance.org/psp/digimon-world-redigitize-full-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1301,
@@ -12426,18 +12461,18 @@
       "title": "Farland Symphony - PC",
       "url": "https://cdromance.org/windows/farland-symphony-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1313,
       "title": "Final Fantasy Type-0 - PSP",
       "url": "https://cdromance.org/psp/final-fantasy-type-0-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1314,
@@ -12455,7 +12490,7 @@
       "url": "https://cdromance.org/gba-roms/fire-emblem-fuuin-no-tsurugi/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -12517,18 +12552,18 @@
       "title": "God Eater 2 - PSP",
       "url": "https://cdromance.org/psp/god-eater-2-jpn/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1326,
       "title": "Grand Knights History - PSP",
       "url": "https://cdromance.org/psp/grand-knights-history-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1327,
@@ -12637,9 +12672,9 @@
       "title": "Kidou Senshi Gundam: Gundam vs. Gundam NEXT PLUS - PSP",
       "url": "https://cdromance.org/psp/kidou-senshi-gundam-gundam-vs-gundam-next-plus-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1340,
@@ -12656,7 +12691,7 @@
       "url": "https://cdromance.org/ps2-iso/kingdom-hearts-ii-final-mix-2/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -12673,9 +12708,9 @@
       "title": "Kurohyou: Ryu ga Gotoku Shinshou - PSP",
       "url": "https://cdromance.org/psp/kurohyou-ryu-ga-gotoku-shinshou/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1344,
@@ -12745,9 +12780,9 @@
       "title": "Magna Carta: The Phantom of Avalanche - PC",
       "url": "https://cdromance.org/windows/magna-carta-the-phantom-of-avalanche-english-patched-windows/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1353,
@@ -12836,9 +12871,9 @@
       "title": "One Piece: Romance Dawn - PSP",
       "url": "https://cdromance.org/psp/romance-dawn-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1365,
@@ -13160,9 +13195,9 @@
       "title": "Sword Art Online: Infinity Moment - PSP",
       "url": "https://cdromance.org/psp/sao-infinity-moment-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1405,
@@ -13225,9 +13260,9 @@
       "title": "The Legend of Sword & Fairy - PC",
       "url": "https://cdromance.org/windows/the-legend-of-sword-and-fairy-english-patched-v3-3-windows-pc/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1414,
@@ -13254,7 +13289,7 @@
       "url": "https://cdromance.org/nds-roms/tomodachi-collection-english-patched/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -13262,18 +13297,18 @@
       "title": "Toukiden Kiwami - PSP",
       "url": "https://cdromance.org/psp/toukiden-kiwami-english-patched-v2/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1419,
       "title": "Tsukihime - PC",
       "url": "https://cdromance.org/windows/tsukihime-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1421,
@@ -13340,18 +13375,18 @@
       "title": "Yu-Gi-Oh! 5D's Tag Force 6 - PSP",
       "url": "https://cdromance.org/psp/yu-gi-oh-5ds-tag-force-6-english-patched-2/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1428,
       "title": "Yu-Gi-Oh! ARC-V Tag Force Special - PSP",
       "url": "https://cdromance.org/psp/yu-gi-oh-arc-v-tag-force-special-jpn-2/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1429,
@@ -13442,8 +13477,9 @@
       "title": "Emudeck beginners guide",
       "url": "https://www.youtube.com/watch?v=M1JwSQMINnU&ab_channel=MonroeWorld",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=M1JwSQMINnU&ab_channel=MonroeWorld",
       "consecutive_failures": 0
     },
     {
@@ -13489,8 +13525,9 @@
       "title": "How to patch a ROM",
       "url": "https://youtu.be/H6P7N4po1hM?si=V-_3Iyn9YvEOa0RG",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=V-_3Iyn9YvEOa0RG&v=H6P7N4po1hM&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -13508,8 +13545,9 @@
       "title": "How to install HD Textures for DuckStation",
       "url": "https://www.youtube.com/watch?v=ICc0mWPJdUM&ab_channel=WarpedPolygon",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=ICc0mWPJdUM&ab_channel=WarpedPolygon",
       "consecutive_failures": 0
     },
     {
@@ -13517,8 +13555,9 @@
       "title": "How to install HD Textures for PCSX2",
       "url": "https://www.youtube.com/watch?v=kGf5t5U5Ays&ab_channel=GeniusBug",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=kGf5t5U5Ays&ab_channel=GeniusBug",
       "consecutive_failures": 0
     },
     {
@@ -13526,8 +13565,9 @@
       "title": "How to install HD Textures for PPSSPP",
       "url": "https://www.youtube.com/watch?v=YvSXzC2c3pg&ab_channel=GeniusBug",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=YvSXzC2c3pg&ab_channel=GeniusBug",
       "consecutive_failures": 0
     },
     {
@@ -13565,8 +13605,9 @@
       "title": "Minecraft on Steam Deck",
       "url": "https://youtu.be/WRwJ8c4bTpA?si=NsC7lUIZ2JPLGWGQ",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=NsC7lUIZ2JPLGWGQ&v=WRwJ8c4bTpA&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -13604,7 +13645,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 27
+      "consecutive_failures": 28
     },
     {
       "id": 1468,
@@ -14670,18 +14711,18 @@
       "title": "CRW: Metal Jacket - PC98",
       "url": "https://cdromance.org/pc-98/crw-metal-jacket-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1578,
       "title": "Tuned Heart - PC98",
       "url": "https://cdromance.org/pc-98/tuned-heart-english-patched/",
       "hidden": false,
-      "status": "other",
-      "detail": "URLError",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 1579,
@@ -14708,7 +14749,7 @@
       "url": "https://cdromance.org/nds-roms/lode-runner-japan/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -14717,7 +14758,7 @@
       "url": "https://cdromance.org/snes-rom/rockman-forte-player-switching-multiple-equipment-hack/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -14726,7 +14767,7 @@
       "url": "https://cdromance.org/nds-roms/dragon-ball-kai-ultimate-butouden-jpn-english-patched/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -15180,7 +15221,7 @@
       "url": "https://cdromance.org/n64-roms/super-mario-64-remake-hack-n64/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -15237,8 +15278,9 @@
       "title": "Super Mario CD Super Mario 64 for the PS1",
       "url": "https://youtu.be/ogc-BAuQEGw?si=biUDDwz2ln5BR0qY",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=biUDDwz2ln5BR0qY&v=ogc-BAuQEGw&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -15325,8 +15367,9 @@
       "title": "Fallout The New West",
       "url": "https://youtu.be/KY5X0G_05h0?si=-1DM55tQkS3nQvB8",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=-1DM55tQkS3nQvB8&v=KY5X0G_05h0&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -18565,8 +18608,9 @@
       "title": "Monster Hunter Portable 3rd - PSP",
       "url": "https://www.youtube.com/watch?v=ucsGdmTjS2M",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=ucsGdmTjS2M",
       "consecutive_failures": 0
     },
     {
@@ -18652,8 +18696,9 @@
       "title": "Valkyria Chronicles 3 - PSP",
       "url": "https://www.youtube.com/watch?v=Q959IdFo6_g",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=Q959IdFo6_g",
       "consecutive_failures": 0
     },
     {
@@ -18661,8 +18706,9 @@
       "title": "Ninja Gaiden II Recompilation",
       "url": "https://youtu.be/iEXDW2_4ffw?si=9zKyApbJwq75U0R1",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=9zKyApbJwq75U0R1&v=iEXDW2_4ffw&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -18974,8 +19020,9 @@
       "title": "The Legend of Zelda: Ocarina Of Time Dreamcast Port",
       "url": "https://youtu.be/j2JTcDY9LI4?si=DJCiIOeU5CAbjZ4w",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=DJCiIOeU5CAbjZ4w&v=j2JTcDY9LI4&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -19031,8 +19078,9 @@
       "title": "Pokemon Aether White 2",
       "url": "https://youtu.be/SEDNNMH2DSk?si=IZFkSKdYzYMq0YhK",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=IZFkSKdYzYMq0YhK&v=SEDNNMH2DSk&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -19205,8 +19253,9 @@
       "title": "Paprium - Online Multiplayer",
       "url": "https://youtu.be/b4pVjv1u8Hk?si=8rvPGGjV_NCF1J44",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=8rvPGGjV_NCF1J44&v=b4pVjv1u8Hk&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -19498,8 +19547,9 @@
       "title": "Mortal Kombat 2 3DO Port",
       "url": "https://youtu.be/ciFdfj3D_NA?si=t3tWaHm_CB9mQGzY",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=t3tWaHm_CB9mQGzY&v=ciFdfj3D_NA&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -19993,8 +20043,9 @@
       "title": "Ridge Racer Collection with Online Play",
       "url": "https://youtu.be/eNtb8myubnI?si=iKcoY4kzkVWN64CK",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=iKcoY4kzkVWN64CK&v=eNtb8myubnI&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -20012,9 +20063,8 @@
       "title": "Seen in Liberty City - GTA 3 PSP Remake",
       "url": "https://barcode-studia.ru/mods/silc/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://barcode-studia.ru/mods/silc/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -20101,9 +20151,8 @@
       "title": "SDL Scavenger",
       "url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.macintoshrepository.org/77329-sdl-scavenger",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -20328,8 +20377,9 @@
       "title": "Tomb Raider N64 Port",
       "url": "https://youtu.be/SLqWCiGk1rs?si=2RgrAJ9aWYtcT2M-",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=2RgrAJ9aWYtcT2M-&v=SLqWCiGk1rs&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -20737,7 +20787,7 @@
       "url": "https://cdromance.org/ps2-iso/armored-trooper-votoms-english-patched/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -20746,7 +20796,7 @@
       "url": "https://cdromance.org/ps2-iso/racing-battle-c1-grand-prix-japan/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -20783,8 +20833,9 @@
       "title": "Castlevania - Sega Master System Port",
       "url": "https://youtu.be/OlHIwUhjvnM?si=OREN0jkPBm5OXQvC",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=OREN0jkPBm5OXQvC&v=OlHIwUhjvnM&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -21210,7 +21261,7 @@
       "url": "https://cdromance.org/ps2-iso/sega-ages-2500-series-vol-17-phantasy-star-generation2-english-patched/",
       "hidden": false,
       "status": "other",
-      "detail": "URLError",
+      "detail": "HTTP 410",
       "consecutive_failures": 0
     },
     {
@@ -22234,8 +22285,9 @@
       "title": "Smash Remix: Project Galleon",
       "url": "https://www.youtube.com/watch?v=LIvRGQ0mZB8",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?v=LIvRGQ0mZB8",
       "consecutive_failures": 0
     },
     {
@@ -24957,8 +25009,9 @@
       "title": "Metal Gear Solid Fan Remake",
       "url": "https://youtu.be/VgvFT43zUYI?si=y7qVvSA_xKXbZ4kd",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=y7qVvSA_xKXbZ4kd&v=VgvFT43zUYI&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -25581,8 +25634,9 @@
       "title": "Pokemon Blue VR",
       "url": "https://youtu.be/oY_3Uvyjy_k?si=xjiXCeK6Tx15zW20",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=xjiXCeK6Tx15zW20&v=oY_3Uvyjy_k&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -28031,8 +28085,9 @@
       "title": "Outer Wilds VR",
       "url": "https://youtu.be/-oWSzwWdz4g?si=IOYTOC2_HERmhbuN",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=IOYTOC2_HERmhbuN&v=-oWSzwWdz4g&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -28220,8 +28275,9 @@
       "title": "Silent Hill 3 VR",
       "url": "https://youtu.be/TqR4mNJ5AtQ?si=b1KuXnfHD-m9Pgyc",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=b1KuXnfHD-m9Pgyc&v=TqR4mNJ5AtQ&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -29076,9 +29132,8 @@
       "title": "Fatal Racing PC Port",
       "url": "https://github.com/FatalDecomp/ROLLER",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/FatalDecomp/ROLLER",
+      "status": "other",
+      "detail": "HTTP 500",
       "consecutive_failures": 0
     },
     {
@@ -30653,7 +30708,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 21
+      "consecutive_failures": 22
     },
     {
       "id": 3258,
@@ -33421,7 +33476,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://doubledragonorg.itch.io/doubledragons",
+      "final_url": "https://voicecommandgames.itch.io/doubledragons",
       "consecutive_failures": 0
     },
     {
@@ -34584,8 +34639,9 @@
       "title": "Generals Zero Hour for Android",
       "url": "https://youtu.be/ZrQS-bu1Ttc?si=Yh6uMopWS02YbT4T",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=Yh6uMopWS02YbT4T&v=ZrQS-bu1Ttc&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -35540,8 +35596,9 @@
       "title": "Ninja Gaiden Black PC Port",
       "url": "https://youtu.be/fVDmEi7dARo?si=N6ol-vG_N7istQ26",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.youtube.com/watch?si=N6ol-vG_N7istQ26&v=fVDmEi7dARo&feature=youtu.be",
       "consecutive_failures": 0
     },
     {
@@ -36597,9 +36654,9 @@
       "title": "The Legend of Zelda: Skyward Sword HD Recompilation",
       "url": "https://github.com/Apolinario-coder/SkyRecomp",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 3890,
@@ -38769,15 +38826,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 4141,
-      "title": "Gears of War 3 Azura Launcher",
-      "url": "https://github.com/Carolux97/Gears3-Azura",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 4
-    },
-    {
       "id": 4139,
       "title": "Monster Hunter Generations Ultimate",
       "url": "https://github.com/morerokk/MHGURecomp",
@@ -39162,9 +39210,9 @@
       "title": "Super Mario Maker 2 Recompilation 2",
       "url": "https://github.com/Apolinario-coder/MushroomMakerRecomp",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 4181,
@@ -40057,15 +40105,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 4273,
-      "title": "Burnout 3: Takedown Recompilation 3",
-      "url": "https://github.com/UwUCammie/Burn3",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
       "id": 4274,
       "title": "Mario Kart DS Recompilation",
       "url": "https://github.com/AlonsoTlol/DS-Kart-Recompiled",
@@ -40100,9 +40139,9 @@
       "title": "Recompa - Recompilations, decompilations and source ports that run without emulation",
       "url": "https://kalasyan.github.io/recompa/",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 4278,
@@ -41262,15 +41301,6 @@
       "consecutive_failures": 0
     },
     {
-      "id": 4399,
-      "title": "Pokémon Pokopia PC Port",
-      "url": "https://github.com/drakolordx7/pokopia-recomp",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 3
-    },
-    {
       "id": 4400,
       "title": "2 Ship 2 Harkinian - Graphics Overhaul Project",
       "url": "https://github.com/whitesun046/2ship2harkinian-Graphics-Overhaul-Project",
@@ -41465,10 +41495,9 @@
       "title": "Street Fighter Alpha 3 Max Recompilation ",
       "url": "https://github.com/theweathervane/sfa3max-decomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/theweathervane/sfa3max-decomp",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 4420,
@@ -41539,15 +41568,6 @@
       "detail": "HTTP 200",
       "final_url": "https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp",
       "consecutive_failures": 0
-    },
-    {
-      "id": 4428,
-      "title": "Banana Native - Switch 2 games running natively on Android",
-      "url": "https://github.com/moceure/BananaNative",
-      "hidden": false,
-      "status": "broken",
-      "detail": "HTTP 404",
-      "consecutive_failures": 5
     },
     {
       "id": 4429,
@@ -41941,7 +41961,7 @@
     },
     {
       "id": 4468,
-      "title": "Pokémon Colosseum Launcher",
+      "title": "Pokémon Colosseum and Pokémon XD: Gale of Darkness Launcher",
       "url": "https://github.com/chasem-dev/colosseum-launcher",
       "hidden": false,
       "status": "working",
@@ -42856,7 +42876,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://github.com/KnivesDevilish/SR-ZGS",
+      "final_url": "https://github.com/KnivesDevilish/SR-Source",
       "consecutive_failures": 0
     },
     {
@@ -42914,10 +42934,9 @@
       "title": "Mario Tennis Fever Recompilation ",
       "url": "https://github.com/kayochiaradia/mtf-recomp",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://github.com/kayochiaradia/mtf-recomp",
-      "consecutive_failures": 0
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
     },
     {
       "id": 4569,
@@ -43506,6 +43525,334 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/JaBoyAlex/mojo-ps2-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4628,
+      "title": "The Movies in Browser",
+      "url": "https://themovies.romanf.cc/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://themovies.romanf.cc/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4629,
+      "title": "Black Multiplayer in Browser",
+      "url": "https://ws.black.qorp.com.br/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://ws.black.qorp.com.br/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4631,
+      "title": "Pokémon Pinball: Ruby & Sapphire for Android ",
+      "url": "https://github.com/jonnisvibes/jvppbport",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/jonnisvibes/jvppbport",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4630,
+      "title": "Pokémon Pinball: Ruby & Sapphire Windows Port ",
+      "url": "https://github.com/jonnisvibes/jvppbport",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/jonnisvibes/jvppbport",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4632,
+      "title": "Rumble Roses XX Recompilation 2",
+      "url": "https://github.com/360recomper/RumbleRosesReX",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/360recomper/RumbleRosesReX",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4633,
+      "title": "God of War: Betrayal PC Port",
+      "url": "https://zeggoro.itch.io/god-of-war-betrayal-remastered",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://zeggoro.itch.io/god-of-war-betrayal-remastered",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4634,
+      "title": "Goldeneye 007 Online 32 Player Multiplayer in Browser",
+      "url": "https://play.ge32.net/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://play.ge32.net/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4635,
+      "title": "Syndicate Plus PC Port ",
+      "url": "https://github.com/Buyukcaglar/synd",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Buyukcaglar/synd",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4636,
+      "title": "Painter Mompie PC Port",
+      "url": "https://github.com/Tenome/Painter-Momopi-Decompilation",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Tenome/Painter-Momopi-Decompilation",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4637,
+      "title": "Mario Kart World Recompilation 2",
+      "url": "https://github.com/MIXIDtheSilly/kart-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/MIXIDtheSilly/kart-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4639,
+      "title": "SimFarm in Browser",
+      "url": "https://alissonkn.github.io/opensimfarm/play/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://alissonkn.github.io/opensimfarm/play/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4638,
+      "title": "SimFarm Reimplementation ",
+      "url": "https://alissonkn.github.io/opensimfarm/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://alissonkn.github.io/opensimfarm/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4640,
+      "title": "Excitebike: Bun Bun Mario Battle Recompilation ",
+      "url": "https://github.com/Tenome/Excitebike--Bun-Bun-Mario-Battle",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Tenome/Excitebike--Bun-Bun-Mario-Battle",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4641,
+      "title": "Robotron 64 Recompilation ",
+      "url": "https://github.com/MGZeroes/Robotron64Recompiled",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/MGZeroes/Robotron64Recompiled",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4642,
+      "title": "Wetrix N64 Recompilation ",
+      "url": "https://github.com/scottjco/Wetrix_Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/scottjco/Wetrix_Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4643,
+      "title": "Killer Instinct Gold PC Port",
+      "url": "https://github.com/geno55/kigold-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/geno55/kigold-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4644,
+      "title": "Star Fox Remake Recompilation ",
+      "url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/SerenityG4K/SpaceAnimalsRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4645,
+      "title": "City Shrouded in Shadow PC Port",
+      "url": "https://github.com/ioritree/kyoei_toshi_pc",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/ioritree/kyoei_toshi_pc",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4646,
+      "title": "NeverDead Recompilation ",
+      "url": "https://github.com/Katzert/Neverdeth",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Katzert/Neverdeth",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4647,
+      "title": "Hyrule Warriors: Age of Calamity Recompilation ",
+      "url": "https://github.com/Azzulin/EXCUUUUSE-ME-PRINCESS-",
+      "hidden": false,
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
+    },
+    {
+      "id": 4648,
+      "title": "Dead Nation PC Port ",
+      "url": "https://github.com/rcostanza/dead-nation-ps4-recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/rcostanza/dead-nation-ps4-recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4649,
+      "title": "WWE Legends of WrestleMania Recompilation ",
+      "url": "https://github.com/NikmanTheEvil/WWE-LoW-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/NikmanTheEvil/WWE-LoW-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4650,
+      "title": "Dead or Alive 2 Ultimate Recompilation 2",
+      "url": "https://github.com/Moonalesca/doa2u-re",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Moonalesca/doa2u-re",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4651,
+      "title": "Saints Row PC Port",
+      "url": "https://github.com/DivxPlays/stilwater-recompiled",
+      "hidden": false,
+      "status": "monitoring",
+      "detail": "HTTP 404 (awaiting next daily check)",
+      "consecutive_failures": 1
+    },
+    {
+      "id": 4652,
+      "title": "Astro Bot PC Port",
+      "url": "https://github.com/imnotsharingmyname/pcportastrobot",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/imnotsharingmyname/pcportastrobot",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4653,
+      "title": "Life with PlayStation PC Port",
+      "url": "https://github.com/kojimasfoxhound/life-around-us",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/kojimasfoxhound/life-around-us",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4654,
+      "title": "Hammer of the Gods PC Port",
+      "url": "https://nancygold.itch.io/hammer-of-the-gods-source-code",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://nancygold.itch.io/hammer-of-the-gods-source-code",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4655,
+      "title": "Street Fighter 3 Arcade Games - New Generation, 2nd Impact and 3rd Strike Recompilation ",
+      "url": "https://github.com/tmcleroy/sf3comp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/tmcleroy/sf3comp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4656,
+      "title": "Resident Evil Code: Veronica X HD Recompilation 2",
+      "url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4657,
+      "title": "Prototype MacOs Port",
+      "url": "https://github.com/Alyx-ML/Prototype-MacOS-Metal",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Alyx-ML/Prototype-MacOS-Metal",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4658,
+      "title": "Dynasty Warriors: Gundam 2 Recompilation ",
+      "url": "https://github.com/Adeelshah001/DWG2Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Adeelshah001/DWG2Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4659,
+      "title": "Crash Bandicoot: The Wrath of Cortex PC Port",
+      "url": "https://github.com/denzi-gh/crashwoc-nuworld",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/denzi-gh/crashwoc-nuworld",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4660,
+      "title": "Tony Hawk's Underground 2 Online",
+      "url": "https://thug2.net/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://thug2.net/",
       "consecutive_failures": 0
     },
     {
