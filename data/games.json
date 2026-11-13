@@ -62233,5 +62233,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4659-1015b8e26760ce57.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4660,
+    "title": "Tony Hawk's Underground 2 Online",
+    "category": "decompilations-recompilations",
+    "link": "https://thug2.net/",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Tony Hawk",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4660-f8ff8854cc882d3b.webp",
+    "date_added": "2026-11-13"
   }
 ]
