@@ -1121,5 +1121,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dead-or-alive-2-collection.webp"
+  },
+  {
+    "name": "Need for Speed: Hot Pursuit 2",
+    "slug": "need-for-speed-hot-pursuit-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/need-for-speed-hot-pursuit-2-collection.webp"
   }
 ]
