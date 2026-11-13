@@ -62199,5 +62199,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4657-4ce68e1d7282b75d.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4658,
+    "title": "Dynasty Warriors: Gundam 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Adeelshah001/DWG2Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "mech fighting",
+    "series": "Gundam",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4658-f1f9b75f63b206d5.webp",
+    "date_added": "2026-11-13"
   }
 ]
