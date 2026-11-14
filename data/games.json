@@ -62574,5 +62574,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4679-7b9d23a1a438d468.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4680,
+    "title": "Road Rash 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/gee.8ruhs/rr3",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Road Rash",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4680-3adfe3b560a516fd.webp",
+    "date_added": "2026-11-14"
   }
 ]
