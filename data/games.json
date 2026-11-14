@@ -62437,5 +62437,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4671-59c3cbe905b5e0a7.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4672,
+    "title": "Ratchet & Clank PS3 Series Launcher - Qwark's Awakening",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/undecuple/qwarks-awakening",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Ratchet & Clank",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4672-05f8a17368380e71.webp",
+    "date_added": "2026-11-14"
   }
 ]
