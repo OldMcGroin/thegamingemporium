@@ -62403,5 +62403,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4669-aec805f49999fb1a.webp",
     "date_added": "2026-11-13"
+  },
+  {
+    "id": 4670,
+    "title": "Far Cry Instincts Predator Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/bassobr/Far-Cry-Instincts-Predator-Recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Far Cry",
+    "collection": "far-cry-instincts-predator",
+    "ai_usage": "heavy",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4670-e600cfe6e3b7e7ea.webp",
+    "date_added": "2026-11-14"
   }
 ]
