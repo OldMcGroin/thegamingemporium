@@ -62625,5 +62625,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4682-60a9c2a93818aa78.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4683,
+    "title": "The Simpsons Arcade for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/cheviman/simpsons-port",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "The Simpsons",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4683-7daf73d516c6dbc1.webp",
+    "date_added": "2026-11-14"
   }
 ]
