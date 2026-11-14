@@ -62591,5 +62591,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4680-3adfe3b560a516fd.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4681,
+    "title": "The Simpsons Arcade PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/cheviman/simpsons-port",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "The Simpsons",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4681-8d2d29796ea77c7f.webp",
+    "date_added": "2026-11-14"
   }
 ]
