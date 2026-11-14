@@ -62608,5 +62608,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4681-8d2d29796ea77c7f.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4682,
+    "title": "The Simpsons Arcade Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/cheviman/simpsons-port",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "The Simpsons",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4682-60a9c2a93818aa78.webp",
+    "date_added": "2026-11-14"
   }
 ]
