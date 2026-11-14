@@ -1149,5 +1149,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/kirby-s-epic-yarn-collection.webp"
+  },
+  {
+    "name": "Pokemon Platinum",
+    "slug": "pokemon-platinum",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-platinum-collection.webp"
   }
 ]
