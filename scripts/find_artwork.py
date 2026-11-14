@@ -47,6 +47,44 @@ def github_images(repo_url):
         results.append({'url':url,'source_page':repo_url,'license':'Check project license / image rights','attribution':owner,'title':'Project README image','source':'GitHub project README'})
     return results[:10]
 
+
+def github_tree_images(repo_url):
+    m = re.match(r'https://github[.]com/([^/]+)/([^/#?]+)', repo_url)
+    if not m:
+        return []
+    owner, repo = m.groups()
+    api = f'https://api.github.com/repos/{owner}/{repo}'
+    info = json.loads(get(api))
+    branch = info['default_branch']
+    tree_url = api + '/git/trees/' + urllib.parse.quote(branch, safe='') + '?recursive=1'
+    tree = json.loads(get(tree_url))
+    results = []
+    for item in tree.get('tree', []):
+        if item.get('type') != 'blob':
+            continue
+        path = item['path']
+        low = path.lower()
+        if not low.endswith(('.png', '.jpg', '.jpeg', '.webp')):
+            continue
+        if any(x in low for x in ('icon', 'logo', 'badge', 'banner', 'button', 'sprite', 'texture', 'font', 'tile', 'asset/')):
+            continue
+        if not any(x in low for x in ('screenshot', 'gameplay', 'screen', 'preview', 'image', 'media', 'docs/')):
+            continue
+        url = 'https://raw.githubusercontent.com/' + owner + '/' + repo + '/' + urllib.parse.quote(branch, safe='') + '/' + urllib.parse.quote(path, safe='/')
+        results.append({
+            'url': url,
+            'source_page': repo_url,
+            'license': 'Check project license / image rights',
+            'attribution': owner,
+            'title': path,
+            'source': 'GitHub repository image'
+        })
+    results.sort(key=lambda x: (
+        not any(k in x['title'].lower() for k in ('gameplay', 'screenshot')),
+        len(x['title'])
+    ))
+    return results[:12]
+
 def render(data, dest):
     dest.mkdir(parents=True,exist_ok=True)
     report=[]
@@ -56,7 +94,10 @@ def render(data, dest):
         if 'Defender' in game:queries.insert(0,'Defender Atari ST Falcon gameplay')
         sources=[]
         try:sources+=github_images(e['link'])
+        except Exception as ex:print('README search:', type(ex).__name__, str(ex)[:160])
+        try:sources+=github_tree_images(e['link'])
         except Exception:pass
+        queries += [f'{game} screenshot', f'{game} video game']
         for q in queries:
             try:sources+=commons(q)
             except Exception:pass
