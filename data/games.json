@@ -62471,5 +62471,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4673-009d2aa51c5e8d55.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4674,
+    "title": "Alienation Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/saulob/alienation-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4674-9334dae5d51bd9cb.webp",
+    "date_added": "2026-11-14"
   }
 ]
