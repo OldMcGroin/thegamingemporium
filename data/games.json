@@ -62557,5 +62557,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4678-aefadcfc3d5a9b04.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4679,
+    "title": "Turok Evolution Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MarkPremier/EvolutionRecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Turok",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4679-7b9d23a1a438d468.webp",
+    "date_added": "2026-11-14"
   }
 ]
