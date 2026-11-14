@@ -1156,5 +1156,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-platinum-collection.webp"
+  },
+  {
+    "name": "Super Mario Bros. Wonder",
+    "slug": "super-mario-bros-wonder",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-mario-bros-wonder-collection.webp"
   }
 ]
