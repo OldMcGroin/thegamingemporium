@@ -1135,5 +1135,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/far-cry-instincts-predator-collection.webp"
+  },
+  {
+    "name": "Resistance 3",
+    "slug": "resistance-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/resistance-3-collection.webp"
   }
 ]
