@@ -1128,5 +1128,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/need-for-speed-hot-pursuit-2-collection.webp"
+  },
+  {
+    "name": "Far Cry Instincts Predator",
+    "slug": "far-cry-instincts-predator",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/far-cry-instincts-predator-collection.webp"
   }
 ]
