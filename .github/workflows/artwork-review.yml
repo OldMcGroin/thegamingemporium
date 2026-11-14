@@ -1,0 +1,22 @@
+name: Prepare bulk-import artwork review
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  artwork:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install 'Pillow>=11,<13'
+      - run: python scripts/find_artwork.py --input imports/arcade-batch-001.json --output artwork-review/arcade-batch-001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: arcade-batch-001-artwork-review
+          path: artwork-review/arcade-batch-001/
+          if-no-files-found: error
+          retention-days: 30
