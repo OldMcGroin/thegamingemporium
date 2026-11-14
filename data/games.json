@@ -62660,5 +62660,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4684-2395e03e51279fc4.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4685,
+    "title": "Game or Die VR Mods",
+    "category": "vr-ports",
+    "link": "https://gameordie.net/mods",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "top",
+    "hidden": false,
+    "image": "/Images/Games/manager-4685-08a875bc7ecaf45d.webp",
+    "date_added": "2026-11-14"
   }
 ]
