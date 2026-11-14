@@ -62489,5 +62489,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4674-9334dae5d51bd9cb.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4675,
+    "title": "Kirby's Epic Yarn Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RivierGrullon/kirby-epic-yarn-recomp",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "Platformer",
+    "genre2": "",
+    "series": "Kirby",
+    "collection": "kirby-s-epic-yarn",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4675-df55238fa6e33faa.webp",
+    "date_added": "2026-11-14"
   }
 ]
