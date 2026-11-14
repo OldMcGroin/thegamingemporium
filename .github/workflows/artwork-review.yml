@@ -13,7 +13,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install 'Pillow>=11,<13'
-      - run: python scripts/find_artwork.py --input imports/arcade-batch-001.json --output artwork-review/arcade-batch-001
+      - env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python scripts/find_artwork.py --input imports/arcade-batch-001.json --output artwork-review/arcade-batch-001
       - uses: actions/upload-artifact@v4
         with:
           name: arcade-batch-001-artwork-review

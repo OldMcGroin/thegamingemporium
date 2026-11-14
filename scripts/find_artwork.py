@@ -85,6 +85,75 @@ def github_tree_images(repo_url):
     ))
     return results[:12]
 
+
+def brave_images(game, query):
+    key = os.environ.get('BRAVE_API_KEY')
+    if not key:
+        raise RuntimeError('BRAVE_API_KEY secret is missing')
+
+    params = urllib.parse.urlencode({
+        'q': query,
+        'count': 40,
+        'safesearch': 'strict',
+        'spellcheck': 'false'
+    })
+
+    req = urllib.request.Request(
+        'https://api.search.brave.com/res/v1/images/search?' + params,
+        headers={
+            'Accept': 'application/json',
+            'X-Subscription-Token': key,
+            'User-Agent': UA
+        }
+    )
+
+    with urllib.request.urlopen(req, timeout=30) as response:
+        data = json.load(response)
+
+    words = re.findall(r'[a-z0-9]+', game.lower())
+    results = []
+
+    for item in data.get('results', []):
+        title = item.get('title') or ''
+        page = item.get('url') or ''
+        image_url = (item.get('properties') or {}).get('url')
+        thumbnail = (item.get('thumbnail') or {}).get('src')
+
+        searchable = urllib.parse.unquote(title + ' ' + page).lower()
+        tokens = set(re.findall(r'[a-z0-9]+', searchable))
+
+        if not all(word in tokens for word in words):
+            continue
+
+        if any(x in searchable for x in (
+            'painting', 'butterfly', 'wallpaper',
+            'stock photo', 'fan art', 'fanart'
+        )):
+            continue
+
+        if game.lower() == 'defender':
+            if not any(x in searchable for x in (
+                'arcade', 'atari', 'falcon', 'gameplay',
+                'video game', 'videogame', 'screenshot'
+            )):
+                continue
+
+        if not image_url and not thumbnail:
+            continue
+
+        results.append({
+            'url': image_url or thumbnail,
+            'fallback_url': thumbnail,
+            'source_page': page,
+            'license': 'Rights not verified — review before publishing',
+            'attribution': item.get('source') or 'Unknown',
+            'title': title,
+            'source': 'Brave Image Search'
+        })
+
+    print(f'{game}: {len(results)} relevant search results')
+    return results[:12]
+
 def render(data, dest):
     dest.mkdir(parents=True,exist_ok=True)
     report=[]
@@ -98,15 +167,25 @@ def render(data, dest):
         try:sources+=github_tree_images(e['link'])
         except Exception:pass
         queries += [f'{game} screenshot', f'{game} video game']
-        for q in queries:
-            try:sources+=commons(q)
-            except Exception:pass
+        try:
+            sources += brave_images(game, queries[0])
+        except Exception as ex:
+            raise RuntimeError(
+                f'Brave image search failed for {game}: '
+                f'{type(ex).__name__}: {ex}'
+            ) from ex
         saved=[]; seen=set()
         for s in sources:
             if not s.get('url') or s['url'] in seen:continue
             seen.add(s['url'])
             try:
-                im=Image.open(io.BytesIO(get(s['url'],'image/*')))
+                try:
+                    raw = get(s['url'], 'image/*')
+                except Exception:
+                    if not s.get('fallback_url'):
+                        continue
+                    raw = get(s['fallback_url'], 'image/*')
+                im=Image.open(io.BytesIO(raw))
                 im.load()
                 if im.width<240 or im.height<180:continue
                 im=ImageOps.exif_transpose(im).convert('RGB')
