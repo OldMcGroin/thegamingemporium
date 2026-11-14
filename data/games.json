@@ -62454,5 +62454,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4672-05f8a17368380e71.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4673,
+    "title": "Secret of the Stars PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rages4calm/secret-of-the-stars-companion",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4673-009d2aa51c5e8d55.webp",
+    "date_added": "2026-11-14"
   }
 ]
