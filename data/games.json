@@ -62523,5 +62523,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4676-9dfb170e9253f1e4.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4677,
+    "title": "Aliens versus Predator: Extinction PC port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Adolini1715/AVP-Extinction-Port",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Alien",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4677-8d26be01c7bdba70.webp",
+    "date_added": "2026-11-14"
   }
 ]
