@@ -1142,5 +1142,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/resistance-3-collection.webp"
+  },
+  {
+    "name": "Kirby's Epic Yarn",
+    "slug": "kirby-s-epic-yarn",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/kirby-s-epic-yarn-collection.webp"
   }
 ]
