@@ -62694,5 +62694,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4686-098d6ff0039a06f3.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4687,
+    "title": "Dengeki Bunko: Fighting Climax Ignition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vxz-dev/DBFCI-Recompilation",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4687-a0b9670df67cb1c5.webp",
+    "date_added": "2026-11-14"
   }
 ]
