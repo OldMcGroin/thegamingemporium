@@ -62643,5 +62643,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4683-7daf73d516c6dbc1.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4684,
+    "title": "Pokemon Platinum PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Royal2-4/Lake-Trio",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "pokemon-platinum",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4684-2395e03e51279fc4.webp",
+    "date_added": "2026-11-14"
   }
 ]
