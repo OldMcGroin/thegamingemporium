@@ -62420,5 +62420,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4670-e600cfe6e3b7e7ea.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4671,
+    "title": "Resistance 3 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n0madic/Resistance3-recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Resistance Fall of Man",
+    "collection": "resistance-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4671-59c3cbe905b5e0a7.webp",
+    "date_added": "2026-11-14"
   }
 ]
