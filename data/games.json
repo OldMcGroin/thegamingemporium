@@ -62795,5 +62795,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4694-551720cd733edb82.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4695,
+    "title": "Ratchet & Clank 2 Going Commando Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/AsobiCodes/rac-rs2",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "Ratchet & Clank",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4695-ec2fb22a88451f55.webp",
+    "date_added": "2026-11-15"
   }
 ]
