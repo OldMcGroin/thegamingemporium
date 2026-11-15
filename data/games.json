@@ -52225,12 +52225,14 @@
     "platform": "Wii",
     "genre1": "fighting",
     "genre2": "",
-    "collection": "",
+    "collection": "super-smash-bros-brawl",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4042-e5f2c11fff672210.webp",
-    "date_added": "2026-10-22"
+    "date_added": "2026-10-22",
+    "series": "Super Mario",
+    "show_in_recent": true
   },
   {
     "id": 4043,
