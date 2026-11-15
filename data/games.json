@@ -53542,12 +53542,14 @@
     "platform": "Nintendo Switch",
     "genre1": "rpg",
     "genre2": "adventure",
-    "collection": "",
+    "collection": "the-legend-of-zelda-echoes-of-wisdom",
     "ai_usage": "heavy",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4128-6e9cab5f87a7369d.webp",
-    "date_added": "2026-10-25"
+    "date_added": "2026-10-25",
+    "series": "The Legend of Zelda",
+    "show_in_recent": true
   },
   {
     "id": 4127,
