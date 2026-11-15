@@ -63166,5 +63166,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4714-b1cd03898b6399b8.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4715,
+    "title": "F-Zero Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RetroPortingToolKit/F-ZeroForever",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "F-Zero",
+    "collection": "f-zero",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4715-f6e02eb161730cf9.webp",
+    "date_added": "2026-11-15"
   }
 ]
