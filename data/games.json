@@ -62887,5 +62887,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4699-745312073345290a.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4700,
+    "title": "Mobile Suit Gundam Battle Operation Code Fairy Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rhobiusvoid/NoisyFairy-GBOCF-PS4RT-Windows",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "mech-simulator",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4700-9ef0a9b6a93938a6.webp",
+    "date_added": "2026-11-15"
   }
 ]
