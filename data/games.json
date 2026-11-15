@@ -63073,5 +63073,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4709-fcfb5450d366039a.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4710,
+    "title": "The Godfather: The Don's Edition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/whompay/GodfatherReborn",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "The Godfather",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4710-df001e59b7a1ca7a.webp",
+    "date_added": "2026-11-15"
   }
 ]
