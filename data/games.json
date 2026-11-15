@@ -57384,12 +57384,13 @@
     "genre1": "platformer",
     "genre2": "adventure",
     "series": "Super Mario",
-    "collection": "",
+    "collection": "super-mario-odyssey",
     "ai_usage": "",
     "weight": "",
     "hidden": true,
     "image": "/Images/Games/manager-4372-292823d2c8b35e61.webp",
-    "date_added": "2026-11-02"
+    "date_added": "2026-11-02",
+    "show_in_recent": true
   },
   {
     "id": 4373,
