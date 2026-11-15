@@ -63035,5 +63035,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4707-e720f48e175b5d95.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4708,
+    "title": "MLB The Show 26 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sam110411/mlbts-native",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4708-71c8a699cc4fa1de.webp",
+    "date_added": "2026-11-15"
   }
 ]
