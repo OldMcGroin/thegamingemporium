@@ -1163,5 +1163,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-mario-bros-wonder-collection.webp"
+  },
+  {
+    "name": "Sonic the Hedgehog 06",
+    "slug": "sonic-the-hedgehog-06",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/sonic-the-hedgehog-06-collection.webp"
   }
 ]
