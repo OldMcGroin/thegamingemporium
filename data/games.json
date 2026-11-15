@@ -61542,7 +61542,7 @@
   },
   {
     "id": 4621,
-    "title": "Super Mario Odyssey PC Port ",
+    "title": "Super Mario Odyssey PC Port 2",
     "category": "decompilations-recompilations",
     "link": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
     "video_link": "",
@@ -61550,12 +61550,13 @@
     "genre1": "platformer",
     "genre2": "",
     "series": "Super Mario",
-    "collection": "",
+    "collection": "super-mario-odyssey",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4621-19552b97b7b2366f.webp",
-    "date_added": "2026-11-12"
+    "date_added": "2026-11-12",
+    "show_in_recent": true
   },
   {
     "id": 4622,
