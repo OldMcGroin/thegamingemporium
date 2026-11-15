@@ -56470,12 +56470,14 @@
     "platform": "PlayStation",
     "genre1": "rpg",
     "genre2": "action",
-    "collection": "",
+    "collection": "vagrant-story",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4314-7144369b302992e6.webp",
-    "date_added": "2026-10-31"
+    "date_added": "2026-10-31",
+    "series": "",
+    "show_in_recent": true
   },
   {
     "id": 4315,
