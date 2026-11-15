@@ -63328,5 +63328,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4723-52c4de6d65f4f473.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4725,
+    "title": "Shadow the Hedgehog PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FoxWorkshop/ShadowRecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "platformer",
+    "genre2": "third-person-shooter",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4725-7d2ea220f2c69ef4.webp",
+    "date_added": "2026-11-15"
   }
 ]
