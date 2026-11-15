@@ -63129,5 +63129,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4712-176a88cf721d62f3.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4713,
+    "title": "Dead Space: Sabotage PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/daniyalshakeel5/Dead-Space-Mobile-PC-port",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Dead Space",
+    "collection": "dead-space-mobile",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4713-af0280298c4d82f0.webp",
+    "date_added": "2026-11-15"
   }
 ]
