@@ -63292,5 +63292,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4721-3b9d89088935ec7d.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4722,
+    "title": "Breath of Fire 4 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/plaught-armor/bof4-recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Breath of Fire",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4722-ad7032de71572226.webp",
+    "date_added": "2026-11-15"
   }
 ]
