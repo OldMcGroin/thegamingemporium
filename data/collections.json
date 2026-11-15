@@ -1170,5 +1170,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/sonic-the-hedgehog-06-collection.webp"
+  },
+  {
+    "name": "Stunt Race FX",
+    "slug": "stunt-race-fx",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/stunt-race-fx-collection.webp"
   }
 ]
