@@ -63256,5 +63256,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4719-6386bc532c479a23.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4720,
+    "title": "Everybody's Tennis PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FIZL0/opentennis",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4720-3f09a3427aa755c6.webp",
+    "date_added": "2026-11-15"
   }
 ]
