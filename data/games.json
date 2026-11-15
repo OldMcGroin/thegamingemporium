@@ -62849,5 +62849,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4697-2644b5b891e3794a.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4698,
+    "title": "Stunt Race FX PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jeff-strutb/stuntracefx",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "stunt-race-fx",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4698-59e4e892bd5bc54a.webp",
+    "date_added": "2026-11-15"
   }
 ]
