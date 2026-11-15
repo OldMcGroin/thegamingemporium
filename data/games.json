@@ -63274,5 +63274,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4720-3f09a3427aa755c6.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4721,
+    "title": "Everybody's Tennis in Browser ",
+    "category": "browser-based",
+    "link": "https://opentennis.dev/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4721-3b9d89088935ec7d.webp",
+    "date_added": "2026-11-15"
   }
 ]
