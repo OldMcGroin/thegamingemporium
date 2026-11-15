@@ -62724,5 +62724,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4690-fe0044fd6e00da62.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4691,
+    "title": "Sonic the Hedgehog 06 - Marathon Recompiled",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sonicnext-dev/MarathonRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "Sonic the Hedgehog",
+    "collection": "sonic-the-hedgehog-06",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4691-e9859924c3d116e3.webp",
+    "date_added": "2026-11-15"
   }
 ]
