@@ -62741,5 +62741,23 @@
     "hidden": false,
     "image": "/Images/Games/manager-4691-e9859924c3d116e3.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4692,
+    "title": "New Pokémon Snap Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/finalpantasy/new-poke-snap-switch-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "photography",
+    "genre2": "",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4692-fa9c30f205350a49.webp",
+    "date_added": "2026-11-15"
   }
 ]
