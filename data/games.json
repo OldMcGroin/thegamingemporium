@@ -63184,5 +63184,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4715-f6e02eb161730cf9.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4716,
+    "title": "Harbour - PC Port Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/goodthanksdev/harbour",
+    "video_link": "",
+    "platform": "Multiple Platforms",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4716-f8fa443277f4250d.webp",
+    "date_added": "2026-11-15"
   }
 ]
