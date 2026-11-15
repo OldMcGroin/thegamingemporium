@@ -63202,5 +63202,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4716-f8fa443277f4250d.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4717,
+    "title": "Kingdoms of Amalur: Re-Reckoning for Android",
+    "category": "android-ports",
+    "link": "https://github.com/Mokomis/open-amalur-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4717-bd73df23761519e6.webp",
+    "date_added": "2026-11-15"
   }
 ]
