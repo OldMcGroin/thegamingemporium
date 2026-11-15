@@ -62719,5 +62719,22 @@
     "hidden": false,
     "image": "/Images/Games/manager-4689-307eaa803e84742b.webp",
     "date_added": "2026-11-14"
+  },
+  {
+    "id": 4690,
+    "title": "Fighters Megamix Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tmcleroy/fighters-megamix-recomp",
+    "video_link": "",
+    "platform": "Sega Saturn",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "image": "/Images/Games/manager-4690-fe0044fd6e00da62.webp",
+    "date_added": "2026-11-15"
   }
 ]
