@@ -62286,12 +62286,13 @@
     "genre1": "survival-horror",
     "genre2": "",
     "series": "Dead Space",
-    "collection": "",
+    "collection": "dead-space-mobile",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4664-7c5c66c15a4cf56b.webp",
-    "date_added": "2026-11-13"
+    "date_added": "2026-11-13",
+    "show_in_recent": true
   },
   {
     "id": 4666,
