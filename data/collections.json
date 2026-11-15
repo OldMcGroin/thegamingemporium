@@ -1191,5 +1191,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/super-mario-odyssey-collection.webp"
+  },
+  {
+    "name": "Super Smash Bros. Brawl",
+    "slug": "super-smash-bros-brawl",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/super-smash-bros-brawl-collection.webp"
   }
 ]
