@@ -62979,5 +62979,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4704-d78d77f8ec75b6ee.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4705,
+    "title": "Marvel Ultimate Alliance 3: The Black Order Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/rolandhazoto/hua3",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4705-7fe325f7a0d59d5c.webp",
+    "date_added": "2026-11-15"
   }
 ]
