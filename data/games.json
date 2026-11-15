@@ -63346,5 +63346,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4725-7d2ea220f2c69ef4.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4726,
+    "title": "Splatoon 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CyriacFR/Kalamar",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4726-79f51d60ee212bcc.webp",
+    "date_added": "2026-11-15"
   }
 ]
