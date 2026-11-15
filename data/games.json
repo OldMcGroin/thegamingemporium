@@ -63017,5 +63017,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4706-2bb64a8a927d25f2.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4707,
+    "title": "Harvest Moon: Magical Melody Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RodoLy/HMMMGC",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "farming-simulator",
+    "genre2": "",
+    "series": "Harvest Moon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4707-e720f48e175b5d95.webp",
+    "date_added": "2026-11-15"
   }
 ]
