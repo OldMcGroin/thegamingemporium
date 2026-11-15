@@ -63238,5 +63238,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4718-0ae87f683df57c3c.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4719,
+    "title": "Otogi: Myth of Demons Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Guuzzeji/otogi-xunchain",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4719-6386bc532c479a23.webp",
+    "date_added": "2026-11-15"
   }
 ]
