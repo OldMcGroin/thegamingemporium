@@ -62777,5 +62777,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4693-9d62b90ef8106fb1.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4694,
+    "title": "Road Rash: Jailbreak Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Hotwire114/jailbreak-recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "Road Rash",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4694-551720cd733edb82.webp",
+    "date_added": "2026-11-15"
   }
 ]
