@@ -63400,5 +63400,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4728-7eae7cec898ddd2f.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4729,
+    "title": "Guardian Heroes PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/trev82usa/Guardians-of-Heroes-static-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "beat-em-up",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4729-f142232cfbfabf89.webp",
+    "date_added": "2026-11-15"
   }
 ]
