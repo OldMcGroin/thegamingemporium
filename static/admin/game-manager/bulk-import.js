@@ -71,8 +71,10 @@ stage.onclick=async()=>{
   const latest=await latestPublished();
   prior=localStorage.getItem(key);
   const parsed=JSON.parse(prior||'{}');if(parsed.games&&!Array.isArray(parsed.games))throw Error('Existing drafts have unexpected structure');
-  const collision=games.find(g=>latest.some(pub=>Number(pub.id)===Number(g.id)&&norm(pub.link)!==norm(g.link)));
-  if(collision)throw Error('Existing local draft ID '+collision.id+' conflicts with latest GitHub catalogue. Export and repair drafts before importing.');
+  // The embedded Game Manager baseline is older than the live catalogue.
+  // Do not treat its unchanged records as conflicting *drafts*. Reserve every
+  // existing ID below, so new records cannot overwrite either catalogue.
+  // Conflicting older drafts must be addressed at publication time separately.
   const existing=[...latest,...allRecords()],used=new Set(existing.map(g=>Number(g.id)).filter(Number.isSafeInteger)),links=new Set(existing.map(g=>norm(g.link)));
   let next=Math.max(0,...used)+1;
   for(const {e,file} of selected){
@@ -83,7 +85,7 @@ stage.onclick=async()=>{
    if(file){record.image=await window.tgeSaveBulkImageDraft(file,id);images.push(record.image)}
    games.unshift(record);added.push(record);
   }
-  persistDrafts();
+  if(!persistDrafts())throw Error('Could not persist the imported drafts.');
   const saved=JSON.parse(localStorage.getItem(key)||'{}');
   if(added.some(g=>!(saved.games||[]).some(x=>Number(x.id)===g.id&&x.link===g.link&&x.image===g.image)))throw Error('Saved drafts could not be verified');
   refreshOptions();render();
