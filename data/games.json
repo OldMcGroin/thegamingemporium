@@ -62923,5 +62923,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4701-487d25577e4f9cd2.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4702,
+    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation 6",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SuperSenad/Ultra-Instinct-Tears",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4702-3d11aac5223790f3.webp",
+    "date_added": "2026-11-15"
   }
 ]
