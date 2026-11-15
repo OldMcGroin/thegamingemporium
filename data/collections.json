@@ -1177,5 +1177,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/stunt-race-fx-collection.webp"
+  },
+  {
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "slug": "the-legend-of-zelda-echoes-of-wisdom",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/the-legend-of-zelda-echoes-of-wisdom-collection.webp"
   }
 ]
