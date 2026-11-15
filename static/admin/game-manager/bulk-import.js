@@ -4,15 +4,18 @@ const $=id=>document.getElementById(id);
 const key='tge_manager_stage1_drafts';
 const norm=value=>{try{const u=new URL(value);return u.hostname.toLowerCase().replace(/^www\./,'')+u.pathname.replace(/\/+$/,'').toLowerCase()}catch{return String(value||'').trim().toLowerCase()}};
 // Read the latest published baseline from GitHub main, never from the potentially stale preview.
-const remoteURL='https://raw.githubusercontent.com/OldMcGroin/thegamingemporium/main/static/admin/game-manager/index.html';
+// Always read the authoritative published data; the static Manager's embedded baseline
+// can lag behind data/games.json by hundreds of records.
+const remoteURL='https://raw.githubusercontent.com/OldMcGroin/thegamingemporium/main/data/games.json';
 async function latestPublished(){
  const response=await fetch(remoteURL+'?t='+Date.now(),{cache:'no-store'});
  if(!response.ok)throw Error('GitHub catalogue check failed (HTTP '+response.status+'). Import blocked.');
- const html=await response.text();
- const match=html.match(/<script>const baseline=(\[[\s\S]*?\]);const baselineCollections=/);
- if(!match)throw Error('Cannot identify latest published game catalogue. Import blocked.');
- const records=JSON.parse(match[1]);
- if(!Array.isArray(records)||records.length<1000||records.some(g=>!Number.isSafeInteger(Number(g.id))))throw Error('Latest catalogue is invalid. Import blocked.');
+ const records=await response.json();
+ if(!Array.isArray(records)||records.length<1000||
+    records.some(g=>!g||!Number.isSafeInteger(g.id)||g.id<1||typeof g.link!=='string'))
+   throw Error('Latest catalogue is invalid. Import blocked.');
+ const ids=new Set(records.map(g=>g.id));
+ if(ids.size!==records.length)throw Error('Published catalogue has duplicate IDs. Import blocked.');
  return records;
 }
 const bar=document.querySelector('main.wrap .tabs');
