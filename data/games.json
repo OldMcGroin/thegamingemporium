@@ -63053,5 +63053,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4708-71c8a699cc4fa1de.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4709,
+    "title": "Super Smash Bros. Brawl Static Recompilation with Project+ and REX Built In",
+    "category": "decompilations-recompilations",
+    "link": "https://git.8gramlabs.com/8gramlabs/Project-Nexus",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "super-smash-bros-brawl",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4709-fcfb5450d366039a.webp",
+    "date_added": "2026-11-15"
   }
 ]
