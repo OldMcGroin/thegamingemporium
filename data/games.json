@@ -62869,5 +62869,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4698-59e4e892bd5bc54a.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4699,
+    "title": "Conan Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zonehammer/conan-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4699-745312073345290a.webp",
+    "date_added": "2026-11-15"
   }
 ]
