@@ -62831,5 +62831,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4696-8d6dd4b690cab2b0.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4697,
+    "title": "Super Monkey Ball 2 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/girlyoulookthebest/smb2-decomp",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "platformer",
+    "genre2": "puzzle",
+    "series": "Super Monkey Ball",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4697-2644b5b891e3794a.webp",
+    "date_added": "2026-11-15"
   }
 ]
