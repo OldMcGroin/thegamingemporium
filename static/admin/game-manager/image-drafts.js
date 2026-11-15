@@ -90,6 +90,16 @@ async function convert(file){
  return dataURL.split(',')[1];
 }
 window.tgeImageDrafts={previewDataURL:async file=>blobDataURL(await convertBlob(file))};
+// Bulk-import support: preserve the existing IndexedDB image draft format.
+window.tgeSaveBulkImageDraft=async (file,gameId)=>{
+ if(!Number.isSafeInteger(gameId)||gameId<1)throw Error('Invalid game ID');
+ validate(file);
+ const base64=await convert(file);
+ const randomPart=[...crypto.getRandomValues(new Uint8Array(8))].map(x=>x.toString(16).padStart(2,'0')).join('');
+ const path='/Images/Games/manager-'+gameId+'-'+randomPart+'.webp';
+ await put(path,base64);
+ return path;
+};
 function random(){return [...crypto.getRandomValues(new Uint8Array(8))].map(x=>x.toString(16).padStart(2,'0')).join('')}
 const originalSave=window.saveGame;
 window.saveGame=async function(){

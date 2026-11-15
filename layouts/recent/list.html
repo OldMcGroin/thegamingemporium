@@ -13,7 +13,7 @@
 */}}
 {{ $enriched := slice }}
 {{ range $i, $g := $visibleGames }}
-  {{ if and (isset $g "date_added") (ne $g.date_added "") }}
+  {{ if and (or (not (isset $g "show_in_recent")) (ne (index $g "show_in_recent") false)) (isset $g "date_added") (ne $g.date_added "") }}
     {{ $k := printf "%s-%09d" $g.date_added $i }}
     {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
   {{ end }}
@@ -73,9 +73,9 @@
 {{ if not hugo.IsServer }}
   {{ $visibleGames = where $visibleGames "hidden" "ne" true }}
 {{ end }}
-  {{ $enriched := slice }}
+    {{ $enriched := slice }}
   {{ range $i, $g := $visibleGames }}
-    {{ if and (isset $g "date_added") (ne $g.date_added "") }}
+    {{ if and (or (not (isset $g "show_in_recent")) (ne (index $g "show_in_recent") false)) (isset $g "date_added") (ne $g.date_added "") }}
       {{ $k := printf "%s-%09d" $g.date_added $i }}
       {{ $enriched = $enriched | append (dict "k" $k "g" $g) }}
     {{ end }}

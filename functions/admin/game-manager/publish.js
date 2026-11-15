@@ -83,6 +83,7 @@ function validate(type,r){
   if(r.ai_usage&&!['none','light','heavy','unknown'].includes(r.ai_usage))return 'Invalid AI usage';
   if(r.weight!==undefined&&r.weight!==''&&r.weight!==0&&r.weight!=='top'&&!(Number.isSafeInteger(r.weight)&&r.weight>=0))return 'Invalid weight';
   if(r.hidden!==undefined&&typeof r.hidden!=='boolean')return 'Invalid hidden flag';
+  if(r.show_in_recent!==undefined&&typeof r.show_in_recent!=='boolean')return 'Invalid Recent Additions visibility flag';
  }else{
   if(typeof r.name!=='string'||!r.name.trim()||r.name.length>250)return 'Invalid collection name';
   if(typeof r.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150)return 'Invalid collection slug';
