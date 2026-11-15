@@ -1205,5 +1205,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/vagrant-story-collection.webp"
+  },
+  {
+    "name": "Dead Space Mobile",
+    "slug": "dead-space-mobile",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/dead-space-mobile-collection.webp"
   }
 ]
