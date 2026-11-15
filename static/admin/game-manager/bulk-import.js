@@ -23,12 +23,24 @@ if(!bar)return;
 const button=document.createElement('button');button.type='button';button.textContent='📥 Bulk Import Games';button.style.margin='10px 8px 10px 0';
 bar.insertAdjacentElement('afterend',button);
 const dlg=document.createElement('dialog');dlg.style.cssText='width:min(92vw,800px);max-height:85vh;overflow:auto;background:#162235;color:#fff;border:1px solid #64748b;border-radius:12px;padding:20px';
-dlg.innerHTML=`<h2>Bulk Import Games</h2><p>Import a JSON batch, optionally attach artwork, and review before saving local drafts. Nothing is published.</p><p><label>Batch JSON <input id="tgeBulkJson" type="file" accept=".json,application/json"></label></p><p><label>Artwork files (optional) <input id="tgeBulkImages" type="file" accept="image/png,image/jpeg,image/webp" multiple></label></p><p style="font-size:13px">For automatic artwork matching, use an <code>image</code> filename in each JSON entry, or a filename containing the game title.</p><p><label style="display:flex;align-items:center;gap:8px"><input id="tgeBulkShowRecent" type="checkbox" style="width:auto"> Show imported games in Recent Additions</label><small>Off by default. Imported games will still appear in categories, search, and other applicable sections.</small></p><div id="tgeBulkStatus" role="status" style="white-space:pre-wrap;margin:12px 0"></div><div id="tgeBulkList" style="max-height:38vh;overflow:auto"></div><p><button id="tgeBulkStage" type="button" disabled>Save selected as local drafts</button> <button id="tgeBulkClose" type="button">Close</button></p>`;
+dlg.innerHTML=`<h2>Bulk Import Games</h2><p>Import a JSON batch, optionally attach artwork, and review before saving local drafts. Nothing is published.</p><p><label>Batch JSON <input id="tgeBulkJson" type="file" accept=".json,application/json"></label></p><p><label>Add artwork files (optional) <input id="tgeBulkImages" type="file" accept="image/png,image/jpeg,image/webp" multiple></label></p><p style="font-size:13px"><span id="tgeBulkArtworkCount">0 artwork files selected</span> <button id="tgeBulkClearImages" type="button">Clear artwork</button><br><small>You can choose artwork several times; each selection adds to the previous ones.</small></p><p style="font-size:13px">For automatic artwork matching, use an <code>image</code> filename in each JSON entry, or a filename containing the game title.</p><p><label style="display:flex;align-items:center;gap:8px"><input id="tgeBulkShowRecent" type="checkbox" style="width:auto"> Show imported games in Recent Additions</label><small>Off by default. Imported games will still appear in categories, search, and other applicable sections.</small></p><div id="tgeBulkStatus" role="status" style="white-space:pre-wrap;margin:12px 0"></div><div id="tgeBulkList" style="max-height:38vh;overflow:auto"></div><p><button id="tgeBulkStage" type="button" disabled>Save selected as local drafts</button> <button id="tgeBulkClose" type="button">Close</button></p>`;
 document.body.append(dlg);
 const status=$('tgeBulkStatus'),list=$('tgeBulkList'),stage=$('tgeBulkStage');let candidates=[],verifiedCatalogue=null;
+// Input[type=file] replaces earlier selections; retain File objects across chooser visits.
+const artwork=new Map();
+function updateArtworkCount(){const files=[...artwork.values()];$('tgeBulkArtworkCount').textContent=files.length+' artwork file'+(files.length===1?'':'s')+' selected'+(files.length?' ('+files.map(f=>f.name).join(', ')+')':'');}
 const filekey=s=>String(s||'').toLowerCase().replace(/\.[^.]+$/,'').replace(/[^a-z0-9]/g,'');
 function allRecords(){return [...baseline,...games]}
-function chooseImage(e,files){const desired=String(e.image||'').split('/').pop();return files.find(f=>desired&&f.name.toLowerCase()===desired.toLowerCase())||files.find(f=>filekey(f.name)===filekey(e.title))||null}
+function chooseImage(e,files){
+ const desired=String(e.image||'').split('/').pop();
+ const exact=files.find(f=>desired&&f.name.toLowerCase()===desired.toLowerCase())||files.find(f=>filekey(f.name)===filekey(e.title));
+ if(exact)return exact;
+ // Accept numbered artwork filenames such as 02-darius-gaiden-option-1.webp.
+ const core=filekey(String(e.title||'').replace(/\s+(recompilation|recompiled|pc port|port)$/i,''));
+ if(core.length<6)return null;
+ const matches=files.filter(f=>filekey(f.name).includes(core));
+ return matches.length===1?matches[0]:null;
+}
 async function validate(){
  stage.disabled=true;candidates=[];verifiedCatalogue=null;list.replaceChildren();
  const f=$('tgeBulkJson').files[0];if(!f){status.textContent='Select a batch JSON file to begin.';return}
@@ -41,7 +53,7 @@ async function validate(){
   if(!Array.isArray(entries)||!entries.length)throw Error('Expected an entries array or a TGE draft export with games');
   if(entries.length>250)throw Error('Maximum 250 entries per batch');
   verifiedCatalogue=latest;
-  const files=[...$('tgeBulkImages').files],known=new Set([...latest,...allRecords()].map(g=>norm(g.link))),seen=new Set();
+  const files=[...artwork.values()],known=new Set([...latest,...allRecords()].map(g=>norm(g.link))),seen=new Set();
   for(const e of entries){
    const link=String(e?.link||'').trim(),url=norm(link),title=String(e?.title||'').trim();
    const duplicate=known.has(url)||seen.has(url);seen.add(url);
@@ -56,7 +68,13 @@ async function validate(){
   stage.disabled=!candidates.some(c=>c.valid);
  }catch(e){verifiedCatalogue=null;stage.disabled=true;status.textContent='Validation failed: '+e.message}
 }
-button.onclick=()=>{dlg.showModal();validate()};$('tgeBulkClose').onclick=()=>dlg.close();$('tgeBulkJson').onchange=validate;$('tgeBulkImages').onchange=validate;
+button.onclick=()=>{dlg.showModal();validate()};$('tgeBulkClose').onclick=()=>dlg.close();$('tgeBulkJson').onchange=validate;
+$('tgeBulkImages').onchange=()=>{
+ for(const file of $('tgeBulkImages').files)artwork.set(file.name.toLowerCase(),file);
+ $('tgeBulkImages').value=''; // Allow the same filename to be reselected later.
+ updateArtworkCount();validate();
+};
+$('tgeBulkClearImages').onclick=()=>{artwork.clear();updateArtworkCount();validate()};
 stage.onclick=async()=>{
  const selected=[...list.querySelectorAll('input:checked')].map(x=>candidates[Number(x.dataset.index)]);
  if(!verifiedCatalogue){status.textContent='Latest published catalogue not verified. Import blocked.';return}
