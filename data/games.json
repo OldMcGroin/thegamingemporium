@@ -63452,5 +63452,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4739-56c81b2fcb88cd56.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4741,
+    "title": "Alien vs. Predator Sega Saturn Port",
+    "category": "console-ports",
+    "link": "https://github.com/lamb2k/avpsaturn",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4741-6eff08b273be8909.webp",
+    "date_added": "2026-11-16"
   }
 ]
