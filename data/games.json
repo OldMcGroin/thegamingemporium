@@ -63416,5 +63416,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4738-1d54c2e09f524eb2.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4740,
+    "title": "The Legend of Zelda: Link's Awakening VR",
+    "category": "vr-ports",
+    "link": "https://port0r.com/zelda-inside-the-dream/",
+    "video_link": "https://youtu.be/hG9b2gmJWEs?is=Vofq9UN1tXg4fZtU",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4740-bde0cdc480b7a92b.webp",
+    "date_added": "2026-11-16"
   }
 ]
