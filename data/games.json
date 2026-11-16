@@ -63436,5 +63436,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4730-b9be639429429aa7.webp",
     "date_added": "2026-11-15"
+  },
+  {
+    "id": 4731,
+    "title": "Fate of the Galaxy",
+    "category": "mods",
+    "link": "https://www.moddb.com/games/fate-of-the-galaxy",
+    "video_link": "",
+    "platform": "",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Star Wars",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4731-b75372e6d766eadc.webp",
+    "date_added": "2026-11-16"
   }
 ]
