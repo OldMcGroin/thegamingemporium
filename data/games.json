@@ -63472,5 +63472,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4724-fcd3199f17a9674e.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4732,
+    "title": "Sunset Riders Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sunkpoet-lang/SUNSET-RIDERS-RECOMP",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4732-92c14a4b3506da60.webp",
+    "date_added": "2026-11-16"
   }
 ]
