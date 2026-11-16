@@ -63344,5 +63344,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4734-e783b124c0c54827.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4735,
+    "title": "Need for Speed: Underground 2 Rust Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/j0braun/overbright",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4735-40ad2fddf3c1545b.webp",
+    "date_added": "2026-11-16"
   }
 ]
