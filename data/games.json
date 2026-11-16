@@ -63362,5 +63362,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4735-40ad2fddf3c1545b.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4736,
+    "title": "New Pokémon Snap Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MatyMeatBoy/NewSnapRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "photography",
+    "genre2": "",
+    "series": "Pokemon",
+    "collection": "new-pokemon-snap",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4736-23ea6fe4c7f805bd.webp",
+    "date_added": "2026-11-16"
   }
 ]
