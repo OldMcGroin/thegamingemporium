@@ -63506,5 +63506,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4743-2353635f4d8d40f0.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4744,
+    "title": "Call of Duty 2: Big Red One Custom Engine Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Call of Duty",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4744-984d38bf22eccc8e.webp",
+    "date_added": "2026-11-16"
   }
 ]
