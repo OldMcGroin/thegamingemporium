@@ -63470,5 +63470,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4741-6eff08b273be8909.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4742,
+    "title": "Alien vs. Predator Sega Saturn Port in Browser",
+    "category": "browser-based",
+    "link": "https://avp.retronetplay.com/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4742-d70af08a5e89be4a.webp",
+    "date_added": "2026-11-16"
   }
 ]
