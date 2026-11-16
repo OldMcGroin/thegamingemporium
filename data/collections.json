@@ -1212,5 +1212,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/dead-space-mobile-collection.webp"
+  },
+  {
+    "name": "New Pokémon Snap",
+    "slug": "new-pokemon-snap",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/new-pokemon-snap-collection.webp"
   }
 ]
