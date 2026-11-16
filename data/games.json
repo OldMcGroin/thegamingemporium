@@ -63398,5 +63398,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4737-a273ab9916083c04.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4738,
+    "title": "Shining Soul 2 for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/MatyMeatBoy/ShiningSource",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4738-1d54c2e09f524eb2.webp",
+    "date_added": "2026-11-16"
   }
 ]
