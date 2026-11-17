@@ -63907,5 +63907,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4765-a35f587dc1f2c33f.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4766,
+    "title": "Metal Gear Solid Mobile PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheAti1/metal-gear-solid-mobile-patriots",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "Metal Gear",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4766-bc3080d4b276108f.webp",
+    "date_added": "2026-11-17"
   }
 ]
