@@ -1219,5 +1219,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/new-pokemon-snap-collection.webp"
+  },
+  {
+    "name": "Fable 2",
+    "slug": "fable-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/fable-2-collection.webp"
   }
 ]
