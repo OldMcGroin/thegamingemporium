@@ -63889,5 +63889,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4764-a32e5e474875f909.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4765,
+    "title": "Sonic Riders and Sonic Riders: Zero Gravity Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/KnivesDevilish/SR-Source/releases/tag/v0.2.2",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4765-a35f587dc1f2c33f.webp",
+    "date_added": "2026-11-17"
   }
 ]
