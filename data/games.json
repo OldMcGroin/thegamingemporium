@@ -63997,5 +63997,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4770-b0cb9114a46df14b.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4772,
+    "title": "The Simpsons Hit & Run Linux - MacOS Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/zeropaulsy/hit-and-run-linux",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "action",
+    "series": "The Simpsons",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4772-e15e2378e32bcd2e.webp",
+    "date_added": "2026-11-17"
   }
 ]
