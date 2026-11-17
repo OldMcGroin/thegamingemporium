@@ -63744,5 +63744,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4756-66721c4fc5e96151.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4757,
+    "title": "Yakuza PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/IvanBarbosaFilho/Yakuza-Pc-Port",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Yakuza",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4757-6d8b7318cf48e561.webp",
+    "date_added": "2026-11-17"
   }
 ]
