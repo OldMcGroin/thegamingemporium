@@ -64015,5 +64015,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4772-e15e2378e32bcd2e.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4773,
+    "title": "Warhawk (PS3) PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RemakerGamee/RetroRemakes-PS3-Ports/releases/tag/warhawk-v1.1",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "combat-flight-simulator",
+    "genre2": "third-person-shooter",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4773-43bd9f8247093926.webp",
+    "date_added": "2026-11-17"
   }
 ]
