@@ -63871,5 +63871,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4763-82f9a32e2ff73a7f.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4764,
+    "title": "Pokémon Legends: Z-A Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/linuxopt/PokeZ-ARecomp-Online",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "pokemon-legends-z-a",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4764-a32e5e474875f909.webp",
+    "date_added": "2026-11-17"
   }
 ]
