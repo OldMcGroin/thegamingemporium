@@ -63780,5 +63780,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4758-ac5ccd80d033399f.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4759,
+    "title": "Asura's Wrath PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/otavix010/asuras-wrath-pc",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4759-aca15589fe4f9506.webp",
+    "date_added": "2026-11-17"
   }
 ]
