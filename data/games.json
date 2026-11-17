@@ -63961,5 +63961,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4768-64dc431edc3b45fa.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4769,
+    "title": "Need for Speed: Most Wanted Apple Silicon Mac Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/elforeign/nfs-most-wanted-mac",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "need-for-speed-most-wanted",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4769-3bb96e1dad45da98.webp",
+    "date_added": "2026-11-17"
   }
 ]
