@@ -63616,5 +63616,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4749-c8e3d26d209e8c25.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4750,
+    "title": "Daytona USA 2: Power Edition in Browser",
+    "category": "browser-based",
+    "link": "https://johannruiz.github.io/daytona-usa-2-web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Daytona",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4750-a0c24d3347361617.webp",
+    "date_added": "2026-11-17"
   }
 ]
