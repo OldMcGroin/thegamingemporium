@@ -63634,5 +63634,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4750-a0c24d3347361617.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4751,
+    "title": "Valkyria Chronicles 2 and 3 PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/amritadyne/gallian-chronicles",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Valkyria Chronicles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4751-29404ac55f164d0f.webp",
+    "date_added": "2026-11-17"
   }
 ]
