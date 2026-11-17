@@ -63542,5 +63542,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4745-3ed6151a9bc52a93.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4746,
+    "title": "Fable 2 Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/whompay/Fable2Reborn",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Fable",
+    "collection": "fable-2",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4746-6907fd660b899843.webp",
+    "date_added": "2026-11-17"
   }
 ]
