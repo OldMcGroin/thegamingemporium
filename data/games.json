@@ -56001,12 +56001,14 @@
     "platform": "Xbox 360",
     "genre1": "strategy",
     "genre2": "action",
-    "collection": "",
+    "collection": "angry-birds",
     "ai_usage": "heavy",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4296-9f09193707aeac4e.webp",
-    "date_added": "2026-10-30"
+    "date_added": "2026-10-30",
+    "series": "",
+    "show_in_recent": true
   },
   {
     "id": 4297,
