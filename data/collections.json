@@ -1247,5 +1247,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokemon-legends-z-a-collection.webp"
+  },
+  {
+    "name": "Banjo-Tooie",
+    "slug": "banjo-tooie",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/banjo-tooie-collection.webp"
   }
 ]
