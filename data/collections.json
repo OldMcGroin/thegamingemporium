@@ -1226,5 +1226,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/fable-2-collection.webp"
+  },
+  {
+    "name": "Angry Birds",
+    "slug": "angry-birds",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/angry-birds-collection.webp"
   }
 ]
