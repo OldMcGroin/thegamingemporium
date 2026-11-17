@@ -63670,5 +63670,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4753-2826ede3bc625d89.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4752,
+    "title": "Marvel Vs. Capcom 2 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gibletto/mvc2-naomi-dc",
+    "video_link": "https://youtu.be/eWBgiu9TA34?is=-WswGI0llAUcQml7",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4752-628789a04bd0e197.webp",
+    "date_added": "2026-11-17"
   }
 ]
