@@ -63706,5 +63706,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4754-faec5cd842e95f56.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4755,
+    "title": "Paprium PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thekoalakoa/paprium-pc",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Paprium",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4755-6279b60472b51c61.webp",
+    "date_added": "2026-11-17"
   }
 ]
