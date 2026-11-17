@@ -1233,5 +1233,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/angry-birds-collection.webp"
+  },
+  {
+    "name": "Asura's Wrath",
+    "slug": "asura-s-wrath",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/asura-s-wrath-collection.webp"
   }
 ]
