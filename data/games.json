@@ -63834,5 +63834,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4761-b258b4e2d7b23a12.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4762,
+    "title": "Frogger's Adventures: Temple of the Frog PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://devall96.github.io/TempleFrog/",
+    "video_link": "",
+    "platform": "Game Boy Advance",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Frogger",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4762-a90f2041201db094.webp",
+    "date_added": "2026-11-17"
   }
 ]
