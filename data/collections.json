@@ -1240,5 +1240,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/asura-s-wrath-collection.webp"
+  },
+  {
+    "name": "Pokémon Legends: Z-A",
+    "slug": "pokemon-legends-z-a",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokemon-legends-z-a-collection.webp"
   }
 ]
