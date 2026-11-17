@@ -63580,5 +63580,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4747-4105fbd8279541dc.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4748,
+    "title": "Arcus Odyssey Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sixtyeightk/AODX-Recomp",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4748-64908c3cac576f5b.webp",
+    "date_added": "2026-11-17"
   }
 ]
