@@ -40789,7 +40789,9 @@
     "genre2": "adventure",
     "series": "Fable",
     "video_link": "",
-    "date_added": "2026-09-22"
+    "date_added": "2026-09-22",
+    "collection": "fable-2",
+    "show_in_recent": false
   },
   {
     "id": 3123,
