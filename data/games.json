@@ -64033,5 +64033,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4773-43bd9f8247093926.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4771,
+    "title": "Diablo 3: Eternal Collection Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/retrogameworld/Diablo-III-Switch-Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "Diablo",
+    "collection": "diablo-3",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4771-1847dfbfdd251221.webp",
+    "date_added": "2026-11-17"
   }
 ]
