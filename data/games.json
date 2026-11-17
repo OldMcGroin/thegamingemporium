@@ -63652,5 +63652,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4751-29404ac55f164d0f.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4753,
+    "title": "Marvel Vs. Capcom 2 Nintendo 3DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/gibletto/mvc2-naomi-dc",
+    "video_link": "https://youtu.be/eWBgiu9TA34?is=-WswGI0llAUcQml7",
+    "platform": "",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4753-2826ede3bc625d89.webp",
+    "date_added": "2026-11-17"
   }
 ]
