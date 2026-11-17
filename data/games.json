@@ -63816,5 +63816,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4760-6929d603b0d64315.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4761,
+    "title": "Yokai Watch 4++ Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ILFforever/YW4Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4761-b258b4e2d7b23a12.webp",
+    "date_added": "2026-11-17"
   }
 ]
