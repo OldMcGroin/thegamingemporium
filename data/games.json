@@ -63688,5 +63688,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4752-628789a04bd0e197.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4754,
+    "title": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/weile10000/xc2-ns2-recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4754-faec5cd842e95f56.webp",
+    "date_added": "2026-11-17"
   }
 ]
