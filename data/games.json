@@ -63762,5 +63762,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4757-6d8b7318cf48e561.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4758,
+    "title": "Asura's Wrath PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RecompPort/asura-wrath-pc",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4758-ac5ccd80d033399f.webp",
+    "date_added": "2026-11-17"
   }
 ]
