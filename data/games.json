@@ -58996,12 +58996,13 @@
     "genre1": "rpg",
     "genre2": "creature-collector",
     "series": "Pokemon",
-    "collection": "",
+    "collection": "pokemon-legends-z-a",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4481-0182cc0ca1a02f71.webp",
-    "date_added": "2026-11-07"
+    "date_added": "2026-11-07",
+    "show_in_recent": true
   },
   {
     "id": 4482,
