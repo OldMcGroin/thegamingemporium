@@ -63524,5 +63524,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4744-984d38bf22eccc8e.webp",
     "date_added": "2026-11-16"
+  },
+  {
+    "id": 4745,
+    "title": "Chocolatier Series Modern Engine",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/open-conche/OpenConche",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "business-simulator",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4745-3ed6151a9bc52a93.webp",
+    "date_added": "2026-11-17"
   }
 ]
