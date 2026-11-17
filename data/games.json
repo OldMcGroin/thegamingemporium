@@ -63562,5 +63562,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4746-6907fd660b899843.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4747,
+    "title": "Fire Emblem Fates Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tyle-beep/Haiku",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Fire Emblem",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4747-4105fbd8279541dc.webp",
+    "date_added": "2026-11-17"
   }
 ]
