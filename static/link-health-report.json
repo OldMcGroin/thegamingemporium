@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-17T13:06:22.680032+00:00",
-  "total": 4689,
+  "checked_at": "2026-11-18T12:59:11.574308+00:00",
+  "total": 4713,
   "results": [
     {
       "id": 1,
@@ -537,9 +537,8 @@
       "title": "Discworld Noir",
       "url": "https://collectionchamber.blogspot.com/2015/03/discworld-noir.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://collectionchamber.blogspot.com/2015/03/discworld-noir.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -1409,9 +1408,8 @@
       "title": "Mega Man Legends - Rockman DASH: Great adventureon 5 Islands",
       "url": "https://www.rockman-corner.com/2025/03/rockman-dash-great-adventure-on-5.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.rockman-corner.com/2025/03/rockman-dash-great-adventure-on-5.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -2821,9 +2819,8 @@
       "title": "Super Mario Brothers Flashback",
       "url": "https://mfgg.net/index.php?act=resdb&param=02&c=2&id=37605",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://mfgg.net/index.php?act=resdb&param=02&c=2&id=37605",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -4630,9 +4627,8 @@
       "title": "Mega Man Legends PC Port",
       "url": "https://www.rockman-corner.com/2025/08/mega-man-legends-pc-port-gets.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://www.rockman-corner.com/2025/08/mega-man-legends-pc-port-gets.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -7980,7 +7976,7 @@
       "hidden": false,
       "status": "working",
       "detail": "HTTP 200",
-      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=2f027c6e07871e71695ab7052774bb627f5d44d01869f5727e979eb514dd4b0c&aud=forums.civfanatics.com&aid=e4d2a3b13c4b361a229cfa7ca6bc2f4a",
+      "final_url": "https://forums.civfanatics.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2Fciv4-caveman-2-cosmos.449%2F&sig=6e3b85680cfad65626a4351d1b53f2f43a70e94cadd0ba92423cc2e7909dc3ed&aud=forums.civfanatics.com&aid=97534ca551c2b628b933477ffd54ed75",
       "consecutive_failures": 0
     },
     {
@@ -8737,9 +8733,8 @@
       "title": "NBA Jam Legends on Fire Edition",
       "url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://forums.nba-live.com/viewtopic.php?f=72&t=114923",
+      "status": "other",
+      "detail": "TimeoutError",
       "consecutive_failures": 0
     },
     {
@@ -8937,7 +8932,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 32
+      "consecutive_failures": 33
     },
     {
       "id": 934,
@@ -11453,9 +11448,8 @@
       "title": "SSX 3",
       "url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://leonelvidals.blogspot.com/2020/03/ssx-3-hd-texture-pack.html?m=1",
+      "status": "other",
+      "detail": "HTTP 429",
       "consecutive_failures": 0
     },
     {
@@ -12087,8 +12081,9 @@
       "title": "Warcraft adventures: Lord of the Clans - PC ScummVM",
       "url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://collectionchamber.blogspot.com/2016/09/warcraft-adventures-lord-of-clans.html",
       "consecutive_failures": 0
     },
     {
@@ -13164,7 +13159,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1419,
@@ -13173,7 +13168,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1421,
@@ -13242,7 +13237,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1428,
@@ -13251,7 +13246,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1429,
@@ -13510,7 +13505,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 32
+      "consecutive_failures": 33
     },
     {
       "id": 1468,
@@ -14578,7 +14573,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1578,
@@ -14587,7 +14582,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 1579,
@@ -14976,8 +14971,9 @@
       "title": "Final Fight Enhanced Edition - Amiga",
       "url": "https://www.indieretronews.com/2026/02/final-fight-enhanced-enhanced-amiga.html?spref=tw",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 429",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://www.indieretronews.com/2026/02/final-fight-enhanced-enhanced-amiga.html?spref=tw",
       "consecutive_failures": 0
     },
     {
@@ -20115,8 +20111,9 @@
       "title": "Gardens of Kadesh",
       "url": "https://github.com/GardensOfKadesh/Homeworld",
       "hidden": false,
-      "status": "other",
-      "detail": "HTTP 502",
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/GardensOfKadesh/Homeworld",
       "consecutive_failures": 0
     },
     {
@@ -23798,9 +23795,8 @@
       "title": "Warcraft II for Android",
       "url": "https://dos.zone/offline/warcraft-ii-android/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dos.zone/offline/warcraft-ii-android/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -23808,9 +23804,8 @@
       "title": "Dune 2 For Android",
       "url": "https://dos.zone/offline/dune-2-android/",
       "hidden": false,
-      "status": "working",
-      "detail": "HTTP 200",
-      "final_url": "https://dos.zone/offline/dune-2-android/",
+      "status": "other",
+      "detail": "URLError",
       "consecutive_failures": 0
     },
     {
@@ -30564,7 +30559,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 26
+      "consecutive_failures": 27
     },
     {
       "id": 3258,
@@ -33581,7 +33576,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 3623,
@@ -33590,7 +33585,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 3588,
@@ -36510,7 +36505,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 3890,
@@ -39066,7 +39061,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 4181,
@@ -39615,7 +39610,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4238,
@@ -39894,7 +39889,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4267,
@@ -39903,7 +39898,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4268,
@@ -39992,7 +39987,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 6
+      "consecutive_failures": 7
     },
     {
       "id": 4278,
@@ -40597,9 +40592,9 @@
       "title": "Shadow the Hedgehog Recompilation",
       "url": "https://github.com/BigSnek9/ShadowRecomp",
       "hidden": false,
-      "status": "monitoring",
-      "detail": "HTTP 404 (awaiting next daily check)",
-      "consecutive_failures": 1
+      "status": "broken",
+      "detail": "HTTP 404",
+      "consecutive_failures": 2
     },
     {
       "id": 4341,
@@ -41347,7 +41342,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": 4420,
@@ -41516,7 +41511,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4439,
@@ -41895,7 +41890,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4479,
@@ -42294,7 +42289,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 4
+      "consecutive_failures": 5
     },
     {
       "id": 4519,
@@ -42783,7 +42778,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 4569,
@@ -43610,7 +43605,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 4652,
@@ -43968,7 +43963,7 @@
       "hidden": false,
       "status": "broken",
       "detail": "HTTP 404",
-      "consecutive_failures": 2
+      "consecutive_failures": 3
     },
     {
       "id": 4688,
@@ -44697,6 +44692,246 @@
       "status": "working",
       "detail": "HTTP 200",
       "final_url": "https://github.com/ILFforever/YW4Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4762,
+      "title": "Frogger's Adventures: Temple of the Frog PC Port",
+      "url": "https://devall96.github.io/TempleFrog/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://devall96.github.io/TempleFrog/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4763,
+      "title": "Whiplash PC Port ",
+      "url": "https://devall96.github.io/Unchained/",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://devall96.github.io/Unchained/",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4764,
+      "title": "Pokémon Legends: Z-A Recompilation ",
+      "url": "https://github.com/linuxopt/PokeZ-ARecomp-Online",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/linuxopt/PokeZ-ARecomp-Online",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4765,
+      "title": "Sonic Riders and Sonic Riders: Zero Gravity Launcher",
+      "url": "https://github.com/KnivesDevilish/SR-Source/releases/tag/v0.2.2",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/KnivesDevilish/SR-Source/releases/tag/v0.2.2",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4766,
+      "title": "Metal Gear Solid Mobile PC Port",
+      "url": "https://github.com/TheAti1/metal-gear-solid-mobile-patriots",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/TheAti1/metal-gear-solid-mobile-patriots",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4767,
+      "title": "Mario Kart 7 Recompilation ",
+      "url": "https://github.com/nvd123-YT/MK7Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/nvd123-YT/MK7Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4768,
+      "title": "The Incredible Hulk: Ultimate Destruction Recompilation ",
+      "url": "https://github.com/lookingcoding/hulk-ultimate-destruction-recomp-xbox-ver-",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/lookingcoding/hulk-ultimate-destruction-recomp-xbox-ver-",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4769,
+      "title": "Need for Speed: Most Wanted Apple Silicon Mac Port",
+      "url": "https://github.com/elforeign/nfs-most-wanted-mac",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/elforeign/nfs-most-wanted-mac",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4770,
+      "title": "Need for Speed: Carbon Apple Silicon Mac Port",
+      "url": "https://github.com/elforeign/nfs-carbon-mac",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/elforeign/nfs-carbon-mac",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4772,
+      "title": "The Simpsons Hit & Run Linux - MacOS Port",
+      "url": "https://github.com/zeropaulsy/hit-and-run-linux",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/zeropaulsy/hit-and-run-linux",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4773,
+      "title": "Warhawk (PS3) PC Port",
+      "url": "https://github.com/RemakerGamee/RetroRemakes-PS3-Ports/releases/tag/warhawk-v1.1",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/RemakerGamee/RetroRemakes-PS3-Ports/releases/tag/warhawk-v1.1",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4771,
+      "title": "Diablo 3: Eternal Collection Recompilation ",
+      "url": "https://github.com/retrogameworld/Diablo-III-Switch-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/retrogameworld/Diablo-III-Switch-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4774,
+      "title": "Banjo-Tooie Recompilation 2",
+      "url": "https://github.com/Locme/Banjo-ReTooie",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Locme/Banjo-ReTooie",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4775,
+      "title": "God of War 3 Remastered PC Port 2",
+      "url": "https://github.com/cuesta4/GOW3rehooked",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/cuesta4/GOW3rehooked",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4776,
+      "title": "America's Army: Rise of a Soldier PC Port",
+      "url": "https://github.com/PepperBelly01/AARoaS-XBERecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/PepperBelly01/AARoaS-XBERecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4777,
+      "title": "Super Stardust Ultra PC Port",
+      "url": "https://github.com/rcostanza/Super-Stardust-Ultra-VR-PC",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/rcostanza/Super-Stardust-Ultra-VR-PC",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4778,
+      "title": "Wolfenstein: The New Order Native Apple Silicon Port",
+      "url": "https://github.com/NightSightProductions/Wolfenstein-TNO-Recomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/NightSightProductions/Wolfenstein-TNO-Recomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4779,
+      "title": "The Legend of Zelda: Tears of the Kingdom Mod Menu & Save Editor",
+      "url": "https://gamebanana.com/tools/24993",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://gamebanana.com/tools/24993",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4780,
+      "title": "Tactics Ogre: The Knight of Lodis for Android",
+      "url": "https://github.com/lucdubois/KnightOfLodisRecomp",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/lucdubois/KnightOfLodisRecomp",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4781,
+      "title": "MVP Baseball 2005 Recompilation ",
+      "url": "https://github.com/alexsharkey32-cyber/mvp2005-recomp-releases",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/alexsharkey32-cyber/mvp2005-recomp-releases",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4782,
+      "title": "Gridrunner++ Source Port",
+      "url": "https://github.com/Frogacuda/Gridrunner-Enhanced-Edition",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/Frogacuda/Gridrunner-Enhanced-Edition",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4783,
+      "title": "Star Wars: Rogue Squadron 2 – Rogue Leader Recompilation ",
+      "url": "https://github.com/gminustwo/red_two",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/gminustwo/red_two",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4784,
+      "title": "Crash Bandicoot XS PC Port",
+      "url": "https://github.com/NitorikoSkye/N-Larged-XS",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/NitorikoSkye/N-Larged-XS",
+      "consecutive_failures": 0
+    },
+    {
+      "id": 4785,
+      "title": "Secret of Evermore Linux Port",
+      "url": "https://github.com/PoultryTumor/Evertopia",
+      "hidden": false,
+      "status": "working",
+      "detail": "HTTP 200",
+      "final_url": "https://github.com/PoultryTumor/Evertopia",
       "consecutive_failures": 0
     },
     {
