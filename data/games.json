@@ -64163,5 +64163,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4779-c8c806daac4713ad.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4780,
+    "title": "Tactics Ogre: The Knight of Lodis for Android",
+    "category": "android-ports",
+    "link": "https://github.com/lucdubois/KnightOfLodisRecomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "Tactics Ogre",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4780-84ecd04e87a4792a.webp",
+    "date_added": "2026-11-18"
   }
 ]
