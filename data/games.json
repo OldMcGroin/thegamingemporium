@@ -60700,7 +60700,7 @@
   },
   {
     "id": 4596,
-    "title": "inFamous 2 PC Port ",
+    "title": "inFamous 2 PC Port 2",
     "category": "decompilations-recompilations",
     "link": "https://github.com/bhuiyah/infamous2-recomp",
     "video_link": "",
@@ -60713,7 +60713,8 @@
     "weight": "",
     "hidden": false,
     "image": "/Images/Games/manager-4596-4e52b84cd8e5f088.webp",
-    "date_added": "2026-11-11"
+    "date_added": "2026-11-11",
+    "show_in_recent": true
   },
   {
     "id": 4597,
