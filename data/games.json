@@ -64217,5 +64217,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4782-dc052e3f7717d9f4.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4783,
+    "title": "Star Wars: Rogue Squadron 2 – Rogue Leader Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/red_two",
+    "video_link": "https://youtu.be/SzgeSL6y_zY?is=NPIg1tnY79Nj6J2r",
+    "platform": "GameCube",
+    "genre1": "space-combat-simulator",
+    "genre2": "",
+    "series": "Star Wars",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4783-d18afe9ea5fadd46.webp",
+    "date_added": "2026-11-18"
   }
 ]
