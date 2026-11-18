@@ -64095,5 +64095,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4789-b5dc9f3a2298b272.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4790,
+    "title": "inFAMOUS 2 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SamiEnazi/infamous2-port",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "inFAMOUS",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4790-66d7d1fc3cadd39c.webp",
+    "date_added": "2026-11-18"
   }
 ]
