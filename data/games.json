@@ -43920,7 +43920,9 @@
     "series": "Banjo Kazooie",
     "video_link": "",
     "date_added": "2026-10-01",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "banjo-tooie",
+    "show_in_recent": true
   },
   {
     "id": 3378,
