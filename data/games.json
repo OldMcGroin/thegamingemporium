@@ -64087,5 +64087,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4775-99f4eabdbd9cad2f.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4776,
+    "title": "America's Army: Rise of a Soldier PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/PepperBelly01/AARoaS-XBERecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "strategy",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4776-12cd263caef08c15.webp",
+    "date_added": "2026-11-18"
   }
 ]
