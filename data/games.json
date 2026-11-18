@@ -64114,5 +64114,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4790-66d7d1fc3cadd39c.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4791,
+    "title": "Battlefield 1943 and Bad Company PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/papand7/Battlefield-Recompilation-Project",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Battlefield",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4791-a607d997e715b3c5.webp",
+    "date_added": "2026-11-18"
   }
 ]
