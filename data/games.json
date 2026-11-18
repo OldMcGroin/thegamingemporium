@@ -64041,5 +64041,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4786-9a5679ded185b7c1.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4787,
+    "title": "MechAssault 2: Lone Wolf PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mazillion/MechAssault2-PC-Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "mech-simulator",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4787-e7d702294c7c16c7.webp",
+    "date_added": "2026-11-18"
   }
 ]
