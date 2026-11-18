@@ -1261,5 +1261,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/god-of-war-3-collection.webp"
+  },
+  {
+    "name": "inFAMOUS 2",
+    "slug": "infamous-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/infamous-2-collection.webp"
   }
 ]
