@@ -64123,5 +64123,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4777-44d30a5d8a70113a.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4778,
+    "title": "Wolfenstein: The New Order Native Apple Silicon Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NightSightProductions/Wolfenstein-TNO-Recomp",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Wolfenstein",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4778-d72d377460bfa602.webp",
+    "date_added": "2026-11-18"
   }
 ]
