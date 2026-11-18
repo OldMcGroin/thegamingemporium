@@ -55399,22 +55399,6 @@
     "date_added": "2026-10-29"
   },
   {
-    "id": 4267,
-    "title": "Metroid Prime 2: Echoes for Android",
-    "category": "android-ports",
-    "link": "https://github.com/Odrannnn/MetroidPrime2Port",
-    "video_link": "",
-    "platform": "",
-    "genre1": "metroidvania",
-    "genre2": "first-person-shooter",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4267-938465b20e8f2420.webp",
-    "date_added": "2026-10-29"
-  },
-  {
     "id": 4268,
     "title": "Tony Hawk's Pro Skater 2X Recompilation ",
     "category": "decompilations-recompilations",
