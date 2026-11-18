@@ -64199,5 +64199,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4781-8c9e6d73194a1c4f.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4782,
+    "title": "Gridrunner++ Source Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Frogacuda/Gridrunner-Enhanced-Edition",
+    "video_link": "https://youtu.be/8bV5TSaisow?is=2Cf_GQOWd7VrRiZn",
+    "platform": "Windows",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4782-dc052e3f7717d9f4.webp",
+    "date_added": "2026-11-18"
   }
 ]
