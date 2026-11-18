@@ -1254,5 +1254,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/banjo-tooie-collection.webp"
+  },
+  {
+    "name": "God of War 3",
+    "slug": "god-of-war-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/god-of-war-3-collection.webp"
   }
 ]
