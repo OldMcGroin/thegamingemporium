@@ -54949,22 +54949,6 @@
     "date_added": "2026-10-28"
   },
   {
-    "id": 4237,
-    "title": "The Legend of Zelda: Tears of the Kingdom Recompilation ",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/NotRexed/SkyboundTotk",
-    "video_link": "",
-    "platform": "Nintendo Switch",
-    "genre1": "rpg",
-    "genre2": "adventure",
-    "collection": "the-legend-of-zelda-tears-of-the-kingdom",
-    "ai_usage": "light",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4237-dfb87e880ffcffe9.webp",
-    "date_added": "2026-10-28"
-  },
-  {
     "id": 4238,
     "title": "Mupen GUI with Kaillera and GekkoNet Rollback Implementation for All N64 Games",
     "category": "utility",
