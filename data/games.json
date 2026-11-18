@@ -48083,7 +48083,9 @@
     "series": "God of War",
     "video_link": "",
     "date_added": "2026-10-12",
-    "ai_usage": "heavy"
+    "ai_usage": "heavy",
+    "collection": "god-of-war-3",
+    "show_in_recent": true
   },
   {
     "id": 3721,
