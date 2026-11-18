@@ -64051,5 +64051,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4771-1847dfbfdd251221.webp",
     "date_added": "2026-11-17"
+  },
+  {
+    "id": 4774,
+    "title": "Banjo-Tooie Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Locme/Banjo-ReTooie",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Banjo Kazooie",
+    "collection": "banjo-tooie",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4774-b05de80956c411a5.webp",
+    "date_added": "2026-11-18"
   }
 ]
