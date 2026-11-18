@@ -64059,5 +64059,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4787-e7d702294c7c16c7.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4788,
+    "title": "UEFA Euro 96 in Browser ",
+    "category": "browser-based",
+    "link": "https://plicerin.github.io/euro96-web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4788-800a50ee93a32de8.webp",
+    "date_added": "2026-11-18"
   }
 ]
