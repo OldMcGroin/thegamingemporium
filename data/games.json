@@ -55399,22 +55399,6 @@
     "date_added": "2026-10-29"
   },
   {
-    "id": 4266,
-    "title": "Metroid Prime 2: Echoes PC Port",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/Odrannnn/MetroidPrime2Port",
-    "video_link": "",
-    "platform": "GameCube",
-    "genre1": "metroidvania",
-    "genre2": "first-person-shooter",
-    "collection": "",
-    "ai_usage": "light",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4266-206a8af268ddd525.webp",
-    "date_added": "2026-10-29"
-  },
-  {
     "id": 4267,
     "title": "Metroid Prime 2: Echoes for Android",
     "category": "android-ports",
