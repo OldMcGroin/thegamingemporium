@@ -64253,5 +64253,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4784-63d55b5bc2286177.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4785,
+    "title": "Secret of Evermore Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/PoultryTumor/Evertopia",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4785-28a86cf1eba8cf84.webp",
+    "date_added": "2026-11-18"
   }
 ]
