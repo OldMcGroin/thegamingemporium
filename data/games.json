@@ -64132,5 +64132,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4791-a607d997e715b3c5.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4792,
+    "title": "Scarface: The World Is Yours PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/efm-games/scarface-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Scarface",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4792-47ca41b5e9b980d9.webp",
+    "date_added": "2026-11-18"
   }
 ]
