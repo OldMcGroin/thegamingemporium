@@ -64023,5 +64023,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4785-28a86cf1eba8cf84.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4786,
+    "title": "Metal Gear Solid Touch PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheAti1/metal-gear-solid-touch-patriots",
+    "video_link": "",
+    "platform": "iOS",
+    "genre1": "third-person-shooter",
+    "genre2": "rail-shooter",
+    "series": "Metal Gear",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4786-9a5679ded185b7c1.webp",
+    "date_added": "2026-11-18"
   }
 ]
