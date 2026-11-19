@@ -41179,7 +41179,7 @@
   },
   {
     "id": 3161,
-    "title": "GTA: Liberty City Stories Recompilation",
+    "title": "Grand Theft Auto: Liberty City Stories Recompilation",
     "category": "decompilations-recompilations",
     "platform": "PSP",
     "link": "https://github.com/elmasas/lcs-recomp",
@@ -41187,7 +41187,8 @@
     "genre2": "action",
     "series": "Grand Theft Auto",
     "video_link": "",
-    "date_added": "2026-09-25"
+    "date_added": "2026-09-25",
+    "show_in_recent": true
   },
   {
     "id": 3162,
