@@ -64150,5 +64150,23 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4792-47ca41b5e9b980d9.webp",
     "date_added": "2026-11-18"
+  },
+  {
+    "id": 4793,
+    "title": "3D Dot Game Heroes PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/irnutsmurt/Cubic.Heroes",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4793-acca9b2a354da2e7.webp",
+    "date_added": "2026-11-19"
   }
 ]
