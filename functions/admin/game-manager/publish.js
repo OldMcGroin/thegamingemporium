@@ -43,7 +43,7 @@ async function identity(request,env){
 async function github(env,path,options={}){
  const url=`https://api.github.com/repos/${OWNER}/${REPO}/${path.startsWith('git/')?path:'contents/'+path}`;
  const r=await fetch(url,{...options,headers:{Accept:'application/vnd.github+json',Authorization:`Bearer ${env.GITHUB_TOKEN}`,'X-GitHub-Api-Version':'2022-11-28','User-Agent':'thegamingemporium-game-manager',...(options.headers||{})}});
- const data=await r.json().catch(()=>({}));if(!r.ok){const e=new Error('GitHub request failed');e.status=r.status;throw e}return data;
+ const data=await r.json().catch(()=>({}));if(!r.ok){const e=new Error(`GitHub request failed (HTTP ${r.status}; operation ${options.method||'GET'}; resource ${path.split('?')[0]})`);e.status=r.status;throw e}return data;
 }
 async function readFile(env,path){
  const meta=await github(env,path+'?ref='+encodeURIComponent(BRANCH(env)));
