@@ -211,7 +211,7 @@ export async function onRequestGet({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required.',diagnostic:auth.reason},403);
  const gate=publishGate(env,request);
- if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms','main'].includes(gate.branch))return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(new URL(request.url).searchParams.get('seriesSlug')){
   if(!gate.enabled)return reply({ok:false,message:'Publishing disabled.'},403);
   const slug=new URL(request.url).searchParams.get('seriesSlug');
@@ -224,7 +224,7 @@ export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
  if(!auth.ok)return reply({ok:false,message:'Administrator authentication required or configuration incomplete.',diagnostic:auth.reason},403);
  const gate=publishGate(env,request);
- if(!['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(gate.branch))
+ if(!['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms','main'].includes(gate.branch))
   return reply({ok:false,message:'Publishing branch is not approved.'},403);
  if(!gate.enabled)
   return reply({ok:false,message:'Game Manager publishing is disabled.'},503);
