@@ -2512,7 +2512,17 @@
     "video_link": "",
     "notes": "",
     "date_added": "",
-    "image": ""
+    "image": "",
+    "release_platforms": [
+      {
+        "id": "test-system",
+        "label": "Test System",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "show_in_recent": true
   },
   {
     "id": 195,
