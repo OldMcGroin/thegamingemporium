@@ -203,7 +203,7 @@ async function deleteGame(env,body){
 // Production deployment is separate from permission to write to the main branch.
 function publishGate(env,request){
  const branch=BRANCH(env);
- if(['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms'].includes(branch))return {branch,enabled:String(env.GAME_MANAGER_PUBLISH_ENABLED ?? '').trim().toLowerCase()==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
@@ -218,7 +218,7 @@ export async function onRequestGet({request,env}){
   if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)||slug.length>150)return reply({ok:false,message:'Invalid Series slug.'},400);
   try{return reply({ok:true,...await seriesArtworkState(env,slug,gate.branch)})}catch{return reply({ok:false,message:'Cannot check Series artwork.'},502)}
  }
- return reply({ok:true,enabled:gate.enabled,branch:gate.branch});
+ return reply({ok:true,enabled:gate.enabled,branch:gate.branch,...(gate.branch==='test/release-platforms'?{diagnostic:{publishFlagPresent:env.GAME_MANAGER_PUBLISH_ENABLED!==undefined,publishFlagMatchesTrue:String(env.GAME_MANAGER_PUBLISH_ENABLED ?? '').trim().toLowerCase()==='true'}}:{})});
 }
 export async function onRequestPost({request,env}){
  const auth=await identity(request,env);
