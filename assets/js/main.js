@@ -160,6 +160,7 @@ function initGameGrids(){
         var sortSelect  = wrapper.querySelector('select[data-sort]');
         var addedFilter = wrapper.querySelector('select[data-added-filter]');
         var platformFilter = wrapper.querySelector('select[data-platform-filter]');
+        var releasePlatformFilter = wrapper.querySelector('select[data-release-platform-filter]');
         var aiFilter = wrapper.querySelector('select[data-ai-filter]');
         var ratingMin = wrapper.querySelector('select[data-rating-min]');
         var ratingData = new Map();
@@ -220,6 +221,70 @@ function initGameGrids(){
           });
         }
 
+        if(releasePlatformFilter){
+          var labels = {'macos':'macOS','ios':'iOS','ps-vita':'PS Vita','psp':'PSP','tvos':'tvOS','nintendo-switch':'Nintendo Switch','nintendo-switch-2':'Nintendo Switch 2','portmaster-linux-handhelds':'PortMaster (Linux handhelds)','xbox-series-x-s':'Xbox Series X/S','anbernic-rg34xxsp':'Anbernic RG34XXSP'};
+          var releaseIds=uniqSorted(cards.flatMap(function(card){return (card.getAttribute('data-release-platforms')||'').split('|').filter(Boolean);}));
+          releaseIds.forEach(function(id){var option=document.createElement('option');option.value=id;option.textContent=labels[id]||id.split('-').map(function(w){return w.charAt(0).toUpperCase()+w.slice(1);}).join(' ');releasePlatformFilter.appendChild(option);});
+          // Accessible checkbox menu; retain the native select as the filter's source of truth.
+          releasePlatformFilter.hidden = true;
+          releasePlatformFilter.setAttribute('aria-hidden', 'true');
+          var menu = document.createElement('details');
+          menu.className = 'release-platform-checkbox-menu';
+          menu.style.cssText = 'position:relative;min-width:220px;max-width:360px;width:100%;';
+          var summary = document.createElement('summary');
+          summary.textContent = 'All release platforms';
+          summary.style.cssText = 'cursor:pointer;border:1px solid #777;border-radius:9px;padding:10px 12px;';
+          menu.appendChild(summary);
+          var panel = document.createElement('div');
+          panel.style.cssText = 'border:1px solid #777;border-radius:9px;padding:10px;max-height:270px;overflow:auto;background:#1b1b1b;color:#fff;display:flex;flex-direction:column;gap:8px;';
+          var clear = document.createElement('button');
+          clear.type = 'button';
+          clear.textContent = 'Clear selections';
+          clear.style.cssText = 'align-self:flex-start;padding:6px 10px;cursor:pointer;';
+          panel.appendChild(clear);
+          var checkboxes = [];
+          Array.from(releasePlatformFilter.options).forEach(function(option){
+            var label = document.createElement('label');
+            label.style.cssText = 'display:flex;align-items:center;gap:9px;cursor:pointer;min-height:28px;';
+            var checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.value = option.value;
+            checkbox.style.cssText = 'width:18px;height:18px;flex-shrink:0;';
+            label.appendChild(checkbox);
+            label.appendChild(document.createTextNode(option.textContent));
+            panel.appendChild(label);
+            checkboxes.push({checkbox:checkbox,option:option});
+            checkbox.addEventListener('change',function(){
+              option.selected = checkbox.checked;
+              updateSummary();
+              releasePlatformFilter.dispatchEvent(new Event('change',{bubbles:true}));
+            });
+          });
+          function updateSummary(){
+            var chosen = checkboxes.filter(function(x){return x.checkbox.checked;});
+            summary.textContent = chosen.length ? chosen.length + ' release platform' + (chosen.length===1?'':'s') + ' selected' : 'All release platforms';
+          }
+          clear.addEventListener('click',function(){
+            checkboxes.forEach(function(x){x.checkbox.checked=false;x.option.selected=false;});
+            updateSummary();
+            releasePlatformFilter.dispatchEvent(new Event('change',{bubbles:true}));
+          });
+          menu.appendChild(panel);
+          releasePlatformFilter.insertAdjacentElement('afterend',menu);
+          // Close the dropdown on an outside click/tap without clearing selections.
+          document.addEventListener('pointerdown',function(event){
+            if(menu.open && !menu.contains(event.target)) menu.open = false;
+          });
+          // Keyboard users can dismiss the open menu with Escape.
+          menu.addEventListener('keydown',function(event){
+            if(event.key === 'Escape' && menu.open){
+              menu.open = false;
+              summary.focus();
+              event.preventDefault();
+            }
+          });
+
+        }
         // Collect categories from cards
         var categoryMap = new Map();
         cards.forEach(function(card){
@@ -506,6 +571,8 @@ function initGameGrids(){
             }
 
             var showPlatform = !platformFilter || !platformFilter.value || cardPlatform === platformFilter.value;
+            var chosenReleasePlatforms = releasePlatformFilter ? Array.from(releasePlatformFilter.selectedOptions).map(function(o){return o.value;}) : [];
+            var showReleasePlatform = chosenReleasePlatforms.length === 0 || chosenReleasePlatforms.some(function(id){return (card.getAttribute('data-release-platforms')||'').split('|').includes(id);});
 
             var ai = card.getAttribute('data-ai-usage') || 'unknown';
             var aiChoice = aiFilter ? aiFilter.value : '';
@@ -513,7 +580,7 @@ function initGameGrids(){
             var minimum = ratingMin ? Number(ratingMin.value || 0) : 0;
             var rating = ratingOf(card);
             var showRating = !minimum || (ratingReady && rating && Number(rating.count || 0) >= minimum && rating.average != null);
-            if(showGenre && showCategory && showPlatform && showAI && showRating && __passesAddedFilter(card)) matches.push(card);
+            if(showGenre && showCategory && showPlatform && showReleasePlatform && showAI && showRating && __passesAddedFilter(card)) matches.push(card);
           });
 
           var showCount = pageSize ? Math.min(visibleLimit, matches.length) : matches.length;
@@ -587,6 +654,7 @@ function initGameGrids(){
         if(categorySelect){ categorySelect.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(addedFilter){ addedFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(platformFilter){ platformFilter.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
+        if(releasePlatformFilter){releasePlatformFilter.addEventListener('change',function(){visibleLimit=pageSize;applyFilter();});}
         if(aiFilter){aiFilter.addEventListener('change',function(){try{localStorage.setItem('tge_ai_filter',aiFilter.value);}catch(e){} visibleLimit=pageSize;applyFilter();});}
         if(ratingMin){ ratingMin.addEventListener('change', function(){ visibleLimit = pageSize; applyFilter(); }); }
         if(sortSelect){ sortSelect.addEventListener('change', function(){ applySort(); }); }

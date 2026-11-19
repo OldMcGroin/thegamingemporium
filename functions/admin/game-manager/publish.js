@@ -84,6 +84,19 @@ function validate(type,r){
   if(r.weight!==undefined&&r.weight!==''&&r.weight!==0&&r.weight!=='top'&&!(Number.isSafeInteger(r.weight)&&r.weight>=0))return 'Invalid weight';
   if(r.hidden!==undefined&&typeof r.hidden!=='boolean')return 'Invalid hidden flag';
   if(r.show_in_recent!==undefined&&typeof r.show_in_recent!=='boolean')return 'Invalid Recent Additions visibility flag';
+  if(r.release_platforms!==undefined){
+   if(!Array.isArray(r.release_platforms)||r.release_platforms.length>100)return 'Invalid Release Platforms list';
+   const ids=new Set();
+   for(const p of r.release_platforms){
+    if(!obj(p)||typeof p.id!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.id)||p.id.length>100)return 'Invalid Release Platform identifier';
+    if(ids.has(p.id))return 'Duplicate Release Platform';
+    ids.add(p.id);
+    if(typeof p.label!=='string'||!p.label.trim()||p.label.length>120)return 'Invalid Release Platform label';
+    if(!['downloadable','hosted','source','compatibility','unverified'].includes(p.classification))return 'Invalid Release Platform classification';
+    if(p.verification!==undefined&&(!['verified','manual','unverified'].includes(p.verification)))return 'Invalid Release Platform verification';
+    if(p.evidence_url!==undefined&&(typeof p.evidence_url!=='string'||p.evidence_url.length>2048||(p.evidence_url&&!validUrl(p.evidence_url))))return 'Invalid Release Platform evidence URL';
+   }
+  }
  }else{
   if(typeof r.name!=='string'||!r.name.trim()||r.name.length>250)return 'Invalid collection name';
   if(typeof r.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(r.slug)||r.slug.length>150)return 'Invalid collection slug';
