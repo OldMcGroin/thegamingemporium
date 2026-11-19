@@ -2513,15 +2513,7 @@
     "notes": "",
     "date_added": "",
     "image": "",
-    "release_platforms": [
-      {
-        "id": "test-system",
-        "label": "Test System",
-        "classification": "downloadable",
-        "verification": "manual",
-        "evidence_url": ""
-      }
-    ],
+    "release_platforms": [],
     "show_in_recent": true
   },
   {
