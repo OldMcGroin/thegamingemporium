@@ -1268,5 +1268,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/infamous-2-collection.webp"
+  },
+  {
+    "name": "Grand Theft Auto: Liberty City Stories",
+    "slug": "grand-theft-auto-liberty-city-stories",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/grand-theft-auto-liberty-city-stories-collection.webp"
   }
 ]
