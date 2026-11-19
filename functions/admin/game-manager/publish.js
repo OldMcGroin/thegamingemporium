@@ -203,7 +203,7 @@ async function deleteGame(env,body){
 // Production deployment is separate from permission to write to the main branch.
 function publishGate(env,request){
  const branch=BRANCH(env);
- if(['game-manager-publishing-test','game-manager-safe-test-20261021'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
+ if(['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms'].includes(branch))return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'};
  if(branch==='main')return {branch,enabled:env.GAME_MANAGER_PUBLISH_ENABLED==='true'&&env.GAME_MANAGER_PRODUCTION_APPROVED==='true'};
  return {branch,enabled:false};
 }
