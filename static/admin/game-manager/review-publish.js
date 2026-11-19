@@ -149,7 +149,7 @@
       });
       const result=await response.json();
       if(!response.ok||!result.ok)throw new Error(result.message||'Status unavailable');
-      publishBranch=['game-manager-publishing-test','game-manager-safe-test-20261021','main'].includes(result.branch)?result.branch:'';
+      publishBranch=['game-manager-publishing-test','game-manager-safe-test-20261021','test/release-platforms','main'].includes(result.branch)?result.branch:'';
       publishEnabled=result.enabled===true && Boolean(publishBranch);
       statusMessage=publishEnabled
         ? 'Publishing is enabled for '+publishBranch+'.'
