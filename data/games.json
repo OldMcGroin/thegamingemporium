@@ -87734,5 +87734,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4803-cfe74ba9b210e229.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4804,
+    "title": "SOCOM 2 in Browser",
+    "category": "browser-based",
+    "link": "https://socomlegacy.com/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "third-person-shooter",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4804-54b37166133c6ff4.webp",
+    "date_added": "2026-11-20"
   }
 ]
