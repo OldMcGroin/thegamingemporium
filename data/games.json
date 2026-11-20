@@ -81156,7 +81156,7 @@
     "genre1": "rpg",
     "genre2": "action",
     "series": "Gauntlet",
-    "collection": "",
+    "collection": "gauntlet-dark-legacy",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -81177,7 +81177,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/jeddhor/GauntletDLRedone/releases/download/v1.3.4/GauntletDarkLegacy-1.3.4-windows-x86_64.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4584,
