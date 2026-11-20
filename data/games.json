@@ -87931,5 +87931,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4810-c04e236a2997613b.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4811,
+    "title": "Dragon Force 1&2 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://gitlab.com/rolandhazoto/FoD",
+    "video_link": "",
+    "platform": "Sega Saturn",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4811-a345ccfa1227bda1.webp",
+    "date_added": "2026-11-20"
   }
 ]
