@@ -294,7 +294,7 @@ export async function onRequestPost({request,env}){
    const baseTree=parent.tree?.sha;
    if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
    if(headFile.sha!==file.sha)throw Error('Catalogue changed during diagnostic');
-   const content=JSON.stringify(file.list,null,2)+'\\n';
+   const content=JSON.stringify(file.list,null,2)+'\n';
    catalogueBytes=new TextEncoder().encode(content).byteLength;
    stage='create-blob';
    const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content,encoding:'utf-8'})});
