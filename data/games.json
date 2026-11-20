@@ -88058,5 +88058,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4815-44d1c574d6003053.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4816,
+    "title": "The Sims PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/abilliontokens/sims1-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "series": "The Sims",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4816-05b4fb802c3f85d7.webp",
+    "date_added": "2026-11-20"
   }
 ]
