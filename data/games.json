@@ -88092,5 +88092,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4816-05b4fb802c3f85d7.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4817,
+    "title": "LittleBigPlanet 3 Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LeFinnaBust/LBP3-LINUX-STEAMDECK",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "level-builder",
+    "genre2": "sandbox",
+    "series": "",
+    "collection": "littlebigplanet-3",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4817-7a705ead5b388d99.webp",
+    "date_added": "2026-11-20"
   }
 ]
