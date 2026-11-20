@@ -87628,5 +87628,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4799-df123345a7ee3a1a.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4800,
+    "title": "Jak & Daxter Trilogy Nintendo Switch Port ",
+    "category": "console-ports",
+    "link": "https://github.com/fildicio/jak-project-nx",
+    "video_link": "",
+    "platform": "",
+    "genre1": "platformer",
+    "genre2": "adventure",
+    "series": "Jak & Daxter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4800-3df53bc9a102c38b.webp",
+    "date_added": "2026-11-20"
   }
 ]
