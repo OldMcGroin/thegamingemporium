@@ -87885,5 +87885,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4808-753986445c237785.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4809,
+    "title": "Gauntlet: Dark Legacy for Android ",
+    "category": "android-ports",
+    "link": "https://git.8gramlabs.com/8gramlabs/Project-Gauntlet",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Gauntlet",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4809-d6953f6d5815fe1b.webp",
+    "date_added": "2026-11-20"
   }
 ]
