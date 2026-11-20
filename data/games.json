@@ -87574,5 +87574,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4797-2ef7827234e8a422.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4798,
+    "title": "Eat Lead: The Return of Matt Hazard PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thegh0sts/EAT-LEAD-X360-PORT",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4798-00b4864145267965.webp",
+    "date_added": "2026-11-20"
   }
 ]
