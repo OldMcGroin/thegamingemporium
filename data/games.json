@@ -87986,5 +87986,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4812-4ffbe4d6c121a5eb.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4813,
+    "title": "Hyrule Warriors: Age of Calamity Recompilation 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/eliasm4r/AgeOfCalamityRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "action",
+    "genre2": "",
+    "series": "The Legend of Zelda",
+    "collection": "hyrule-warriors-age-of-calamity",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4813-68cc5eab7e4eaf94.webp",
+    "date_added": "2026-11-20"
   }
 ]
