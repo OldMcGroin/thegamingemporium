@@ -74024,7 +74024,7 @@
     "platform": "GameCube",
     "genre1": "action",
     "genre2": "rpg",
-    "collection": "",
+    "collection": "gauntlet-dark-legacy",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -74045,7 +74045,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port/releases/download/v4.0.0-alpha.3/GauntletDarkLegacy-4.0.0-alpha.3-windows-x64-runtime.zip"
       }
-    ]
+    ],
+    "series": "Gauntlet",
+    "show_in_recent": true
   },
   {
     "id": 4340,
