@@ -315,6 +315,61 @@ export async function onRequestPost({request,env}){
    return reply({ok:false,diagnostic:true,stage,githubStatus,catalogueBytes,message:'Commit-chain diagnostic failed. Check Cloudflare logs.'},502);
   }
  }
+
+ if(
+  BRANCH(env)==='test/release-platforms' &&
+  body?.type==='diagnostic' &&
+  body?.action==='test-noop-publish'
+ ){
+  let stage='read-head';
+  try{
+   const branch=BRANCH(env);
+   const refPath='git/ref/heads/'+encodeURIComponent(branch);
+   const ref=await github(env,refPath);
+   const head=ref.object?.sha;
+   if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
+   stage='read-catalogue-and-parent';
+   const [parent,headFile,file]=await Promise.all([
+    github(env,'git/commits/'+head),
+    github(env,PATHS.game+'?ref='+encodeURIComponent(head)),
+    readFile(env,PATHS.game)
+   ]);
+   if(headFile.sha!==file.sha)throw Error('Catalogue changed during diagnostic');
+   const baseTree=parent.tree?.sha;
+   if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
+   const record=file.list.find(x=>x&&Number.isSafeInteger(x.id)&&!validate('game',x));
+   if(!record)throw Error('No valid existing game record found');
+   if(!equal(record,JSON.parse(JSON.stringify(record))))throw Error('Record equality check failed');
+   stage='create-unchanged-tree';
+   const tree=await github(env,'git/trees',{
+    method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({base_tree:baseTree,tree:[{path:PATHS.game,mode:'100644',type:'blob',sha:headFile.sha}]})
+   });
+   if(tree.sha!==baseTree)throw Error('Safety check failed: tree differs from current branch');
+   stage='create-noop-commit';
+   const commit=await github(env,'git/commits',{
+    method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({message:'Preview diagnostic: verify publish ref update without data changes',tree:baseTree,parents:[head]})
+   });
+   if(!/^[a-f0-9]{40}$/i.test(commit.sha||''))throw Error('Invalid commit SHA');
+   stage='verify-head-before-update';
+   const before=await github(env,refPath);
+   if(before.object?.sha!==head)throw Error('Preview branch changed concurrently; no ref update attempted');
+   stage='update-preview-branch';
+   await github(env,'git/refs/heads/'+encodeURIComponent(branch),{
+    method:'PATCH',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({sha:commit.sha,force:false})
+   });
+   stage='verify-updated-branch';
+   const after=await github(env,refPath);
+   if(after.object?.sha!==commit.sha)throw Error('GitHub did not report expected new head');
+   return reply({ok:true,diagnostic:true,stage:'complete',games:file.list.length,validatedGameId:record.id,treeUnchanged:true,branchUpdated:true,dataUnchanged:true,message:'Preview branch advanced by a no-op commit. All tracked files unchanged.'});
+  }catch(e){
+   const githubStatus=Number.isInteger(e.status)?e.status:null;
+   console.error('TGE no-op publish diagnostic failed',{stage,githubStatus},e);
+   return reply({ok:false,diagnostic:true,stage,githubStatus,message:'No-op publish diagnostic failed. Check Cloudflare logs.'},502);
+  }
+ }
  if(body?.type==='collection'&&body.action==='delete')return deleteCollection(env,body);
  if(body?.type==='game'&&body.action==='delete')return deleteGame(env,body);
  if(body?.type==='series')return publishSeriesArtwork(env,body);
