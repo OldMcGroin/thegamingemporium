@@ -88039,5 +88039,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4814-9e157dd1315db62f.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4815,
+    "title": "The Elder Scrolls 4: Oblivion for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/ttom795/Oblivion_Android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Elder Scrolls",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4815-44d1c574d6003053.webp",
+    "date_added": "2026-11-20"
   }
 ]
