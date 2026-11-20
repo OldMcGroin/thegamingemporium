@@ -87707,5 +87707,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4801-c2f0e34df254ca3f.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4803,
+    "title": "God Hand Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/God-Hand-Rearmed/God-Hand-Rearmed",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "beat-em-up",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4803-cfe74ba9b210e229.webp",
+    "date_added": "2026-11-20"
   }
 ]
