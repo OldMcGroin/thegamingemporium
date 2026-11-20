@@ -87666,5 +87666,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4802-34aab45bdcd681cb.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4801,
+    "title": "GTA Liberty City Stories and Vice City Stories Combined",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/batinium/gta-stories-recompiled",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4801-c2f0e34df254ca3f.webp",
+    "date_added": "2026-11-20"
   }
 ]
