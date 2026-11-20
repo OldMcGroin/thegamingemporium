@@ -5,7 +5,12 @@ const OWNER='OldMcGroin', REPO='thegamingemporium';
 const BRANCH = env => String(env.GAME_MANAGER_GITHUB_BRANCH || '').trim();
 const PATHS={game:'data/games.json',collection:'data/collections.json'};
 const reply=(body,status=200)=>new Response(JSON.stringify(body),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
-const from64=s=>Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0));
+const from64=s=>{
+ const binary=atob(s.replace(/-/g,'+').replace(/_/g,'/'));
+ const bytes=new Uint8Array(binary.length);
+ for(let i=0;i<binary.length;i++)bytes[i]=binary.charCodeAt(i);
+ return bytes;
+};
 const to64=s=>{const bytes=new TextEncoder().encode(s);let out='';for(let i=0;i<bytes.length;i+=8192)out+=String.fromCharCode(...bytes.subarray(i,i+8192));return btoa(out)};
 const obj=x=>x!==null&&typeof x==='object'&&!Array.isArray(x);
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
@@ -251,7 +256,9 @@ export async function onRequestPost({request,env}){
  if(action==='update'&&(type==='game'?record.id!==before.id:record.slug!==before.slug))return reply({ok:false,message:'Changing an existing record identifier is not supported.'},400);
  const path=PATHS[type];
  try{
+  console.log('TGE publish: reading catalogue');
   const file=await readFile(env,path),list=file.list;
+  console.log('TGE publish: catalogue loaded',list.length);
   const key=type==='game'?'id':'slug',id=record[key];
   const found=list.filter(x=>x?.[key]===id);
   if(found.length>1)return reply({ok:false,message:'Duplicate identifiers already exist in GitHub. No changes made.'},409);
@@ -299,7 +306,9 @@ export async function onRequestPost({request,env}){
   // The data file must still be the version checked for record conflicts.
   if(headFile.sha!==file.sha)return reply({ok:false,message:'Game data changed during publishing. Refresh and try again.'},409);
   const entries=[];
+  console.log('TGE publish: uploading catalogue');
   const jsonBlob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content:JSON.stringify(list,null,2)+'\n',encoding:'utf-8'})});
+  console.log('TGE publish: catalogue uploaded');
   entries.push({path,mode:'100644',type:'blob',sha:jsonBlob.sha});
   if(imageUpload && !(type==='game' && action==='update' && record.image===before.image)){
    const imgPath='static'+record.image;
