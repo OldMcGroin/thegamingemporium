@@ -87904,5 +87904,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4809-d6953f6d5815fe1b.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4810,
+    "title": "Virtua Striker 4 Ver.2006 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/LetsPlaymaker/vs4-2006-enhanced",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4810-c04e236a2997613b.webp",
+    "date_added": "2026-11-20"
   }
 ]
