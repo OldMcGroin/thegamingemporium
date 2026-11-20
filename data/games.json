@@ -87518,5 +87518,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4795-aa35496b4c606c1b.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4796,
+    "title": "Hatsune Miku: Project DIVA Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gorigamia/DIVARECOMPSP",
+    "video_link": "",
+    "platform": "PSP",
+    "genre1": "rhythm-based",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4796-9a340bb43a3a869a.webp",
+    "date_added": "2026-11-20"
   }
 ]
