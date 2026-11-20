@@ -273,6 +273,48 @@ export async function onRequestPost({request,env}){
    return reply({ok:false,diagnostic:true,stage,githubStatus,catalogueBytes,message:'Diagnostic upload failed. Check Cloudflare logs.'},502);
   }
  }
+
+ if(
+  BRANCH(env)==='test/release-platforms' &&
+  body?.type==='diagnostic' &&
+  body?.action==='test-commit-chain'
+ ){
+  let stage='read-catalogue',catalogueBytes=null;
+  try{
+   const branch=BRANCH(env);
+   const ref=await github(env,'git/ref/heads/'+encodeURIComponent(branch));
+   const head=ref.object?.sha;
+   if(!/^[a-f0-9]{40}$/i.test(head||''))throw Error('Invalid branch head');
+   stage='read-parent-and-file';
+   const [parent,headFile,file]=await Promise.all([
+    github(env,'git/commits/'+head),
+    github(env,PATHS.game+'?ref='+encodeURIComponent(head)),
+    readFile(env,PATHS.game)
+   ]);
+   const baseTree=parent.tree?.sha;
+   if(!/^[a-f0-9]{40}$/i.test(baseTree||''))throw Error('Invalid base tree');
+   if(headFile.sha!==file.sha)throw Error('Catalogue changed during diagnostic');
+   const content=JSON.stringify(file.list,null,2)+'\\n';
+   catalogueBytes=new TextEncoder().encode(content).byteLength;
+   stage='create-blob';
+   const blob=await github(env,'git/blobs',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({content,encoding:'utf-8'})});
+   if(!/^[a-f0-9]{40}$/i.test(blob.sha||''))throw Error('Invalid blob SHA');
+   stage='create-tree';
+   const tree=await github(env,'git/trees',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base_tree:baseTree,tree:[{path:PATHS.game,mode:'100644',type:'blob',sha:blob.sha}]})});
+   if(!/^[a-f0-9]{40}$/i.test(tree.sha||''))throw Error('Invalid tree SHA');
+   stage='create-unreferenced-commit';
+   const commit=await github(env,'git/commits',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'Diagnostic only: unreferenced catalogue commit',tree:tree.sha,parents:[head]})});
+   if(!/^[a-f0-9]{40}$/i.test(commit.sha||''))throw Error('Invalid commit SHA');
+   stage='verify-branch-unchanged';
+   const after=await github(env,'git/ref/heads/'+encodeURIComponent(branch));
+   if(after.object?.sha!==head)throw Error('Preview branch changed concurrently');
+   return reply({ok:true,diagnostic:true,stage:'complete',games:file.list.length,catalogueBytes,blobCreated:true,treeCreated:true,commitCreated:true,branchUnchanged:true,message:'Unreferenced Git objects created. No branch reference updated by diagnostic.'});
+  }catch(e){
+   const githubStatus=Number.isInteger(e.status)?e.status:null;
+   console.error('TGE commit-chain diagnostic failed',{stage,githubStatus,catalogueBytes},e);
+   return reply({ok:false,diagnostic:true,stage,githubStatus,catalogueBytes,message:'Commit-chain diagnostic failed. Check Cloudflare logs.'},502);
+  }
+ }
  if(body?.type==='collection'&&body.action==='delete')return deleteCollection(env,body);
  if(body?.type==='game'&&body.action==='delete')return deleteGame(env,body);
  if(body?.type==='series')return publishSeriesArtwork(env,body);
