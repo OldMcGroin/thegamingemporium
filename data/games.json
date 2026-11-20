@@ -87958,5 +87958,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4811-a345ccfa1227bda1.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4812,
+    "title": "MultiVersus 2023 Open Beta Rust Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Toxcious/mvs-classic",
+    "video_link": "",
+    "platform": "Steam",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4812-4ffbe4d6c121a5eb.webp",
+    "date_added": "2026-11-20"
   }
 ]
