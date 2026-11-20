@@ -88119,5 +88119,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4817-7a705ead5b388d99.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4818,
+    "title": "Drakan The Ancients' Gates PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://christophervr.github.io/Drakan2PC/",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "browser",
+        "label": "Browser",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4818-c4cbfdd5b4416db7.webp",
+    "date_added": "2026-11-20"
   }
 ]
