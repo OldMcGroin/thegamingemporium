@@ -236,6 +236,35 @@ export async function onRequestPost({request,env}){
  if(!env.GITHUB_TOKEN)return reply({ok:false,message:'GitHub publishing is not configured.'},503);
  const length=Number(request.headers.get('content-length')||0);if(length>1800000)return reply({ok:false,message:'Request too large.'},413);
  let body;try{body=await request.json()}catch{return reply({ok:false,message:'Invalid JSON.'},400)}
+ if(
+  BRANCH(env)==='test/release-platforms' &&
+  body?.type==='diagnostic' &&
+  body?.action==='upload-catalogue'
+ ){
+  try{
+   console.log('TGE diagnostic: reading catalogue');
+   const file=await readFile(env,PATHS.game);
+   console.log('TGE diagnostic: catalogue loaded',file.list.length);
+   const content=JSON.stringify(file.list,null,2)+'\n';
+   console.log('TGE diagnostic: uploading unchanged catalogue');
+   const blob=await github(env,'git/blobs',{
+    method:'POST',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({content,encoding:'utf-8'})
+   });
+   console.log('TGE diagnostic: upload completed');
+   return reply({
+    ok:true,
+    diagnostic:true,
+    games:file.list.length,
+    blobCreated:!!blob.sha,
+    message:'Unreferenced GitHub blob created. No commit or branch update.'
+   });
+  }catch(e){
+   console.error('TGE diagnostic failed',e);
+   return reply({ok:false,message:'Diagnostic upload failed. Check Cloudflare logs.'},502);
+  }
+ }
  if(body?.type==='collection'&&body.action==='delete')return deleteCollection(env,body);
  if(body?.type==='game'&&body.action==='delete')return deleteGame(env,body);
  if(body?.type==='series')return publishSeriesArtwork(env,body);
