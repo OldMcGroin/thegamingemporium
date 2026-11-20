@@ -87601,5 +87601,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4798-00b4864145267965.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4799,
+    "title": "Juiced PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hk21x/juiced-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4799-df123345a7ee3a1a.webp",
+    "date_added": "2026-11-20"
   }
 ]
