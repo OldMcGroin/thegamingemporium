@@ -87814,5 +87814,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4806-938ed9b2af9d308b.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4807,
+    "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Dewey-Wilkerson/Hylian-Melodies",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "roguelike",
+    "genre2": "rhythm-based",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4807-9bcbf695f1de3e46.webp",
+    "date_added": "2026-11-20"
   }
 ]
