@@ -83000,7 +83000,7 @@
     "genre1": "action",
     "genre2": "",
     "series": "The Legend of Zelda",
-    "collection": "",
+    "collection": "hyrule-warriors-age-of-calamity",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -83021,7 +83021,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/Azzulin/EXCUUUUSE-ME-PRINCESS-/releases/download/v0.1.5/AoC-Recomp-0.1.5-Windows.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4648,
