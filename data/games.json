@@ -87780,5 +87780,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4805-e5027a55ed2c6056.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4806,
+    "title": "The Legend of Zelda: Echoes of Wisdom Recompilation 3",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/patrickksmdev/EoWRecomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-echoes-of-wisdom",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4806-938ed9b2af9d308b.webp",
+    "date_added": "2026-11-20"
   }
 ]
