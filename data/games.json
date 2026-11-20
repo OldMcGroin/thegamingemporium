@@ -88207,5 +88207,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4820-57714f5c35278187.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4821,
+    "title": "Crash Twinsanity Nintendo Switch Port ",
+    "category": "console-ports",
+    "link": "https://github.com/dampestwriter/reNsanity",
+    "video_link": "",
+    "platform": "",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4821-e362926f57295bef.webp",
+    "date_added": "2026-11-20"
   }
 ]
