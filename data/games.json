@@ -82185,7 +82185,7 @@
     "genre1": "level-builder",
     "genre2": "sandbox",
     "series": "",
-    "collection": "",
+    "collection": "littlebigplanet-3",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -82199,7 +82199,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/emurphy04/LBPPC/releases/download/v0.1.5/LBPPC-0.1.5-windows.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4620,
