@@ -88226,5 +88226,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4821-e362926f57295bef.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4822,
+    "title": "Mortal Kombat Komplete Edition PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/machinebreak/mk9-lauta",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Mortal Kombat",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4822-8639e5af39f162eb.webp",
+    "date_added": "2026-11-20"
   }
 ]
