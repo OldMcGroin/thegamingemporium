@@ -20,5 +20,9 @@
   "windows": "Windows",
   "xbox": "Xbox",
   "xbox-360": "Xbox 360",
-  "xbox-series-x-s": "Xbox Series X|S"
+  "xbox-series-x-s": "Xbox Series X|S",
+  "playstation-1": "PlayStation 1",
+  "nintendo-64": "Nintendo 64",
+  "sega-32x": "Sega 32X",
+  "playstation-3": "PlayStation 3"
 }
