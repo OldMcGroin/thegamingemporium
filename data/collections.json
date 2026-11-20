@@ -1289,5 +1289,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/gauntlet-dark-legacy-collection.webp"
+  },
+  {
+    "name": "Hyrule Warriors: Age of Calamity",
+    "slug": "hyrule-warriors-age-of-calamity",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/hyrule-warriors-age-of-calamity-collection.webp"
   }
 ]
