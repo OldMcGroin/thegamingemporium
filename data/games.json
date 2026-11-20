@@ -87545,5 +87545,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4796-9a340bb43a3a869a.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4797,
+    "title": "Gran Turismo 3 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Silentwarior112/GT3-PC-ENHANCED",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "collection": "gran-turismo-3",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4797-2ef7827234e8a422.webp",
+    "date_added": "2026-11-20"
   }
 ]
