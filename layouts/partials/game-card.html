@@ -33,7 +33,7 @@ Image strategy (scales to thousands of items):
 {{- if $g.genre1 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre1) }}{{ end -}}
 {{- if $g.genre2 }}{{ $genres = $genres | append (partial "format-genre.html" $g.genre2) }}{{ end -}}
 {{- $genreDisp := delimit $genres ", " -}}
-<div class="game-card{{ if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) }} game-card--decomp-list{{ end }}" data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
+<div class="game-card{{ if and (isset . "ctx") (or (and (eq .ctx.Page.Section "categories") (eq .ctx.Page.Params.slug "decompilations-recompilations")) (eq .ctx.Page.Section "collections")) }} game-card--decomp-list{{ end }}"{{ if .collectionMember }} data-collection-member="true"{{ end }} data-favourite-id="{{ $slug }}" data-weight="{{ default 0 $g.weight }}" data-title="{{ $title }}" data-genres="{{ delimit $genres "|" }}" data-category="{{ $g.category }}" data-category-display="{{ $catDisp }}" data-ai-usage="{{ default "unknown" $g.ai_usage }}" data-platform="{{ default "" $g.platform }}" data-release-platforms="{{ range $i, $p := $g.release_platforms }}{{ if and (or (eq $p.verification "verified") (eq $p.verification "manual")) (or (eq $p.classification "downloadable") (eq $p.classification "hosted")) }}{{ $p.id }}|{{ end }}{{ end }}" data-date-added="{{ if $g.date_added }}{{ replace ($g.date_added | strings.TrimSpace) "/" "-" }}{{ end }}">
   {{/* Only show the helper button while running `hugo server` (local dev) */}}
   {{- if and (isset . "ctx") hugo.IsServer -}}
     {{/* Copies only the slug (no extension), e.g. "advance-wars-returns" */}}
@@ -121,7 +121,7 @@ Image strategy (scales to thousands of items):
 {{- if $showPlatformCard -}}
   {{- if hugo.IsServer -}}
     <div class="admin-platform-editor" data-platform-editor-wrap>
-      <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Platform</label>
+      <label class="admin-platform-editor__label" for="platform-{{ $g.id }}">Original Platform</label>
       <select class="admin-platform-editor__select"
               id="platform-{{ $g.id }}"
               data-platform-editor
@@ -133,7 +133,7 @@ Image strategy (scales to thousands of items):
     </div>
   {{- else if $g.platform -}}
     <div class="game-card__platform" aria-label="Platform: {{ $g.platform }}">
-      <span class="game-card__platform-label">Platform</span>
+      <span class="game-card__platform-label">Original Platform</span>
       <span class="game-card__platform-value">{{ $g.platform }}</span>
     </div>
   {{- end -}}
