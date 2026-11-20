@@ -1275,5 +1275,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/grand-theft-auto-liberty-city-stories-collection.webp"
+  },
+  {
+    "name": "Gran Turismo 3",
+    "slug": "gran-turismo-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/gran-turismo-3-collection.webp"
   }
 ]
