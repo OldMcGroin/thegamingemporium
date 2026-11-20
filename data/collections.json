@@ -1282,5 +1282,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/gran-turismo-3-collection.webp"
+  },
+  {
+    "name": "Gauntlet: Dark Legacy",
+    "slug": "gauntlet-dark-legacy",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/gauntlet-dark-legacy-collection.webp"
   }
 ]
