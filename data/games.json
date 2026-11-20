@@ -88180,5 +88180,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4819-9d1bc272e74039ad.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4820,
+    "title": "Harvest Moon: Animal Parade PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RodoLy/HarvestMoonAnimalParadeRecomp",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "farming-simulator",
+    "genre2": "rpg",
+    "series": "Harvest Moon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4820-57714f5c35278187.webp",
+    "date_added": "2026-11-20"
   }
 ]
