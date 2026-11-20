@@ -66892,7 +66892,7 @@
     "platform": "PlayStation 2",
     "genre1": "racing",
     "genre2": "",
-    "collection": "",
+    "collection": "gran-turismo-3",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -66941,7 +66941,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/matt-pulsipher/GT3-revisited/releases/download/v0.6.6/gt3r-windows-x64-vr.zip"
       }
-    ]
+    ],
+    "series": "",
+    "show_in_recent": true
   },
   {
     "id": 4085,
