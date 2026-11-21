@@ -88822,5 +88822,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4841-b622c4b77fed01e1.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4842,
+    "title": "Gene Wars PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Polocop/genewars",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4842-b8a007eef1b5e906.webp",
+    "date_added": "2026-11-21"
   }
 ]
