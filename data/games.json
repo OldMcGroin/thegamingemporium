@@ -88416,5 +88416,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4827-b14cdb7e10006ace.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4828,
+    "title": "Mario Golf in Browser ",
+    "category": "browser-based",
+    "link": "https://n64hub.com/mario-golf/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4828-6a155ebd36d10a4a.webp",
+    "date_added": "2026-11-21"
   }
 ]
