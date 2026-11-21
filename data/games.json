@@ -89164,5 +89164,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4854-5c5b8a26d33d1cc7.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4855,
+    "title": "Star Wars Episode I: Racer PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GameOrDie007/Star-Wars-Episode-I-Racer-N64",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Star Wars",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4855-8036a24b1c4093de.webp",
+    "date_added": "2026-11-21"
   }
 ]
