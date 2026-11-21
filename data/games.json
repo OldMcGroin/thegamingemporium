@@ -88682,5 +88682,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4836-7ba262f41bc4e16c.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4837,
+    "title": "Darkest Fear PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/nitanmarcel/darkest-fear-libgdx",
+    "video_link": "",
+    "platform": "J2ME",
+    "genre1": "survival-horror",
+    "genre2": "puzzle",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4837-711232692148b982.webp",
+    "date_added": "2026-11-21"
   }
 ]
