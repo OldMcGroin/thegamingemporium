@@ -88984,5 +88984,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4847-5c229759d1302778.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4848,
+    "title": "Black Ops Zombies Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "first-person-shooter",
+    "genre2": "survival-horror",
+    "series": "Call of Duty",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4848-747609bf72d9c2dd.webp",
+    "date_added": "2026-11-21"
   }
 ]
