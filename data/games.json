@@ -79250,7 +79250,7 @@
     "genre1": "beat-em-up",
     "genre2": "action",
     "series": "",
-    "collection": "",
+    "collection": "buffy-the-vampire-slayer",
     "ai_usage": "heavy",
     "weight": "",
     "hidden": false,
@@ -79264,7 +79264,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/wiluss/btvs-recomp#readme"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4520,
