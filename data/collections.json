@@ -1310,5 +1310,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/buffy-the-vampire-slayer-collection.webp"
+  },
+  {
+    "name": "Risk of Rain 2",
+    "slug": "risk-of-rain-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/risk-of-rain-2-collection.webp"
   }
 ]
