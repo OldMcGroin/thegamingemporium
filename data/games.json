@@ -88287,5 +88287,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4823-910b20a6824f622b.webp",
     "date_added": "2026-11-20"
+  },
+  {
+    "id": 4824,
+    "title": "Sid Meier's Covert Action PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Arkana-Mechanika-Studios/covert-action-enhanced",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "strategy",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4824-43503820fb844017.webp",
+    "date_added": "2026-11-21"
   }
 ]
