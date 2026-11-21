@@ -48365,18 +48365,18 @@
     "ai_usage": "heavy",
     "release_platforms": [
       {
-        "id": "android",
-        "label": "Android",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/releases/download/v1.0.3/Buffy-Chaos-Bleeds-Android-v1.0.3.apk"
-      },
-      {
         "id": "linux",
         "label": "Linux",
         "classification": "compatibility",
         "verification": "verified",
         "evidence_url": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc#readme"
+      },
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "verified",
+        "evidence_url": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/releases/download/v1.0.3/Buffy-Chaos-Bleeds-Android-v1.0.3.apk"
       },
       {
         "id": "windows",
@@ -48385,7 +48385,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/releases/download/v1.0.3/Buffy-Chaos-Bleeds-PC-v1.0.3.zip"
       }
-    ]
+    ],
+    "collection": "buffy-the-vampire-slayer",
+    "show_in_recent": true
   },
   {
     "id": 3237,
