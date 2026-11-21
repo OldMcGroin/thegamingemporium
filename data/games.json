@@ -89013,5 +89013,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4848-747609bf72d9c2dd.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4849,
+    "title": "Black Ops Zombies for Android 2",
+    "category": "android-ports",
+    "link": "https://github.com/Joolace/T5-Jool---Black-Ops-Recomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "first person shooter",
+    "genre2": "survival-horror",
+    "series": "Call of Duty",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4849-2c1ef1eeb5f6d70a.webp",
+    "date_added": "2026-11-21"
   }
 ]
