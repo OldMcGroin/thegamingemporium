@@ -37643,7 +37643,7 @@
   },
   {
     "id": 2680,
-    "title": "Call of Duty Black Ops Zombies for Android",
+    "title": "Black Ops Zombies for Android",
     "category": "android-ports",
     "link": "https://github.com/eugene373/COD-BOZ-Partially-Decompiled/releases/tag/v0.3-s3e-tools",
     "genre1": "first-person-shooter",
@@ -37652,7 +37652,9 @@
     "video_link": "https://youtu.be/TjQlFbrmLAI?si=el3dL5T1OSqPIG2k",
     "notes": "",
     "date_added": "2026-08-09",
-    "image": ""
+    "image": "",
+    "release_platforms": [],
+    "show_in_recent": true
   },
   {
     "id": 2681,
