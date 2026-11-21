@@ -89126,5 +89126,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4852-6de3c901e9ecb09a.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4853,
+    "title": "Crash Team Racing in Browser 2",
+    "category": "browser-based",
+    "link": "https://elipp.github.io/ctr-rs/play/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4853-0d9fa344fd687655.webp",
+    "date_added": "2026-11-21"
   }
 ]
