@@ -88510,5 +88510,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4830-79d36cc0c233f566.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4831,
+    "title": "The Legend of Zelda: A Link Between Worlds PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/spacestate1/albw-native",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4831-64c6e58b6216b1ed.webp",
+    "date_added": "2026-11-21"
   }
 ]
