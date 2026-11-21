@@ -88314,5 +88314,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4824-43503820fb844017.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4825,
+    "title": "Darklands PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://arkana-mechanika-labs.github.io/",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "rpg",
+    "genre2": "sandbox",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4825-d440048419a74a26.webp",
+    "date_added": "2026-11-21"
   }
 ]
