@@ -88375,5 +88375,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4826-de4509a265e0723d.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4827,
+    "title": "Mario Golf PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/n64hub/mario-golf-recomp",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "browser",
+        "label": "Browser",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4827-b14cdb7e10006ace.webp",
+    "date_added": "2026-11-21"
   }
 ]
