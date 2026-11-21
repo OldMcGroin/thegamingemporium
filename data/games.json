@@ -88544,5 +88544,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4831-64c6e58b6216b1ed.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4832,
+    "title": "Buriki One PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/QuietClubGames/ReBuriki",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4832-71a05968f21334c6.webp",
+    "date_added": "2026-11-21"
   }
 ]
