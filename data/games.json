@@ -88628,5 +88628,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4834-b977924eb10ce8ed.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4835,
+    "title": "Risk of Rain 2 MacOS Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TsiFroviK/Risk2Mac",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "roguelike",
+    "genre2": "third-person-shooter",
+    "series": "Risk of Rain",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4835-1d2172575a502aa3.webp",
+    "date_added": "2026-11-21"
   }
 ]
