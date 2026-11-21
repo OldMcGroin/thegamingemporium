@@ -88903,5 +88903,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4844-88e9ec125ac4e91c.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4845,
+    "title": "NCAA Football 06 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/maddog847/NCAA-Football-06-XBERecomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4845-82e41fd4c8b4ef68.webp",
+    "date_added": "2026-11-21"
   }
 ]
