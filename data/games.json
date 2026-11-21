@@ -88730,5 +88730,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4837-711232692148b982.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4838,
+    "title": "Darkest Fear for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/nitanmarcel/darkest-fear-libgdx",
+    "video_link": "",
+    "platform": "",
+    "genre1": "survival-horror",
+    "genre2": "puzzle",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4838-556b2b2fd5c94e73.webp",
+    "date_added": "2026-11-21"
   }
 ]
