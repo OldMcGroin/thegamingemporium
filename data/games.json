@@ -88768,5 +88768,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4839-9c5d3e73b1ee0bb8.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4840,
+    "title": "Cars 3: Driven to Win PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/afkarxyz/PistonPort",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4840-dab9e6d60d4a77f1.webp",
+    "date_added": "2026-11-21"
   }
 ]
