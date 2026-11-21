@@ -88435,5 +88435,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4828-6a155ebd36d10a4a.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4829,
+    "title": "Animal Crossing: City Folk PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Cuyler36/suitcase",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "life-simulator",
+    "genre2": "sandbox",
+    "series": "Animal Crossing",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4829-724d5cec568a677e.webp",
+    "date_added": "2026-11-21"
   }
 ]
