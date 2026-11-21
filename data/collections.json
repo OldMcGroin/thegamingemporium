@@ -1303,5 +1303,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/littlebigplanet-3-collection.webp"
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "slug": "buffy-the-vampire-slayer",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/buffy-the-vampire-slayer-collection.webp"
   }
 ]
