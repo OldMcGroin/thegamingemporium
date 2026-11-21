@@ -89145,5 +89145,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4853-0d9fa344fd687655.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4854,
+    "title": "The Legend of Zelda: Ocarina of Time 2026 VR",
+    "category": "vr-ports",
+    "link": "https://github.com/ReTracedGames/OcarinaVR",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4854-5c5b8a26d33d1cc7.webp",
+    "date_added": "2026-11-21"
   }
 ]
