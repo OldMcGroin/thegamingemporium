@@ -88749,5 +88749,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4838-556b2b2fd5c94e73.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4839,
+    "title": "Hollow Knight Nintendo 3DS Port",
+    "category": "console-ports",
+    "link": "https://github.com/silviognotti/HK3DS",
+    "video_link": "",
+    "platform": "",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "Hollow Knight",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4839-9c5d3e73b1ee0bb8.webp",
+    "date_added": "2026-11-21"
   }
 ]
