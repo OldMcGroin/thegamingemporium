@@ -88957,5 +88957,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4846-e3810d434d6a93e9.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4847,
+    "title": "Mercenaries: Playground of Destruction PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/KraftMacAndChee/Mercenaries-Recompiled",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Mercenaries",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4847-5c229759d1302778.webp",
+    "date_added": "2026-11-21"
   }
 ]
