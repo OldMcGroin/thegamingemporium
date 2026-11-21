@@ -88795,5 +88795,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4840-dab9e6d60d4a77f1.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4841,
+    "title": "Doritos Crash Course PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/panedivitasei/CrashCourseRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4841-b622c4b77fed01e1.webp",
+    "date_added": "2026-11-21"
   }
 ]
