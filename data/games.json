@@ -88930,5 +88930,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4845-82e41fd4c8b4ef68.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4846,
+    "title": "Backbreaker Linux Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/owmyback/backbreaker-recomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4846-e3810d434d6a93e9.webp",
+    "date_added": "2026-11-21"
   }
 ]
