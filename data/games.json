@@ -89078,5 +89078,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4851-c933d7890ed70e7c.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4852,
+    "title": "Crash Team Racing Rust Reimplementation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/elipp/ctr-rs",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Crash Bandicoot",
+    "collection": "crash-team-racing",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "browser",
+        "label": "Browser",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4852-6de3c901e9ecb09a.webp",
+    "date_added": "2026-11-21"
   }
 ]
