@@ -89455,5 +89455,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4866-b8b2a88bcb7ac99f.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4867,
+    "title": "Dangerous Dave in the Haunted Mansion PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Syncr0ndi/DDHM-Recomp",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4867-ece88fc9abf394b0.webp",
+    "date_added": "2026-11-22"
   }
 ]
