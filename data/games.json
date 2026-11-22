@@ -89401,5 +89401,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4864-2afb1cd06d4ff7c9.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4865,
+    "title": "PokéPark 2: Wonders Beyond PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Dvrkie13/Wonderpark",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Pokemon",
+    "collection": "pokepark-2-wonders-beyond",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4865-4962a2542d505a80.webp",
+    "date_added": "2026-11-22"
   }
 ]
