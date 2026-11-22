@@ -89675,5 +89675,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4874-ffacb7e72704ce1d.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4875,
+    "title": "House of The Dead 4 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/davidptrssvea/HOTD-4-Special-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "series": "The House Of The Dead",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4875-233d0c37d6c64acc.webp",
+    "date_added": "2026-11-22"
   }
 ]
