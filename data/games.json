@@ -89634,5 +89634,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4873-735b8be06f785565.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4874,
+    "title": "Pokémon Colosseum + XD Gale of Darkness PC Port Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/chasem-dev/orre-launcher",
+    "video_link": "",
+    "platform": "GameCube",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4874-ffacb7e72704ce1d.webp",
+    "date_added": "2026-11-22"
   }
 ]
