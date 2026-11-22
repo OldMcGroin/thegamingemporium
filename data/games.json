@@ -89354,5 +89354,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4860-8f7947b67045b143.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4861,
+    "title": "Tekken 3 Sega Saturn Port ",
+    "category": "console-ports",
+    "link": "https://celsowm.itch.io/tekken-3-saturn-demo",
+    "video_link": "",
+    "platform": "",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Tekken",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4861-1dbb5848d384e1b4.webp",
+    "date_added": "2026-11-22"
   }
 ]
