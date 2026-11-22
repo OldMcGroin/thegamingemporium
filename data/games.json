@@ -89198,5 +89198,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4855-8036a24b1c4093de.webp",
     "date_added": "2026-11-21"
+  },
+  {
+    "id": 4856,
+    "title": "Persona 2: Eternal Punishment PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sargon494/PersonaRM",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Persona",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4856-fa03b4cd05a9353b.webp",
+    "date_added": "2026-11-22"
   }
 ]
