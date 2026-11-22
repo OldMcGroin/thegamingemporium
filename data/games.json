@@ -89509,5 +89509,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4868-27832c071563341b.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4869,
+    "title": "Madeline: European Adventures Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/prasys/yellow-hat-across-europe/",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4869-c76decca24156e67.webp",
+    "date_added": "2026-11-22"
   }
 ]
