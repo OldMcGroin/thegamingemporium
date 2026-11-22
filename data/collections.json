@@ -1324,5 +1324,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/jet-set-radio-future-collection.webp"
+  },
+  {
+    "name": "PokéPark 2: Wonders Beyond",
+    "slug": "pokepark-2-wonders-beyond",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/pokepark-2-wonders-beyond-collection.webp"
   }
 ]
