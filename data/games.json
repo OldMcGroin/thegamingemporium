@@ -83505,7 +83505,7 @@
     "genre1": "action",
     "genre2": "adventure",
     "series": "Pokemon",
-    "collection": "",
+    "collection": "pokepark-2-wonders-beyond",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -83526,7 +83526,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/MildRain479/PokePark-2-Wiicompiled/releases/download/v0.1.2-beta/PokePark2-v0.1.2-beta-Windows.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4667,
