@@ -89569,5 +89569,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4870-22431f9dad5a01b1.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4871,
+    "title": "Virtua Fighter 4 Final Tuned (Ver. B) PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/djanice1980/VF4-Final-Tuned-Rev-B-Recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Virtua Fighter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4871-62d960ff3ec7c6f6.webp",
+    "date_added": "2026-11-22"
   }
 ]
