@@ -89428,5 +89428,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4865-4962a2542d505a80.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4866,
+    "title": "Alley Cat Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Syncr0ndi/AlleyCat-Recomp",
+    "video_link": "",
+    "platform": "IBM",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4866-b8b2a88bcb7ac99f.webp",
+    "date_added": "2026-11-22"
   }
 ]
