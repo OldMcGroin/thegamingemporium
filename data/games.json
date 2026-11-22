@@ -89729,5 +89729,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4876-32a70d2490ce0bc9.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4877,
+    "title": "Need for Speed: Special Edition Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Buyukcaglar/NFSSE",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "playstation-3",
+        "label": "PlayStation 3",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4877-f1b4e2fa51fe58b6.webp",
+    "date_added": "2026-11-22"
   }
 ]
