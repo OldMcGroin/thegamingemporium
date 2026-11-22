@@ -89596,5 +89596,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4871-62d960ff3ec7c6f6.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4872,
+    "title": "Teenage Mutant Ninja Turtles Arcade NEO GEO Port",
+    "category": "console-ports",
+    "link": "https://arcadeperfectports.itch.io/tmht-ng",
+    "video_link": "https://youtu.be/z6shvyFUu5M?is=oMBJ4vRMLSQpPFOv",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Teenage Mutant Ninja Turtles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4872-a5e70337402da55c.webp",
+    "date_added": "2026-11-22"
   }
 ]
