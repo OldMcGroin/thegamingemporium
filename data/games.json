@@ -89482,5 +89482,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4867-ece88fc9abf394b0.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4868,
+    "title": "NieR Reincarnation Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/veritr1x/reincomp",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "rpg",
+    "genre2": "strategy",
+    "series": "NieR Automata",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4868-27832c071563341b.webp",
+    "date_added": "2026-11-22"
   }
 ]
