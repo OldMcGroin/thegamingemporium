@@ -79551,67 +79551,6 @@
     ]
   },
   {
-    "id": 4529,
-    "title": "Sonic Riders PC Port",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/teclilla18/sonic-riders-recomp",
-    "video_link": "",
-    "platform": "GameCube",
-    "genre1": "racing",
-    "genre2": "",
-    "series": "Sonic the Hedgehog",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4529-bb44ebf5054f3ea7.webp",
-    "date_added": "2026-11-09",
-    "release_platforms": [
-      {
-        "id": "android",
-        "label": "Android",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-Android-Setup-v0.8.6.zip"
-      },
-      {
-        "id": "ios",
-        "label": "iOS",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.4/SonicRiders-iOS-Setup-v0.8.4.zip"
-      },
-      {
-        "id": "linux",
-        "label": "Linux",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-Linux-Setup-v0.8.6.zip"
-      },
-      {
-        "id": "nintendo-switch",
-        "label": "Nintendo Switch",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-Switch-Setup-v0.8.6.zip"
-      },
-      {
-        "id": "nintendo-switch-2",
-        "label": "Nintendo Switch 2",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6-switch2-alpha.1/SonicRiders-Switch2-Setup-Alpha1.zip"
-      },
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-PC-Setup-v0.8.6.zip"
-      }
-    ]
-  },
-  {
     "id": 4530,
     "title": "Metroid Prime 4: Beyond Windows Port",
     "category": "decompilations-recompilations",
