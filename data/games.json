@@ -89225,5 +89225,60 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4856-fa03b4cd05a9353b.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4857,
+    "title": "Heroes of Might and Magic 4 Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/evilHazzarD/ReHoMM4",
+    "video_link": "",
+    "platform": "GOG",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Heroes of Might and Magic",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "ios",
+        "label": "iOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "nintendo-switch",
+        "label": "Nintendo Switch",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4857-11103fa9364166ee.webp",
+    "date_added": "2026-11-22"
   }
 ]
