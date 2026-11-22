@@ -89280,5 +89280,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4857-11103fa9364166ee.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4858,
+    "title": "Heroes of Might and Magic 4 for Android",
+    "category": "android-ports",
+    "link": "https://github.com/evilHazzarD/ReHoMM4",
+    "video_link": "",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "",
+    "series": "Heroes of Might and Magic",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4858-9f28200fe3811be0.webp",
+    "date_added": "2026-11-22"
   }
 ]
