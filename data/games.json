@@ -89320,5 +89320,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4859-2b9a7b6332474861.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4860,
+    "title": "Jet Set Radio Future PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/spriteice/JSRF-PC",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "sports",
+    "series": "Jet Set Radio",
+    "collection": "jet-set-radio-future",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4860-8f7947b67045b143.webp",
+    "date_added": "2026-11-22"
   }
 ]
