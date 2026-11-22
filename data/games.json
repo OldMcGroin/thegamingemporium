@@ -89702,5 +89702,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4875-233d0c37d6c64acc.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4876,
+    "title": "PlayStation All-Stars Battle Royale PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/samuelMadureira23/allstars-port",
+    "video_link": "https://youtu.be/qZst80PFzA4?si=2Pn1Pvwrl7JbmM8Z",
+    "platform": "PlayStation 3",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4876-32a70d2490ce0bc9.webp",
+    "date_added": "2026-11-22"
   }
 ]
