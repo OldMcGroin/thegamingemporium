@@ -77870,7 +77870,7 @@
     "id": 4471,
     "title": "Sonic Riders PC Port",
     "category": "decompilations-recompilations",
-    "link": "https://github.com/teclilla18/sonic-riders-recomp",
+    "link": "https://teclilla18.github.io/sonic-riders-recomp/",
     "video_link": "",
     "platform": "GameCube",
     "genre1": "racing",
@@ -77898,13 +77898,6 @@
         "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.4/SonicRiders-iOS-Setup-v0.8.4.zip"
       },
       {
-        "id": "linux",
-        "label": "Linux",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-Linux-Setup-v0.8.6.zip"
-      },
-      {
         "id": "nintendo-switch",
         "label": "Nintendo Switch",
         "classification": "source",
@@ -77924,8 +77917,16 @@
         "classification": "source",
         "verification": "verified",
         "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-PC-Setup-v0.8.6.zip"
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "verified",
+        "evidence_url": "https://github.com/teclilla18/sonic-riders-recomp/releases/download/v0.8.6/SonicRiders-Linux-Setup-v0.8.6.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4473,
