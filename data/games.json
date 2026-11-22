@@ -89550,5 +89550,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4869-c76decca24156e67.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4870,
+    "title": "Sunset Riders NEO GEO Port",
+    "category": "console-ports",
+    "link": "https://bendk97.itch.io/sunset-riders-neo-geo",
+    "video_link": "https://youtu.be/qU_U64ZnpzA?si=x7mZM5LUeW5jZ-rH",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4870-22431f9dad5a01b1.webp",
+    "date_added": "2026-11-22"
   }
 ]
