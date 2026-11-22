@@ -1317,5 +1317,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/risk-of-rain-2-collection.webp"
+  },
+  {
+    "name": "Jet Set Radio Future",
+    "slug": "jet-set-radio-future",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/jet-set-radio-future-collection.webp"
   }
 ]
