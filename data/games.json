@@ -60091,7 +60091,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed/releases/download/v0.6.10/JSRF-Unleashed-windows-x86_64.zip"
       }
-    ]
+    ],
+    "collection": "jet-set-radio-future",
+    "show_in_recent": true
   },
   {
     "id": 3783,
