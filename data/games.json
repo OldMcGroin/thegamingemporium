@@ -90674,5 +90674,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4909-55b2c91f8f21dcf8.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4910,
+    "title": "Transformers: War for Cybertron VR",
+    "category": "vr-ports",
+    "link": "https://github.com/liper76/TWFC-VR",
+    "video_link": "https://youtu.be/wZ-C8ut3Yxk?is=_iynZuLtYYt_afVc",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Transformers",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4910-2a9a951e6506cbc9.webp",
+    "date_added": "2026-11-23"
   }
 ]
