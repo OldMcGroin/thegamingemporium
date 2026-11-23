@@ -90620,5 +90620,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4907-3eb621b5e7a59216.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4908,
+    "title": "Harry Potter and the Prisoner of Azkaban Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/MiddleDucky/HP-POA-Xbox-Recomp/",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4908-eeb31d225fc7cf20.webp",
+    "date_added": "2026-11-23"
   }
 ]
