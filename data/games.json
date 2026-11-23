@@ -90088,5 +90088,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4888-aa50a6de93ffcaf1.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4889,
+    "title": "007: Quantum of Solace PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thegh0sts/007-QOS-X360-PORT",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4889-056598bec7e227b6.webp",
+    "date_added": "2026-11-23"
   }
 ]
