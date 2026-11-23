@@ -90788,5 +90788,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4913-c25ae2b717ec9678.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4914,
+    "title": "NieR Gestalt for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/KijenP/nier-gestalt-port",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4914-fa47b38eb80c366e.webp",
+    "date_added": "2026-11-23"
   }
 ]
