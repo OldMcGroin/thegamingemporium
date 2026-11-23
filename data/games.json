@@ -90693,5 +90693,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4910-2a9a951e6506cbc9.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4911,
+    "title": "Wacky Races Starring: Dastardly & Muttley PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/HammMannCH/HyperToken",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4911-d8edd140911c49ca.webp",
+    "date_added": "2026-11-23"
   }
 ]
