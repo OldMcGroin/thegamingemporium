@@ -89772,5 +89772,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4877-f1b4e2fa51fe58b6.webp",
     "date_added": "2026-11-22"
+  },
+  {
+    "id": 4878,
+    "title": "Final Fantasy 3 3D Remake",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ausnick2001/OpenFF3-Enhanced",
+    "video_link": "https://youtu.be/cnKPI1xDIpE?is=XyoVcR-Y0yfKs9pb",
+    "platform": "Steam",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Final Fantasy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4878-0ff11a50bf4b4a17.webp",
+    "date_added": "2026-11-23"
   }
 ]
