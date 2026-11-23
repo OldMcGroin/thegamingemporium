@@ -90512,5 +90512,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4903-9cc85b48c8fce58a.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4904,
+    "title": "Halo 2 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/dalves408/halo2-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4904-5ec0f8b87f4a9654.webp",
+    "date_added": "2026-11-23"
   }
 ]
