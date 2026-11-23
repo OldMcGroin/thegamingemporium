@@ -90149,5 +90149,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4890-c4a3704a3dad2150.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4891,
+    "title": "Killzone HD PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gustavomorinaga/project-vekta",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Killzone",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4891-7115f29daac79822.webp",
+    "date_added": "2026-11-23"
   }
 ]
