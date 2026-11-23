@@ -89799,5 +89799,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4878-0ff11a50bf4b4a17.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4879,
+    "title": "Super Mario 3D Land Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Okxmir/super-mario-3d-land-recompiled",
+    "video_link": "",
+    "platform": "Nintendo 3DS",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4879-9d83b500d67284f7.webp",
+    "date_added": "2026-11-23"
   }
 ]
