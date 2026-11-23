@@ -90069,5 +90069,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4887-82784a75784c8d6d.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4888,
+    "title": "Need for Speed Heat VR",
+    "category": "vr-ports",
+    "link": "https://github.com/sqofer/NFS-Heat-VR",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4888-aa50a6de93ffcaf1.webp",
+    "date_added": "2026-11-23"
   }
 ]
