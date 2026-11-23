@@ -90425,5 +90425,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4900-b148b9ffb53ef6d2.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4901,
+    "title": "The Punisher: Extended Cut",
+    "category": "mods",
+    "link": "https://github.com/ThePunisher2005-ExtendedCut/Extended-Cut",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4901-369c116c5b108ee6.webp",
+    "date_added": "2026-11-23"
   }
 ]
