@@ -90539,5 +90539,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4904-5ec0f8b87f4a9654.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4905,
+    "title": "Grand Theft Auto: Liberty City Stories PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/illustricious/gta-lcs-pc",
+    "video_link": "",
+    "platform": "Android",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "collection": "grand-theft-auto-liberty-city-stories",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4905-ebe6882fea5e6003.webp",
+    "date_added": "2026-11-23"
   }
 ]
