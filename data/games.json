@@ -89921,5 +89921,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4882-58650882ec2fad42.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4883,
+    "title": "King's Field: The Ancient City PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Voicedrew11/holyland",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "King's Field",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4883-758d2f802a3ae308.webp",
+    "date_added": "2026-11-23"
   }
 ]
