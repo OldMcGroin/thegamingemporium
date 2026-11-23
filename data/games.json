@@ -90229,5 +90229,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4893-24433c840ddcd5e3.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4894,
+    "title": "Cartucho - A Console-like Recompilation and PC Port Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GabrielGoris/cartucho",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4894-11704008aa136a06.webp",
+    "date_added": "2026-11-23"
   }
 ]
