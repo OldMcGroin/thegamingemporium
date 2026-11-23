@@ -67379,7 +67379,7 @@
     "platform": "Nintendo Wii",
     "genre1": "Platformer",
     "genre2": "",
-    "collection": "",
+    "collection": "new-super-mario-bros-wii",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -67414,7 +67414,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/WitherBlitz/NSMB-Wii-Recompilation/releases/download/v0.5.0/NSMBW-0.5.0-windows-x64.zip"
       }
-    ]
+    ],
+    "series": "Super Mario",
+    "show_in_recent": true
   },
   {
     "id": 4102,
