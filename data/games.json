@@ -89996,5 +89996,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4884-a85ea74f96773588.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4885,
+    "title": "X-Men 2: Clone Wars for Android",
+    "category": "android-ports",
+    "link": "https://github.com/TheOmega-hash/X-Men-2-Remastered",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "X-Men",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4885-008b331067f987c6.webp",
+    "date_added": "2026-11-23"
   }
 ]
