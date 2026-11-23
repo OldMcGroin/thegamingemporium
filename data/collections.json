@@ -1331,5 +1331,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/pokepark-2-wonders-beyond-collection.webp"
+  },
+  {
+    "name": "New Super Mario Bros. Wii",
+    "slug": "new-super-mario-bros-wii",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/new-super-mario-bros-wii-collection.webp"
   }
 ]
