@@ -90727,5 +90727,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4911-d8edd140911c49ca.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4912,
+    "title": "Crimson Skies PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Laeresh/CSVM",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "combat-flight-simulator",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4912-7f0dcf3a3ece25b4.webp",
+    "date_added": "2026-11-23"
   }
 ]
