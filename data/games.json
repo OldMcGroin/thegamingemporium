@@ -89955,5 +89955,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4883-758d2f802a3ae308.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4884,
+    "title": "X-Men 2: Clone Wars PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheOmega-hash/X-Men-2-Remastered",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "action",
+    "genre2": "platformer",
+    "series": "X-Men",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4884-a85ea74f96773588.webp",
+    "date_added": "2026-11-23"
   }
 ]
