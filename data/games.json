@@ -90015,5 +90015,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4885-008b331067f987c6.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4886,
+    "title": "DuckTales PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/formae-group/ducktales-recompiled",
+    "video_link": "",
+    "platform": "NES",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4886-7d4f6bf69e9f4f16.webp",
+    "date_added": "2026-11-23"
   }
 ]
