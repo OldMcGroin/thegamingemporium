@@ -1338,5 +1338,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/new-super-mario-bros-wii-collection.webp"
+  },
+  {
+    "name": "Twisted Metal 2",
+    "slug": "twisted-metal-2",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/twisted-metal-2-collection.webp"
   }
 ]
