@@ -90647,5 +90647,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4908-eeb31d225fc7cf20.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4909,
+    "title": "Baroque PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Arch61s/Baroque-Decomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "roguelike",
+    "genre2": "rpg",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4909-55b2c91f8f21dcf8.webp",
+    "date_added": "2026-11-23"
   }
 ]
