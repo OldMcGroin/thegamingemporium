@@ -90364,5 +90364,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4898-e0a612b10aa1337a.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4899,
+    "title": "Rule of Rose PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ptfpinho23/rule-of-rose-recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4899-7ae25ec14fe9170d.webp",
+    "date_added": "2026-11-23"
   }
 ]
