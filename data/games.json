@@ -90310,5 +90310,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4896-30020c9c46ac21d1.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4897,
+    "title": "Twisted Metal 2 PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Tokatta007/OpenTM2",
+    "video_link": "https://youtu.be/QdJrzCkjSc8?is=vqOIBJnpOKLD8GK3",
+    "platform": "PlayStation",
+    "genre1": "vehicular-combat",
+    "genre2": "",
+    "series": "Twisted Metal",
+    "collection": "twisted-metal-2",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4897-a5ea27a9f6167c03.webp",
+    "date_added": "2026-11-23"
   }
 ]
