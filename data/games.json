@@ -90042,5 +90042,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4886-7d4f6bf69e9f4f16.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4887,
+    "title": "Screamer Rally PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Rick-Barber/ScreamerRally-Recomp",
+    "video_link": "",
+    "platform": "DOS",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4887-82784a75784c8d6d.webp",
+    "date_added": "2026-11-23"
   }
 ]
