@@ -89860,5 +89860,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4880-1ed14fac72ddb06e.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4881,
+    "title": "Future Cop: L.A.P.D. PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RadiatorTwo/future_rust_cop",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "action",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4881-eb622426e4923c08.webp",
+    "date_added": "2026-11-23"
   }
 ]
