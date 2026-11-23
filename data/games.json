@@ -90115,5 +90115,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4889-056598bec7e227b6.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4890,
+    "title": "The Suffering PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Anthonyp85/TheSuffering-Recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "survival-horror",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4890-c4a3704a3dad2150.webp",
+    "date_added": "2026-11-23"
   }
 ]
