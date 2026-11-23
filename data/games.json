@@ -89894,5 +89894,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4881-eb622426e4923c08.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4882,
+    "title": "Mega Man Legends 1, 2 and The Misadventures of Tron Bonne Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/raiinman/Flutter-Deck",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "third-person-shooter",
+    "genre2": "action",
+    "series": "Mega Man",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4882-58650882ec2fad42.webp",
+    "date_added": "2026-11-23"
   }
 ]
