@@ -91513,5 +91513,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4938-8b1b9c15cdc1699c.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4939,
+    "title": "Super Mario Bros. Wonder Switch 2 Edition PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Kendoismebutmaybenot/wondershot",
+    "video_link": "",
+    "platform": "Nintendo Switch 2",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "super-mario-bros-wonder",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4939-b679be7efd8c0543.webp",
+    "date_added": "2026-11-24"
   }
 ]
