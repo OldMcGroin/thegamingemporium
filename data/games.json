@@ -91319,5 +91319,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4931-c3bf11d66f15a4b4.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4932,
+    "title": "Final Fantasy 8 Recompilation ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/rash-pro/lionheart",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Final Fantasy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4932-37adf6ab8bc9890b.webp",
+    "date_added": "2026-11-24"
   }
 ]
