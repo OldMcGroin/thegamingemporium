@@ -91568,5 +91568,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4940-bef8be0765a309b9.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4941,
+    "title": "Golden Axe Arcade in Browser ",
+    "category": "browser-based",
+    "link": "https://games4me.alwaysdata.net/goldenaxe_web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Golden Axe",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4941-185181730619df81.webp",
+    "date_added": "2026-11-24"
   }
 ]
