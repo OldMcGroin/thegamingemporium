@@ -91173,5 +91173,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4925-3467c562f8f3fb4e.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4926,
+    "title": "House of The Dead Scarlet Dawn PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/davidptrssvea/HOTD-Scarlet-Dawn-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "series": "The House Of The Dead",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4926-1369e2bc67045bfb.webp",
+    "date_added": "2026-11-24"
   }
 ]
