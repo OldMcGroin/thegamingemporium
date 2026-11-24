@@ -91606,5 +91606,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4942-15ab191c002ebb31.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4943,
+    "title": "The Final Fantasy Legend PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://sawgod.ws/",
+    "video_link": "",
+    "platform": "WonderSwan Color",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Final Fantasy",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4943-6eeee2db1857817c.webp",
+    "date_added": "2026-11-24"
   }
 ]
