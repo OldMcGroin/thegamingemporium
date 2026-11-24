@@ -90826,5 +90826,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4915-5fedce5f9580ad2a.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4916,
+    "title": "Silent Hill: Origins MacOS Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/SirBraga/silent-hill-origins-recomp",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Silent Hill",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4916-dccb95cba4b9bc37.webp",
+    "date_added": "2026-11-24"
   }
 ]
