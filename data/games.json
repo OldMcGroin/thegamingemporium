@@ -91098,5 +91098,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4923-3e158410cfccc1ef.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4924,
+    "title": "Spelunkomp - Native Ports of 26 of Cave's Arcade Shooting Games",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tmcleroy/spelunkomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4924-2d857cf1766539da.webp",
+    "date_added": "2026-11-24"
   }
 ]
