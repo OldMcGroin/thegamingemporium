@@ -91752,5 +91752,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4947-db62b63f5ca9e6d4.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4948,
+    "title": "Altered Beast Arcade in Browser ",
+    "category": "browser-based",
+    "link": "https://games4me.alwaysdata.net/altbeast_web/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Altered Beast",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4948-6fa29f82e866f68f.webp",
+    "date_added": "2026-11-24"
   }
 ]
