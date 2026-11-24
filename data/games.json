@@ -91057,5 +91057,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4922-d7c990a44a3b51e2.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4923,
+    "title": "Aladdin SNES PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jeff-strutb/aladdinsvhc",
+    "video_link": "",
+    "platform": "SNES",
+    "genre1": "platformer",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4923-3e158410cfccc1ef.webp",
+    "date_added": "2026-11-24"
   }
 ]
