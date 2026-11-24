@@ -91200,5 +91200,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4926-1369e2bc67045bfb.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4927,
+    "title": "Virtua Striker 2 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/matiasak47/vs2-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4927-c584712e1fe1d1f3.webp",
+    "date_added": "2026-11-24"
   }
 ]
