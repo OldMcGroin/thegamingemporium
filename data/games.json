@@ -91353,5 +91353,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4932-37adf6ab8bc9890b.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4933,
+    "title": "50 Cent Bulletproof PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/hk21x/50cent-recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "third-person-shooter",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4933-dbe74971ee5911f2.webp",
+    "date_added": "2026-11-24"
   }
 ]
