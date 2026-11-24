@@ -91685,5 +91685,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4945-7cd74168e69c78b0.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4946,
+    "title": "Michael Jackson's Moonwalker Arcade PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/sergiomanzur/MoonDancer",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4946-099a3333650e6e45.webp",
+    "date_added": "2026-11-24"
   }
 ]
