@@ -90989,5 +90989,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4920-b75f78687f59ab53.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4921,
+    "title": "Yakuza 2 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/IvanBarbosaFilho/Yakuza-2---PC-Port",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "beat-em-up",
+    "genre2": "adventure",
+    "series": "Yakuza",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4921-7dee8cef75ef7ade.webp",
+    "date_added": "2026-11-24"
   }
 ]
