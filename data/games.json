@@ -90895,5 +90895,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4917-fa42d8b31be23696.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4918,
+    "title": "Armored Core 5 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GrayRats/ArmoredcoreV-Port",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "mech-simulator",
+    "genre2": "",
+    "series": "Armored Core",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4918-6fb33f4528e08b81.webp",
+    "date_added": "2026-11-24"
   }
 ]
