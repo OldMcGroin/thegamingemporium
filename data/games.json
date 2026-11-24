@@ -91733,5 +91733,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4946-099a3333650e6e45.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4947,
+    "title": "Michael Jackson's Moonwalker Arcade for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/sergiomanzur/MoonDancer",
+    "video_link": "",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4947-db62b63f5ca9e6d4.webp",
+    "date_added": "2026-11-24"
   }
 ]
