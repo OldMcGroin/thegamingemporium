@@ -90853,5 +90853,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4916-dccb95cba4b9bc37.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4917,
+    "title": "Persona 2: Innocent Sin PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/jermspeaks/Persona2Recomp",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Persona",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4917-fa42d8b31be23696.webp",
+    "date_added": "2026-11-24"
   }
 ]
