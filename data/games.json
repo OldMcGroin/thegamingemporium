@@ -91541,5 +91541,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4939-b679be7efd8c0543.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4940,
+    "title": "Star Wars: Racer Revenge PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/GTTeancum/RacerRevengePC",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Star Wars",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4940-bef8be0765a309b9.webp",
+    "date_added": "2026-11-24"
   }
 ]
