@@ -91587,5 +91587,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4941-185181730619df81.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4942,
+    "title": "Fight Night Champion Nintendo Switch Port ",
+    "category": "console-ports",
+    "link": "https://github.com/berio23/FightingNX",
+    "video_link": "",
+    "platform": "",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4942-15ab191c002ebb31.webp",
+    "date_added": "2026-11-24"
   }
 ]
