@@ -91399,5 +91399,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4934-afbf980cba2e54cf.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4935,
+    "title": "Super Mario RPG PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/ElKiro1311/smrpg-recompiled",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4935-39430c0dcf2d978f.webp",
+    "date_added": "2026-11-24"
   }
 ]
