@@ -91273,5 +91273,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4929-d916cd3cc699c6a6.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4930,
+    "title": "Bushido Blade PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/tisquantum/dojo",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4930-09f95b170394ebcd.webp",
+    "date_added": "2026-11-24"
   }
 ]
