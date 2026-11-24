@@ -43098,7 +43098,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/freefrank/LostOdysseyRecomp/releases/download/v1.1.0/LostOdysseyRecomp-windows-x64-v1.1.0.zip"
       }
-    ]
+    ],
+    "ai_usage": "light"
   },
   {
     "id": 2980,
