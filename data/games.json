@@ -90970,5 +90970,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4919-00f948998acc3f64.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4920,
+    "title": "Déraciné VR",
+    "category": "vr-ports",
+    "link": "https://github.com/stefan0704/DeracinePCVR",
+    "video_link": "",
+    "platform": "",
+    "genre1": "adventure",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4920-b75f78687f59ab53.webp",
+    "date_added": "2026-11-24"
   }
 ]
