@@ -80043,7 +80043,7 @@
     "genre1": "platformer",
     "genre2": "",
     "series": "Super Mario",
-    "collection": "",
+    "collection": "super-mario-bros-wonder",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -80064,7 +80064,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/vfjoo888/SuperWonders/releases/download/v0.5.0/SuperWonders-v0.5.0-Windows-x64.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4546,
