@@ -91146,5 +91146,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4924-2d857cf1766539da.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4925,
+    "title": "Gran Turismo 6 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4925-3467c562f8f3fb4e.webp",
+    "date_added": "2026-11-24"
   }
 ]
