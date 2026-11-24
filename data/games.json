@@ -91300,5 +91300,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4930-09f95b170394ebcd.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4931,
+    "title": "WiiExtract - An Android Application for Extracting Files from Wii Disc Images",
+    "category": "android-ports",
+    "link": "https://github.com/FranDK11/WiiExtract",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "top",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4931-c3bf11d66f15a4b4.webp",
+    "date_added": "2026-11-24"
   }
 ]
