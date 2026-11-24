@@ -90807,5 +90807,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4914-fa47b38eb80c366e.webp",
     "date_added": "2026-11-23"
+  },
+  {
+    "id": 4915,
+    "title": "Teenage Mutant Ninja Turtles Arcade Sega Megadrive Port",
+    "category": "console-ports",
+    "link": "https://valenzuelagustavo.itch.io/tmnt-arcade-game-megadrive-port",
+    "video_link": "https://youtu.be/ehLmymc8jxg?is=0TckeZXVlLaeNel5",
+    "platform": "",
+    "genre1": "beat-em-up",
+    "genre2": "",
+    "series": "Teenage Mutant Ninja Turtles",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4915-5fedce5f9580ad2a.webp",
+    "date_added": "2026-11-24"
   }
 ]
