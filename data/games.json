@@ -91666,5 +91666,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4944-ed8fd669848c1cb2.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4945,
+    "title": "Sega Rally 2 Arcade for Android",
+    "category": "android-ports",
+    "link": "https://github.com/fractalstudio-sd/rally2-recomp-android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sega Rally",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4945-7cd74168e69c78b0.webp",
+    "date_added": "2026-11-24"
   }
 ]
