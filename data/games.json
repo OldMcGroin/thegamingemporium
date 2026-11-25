@@ -91846,5 +91846,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4950-c6dc5165da41ded1.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4951,
+    "title": "Resident Evil HD Remaster MacOS Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/NightSightProductions/RE1-Remake-Recomp",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "survival-horror",
+    "genre2": "",
+    "series": "Resident Evil",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4951-7e5d738aa0918bb2.webp",
+    "date_added": "2026-11-25"
   }
 ]
