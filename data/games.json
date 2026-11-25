@@ -91968,5 +91968,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4954-aa4bd3c859aa82ab.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4955,
+    "title": "Super Stardust HD PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/thelastant/project-stardust",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "shoot-em-up",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4955-a7c89688d8cffa3e.webp",
+    "date_added": "2026-11-25"
   }
 ]
