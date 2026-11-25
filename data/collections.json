@@ -1345,5 +1345,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/twisted-metal-2-collection.webp"
+  },
+  {
+    "name": "God of War: Sons of Sparta",
+    "slug": "god-of-war-sons-of-sparta",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/god-of-war-sons-of-sparta-collection.webp"
   }
 ]
