@@ -92097,5 +92097,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4958-9e7b89fd37902b3a.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4959,
+    "title": "Punch-Out!! and Doc Louis's Punch-Out!! PC Ports",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Mr-Shizzy/Punch-Drunk",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "sports",
+    "genre2": "fighting",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4959-6085ab90a5aabcc2.webp",
+    "date_added": "2026-11-25"
   }
 ]
