@@ -92237,5 +92237,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4963-42cf6425babdc06a.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4964,
+    "title": "Orbitals PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Dimi-Sama/OrbitalsPCRecomp/blob/main/docs/images/game-space-coop.jpg",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "puzzle",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4964-94a6146cfb5b6061.webp",
+    "date_added": "2026-11-25"
   }
 ]
