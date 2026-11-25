@@ -52920,7 +52920,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/OverkillLabs3/SoS-PS5/releases/download/sos-v0.4.2/SonsOfSparta-PS5-Native-0.4.2-win64.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 3392,
