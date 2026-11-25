@@ -92131,5 +92131,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4959-6085ab90a5aabcc2.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4960,
+    "title": "Yu-Gi-Oh! The Dawn of Destiny PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/dennisabalo18-bot/yugioh-tdod-pc",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "card-battle",
+    "genre2": "",
+    "series": "Yu-Gi-Oh!",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4960-ef4908b02632db08.webp",
+    "date_added": "2026-11-25"
   }
 ]
