@@ -92325,5 +92325,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4966-add8b5a20cd1522f.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4967,
+    "title": "Gran Turismo Sport and Gran Turismo 7 Windows Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/RyGT-Team/RyGT",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4967-14a2c0b8a263a2d1.webp",
+    "date_added": "2026-11-25"
   }
 ]
