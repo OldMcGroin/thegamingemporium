@@ -92022,5 +92022,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4956-b161650ef4057c4a.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4957,
+    "title": "X64-MAC-RECOMP - Brings Native Windows and Linux Game Recompilation to Apple Silicon",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Zertrox123/x64-mac-recomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4957-441fea95d70c31e8.webp",
+    "date_added": "2026-11-25"
   }
 ]
