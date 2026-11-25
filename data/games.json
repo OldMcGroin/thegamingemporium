@@ -92271,5 +92271,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4964-94a6146cfb5b6061.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4965,
+    "title": "God of War: Sons of Sparta PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/saulob/god-of-war-sons-of-sparta-pc",
+    "video_link": "",
+    "platform": "PlayStation 4",
+    "genre1": "metroidvania",
+    "genre2": "",
+    "series": "God of War",
+    "collection": "god-of-war-sons-of-sparta",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4965-b0308374f172dd8d.webp",
+    "date_added": "2026-11-25"
   }
 ]
