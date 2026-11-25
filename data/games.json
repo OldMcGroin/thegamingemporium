@@ -91995,5 +91995,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4955-a7c89688d8cffa3e.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4956,
+    "title": "Sin & Punishment: Star Successor PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/meathax/sinandpun",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "rail-shooter",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4956-b161650ef4057c4a.webp",
+    "date_added": "2026-11-25"
   }
 ]
