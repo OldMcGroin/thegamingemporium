@@ -91900,5 +91900,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4952-f1e8634e6ebcb00b.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4953,
+    "title": "Metroid: Other M PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/otherm-recomp",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Metroid",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4953-1f43f1399f4b3856.webp",
+    "date_added": "2026-11-25"
   }
 ]
