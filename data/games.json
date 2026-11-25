@@ -91873,5 +91873,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4951-7e5d738aa0918bb2.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4952,
+    "title": "Smash TV Arcade PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/meathax/smashport",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "shoot-em-up",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4952-f1e8634e6ebcb00b.webp",
+    "date_added": "2026-11-25"
   }
 ]
