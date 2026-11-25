@@ -92306,5 +92306,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4965-b0308374f172dd8d.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4966,
+    "title": "Need for Speed 3: Hot Pursuit in Browser ",
+    "category": "browser-based",
+    "link": "https://nfs3.xyz/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Need For Speed",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4966-add8b5a20cd1522f.webp",
+    "date_added": "2026-11-25"
   }
 ]
