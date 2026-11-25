@@ -92218,5 +92218,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4962-018ead706600516f.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4963,
+    "title": "Storm: First Lightning in Browser",
+    "category": "browser-based",
+    "link": "https://storm.game/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "combat-flight-simulator",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4963-42cf6425babdc06a.webp",
+    "date_added": "2026-11-25"
   }
 ]
