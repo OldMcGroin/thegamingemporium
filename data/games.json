@@ -91771,5 +91771,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4948-6fa29f82e866f68f.webp",
     "date_added": "2026-11-24"
+  },
+  {
+    "id": 4949,
+    "title": "Fire Emblem Warriors PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Azzulin/FEW-Recomp",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "action",
+    "genre2": "",
+    "series": "Fire Emblem",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4949-ae0762f4a9e2da55.webp",
+    "date_added": "2026-11-25"
   }
 ]
