@@ -91812,5 +91812,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4949-ae0762f4a9e2da55.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4950,
+    "title": "Like a Dragon: Kenzan! PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Yakuza",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4950-c6dc5165da41ded1.webp",
+    "date_added": "2026-11-25"
   }
 ]
