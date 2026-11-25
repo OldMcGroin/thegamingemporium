@@ -91934,5 +91934,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4953-1f43f1399f4b3856.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4954,
+    "title": "Tony Hawk's Underground PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://git.8gramlabs.com/8gramlabs/Project-Underground",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Tony Hawk",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4954-aa4bd3c859aa82ab.webp",
+    "date_added": "2026-11-25"
   }
 ]
