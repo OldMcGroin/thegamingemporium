@@ -92063,5 +92063,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4957-441fea95d70c31e8.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4958,
+    "title": "Golden Sun: Dark Dawn PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/BoneyKK/Bright-Dawn",
+    "video_link": "",
+    "platform": "Nintendo DS",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Golden Sun",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4958-9e7b89fd37902b3a.webp",
+    "date_added": "2026-11-25"
   }
 ]
