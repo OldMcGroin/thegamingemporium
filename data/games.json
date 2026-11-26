@@ -92379,5 +92379,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4968-6cb36f5e727eab58.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4969,
+    "title": "Motocross Madness 2 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/crspytopgn/openmcm2",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Motocross Madness",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "browser",
+        "label": "Browser",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4969-33d4733e190de2e1.webp",
+    "date_added": "2026-11-26"
   }
 ]
