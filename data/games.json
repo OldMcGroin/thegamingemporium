@@ -92833,5 +92833,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4984-ec47b71dc04b37ad.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4985,
+    "title": "Battlefield 1943 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TekRantGaming/Battlefield-1943-Reborn",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "vehicular-combat",
+    "series": "Battlefield",
+    "collection": "battlefield-1943",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4985-92e213e005196e8b.webp",
+    "date_added": "2026-11-26"
   }
 ]
