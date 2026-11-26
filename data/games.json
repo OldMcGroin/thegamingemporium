@@ -93002,5 +93002,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4990-cbf92fd26b7c2d4d.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4991,
+    "title": "Captain Claw Nintendo Switch, PS Vita, Nintendo 3DS and PS3 Port",
+    "category": "console-ports",
+    "link": "https://github.com/eHerbaciarz/reclaw-engine",
+    "video_link": "",
+    "platform": "",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4991-b02888dbfb99ea51.webp",
+    "date_added": "2026-11-26"
   }
 ]
