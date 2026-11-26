@@ -92546,5 +92546,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4974-b0f56fc161b228cb.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4975,
+    "title": "Capcom vs. SNK 2 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gibletto/cvs2-naomi-dc",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Street Fighter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "nintendo-3ds",
+        "label": "Nintendo 3DS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "psp",
+        "label": "PSP",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4975-19094193bfd4de31.webp",
+    "date_added": "2026-11-26"
   }
 ]
