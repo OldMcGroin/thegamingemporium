@@ -93021,5 +93021,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4991-b02888dbfb99ea51.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4992,
+    "title": "Carryover - Carry your game saves between PCs, Macs, Steam Deck and Android using your own cloud storage",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/akfaiz/carryover",
+    "video_link": "",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "launchers",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4992-b8ce497e12b18df8.webp",
+    "date_added": "2026-11-26"
   }
 ]
