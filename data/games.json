@@ -92613,5 +92613,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4976-9aebfa19e1e84e61.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4977,
+    "title": "Capcom vs. SNK 2 PSP Port",
+    "category": "console-ports",
+    "link": "https://github.com/gibletto/cvs2-naomi-dc",
+    "video_link": "",
+    "platform": "",
+    "genre1": "fighting",
+    "genre2": "",
+    "series": "Street Fighter",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4977-f49ca85fd71e6e03.webp",
+    "date_added": "2026-11-26"
   }
 ]
