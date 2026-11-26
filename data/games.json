@@ -93122,5 +93122,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4994-64979bfe6bd9f5ba.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4995,
+    "title": "Goldeneye Project Janus",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Coockie1173/Janus-Project",
+    "video_link": "",
+    "platform": "Wii",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "007",
+    "collection": "goldeneye",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4995-d20b4f88e1cfe2cc.webp",
+    "date_added": "2026-11-26"
   }
 ]
