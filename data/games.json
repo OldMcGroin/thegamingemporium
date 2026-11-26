@@ -92352,5 +92352,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4967-14a2c0b8a263a2d1.webp",
     "date_added": "2026-11-25"
+  },
+  {
+    "id": 4968,
+    "title": "Far Cry Instincts: Predator PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TGP482/FCIP-XEXRecomp",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Far Cry",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4968-6cb36f5e727eab58.webp",
+    "date_added": "2026-11-26"
   }
 ]
