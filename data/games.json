@@ -92500,5 +92500,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4972-37e2650a1261af32.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4973,
+    "title": "Prince of Persia: The Forgotten Sands for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/retrogameworld/Forgotten-Sands-Android-Recomp",
+    "video_link": "",
+    "platform": "",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Prince of Persia",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4973-520a8ec25576b1dd.webp",
+    "date_added": "2026-11-26"
   }
 ]
