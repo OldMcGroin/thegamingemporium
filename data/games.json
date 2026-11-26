@@ -92473,5 +92473,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4971-1f7dd39dbc7059f7.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4972,
+    "title": "Prince of Persia: The Forgotten Sands PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/retrogameworld/Forgotten-Sands-Recompiled",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "action",
+    "genre2": "adventure",
+    "series": "Prince of Persia",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4972-37e2650a1261af32.webp",
+    "date_added": "2026-11-26"
   }
 ]
