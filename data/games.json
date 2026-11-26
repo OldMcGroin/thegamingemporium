@@ -92651,5 +92651,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4978-562acefdf9d5aaad.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4979,
+    "title": "Pac-Man Windows Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/coprsegrinder/PacAtari8Comp",
+    "video_link": "",
+    "platform": "Atari",
+    "genre1": "puzzle",
+    "genre2": "",
+    "series": "Pac Man",
+    "collection": "pac-man",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4979-ace3a04ea00e5867.webp",
+    "date_added": "2026-11-26"
   }
 ]
