@@ -92956,5 +92956,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4988-f2958a10664e2854.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4989,
+    "title": "Virtua Tennis 4: Legends & Next-Gen Edition",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/CagliostroML/virtua-tennis-4-legends",
+    "video_link": "",
+    "platform": "Windows",
+    "genre1": "sports",
+    "genre2": "",
+    "series": "Virtua Tennis",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4989-9bbc3e1ce5aceff8.webp",
+    "date_added": "2026-11-26"
   }
 ]
