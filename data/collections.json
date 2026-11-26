@@ -1352,5 +1352,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/god-of-war-sons-of-sparta-collection.webp"
+  },
+  {
+    "name": "Battlefield 1943",
+    "slug": "battlefield-1943",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/battlefield-1943-collection.webp"
   }
 ]
