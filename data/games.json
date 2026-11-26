@@ -92929,5 +92929,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4987-55a4283b0d4570e1.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4988,
+    "title": "Spyro Trilogy PC Launcher",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/leoncon99/Spyro-Trilogy",
+    "video_link": "",
+    "platform": "PlayStation",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Spyro the Dragon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4988-f2958a10664e2854.webp",
+    "date_added": "2026-11-26"
   }
 ]
