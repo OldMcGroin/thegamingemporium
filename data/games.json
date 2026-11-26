@@ -92895,5 +92895,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4986-f3b314fce722bba0.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4987,
+    "title": "Catherine: Full Body PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/scottjco/catherinefullbody",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "puzzle",
+    "genre2": "adventure",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4987-55a4283b0d4570e1.webp",
+    "date_added": "2026-11-26"
   }
 ]
