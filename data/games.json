@@ -92983,5 +92983,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4989-9bbc3e1ce5aceff8.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4990,
+    "title": "Pokémon Emerald Nintendo Switch Port",
+    "category": "console-ports",
+    "link": "https://github.com/eonlynx/emerald-nx/releases/tag/v0.5.0-switch",
+    "video_link": "",
+    "platform": "",
+    "genre1": "rpg",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4990-cbf92fd26b7c2d4d.webp",
+    "date_added": "2026-11-26"
   }
 ]
