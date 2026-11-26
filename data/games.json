@@ -81291,7 +81291,7 @@
     "genre1": "first-person-shooter",
     "genre2": "",
     "series": "Battlefield",
-    "collection": "",
+    "collection": "battlefield-1943",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -81312,7 +81312,8 @@
         "verification": "verified",
         "evidence_url": "https://github.com/TekRantGaming/Battlefield-1943-Reborn/releases/download/v0.4.7.4/BF1943-Reborn-0.4.7.4-windows-x64.zip"
       }
-    ]
+    ],
+    "show_in_recent": true
   },
   {
     "id": 4590,
