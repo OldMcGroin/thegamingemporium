@@ -92705,5 +92705,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4980-7876dbe6eb6541c2.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4981,
+    "title": "Sonic Riders: Zero Gravity PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/TheFunHero/SRGZ-PC",
+    "video_link": "https://youtu.be/DJbXEAvjpjM?is=dilN3XL3io1B8m0_",
+    "platform": "Wii",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4981-a1373ffea9e54a33.webp",
+    "date_added": "2026-11-26"
   }
 ]
