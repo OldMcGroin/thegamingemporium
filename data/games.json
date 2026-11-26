@@ -92678,5 +92678,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4979-ace3a04ea00e5867.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4980,
+    "title": "Phantasy Star Nova PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/aggc01/phantasy-star-nova-recomp",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "action",
+    "genre2": "rpg",
+    "series": "Phantasy Star",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4980-7876dbe6eb6541c2.webp",
+    "date_added": "2026-11-26"
   }
 ]
