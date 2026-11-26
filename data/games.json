@@ -92732,5 +92732,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4981-a1373ffea9e54a33.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4982,
+    "title": "Psi-Ops: The Mindgate Conspiracy PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Anthonyp85/Psi-Ops-The-Mindgate-Conspiracy-ReComp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "third-person-shooter",
+    "series": "Psi-Ops",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4982-25c5d8d06afa2bc8.webp",
+    "date_added": "2026-11-26"
   }
 ]
