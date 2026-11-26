@@ -92427,5 +92427,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4969-33d4733e190de2e1.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4970,
+    "title": "Motocross Madness 2 in Browser ",
+    "category": "browser-based",
+    "link": "https://crspytopgn.github.io/openmcm2/play/",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Motocross Madness",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4970-0b3c9be7aeb5ad22.webp",
+    "date_added": "2026-11-26"
   }
 ]
