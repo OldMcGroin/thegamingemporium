@@ -92519,5 +92519,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4973-520a8ec25576b1dd.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4974,
+    "title": "Buffy the Vampire Slayer PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/FallenAzazel/BtVS_recomp",
+    "video_link": "",
+    "platform": "Xbox",
+    "genre1": "action",
+    "genre2": "beat-em-up",
+    "series": "Buffy the Vampire Slayer",
+    "collection": "buffy-the-vampire-slayer",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4974-b0f56fc161b228cb.webp",
+    "date_added": "2026-11-26"
   }
 ]
