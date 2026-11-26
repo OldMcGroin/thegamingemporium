@@ -92766,5 +92766,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4982-25c5d8d06afa2bc8.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4983,
+    "title": "Shinobido 2: Revenge of Zen PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vita-recomps/utakata",
+    "video_link": "",
+    "platform": "PS Vita",
+    "genre1": "stealth",
+    "genre2": "action",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4983-ab792ee26203f5c7.webp",
+    "date_added": "2026-11-26"
   }
 ]
