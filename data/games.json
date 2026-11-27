@@ -93201,5 +93201,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5007-1c50d77ac39df9f0.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5008,
+    "title": "Sonic Pocket Adventure Recompilation",
+    "category": "decompilations-recompilations",
+    "link": "https://www.sonicpocketredux.com/",
+    "video_link": "",
+    "platform": "Neo Geo Pocket Colour",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Sonic the Hedgehog",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5008-29ed3b20eaab725a.webp",
+    "date_added": "2026-11-27"
   }
 ]
