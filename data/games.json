@@ -93102,5 +93102,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5003-1a9c5f189906ad7e.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5004,
+    "title": "Grand Theft Auto 2 for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/almost-drowned-rat/Grand-Theft-Auto-2-Recompiled-Android",
+    "video_link": "",
+    "platform": "",
+    "genre1": "sandbox",
+    "genre2": "action",
+    "series": "Grand Theft Auto",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5004-a24461cc0330aa3a.webp",
+    "date_added": "2026-11-27"
   }
 ]
