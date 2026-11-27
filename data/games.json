@@ -92935,5 +92935,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4997-e8eb46400878be38.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 4998,
+    "title": "Killzone 3 PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/undecuple/project-helghast",
+    "video_link": "",
+    "platform": "PlayStation 3",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Killzone",
+    "collection": "killzone-3",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4998-b0bb401a02d76082.webp",
+    "date_added": "2026-11-27"
   }
 ]
