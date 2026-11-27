@@ -83078,32 +83078,6 @@
     ]
   },
   {
-    "id": 4651,
-    "title": "Saints Row PC Port",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/DivxPlays/stilwater-recompiled",
-    "video_link": "",
-    "platform": "Xbox 360",
-    "genre1": "action",
-    "genre2": "adventure",
-    "series": "Saints Row",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4651-a643f759594a8260.webp",
-    "date_added": "2026-11-13",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://ports.matheusbrauna.com.br/pt-br/ports/stilwater-recompiled/"
-      }
-    ]
-  },
-  {
     "id": 4652,
     "title": "Astro Bot PC Port",
     "category": "decompilations-recompilations",
