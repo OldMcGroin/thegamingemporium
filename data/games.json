@@ -80696,32 +80696,6 @@
     ]
   },
   {
-    "id": 4568,
-    "title": "Mario Tennis Fever Recompilation ",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/kayochiaradia/mtf-recomp",
-    "video_link": "",
-    "platform": "Nintendo Switch 2",
-    "genre1": "sports",
-    "genre2": "",
-    "series": "Super Mario",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4568-8d1f552c5c2ca484.webp",
-    "date_added": "2026-11-10",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "source",
-        "verification": "verified",
-        "evidence_url": "https://github.com/kayochiaradia/mtf-recomp#readme"
-      }
-    ]
-  },
-  {
     "id": 4569,
     "title": "Corridor 7: Alien Invasion Source Port ",
     "category": "decompilations-recompilations",
