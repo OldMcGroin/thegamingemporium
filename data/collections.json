@@ -1359,5 +1359,12 @@
     "weight": 0,
     "enabled": true,
     "image": "/Images/Games/battlefield-1943-collection.webp"
+  },
+  {
+    "name": "Killzone 3",
+    "slug": "killzone-3",
+    "weight": 0,
+    "enabled": true,
+    "image": "/Images/Games/killzone-3-collection.webp"
   }
 ]
