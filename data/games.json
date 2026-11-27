@@ -41982,29 +41982,6 @@
     "image": ""
   },
   {
-    "id": 2941,
-    "title": "Fate Unlimited Codes Recompilation",
-    "category": "decompilations-recompilations",
-    "platform": "PSP",
-    "link": "https://github.com/elprogramadorloco-arch/fuc-recomp",
-    "genre1": "fighting",
-    "genre2": "",
-    "series": "",
-    "video_link": "",
-    "notes": "",
-    "date_added": "2026-09-02",
-    "image": "",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "compatibility",
-        "verification": "verified",
-        "evidence_url": "https://github.com/elprogramadorloco-arch/fuc-recomp#readme"
-      }
-    ]
-  },
-  {
     "id": 2942,
     "title": "Dragon Ball Z Budokai 3 HD Collection Recompilation",
     "category": "decompilations-recompilations",
