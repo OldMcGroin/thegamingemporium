@@ -93174,5 +93174,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5006-296b305351e3ca5b.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5007,
+    "title": "Xenoblade Chronicles X: Definitive Edition Split-screen Co-op",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/m90403/xcx-coop-split-screen",
+    "video_link": "https://youtu.be/N_WozLtjXnM?si=ScuFG_4gEHPg-roN",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "",
+    "series": "Xenoblade",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5007-1c50d77ac39df9f0.webp",
+    "date_added": "2026-11-27"
   }
 ]
