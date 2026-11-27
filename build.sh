@@ -22,4 +22,13 @@ python3 tools/refresh_manager.py
 echo "Building Hugo site..."
 hugo
 
+# Publish a marker with the site's assets so IndexNow can identify the live
+# Cloudflare deployment. Any marker failure is independent of publishing.
+if [[ ${CF_PAGES:-} == 1 && ${CF_PAGES_BRANCH:-} == main &&
+      ${CF_PAGES_COMMIT_SHA:-} =~ ^[0-9a-f]{40}$ ]]; then
+  if ! printf '{"branch":"main","commit":"%s"}\n' "$CF_PAGES_COMMIT_SHA" > public/tge-indexnow-deployment.json; then
+    echo "WARNING: Could not write the IndexNow deployment marker." >&2
+  fi
+fi
+
 echo "Done. Output is in ./public"

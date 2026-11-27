@@ -1,0 +1,72 @@
+name: IndexNow
+
+on:
+  check_run:
+    types: [completed]
+  schedule:
+    # Catch delayed/missed deployment events and retry transient failures.
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [test/indexnow]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    if: github.ref == 'refs/heads/test/indexnow' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /build.sh
+            /scripts/indexnow.py
+            /scripts/test_indexnow.py
+            /tools/generate_game_pages.py
+      - name: Test delivery and Cloudflare build isolation
+        run: python3 -m unittest discover -s scripts -p test_indexnow.py -v
+
+  production:
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' ||
+       (github.event_name == 'check_run' &&
+        github.event.check_run.app.slug == 'cloudflare-workers-and-pages' &&
+        github.event.check_run.name == 'Cloudflare Pages' &&
+        github.event.check_run.conclusion == 'success' &&
+        github.event.check_run.check_suite.head_branch == 'main'))
+    permissions:
+      contents: read
+      actions: read
+    concurrency:
+      group: indexnow-production
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/indexnow.py
+            /tools/generate_game_pages.py
+            /static/3945de8574974f6db94f730d606a4b12.txt
+      - name: Submit changes from the live site
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: python3 scripts/indexnow.py
+      - name: Save production checkpoint
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-production-v1
+          path: checkpoint.json
+          if-no-files-found: ignore
+          retention-days: 90
