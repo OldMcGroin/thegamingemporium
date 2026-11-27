@@ -93155,5 +93155,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5005-cae52b4fbd40cdbc.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5006,
+    "title": "Aladdin Collection for Android ",
+    "category": "android-ports",
+    "link": "https://github.com/Darhkfox/AladdinCollection",
+    "video_link": "",
+    "platform": "",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5006-296b305351e3ca5b.webp",
+    "date_added": "2026-11-27"
   }
 ]
