@@ -71027,7 +71027,7 @@
     "platform": "PlayStation 3",
     "genre1": "first-person-shooter",
     "genre2": "",
-    "collection": "",
+    "collection": "killzone-3",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -71055,7 +71055,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.10/Project-Helghast-setup.exe"
       }
-    ]
+    ],
+    "series": "Killzone",
+    "show_in_recent": true
   },
   {
     "id": 4235,
