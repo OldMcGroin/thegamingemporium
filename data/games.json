@@ -93121,5 +93121,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5004-a24461cc0330aa3a.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5005,
+    "title": "Aladdin Collection",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Darhkfox/AladdinCollection",
+    "video_link": "",
+    "platform": "Sega Megadrive",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5005-cae52b4fbd40cdbc.webp",
+    "date_added": "2026-11-27"
   }
 ]
