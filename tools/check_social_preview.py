@@ -80,7 +80,7 @@ def jpeg_dimensions(path: Path) -> tuple[int, int]:
 
 def declared_dimension(text: str, variable: str) -> int:
     match = re.search(
-        rf'\{{\{{\s*\${re.escape(variable)}\s*:=\s*"(\d+)"\s*\}}\}}',
+        rf'\{{\{{-?\s*\${re.escape(variable)}\s*:=\s*"(\d+)"\s*-?\}}\}}',
         text,
     )
     if not match:

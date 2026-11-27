@@ -11,3 +11,6 @@ title = "The Gaming Emporium"
 
 [outputFormats.RSS]
   baseName = "rss"
+
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^CF_PAGES$', '^CF_PAGES_BRANCH$', '^CF_PAGES_URL$']

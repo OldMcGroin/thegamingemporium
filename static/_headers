@@ -5,3 +5,11 @@
   Cache-Control: no-cache, max-age=0, must-revalidate
 /admin/game-manager/*.js
   Cache-Control: no-cache, max-age=0, must-revalidate
+
+/admin/*
+  X-Robots-Tag: noindex
+
+# The public production domain is the canonical copy. Pages previews also send
+# noindex by default, independently of this rule.
+https://thegamingemporium.pages.dev/*
+  X-Robots-Tag: noindex

@@ -1,0 +1,33 @@
+{{- $name := lower .Title -}}
+{{- $category := .Params.category -}}
+{{- $types := dict
+  "android-ports" "Android port"
+  "browser-based" "browser game"
+  "console-ports" "console port"
+  "console-to-pc-port" "PC port"
+  "english-translation-patches" "English translation patch"
+  "fan-games" "fan game or homebrew project"
+  "guides" "guide"
+  "in-the-works" "project in development"
+  "mods" "game mod"
+  "open-source" "open-source project"
+  "preserved-games" "game preservation entry"
+  "rom-hacks" "ROM hack"
+  "source-port" "source port"
+  "texture-packs" "texture pack"
+  "utilities" "gaming utility"
+  "utility" "gaming utility"
+  "vr-ports" "VR project"
+-}}
+{{- $label := index $types $category | default "gaming project" -}}
+{{- if eq $category "decompilations-recompilations" -}}
+  {{- $label = "decompilation or recompilation project" -}}
+  {{- if findRE "recompil|recompiled|\\brecomp\\b" $name -}}
+    {{- $label = "recompilation project" -}}
+  {{- else if findRE "decompil|\\bdecomp\\b" $name -}}
+    {{- $label = "decompilation project" -}}
+  {{- else if findRE "\\b(pc|linux|windows|android) port\\b" $name -}}
+    {{- $label = "port project" -}}
+  {{- end -}}
+{{- end -}}
+{{- return $label -}}

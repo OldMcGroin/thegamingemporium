@@ -1,0 +1,2 @@
+{{- $unlisted := or (in (slice "404" "taxonomy" "term") .Kind) (and .IsSection (eq .Section "collections")) -}}
+{{- return (or $unlisted .Draft .Params.seo_hidden (in (slice "admin" "search") .Section)) -}}
