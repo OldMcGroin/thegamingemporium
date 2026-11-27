@@ -1,0 +1,65 @@
+{{- $name := .Title | default site.Title -}}
+{{- $description := printf "Explore %s on %s." $name site.Title -}}
+{{- $isGame := and .IsPage (eq .Type "game") -}}
+{{- $projectType := "" -}}
+{{- $genres := slice -}}
+
+{{- if .IsHome -}}
+  {{- $name = site.Title -}}
+  {{- $description = "Browse a hand-picked catalogue of video game recompilations, decompilations, PC ports, mods, fan games and game preservation projects." -}}
+{{- else if $isGame -}}
+  {{- $projectType = partial "seo-project-type.html" . -}}
+  {{- range (slice .Params.genre1 .Params.genre2) -}}
+    {{- with . -}}
+      {{- if not (in (slice "other" "unknown" "n/a" "-" "none") (lower .)) -}}
+        {{- $genres = $genres | append (partial "format-genre.html" .) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $genres = uniq $genres -}}
+  {{- $detail := "Find the project link and catalogue details." -}}
+  {{- with .Params.seo_release_platforms -}}
+    {{- $detail = printf "Release platforms include %s." (delimit . ", " " and ") -}}
+  {{- else -}}
+    {{- with .Plain -}}
+      {{- $note := . | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace -}}
+      {{- if and $note (not (findRE "(?i)^https?://" $note)) -}}
+        {{- $detail = $note -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $description = printf "%s (%s). %s" $name $projectType $detail -}}
+  {{- if findRE "(?i)recompil|decompil|\\bport\\b|\\bmod\\b|\\bhack\\b|\\bguide\\b|\\bpatch\\b|\\bhomebrew\\b|\\bbrowser\\b" $name -}}
+    {{- $description = printf "%s. %s" (strings.TrimSuffix "." $name) $detail -}}
+  {{- else if not (or (findRE "(?i)\\bremake\\b" $name) (eq $projectType "gaming project")) -}}
+    {{- $name = printf "%s (%s)" $name ($projectType | humanize) -}}
+  {{- end -}}
+{{- else if eq .Section "categories" -}}
+  {{- if .IsPage -}}
+    {{- $name = partial "format-category.html" .Params.slug | htmlUnescape -}}
+    {{- $descriptions := dict
+      "decompilations-recompilations" "Explore video game decompilations, static recompilations and projects that bring classic games to new platforms."
+      "in-the-works" "Follow video game ports, mods and other community projects still in development."
+      "open-source" "Browse open-source games, source ports and community projects."
+      "browser-based" "Find browser games and web ports you can explore directly from the catalogue."
+      "preserved-games" "Browse games and projects listed for video game preservation."
+      "utilities" "Find game launchers, modding tools and other utilities for gaming projects."
+      "vr-ports" "Browse virtual reality ports and VR adaptations of existing games."
+    -}}
+    {{- $description = index $descriptions .Params.slug | default (printf "Browse %s in the %s catalogue." (lower $name) site.Title) -}}
+  {{- else -}}
+    {{- $description = "Browse game projects by category, including recompilations, ports, open-source games, mods and fan games." -}}
+  {{- end -}}
+{{- else if and .IsPage (eq .Section "collections") -}}
+  {{- $description = printf "Explore the %s for related game decompilations, recompilations and ports." $name -}}
+{{- else if and .IsPage (eq .Section "series") -}}
+  {{- $description = printf "Browse game projects linked to %s, including ports, mods and fan projects where available." (.Params.series | default $name) -}}
+{{- else if and .IsPage (eq .Section "genres") -}}
+  {{- $description = printf "Browse %s game projects, including ports, mods and fan projects where available." $name -}}
+{{- end -}}
+
+{{- $title := $name -}}
+{{- if and (not .IsHome) (le (len $name) 54) -}}
+  {{- $title = printf "%s · %s" $name site.Title -}}
+{{- end -}}
+{{- return (dict "name" $name "title" $title "description" (truncate 165 $description) "isGame" $isGame "projectType" $projectType "genres" $genres) -}}

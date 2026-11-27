@@ -1,0 +1,93 @@
+{{- $page := .page -}}
+{{- $meta := .meta -}}
+{{- $url := $page.Permalink -}}
+{{- $home := site.Home.Permalink -}}
+{{- $websiteID := printf "%s#website" $home -}}
+{{- $webPage := dict "@type" "WebPage" "@id" (printf "%s#webpage" $url) "url" $url "name" $meta.name "description" $meta.description "isPartOf" (dict "@id" $websiteID) -}}
+{{- $graph := slice -}}
+{{- $trail := slice site.Home -}}
+
+{{- if $page.IsHome -}}
+  {{- $graph = $graph | append (dict "@type" "WebSite" "@id" $websiteID "name" site.Title "url" $home "description" $meta.description "inLanguage" $page.Language.LanguageCode) -}}
+{{- else if $meta.isGame -}}
+  {{- $category := $page.Params.category -}}
+  {{- $platforms := $page.Params.seo_release_platforms | default slice -}}
+  {{- $type := "CreativeWork" -}}
+  {{- if eq $category "guides" -}}
+    {{- $type = "Article" -}}
+  {{- else if in (slice "english-translation-patches" "mods" "rom-hacks" "texture-packs" "in-the-works" "preserved-games") $category -}}
+    {{- $type = "CreativeWork" -}}
+  {{- else if in (slice "fan-games" "browser-based") $category -}}
+    {{- $type = "VideoGame" -}}
+  {{- else if $platforms -}}
+    {{- $type = "SoftwareApplication" -}}
+  {{- else if $page.Params.seo_source_available -}}
+    {{- $type = "SoftwareSourceCode" -}}
+  {{- end -}}
+  {{- $project := dict "@type" $type "@id" (printf "%s#project" $url) "name" $page.Title "description" $meta.description "keywords" $meta.projectType -}}
+  {{/* The catalogue type is a label. It does not identify the original game or imply commercial authorship. */}}
+  {{- $project = merge (dict "image" $.image "mainEntityOfPage" (dict "@id" (index $webPage "@id"))) $project -}}
+  {{- with $page.Params.external_link -}}
+    {{- if findRE "^https?://" . -}}
+      {{- $project = merge (dict "url" .) $project -}}
+      {{- if and (eq $type "SoftwareSourceCode") (findRE "^https://github\\.com/[^/?#]+/[^/?#]+/?$" .) -}}
+        {{- $project = merge (dict "codeRepository" .) $project -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $meta.genres -}}
+    {{- $project = merge (dict "genre" .) $project -}}
+  {{- end -}}
+  {{- if and $platforms (eq $type "VideoGame") -}}
+    {{- $project = merge $project (dict "gamePlatform" $platforms) -}}
+  {{- else if and $platforms (eq $type "SoftwareApplication") -}}
+    {{- $operatingSystems := slice "Android" "iOS" "Linux" "macOS" "tvOS" "Windows" -}}
+    {{- with intersect $platforms $operatingSystems -}}
+      {{- $project = merge $project (dict "operatingSystem" .) -}}
+    {{- end -}}
+    {{- with complement $operatingSystems $platforms -}}
+      {{- $project = merge $project (dict "availableOnDevice" .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $webPage = merge (dict "mainEntity" (dict "@id" (index $project "@id"))) $webPage -}}
+  {{- $graph = $graph | append $project -}}
+  {{- with site.GetPage "/categories" -}}{{- $trail = $trail | append . -}}{{- end -}}
+  {{- $category = index (dict "utility" "utilities" "source-port" "open-source") $category | default $category -}}
+  {{- if $category -}}
+    {{- with site.GetPage (printf "/categories/%s" $category) -}}{{- $trail = $trail | append . -}}{{- end -}}
+  {{- end -}}
+  {{- if eq $category "decompilations-recompilations" -}}
+    {{- with $page.Params.seo_collection -}}
+      {{- with site.GetPage (printf "/collections/%s" .) -}}{{- $trail = $trail | append . -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if in (slice "categories" "collections" "series" "genres" "all" "recent") $page.Section -}}
+  {{- $webPage = merge $webPage (dict "@type" "CollectionPage") -}}
+  {{- if eq $page.Section "collections" -}}
+    {{- with site.GetPage "/categories" -}}{{- $trail = $trail | append . -}}{{- end -}}
+    {{- with site.GetPage "/categories/decompilations-recompilations" -}}{{- $trail = $trail | append . -}}{{- end -}}
+    {{- $items := slice -}}
+    {{- range where (where site.RegularPages "Params.category" "decompilations-recompilations") "Params.seo_collection" $page.Params.collection_slug -}}
+      {{- if not (partial "seo-private.html" .) -}}
+        {{- $items = $items | append (dict "@type" "ListItem" "position" (add 1 (len $items)) "url" .Permalink "name" .Title) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $items -}}
+      {{- $webPage = merge (dict "mainEntity" (dict "@type" "ItemList" "itemListElement" .)) $webPage -}}
+    {{- end -}}
+  {{- else if $page.IsPage -}}
+    {{- with $page.Parent -}}{{- $trail = $trail | append . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $page.IsHome -}}
+  {{- $crumbs := slice -}}
+  {{- range $trail | append $page -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add 1 (len $crumbs)) "name" .Title "item" .Permalink) -}}
+  {{- end -}}
+  {{- $breadcrumbID := printf "%s#breadcrumb" $url -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "@id" $breadcrumbID "itemListElement" $crumbs) -}}
+  {{- $webPage = merge (dict "breadcrumb" (dict "@id" $breadcrumbID)) $webPage -}}
+{{- end -}}
+
+<script type="application/ld+json">{{ (dict "@context" "https://schema.org" "@graph" ($graph | append $webPage)) | jsonify | safeJS }}</script>
