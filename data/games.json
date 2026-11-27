@@ -84613,33 +84613,6 @@
     ]
   },
   {
-    "id": 4703,
-    "title": "The Legend of Zelda: Echoes of Wisdom Recompilation 2",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/requiemjota88/EoWRecomp",
-    "video_link": "",
-    "platform": "Nintendo Switch",
-    "genre1": "rpg",
-    "genre2": "adventure",
-    "series": "The Legend of Zelda",
-    "collection": "the-legend-of-zelda-echoes-of-wisdom",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "show_in_recent": true,
-    "image": "/Images/Games/manager-4703-0f21c2ee4a463b41.webp",
-    "date_added": "2026-11-15",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/requiemjota88/EoWRecomp/releases/download/beta.1/EoWRecomp-windows-x64.zip"
-      }
-    ]
-  },
-  {
     "id": 4704,
     "title": "EA Sports NHL 20 PC Port",
     "category": "decompilations-recompilations",
