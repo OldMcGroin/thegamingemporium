@@ -92962,5 +92962,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4998-b0bb401a02d76082.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 4999,
+    "title": "MeoW - Play any untranslated game in your language",
+    "category": "english-translation-patches",
+    "link": "https://meowocr.app/",
+    "video_link": "https://youtu.be/PP3j2KEtza8?is=msjGXTPmS-FCxnH2",
+    "platform": "",
+    "genre1": "utility",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "top",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4999-3b7a00e0f3b92030.webp",
+    "date_added": "2026-11-27"
   }
 ]
