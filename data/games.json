@@ -93015,5 +93015,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5000-f5e38b6232e7fcda.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5001,
+    "title": "Mother: Invasion from the Unknown",
+    "category": "fan-games",
+    "link": "https://mother4ever.net/invasionfromtheunknown/",
+    "video_link": "https://youtu.be/IgEjTY9yg8M?is=RB_5MDpDzkQahLaq",
+    "platform": "",
+    "genre1": "visual-novel",
+    "genre2": "",
+    "series": "EarthBound",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5001-8f61c5272a10e497.webp",
+    "date_added": "2026-11-27"
   }
 ]
