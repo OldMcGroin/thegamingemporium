@@ -92879,5 +92879,32 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4995-d20b4f88e1cfe2cc.webp",
     "date_added": "2026-11-26"
+  },
+  {
+    "id": 4996,
+    "title": "The Legend of Zelda: Breath of the Wild - Savage Wind Co-op",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/Jaumjvrs/SavageWind-Coop",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "rpg",
+    "genre2": "adventure",
+    "series": "The Legend of Zelda",
+    "collection": "the-legend-of-zelda-breath-of-the-wild",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4996-be7d757683605637.webp",
+    "date_added": "2026-11-27"
   }
 ]
