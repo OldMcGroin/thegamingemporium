@@ -93034,5 +93034,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5001-8f61c5272a10e497.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5002,
+    "title": "Halo 3 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/summers-aaron/halo-3",
+    "video_link": "",
+    "platform": "Xbox 360",
+    "genre1": "first-person-shooter",
+    "genre2": "",
+    "series": "Halo",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5002-de30e944ea35a5d2.webp",
+    "date_added": "2026-11-27"
   }
 ]
