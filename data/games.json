@@ -66571,45 +66571,6 @@
     "date_added": "2026-10-23"
   },
   {
-    "id": 4073,
-    "title": "Timesplitters Recompilation",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/GTTeancum/Timesplitters",
-    "video_link": "",
-    "platform": "PlayStation 2",
-    "genre1": "first-person-shooter",
-    "genre2": "",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4073-be89ded55bb705b4.webp",
-    "date_added": "2026-10-23",
-    "release_platforms": [
-      {
-        "id": "linux",
-        "label": "Linux",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/GTTeancum/Timesplitters/releases/download/v1.1/TimeSplitters-Recomp-v1.1-linux-x86_64.tar.gz"
-      },
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/GTTeancum/Timesplitters/releases/download/v1.1/TimeSplitters-Recomp-v1.1-windows.zip"
-      },
-      {
-        "id": "xbox",
-        "label": "Xbox",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/GTTeancum/Timesplitters/releases/download/v1.1/TimeSplitters-Recomp-v1.1-xbox.zip"
-      }
-    ]
-  },
-  {
     "id": 4074,
     "title": "Sengoku Basara 4 Sumeragi PC Port & Launcher",
     "category": "decompilations-recompilations",
