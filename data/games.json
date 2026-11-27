@@ -71027,7 +71027,7 @@
     "platform": "PlayStation 3",
     "genre1": "first-person-shooter",
     "genre2": "",
-    "collection": "",
+    "collection": "killzone-3",
     "ai_usage": "",
     "weight": "",
     "hidden": false,
@@ -71055,7 +71055,9 @@
         "verification": "verified",
         "evidence_url": "https://github.com/undecuple/project-helghast/releases/download/v0.1.10/Project-Helghast-setup.exe"
       }
-    ]
+    ],
+    "series": "Killzone",
+    "show_in_recent": true
   },
   {
     "id": 4235,
@@ -92905,6 +92907,33 @@
     "hidden": false,
     "show_in_recent": true,
     "image": "/Images/Games/manager-4996-be7d757683605637.webp",
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": 4997,
+    "title": "Super Mario 3D World + Bowser's Fury PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/vfjoo888/Super3D",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-4997-e8eb46400878be38.webp",
     "date_added": "2026-11-27"
   }
 ]
