@@ -74060,31 +74060,6 @@
     "show_in_recent": true
   },
   {
-    "id": 4340,
-    "title": "Shadow the Hedgehog Recompilation",
-    "category": "decompilations-recompilations",
-    "link": "https://github.com/BigSnek9/ShadowRecomp",
-    "video_link": "",
-    "platform": "GameCube",
-    "genre1": "platformer",
-    "genre2": "",
-    "collection": "",
-    "ai_usage": "",
-    "weight": "",
-    "hidden": false,
-    "image": "/Images/Games/manager-4340-7e2bb2c24e27c46a.webp",
-    "date_added": "2026-11-01",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/BigSnek9/ShadowRecomp#readme"
-      }
-    ]
-  },
-  {
     "id": 4341,
     "title": "Wario World Recompilation",
     "category": "decompilations-recompilations",
