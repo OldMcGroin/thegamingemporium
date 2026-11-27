@@ -92981,5 +92981,39 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-4999-3b7a00e0f3b92030.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5000,
+    "title": "Virtua Cop 3 PC Port ",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/KG2G/vcop3-recomp",
+    "video_link": "",
+    "platform": "Arcade",
+    "genre1": "light-gun-shooter",
+    "genre2": "",
+    "series": "Virtua Cop",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5000-f5e38b6232e7fcda.webp",
+    "date_added": "2026-11-27"
   }
 ]
