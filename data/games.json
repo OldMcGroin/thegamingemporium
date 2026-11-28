@@ -93433,5 +93433,46 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5016-e5fc7347a89ef308.webp",
     "date_added": "2026-11-28"
+  },
+  {
+    "id": 5015,
+    "title": "Super Mario Bros. 35 PC Port",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/gminustwo/bros35",
+    "video_link": "",
+    "platform": "Nintendo Switch",
+    "genre1": "platformer",
+    "genre2": "",
+    "series": "Super Mario",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5015-194b6b5ab92e237b.webp",
+    "date_added": "2026-11-28"
   }
 ]
