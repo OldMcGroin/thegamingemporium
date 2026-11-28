@@ -93235,5 +93235,60 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5008-29ed3b20eaab725a.webp",
     "date_added": "2026-11-27"
+  },
+  {
+    "id": 5009,
+    "title": "Gran Turismo 4 PC Port 2",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/matt-pulsipher/GT4-revisited",
+    "video_link": "",
+    "platform": "PlayStation 2",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "Gran Turismo",
+    "collection": "gran-turismo-4",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "macos",
+        "label": "macOS",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "meta-quest",
+        "label": "Meta Quest",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5009-d863c1851b200aa8.webp",
+    "date_added": "2026-11-28"
   }
 ]
