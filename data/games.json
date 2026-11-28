@@ -60151,28 +60151,6 @@
     ]
   },
   {
-    "id": 3790,
-    "title": "Neon Genesis Evangelion Recompilation",
-    "category": "decompilations-recompilations",
-    "platform": "Nintendo 64",
-    "link": "https://github.com/evaa-01/adam",
-    "genre1": "fighting",
-    "genre2": "",
-    "series": "Neon Genesis Evangelion",
-    "video_link": "",
-    "date_added": "2026-10-14",
-    "ai_usage": "heavy",
-    "release_platforms": [
-      {
-        "id": "windows",
-        "label": "Windows",
-        "classification": "downloadable",
-        "verification": "verified",
-        "evidence_url": "https://github.com/evaa-01/adam/releases/download/0.1.1/adam-0.1.1.zip"
-      }
-    ]
-  },
-  {
     "id": 3791,
     "title": "Kinect-Preview Avatar Editor Recompilation",
     "category": "decompilations-recompilations",
