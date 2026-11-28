@@ -93328,5 +93328,53 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5011-735798c21b79c9b3.webp",
     "date_added": "2026-11-28"
+  },
+  {
+    "id": 5012,
+    "title": "Pokémon Stadium Trilogy Bundle",
+    "category": "decompilations-recompilations",
+    "link": "https://github.com/clearmoon247/kyujo-trilogy",
+    "video_link": "",
+    "platform": "Nintendo 64",
+    "genre1": "strategy",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [
+      {
+        "id": "android",
+        "label": "Android",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "linux",
+        "label": "Linux",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "nintendo-switch",
+        "label": "Nintendo Switch",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "classification": "downloadable",
+        "verification": "manual",
+        "evidence_url": ""
+      }
+    ],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5012-439b3ebab934fd96.webp",
+    "date_added": "2026-11-28"
   }
 ]
