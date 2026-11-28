@@ -93309,5 +93309,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5010-40817648c57648d0.webp",
     "date_added": "2026-11-28"
+  },
+  {
+    "id": 5011,
+    "title": "Gran Turismo 4 VR",
+    "category": "vr-ports",
+    "link": "https://github.com/matt-pulsipher/GT4-revisited",
+    "video_link": "",
+    "platform": "",
+    "genre1": "racing",
+    "genre2": "",
+    "series": "",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5011-735798c21b79c9b3.webp",
+    "date_added": "2026-11-28"
   }
 ]
