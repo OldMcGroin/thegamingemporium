@@ -93395,5 +93395,24 @@
     "show_in_recent": true,
     "image": "/Images/Games/manager-5013-fc700eab842169d9.webp",
     "date_added": "2026-11-28"
+  },
+  {
+    "id": 5014,
+    "title": "Pokémon Stadium Trilogy Nintendo Switch Port ",
+    "category": "console-ports",
+    "link": "https://github.com/clearmoon247/kyujo-trilogy",
+    "video_link": "",
+    "platform": "",
+    "genre1": "strategy",
+    "genre2": "creature-collector",
+    "series": "Pokemon",
+    "collection": "",
+    "ai_usage": "",
+    "weight": "",
+    "release_platforms": [],
+    "hidden": false,
+    "show_in_recent": true,
+    "image": "/Images/Games/manager-5014-04735e94f4353588.webp",
+    "date_added": "2026-11-28"
   }
 ]
